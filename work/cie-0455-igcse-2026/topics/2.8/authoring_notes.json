@@ -5,6 +5,11 @@
    "from": "subtype DIAGRAM on slot ITEM-0455-2.8-004-DIAGRAM",
    "to": "subtype SYNTH carrying the slot's assessment objectives (AO2, AO3) and the slot's Bloom level (Apply)",
    "why": "the v0.2.0 learning-items schema has no DIAGRAM subtype; SYNTH is the schema's carrier of joined AO2/AO3 reasoning. The marking guidance still names every DIAGRAM answer part (axes labelled, original curves drawn and labelled, the shift or movement in the correct direction, new equilibrium marked and labelled, what the diagram shows in words), the answer is a precise verbal walk-through of the supply diagram the syllabus guidance for 2.8.2 asks for, and the prompt avoids the words chart and graph because this subject declares no chart model and C-35 and C-41 would otherwise demand a rendered depiction."
+  },
+  {
+   "from": "command word Define on slot ITEM-0455-2.8-008-DEF (determinants of PES), prompt 'Define a determinant of price elasticity of supply'",
+   "to": "command word State (2 marks, the word's observed tariff), prompt 'State three determinants of price elasticity of supply'; subtype, AO1, Bloom level and tariff unchanged",
+   "why": "reviewer fix (step 6): 'Define' was attached to a syllabus heading that is not a term, giving an artificial prompt; State is a command word the 0455 papers use at 2 marks and is listed for this objective."
   }
  ]
 }

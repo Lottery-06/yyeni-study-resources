@@ -50,7 +50,7 @@
    "block_id": "2.11.2-b3",
    "block_type": "analysis_chain",
    "heading": "Price limits and their side-effects",
-   "text": "A maximum price holds a market price below where it would settle; a minimum price holds it above. Take bread held at N$8 against a N$10 market price: buyers want more, bakers offer less, and a shortage appears, with queues and empty shelves. A beef minimum of N$54 against a N$45 market price runs the other way: farmers offer more, buyers take less, and a surplus builds that someone must store or buy. Brazil has long used minimum prices for farm crops to hold up farm incomes - the surplus side-effect is why such schemes come with government purchase.",
+   "text": "A maximum price holds a market price below where it would settle; a minimum price holds it above. Take bread held at N$8 against a N$10 market price: buyers want more, bakers offer less, and a shortage appears, with queues and empty shelves. A beef minimum of N$54 against a N$45 market price runs the other way: farmers offer more, buyers take less, and a surplus builds that someone must store or buy. Brazil has used minimum prices to hold up farm incomes, and buys the resulting surplus.",
    "claim_ids": [
     "CLM-0455-2.11-006"
    ],
@@ -61,13 +61,15 @@
    "claims_seen": {
     "CLM-0455-2.11-006": 1
    },
-   "authored_hash": "2c046a86a8b14dbdc236e28952bd7912bbc7f5e8c05af1b3c1a5114c28194306"
+   "authored_hash": "5770349c6f99bd033ee56deed0a2283b8baf4102df7b9b7ba0dc7a423b5bfc18",
+   "prior_hash": "2c046a86a8b14dbdc236e28952bd7912bbc7f5e8c05af1b3c1a5114c28194306",
+   "repair_note": "Review fix: flashcard answers trimmed and labels removed; possessives restored in notes; P03 labels removed; Define prompt and objective wording"
   },
   {
    "block_id": "2.11.2-b4",
    "block_type": "worked_application",
    "heading": "A tax on the diagram, in words",
-   "text": "Picture the sugary drink market as a demand curve sloping down and a supply curve sloping up, price in N$ per litre on one axis, quantity in litres per week on the other, crossing at N$10 and 4 000 litres. An indirect tax of N$2 a litre raises supply costs, so supply shifts left and upward to a curve labelled S1; demand does not move. The new crossing sits at N$11 with 3 500 litres: consumers pay N$1 more a litre, sellers keep N$9 after the tax, and government collects N$2 x 3 500 = N$7 000 a week. The vertical gap between S and S1 is the N$2 tax; because supply slopes upward, the price rises by less than the tax. A subsidy is the diagram in reverse: paying millers N$5 a bag shifts supply right, tending to a lower price with more bags traded.",
+   "text": "Picture the sugary drink market: demand sloping down, supply sloping up, price in N$ per litre against quantity in litres per week, crossing at N$10 and 4 000 litres. An indirect tax of N$2 a litre raises supply costs, so supply shifts left and upward to a curve labelled S1; demand does not move. The new crossing sits at N$11 with 3 500 litres: consumers pay N$1 more a litre, sellers keep N$9 after the tax, and government collects N$2 x 3 500 = N$7 000 a week. Because supply slopes upward, the price rises by less than the N$2 tax. A subsidy works in reverse: paying millers N$5 a bag shifts supply right, tending to lower the price and raise the bags traded.",
    "claim_ids": [
     "CLM-0455-2.11-007"
    ],
@@ -78,9 +80,9 @@
    "claims_seen": {
     "CLM-0455-2.11-007": 1
    },
-   "authored_hash": "87ed464df2666fa9f591d799672ca247f8f45d8232e7e9d7d4750ff0ca2d8892",
-   "prior_hash": "d08b7268375852877af5d55920af2e2000ae0b275ea1ff5849feadf57e215ae0",
-   "repair_note": "Planner audit 2026-10-06 (diagram build): figures corrected so the drawn diagram is consistent - a point on a bowed curve, or an indirect tax on an upward-sloping supply curve raising price by less than the tax."
+   "authored_hash": "3f6934e0d37422153e71e1d166e5a9c6d432d9c7f5354e17611083b8a81ff5f4",
+   "prior_hash": "87ed464df2666fa9f591d799672ca247f8f45d8232e7e9d7d4750ff0ca2d8892",
+   "repair_note": "Review fix: flashcard answers trimmed and labels removed; possessives restored in notes; P03 labels removed; Define prompt and objective wording"
   },
   {
    "block_id": "2.11.2-b5",
@@ -126,7 +128,7 @@
    "block_id": "2.11.2-b7",
    "block_type": "cross_link",
    "heading": "Connections",
-   "text": "Market drawbacks that justify intervention are taught in topic 2.10, the market system in 2.9, the government wider aims in 4.1.",
+   "text": "Market drawbacks that justify intervention are taught in topic 2.10, the market system in 2.9, the government's wider aims in 4.1.",
    "claim_ids": [
     "CLM-0455-2.11-005"
    ],
@@ -137,8 +139,10 @@
    "claims_seen": {
     "CLM-0455-2.11-005": 1
    },
-   "authored_hash": "645ec90badd6a2495505d64bd1d33a3920f93e0c176f82c5fccb74d503bccad5"
+   "authored_hash": "eb9bd8194508dd954dfd5c139ccac68a59b6fe80075ff3485af307df5d08f451",
+   "prior_hash": "645ec90badd6a2495505d64bd1d33a3920f93e0c176f82c5fccb74d503bccad5",
+   "repair_note": "Review fix: flashcard answers trimmed and labels removed; possessives restored in notes; P03 labels removed; Define prompt and objective wording"
   }
  ],
- "word_count": 449
+ "word_count": 445
 }

@@ -24,7 +24,7 @@
    "mark_tariff": 2,
    "difficulty": 1,
    "prompt": "Define unemployment.",
-   "canonical_answer": "Unemployment means being without paid work while seeking it and able to start it: a person counted unemployed is of working age, without a paid job, and actively seeking one. A person who is not working and not seeking work is outside the labour force rather than unemployed, so the seeking and the availability belong inside the definition itself.",
+   "canonical_answer": "Unemployment means being of working age, without paid work, actively seeking work and able to start it. A person who is not working and not seeking work is outside the labour force rather than unemployed.",
    "marking_guidance": [
     "Precise definition: the meaning must cover being without paid work, seeking work and being able to start it, since a person not seeking work is not counted as unemployed."
    ],
@@ -43,7 +43,9 @@
    "claims_seen": {
     "CLM-0455-4.7-002": 1
    },
-   "authored_hash": "bb29658c8badd99d53ca20afbc3aa226d8f8e67f5df1ae22d952cf7297da6351",
+   "authored_hash": "71407ec3a14f12c02264690717480fb4de8404a87b47baa2987924b00b242bab",
+   "prior_hash": "bb29658c8badd99d53ca20afbc3aa226d8f8e67f5df1ae22d952cf7297da6351",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "definition of employment, unemployment and full employment"
    ]
@@ -68,7 +70,7 @@
    "mark_tariff": 2,
    "difficulty": 1,
    "prompt": "Identify the elements that together make a person unemployed rather than outside the labour force.",
-   "canonical_answer": "Three elements together make a person unemployed. First, being without paid work: the person holds no job. Second, seeking work: the person is actively looking for one, which separates the unemployed from a retiree in Swakopmund who has left the labour force. Third, being able to start work: the person could take a job at once, which separates the unemployed from a full-time student. Where the three hold together, the person is counted unemployed; where one is missing, the person is outside the labour force.",
+   "canonical_answer": "Three elements must hold together: the person is without paid work, is actively seeking work, and is able to start at once. A retiree who seeks no work, or a full-time student who cannot start, is outside the labour force instead.",
    "marking_guidance": [
     "Elements: the features named must be the tests of the definition - without work, seeking work, able to start work - and not a list of groups of people."
    ],
@@ -88,7 +90,9 @@
     "CLM-0455-4.7-002": 1,
     "CLM-0455-4.7-004": 1
    },
-   "authored_hash": "ac7195b64249b7aeaa89eb7e854b8e5e1c57fd5dbf6bb765b2888a0d72375ce4",
+   "authored_hash": "724031b4bc5c23c25f7fe0e9de44f808746702ada0aceb7096f58c298639650c",
+   "prior_hash": "ac7195b64249b7aeaa89eb7e854b8e5e1c57fd5dbf6bb765b2888a0d72375ce4",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "definition of employment, unemployment and full employment"
    ]
@@ -112,7 +116,7 @@
    "mark_tariff": 2,
    "difficulty": 3,
    "prompt": "Define the pattern of employment.",
-   "canonical_answer": "The pattern of employment is the split of a country's employed workers across sectors - primary, secondary and tertiary - and across occupations, regions, and public and private, formal and informal work. A changing pattern means these shares are shifting, such as the share of tertiary work rising as an economy develops, rather than the total number of jobs changing, which the level of employment names.",
+   "canonical_answer": "The pattern of employment is how a country's employed workers are split across sectors (primary, secondary and tertiary), occupations and regions, and between public and private and formal and informal work. It differs from the level of employment, the total number in work.",
    "marking_guidance": [
     "Precise definition: the meaning must name the shares being split - sectors, occupations, regions, public and private, formal and informal - since a definition of the pattern that stops at one split is incomplete."
    ],
@@ -131,7 +135,9 @@
    "claims_seen": {
     "CLM-0455-4.7-006": 1
    },
-   "authored_hash": "a71df2afde111759edd7a57456086ae04992062df6e703aa2fe34c99c3e80c0f",
+   "authored_hash": "a7514fe6a999b5e6b745575fdd5ff8b3feacaecbafac5d53a8bb56de1aa6d6f7",
+   "prior_hash": "a71df2afde111759edd7a57456086ae04992062df6e703aa2fe34c99c3e80c0f",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "changing patterns and level of employment"
    ]
@@ -157,7 +163,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "As Namibia's economy develops, households grow richer and spend more on services and less of their income on food. Analyse how development is likely to change the pattern of employment.",
-   "canonical_answer": "Starting point: incomes rise as the economy develops, and household spending shifts towards services and manufactured goods. Mechanism: because richer households spend a smaller share of income on farm goods, demand for primary products grows slowly, so farm work sheds its share of workers; because spending on tourism, transport, shops and offices grows faster, firms in the tertiary sector take on more staff. This causes the pattern of employment to shift workers from primary into tertiary occupations over the years of development, and a turn towards a market economy tends to shrink the public-sector share as private firms take on more of the hiring. Consequence: therefore the share of workers in services rises, the primary share falls, and the formal share of work tends to rise with it. For whom: workers gain new openings in services but face retraining, firms in growing sectors gain a wider choice of staff while farm employers see workers leave, and the economy gains a workforce matched to what richer customers buy.",
+   "canonical_answer": "As incomes rise with development, households spend a smaller share on food and a larger share on services and manufactured goods. Because demand for farm products grows slowly, farming's share of workers falls; because spending on tourism, transport, shops and offices grows faster, tertiary firms take on more staff. Over the years the pattern of employment shifts from primary towards tertiary work, the formal share tends to rise, and a move towards a market economy tends to shrink the public-sector share as private firms do more of the hiring. Workers find new openings in services but may need retraining, farm employers lose workers, and service firms gain a wider choice of staff.",
    "marking_guidance": [
     "Starting point: the initial change - incomes rising and spending shifting towards services - must be stated.",
     "Mechanism: because spending shifts between goods, this causes the shares of workers in each sector to move.",
@@ -181,7 +187,9 @@
     "CLM-0455-4.7-007": 1,
     "CLM-0455-4.7-008": 1
    },
-   "authored_hash": "c697abeb59c45d107be9dab05794c8327df71c114e9cafff72ed704c628c1067",
+   "authored_hash": "53a7047914e474c8dcaea5a07f66f2503d1b9c1f46f63033f1f3136062a6883d",
+   "prior_hash": "c697abeb59c45d107be9dab05794c8327df71c114e9cafff72ed704c628c1067",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "changing patterns and level of employment"
    ]
@@ -207,7 +215,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "In Windhoek, the share of workers in tertiary jobs rose from 58% in 2016 to 66% in 2026, while the primary share fell from 7% to 4%. Using the figures, explain what changed in the pattern of employment and why.",
-   "canonical_answer": "Context: the figures show the tertiary share rising from 58% to 66% and the primary share falling from 7% to 4% between 2016 and 2026. Reasoning: because incomes in the city grew over the decade, households spent a larger share on services - shops, restaurants, banking, tourism - so tertiary firms took on more of the city's workers, while mechanised farming and imports supplied food with fewer workers. Conclusion: therefore the pattern of employment shifted further towards tertiary work, by 8 percentage points in the tertiary share, which is the shape development gives a city's jobs.",
+   "canonical_answer": "Between 2016 and 2026 Windhoek's tertiary share rose from 58% to 66%, a gain of 8 percentage points, while the primary share fell from 7% to 4%. Because incomes in the city grew, households spent more on services such as shops, restaurants, banking and tourism, so tertiary firms hired more of the city's workers, while food came from mechanised farms and imports. Therefore the pattern of employment shifted further towards tertiary work, the usual shape of development.",
    "marking_guidance": [
     "Context: the figures - the 58% to 66% tertiary rise and the 7% to 4% primary fall - must be used to anchor the answer.",
     "Reasoning: the link from rising incomes to service spending to hiring must be given, because a quoted share explains nothing on its own.",
@@ -229,7 +237,9 @@
     "CLM-0455-4.7-006": 1,
     "CLM-0455-4.7-007": 1
    },
-   "authored_hash": "22ed52e9765833a9c10353ec4c785e9ed70841bac9faaf037b1023e5dec4a4b2",
+   "authored_hash": "b63fcddea26f067341381fd3d722a07b68de0728f29611d5d12494c8e8fe0418",
+   "prior_hash": "22ed52e9765833a9c10353ec4c785e9ed70841bac9faaf037b1023e5dec4a4b2",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "changing patterns and level of employment"
    ]
@@ -252,8 +262,8 @@
    "command_word": "Define",
    "mark_tariff": 2,
    "difficulty": 2,
-   "prompt": "Define the claimant count as a measure of unemployment.",
-   "canonical_answer": "The claimant count is a measure of unemployment that records the number of people registered as seeking work and claiming government support for the unemployed. It is gathered from benefit records, which makes it quick to produce, and it tends to fall short of total unemployment because it misses job seekers who cannot claim support or do not register.",
+   "prompt": "Define the claimant count.",
+   "canonical_answer": "The claimant count measures unemployment as the number of people registered as seeking work and claiming government support for the unemployed. It is quick to gather from benefit records but tends to miss job seekers who cannot claim or do not register.",
    "marking_guidance": [
     "Precise definition: the meaning must cover registration and claiming support, and the measure's reach - what it misses - must be part of the definition."
    ],
@@ -272,7 +282,9 @@
    "claims_seen": {
     "CLM-0455-4.7-010": 1
    },
-   "authored_hash": "51be8ce3ef0e213bcdaec4beaf0b046e3cb13c75176d0f22bfa4ee45aad0130d",
+   "authored_hash": "18069cbb9f080790295f0f72b4155ce30811312cec45edb477ba9c58282176a1",
+   "prior_hash": "e35b34add6efe945a9a70f8f0c04654d54fecbc69856ab6ac87c30d68054d144",
+   "repair_note": "Reviewer: removed syllabus-heading qualifiers from Define prompts, distinguished prompts duplicated across topics, and replaced the leaked 'for whom:' label in the essay plan",
    "objective_titles": [
     "measurement of unemployment"
    ]
@@ -296,7 +308,7 @@
    "mark_tariff": 1,
    "difficulty": 2,
    "prompt": "The labour force of Hardap region is 90 000 workers. Of these, 7 200 are without work and actively seeking it. Calculate the unemployment rate of Hardap region.",
-   "canonical_answer": "Formula: unemployment rate = (number unemployed / labour force) x 100. Substitution: unemployment rate = 7 200 / 90 000 x 100. Answer with units: 8%.",
+   "canonical_answer": "Unemployment rate = (number unemployed / labour force) x 100. Here 7 200 / 90 000 = 0.08, so the unemployment rate of Hardap region is 8%.",
    "marking_guidance": [
     "Formula: unemployment rate = (number unemployed / labour force) x 100 must be stated or used.",
     "Substitution: the working shows the figures put into the formula - 7 200 unemployed and 90 000 in the labour force.",
@@ -317,7 +329,9 @@
    "claims_seen": {
     "CLM-0455-4.7-012": 1
    },
-   "authored_hash": "31d611b8b7d75b01734957ae3176a33952fc5ca7522da9368787682a76dd55b5",
+   "authored_hash": "b443e7ddcbbd686f65ea329d31dfa80ad2b5f367c96aeff2f4838ce1f6812a74",
+   "prior_hash": "31d611b8b7d75b01734957ae3176a33952fc5ca7522da9368787682a76dd55b5",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "measurement of unemployment"
    ]
@@ -344,7 +358,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "In Karas region over five years, the labour force survey has recorded more unemployed people than the claimant count in each year. In 2026 the survey records 6 000 unemployed while the claimant count records 4 500. Explain what the data shows about the two measures and why they differ.",
-   "canonical_answer": "What the data shows is a consistent relationship: the survey measure sits above the claimant count in each of the five years, catching 4 500 of the survey's 6 000 unemployed in 2026. Supporting evidence by comparison: the survey records 6 000 unemployed against the register's 4 500, so the register misses 1 500 unemployed people the survey finds. Why: the explanation of the relationship is that the two measures define their catch differently - the survey counts anyone without work, available and recently seeking, including people who cannot claim support or do not register, while the claimant count records registered claimants alone, so seekers outside the benefit rules are counted by one measure and missed by the other. However, the gap can narrow or reverse: where claiming rules loosen, the register rises without work being lost, so the exception shows the two measures answer to their definitions rather than to each other.",
+   "canonical_answer": "The survey records more unemployed people than the claimant count in each of the five years; in 2026 it finds 6 000 against 4 500, so the claimant count misses 1 500 unemployed people. The gap arises because the survey counts anyone without work, available and recently seeking, while the claimant count records registered claimants alone, so seekers who cannot claim or do not register are missed. However, the gap can narrow if claiming rules loosen, because the claimant count then rises without any change in work.",
    "marking_guidance": [
     "What the data shows: the relationship - the survey above the claimant count in each year - must be stated.",
     "Supporting evidence: a comparison from the data - 6 000 against 4 500 in 2026 - must back the relationship.",
@@ -368,7 +382,9 @@
     "CLM-0455-4.7-011": 1,
     "CLM-0455-4.7-013": 1
    },
-   "authored_hash": "5a76977e8db691202750e03c6188d507923c8aa60eec276eb2005914691bfdd0",
+   "authored_hash": "88d1df3284ce0e6e239fa8628b5f9bc572adb9f7e47589cb9565f4bceeefd856",
+   "prior_hash": "5a76977e8db691202750e03c6188d507923c8aa60eec276eb2005914691bfdd0",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "measurement of unemployment"
    ]
@@ -394,7 +410,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "A government reports its unemployment figures from the claimant count alone. This year the claimant count shows a fall of 3 000 registered unemployed, while the labour force survey shows unemployment unchanged. Using the figures, explain why the announced fall may not mean unemployment has fallen.",
-   "canonical_answer": "Context: the figures show the register falling by 3 000 unemployed while the survey finds unemployment unchanged. Reasoning: because the claimant count measures registered claimants rather than all seekers, a change in the benefit rules or in who registers moves the register without a single job being found - some seekers remain jobless but stop claiming, so they leave the count while staying unemployed, and the survey, which asks households directly, still finds them. Conclusion: therefore the announced fall may reflect a narrower net rather than fewer unemployed, which means that a government quoting the register alone is describing its benefit rules as much as its jobs.",
+   "canonical_answer": "The claimant count fell by 3 000 while the survey shows unemployment unchanged. Because the claimant count records registered claimants rather than all job seekers, a change in benefit rules or in who registers moves it without any job being found: people who stop claiming leave the count but stay jobless, and the survey, which asks households directly, still finds them. Therefore the announced fall is likely to reflect a narrower count rather than fewer unemployed people.",
    "marking_guidance": [
     "Context: the figures - the register down by 3 000 while the survey is unchanged - must be used.",
     "Reasoning: the link from benefit rules to register movements must be given, because a falling register alone explains nothing.",
@@ -416,7 +432,9 @@
     "CLM-0455-4.7-010": 1,
     "CLM-0455-4.7-013": 1
    },
-   "authored_hash": "a9ca6aa40afebb5ac977ba2bfb11519bd5f5570ad0603d9efb782f6366d92ed8",
+   "authored_hash": "400fbf8008abba58e3d00865751ed6cda1a942984d4308f30fe403e5a8498ddd",
+   "prior_hash": "a9ca6aa40afebb5ac977ba2bfb11519bd5f5570ad0603d9efb782f6366d92ed8",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "measurement of unemployment"
    ]
@@ -440,7 +458,7 @@
    "mark_tariff": 2,
    "difficulty": 3,
    "prompt": "Define structural unemployment.",
-   "canonical_answer": "Structural unemployment is unemployment caused by a lasting change in what the economy makes or how it makes it: machines replace hand tasks, a product is displaced by a new one, or the skills workers hold no longer match the skills employers seek. The jobs lost do not tend to return when spending recovers, so the workers affected often need retraining or a move to where new work is.",
+   "canonical_answer": "Structural unemployment is unemployment caused by a lasting change in what the economy produces or how it produces it, such as machines replacing workers or skills no longer matching what employers seek. The lost jobs do not tend to return when spending recovers.",
    "marking_guidance": [
     "Precise definition: the meaning must name the lasting change - in products, methods or skills - and the fact that the jobs do not tend to return with a recovery."
    ],
@@ -459,7 +477,9 @@
    "claims_seen": {
     "CLM-0455-4.7-015": 1
    },
-   "authored_hash": "7026a8abed9c698f0f2ad81b830b3ea4d25134f3126bc10a12a8f8dade966bd0",
+   "authored_hash": "9334873168ad51ee5353c3e4dd2a7f99b82006f32013cd17bea4c07e9fa5bd9c",
+   "prior_hash": "7026a8abed9c698f0f2ad81b830b3ea4d25134f3126bc10a12a8f8dade966bd0",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "causes/types of unemployment"
    ]
@@ -484,7 +504,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "Total spending across the Namibian economy falls in a downturn, and firms in every sector report weaker sales. Analyse how this downturn is likely to affect employment and unemployment.",
-   "canonical_answer": "Starting point: total spending across the economy falls in the downturn. Mechanism: because customers buy less, firms sell less, so output is cut and workers' hours are reduced and posts are shed - this causes cyclical unemployment to rise across sectors at once, from building sites in Windhoek to lodges outside Etosha. Because jobless households lose wages, their spending falls in a second round, extending the job losses beyond the sectors first hit. Consequence: therefore employment falls and unemployment rises, and the jobs shed tend to return as spending recovers, which is what marks the unemployment as cyclical. For whom: workers face lost hours and posts, firms lose revenue while their wage bill eases, the government collects less tax and pays more support, and the economy loses the output the jobless would have produced.",
+   "canonical_answer": "When total spending falls in the downturn, firms sell less, so they cut output, reduce hours and shed posts across sectors, from Windhoek building sites to lodges near Etosha. Because jobless households lose their wages, they spend less in a second round, spreading job losses beyond the sectors first hit. Therefore employment falls and cyclical unemployment rises, though the jobs tend to return as spending recovers. Workers lose hours and income, firms lose revenue, the government collects less tax while paying more support, and the economy loses the output the jobless could have produced.",
    "marking_guidance": [
     "Starting point: the initial change - total spending falling - must be stated.",
     "Mechanism: because firms sell less, this causes hours and posts to be cut across sectors.",
@@ -507,7 +527,9 @@
     "CLM-0455-4.7-016": 1,
     "CLM-0455-4.7-009": 1
    },
-   "authored_hash": "353a03a4784070a3d7c720ed0d18fa246c9d0065afd81cb50e862944d5501692",
+   "authored_hash": "bf5fc369e25c06dca72bf3fffd041a7132af0ea73f397ddfdc1047412a928277",
+   "prior_hash": "353a03a4784070a3d7c720ed0d18fa246c9d0065afd81cb50e862944d5501692",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "causes/types of unemployment"
    ]
@@ -533,7 +555,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Kaoko Juice in Opuwo installs automated bottling lines and reduces its bottling hall from 60 workers to 24 during a year when juice demand and total spending are rising. Using the context, explain why the job losses are structural rather than cyclical unemployment.",
-   "canonical_answer": "Context: the figures show the firm shedding 36 of its 60 bottling workers while demand and total spending are rising. Reasoning: because cyclical unemployment comes from a fall in spending and the context shows spending rising, the job losses cannot ride the cycle; they come from a lasting change in how the juice is bottled - machines now do the work of people - which is the definition of structural unemployment, and the posts do not tend to return with the next recovery since the machines remain. Conclusion: therefore the losses are structural, and the response they ask for is retraining or a move to new work, not waiting for demand to recover.",
+   "canonical_answer": "Kaoko Juice cut its bottling hall from 60 to 24 workers, shedding 36, while juice demand and total spending were rising. Cyclical unemployment comes from falling spending, so it cannot explain these losses. Instead, machines now do the bottling, a lasting change in production method, and the posts will not return with a recovery because the machines stay. Therefore the losses are structural, and the workers affected need retraining or a move to new work rather than a wait for demand.",
    "marking_guidance": [
     "Context: the figures - 36 of 60 bottling workers shed while spending rises - must be used.",
     "Reasoning: the link from the lasting change in method to the type of unemployment must be given, because the type is named by its cause.",
@@ -555,7 +577,9 @@
     "CLM-0455-4.7-015": 1,
     "CLM-0455-4.7-016": 1
    },
-   "authored_hash": "49988224c227375fabbb033b5f2d18775c8006f16cf6089e8ac3dd9c435492c8",
+   "authored_hash": "e9ad2f1369ac012d4acd17418f8a71691e9988571b53ddb6b5f71f80f8e8f085",
+   "prior_hash": "49988224c227375fabbb033b5f2d18775c8006f16cf6089e8ac3dd9c435492c8",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "causes/types of unemployment"
    ]
@@ -570,19 +594,19 @@
     "CLM-0455-4.7-021"
    ],
    "item_type": "flashcard",
-   "subtype": "DEF",
+   "subtype": "FEATURE",
    "assessment_objectives": [
     "AO1"
    ],
    "blooms_level": "Remember",
-   "blooms_level_basis": "subtype DEF",
-   "command_word": "Define",
+   "blooms_level_basis": "subtype FEATURE",
+   "command_word": "Identify",
    "mark_tariff": 2,
    "difficulty": 3,
-   "prompt": "Define the consequences of unemployment for the economy as a whole.",
-   "canonical_answer": "The consequences of unemployment for the economy as a whole are the effects that follow from people being without work: total output is lost, because the goods and services the jobless could produce go unmade; tax revenue falls while spending on support rises, which strains the budget; and skills fade over long spells, which lowers the economy's capacity to produce. A consequence is an effect that unemployment produces - the direction runs from unemployment to the outcome - which keeps these results separate from the downturns and closures that cause unemployment.",
+   "prompt": "Identify two consequences of unemployment for the economy as a whole.",
+   "canonical_answer": "Lost output: the goods and services the unemployed could have produced go unmade. A strained government budget: tax revenue falls while spending on support for the unemployed rises.",
    "marking_guidance": [
-    "Precise definition: the meaning must name the whole-economy effects - lost output, the budget strain, fading skills - and run in the right direction, from unemployment to the outcome."
+    "Elements: any two whole-economy consequences - lost output; a strained budget, with less tax collected and more paid in support; or skills fading over long spells, which lowers what the economy can produce. A cause of unemployment, such as a fall in spending, is not a consequence and earns nothing."
    ],
    "context": {
     "sector": null,
@@ -600,7 +624,9 @@
     "CLM-0455-4.7-020": 1,
     "CLM-0455-4.7-021": 1
    },
-   "authored_hash": "49c45bb3b57c8c174ea4f85d3852687a9e145b2879ef19971fd76bbb1ab4f34e",
+   "authored_hash": "3f4c6303c9fb2e92c307f9d446077bf3b0418e7fc418844677da7e67fe243c51",
+   "prior_hash": "49c45bb3b57c8c174ea4f85d3852687a9e145b2879ef19971fd76bbb1ab4f34e",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "consequences of unemployment"
    ]
@@ -626,7 +652,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "The closure of Otavi's copper smelter leaves 900 workers jobless in the town. Analyse the likely consequences for the town's economy.",
-   "canonical_answer": "Starting point: 900 workers lose their pay when the smelter closes. Mechanism: because household income in Otavi falls, spending in the town's shops, taxis and markets drops, so shopkeepers sell less and cut their own staff - this causes a second round of joblessness the closure did not touch directly, and the hauliers and suppliers who served the smelter lose its orders too. Consequence: therefore the town's output and sales fall, its tax payments to the region shrink while support claims rise, and the skills of long-idled smelter workers fade, making re-employment harder with time. For whom: workers and their households lose income, shopkeepers and landlords lose customers and rent, the regional government loses revenue while paying more support, and the town's economy loses the spending and output the smelter wages once carried.",
+   "canonical_answer": "When the smelter closes, 900 Otavi workers lose their pay. Because household income falls, spending in the town's shops, taxis and markets drops, so shopkeepers sell less and cut their own staff, and the hauliers and suppliers who served the smelter lose its orders: a second round of job losses. Therefore the town's output and sales fall, the government collects less tax while paying more support, and long-idle smelter workers lose skills, making re-employment harder. Households lose income, shopkeepers and landlords lose customers, the government loses revenue, and the town loses output.",
    "marking_guidance": [
     "Starting point: the initial change - 900 workers losing their pay - must be stated.",
     "Mechanism: because household income falls, this causes weaker spending and a second round of joblessness.",
@@ -650,7 +676,9 @@
     "CLM-0455-4.7-019": 1,
     "CLM-0455-4.7-020": 1
    },
-   "authored_hash": "b026fb5d56a5c7826833af1e8347fe285211437657dee812d9127d13d2120c2b",
+   "authored_hash": "f41c0b0ef504f4ccb1a33165acff926e30ac5c3501c91dd3a5878d841a87edeb",
+   "prior_hash": "b026fb5d56a5c7826833af1e8347fe285211437657dee812d9127d13d2120c2b",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "consequences of unemployment"
    ]
@@ -675,7 +703,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "After losing her job, a Katutura shop assistant's household income falls from N$6 400 a month to N$2 100 a month of support payments. Using the figures, explain the consequences of unemployment for her household.",
-   "canonical_answer": "Context: the figures show household income falling from N$6 400 a month to N$2 100 a month, a loss of N$4 300 a month. Reasoning: because the household's income has fallen by more than half, spending on food, school fees and rent must be cut, so the household's living standard drops and debts may build, and her shop skills fade while she is out of work, which makes returning to a shop job harder the longer the spell lasts. Conclusion: therefore the figures mean the household is poorer each month and less secure, which is the private consequence of unemployment that arrives before any effect on firms or the wider economy.",
+   "canonical_answer": "Household income falls from N$6 400 to N$2 100 a month, a loss of N$6 400 - N$2 100 = N$4 300 a month, about two-thirds of it. Because so much income is gone, the household must cut spending on food, school fees and rent, so its living standard falls and debts may build. Her shop skills also fade while she is out of work, making a return harder the longer the spell lasts. Therefore unemployment leaves the household poorer and less secure.",
    "marking_guidance": [
     "Context: the figures - N$6 400 a month falling to N$2 100 a month - must be used.",
     "Reasoning: the link from lost income to cut spending and fading skills must be given, because the figures alone explain nothing.",
@@ -696,7 +724,9 @@
    "claims_seen": {
     "CLM-0455-4.7-018": 1
    },
-   "authored_hash": "b715413e2c4975ae49638bec08dc4aacc14834456d5bba86dbbd1b920e17dca9",
+   "authored_hash": "bc5ecbe8d5046ba6f0ae6ab72e068bf76e06cc0920e81117e24930a125a4847d",
+   "prior_hash": "b715413e2c4975ae49638bec08dc4aacc14834456d5bba86dbbd1b920e17dca9",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "consequences of unemployment"
    ]
@@ -710,19 +740,19 @@
     "CLM-0455-4.7-022"
    ],
    "item_type": "flashcard",
-   "subtype": "DEF",
+   "subtype": "FEATURE",
    "assessment_objectives": [
     "AO1"
    ],
-   "blooms_level": "Understand",
-   "blooms_level_basis": "subtype DEF",
-   "command_word": "Define",
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype FEATURE",
+   "command_word": "Identify",
    "mark_tariff": 2,
    "difficulty": 4,
-   "prompt": "Define a policy to reduce unemployment.",
-   "canonical_answer": "A policy to reduce unemployment is a government measure intended to raise the number of people in work. Such policies work through two doors: demand-side measures, which lift total spending so firms sell more and take on staff - public building projects, tax cuts - and supply-side measures, which make job seekers easier to hire - vocational training, education, job-placement help. Defining the range this way keeps the lever of each policy in view, which is what judging its effectiveness rests on.",
+   "prompt": "Identify the two kinds of policy a government can use to reduce unemployment, giving an example of each.",
+   "canonical_answer": "Demand-side policies raise total spending so that firms sell more and hire, for example public building projects or tax cuts. Supply-side policies make job seekers easier to hire, for example vocational training or job-placement help.",
    "marking_guidance": [
-    "Precise definition: the meaning must name the purpose, raising the number in work, and the two doors - lifting spending and raising employability."
+    "Elements: both kinds must be named - demand-side policies that raise total spending, and supply-side policies that make job seekers easier to hire - each with a fitting example."
    ],
    "context": {
     "sector": null,
@@ -739,7 +769,9 @@
    "claims_seen": {
     "CLM-0455-4.7-022": 1
    },
-   "authored_hash": "5a9ec7b72d1cf9d353bb8574a7861973339417974ac1bc1778d3532a4a3c057d",
+   "authored_hash": "be146166ad24ec9b0ba854498a61b0422abb52dcc7149f86315c54b81d133775",
+   "prior_hash": "5a9ec7b72d1cf9d353bb8574a7861973339417974ac1bc1778d3532a4a3c057d",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "policies to reduce unemployment"
    ]
@@ -764,7 +796,7 @@
    "mark_tariff": 6,
    "difficulty": 4,
    "prompt": "The Namibian government funds a vocational training programme in Windhoek for 5 000 young job seekers a year, teaching logistics, hospitality and building trades. Analyse the benefits of this policy to reduce unemployment.",
-   "canonical_answer": "One benefit is easier hiring: because the graduates hold the skills employers advertise - warehouse work, hospitality, building - firms are likely to fill vacancies from the programme, so the jobless move from the register into posts that pay, and 5 000 trained seekers a year gain that route. A second benefit is the spending that follows: because each graduate earns a wage again, household spending rises, and the shops and suppliers they buy from take on staff in a second round. A third benefit is lasting capacity: the training lifts the skills of the workforce, so the economy can produce more and the jobs its graduates find tend to outlast the programme itself. For whom: young job seekers gain skills, earnings and steadier work; firms gain applicants they can use at once; the government gains tax revenue and lower support payments; and the economy gains a more skilled workforce and the output it produces.",
+   "canonical_answer": "First, it makes hiring easier: graduates hold the logistics, hospitality and building skills employers advertise, so firms are likely to fill vacancies from the programme, and up to 5 000 young people a year can move into paid posts. Second, spending follows: each graduate earns a wage again, so household spending rises and shops and suppliers take on staff in a second round. Third, capacity grows: a more skilled workforce lets the economy produce more, so the jobs tend to outlast the programme. Young job seekers gain skills and earnings, firms gain ready applicants, the government collects more tax and pays less support, and the economy gains output.",
    "marking_guidance": [
     "Benefit: each advantage must be stated as a benefit of the training policy - employability, spending, capacity.",
     "Because: the reasoning must link the measure to its effect - skills taught lead to hiring, wages lead to spending.",
@@ -786,7 +818,9 @@
     "CLM-0455-4.7-024": 1,
     "CLM-0455-4.7-025": 1
    },
-   "authored_hash": "d646f9e9e51c1499c7ffc2c75099854b8cfad6070e822715ffd2b3d7a6a920c3",
+   "authored_hash": "904b7b692ac7e6221d695ba795d0fc971e35c876204442070a024b5801765064",
+   "prior_hash": "d646f9e9e51c1499c7ffc2c75099854b8cfad6070e822715ffd2b3d7a6a920c3",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "policies to reduce unemployment"
    ]
@@ -811,7 +845,7 @@
    "mark_tariff": 6,
    "difficulty": 4,
    "prompt": "A government launches a two-year public works programme that hires 20 000 job seekers to build rural roads, funded by borrowing. Analyse the limitations of this policy to reduce unemployment.",
-   "canonical_answer": "One limitation is the ending: because the programme is funded for two years, the 20 000 road jobs cease with it, so the unemployment it eased is likely to return unless other work has grown by then - the jobs last as long as the demand does. A second limitation is the cost: borrowing N$1.2 billion to fund the roads must be repaid with interest, which weighs on future budgets and may crowd out other spending, from clinics to classrooms. A third limitation is the mismatch: road building uses muscle more than the skills a modern economy seeks, so the programme may leave its workers little more employable than before, where training would have changed that. For whom: taxpayers and future budgets carry the repayment, programme workers gain two years of pay but may return to the register at the end, and firms outside the road projects gain little direct help.",
+   "canonical_answer": "First, the jobs end with the programme: after two years the 20 000 road jobs stop, so unemployment is likely to return unless other work has grown by then. Second, it is costly: the borrowing must be repaid with interest, which weighs on future budgets and may squeeze other spending such as clinics and schools. Third, it does little for skills: road building leaves workers little more employable than before, unlike training. Taxpayers carry the repayment, programme workers gain two years of pay but may be jobless again afterwards, and firms outside road building gain little direct help.",
    "marking_guidance": [
     "Limitation: each drawback must be stated as a limitation of the public works programme - the ending, the cost, the mismatch.",
     "Because: the reasoning must say why each drawback arises - the funding stops, the borrowing is repaid, the skills taught do not match the market.",
@@ -833,7 +867,9 @@
     "CLM-0455-4.7-023": 1,
     "CLM-0455-4.7-025": 1
    },
-   "authored_hash": "d77b87e7c603320f4e1aace36b5522fe25642de1dc9123d786ee48368832726a",
+   "authored_hash": "bfae0314bc7cde396d78a08362ab865514cb04d6ee88804d3c33e94e775bf99f",
+   "prior_hash": "d77b87e7c603320f4e1aace36b5522fe25642de1dc9123d786ee48368832726a",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "policies to reduce unemployment"
    ]
@@ -859,7 +895,7 @@
    "mark_tariff": 8,
    "difficulty": 5,
    "prompt": "Discuss whether vocational training is the best policy a government can use to reduce unemployment.",
-   "canonical_answer": "Why it might: the argument for is that training answers the unemployment that lasts. Because structural joblessness comes from missing skills and vanished industries, teaching the skills employers seek moves jobless workers into posts that exist, and the jobs its graduates find tend to outlast any programme, so the gains persist after the spending ends - Namibia's training centres and the Netherlands' apprenticeships point the same way. Why it might not: the argument against is fit, cost and speed. Where unemployment is cyclical - a downturn's weak spending - training teaches a worker skills while no posts wait, so the register barely moves; measures that lift spending act on that type within months, and training programmes cost public money over years while their results build slowly. Judgement: on balance vocational training is the best single policy where structural unemployment dominates, because it changes what job seekers can do rather than waiting for demand. What settles it is the type of unemployment the government faces: it depends on the cause - a lasting change in products or skills points to training as the centre of the programme, while a fall in total spending points to demand-side measures first, with training held for the structural share that remains.",
+   "canonical_answer": "Vocational training may be the best policy because it tackles unemployment that lasts. Structural unemployment comes from missing skills and vanished industries, so teaching the skills employers seek moves jobless workers into posts that exist, and the jobs tend to outlast the programme. It may not be the best, because it fits some unemployment badly. Where unemployment is cyclical, caused by weak spending, trained workers find no posts waiting, while measures that raise spending can act within months; training also costs public money for years before results show. On balance, vocational training is the best single policy where structural unemployment dominates, because it changes what job seekers can do. What settles it is the cause: a fall in total spending calls for demand-side measures first, with training kept for the structural share that remains.",
    "marking_guidance": [
     "Judgement: the answer must reach a judgement, and it depends must be answered by naming the condition - the type of unemployment.",
     "Why it might: the argument for must be developed - training answers structural unemployment and its gains persist.",
@@ -883,7 +919,9 @@
     "CLM-0455-4.7-024": 1,
     "CLM-0455-4.7-025": 1
    },
-   "authored_hash": "39906a0e0202113a041409633f59ba36056e2f5830673ecc3e9b0b3833bc100f",
+   "authored_hash": "8401be15e24f918e4ac6631f0b80fb6d13cca8b8de240e8a5fdc5c240f4800e2",
+   "prior_hash": "39906a0e0202113a041409633f59ba36056e2f5830673ecc3e9b0b3833bc100f",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "policies to reduce unemployment"
    ]
@@ -909,7 +947,7 @@
    "mark_tariff": 4,
    "difficulty": 4,
    "prompt": "After a drought weakened farm incomes, 4 000 workers left Otavi's commercial farms, and the town reports them jobless. The government responds with training in irrigation technology, while farm suppliers in the area are advertising 600 technician posts. Using the context, explain whether this policy is likely to reduce unemployment in the area.",
-   "canonical_answer": "Context: the figures show 4 000 workers jobless after the drought and 600 technician posts advertised in irrigation. Reasoning: because the training teaches the exact skills the advertised posts seek, graduates are likely to fill the 600 technician vacancies first, so part of the joblessness eases directly, and because irrigated farming raises output once installed, further posts in installation and maintenance may follow, easing more of the 4 000 over time. The limit the context also shows: 600 posts against 4 000 jobless places fewer than one in six, so the policy is likely to reduce unemployment without ending it, and the rest needs farm recovery, new employers or a move. Conclusion: therefore the training is likely to cut the area's unemployment where the skills match the vacancies, and its reach is set by how many posts the changing farms create.",
+   "canonical_answer": "The drought left 4 000 workers jobless, and farm suppliers are advertising 600 irrigation technician posts. Because the training teaches exactly the skills those posts need, graduates are likely to fill them, and irrigated farming may create further installation and maintenance work. But 600 posts cover fewer than one in six of the 4 000 jobless, so the rest need farm recovery, new employers or a move. Therefore the policy is likely to reduce unemployment in the area without ending it.",
    "marking_guidance": [
     "Context: the figures - 4 000 jobless against 600 advertised posts - must be used.",
     "Reasoning: the link from taught skills to filled vacancies must be given, because a matching vacancy is what turns training into work.",
@@ -931,7 +969,9 @@
     "CLM-0455-4.7-024": 1,
     "CLM-0455-4.7-025": 1
    },
-   "authored_hash": "c5e50a32d86342c919db4d66f9f9b9d234de5e94367ae4d69e899bccaba980ca",
+   "authored_hash": "d59022cac5ff5d3f5740277712558cfe65de5aded50459f07b99ed947a479575",
+   "prior_hash": "c5e50a32d86342c919db4d66f9f9b9d234de5e94367ae4d69e899bccaba980ca",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "policies to reduce unemployment"
    ]
@@ -956,7 +996,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "Facing a cyclical downturn, the government raises public building spending and cuts the rate of income tax. Analyse how these policies are likely to affect unemployment.",
-   "canonical_answer": "Starting point: the government raises public building spending and cuts income tax in a downturn. Mechanism: because building projects order materials and labour, construction firms take workers on from the register, and because the tax cut leaves households with more of each wage, spending on goods and services rises, so firms in shops and transport sell more and hire - this causes the demand for labour to rise, and because a downturn with idle workers shows the economy has spare capacity, the extra income earned is spent again in further rounds, so hiring spreads. Consequence: therefore cyclical unemployment tends to fall, output recovers, and the jobs shed in the downturn tend to return. For whom: construction workers and firms gain first, households keep more pay and find hours returning, the government gains tax revenue as work recovers while carrying the cost of the measures, and the economy regains the output the downturn idled.",
+   "canonical_answer": "When the government raises public building spending and cuts income tax in a downturn, construction firms hire workers for the projects, and households keep more of each wage, so they spend more in shops and on transport and those firms hire too. Because a downturn leaves idle workers and spare capacity, the extra income is spent again in further rounds, so hiring spreads. Therefore cyclical unemployment tends to fall and output recovers as jobs lost in the downturn return. Construction workers and firms gain first, households regain hours and pay, the government pays for the measures but later collects more tax, and the economy recovers lost output.",
    "marking_guidance": [
     "Starting point: the initial change - higher public building spending and a lower income tax rate - must be stated.",
     "Mechanism: because projects demand labour and the tax cut lifts spending, this causes firms to hire, with spare capacity letting the effect spread.",
@@ -979,7 +1019,9 @@
     "CLM-0455-4.7-023": 1,
     "CLM-0455-4.7-025": 1
    },
-   "authored_hash": "0df3393ae7d50acfd742f24512bc913898b6671f4a44634d3946159a08887b74",
+   "authored_hash": "5b470a905ab3e5e2f386f0d5b962b0e18386797aa55b1352126eae42a83ec2e5",
+   "prior_hash": "0df3393ae7d50acfd742f24512bc913898b6671f4a44634d3946159a08887b74",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "policies to reduce unemployment"
    ]
@@ -1005,7 +1047,7 @@
    "mark_tariff": 4,
    "difficulty": 5,
    "prompt": "Explain the features of the range of policies available to a government to reduce unemployment.",
-   "canonical_answer": "The features are the doors each policy works through. Demand-side measures work through spending: public building projects put job seekers directly onto sites, and tax cuts leave households and firms with more to spend, so orders reach firms and hiring follows. Supply-side measures work through employability: vocational training teaches the skills employers seek, education raises the skills school leavers bring, and job-placement help speeds the match between vacancy and seeker. Help can also target particular groups, such as support for firms that take on the long-term jobless. What the measures share: each names its lever - spending or skills - and its reach runs through that lever to the unemployment type it answers, so the first feature is the door, the second is the group it aims at, and the third is the life of the jobs it creates.",
+   "canonical_answer": "Demand-side policies work through spending: public building projects put job seekers onto sites, and tax cuts leave households and firms more to spend, so firms sell more and hire. Supply-side policies work through employability: vocational training and education raise skills, and job-placement help speeds the match between vacancy and job seeker. Some help targets particular groups, such as support for firms that hire the long-term unemployed. Each policy suits the type of unemployment its lever reaches, and the jobs it creates last for different lengths of time.",
    "marking_guidance": [
     "Features: what it includes - the demand-side and supply-side doors must each be named with an example, together with the group-targeted help and what the measures share."
    ],
@@ -1026,7 +1068,9 @@
     "CLM-0455-4.7-023": 1,
     "CLM-0455-4.7-024": 1
    },
-   "authored_hash": "b95683ffefd10e2fb41d58abadd148db43961315624984dc972d0e894361c1f2",
+   "authored_hash": "43146e3bee3cec4ce9a57a299c7c5a1574648908de967923aac5e2b3305e6730",
+   "prior_hash": "b95683ffefd10e2fb41d58abadd148db43961315624984dc972d0e894361c1f2",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "policies to reduce unemployment"
    ]
@@ -1051,7 +1095,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Two learners discuss a 67-year-old Katutura resident who left her job at a garment firm last month and does not plan to work again. One says she has become unemployed; the other says she has retired. Explain the confusion between retirement and unemployment, and state the test that tells them apart.",
-   "canonical_answer": "The confusion: the two learners mix up leaving work at the end of a working life with being without work and seeking it, so they count someone as unemployed who is not in the labour force at all. The boundary between the ideas: unemployment means being without paid work, seeking work and able to start it; retirement means leaving the labour force at the end of a working life, with no work sought. The Katutura resident does not plan to work again, so she is retired rather than unemployed. The test: ask whether the person is actively seeking work and available to start it. A person seeking work and able to start is unemployed; a person who has stopped seeking is outside the labour force, and a retiree is exactly that.",
+   "canonical_answer": "The learners confuse retirement with unemployment because both mean being without work. Unemployment means being without paid work while seeking work and able to start; retirement means leaving the labour force at the end of a working life, with no work sought. The test is whether the person is actively seeking work and available to start: if so, they are unemployed; if not, they are outside the labour force. The Katutura resident does not plan to work again, so she has retired.",
    "marking_guidance": [
     "The confusion: what learners mix up must be named - a retiree counted as unemployed because both are without work.",
     "The boundary between the ideas: unemployment carries the seeking and availability tests; retirement carries leaving the labour force with no work sought.",
@@ -1073,9 +1117,11 @@
     "CLM-0455-4.7-004": 1,
     "CLM-0455-4.7-002": 1
    },
-   "authored_hash": "57861e74adadc3fe79415bb777309e5f41a4112821316d8a770e74291f41f8b3",
+   "authored_hash": "cb4f8969227cbab92d47d9ae76463812ad134482de136fb7ee27b551c77872c5",
    "misconception_entry": "retirement vs unemployment",
    "misconception_id": "MISCON-REGISTER-0455-4.7.1-retirement-vs-unemployment",
+   "prior_hash": "57861e74adadc3fe79415bb777309e5f41a4112821316d8a770e74291f41f8b3",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "definition of employment, unemployment and full employment"
    ]
@@ -1100,7 +1146,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Two learners read that Oshakati Textiles is closing its mill: 300 weaving jobs go because imported cloth now reaches its customers more cheaply, while total spending in the economy has not fallen. One says the job losses are cyclical unemployment; the other says they are structural. Explain the confusion between cyclical and structural unemployment, and state the test that tells them apart.",
-   "canonical_answer": "The confusion: the two learners name the type of unemployment by its surface - a large job loss at one firm - rather than by its cause, so a dramatic closure is called cyclical without asking what produced it. The boundary between the ideas: cyclical unemployment comes from a fall in total spending across the economy and tends to fall back when spending recovers; structural unemployment comes from a lasting change in what the economy makes or how it buys it, and the jobs do not tend to return with the next recovery. Here spending has not fallen and the closure has a lasting cause - cheaper imported cloth displacing the mill's cloth - so the 300 job losses are structural. The test: ask what caused the job loss and whether the jobs return with the next recovery. A fall in total spending points to cyclical unemployment; a lasting change in products, methods or trade points to structural, which asks for retraining rather than waiting.",
+   "canonical_answer": "The learners name the type from the size of the job loss rather than its cause. Cyclical unemployment comes from a fall in total spending and tends to disappear when spending recovers; structural unemployment comes from a lasting change in products, methods or trade, and the jobs do not return with recovery. The test is to ask what caused the loss and whether the jobs will return. At Oshakati Textiles spending has not fallen and cheaper imported cloth is a lasting change, so the 300 job losses are structural.",
    "marking_guidance": [
     "The confusion: what learners mix up must be named - the type read off the size of the job loss instead of its cause.",
     "The boundary between the ideas: cyclical rides total spending down and up; structural survives the recovery because its cause is a lasting change.",
@@ -1122,9 +1168,11 @@
     "CLM-0455-4.7-005": 1,
     "CLM-0455-4.7-002": 1
    },
-   "authored_hash": "2cc0b2b860cacea12cf93a607901f9578bd6c6f9aeedc19d66b4a28aa10abf21",
+   "authored_hash": "38d3592036180119ddada0e63cb47a69e9eae401f9a84cf077548c1b43c4339c",
    "misconception_entry": "cyclical vs structural unemployment",
    "misconception_id": "MISCON-REGISTER-0455-4.7.1-cyclical-vs-structural-unemployment",
+   "prior_hash": "2cc0b2b860cacea12cf93a607901f9578bd6c6f9aeedc19d66b4a28aa10abf21",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "definition of employment, unemployment and full employment"
    ]
@@ -1149,7 +1197,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "A written task asks about the consequences of rising unemployment in an economy. One learner writes about the fall in total spending that came before the job losses; another writes about the loss of income and output that follows them. Explain the confusion between causes and consequences of unemployment, and state the test that tells them apart.",
-   "canonical_answer": "The confusion: the two learners blur the direction the effects run in, so events that produce unemployment are offered where its results were asked for. The boundary between the ideas: a cause of unemployment is what produces it - a fall in total spending, a closure, a new machine doing the work of people; a consequence is what unemployment produces - lost income for households, weaker sales for firms, lost output for the economy. The learner who wrote about the fall in spending gave a cause; the learner who wrote about lost income and output gave consequences. The test: for each event, ask which way the arrow runs - toward unemployment or away from it. Events that bring unemployment about are causes; events that unemployment brings about are consequences, and an answer about consequences names what follows the job losses, not what came before them.",
+   "canonical_answer": "The learners confuse the direction of the effect. A cause produces unemployment, such as a fall in total spending, a closure or a new machine; a consequence is produced by unemployment, such as lost income, weaker sales or lost output. The test is to ask which way the arrow runs: towards unemployment means a cause, away from it means a consequence. So the learner writing about the fall in spending gave a cause, and the one writing about lost income and output answered the question.",
    "marking_guidance": [
     "The confusion: what learners mix up must be named - a cause offered where a consequence was asked for, the direction of the effects blurred.",
     "The boundary between the ideas: a cause runs toward unemployment; a consequence runs away from it, toward income, sales and output.",
@@ -1171,9 +1219,11 @@
     "CLM-0455-4.7-021": 1,
     "CLM-0455-4.7-020": 1
    },
-   "authored_hash": "f8319b722e111205887bd31c1327a92b94b18e80f5b2f742b6158cafae609d7c",
+   "authored_hash": "a1d5fe0bd2def4bc1b6ce873c48051806bb96f504cca322394b6e711cd05a813",
    "misconception_entry": "causes vs consequences of unemployment",
    "misconception_id": "MISCON-REGISTER-0455-4.7.5-causes-vs-consequences-of-unemployment",
+   "prior_hash": "f8319b722e111205887bd31c1327a92b94b18e80f5b2f742b6158cafae609d7c",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "consequences of unemployment"
    ]
@@ -1278,7 +1328,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "A report in the Oshana Labour Monitor, 2026: \"Oshana region's labour force survey counts 16 000 unemployed this year, against 12 000 on the claimant register. Two years ago the register also stood at 12 000, but the survey then counted 20 000 unemployed. Meanwhile Oshakati Textiles has opened a second mill, taking on 1 500 workers, and the vocational centre's welding course reports a waiting list of 3 000 job seekers.\"\n\nTable 1 - Oshana region, 2024 and 2026\n  labour force, 2024: 196 000 workers\n  labour force, 2026: 200 000 workers\n  survey-measured unemployed, 2024: 20 000 workers\n  survey-measured unemployed, 2026: 16 000 workers\n  claimant count, 2024: 12 000 workers\n  claimant count, 2026: 12 000 workers\n  welding course waiting list, 2026: 3 000 job seekers\n\n(a) Calculate the survey unemployment rate for Oshana in 2026. [1]\n(b) Calculate the fall in survey-measured unemployment between 2024 and 2026. [1]\n(c) Identify from Table 1 the number of unemployed people recorded by the survey in 2024 and by the claimant count in 2024. [2]\n(d) Explain why the claimant count may record fewer unemployed people than the labour force survey. [4]\n(e) Analyse what the data suggests about unemployment in Oshana between 2024 and 2026. [6]",
-   "canonical_answer": "(a) The survey unemployment rate for 2026 is 16 000 / 200 000 = 8%.\n(b) Survey-measured unemployment fell by 20 000 - 16 000 = 4 000 workers between 2024 and 2026.\n(c) The survey recorded 20 000 unemployed in 2024 and the claimant count recorded 12 000 (from Table 1).\n(d) The claimant count records people registered as claiming government support for the unemployed, so a job seeker who cannot claim - because the support rules exclude them or they have not registered - is missing from the count. The labour force survey asks a sample of households directly and applies the seeking tests, so it counts seekers the benefit records miss. Because the survey's net is wider, the register tends to sit below it, and in Oshana the difference is 16 000 - 12 000 = 4 000 workers in 2026. The size of the gap moves with the benefit rules as much as with the labour market, which is why the two measures are reported side by side.\n(e) Expected relationship: as a local economy recovers and firms take on workers, unemployment tends to fall, and the two measures may move differently because they catch different people. Evidence from the data: survey unemployment fell from 20 000 to 16 000 workers while the claimant count stayed at 12 000, the labour force grew from 196 000 to 200 000 workers, and Oshakati Textiles took on 1 500 workers. Analysis: the fall of 4 000 in survey unemployment alongside 1 500 mill jobs suggests recovery was creating work beyond the mill itself, since jobs gained show up as people leaving the survey's count; the flat claimant count suggests those finding work were largely outside the benefit register, so the register missed the improvement - the gap narrowing from 8 000 workers in 2024 to 4 000 in 2026 as employment grew. Exception: however, the welding course's waiting list of 3 000 job seekers against 1 500 mill jobs shows the fall in unemployment did not clear the queue for skills, so part of the remaining joblessness looks structural - a mismatch between the skills seekers hold and the posts on offer - which recovery alone may not reach. For whom: workers gaining mill jobs, job seekers still waiting for training places, firms gaining staff while others face skill shortages, and the regional government gaining tax revenue while support claims ease slowly.",
+   "canonical_answer": "(a) The survey unemployment rate for 2026 is 16 000 / 200 000 = 8%.\n(b) Survey-measured unemployment fell by 20 000 - 16 000 = 4 000 workers between 2024 and 2026.\n(c) The survey recorded 20 000 unemployed in 2024 and the claimant count recorded 12 000 (from Table 1).\n(d) The claimant count records people registered as claiming government support for the unemployed, so a job seeker who cannot claim - because the support rules exclude them or they have not registered - is missing from the count. The labour force survey asks a sample of households directly and applies the seeking tests, so it counts seekers the benefit records miss. Because the survey's net is wider, the register tends to sit below it, and in Oshana the difference is 16 000 - 12 000 = 4 000 workers in 2026. The size of the gap moves with the benefit rules as much as with the labour market, which is why the two measures are reported side by side.\n(e) As a local economy recovers and firms take on workers, unemployment tends to fall, and the two measures may move differently because they catch different people. The data fits this: survey unemployment fell from 20 000 to 16 000 workers while the claimant count stayed at 12 000, the labour force grew from 196 000 to 200 000 workers, and Oshakati Textiles took on 1 500 workers. The fall of 4 000 in survey unemployment alongside 1 500 mill jobs suggests recovery was creating work beyond the mill itself, since jobs gained show up as people leaving the survey's count; the flat claimant count suggests those finding work were largely outside the benefit register, so the register missed the improvement - the gap narrowing from 8 000 workers in 2024 to 4 000 in 2026 as employment grew. However, the welding course's waiting list of 3 000 job seekers against 1 500 mill jobs shows the fall in unemployment did not clear the queue for skills, so part of the remaining joblessness looks structural - a mismatch between the skills seekers hold and the posts on offer - which recovery alone may not reach. The effects land on workers gaining mill jobs, job seekers still waiting for training places, firms gaining staff while others face skill shortages, and the regional government gaining tax revenue while support claims ease slowly.",
    "marking_guidance": [
     "Context: parts (a), (b) and (c) are read or calculated from the data; (d) and (e) must use the figures - the 20 000 to 16 000 survey fall, the claimant count flat at 12 000, the 1 500 mill jobs, the 3 000 waiting list.",
     "Reasoning: one mark per distinct linked statement; quoting a figure on its own is description, not analysis - the relationship must be stated and the reason given.",
@@ -1311,7 +1361,9 @@
     "CLM-0455-4.7-015": 1,
     "CLM-0455-4.7-016": 1
    },
-   "authored_hash": "61f4265eaba21b757e27809d76d952109521684d3cb96234c1d46aaf97d54c33",
+   "authored_hash": "c3573b6d9e7df4657fd7f98c58c9235d3fffe6af8ea748959d581e14179a1588",
+   "prior_hash": "61f4265eaba21b757e27809d76d952109521684d3cb96234c1d46aaf97d54c33",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "measurement of unemployment",
     "causes/types of unemployment"
@@ -1349,7 +1401,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "Answer all parts.\n(a) Define full employment. [2]\n(b) Explain two likely consequences of rising unemployment for the government. [4]\n(c) In a downturn, total spending in an economy falls steeply for two years. Analyse the likely effects on the economy's unemployment. [6]\n(d) Discuss whether a government should rely on demand-side policies to reduce unemployment. [8]",
-   "canonical_answer": "(a) Full employment is the state where unemployment has fallen to the level that remains when the economy is working at capacity: people still move between jobs and skills still take time to match posts, so full employment does not mean an unemployment rate of zero.\n(b) One consequence is lower tax revenue: with fewer people in work, less income tax is collected and jobless households spend less, so sales tax receipts fall too, which reduces what the budget can fund. A second consequence is higher support spending: claims for unemployment support and related assistance rise with unemployment, so the budget is squeezed from both ends at once - revenue falling as spending rises - which may force borrowing up or other programmes down.\n(c) Starting point: total spending falls steeply for two years. Mechanism: because customers buy less, firms cut output, hours and posts, and this causes cyclical unemployment to rise across sectors at once; because jobless households lose wages, their spending falls in a second round, extending the job losses beyond the sectors first hit. Consequence: therefore unemployment rises by more than the first round of layoffs alone, employment and output fall, and long spells begin to erode the skills of those idled, letting a cyclical rise plant structural roots where it lasts. For whom: workers face lost hours and posts, firms lose sales while shedding staff, the government loses revenue while support claims rise, and the economy loses the output the jobless would have produced. Where spending recovers, the cyclical jobs tend to return, which is the mark of the type.\n(d) Why it might: demand-side policies answer the unemployment a downturn makes. Where unemployment is cyclical - weak spending, idle workers - public building projects and tax cuts lift demand, and because the economy has spare capacity, the extra income earned is spent again, so hiring spreads and the jobs shed in the downturn tend to return within months rather than years. Why it might not: the same policies do nothing for structural unemployment - a worker whose industry has vanished has no waiting post for demand to fill - and the jobs they create last as long as the spending does, so a programme that ends returns part of the register; they also cost money, raising borrowing or crowding other spending, and where the economy is already near capacity, extra spending pushes prices up rather than jobs. Judgement: on balance a government facing high unemployment should hold demand-side policies as the first response where the unemployment is cyclical and spare capacity exists, because they act fastest on the largest share of the jobless. What the judgement depends on is the type of unemployment and the state of capacity: it depends on whether the joblessness rides the cycle, in which case demand-side measures lead, or comes from lasting change, in which case training and education carry the weight and demand-side measures serve to keep spending steady while the retraining works.",
+   "canonical_answer": "(a) Full employment is the state where unemployment has fallen to the level that remains when the economy is working at capacity: people still move between jobs and skills still take time to match posts, so full employment does not mean an unemployment rate of zero.\n(b) One consequence is lower tax revenue: with fewer people in work, less income tax is collected and jobless households spend less, so sales tax receipts fall too, which reduces what the budget can fund. A second consequence is higher support spending: claims for unemployment support and related assistance rise with unemployment, so the budget is squeezed from both ends at once - revenue falling as spending rises - which may force borrowing up or other programmes down.\n(c) Total spending falls steeply for two years. Because customers buy less, firms cut output, hours and posts, and this causes cyclical unemployment to rise across sectors at once; because jobless households lose wages, their spending falls in a second round, extending the job losses beyond the sectors first hit. Therefore unemployment rises by more than the first round of layoffs alone, employment and output fall, and long spells begin to erode the skills of those idled, letting a cyclical rise plant structural roots where it lasts. Workers face lost hours and posts, firms lose sales while shedding staff, the government loses revenue while support claims rise, and the economy loses the output the jobless would have produced. Where spending recovers, the cyclical jobs tend to return, which is the mark of the type.\n(d) Demand-side policies answer the unemployment a downturn makes. Where unemployment is cyclical - weak spending, idle workers - public building projects and tax cuts lift demand, and because the economy has spare capacity, the extra income earned is spent again, so hiring spreads and the jobs shed in the downturn tend to return within months rather than years. However, the same policies do nothing for structural unemployment - a worker whose industry has vanished has no waiting post for demand to fill - and the jobs they create last as long as the spending does, so a programme that ends returns part of the register; they also cost money, raising borrowing or crowding other spending, and where the economy is already near capacity, extra spending pushes prices up rather than jobs. On balance a government facing high unemployment should hold demand-side policies as the first response where the unemployment is cyclical and spare capacity exists, because they act fastest on the largest share of the jobless. What the judgement depends on is the type of unemployment and the state of capacity: it depends on whether the joblessness rides the cycle, in which case demand-side measures lead, or comes from lasting change, in which case training and education carry the weight and demand-side measures serve to keep spending steady while the retraining works.",
    "marking_guidance": [
     "Parts (a) to (d) carry a model answer each; (d) is level-marked over three bands.",
     "Band structure: the bottom band names a policy or an effect; the middle band develops the mechanism on one side; the top band examines why it might and why it might not, reaches a judgement, and names the condition the judgement depends on - the type of unemployment and the state of capacity.",
@@ -1381,7 +1433,9 @@
     "CLM-0455-4.7-025": 1,
     "CLM-0455-4.7-022": 1
    },
-   "authored_hash": "ceec9b6f0b48a83863b6f766a53375844bd6d4bfbf9872dff47f4bc98de928f1",
+   "authored_hash": "92ce3528b97e20d9dad4ef11a309b7fd7b94e87b6f4d65ee7cdaa4c3ff7ff9b5",
+   "prior_hash": "ceec9b6f0b48a83863b6f766a53375844bd6d4bfbf9872dff47f4bc98de928f1",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall.",
    "objective_titles": [
     "definition of employment, unemployment and full employment",
     "consequences of unemployment",
@@ -1414,7 +1468,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "Plan an answer to: \"Discuss whether government-funded training is a more effective way to reduce unemployment than expanding public building programmes.\" Build the plan from the types of unemployment each policy answers. Do not write the essay; produce the plan.",
-   "canonical_answer": "Case for training (the lasting door): training answers structural unemployment.\nChain 1: an industry closes -> workers' skills match no local vacancy -> training teaches the skills growing sectors seek -> graduates fill posts that exist -> unemployment falls and the jobs tend to outlast the programme (for whom: jobless workers gain employability, firms gain usable applicants, the government gains a skilled workforce and revenue).\nChain 2: training raises the economy's capacity -> the workforce can produce more -> the gain persists after the spending ends -> the policy compounds over years (for whom: the economy gains capacity, future workers inherit higher skills).\nCase against (the slow door): training is slow and narrow against a cyclical downturn.\nChain 3: total spending falls -> posts vanish across sectors -> training teaches skills but no posts wait -> the register barely moves while the course runs -> measures that lift spending would have acted within months (for whom: jobless workers wait longer, the government pays for training and support at once).\nChain 4: public building programmes act fast where spare capacity exists -> job seekers move straight onto sites -> their wages are spent again -> further hiring follows -> but the jobs end with the programme (for whom: workers gain pay for the programme's life, future budgets carry the borrowing).\nJudgement: training is the more effective way where unemployment is structural, because it changes what job seekers can do and its jobs tend to last; public building is the more effective way where unemployment is cyclical, because it acts on the actual cause - weak spending - and moves the largest number fastest. The condition the judgement depends on is the type of unemployment the economy faces and how quickly work is needed: a lasting change in products or skills points to training; a fall in total spending with idle workers points to building programmes; an economy facing both needs both, sequenced by urgency.",
+   "canonical_answer": "Case for training (the lasting door): training answers structural unemployment.\nChain 1: an industry closes -> workers' skills match no local vacancy -> training teaches the skills growing sectors seek -> graduates fill posts that exist -> unemployment falls and the jobs tend to outlast the programme (who is affected: jobless workers gain employability, firms gain usable applicants, the government gains a skilled workforce and revenue).\nChain 2: training raises the economy's capacity -> the workforce can produce more -> the gain persists after the spending ends -> the policy compounds over years (who is affected: the economy gains capacity, future workers inherit higher skills).\nCase against (the slow door): training is slow and narrow against a cyclical downturn.\nChain 3: total spending falls -> posts vanish across sectors -> training teaches skills but no posts wait -> the register barely moves while the course runs -> measures that lift spending would have acted within months (who is affected: jobless workers wait longer, the government pays for training and support at once).\nChain 4: public building programmes act fast where spare capacity exists -> job seekers move straight onto sites -> their wages are spent again -> further hiring follows -> but the jobs end with the programme (who is affected: workers gain pay for the programme's life, future budgets carry the borrowing).\nJudgement: training is the more effective way where unemployment is structural, because it changes what job seekers can do and its jobs tend to last; public building is the more effective way where unemployment is cyclical, because it acts on the actual cause - weak spending - and moves the largest number fastest. The condition the judgement depends on is the type of unemployment the economy faces and how quickly work is needed: a lasting change in products or skills points to training; a fall in total spending with idle workers points to building programmes; an economy facing both needs both, sequenced by urgency.",
    "marking_guidance": [
     "A plan, not an essay: the chains and the stated judgement are what is assessed.",
     "Criterion: the decisive factor is the type of unemployment each policy answers, matched against how fast work is needed.",
@@ -1441,7 +1495,9 @@
     "CLM-0455-4.7-024": 1,
     "CLM-0455-4.7-025": 1
    },
-   "authored_hash": "799ef0f0f97434924457bff842f2a732a5a11821c325c83d1ebf2348a84ddc56",
+   "authored_hash": "14922b7681d404dd575bc627088cede38840d3570dc060724d00704ba6e59476",
+   "prior_hash": "799ef0f0f97434924457bff842f2a732a5a11821c325c83d1ebf2348a84ddc56",
+   "repair_note": "Reviewer: removed syllabus-heading qualifiers from Define prompts, distinguished prompts duplicated across topics, and replaced the leaked 'for whom:' label in the essay plan",
    "objective_titles": [
     "causes/types of unemployment",
     "policies to reduce unemployment"

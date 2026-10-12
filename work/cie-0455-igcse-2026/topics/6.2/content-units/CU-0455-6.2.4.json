@@ -51,7 +51,7 @@
    "block_id": "6.2.4-b3",
    "block_type": "comparison",
    "heading": "How each method works",
-   "text": "The four work differently. A tariff raises the import price at the border, so buyers who mind price tend to drift towards home goods, and the government collects the tax as revenue. A quota caps the quantity directly, whatever buyers would pay - no revenue reaches the government, and the shortage itself may push prices up. A subsidy lowers home producers costs without touching the import, so home goods may price closer to it, with the cost landing on taxpayers instead of buyers. An embargo stops the trade entirely, and serves its purpose where home production or another supplier can fill the gap.",
+   "text": "The four work differently. A tariff raises the import price at the border, so buyers who mind price tend to drift towards home goods, and the government collects the tax as revenue. A quota caps the quantity directly, whatever buyers would pay - no revenue reaches the government, and the shortage itself may push prices up. A subsidy lowers home producers' costs without touching the import, so home goods may price closer to it, with the cost landing on taxpayers instead of buyers. An embargo stops the trade entirely, and serves its purpose where home production or another supplier can fill the gap.",
    "claim_ids": [
     "CLM-0455-6.2-013"
    ],
@@ -61,9 +61,11 @@
     "AO2"
    ],
    "claims_seen": {
-    "CLM-0455-6.2-013": 1
+    "CLM-0455-6.2-013": 2
    },
-   "authored_hash": "193356d2b2dc812ffcd836436258835d0d901d08d0530ad0388191e1b3a60711"
+   "authored_hash": "3089eca662aa8c647e4c17b6f6334d8093d4fe084df549d49bc4c95a4338b9de",
+   "prior_hash": "193356d2b2dc812ffcd836436258835d0d901d08d0530ad0388191e1b3a60711",
+   "repair_note": "Review fix: MNC defined as producing (operating) in more than one country, not selling - claims 004/006, notes, 003, P01 Q2 key; home-country effects of MNCs added (claim 005, notes, 005); producer and economy gains of free trade added (007, P03d); subsidy and embargo explained (P02c); dropped possessives restored throughout; 008 home-blanket saving corrected to N$30; missing N$320 added to 016 stem; leaked labels and marking text removed from P02/P03; flashcard answers trimmed for recall"
   },
   {
    "block_id": "6.2.4-b4",

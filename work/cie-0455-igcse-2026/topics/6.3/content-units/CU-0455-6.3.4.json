@@ -52,7 +52,7 @@
    "block_id": "6.3.4-b3",
    "block_type": "worked_application",
    "heading": "The figures for one depreciation",
-   "text": "Let the Namibian dollar depreciate against the euro from N$19 per euro to N$21 per euro. A drum of imported dye priced 20 euros costs Oshakati Textiles 20 x 19 = N$380 before the move and 20 x 21 = N$420 after it. In the other direction, a crate of dried fruit priced N$399 costs a Portuguese buyer 21.00 euros before and 19.00 euros after. Neither seller changed a quoted price; the rate alone moved both price tags. Households buying imported goods face the same shift the textile firm faces on its inputs.",
+   "text": "Let the Namibian dollar, moving with the rand, depreciate against the euro from N$19 per euro to N$21 per euro. A drum of imported dye priced 20 euros costs Oshakati Textiles 20 x 19 = N$380 before the move and 20 x 21 = N$420 after it. In the other direction, a crate of dried fruit priced N$399 costs a Portuguese buyer 21.00 euros before and 19.00 euros after. Neither seller changed a quoted price; the rate alone moved both price tags. Households buying imported goods face the same shift the textile firm faces on its inputs.",
    "claim_ids": [
     "CLM-0455-6.3-013",
     "CLM-0455-6.3-004"
@@ -65,7 +65,9 @@
     "CLM-0455-6.3-013": 1,
     "CLM-0455-6.3-004": 1
    },
-   "authored_hash": "c93fac42211a75ceaba94e54419a6603b98a51dcbf002a3e37f5a5931e9869de"
+   "authored_hash": "df3b71983b2c6e8b8c5226b79b82046a0e18db712a6b36fd69ba58833d7e9f82",
+   "prior_hash": "c93fac42211a75ceaba94e54419a6603b98a51dcbf002a3e37f5a5931e9869de",
+   "repair_note": "Review fix: removed the floating/pegged contradiction - Namibia-specific demand and interest-rate shocks no longer move the N$ on its own (004, 006, 009 and notes 6.3.3-b3/b4 reframed around Zambia's floating kwacha; P02 causes moved to the rand, with the peg stated; P03(b) generalised); N$-euro moves now stated as moving with the rand (011, 012, P03, notes 6.3.4-b3, 6.3.5-b3, claim 020); P02/P03 labels removed; flashcard answers trimmed for recall"
   },
   {
    "block_id": "6.3.4-b4",

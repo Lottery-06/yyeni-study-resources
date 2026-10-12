@@ -68,7 +68,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "A radio report moves from the price of a litre of milk at one dairy in Otavi to the rate at which prices rose across the whole economy last year. Explain the difference between the questions microeconomics asks and the questions macroeconomics asks.",
-   "canonical_answer": "The boundary is the level at which the question sits. Microeconomics asks about individual units: the price of a litre of milk is decided by one firm in one market, and that is a microeconomic question. Macroeconomics asks about the economy as a whole: the rate at which prices rose across the country averages thousands of markets, and that is a macroeconomic question. The test for which one applies is to ask what level the question concerns - a single household, firm or market points to microeconomics, whereas an economy-wide total or average points to macroeconomics.",
+   "canonical_answer": "Microeconomics asks about individual units: the price of a litre of milk at one Otavi dairy is set by one firm in one market. Macroeconomics asks about the economy as a whole: the rate at which prices rose across the country averages thousands of markets. The test is the level the question concerns: a single household, firm or market points to microeconomics, whereas an economy-wide total or average points to macroeconomics.",
    "marking_guidance": [
     "Boundary: the difference must be stated - individual units on one side, whereas economy-wide totals and averages sit on the other.",
     "Test: how to tell - ask what level the question concerns: a single household, firm or market is microeconomic, an economy-wide total or average is macroeconomic."
@@ -89,7 +89,9 @@
     "CLM-0455-2.1-002": 1,
     "CLM-0455-2.1-006": 1
    },
-   "authored_hash": "0d7ffdbc4aef9fb952adb80ddb6178041e60d0be261477dfed3ab7eedd372735",
+   "authored_hash": "69da98ac3d4370660d9fbeedc3af9dd110848ab91a99e64010c3b441cd96ee6f",
+   "prior_hash": "0d7ffdbc4aef9fb952adb80ddb6178041e60d0be261477dfed3ab7eedd372735",
+   "repair_note": "Reviewer 2026-10-13: P02(d) real-income arithmetic corrected (103 / 106.1); P02(b) made worth 2 marks; leaked chain labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "microeconomics"
    ]
@@ -115,7 +117,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "Kaoko Juice of Opuwo employs 9 workers, sells 4 000 bottles a month at N$12, and weighs raising the price to N$14. Using the figures, explain why the price rise is a microeconomic decision, and what a macroeconomist studying Namibia would examine instead.",
-   "canonical_answer": "The figures describe one firm and one market: 9 workers, 4 000 bottles a month, a price of N$12 moving to N$14. Because the decision belongs to a single seller of a single good in a single market, it is microeconomic - its variables are the firm's price, the firm's quantity and the firm's jobs. A macroeconomist studying Namibia would instead examine economy-wide measures: the general level of prices, the total output of goods and services, and total employment. Therefore the price rise is a matter for microeconomic analysis, and it enters macroeconomics at most as one entry inside an economy-wide average.",
+   "canonical_answer": "The figures describe one firm in one market: 9 workers, 4 000 bottles a month, a price moving from N$12 to N$14. Because the decision belongs to a single seller of a single good, it is microeconomic: it concerns the firm's own price, sales and jobs. A macroeconomist studying Namibia would instead examine economy-wide measures - the general level of prices, total output and total employment - in which this price rise is one small part of an average.",
    "marking_guidance": [
     "Context: the figures - 9 workers, 4 000 bottles, the N$12 to N$14 move - must be used to fix the decision as one firm's.",
     "Reasoning: the link must be made, because belonging to a single firm in a single market is what makes a decision microeconomic.",
@@ -137,7 +139,9 @@
     "CLM-0455-2.1-003": 1,
     "CLM-0455-2.1-004": 1
    },
-   "authored_hash": "48a8788137595c51ace7595cfc597fc781e1488fb5fe872da59ffdc8ea0a1f5b",
+   "authored_hash": "685b05556913d0dd6e05f6246af6029cc8fbe32c2ec6ae00637f21fb143677dc",
+   "prior_hash": "48a8788137595c51ace7595cfc597fc781e1488fb5fe872da59ffdc8ea0a1f5b",
+   "repair_note": "Reviewer 2026-10-13: P02(d) real-income arithmetic corrected (103 / 106.1); P02(b) made worth 2 marks; leaked chain labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "microeconomics"
    ]
@@ -163,7 +167,7 @@
    "mark_tariff": 8,
    "difficulty": 3,
    "prompt": "Kaoko Juice employs 9 of Opuwo's 3 000 workers and is considering cutting its workforce to 6 to reduce costs. Discuss the consequences of one firm's decision for the workers who leave, the firm, and the town's economy.",
-   "canonical_answer": "Starting point: one firm plans to cut its workforce from 9 workers to 6, so the initial change is three workers losing their wages in a town where the firm employs 9 of 3 000 workers. Mechanism: for the workers who leave, income stops, so their spending at local shops falls; because shops in a small town depend on that spending, the shops' revenue falls and they may delay their own hiring. Consequence: the firm saves wage costs, which might hold its price down and keep the remaining 6 jobs secure, but the town's spending falls and the government's tax receipts from those wages fall too. For whom the effects land: the workers who leave bear the sharpest loss; the firm gains lower costs and risks losing skilled hands; the town economy loses income; the government loses a little revenue. Scale matters: three workers out of 3 000 means the town may hardly notice, and that is the strongest reason this single firm's decision stays micro in its effect. But when many firms in many towns cut at once, the same decision repeated becomes a macroeconomic fall in total employment, because the wide view is assembled from the close-ups. Judgement: for Opuwo this one decision is likely to matter little beyond the three households, because its size is small relative to the town; for the households themselves it is the whole of the story.",
+   "canonical_answer": "Kaoko Juice's cut from 9 workers to 6 means three workers lose their wages. They cut spending at local shops, and because shops in a small town depend on that spending, the shops' revenue falls and they may delay their own hiring. The firm saves wage costs, which may hold its prices down and make the remaining 6 jobs more secure, but it risks losing skilled hands. The government collects less tax on the lost wages. Scale matters: 3 workers out of 3 000 is 0.1% of the town's workforce, so the town's totals may barely move, which is why this decision stays microeconomic in its effect. If many firms cut jobs at once, the same decision repeated becomes a fall in total employment, a macroeconomic change. On balance, for Opuwo as a whole this cut is likely to matter little; for the three households it is the whole story.",
    "marking_guidance": [
     "Starting point: the initial change - the cut from 9 workers to 6 at one firm - must be named.",
     "Mechanism: the chain must be spelled out, because spending that stops at one firm causes falls elsewhere in the town.",
@@ -187,7 +191,9 @@
     "CLM-0455-2.1-003": 1,
     "CLM-0455-2.1-002": 1
    },
-   "authored_hash": "f324ca136fd76b0e96609b682b1a9f342d2d21e8652e385e2634d0ad746cd7f3",
+   "authored_hash": "e2bacbf5fa88422910d5c32c01b257f8ead4731c85d397823a69d3f54f2c4013",
+   "prior_hash": "f324ca136fd76b0e96609b682b1a9f342d2d21e8652e385e2634d0ad746cd7f3",
+   "repair_note": "Reviewer 2026-10-13: P02(d) real-income arithmetic corrected (103 / 106.1); P02(b) made worth 2 marks; leaked chain labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "microeconomics"
    ]
@@ -255,7 +261,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "Explain why a government collects macroeconomic indicators such as the rate at which consumer prices rise and the growth of total output each year.",
-   "canonical_answer": "A government measures these indicators because they describe the condition of the economy as a whole, which no single market's price can show. The rate at which consumer prices rise tracks what each N$100 buys by the end of the year, so it measures the pressure on households across the country. The growth of total output shows whether the economy can support rising living standards and jobs. The purpose of measuring is to act: a government that sees the general level of prices climbing can steer its budget and borrowing, and one that sees output stalling can direct spending to lift it. Without the measures, a government steers the economy blind, because the signals it needs are the totals themselves.",
+   "canonical_answer": "Because these indicators describe the economy as a whole, which no single market's price can show. The rate at which consumer prices rise shows how fast household incomes lose buying power across the country; the growth of total output shows whether the economy can support more jobs and rising living standards. The purpose is to act: a government that sees prices climbing or output stalling can adjust its spending, taxes and borrowing. Without these measures it would be steering blind.",
    "marking_guidance": [
     "Reason: the purpose - describing the whole economy's condition so policy can act - must be stated, because a single market's price cannot show it.",
     "Development: each indicator named must be linked to what it lets the government do, not left as a label."
@@ -276,7 +282,9 @@
     "CLM-0455-2.1-004": 1,
     "CLM-0455-2.1-005": 1
    },
-   "authored_hash": "1cb5cad73ef3589f30415a70540ad8d646d13969954db129790d002bed0edeec",
+   "authored_hash": "4b1c2f33ab421be95bdee2d0d3b04d0e137d62d8fc5d406da8f9e37bffa9cc64",
+   "prior_hash": "1cb5cad73ef3589f30415a70540ad8d646d13969954db129790d002bed0edeec",
+   "repair_note": "Reviewer 2026-10-13: P02(d) real-income arithmetic corrected (103 / 106.1); P02(b) made worth 2 marks; leaked chain labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "macroeconomics"
    ]
@@ -302,11 +310,11 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "Consumer prices across the Namibian economy rose by 4.2% last year and 6.1% this year, while the price of a litre of milk at Otjiwa Dairy stayed at N$14. Using the figures, explain why the change from 4.2% to 6.1% is a macroeconomic concern, whereas the milk price is a microeconomic matter.",
-   "canonical_answer": "The move from 4.2% to 6.1% is an average of prices across the whole economy, so it is a macroeconomic measure: it tells what each N$100 buys for households in general, and both its causes and its cures are economy-wide. The milk at N$14 is the price of one good in one market, set by one dairy, so it is a microeconomic matter. Because the general level of prices rose faster, households across the economy found their incomes buying less, and that is why macroeconomists treat the figure as a national concern; the milk price, by contrast, moves one market and its buyers. Therefore the classification follows the level each figure sits at: the economy-wide average is macroeconomic, whereas the single market's price is microeconomic.",
+   "canonical_answer": "The rise from 4.2% to 6.1% is an average of price changes across the whole economy, so it is macroeconomic: it shows households in general losing buying power faster, and its causes and remedies are economy-wide. The N$14 milk price is one good in one market, set by one dairy, so it is microeconomic and touches only that market's buyers and seller. Therefore the classification follows the level each figure sits at, not whether it mentions prices.",
    "marking_guidance": [
     "Context: the data - 4.2% and 6.1% for the economy, N$14 for the milk - must be used.",
     "Reasoning: the link from averaging across markets to a macroeconomic concern must be made, because the level the figure sits at decides the branch of the subject.",
-    "Conclusion: therefore each figure is classified - economy-wide average versus single market price - and the means that follows is stated."
+    "Conclusion: therefore each figure is classified - economy-wide average versus single market price - and what follows for each is stated."
    ],
    "context": {
     "sector": null,
@@ -324,7 +332,9 @@
     "CLM-0455-2.1-005": 1,
     "CLM-0455-2.1-006": 1
    },
-   "authored_hash": "da87c29a81fa0176ba375f3c0fe835d3ce6324b9004cf179453af91ef65d89d0",
+   "authored_hash": "252d1c625b06688a47b3766c80a406eb4588a1420fb42a3d432c125e1b8930a0",
+   "prior_hash": "da87c29a81fa0176ba375f3c0fe835d3ce6324b9004cf179453af91ef65d89d0",
+   "repair_note": "Reviewer 2026-10-13: P02(d) real-income arithmetic corrected (103 / 106.1); P02(b) made worth 2 marks; leaked chain labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "macroeconomics"
    ]
@@ -404,10 +414,10 @@
    "command_word": null,
    "mark_tariff": null,
    "difficulty": 5,
-   "prompt": "A report from Walvis Bay, 2026: \"Green Bay Canning raised the price of a carton of pilchards from N$45 to N$52 this year as fuel costs climbed. The firm employs 140 of the town's 12 000 workers. Across the whole economy, consumer prices rose by 4.2% last year and 6.1% this year, and wages rose by 3.0% this year.\"\n\nTable 1 - Walvis Bay and the economy, this year\n  carton of pilchards, last year: N$45\n  carton of pilchards, this year: N$52\n  cannery workers: 140 of the town's 12 000 workers\n  consumer price rises, last year: 4.2%\n  consumer price rises, this year: 6.1%\n  wage rises, this year: 3.0%\n\n(a) Calculate the rise in the economy-wide rate of consumer price increases between the two years. [1]\n(b) Identify from Table 1 the wage rises for this year. [2]\n(c) Explain why the pilchard price is a microeconomic matter while the 6.1% rise is a macroeconomic one. [4]\n(d) Analyse, using the data, what the figures suggest about the pressure on households in Walvis Bay this year. [6]",
-   "canonical_answer": "(a) 6.1% - 4.2% = 1.9 percentage points.\n(b) The wage rises for this year are 3.0%, from Table 1.\n(c) The pilchard price is set by one firm selling one good in one market, so it is a microeconomic matter: its causes and its cure sit with that firm and its buyers. The 6.1% is an average of prices across the whole economy, so it is a macroeconomic measure: it reflects conditions in thousands of markets at once and it is influenced by economy-wide forces, not by one cannery's fuel bill. The test for which one applies is the level each sits at: a single market's price is microeconomic, whereas an economy-wide average is macroeconomic.\n(d) Expected relationship: where prices rise faster than wages, the buying power of households' income falls, so households feel pressure even while earning the same money. Evidence from the data: consumer price rises climbed from 4.2% to 6.1%, whereas wages rose by 3.0%, so prices outran wages by 3.1 percentage points; the N$45 to N$52 pilchard carton is one instance of the thousands of price moves behind the average. Analysis: a household whose income rose with wages at 3.0% found each N$100 buying what N$96.9 would have bought a year earlier, so spending on basics like food crowds out other purchases; traders in Walvis Bay see demand for their goods soften as households cut back, and the cannery faces pressure to raise wages from a budget squeezed by fuel costs. Exception: households whose incomes rose faster than 6.1% - a fisher paid by the catch in a good season, for instance - may have felt no squeeze at all, because their income kept pace with or outran the price rises. For whom the pressure lands: wage-earning households bear the squeeze, firms face the wage pressure, and the town's traders see softer demand.",
+   "prompt": "A report from Walvis Bay, 2026: \"Green Bay Canning raised the price of a carton of pilchards from N$45 to N$52 this year as fuel costs climbed. The firm employs 140 of the town's 12 000 workers. Across the whole economy, consumer prices rose by 4.2% last year and 6.1% this year, and wages rose by 3.0% this year.\"\n\nTable 1 - Walvis Bay and the economy, this year\n  carton of pilchards, last year: N$45\n  carton of pilchards, this year: N$52\n  cannery workers: 140 of the town's 12 000 workers\n  consumer price rises, last year: 4.2%\n  consumer price rises, this year: 6.1%\n  wage rises, this year: 3.0%\n\n(a) Calculate the rise in the economy-wide rate of consumer price increases between the two years. [1]\n(b) Identify from Table 1 one microeconomic figure and one macroeconomic figure. [2]\n(c) Explain why the pilchard price is a microeconomic matter while the 6.1% rise is a macroeconomic one. [4]\n(d) Analyse, using the data, what the figures suggest about the pressure on households in Walvis Bay this year. [6]",
+   "canonical_answer": "(a) 6.1% - 4.2% = 1.9 percentage points.\n(b) Microeconomic: the price of a carton of pilchards, N$45 rising to N$52, or the cannery's 140 workers [1]. Macroeconomic: consumer price rises of 6.1% this year, 4.2% last year, or wage rises of 3.0% across the economy [1].\n(c) The pilchard price is set by one firm selling one good in one market, so it is a microeconomic matter: its causes and its cure sit with that firm and its buyers. The 6.1% is an average of prices across the whole economy, so it is a macroeconomic measure: it reflects conditions in thousands of markets at once and it is influenced by economy-wide forces, not by one cannery's fuel bill. The test for which one applies is the level each sits at: a single market's price is microeconomic, whereas an economy-wide average is macroeconomic.\n(d) Expected relationship: where prices rise faster than wages, the buying power of households' income falls, so households feel pressure even while earning the same money. Evidence from the data: consumer price rises climbed from 4.2% to 6.1%, whereas wages rose by 3.0%, so prices outran wages by 3.1 percentage points; the N$45 to N$52 pilchard carton is one instance of the thousands of price moves behind the average. Analysis: a household whose income rose with wages by 3.0% can buy only 103 / 106.1 = 0.971 of last year's basket of goods, about 3% less, so spending on basics like food crowds out other purchases; traders in Walvis Bay see demand for their goods soften as households cut back, and the cannery faces pressure to raise wages from a budget squeezed by fuel costs. Exception: households whose incomes rose faster than 6.1% - a fisher paid by the catch in a good season, for instance - may have felt no squeeze at all, because their income kept pace with or outran the price rises. Overall, wage-earning households bear the squeeze, firms face the wage pressure, and the town's traders see softer demand.",
    "marking_guidance": [
-    "Context: parts (a) and (b) must be read from the data; the six-mark part must use the figures as evidence - the 4.2% and 6.1%, the 3.0% wage rise, the N$45 to N$52 carton.",
+    "Context: parts (a) and (b) must be read from the data, with (b) earning one mark for each correctly classified figure; the six-mark part must use the figures as evidence - the 4.2% and 6.1%, the 3.0% wage rise, the N$45 to N$52 carton.",
     "Reasoning: one mark per distinct linked statement in (c); the link from the level each figure sits at to its branch of the subject must be made, because that is the boundary.",
     "Conclusion: part (d) must run expected relationship, then evidence from the data, then analysis, then an exception; quoting figures alone is not analysis - each figure must carry the relationship it supports.",
     "For whom: the pressure must be attributed to households, firms and traders, not left as a general condition."
@@ -435,7 +445,9 @@
     "CLM-0455-2.1-006": 1,
     "CLM-0455-2.1-007": 1
    },
-   "authored_hash": "e56fc753eb4e07e3654f35c9114ba3d068acf7cee7cc74d31530d0516faec5cb",
+   "authored_hash": "49a600c1fb58052312868874d704ac89b35f104789803ea604cb884374a4d318",
+   "prior_hash": "e56fc753eb4e07e3654f35c9114ba3d068acf7cee7cc74d31530d0516faec5cb",
+   "repair_note": "Reviewer 2026-10-13: P02(d) real-income arithmetic corrected (103 / 106.1); P02(b) made worth 2 marks; leaked chain labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "microeconomics",
     "macroeconomics"
@@ -466,7 +478,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "A copper mine near Tsumeb employs 800 of the town's 6 500 workers at N$9 000 a month each and is deciding whether to cut its workforce to 500. The mine's owners argue the cut is their own commercial matter.\n(a) Define macroeconomics. [2]\n(b) Explain, using the figures, why the mine's choice of 800 workers is a microeconomic decision, whereas its effect on the town is macroeconomic for Tsumeb. [4]\n(c) Analyse the consequences for the town if the mine goes ahead and cuts its workforce. [6]\n(d) Discuss whether the fortunes of one large employer should be treated as a matter of national economic policy. [8]",
-   "canonical_answer": "(a) Macroeconomics is the study of the economy as a whole: total output of goods and services, the general level of prices and total employment.\n(b) The choice of 800 workers is one firm's decision about its own costs and output, made in its own market for labour and copper, so it is microeconomic. Its effect is macroeconomic for Tsumeb because the town's totals move: 300 wages of N$9 000 a month stop, town income falls, and the share of the town's workforce without jobs rises, which are measures of the town economy as a whole rather than of one market. The test is the level each question sits at: the firm's choice is a single-unit question, whereas the town's income and employment are totals - and the same distinction scales up, so a nationwide fall in mining jobs would be a macroeconomic question for Namibia.\n(c) Starting point: the mine cuts 300 of 800 jobs, so N$2 700 000 a month of wage income leaves the town. Mechanism: the workers who lose wages cut their spending on food, transport and school fees; because Tsumeb's shops and taxi owners depend on that spending, their revenue falls and they in turn delay hiring or cut hours. Consequence for whom: the 300 households bear the sharpest loss; the remaining 500 mine workers face an insecure workplace; shopkeepers and transport owners lose income; the town government collects less in local rates and spends more on support; and the town's total output falls with the mine's production. Exception: where a laid-off worker finds work at another mine or starts a business serving the town, the loss to the town is partly offset, so the outcome depends on what the 300 do next.\n(d) Why it might: a large employer's fortunes can move economy-wide totals when its workforce is a big share of a sector, so a government watching total employment has a reason to watch large firms; and the mine's cut ripples through the town's income, which is a macroeconomic event for Tsumeb even if it starts as a commercial decision. Why it might not: policy that shields one firm from its own losses can keep resources in uses where they earn less than they could elsewhere, and a government that treats each large employer's troubles as national matters may find the list endless, because many firms are large to their own towns. Judgement: the government should monitor the fortunes of large employers as macroeconomic signals, but reserve support for cases where the closure would move national totals sharply - the condition the judgement depends on is the size of the employer relative to the sector and the economy, and the reach of the shock beyond its own market.",
+   "canonical_answer": "(a) Macroeconomics is the study of the economy as a whole: total output of goods and services, the general level of prices and total employment.\n(b) The choice of 800 workers is one firm's decision about its own costs and output, made in its own market for labour and copper, so it is microeconomic. Its effect is macroeconomic for Tsumeb because the town's totals move: 300 wages of N$9 000 a month stop, town income falls, and the share of the town's workforce without jobs rises, which are measures of the town economy as a whole rather than of one market. The test is the level each question sits at: the firm's choice is a single-unit question, whereas the town's income and employment are totals - and the same distinction scales up, so a nationwide fall in mining jobs would be a macroeconomic question for Namibia.\n(c) The mine cuts 300 of 800 jobs, so N$2 700 000 a month of wage income leaves the town. The workers who lose wages cut their spending on food, transport and school fees; because Tsumeb's shops and taxi owners depend on that spending, their revenue falls and they in turn delay hiring or cut hours. As a result, the 300 households bear the sharpest loss; the remaining 500 mine workers face an insecure workplace; shopkeepers and transport owners lose income; the town government collects less in local rates and spends more on support; and the town's total output falls with the mine's production. However, where a laid-off worker finds work at another mine or starts a business serving the town, the loss to the town is partly offset, so the outcome depends on what the 300 do next.\n(d) Why it might: a large employer's fortunes can move economy-wide totals when its workforce is a big share of a sector, so a government watching total employment has a reason to watch large firms; and the mine's cut ripples through the town's income, which is a macroeconomic event for Tsumeb even if it starts as a commercial decision. Why it might not: policy that shields one firm from its own losses can keep resources in uses where they earn less than they could elsewhere, and a government that treats each large employer's troubles as national matters may find the list endless, because many firms are large to their own towns. Judgement: the government should monitor the fortunes of large employers as macroeconomic signals, but reserve support for cases where the closure would move national totals sharply - the condition the judgement depends on is the size of the employer relative to the sector and the economy, and the reach of the shock beyond its own market.",
    "marking_guidance": [
     "Parts (a) to (d) carry a model answer each; (d) is level-marked over three bands.",
     "Context: (b) must use the figures - 800 workers, N$9 000, the town's 6 500 workers; (c) must trace the mechanism through to named parties - the 300 households, the remaining workers, shopkeepers, the town government.",
@@ -495,7 +507,9 @@
     "CLM-0455-2.1-006": 1,
     "CLM-0455-2.1-007": 1
    },
-   "authored_hash": "e2b0e8523d23af3f1950acb8499d2f27de733d7063debe3b411fc1b341fe8dab",
+   "authored_hash": "5a67c21627dfadd7c95ee6f5a18f30839daa1fe6a9347654b8e6ab353a35d702",
+   "prior_hash": "e2b0e8523d23af3f1950acb8499d2f27de733d7063debe3b411fc1b341fe8dab",
+   "repair_note": "Reviewer 2026-10-13: P02(d) real-income arithmetic corrected (103 / 106.1); P02(b) made worth 2 marks; leaked chain labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "microeconomics",
     "macroeconomics"

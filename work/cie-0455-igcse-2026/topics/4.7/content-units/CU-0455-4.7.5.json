@@ -75,7 +75,7 @@
    "block_id": "4.7.5-b4",
    "block_type": "misconception",
    "heading": "Causes given where consequences were asked",
-   "text": "The register records a cause-versus-consequence mix-up: answers about unemployment's consequences sometimes list what produced the unemployment instead. The direction matters. A cause runs toward unemployment - a fall in spending, a closure, a new machine; a consequence runs away from it - lost income, weaker sales, lost output. The test: for each event named, ask which way the arrow points. An answer about consequences names what follows the job losses; an answer about causes names what came before them, and the two must not be swapped.",
+   "text": "Causes are often mixed up with consequences: answers about unemployment's consequences sometimes list what produced the unemployment instead. The direction matters. A cause runs toward unemployment - a fall in spending, a closure, a new machine; a consequence runs away from it - lost income, weaker sales, lost output. To tell them apart, ask of each event named which way the arrow points. An answer about consequences names what follows the job losses; an answer about causes names what came before them, and the two must not be swapped.",
    "claim_ids": [
     "CLM-0455-4.7-021"
    ],
@@ -86,7 +86,9 @@
    "claims_seen": {
     "CLM-0455-4.7-021": 1
    },
-   "authored_hash": "67a82f6f398e4c19a79e31d3c8a6106e7b4600a629151e8bb26d869c8a8ce87e"
+   "authored_hash": "68e20ec22e43f5b84fa6a6bbb5751ed9ddedfca0333fad96ba8131738d6f6d8f",
+   "prior_hash": "67a82f6f398e4c19a79e31d3c8a6106e7b4600a629151e8bb26d869c8a8ce87e",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall."
   },
   {
    "block_id": "4.7.5-b5",

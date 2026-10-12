@@ -52,7 +52,7 @@
    "block_id": "2.10.3-b3",
    "block_type": "analysis_chain",
    "heading": "The over-consumption chain",
-   "text": "Start with cheap strong brew sold at N$10 a carton in Swakopmund, where 2 200 cartons a month are bought against the 1 500 the town clinic judges manageable. Because the price holds none of the clinic hours and lost work the brew causes, buyers face a cheaper choice than the one the town bears, and consumption settles 700 cartons a month above the manageable level. This causes the town's nursing hours to flow into repairing harm rather than treating other patients. For whom: drinkers gain cheap brew, families lose rest and wages, and the health service loses capacity.",
+   "text": "Start with cheap strong brew sold at N$10 a carton in Swakopmund, where 2 200 cartons a month are bought against the 1 500 the town clinic judges manageable. Because the price holds none of the clinic hours and lost work the brew causes, buyers face a cheaper choice than the one the town bears, and consumption settles 700 cartons a month above the manageable level. This causes the town's nursing hours to flow into repairing harm rather than treating other patients. Drinkers gain cheap brew, while families lose rest and wages and the health service loses capacity.",
    "claim_ids": [
     "CLM-0455-2.10-011",
     "CLM-0455-2.10-005"
@@ -65,7 +65,9 @@
     "CLM-0455-2.10-011": 1,
     "CLM-0455-2.10-005": 1
    },
-   "authored_hash": "9fa39f93d19a611c1d521d5017a246231ca98a58e8def47f91e82c1608037f6a"
+   "authored_hash": "fcb0c43682d67b627cbeed932a0556df3449ec201f93a5b83aa0381dfea68d57",
+   "prior_hash": "9fa39f93d19a611c1d521d5017a246231ca98a58e8def47f91e82c1608037f6a",
+   "repair_note": "Review fix: flashcard answers trimmed and labels removed; 007 and notes rewritten without the market-failure demand-supply diagram (syllabus says not required); P02(b) asks for two costs; labels removed from P02/P03; Define prompt reworded"
   },
   {
    "block_id": "2.10.3-b4",
@@ -90,8 +92,8 @@
   {
    "block_id": "2.10.3-b5",
    "block_type": "interpretation",
-   "heading": "Reading under-provision in words",
-   "text": "Put the vaccination market into words. The axes: price on the vertical, quantity on the horizontal. The demand curve slopes downward, tracing what buyers will pay for their own benefit; the supply curve slopes upward. The market settles where they cross: N$60 and 300 vaccinations. A demand curve that also counted the benefits to others would sit to the right of this one, crossing supply nearer the 900 that serves the town. The gap between the two crossings is the under-provision: the part of the good's value the price never registered.",
+   "heading": "Measuring the shortfall",
+   "text": "Put the vaccination market into figures. Buyers pay N$60 and weigh only the protection they receive themselves, so the market settles at 300 vaccinations a season. Counting the protection each vaccination gives to others, the clinic puts the level serving the town nearer 900. The 600 between the two is the under-provision: the part of the good's value the price never registered. The 900 is an estimate, so the size of the shortfall is a judgement, but its direction follows from benefits no buyer pays for.",
    "claim_ids": [
     "CLM-0455-2.10-012"
    ],
@@ -102,7 +104,9 @@
    "claims_seen": {
     "CLM-0455-2.10-012": 1
    },
-   "authored_hash": "1adb6ad14befcfe7735c9577f346a01687a6a6fbc4d73109eaaa8610950d03c5"
+   "authored_hash": "56cecc39e2b50587f1efb602317b0bf448c486b29bd32580b58c8124999c0998",
+   "prior_hash": "1adb6ad14befcfe7735c9577f346a01687a6a6fbc4d73109eaaa8610950d03c5",
+   "repair_note": "Review fix: flashcard answers trimmed and labels removed; 007 and notes rewritten without the market-failure demand-supply diagram (syllabus says not required); P02(b) asks for two costs; labels removed from P02/P03; Define prompt reworded"
   },
   {
    "block_id": "2.10.3-b6",
@@ -118,5 +122,5 @@
    "authored_hash": "64f98d95f80ef41884555b90d3df0677e55feb7af9fa726a707b9a6d6983ef3e"
   }
  ],
- "word_count": 439
+ "word_count": 432
 }

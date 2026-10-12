@@ -22,7 +22,7 @@
    "mark_tariff": 2,
    "difficulty": 1,
    "prompt": "A bank screen in Windhoek quotes N$18.50 per US$1. Define the foreign exchange rate.",
-   "canonical_answer": "The foreign exchange rate is the price of one currency expressed in terms of another: the number of units of one currency needed to buy one unit of the other. Applied to the quotation: the screen states the price of one US dollar in Namibian dollars, N$18.50, so the two currencies named are the US dollar and the Namibian dollar, and the price belongs to a moment, because the market behind it moves.",
+   "canonical_answer": "The foreign exchange rate is the price of one currency expressed in terms of another: the number of units of one currency needed to buy one unit of the other. Here one US dollar costs N$18.50.",
    "marking_guidance": [
     "Precise definition: the meaning must name a price of one currency in terms of another, as the N$18.50 per US$1 quotation shows.",
     "A number of Namibian dollars on its own is not a definition: the two currencies and the price relation between them carry the definition."
@@ -43,7 +43,9 @@
     "CLM-0455-6.3-001": 1,
     "CLM-0455-6.3-002": 1
    },
-   "authored_hash": "a8b970839201389010fbf2286bf1e30894bcca666e2343c6b0a2d5f9826fde1d"
+   "authored_hash": "c5487aef0b2c12d1d63806d82a8601e6968a086d1936f019faff58d085b56cfb",
+   "prior_hash": "a8b970839201389010fbf2286bf1e30894bcca666e2343c6b0a2d5f9826fde1d",
+   "repair_note": "Review fix: removed the floating/pegged contradiction - Namibia-specific demand and interest-rate shocks no longer move the N$ on its own (004, 006, 009 and notes 6.3.3-b3/b4 reframed around Zambia's floating kwacha; P02 causes moved to the rand, with the peg stated; P03(b) generalised); N$-euro moves now stated as moving with the rand (011, 012, P03, notes 6.3.4-b3, 6.3.5-b3, claim 020); P02/P03 labels removed; flashcard answers trimmed for recall"
   },
   {
    "item_id": "ITEM-0455-6.3-002-FEATURE",
@@ -66,7 +68,7 @@
    "mark_tariff": 2,
    "difficulty": 1,
    "prompt": "Identify two features that a foreign exchange rate quotation carries.",
-   "canonical_answer": "One feature is that the quotation names two currencies: the one being priced and the one it is priced in, such as the US dollar and the Namibian dollar. A second feature is that it states a number of units: how many units of one currency one unit of the other costs, such as N$18.50 per US$1. A further acceptable feature is the moment the quotation belongs to, because the rate moves as the market behind it moves.",
+   "canonical_answer": "First, it names two currencies: the one being priced and the one it is priced in, such as the US dollar and the Namibian dollar. Second, it states a number of units of one per unit of the other, such as N$18.50 per US$1.",
    "marking_guidance": [
     "Features: the answer must name what a quotation includes - two named currencies, a number of units of one per unit of the other, and the moment it is quoted for.",
     "Elements must be features of a rate quotation, not properties or uses of money, which belong to the topic on money."
@@ -88,7 +90,9 @@
     "CLM-0455-6.3-002": 1,
     "CLM-0455-6.3-003": 1
    },
-   "authored_hash": "a5621d893ccb059483b2eb9a77ea326fb5fbcdef59dd5d741a3af281cc2a5046"
+   "authored_hash": "58ff0b829d41b3bb12359e23523d23663ab5c8e367b445788922b51b8ab5c6b8",
+   "prior_hash": "a5621d893ccb059483b2eb9a77ea326fb5fbcdef59dd5d741a3af281cc2a5046",
+   "repair_note": "Review fix: removed the floating/pegged contradiction - Namibia-specific demand and interest-rate shocks no longer move the N$ on its own (004, 006, 009 and notes 6.3.3-b3/b4 reframed around Zambia's floating kwacha; P02 causes moved to the rand, with the peg stated; P03(b) generalised); N$-euro moves now stated as moving with the rand (011, 012, P03, notes 6.3.4-b3, 6.3.5-b3, claim 020); P02/P03 labels removed; flashcard answers trimmed for recall"
   },
   {
    "item_id": "ITEM-0455-6.3-003-DEF",
@@ -109,7 +113,7 @@
    "mark_tariff": 2,
    "difficulty": 3,
    "prompt": "In the Windhoek market for US dollars, the quantity of dollars demanded matches the quantity offered at N$15 per US$1. Define the equilibrium foreign exchange rate.",
-   "canonical_answer": "The equilibrium foreign exchange rate is the rate at which the quantity of a currency demanded in the foreign exchange market equals the quantity of that currency supplied. At that rate, every unit of the currency offered finds a buyer and there is no pressure on the price to move, which is why the market in the prompt settles at N$15 per US$1.",
+   "canonical_answer": "The equilibrium foreign exchange rate is the rate at which the quantity of a currency demanded in the foreign exchange market equals the quantity supplied, so there is no pressure on the rate to move - here N$15 per US$1.",
    "marking_guidance": [
     "Precise definition: the meaning must tie the rate to equal quantities demanded and supplied, not to any particular level such as N$15 per US$1."
    ],
@@ -128,7 +132,9 @@
    "claims_seen": {
     "CLM-0455-6.3-005": 1
    },
-   "authored_hash": "b607a5fb812e68ee87f1433414a5ec820a2ec3e639a795e21d4ee072e8364395"
+   "authored_hash": "333d90b5f3da2bba845be13f35fb8d5f6e98ff6f25fd6c36fb44407f05b2f4d3",
+   "prior_hash": "b607a5fb812e68ee87f1433414a5ec820a2ec3e639a795e21d4ee072e8364395",
+   "repair_note": "Review fix: removed the floating/pegged contradiction - Namibia-specific demand and interest-rate shocks no longer move the N$ on its own (004, 006, 009 and notes 6.3.3-b3/b4 reframed around Zambia's floating kwacha; P02 causes moved to the rand, with the peg stated; P03(b) generalised); N$-euro moves now stated as moving with the rand (011, 012, P03, notes 6.3.4-b3, 6.3.5-b3, claim 020); P02/P03 labels removed; flashcard answers trimmed for recall"
   },
   {
    "item_id": "ITEM-0455-6.3-004-MECH",
@@ -150,10 +156,10 @@
    "command_word": "Analyse",
    "mark_tariff": 6,
    "difficulty": 3,
-   "prompt": "Kaoko Juice of Opuwo has begun selling bottled juice to buyers in the Netherlands, who must pay in Namibian dollars. Analyse how this new export trade moves the foreign exchange market for the Namibian dollar.",
-   "canonical_answer": "The mechanism runs from the buyer to the currency market. Because the Dutch buyers must pay Kaoko Juice in Namibian dollars, they have to buy Namibian dollars, selling euros, and this adds to the demand for the Namibian dollar in the foreign exchange market. Because demand has risen while supply is little changed, the price of the Namibian dollar in euros tends to rise, so the currency tends to appreciate. Therefore the consequence for the trade is upward pressure on the rate: each Netherlands buyer now finds a Namibian dollar slightly dearer in euros, so a growing export sector tends to strengthen the home currency it is paid in.",
+   "prompt": "Chongwe Juice of Lusaka, Zambia, has begun selling bottled juice to buyers in the Netherlands, who must pay in kwacha, Zambia's floating currency. Analyse how this new export trade moves the foreign exchange market for the kwacha.",
+   "canonical_answer": "Because the Dutch buyers must pay Chongwe Juice in kwacha, they sell euros to buy kwacha, which adds to the demand for the kwacha in the foreign exchange market. With demand higher and supply little changed, the price of the kwacha in euros tends to rise, so the currency tends to appreciate. Each Dutch buyer then finds a kwacha slightly dearer in euros, so a growing export trade tends to strengthen the currency it is paid in, provided other influences on the market stay unchanged.",
    "marking_guidance": [
-    "Mechanism: the answer must show how the payment need of the Dutch buyers creates demand for the Namibian dollar, because a currency is demanded as the means of paying for the country's exports.",
+    "Mechanism: the answer must show how the payment need of the Dutch buyers creates demand for the kwacha, because a currency is demanded as the means of paying for the country's exports.",
     "Consequence: the answer must close on what the extra demand does to the rate, so that the appreciation is stated as the result."
    ],
    "context": {
@@ -173,7 +179,9 @@
     "CLM-0455-6.3-006": 1,
     "CLM-0455-6.3-008": 1
    },
-   "authored_hash": "22de46a83d76ef4143cb288edd349b44b6ac595cfbf5abbdb33e87ab6792d029"
+   "authored_hash": "4ff24bbb7d597dbfb280ffb6041532fcdc3a1ff1ed14635944cb76a1985b31e0",
+   "prior_hash": "22de46a83d76ef4143cb288edd349b44b6ac595cfbf5abbdb33e87ab6792d029",
+   "repair_note": "Review fix: removed the floating/pegged contradiction - Namibia-specific demand and interest-rate shocks no longer move the N$ on its own (004, 006, 009 and notes 6.3.3-b3/b4 reframed around Zambia's floating kwacha; P02 causes moved to the rand, with the peg stated; P03(b) generalised); N$-euro moves now stated as moving with the rand (011, 012, P03, notes 6.3.4-b3, 6.3.5-b3, claim 020); P02/P03 labels removed; flashcard answers trimmed for recall"
   },
   {
    "item_id": "ITEM-0455-6.3-005-APP",
@@ -196,7 +204,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "This week in the Windhoek market for US dollars: at N$16 per US$1, importers want 4 million US dollars and sellers offer 6 million; at N$14 per US$1, importers want 7 million and sellers offer 3 million; at N$15 per US$1, both sides want 5 million. Using the figures, explain how the equilibrium foreign exchange rate is determined.",
-   "canonical_answer": "The figures show two out-of-balance prices and one balanced one. At N$16 per US$1, 6 million US dollars are offered while 4 million are wanted, so sellers who cannot all find buyers tend to accept a lower price and the price of the dollar tends to fall. At N$14 per US$1, importers want 7 million US dollars while sellers offer 3 million, so buyers tend to bid the price up. At N$15 per US$1 the quantity demanded equals the quantity supplied at 5 million US dollars, so no pressure remains in either direction. Therefore the equilibrium rate is N$15 per US$1: the one price at which the market clears.",
+   "canonical_answer": "At N$16 per US$1, 6 million US dollars are offered but 4 million wanted, so sellers left with unsold dollars push the price down. At N$14 per US$1, 7 million are wanted but 3 million offered, so buyers bid the price up. At N$15 per US$1, quantity demanded equals quantity supplied at 5 million US dollars, so no pressure remains. The equilibrium rate is therefore N$15 per US$1, the price at which the market clears.",
    "marking_guidance": [
     "Context: the figures must be used - the quantities offered and wanted at N$16, N$14 and N$15 per US$1.",
     "Reasoning: the link from excess supply or excess demand to the direction of price pressure must be stated, because a quoted quantity on its own explains nothing.",
@@ -218,7 +226,9 @@
     "CLM-0455-6.3-005": 1,
     "CLM-0455-6.3-008": 1
    },
-   "authored_hash": "ba5b3a32415cc5ecc45ee1130675cd5d806b6d3952fdd5f413b78544892e470a"
+   "authored_hash": "948663d6c16f2090d4999d1ec34589cc20bdb2b538309efd836bf5feb39b7cba",
+   "prior_hash": "ba5b3a32415cc5ecc45ee1130675cd5d806b6d3952fdd5f413b78544892e470a",
+   "repair_note": "Review fix: removed the floating/pegged contradiction - Namibia-specific demand and interest-rate shocks no longer move the N$ on its own (004, 006, 009 and notes 6.3.3-b3/b4 reframed around Zambia's floating kwacha; P02 causes moved to the rand, with the peg stated; P03(b) generalised); N$-euro moves now stated as moving with the rand (011, 012, P03, notes 6.3.4-b3, 6.3.5-b3, claim 020); P02/P03 labels removed; flashcard answers trimmed for recall"
   },
   {
    "item_id": "ITEM-0455-6.3-006-CHAIN",
@@ -240,8 +250,8 @@
    "command_word": "Analyse",
    "mark_tariff": 6,
    "difficulty": 5,
-   "prompt": "After a travel fair in Munich, German holiday bookings at Etosha Gate Lodge rise sharply for the coming season. Analyse the likely chain of effects on the Namibian dollar's foreign exchange rate and on those the change touches.",
-   "canonical_answer": "Starting point: German tourists book Namibian holidays in larger numbers. Mechanism: because the tourists must pay the lodge in Namibian dollars, their bookings add to the demand for the Namibian dollar, and this causes the currency's price in euros to tend upward - an appreciation. Consequence: therefore each euro tends to buy fewer Namibian dollars, so the lodge is likely to see each euro booking convert into slightly fewer Namibian dollars, while Namibian importers gain, because each Namibian dollar buys more foreign currency. For whom: the lodge gains fuller bookings but slightly less Namibian revenue per euro; other Namibian exporters find their goods a little dearer abroad; travellers from Germany face a slightly dearer holiday; importers and consumers of imported goods in the economy gain a margin on foreign prices.",
+   "prompt": "After a travel fair in Munich, German holiday bookings at a lodge near Livingstone, Zambia, rise sharply for the coming season. Zambia's currency, the kwacha, floats. Analyse the likely chain of effects on the kwacha's foreign exchange rate and on those the change touches.",
+   "canonical_answer": "Because the German tourists must pay the lodge in kwacha, their bookings add to the demand for the kwacha, so its price in euros tends to rise - an appreciation. Each euro then buys fewer kwacha, so the lodge receives slightly fewer kwacha for each euro booked, though its bookings are fuller. Other Zambian exporters find their goods a little dearer abroad, German travellers face a slightly dearer holiday, and Zambian importers and consumers of imported goods gain, because each kwacha buys more foreign currency.",
    "marking_guidance": [
     "Starting point: the initial change - the rise in German bookings - must be stated.",
     "Mechanism: because the tourists must obtain Namibian dollars to pay, this causes added demand for the currency and upward pressure on the rate.",
@@ -265,7 +275,9 @@
     "CLM-0455-6.3-007": 1,
     "CLM-0455-6.3-008": 1
    },
-   "authored_hash": "17fc8e9b29183de4ccfb7fed4e295bb40a22366cac84af5f90eaa1bf5a3d18d7"
+   "authored_hash": "d701a6d966ceffa3adb21708ba1272995edd211d7ca69b567b3a8db8750019ea",
+   "prior_hash": "17fc8e9b29183de4ccfb7fed4e295bb40a22366cac84af5f90eaa1bf5a3d18d7",
+   "repair_note": "Review fix: removed the floating/pegged contradiction - Namibia-specific demand and interest-rate shocks no longer move the N$ on its own (004, 006, 009 and notes 6.3.3-b3/b4 reframed around Zambia's floating kwacha; P02 causes moved to the rand, with the peg stated; P03(b) generalised); N$-euro moves now stated as moving with the rand (011, 012, P03, notes 6.3.4-b3, 6.3.5-b3, claim 020); P02/P03 labels removed; flashcard answers trimmed for recall"
   },
   {
    "item_id": "ITEM-0455-6.3-016-EVAL",
@@ -292,7 +304,7 @@
    "mark_tariff": 8,
    "difficulty": 5,
    "prompt": "Discuss whether a government should leave its currency's foreign exchange rate to be determined by demand and supply in the foreign exchange market.",
-   "canonical_answer": "Why it might: leaving the rate to the market means it adjusts by itself to shifts in trade and investment - when export demand falls, the currency tends to ease and lends exporters a hand, without the government spending reserves it may not have. The market rate also reflects real conditions, because it gathers the demands of many buyers and sellers, so the economy's prices stay aligned with what its currency is worth abroad. Why it might not: a market rate can swing sharply on speculation and short-term fund movements, and a firm pricing next quarter's imports or a household remitting money then faces uncertainty a held rate would have prevented; a held rate gives traders the certainty to sign cross-border contracts. What settles it: it depends on the economy's trade exposure and the authority's reserves - an economy that trades heavily and holds large reserves may gain from holding its rate steady, while an economy with thin reserves may have little choice but to float. Judgement: on balance, leaving the rate to the market tends to serve most economies, because a held rate that runs out of reserves fails suddenly and the cost of that failure is larger than the cost of living with movement; the condition is that the foreign exchange market is deep enough for the rate to adjust in steps rather than lurches.",
+   "canonical_answer": "Leaving the rate to the market might be right: it adjusts by itself to shifts in trade and investment - when export demand falls, the currency tends to ease, helping exporters - without the government spending reserves, and it reflects real conditions in the market. It might be wrong: a market rate can swing sharply on speculation and short-term fund movements, leaving a firm pricing next quarter's imports with uncertainty a held rate would remove. What settles it is the economy's trade exposure and its reserves: an economy that trades heavily and holds large reserves may gain from holding its rate steady, while one with thin reserves may have little choice but to float. On balance, leaving the rate to the market tends to serve most economies, because a held rate that runs out of reserves fails suddenly, at greater cost than living with movement - provided the market is deep enough for the rate to adjust in steps rather than lurches.",
    "marking_guidance": [
     "Judgement: the answer must reach a judgement and name the condition it depends on.",
     "Why it might: the argument for market determination must be developed - self-adjustment and prices that reflect conditions.",
@@ -318,9 +330,11 @@
     "CLM-0455-6.3-017": 1,
     "CLM-0455-6.3-018": 1,
     "CLM-0455-6.3-019": 1,
-    "CLM-0455-6.3-020": 1
+    "CLM-0455-6.3-020": 2
    },
-   "authored_hash": "17aa289e53d970473003e38a6acf603be5a62e073409e7dd6766aee297479252"
+   "authored_hash": "fa3f29558037c24c9e77b89321eb9e10b994e04fa17b6849b3847c7840aa5f7c",
+   "prior_hash": "17aa289e53d970473003e38a6acf603be5a62e073409e7dd6766aee297479252",
+   "repair_note": "Review fix: removed the floating/pegged contradiction - Namibia-specific demand and interest-rate shocks no longer move the N$ on its own (004, 006, 009 and notes 6.3.3-b3/b4 reframed around Zambia's floating kwacha; P02 causes moved to the rand, with the peg stated; P03(b) generalised); N$-euro moves now stated as moving with the rand (011, 012, P03, notes 6.3.4-b3, 6.3.5-b3, claim 020); P02/P03 labels removed; flashcard answers trimmed for recall"
   },
   {
    "item_id": "ITEM-0455-6.3-007-DEF",
@@ -341,7 +355,7 @@
    "mark_tariff": 2,
    "difficulty": 3,
    "prompt": "A Windhoek trader buys US dollars today, expecting the Namibian dollar to buy fewer of them next month, and plans to sell the dollars back then. Define speculation in the foreign exchange market.",
-   "canonical_answer": "Speculation in the foreign exchange market is the buying or selling of a currency in the expectation that its exchange rate is about to move, with the aim of profiting from the move rather than from trading goods or services. Applied to the trader: buying US dollars now, ahead of the expected depreciation of the Namibian dollar, is speculation, because the profit would come from the rate movement itself.",
+   "canonical_answer": "Speculation is buying or selling a currency in the expectation that its exchange rate will move, to profit from the move rather than from trade in goods or services. The trader buys US dollars now to profit from the expected fall in the Namibian dollar.",
    "marking_guidance": [
     "Precise definition: the meaning must cover acting on an expectation of a rate movement for profit, as the trader's purchase of dollars today shows."
    ],
@@ -360,7 +374,9 @@
    "claims_seen": {
     "CLM-0455-6.3-012": 1
    },
-   "authored_hash": "4b048cd9439b9407cfa8da3782c48b6c29693addb27c81eac6a051076d7ede2f"
+   "authored_hash": "6cee2da6bb307a9fb3553bf17565211ac547a6f7457ddd40c90615ecf612b492",
+   "prior_hash": "4b048cd9439b9407cfa8da3782c48b6c29693addb27c81eac6a051076d7ede2f",
+   "repair_note": "Review fix: removed the floating/pegged contradiction - Namibia-specific demand and interest-rate shocks no longer move the N$ on its own (004, 006, 009 and notes 6.3.3-b3/b4 reframed around Zambia's floating kwacha; P02 causes moved to the rand, with the peg stated; P03(b) generalised); N$-euro moves now stated as moving with the rand (011, 012, P03, notes 6.3.4-b3, 6.3.5-b3, claim 020); P02/P03 labels removed; flashcard answers trimmed for recall"
   },
   {
    "item_id": "ITEM-0455-6.3-008-CHAIN",
@@ -382,7 +398,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "The central bank of a small open economy raises its rate of interest from 6% to 9% a year while rates abroad stay at 6%. Analyse the likely chain of effects on the economy's foreign exchange rate.",
-   "canonical_answer": "Starting point: the economy's rate of interest rises from 6% to 9% while foreign rates stand still. Mechanism: because deposits and bonds in the economy's currency now pay 3 percentage points more than similar assets abroad, funds are likely to flow in from savers who want the higher return, and this causes demand for the currency to rise. Consequence: therefore the currency tends to appreciate against other currencies, so each unit of it buys more foreign currency; a decrease in the rate of interest would run the chain in reverse. For whom: foreign savers gain the higher return; the government is likely to find foreign borrowing easier while the demand for its currency holds; exporters in the economy lose ground, because their goods become dearer abroad; and consumers gain as imports become cheaper in home currency.",
+   "canonical_answer": "With its rate of interest at 9% against 6% abroad, deposits and bonds in the economy's currency pay 3 percentage points more, so funds are likely to flow in from savers seeking the higher return, raising demand for the currency. The currency therefore tends to appreciate, so each unit buys more foreign currency; a cut in the rate of interest would run the chain in reverse. Foreign savers gain the higher return, the government may find foreign borrowing easier, exporters lose ground as their goods become dearer abroad, and consumers gain as imports become cheaper.",
    "marking_guidance": [
     "Starting point: the initial change - the rate of interest rising from 6% to 9% - must be stated.",
     "Mechanism: because the higher return attracts funds, this causes demand for the currency to rise, and the direction of the interest move and the direction of the rate move must correspond.",
@@ -405,7 +421,9 @@
     "CLM-0455-6.3-009": 1,
     "CLM-0455-6.3-011": 1
    },
-   "authored_hash": "f1ec76164aa7645c33b13a9945ef55c1463d8500e0b120dbfc821c1175611c64"
+   "authored_hash": "b9e6648c8b7e5b5a2fd19a43ba483f58127c5e36910f3245f7b0e0dfd000aa1b",
+   "prior_hash": "f1ec76164aa7645c33b13a9945ef55c1463d8500e0b120dbfc821c1175611c64",
+   "repair_note": "Review fix: removed the floating/pegged contradiction - Namibia-specific demand and interest-rate shocks no longer move the N$ on its own (004, 006, 009 and notes 6.3.3-b3/b4 reframed around Zambia's floating kwacha; P02 causes moved to the rand, with the peg stated; P03(b) generalised); N$-euro moves now stated as moving with the rand (011, 012, P03, notes 6.3.4-b3, 6.3.5-b3, claim 020); P02/P03 labels removed; flashcard answers trimmed for recall"
   },
   {
    "item_id": "ITEM-0455-6.3-009-APP",
@@ -427,10 +445,10 @@
    "command_word": "Explain",
    "mark_tariff": 4,
    "difficulty": 3,
-   "prompt": "Marula Foods of Otavi exports dried fruit to Portugal. A Germany-based discount retailer announces it will open ten outlets in Windhoek next year, converting an investment of N$120 million into Namibian dollars to build and stock them. Using the context, explain how this multinational's entry is likely to move the demand for the Namibian dollar and its foreign exchange rate.",
-   "canonical_answer": "The context is an investment of N$120 million arriving from abroad. Because the retailer must convert its funds into Namibian dollars to build and stock the outlets, the entry adds to the demand for the Namibian dollar in the foreign exchange market. This extra demand is likely to push the price of the Namibian dollar up against other currencies, so the currency is likely to appreciate, which means each Namibian dollar buys more foreign currency. Therefore the multinational's entry tends to strengthen the host currency through the funds it converts, just as its departure would remove that demand.",
+   "prompt": "A Germany-based discount retailer announces it will open ten outlets in Lusaka, Zambia, next year, converting an investment of 50 million euros into kwacha, Zambia's floating currency, to build and stock them. Using the context, explain how this multinational's entry is likely to move the demand for the kwacha and its foreign exchange rate.",
+   "canonical_answer": "To build and stock the outlets, the retailer must sell 50 million euros for kwacha, which adds to the demand for the kwacha in the foreign exchange market. This extra demand is likely to push the price of the kwacha up against other currencies, so the kwacha is likely to appreciate and each kwacha buys more foreign currency. The multinational's entry therefore tends to strengthen the host currency, and its departure would remove that demand.",
    "marking_guidance": [
-    "Context: the N$120 million investment and its conversion into Namibian dollars must be used.",
+    "Context: the 50 million euro investment and its conversion into kwacha must be used.",
     "Reasoning: the link from the conversion to currency demand must be given, because the entry moves the market through the funds it changes.",
     "Conclusion: therefore the answer must close on the direction of the rate movement."
    ],
@@ -450,7 +468,9 @@
     "CLM-0455-6.3-009": 1,
     "CLM-0455-6.3-012": 1
    },
-   "authored_hash": "8fd98c9ecd25e3b2f211a70eb7cbec856cd84894669beb0d84676c0d38f4aae4"
+   "authored_hash": "1793864fcc5893f8ae2fa146141f161bf729497c79b3ef22f64f87f9534f915b",
+   "prior_hash": "8fd98c9ecd25e3b2f211a70eb7cbec856cd84894669beb0d84676c0d38f4aae4",
+   "repair_note": "Review fix: removed the floating/pegged contradiction - Namibia-specific demand and interest-rate shocks no longer move the N$ on its own (004, 006, 009 and notes 6.3.3-b3/b4 reframed around Zambia's floating kwacha; P02 causes moved to the rand, with the peg stated; P03(b) generalised); N$-euro moves now stated as moving with the rand (011, 012, P03, notes 6.3.4-b3, 6.3.5-b3, claim 020); P02/P03 labels removed; flashcard answers trimmed for recall"
   },
   {
    "item_id": "ITEM-0455-6.3-010-DEF",
@@ -471,7 +491,7 @@
    "mark_tariff": 2,
    "difficulty": 3,
    "prompt": "Oshakati Textiles wants to know how strongly its customers will respond if the price of imported cloth rises. Define price elasticity of demand as it applies to spending on imports.",
-   "canonical_answer": "Price elasticity of demand measures how strongly the quantity demanded responds to a change in price: the percentage change in quantity demanded that follows a percentage change in price. As it applies to spending on imports, it says whether a rise in the home price of imports cuts the quantity demanded by more or by less than the price rose, which decides whether spending on imports rises or falls after the price change.",
+   "canonical_answer": "Price elasticity of demand measures how strongly the quantity demanded responds to a price change: the percentage change in quantity demanded divided by the percentage change in price. For imports, it decides whether a higher import price raises or lowers spending on them.",
    "marking_guidance": [
     "Precise definition: the meaning must relate the percentage change in quantity demanded to the percentage change in price, and connect it to whether import spending rises or falls."
    ],
@@ -490,7 +510,9 @@
    "claims_seen": {
     "CLM-0455-6.3-014": 1
    },
-   "authored_hash": "1f985f37f5055c0d0137c33c6763b885aeee8d8f51716d2a15b00077d3ccdafd"
+   "authored_hash": "3b7466cd5785b32bd53991305a7ebbb9b06e5d0f3c0036906afaedd502091b5e",
+   "prior_hash": "1f985f37f5055c0d0137c33c6763b885aeee8d8f51716d2a15b00077d3ccdafd",
+   "repair_note": "Review fix: removed the floating/pegged contradiction - Namibia-specific demand and interest-rate shocks no longer move the N$ on its own (004, 006, 009 and notes 6.3.3-b3/b4 reframed around Zambia's floating kwacha; P02 causes moved to the rand, with the peg stated; P03(b) generalised); N$-euro moves now stated as moving with the rand (011, 012, P03, notes 6.3.4-b3, 6.3.5-b3, claim 020); P02/P03 labels removed; flashcard answers trimmed for recall"
   },
   {
    "item_id": "ITEM-0455-6.3-011-CHAIN",
@@ -513,8 +535,8 @@
    "command_word": "Analyse",
    "mark_tariff": 6,
    "difficulty": 5,
-   "prompt": "The Namibian dollar depreciates against the euro, moving from N$19 per euro to N$21 per euro while quoted prices stay unchanged. Analyse the likely effects on export and import prices and on spending on exports and imports.",
-   "canonical_answer": "Starting point: the Namibian dollar depreciates, from N$19 to N$21 per euro, with no quoted price changing. Mechanism: because each euro now costs more Namibian dollars, a drum of imported dye priced at 20 euros rises from 20 x 19 = N$380 to 20 x 21 = N$420, and a crate of exports priced N$399 falls for a Portuguese buyer from 21.00 euros to 19.00 euros - this causes imports to become dearer at home and exports cheaper abroad. Consequence: therefore spending moves as the price elasticity of demand decides: where demand for Namibian exports is price-elastic, quantities rise enough for export earnings to grow, and where demand for imports is price-inelastic, import spending rises because buyers keep buying at the higher price; the trade balance tends to improve only where demand for exports and imports is price-elastic enough to respond and where supply can respond to the larger orders. For whom: exporters gain cheaper prices abroad and possibly larger orders; importers such as the textile firm face higher costs; consumers pay more for imported goods; and the economy's trade position depends on which response outweighs the other.",
+   "prompt": "The Namibian dollar, moving with the rand, depreciates against the euro from N$19 per euro to N$21 per euro while quoted prices stay unchanged. Analyse the likely effects on export and import prices and on spending on exports and imports.",
+   "canonical_answer": "Each euro now costs more Namibian dollars, so a drum of dye priced 20 euros rises from 20 x 19 = N$380 to 20 x 21 = N$420, while a crate of exports priced N$399 falls for a Portuguese buyer from 21.00 to 19.00 euros: imports become dearer at home and exports cheaper abroad. Where demand for exports is price-elastic, quantities rise enough for export earnings to grow; where demand for imports is price-inelastic, import spending rises. The trade balance tends to improve only where demand for exports and imports is elastic enough to respond and supply can respond. Exporters gain, importers and consumers pay more, and the economy's position depends on which response is larger.",
    "marking_guidance": [
     "Starting point: the initial change - the rate moving from N$19 to N$21 per euro - must be stated.",
     "Mechanism: because conversion prices shift with the rate, this causes the home price of imports and the foreign price of exports to move in the stated directions.",
@@ -539,9 +561,9 @@
     "CLM-0455-6.3-015": 2,
     "CLM-0455-6.3-016": 1
    },
-   "authored_hash": "b282b5b335e2933d7ac9bb458e81d80285ccb9aa82d403dbb3c508b73d1ddc8f",
-   "prior_hash": "7d92144d6c3a30814d661d98b20dccbe70b907add343996b39b36cd9ffc98ef8",
-   "repair_note": "Planner audit 2026-10-06: removed the named Marshall-Lerner condition (beyond the 0455 syllabus; the condition is kept in plain words) and corrected cross-references to topics 2.7 (PED) and 6.4 (current account)."
+   "authored_hash": "62fa4c57b557e60f90c8a68849ce4f77a59ff318dd9f6ec06a88b3053189ac9a",
+   "prior_hash": "b282b5b335e2933d7ac9bb458e81d80285ccb9aa82d403dbb3c508b73d1ddc8f",
+   "repair_note": "Review fix: removed the floating/pegged contradiction - Namibia-specific demand and interest-rate shocks no longer move the N$ on its own (004, 006, 009 and notes 6.3.3-b3/b4 reframed around Zambia's floating kwacha; P02 causes moved to the rand, with the peg stated; P03(b) generalised); N$-euro moves now stated as moving with the rand (011, 012, P03, notes 6.3.4-b3, 6.3.5-b3, claim 020); P02/P03 labels removed; flashcard answers trimmed for recall"
   },
   {
    "item_id": "ITEM-0455-6.3-012-APP",
@@ -563,8 +585,8 @@
    "command_word": "Explain",
    "mark_tariff": 4,
    "difficulty": 3,
-   "prompt": "Oshakati Textiles buys a drum of imported dye priced at 20 euros. The Namibian dollar then appreciates against the euro, from N$21 per euro to N$19 per euro. Using the figures, explain how the appreciation is likely to affect the firm's costs and its sales in the home market.",
-   "canonical_answer": "The figures give the cost of one drum before and after. Before the appreciation, the drum costs 20 x 21 = N$420; after it, the same drum costs 20 x 19 = N$380, so the firm's cost per drum falls by 420 - 380 = N$40. Because its imported input is now cheaper, the firm is likely to enjoy a lower cost per metre of cloth, which means it can hold its home prices down or widen its margin. In the home market the appreciation also makes imported cloth itself cheaper for rival sellers, so the firm is likely to face keener price competition at home; therefore the appreciation helps the firm's costs while pressing on its home sales.",
+   "prompt": "Oshakati Textiles buys a drum of imported dye priced at 20 euros. The Namibian dollar, moving with the rand, then appreciates against the euro, from N$21 per euro to N$19 per euro. Using the figures, explain how the appreciation is likely to affect the firm's costs and its sales in the home market.",
+   "canonical_answer": "Before the appreciation the drum costs 20 x 21 = N$420; after it, 20 x 19 = N$380, a saving of 420 - 380 = N$40 a drum. Because its imported input is cheaper, the firm's cost per metre of cloth tends to fall, so it can hold its prices down or widen its margin. But imported cloth also becomes cheaper for rival sellers, so the firm is likely to face keener competition at home. The appreciation therefore helps its costs while pressing on its home sales.",
    "marking_guidance": [
     "Context: the figures must be used - the drum priced at 20 euros when one euro costs N$21 and then N$19, and the N$40 fall.",
     "Reasoning: the link from the cheaper input to the firm's costs, and from cheaper rival imports to its home sales, must be given, because the appreciation works on both.",
@@ -586,7 +608,9 @@
     "CLM-0455-6.3-013": 1,
     "CLM-0455-6.3-016": 1
    },
-   "authored_hash": "4e09213ac6e150aa30edf2c6294921366cef812467bec9b3426aa96b6863241f"
+   "authored_hash": "6ab47c21e7c780b92e706e769a66889aa876f7a3e520ba7bb1109ee197b65ec8",
+   "prior_hash": "4e09213ac6e150aa30edf2c6294921366cef812467bec9b3426aa96b6863241f",
+   "repair_note": "Review fix: removed the floating/pegged contradiction - Namibia-specific demand and interest-rate shocks no longer move the N$ on its own (004, 006, 009 and notes 6.3.3-b3/b4 reframed around Zambia's floating kwacha; P02 causes moved to the rand, with the peg stated; P03(b) generalised); N$-euro moves now stated as moving with the rand (011, 012, P03, notes 6.3.4-b3, 6.3.5-b3, claim 020); P02/P03 labels removed; flashcard answers trimmed for recall"
   },
   {
    "item_id": "ITEM-0455-6.3-013-DEF",
@@ -607,7 +631,7 @@
    "mark_tariff": 2,
    "difficulty": 2,
    "prompt": "Some governments let the market set their currency's price; others hold it at a chosen level. Define a floating exchange rate.",
-   "canonical_answer": "A floating exchange rate is a rate determined by the demand for and the supply of the currency in the foreign exchange market, which moves whenever either side of the market shifts, with the government holding it at no particular level. A country that floats lets the rate find its own price, as the price of any good finds its level in a market.",
+   "canonical_answer": "A floating exchange rate is one determined by the demand for and supply of the currency in the foreign exchange market, moving whenever either side shifts, with the government holding it at no particular level.",
    "marking_guidance": [
     "Precise definition: the meaning must name market determination - demand and supply setting the rate - and the absence of a held level, which is what separates a float from a fixed system."
    ],
@@ -626,7 +650,9 @@
    "claims_seen": {
     "CLM-0455-6.3-017": 1
    },
-   "authored_hash": "a1cd0048765de136d4ebdb1a582f39ebd4a452c93bdd6b59759e884129c7b8ac"
+   "authored_hash": "605daeab904597a951e6007803e02e664673991620fe101508ac0925d243fad3",
+   "prior_hash": "a1cd0048765de136d4ebdb1a582f39ebd4a452c93bdd6b59759e884129c7b8ac",
+   "repair_note": "Review fix: removed the floating/pegged contradiction - Namibia-specific demand and interest-rate shocks no longer move the N$ on its own (004, 006, 009 and notes 6.3.3-b3/b4 reframed around Zambia's floating kwacha; P02 causes moved to the rand, with the peg stated; P03(b) generalised); N$-euro moves now stated as moving with the rand (011, 012, P03, notes 6.3.4-b3, 6.3.5-b3, claim 020); P02/P03 labels removed; flashcard answers trimmed for recall"
   },
   {
    "item_id": "ITEM-0455-6.3-014-DIST",
@@ -648,7 +674,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "Explain the difference between a floating and a fixed foreign exchange rate system, and state the test that tells them apart.",
-   "canonical_answer": "The boundary between the two systems is who sets the rate. In a floating system, the rate is determined by demand and supply in the foreign exchange market, and it moves whenever either side of the market shifts, whereas in a fixed system the monetary authority announces a level and holds the rate there, buying and selling the currency from its reserves to do so. The systems differ in who sets the rate, not in the currencies involved. The test: watch what happens to the rate when export demand shifts - a rate that moves with market conditions floats, and a rate that stays at its announced level is being held fixed, which is how to tell which system applies.",
+   "canonical_answer": "The difference is who sets the rate. In a floating system, demand and supply in the foreign exchange market set it, and it moves whenever either side shifts; in a fixed system, the monetary authority announces a level and holds the rate there by buying and selling the currency from its reserves. To tell them apart, watch the rate when export demand shifts: a rate that moves with market conditions floats, and one that stays at its announced level is fixed.",
    "marking_guidance": [
     "Boundary: the difference named must be who sets the rate - the market, whereas in a fixed system the authority sets and holds the level.",
     "Test: the answer must give how to tell which applies - the rate's behaviour when demand shifts: a held level means fixed, a moving rate means floating."
@@ -669,7 +695,9 @@
     "CLM-0455-6.3-017": 1,
     "CLM-0455-6.3-018": 1
    },
-   "authored_hash": "bc38fb99157d6d7240015c8f9981fb1661e709cbe6f0844e882bef1c05820cca"
+   "authored_hash": "d4658bcdfadcfdf7f3a12ab112ddaacf7a477673465baec46cdbef8f91b21477",
+   "prior_hash": "bc38fb99157d6d7240015c8f9981fb1661e709cbe6f0844e882bef1c05820cca",
+   "repair_note": "Review fix: removed the floating/pegged contradiction - Namibia-specific demand and interest-rate shocks no longer move the N$ on its own (004, 006, 009 and notes 6.3.3-b3/b4 reframed around Zambia's floating kwacha; P02 causes moved to the rand, with the peg stated; P03(b) generalised); N$-euro moves now stated as moving with the rand (011, 012, P03, notes 6.3.4-b3, 6.3.5-b3, claim 020); P02/P03 labels removed; flashcard answers trimmed for recall"
   },
   {
    "item_id": "ITEM-0455-6.3-015-APP",
@@ -693,7 +721,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "The Namibian dollar has stood at one South African rand per N$1 for years while world demand for Namibian exports has swung up and down. Using this economy's arrangement, explain what traders gain from the fixed rate compared with a rate that floats.",
-   "canonical_answer": "This economy holds its currency at one rand per Namibian dollar, whatever the market behind it does. Because the level is held, a Katutura shop importing from South Africa knows in advance what each Namibian dollar will fetch - one rand today and one rand next quarter - so it can price contracts across the border without fear of the conversion moving. A floating rate, by contrast, would move with export demand: when demand for Namibian exports fell, the currency would tend to ease and each rand of import cost would take more Namibian dollars. Therefore the fixed arrangement gives traders certainty of conversion prices, which is the gain the arrangement offers against the movement a float brings.",
+   "canonical_answer": "The Namibian dollar is held at one rand, whatever the market does. So a Katutura shop importing from South Africa knows each Namibian dollar will fetch one rand today and next quarter, and can price cross-border contracts without fear of the conversion moving. Under a float, the rate would move with export demand: when demand for Namibian exports fell, the currency would tend to ease and each rand of imports would cost more Namibian dollars. The fixed arrangement therefore gives traders certainty of conversion prices against the rand.",
    "marking_guidance": [
     "Context: this economy's arrangement - the Namibian dollar held at one rand - must be used.",
     "Reasoning: the link from the held level to certainty of conversion prices must be given, because that is what the arrangement offers against a moving rate.",
@@ -714,9 +742,11 @@
    "claims_seen": {
     "CLM-0455-6.3-017": 1,
     "CLM-0455-6.3-019": 1,
-    "CLM-0455-6.3-020": 1
+    "CLM-0455-6.3-020": 2
    },
-   "authored_hash": "98b68ea412c30546ab2f47fd380adcd830a17db750c0544f4619388051c637d5"
+   "authored_hash": "248cfbdce52938eb2aaf5b4900387c37793c04b474fcd86cb8d92806190aae1a",
+   "prior_hash": "98b68ea412c30546ab2f47fd380adcd830a17db750c0544f4619388051c637d5",
+   "repair_note": "Review fix: removed the floating/pegged contradiction - Namibia-specific demand and interest-rate shocks no longer move the N$ on its own (004, 006, 009 and notes 6.3.3-b3/b4 reframed around Zambia's floating kwacha; P02 causes moved to the rand, with the peg stated; P03(b) generalised); N$-euro moves now stated as moving with the rand (011, 012, P03, notes 6.3.4-b3, 6.3.5-b3, claim 020); P02/P03 labels removed; flashcard answers trimmed for recall"
   },
   {
    "item_id": "ITEM-0455-6.3-P01",
@@ -810,8 +840,8 @@
    "command_word": null,
    "mark_tariff": null,
    "difficulty": 5,
-   "prompt": "A report from Walvis Bay, June 2026: \"Walvis Bay Boat Works has imported its marine engines from Europe since it opened. In January one euro cost N$19; by June one euro cost N$21, and the shipyard's quarterly engine bill of 200 000 euros had grown in Namibian dollars. Dried-fish exporters in Swakopmund report their orders from Portugal are down 12%, and in May the central bank cut its rate of interest from 5.5% to 4.0%.\"\n\nTable 1 - the Namibian dollar and the euro, 2026\n  N$ per euro, January: 19\n  N$ per euro, June: 21\n  Boat Works engine bill per quarter: 200 000 euros\n  dried-fish export orders from Portugal: down 12% by June\n  central bank rate of interest: 5.5% in January, 4.0% in June\n\n(a) Calculate the rise in the Namibian-dollar cost of the shipyard's quarterly engine bill between January and June. [1]\n(b) State the central bank's rate of interest in June. [1]\n(c) Identify from Table 1 one cause of the change in the Namibian dollar's rate against the euro. [2]\n(d) Explain why the cause you identified moved the rate in the direction shown. [4]\n(e) Analyse what the June figures suggest for the shipyard, the Swakopmund exporters and Namibian households, using the data as evidence. [6]",
-   "canonical_answer": "(a) January cost: 200 000 x 19 = N$3 800 000. June cost: 200 000 x 21 = N$4 200 000. The rise is 4 200 000 - 3 800 000 = N$400 000.\n(b) 4.0%.\n(c) Either the 12% fall in export orders from Portugal or the cut in the central bank's rate of interest from 5.5% to 4.0%; both are changes on the demand side of the currency market.\n(d) Take the export orders: because Portuguese buyers need fewer Namibian dollars to pay for Namibian dried fish, the demand for the Namibian dollar in the foreign exchange market falls. With less demand against little-changed supply, the price of the Namibian dollar in euros tends to fall, so one euro costs more Namibian dollars - the depreciation the table shows from N$19 to N$21 per euro. The interest-rate cut works the same way: deposits in Namibian dollars pay less than before relative to assets abroad, so funds tend to leave and demand falls further.\n(e) Expected relationship: a depreciation raises the home price of imports and lowers the foreign price of exports, with the spending effects decided by price elasticity of demand. Evidence: the shipyard's bill rose by N$400 000 a quarter, from N$3 800 000 to N$4 200 000, while its euro price stood unchanged at 200 000 euros. Analysis: for the shipyard, dearer engines mean higher costs, which it is likely to pass on in its prices or absorb in its margins, and it may search for home suppliers; for the Swakopmund exporters, the depreciation lowers the euro price of their dried fish, so a Portuguese buyer now pays fewer euros for the same Namibian-dollar price, which may lift the quantities ordered where demand is price-elastic enough to respond; for households, imported goods tend to cost more, so budgets feel the shift where imports loom large in the shopping basket. Exception: however, where demand for Namibian exports is price-inelastic, or home supply cannot expand to fill larger orders, the export gain may fail to arrive and the trade balance may not improve - whether demand for exports and imports is elastic enough to respond and whether supply can respond decides. For whom: the shipyard pays more, the exporters may gain orders, the households face dearer imports, and the economy's trade position depends on which response outweighs the other.",
+   "prompt": "A report from Walvis Bay, June 2026: \"Walvis Bay Boat Works has imported its marine engines from Europe since it opened. The Namibian dollar is pegged one-for-one to the South African rand, so it moves with the rand against the euro. In January one euro cost N$19; by June one euro cost N$21, and the shipyard's quarterly engine bill of 200 000 euros had grown in Namibian dollars. South Africa's mineral exporters report orders from Europe down 12%, and in May South Africa's central bank cut its rate of interest from 5.5% to 4.0%. Dried-fish exporters in Swakopmund say their prices now look cheaper to Portuguese buyers.\"\n\nTable 1 - the Namibian dollar (and the rand) against the euro, 2026\n  N$ per euro, January: 19\n  N$ per euro, June: 21\n  Boat Works engine bill per quarter: 200 000 euros\n  South African mineral export orders from Europe: down 12% by June\n  South Africa's central bank rate of interest: 5.5% in January, 4.0% in June\n\n(a) Calculate the rise in the Namibian-dollar cost of the shipyard's quarterly engine bill between January and June. [1]\n(b) State South Africa's central bank rate of interest in June. [1]\n(c) Identify from Table 1 one cause of the change in the rand's, and so the Namibian dollar's, rate against the euro. [2]\n(d) Explain why the cause you identified moved the rate in the direction shown. [4]\n(e) Analyse what the June figures suggest for the shipyard, the Swakopmund exporters and Namibian households, using the data as evidence. [6]",
+   "canonical_answer": "(a) January cost: 200 000 x 19 = N$3 800 000. June cost: 200 000 x 21 = N$4 200 000. The rise is 4 200 000 - 3 800 000 = N$400 000.\n(b) 4.0%.\n(c) Either the 12% fall in South African mineral export orders from Europe or the cut in South Africa's central bank rate of interest from 5.5% to 4.0%; both reduce demand for the rand, and the Namibian dollar, pegged one-for-one to the rand, moves with it.\n(d) Take the export orders: because European buyers need fewer rand to pay for South African minerals, demand for the rand in the foreign exchange market falls. With less demand against little-changed supply, the rand's price in euros tends to fall, so one euro costs more rand - and, through the peg, more Namibian dollars: the move from N$19 to N$21 per euro the table shows. The interest-rate cut works the same way: rand deposits now pay less relative to assets abroad, so funds tend to leave and demand for the rand falls further.\n(e) A depreciation raises the home price of imports and lowers the foreign price of exports, with the spending effects decided by price elasticity of demand. The shipyard's bill rose by N$400 000 a quarter, from N$3 800 000 to N$4 200 000, while its euro price stood unchanged at 200 000 euros. For the shipyard, dearer engines mean higher costs, which it is likely to pass on in its prices or absorb in its margins, and it may search for home suppliers. For the Swakopmund exporters, the depreciation lowers the euro price of their dried fish, so a Portuguese buyer pays fewer euros for the same Namibian-dollar price, which may lift the quantities ordered where demand is price-elastic enough to respond. For households, imported goods tend to cost more, so budgets feel the shift where imports loom large in the shopping basket. However, where demand for Namibian exports is price-inelastic, or home supply cannot expand to fill larger orders, the export gain may fail to arrive and the trade balance may not improve - whether demand for exports and imports is elastic enough to respond and whether supply can respond decides. Overall, the shipyard pays more, the exporters may gain orders, households face dearer imports, and the economy's trade position depends on which response outweighs the other.",
    "marking_guidance": [
     "Context: parts (a), (b) and (c) are read or calculated from the data; (d) and (e) must use the figures - the N$19 to N$21 rate, the 200 000-euro bill, the 12% fall in orders, the 5.5% to 4.0% cut.",
     "Reasoning: one mark per distinct linked statement; quoting a figure on its own is description, not analysis - the relationship must be stated and the reason given.",
@@ -824,10 +854,11 @@
     "ownership": null,
     "situation": null,
     "facts": [
+     "the Namibian dollar is pegged one-for-one to the rand and moves with it against the euro",
      "one euro cost N$19 in January and N$21 in June",
      "Boat Works engine bill 200 000 euros per quarter",
-     "dried-fish export orders from Portugal down 12% by June",
-     "central bank rate of interest 5.5% in January and 4.0% in June"
+     "South African mineral export orders from Europe down 12% by June",
+     "South Africa's central bank rate of interest 5.5% in January and 4.0% in June"
     ]
    },
    "prerequisite_item_ids": [],
@@ -845,9 +876,9 @@
     "CLM-0455-6.3-015": 2,
     "CLM-0455-6.3-016": 1
    },
-   "authored_hash": "bbdb0a71217b778f7650ab2c9b73a6d86ec98fc51eca9017b1c4662d5d59fb79",
-   "prior_hash": "a9a27ee44767645bd990428049cf75ca3c69fd5fa716c93de025af82e47f3131",
-   "repair_note": "Planner audit 2026-10-06: removed the named Marshall-Lerner condition (beyond the 0455 syllabus; the condition is kept in plain words) and corrected cross-references to topics 2.7 (PED) and 6.4 (current account)."
+   "authored_hash": "90eae16a82eb7bfbf6208307b6bb861973e48a7c999ab721afdb06740d597ed5",
+   "prior_hash": "bbdb0a71217b778f7650ab2c9b73a6d86ec98fc51eca9017b1c4662d5d59fb79",
+   "repair_note": "Review fix: removed the floating/pegged contradiction - Namibia-specific demand and interest-rate shocks no longer move the N$ on its own (004, 006, 009 and notes 6.3.3-b3/b4 reframed around Zambia's floating kwacha; P02 causes moved to the rand, with the peg stated; P03(b) generalised); N$-euro moves now stated as moving with the rand (011, 012, P03, notes 6.3.4-b3, 6.3.5-b3, claim 020); P02/P03 labels removed; flashcard answers trimmed for recall"
   },
   {
    "item_id": "ITEM-0455-6.3-P03",
@@ -877,8 +908,8 @@
    "command_word": null,
    "mark_tariff": null,
    "difficulty": 5,
-   "prompt": "Namibia's exporters sell to Europe and Namibian shops import from Europe. Over 2026 the Namibian dollar's rate against the euro moved from N$19 per euro to N$21 per euro.\n(a) Define the foreign exchange rate. [2]\n(b) Explain how a fall in overseas demand for Namibian exports is likely to affect the foreign exchange rate of the Namibian dollar. [4]\n(c) Analyse the effects of the Namibian dollar's depreciation against the euro on export and import prices and on spending on exports and imports. [6]\n(d) Discuss whether an appreciating currency benefits an economy. [8]",
-   "canonical_answer": "(a) The foreign exchange rate is the price of one currency expressed in terms of another: the number of units of one currency needed to buy one unit of the other, such as N$21 per euro.\n(b) Because foreign buyers need the Namibian dollar to pay for Namibian exports, a fall in overseas demand removes some of that demand from the foreign exchange market. With demand lower and supply little changed, the price of the Namibian dollar in euros tends to fall, so the currency depreciates and each Namibian dollar buys fewer euros. The mechanism is the market of topic 2.5: fewer buyers of the goods means fewer buyers of the currency needed to pay for them.\n(c) Starting point: the Namibian dollar depreciates from N$19 to N$21 per euro, with quoted prices unchanged. Mechanism: because each euro now costs more Namibian dollars, an import priced at 20 euros costs 20 x 19 = N$380 before and 20 x 21 = N$420 after, so imports become dearer at home; a crate of exports priced N$399 costs a Portuguese buyer 21.00 euros before and 19.00 euros after, so exports become cheaper abroad. Consequence: therefore spending moves as the price elasticity of demand decides - where demand for exports is price-elastic, quantities rise enough for export earnings to grow; where demand for imports is price-inelastic, import spending rises because buyers keep buying at the dearer price. Where demand for exports and imports is elastic enough to respond, and supply is able to respond, the depreciation tends to improve the trade balance; where it fails, dearer imports outweigh the export gain. For whom: exporters may gain orders abroad, importers and consumers face higher prices at home, foreign buyers gain cheaper Namibian goods, and the economy's trade position turns on which response is larger.\n(d) Why it might: an appreciating currency makes imports cheaper in home currency, so consumers pay less for imported goods and firms pay less for imported inputs such as fuel and machinery, which can hold costs and prices down; each Namibian dollar also buys more abroad, so travel and study abroad cost less. Why it might not: the same movement makes exports dearer in foreign currency, so exporters may lose orders and shed workers, and the pressure lands on the sectors the economy leans on; cheaper imports may also undercut home producers selling in the home market, so jobs in firms that face import competition suffer. Judgement: on balance, whether an appreciating currency benefits an economy depends on the price elasticity of demand for its exports and imports and on how heavily households depend on imports: where imports loom large in household budgets and exports are price-inelastic, the gains spread widely, and where exports are price-elastic, the job losses may outweigh the cheaper imports. The condition settles it: the balance of the economy's trade and how responsive its buyers are.",
+   "prompt": "Namibia's exporters sell to Europe and Namibian shops import from Europe. Over 2026 the Namibian dollar, moving with the rand, went from N$19 per euro to N$21 per euro.\n(a) Define the foreign exchange rate. [2]\n(b) Explain how a fall in overseas demand for a country's exports is likely to affect the foreign exchange rate of its currency, where that rate floats. [4]\n(c) Analyse the effects of the Namibian dollar's depreciation against the euro on export and import prices and on spending on exports and imports. [6]\n(d) Discuss whether an appreciating currency benefits an economy. [8]",
+   "canonical_answer": "(a) The foreign exchange rate is the price of one currency expressed in terms of another: the number of units of one currency needed to buy one unit of the other, such as N$21 per euro.\n(b) Because foreign buyers need the country's currency to pay for its exports, a fall in overseas demand removes some of that demand from the foreign exchange market. With demand lower and supply little changed, the currency's price in foreign currency tends to fall, so it depreciates and each unit buys less foreign currency. The mechanism is the market of topic 2.5: fewer buyers of the goods means fewer buyers of the currency needed to pay for them.\n(c) The Namibian dollar depreciates from N$19 to N$21 per euro, with quoted prices unchanged. Because each euro now costs more Namibian dollars, an import priced at 20 euros costs 20 x 19 = N$380 before and 20 x 21 = N$420 after, so imports become dearer at home; a crate of exports priced N$399 costs a Portuguese buyer 21.00 euros before and 19.00 euros after, so exports become cheaper abroad. Therefore spending moves as the price elasticity of demand decides - where demand for exports is price-elastic, quantities rise enough for export earnings to grow; where demand for imports is price-inelastic, import spending rises because buyers keep buying at the dearer price. Where demand for exports and imports is elastic enough to respond, and supply is able to respond, the depreciation tends to improve the trade balance; where it fails, dearer imports outweigh the export gain. Exporters may gain orders abroad, importers and consumers face higher prices at home, foreign buyers gain cheaper Namibian goods, and the economy's trade position turns on which response is larger.\n(d) Why it might: an appreciating currency makes imports cheaper in home currency, so consumers pay less for imported goods and firms pay less for imported inputs such as fuel and machinery, which can hold costs and prices down; each Namibian dollar also buys more abroad, so travel and study abroad cost less. Why it might not: the same movement makes exports dearer in foreign currency, so exporters may lose orders and shed workers, and the pressure lands on the sectors the economy leans on; cheaper imports may also undercut home producers selling in the home market, so jobs in firms that face import competition suffer. Judgement: on balance, whether an appreciating currency benefits an economy depends on the price elasticity of demand for its exports and imports and on how heavily households depend on imports: where imports loom large in household budgets and exports are price-inelastic, the gains spread widely, and where exports are price-elastic, the job losses may outweigh the cheaper imports. The condition settles it: the balance of the economy's trade and how responsive its buyers are.",
    "marking_guidance": [
     "Parts (a) to (d) each carry a model answer; part (d) is level-marked over three bands, with the top band examining why it might and why it might not and reaching a judgement.",
     "Context: parts (b) and (c) must use the rate movement given - the fall in overseas demand and the move from N$19 to N$21 per euro.",
@@ -891,7 +922,7 @@
     "ownership": null,
     "situation": null,
     "facts": [
-     "the Namibian dollar moved from N$19 to N$21 per euro over 2026"
+     "the Namibian dollar, moving with the rand, went from N$19 to N$21 per euro over 2026"
     ]
    },
    "prerequisite_item_ids": [],
@@ -908,9 +939,9 @@
     "CLM-0455-6.3-015": 2,
     "CLM-0455-6.3-016": 1
    },
-   "authored_hash": "c93183d3f2a3ddb8fa9d39c3dc99f43c0041776276f16a702658937c96ece88a",
-   "prior_hash": "0b19d684ba1c7e1e1c772ca99be1304daeed811262ae6a2c460f0453cadec88f",
-   "repair_note": "Planner audit 2026-10-06: removed the named Marshall-Lerner condition (beyond the 0455 syllabus; the condition is kept in plain words) and corrected cross-references to topics 2.7 (PED) and 6.4 (current account)."
+   "authored_hash": "e1785f94ee45330ec64f718ab764ae6155d637c7b949726c6018c7f1d6f34623",
+   "prior_hash": "c93183d3f2a3ddb8fa9d39c3dc99f43c0041776276f16a702658937c96ece88a",
+   "repair_note": "Review fix: removed the floating/pegged contradiction - Namibia-specific demand and interest-rate shocks no longer move the N$ on its own (004, 006, 009 and notes 6.3.3-b3/b4 reframed around Zambia's floating kwacha; P02 causes moved to the rand, with the peg stated; P03(b) generalised); N$-euro moves now stated as moving with the rand (011, 012, P03, notes 6.3.4-b3, 6.3.5-b3, claim 020); P02/P03 labels removed; flashcard answers trimmed for recall"
   },
   {
    "item_id": "ITEM-0455-6.3-P04",
@@ -962,9 +993,11 @@
     "CLM-0455-6.3-017": 1,
     "CLM-0455-6.3-018": 1,
     "CLM-0455-6.3-019": 1,
-    "CLM-0455-6.3-020": 1
+    "CLM-0455-6.3-020": 2
    },
-   "authored_hash": "ee0db3e4f080b747acb6a7859516686930b94d9b5a97a3d30254649cdb3f146e"
+   "authored_hash": "ee0db3e4f080b747acb6a7859516686930b94d9b5a97a3d30254649cdb3f146e",
+   "prior_hash": "ee0db3e4f080b747acb6a7859516686930b94d9b5a97a3d30254649cdb3f146e",
+   "reviewed_unchanged": "Re-read after CLM-0455-6.3-020 gained the rand-float clause; the plan argues fixed against floating in general and needs no change."
   }
  ]
 }

@@ -54,7 +54,7 @@
    "block_id": "4.6.4-b3",
    "block_type": "analysis_chain",
    "heading": "The movement toward the curve",
-   "text": "Trace the demand route. Starting point: total spending rises in an economy with spare capacity. Mechanism: because firms see more customers, they raise production, take on idle workers and run machines longer; this causes real GDP to climb as unemployed resources are put to use. Consequence: the economy moves from its point inside the curve to a point on it, and output reaches what its existing capacity allows. The limit: once at the boundary, further spending has no idle resources to employ and tends to raise prices instead.",
+   "text": "Trace the demand route. Total spending rises in an economy with spare capacity. Because firms see more customers, they raise production, take on idle workers and run machines longer, so real GDP climbs as unemployed resources are put to use. The economy moves from its point inside the curve to a point on it, and output reaches what its existing capacity allows. There the route ends: once at the boundary, further spending has no idle resources to employ and tends to raise prices instead.",
    "claim_ids": [
     "CLM-0455-4.6-013"
    ],
@@ -65,7 +65,9 @@
    "claims_seen": {
     "CLM-0455-4.6-013": 1
    },
-   "authored_hash": "055331b667a25537856de70ada82326d83f70ccc7d651da89064407a9d6e665b"
+   "authored_hash": "7292eab5b2f8da405858cf069734ef864a359ea93d69fdca39f6d66a53eeb983",
+   "prior_hash": "055331b667a25537856de70ada82326d83f70ccc7d651da89064407a9d6e665b",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks."
   },
   {
    "block_id": "4.6.4-b4",

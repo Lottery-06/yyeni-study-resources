@@ -1,7 +1,7 @@
 {
   "qa_report_id": "QA-cie-0455-igcse-2026-4.4",
   "build_id": "cie-0455-igcse-2026/topic-4.4",
-  "generated_at": "2026-10-06T20:10:19Z",
+  "generated_at": "2026-10-12T22:54:17Z",
   "deterministic_checks": [
     {
       "check_id": "C-00",
@@ -53,9 +53,13 @@
     },
     {
       "check_id": "C-30",
-      "status": "pass",
-      "message": "[RS-41 No bulk stamp] All 32 stamped artefacts are consistent: every advanced stamp is matched by changed text or by a recorded reviewed_unchanged decision.",
-      "affected_ids": []
+      "status": "warn",
+      "message": "[RS-41 No bulk stamp] 3 advanced stamps carry no prior_hash, so they predate the audit trail and cannot be verified. 29 stamps are auditable and clean. Every stamp made from now on records the text it replaced.",
+      "affected_ids": [
+        "CU-0455-4.4.1/4.4.1-b3",
+        "CU-0455-4.4.1/4.4.1-b4",
+        "CU-0455-4.4.2/4.4.2-b3"
+      ]
     },
     {
       "check_id": "C-29",
@@ -222,7 +226,7 @@
     {
       "check_id": "C-28",
       "status": "pass",
-      "message": "[RS-32 Packet hash manifest] Critic-packet hash manifest written for 16 files to topics/4.4/packet.sha256; the manifest's own SHA-256 is detached in packet.sha256.hash (913edc6abd85fd98) so the whole packet is verifiable.",
+      "message": "[RS-32 Packet hash manifest] Critic-packet hash manifest written for 16 files to topics/4.4/packet.sha256; the manifest's own SHA-256 is detached in packet.sha256.hash (e5165e5a54077a33) so the whole packet is verifiable.",
       "affected_ids": []
     },
     {
@@ -290,7 +294,7 @@
   },
   "release_decision": "publish",
   "notes": [
-    "Standard v0.2.0-draft check suite. 44 checks: 40 pass, 0 fail, 0 warn, 4 not_run.",
+    "Standard v0.2.0-draft check suite. 44 checks: 39 pass, 0 fail, 1 warn, 4 not_run.",
     "A not_run check means an input the check needs is absent. It is never a pass.",
     "RS-30: these are mechanical results computed by code. They say nothing about whether the material teaches the subject well."
   ]

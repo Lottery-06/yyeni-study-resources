@@ -69,7 +69,7 @@
    "block_id": "4.3.3-b4",
    "block_type": "misconception",
    "heading": "Direct is not indirect",
-   "text": "The confusion: learners treat every tax as one undifferentiated charge. The boundary: a direct tax is levied on income or profit and paid straight to the revenue authority by the person or firm taxed; an indirect tax is levied on spending and collected by the seller, who adds it to the price and passes it on. The test: ask what the charge falls on - income against spending - and who hands it over: the taxed party itself, or a trader collecting it from buyers.",
+   "text": "A common mistake is to treat every tax as one undifferentiated charge. A direct tax is levied on income or profit and paid straight to the revenue authority by the person or firm taxed; an indirect tax is levied on spending and collected by the seller, who adds it to the price and passes it on. To sort a tax, ask what the charge falls on - income or spending - and who hands it over: the taxed party itself, or a trader collecting it from buyers.",
    "claim_ids": [
     "CLM-0455-4.3-012"
    ],
@@ -80,7 +80,9 @@
    "claims_seen": {
     "CLM-0455-4.3-012": 1
    },
-   "authored_hash": "59e1340b5f4c4c3820067d8935d8eefa60003e0a1c3cbcef385e222ff97fabde"
+   "authored_hash": "9f0a75f32c84896e34de69b62e37f94ab33314f52186ad32d78e3ff04ab1b85e",
+   "prior_hash": "59e1340b5f4c4c3820067d8935d8eefa60003e0a1c3cbcef385e222ff97fabde",
+   "repair_note": "Reviewer fix 2026-10-13: reframed 025 (health is not a macroeconomic aim; now employment against low inflation); fixed P04 chain under the case for borrowing less; replaced Define-on-heading prompts (003, 012, 020); removed leaked labels and register references; trimmed flashcard answers for recall."
   },
   {
    "block_id": "4.3.3-b5",

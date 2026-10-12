@@ -68,7 +68,7 @@
    "mark_tariff": 2,
    "difficulty": 1,
    "prompt": "Identify the elements that make up a country's money supply.",
-   "canonical_answer": "The elements are the notes and coins in circulation, and the deposits held in bank accounts that can be spent by card, cheque or transfer. Bank deposits are the larger element, since most payments move money between accounts rather than handing over cash.",
+   "canonical_answer": "The notes and coins in circulation, and the bank deposits that can be spent by card, cheque or transfer. Deposits are the larger element, because most payments move money between accounts rather than handing over cash.",
    "marking_guidance": [
     "Elements: the two components must each be named - cash in circulation and spendable bank deposits; the answer may add that deposits form the larger share."
    ],
@@ -88,7 +88,9 @@
     "CLM-0455-4.4-001": 1,
     "CLM-0455-4.4-003": 1
    },
-   "authored_hash": "f580f066124d8005a380d197c535b702108806e80d28373fa1894a4c87155c77",
+   "authored_hash": "eabb9e15b472ddc4ae6db634f2c668c006a0a30ae2e240b82889243b4e41260a",
+   "prior_hash": "f580f066124d8005a380d197c535b702108806e80d28373fa1894a4c87155c77",
+   "repair_note": "Review fix: monetary policy measures now include the foreign exchange rate (claims 002, 004, 006 revised); leaked register wording removed from P01; authoring labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "definition of money supply and monetary policy"
    ]
@@ -113,9 +115,9 @@
    "mark_tariff": 2,
    "difficulty": 4,
    "prompt": "Define monetary policy.",
-   "canonical_answer": "Monetary policy is the use of changes in interest rates and of measures to control the growth of the money supply, carried out by the central bank, to influence the economy's performance.",
+   "canonical_answer": "Monetary policy is the use, by the central bank, of changes in interest rates, the money supply and the foreign exchange rate to influence the economy's performance, such as the rise in prices, output and jobs.",
    "marking_guidance": [
-    "Precise definition: the meaning must name the central bank as the actor, the two measures (interest rates and money-supply growth), and the purpose of influencing the economy's performance."
+    "Precise definition: the meaning must name the central bank as the actor, the three measures (interest rates, the money supply and the foreign exchange rate), and the purpose of influencing the economy's performance."
    ],
    "context": {
     "sector": null,
@@ -130,10 +132,12 @@
    "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-0455-4.4-002": 1,
-    "CLM-0455-4.4-004": 1
+    "CLM-0455-4.4-002": 2,
+    "CLM-0455-4.4-004": 2
    },
-   "authored_hash": "6d58a585ebb3e161a1f143810e8df2179ed8ced3fd744bf986fc99ffa6c7be9f",
+   "authored_hash": "28a441f2ff8a53a28013374aa90955871049f2fdb5fb6fc982f3f1b0d5b698a8",
+   "prior_hash": "6d58a585ebb3e161a1f143810e8df2179ed8ced3fd744bf986fc99ffa6c7be9f",
+   "repair_note": "Review fix: monetary policy measures now include the foreign exchange rate (claims 002, 004, 006 revised); leaked register wording removed from P01; authoring labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "monetary policy measures"
    ]
@@ -159,7 +163,7 @@
    "mark_tariff": 6,
    "difficulty": 4,
    "prompt": "To slow a rise in prices, the Bank of Namibia raises its policy interest rate from 4% to 8%. Analyse the benefits of using an interest-rate rise as a measure of monetary policy for the Namibian economy.",
-   "canonical_answer": "A benefit is that the measure works through the whole banking system at once: commercial banks across Namibia are likely to raise their loan and deposit rates in step, because their funds cost more, so the change reaches households and firms in every region within days. A second benefit is that it works on both sides of the money market: dearer loans discourage borrowing while higher deposit rates reward saving, so spending is cooled from two directions and the growth of the money supply slows. A third benefit is that it protects the value of money: where the rise in prices eases, households on fixed money incomes keep more of their buying power, and saving in N$ holds its worth better, so the economy gains a steadier background for planning. For whom: the economy gains steadier prices and a currency that holds its worth; savers gain income; firms gain a more predictable cost background, even where individual borrowers face dearer credit.",
+   "canonical_answer": "First, the rise from 4% to 8% reaches the whole economy at once: commercial banks pay more for their funds, so they raise loan and deposit rates in step, and households and firms in every region feel it within days. Second, it cools spending from two sides: dearer loans discourage borrowing and higher deposit rates reward saving, so money-supply growth slows and the rise in prices eases. Third, it protects the value of money, so households on fixed incomes keep more of their buying power and N$ savings hold their worth. Savers gain income and firms gain a steadier cost background, even though borrowers face dearer credit.",
    "marking_guidance": [
     "Benefit: each advantage must be stated as a benefit of the interest-rate rise as a measure.",
     "Because: the reasoning must link the measure to its effect - banks pass the rate on because their funds cost more, and this leads to slower spending growth.",
@@ -180,9 +184,11 @@
    "claims_seen": {
     "CLM-0455-4.4-007": 1,
     "CLM-0455-4.4-005": 1,
-    "CLM-0455-4.4-004": 1
+    "CLM-0455-4.4-004": 2
    },
-   "authored_hash": "dbcf48a059c64b6be2480161deb100013ab663f87897dbabd583b9e4d82bdb8d",
+   "authored_hash": "53a8953b0266fe7f847a76fc0550434c7ed6111bbf3f1c3f37342bc026af076d",
+   "prior_hash": "dbcf48a059c64b6be2480161deb100013ab663f87897dbabd583b9e4d82bdb8d",
+   "repair_note": "Review fix: monetary policy measures now include the foreign exchange rate (claims 002, 004, 006 revised); leaked register wording removed from P01; authoring labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "monetary policy measures"
    ]
@@ -207,7 +213,7 @@
    "mark_tariff": 6,
    "difficulty": 4,
    "prompt": "The Bank of Namibia raises its policy interest rate to slow a rise in prices. Analyse the limitations of relying on interest-rate changes as a measure of monetary policy in a country where much rural trading is done in cash.",
-   "canonical_answer": "One limitation is uneven reach: a trader in Gobabis who sells for cash and holds no loan feels little of the rate rise directly, because the measure works through the cost of bank credit, so spending financed without banks responds less. A second limitation is delay: the rate rise is announced at once, but households and firms decide on loans over months, and output responds later still, so the measure may act after the rise in prices has already eased or worsened. A third limitation is the cost to growth: dearer borrowing is likely to lead firms such as Marula Foods to postpone building projects, so jobs and output weaken while the measure does its work. For whom: cash traders and unbanked households are little affected, borrowers and the firms selling to them carry the burden, and the government may see slower growth while prices slow.",
+   "canonical_answer": "First, its reach is uneven: a Gobabis trader who sells for cash and holds no loan feels little of the rise, because the measure works through bank credit, so cash-financed spending responds less. Second, it acts with a delay: loans are decided over months and output responds later still, so the effect may arrive after the price rise has already changed course. Third, it costs growth: dearer borrowing is likely to lead firms such as Marula Foods to postpone building projects, so output and jobs weaken. Cash traders and unbanked households are barely touched, while borrowers and the firms selling to them carry the burden.",
    "marking_guidance": [
     "Limitation: each drawback must be stated as a limitation of interest-rate changes as the measure.",
     "Because: the reasoning must say why the drawback arises - the rate works through bank credit, and this leads to uneven and delayed effects.",
@@ -229,7 +235,9 @@
     "CLM-0455-4.4-008": 1,
     "CLM-0455-4.4-005": 1
    },
-   "authored_hash": "e60c34d1d37938075dda9e3783a17c661c8519bc9119ac7c7a7447b23310d195",
+   "authored_hash": "83605d0a48c3459666dff1666c7337b1bf9616f87e90fc7195148a98a67dbeec",
+   "prior_hash": "e60c34d1d37938075dda9e3783a17c661c8519bc9119ac7c7a7447b23310d195",
+   "repair_note": "Review fix: monetary policy measures now include the foreign exchange rate (claims 002, 004, 006 revised); leaked register wording removed from P01; authoring labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "monetary policy measures"
    ]
@@ -256,7 +264,7 @@
    "mark_tariff": 8,
    "difficulty": 5,
    "prompt": "Discuss whether a rise in interest rates is the best measure for a government to achieve the aim of price stability.",
-   "canonical_answer": "Why it might: the argument for is reach and directness. An interest-rate rise works through the whole banking system at once, because commercial banks pass it on, and it cools spending from two sides - dearer credit and better-rewarded saving - so the growth of the money supply slows and pressure on prices eases. Why it might not: the argument against is that the effects arrive slowly and unevenly; spending financed without bank credit responds little, so where prices rise because of a poor harvest or dearer imported fuel, dearer borrowing may hold back output and jobs without touching the cause of the price rise. A second point against is the trade-off: a rate rise that steadies prices may slow growth and employment, which are also government aims. Judgement: on balance the interest-rate rise is a strong candidate for the main measure where the pressure on prices comes from fast domestic borrowing and spending, because it works on exactly that. What settles it is the source of the price pressure: it depends on whether prices are rising because of borrowing and spending, in which case the rate rise is well aimed, or because of supply problems, in which case another route serves the aim better and at lower cost.",
+   "canonical_answer": "A rate rise may be the best measure because it reaches the whole banking system at once, as commercial banks pass it on, and it cools spending from two sides: dearer credit and better-rewarded saving. Money-supply growth slows and pressure on prices eases. It may not be the best, because its effects arrive slowly and unevenly: cash-financed spending responds little, and where prices rise because of a poor harvest or dearer imported fuel, dearer borrowing holds back output and jobs without touching the cause. It also works against the aims of growth and employment. On balance, a rate rise is the strongest single measure where the pressure on prices comes from fast domestic borrowing and spending, because it acts on exactly that. What settles it is the source of the pressure: where prices rise because of supply problems, another measure serves the aim at lower cost in jobs.",
    "marking_guidance": [
     "Judgement: the answer must reach a judgement, and it depends must be answered by naming the condition.",
     "Why it might: the argument for must be developed - reach through the banking system and the two-sided effect on spending.",
@@ -281,7 +289,9 @@
     "CLM-0455-4.4-009": 1,
     "CLM-0455-4.4-010": 1
    },
-   "authored_hash": "89d36d12b658395e313826fa6776d80f6f3d1e8d982a65280d14d9ea15efe9cb",
+   "authored_hash": "d5252a403b6365998bb97ff67aeee79f0543225c7c8a6855bf2fad2ef6d30aca",
+   "prior_hash": "89d36d12b658395e313826fa6776d80f6f3d1e8d982a65280d14d9ea15efe9cb",
+   "repair_note": "Review fix: monetary policy measures now include the foreign exchange rate (claims 002, 004, 006 revised); leaked register wording removed from P01; authoring labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "monetary policy measures"
    ]
@@ -307,7 +317,7 @@
    "mark_tariff": 4,
    "difficulty": 4,
    "prompt": "The Hangula household in Katutura has a N$20 000 loan from Oshakati Savings Bank, and the interest rate on the loan rises from 5% a year to 9% a year. Using the figures, explain how this rise is likely to affect the household's spending on other goods.",
-   "canonical_answer": "The yearly interest on the loan at 9% is 0.09 x N$20 000 = N$1 800. At 5% it was 0.05 x N$20 000 = N$1 000. The extra interest of N$1 800 - N$1 000 = N$800 a year must come from the household's income, so the money left for other goods shrinks by that amount. Because the loan now costs more of the household's income, the household is likely to cut spending on non-essential goods such as furniture or outings, and to postpone any further credit purchases, since new borrowing is dearer too. Therefore the figures mean that the household's spending on other goods falls, with the fall concentrated on items the household can put off.",
+   "canonical_answer": "At 5% the yearly interest is 0.05 x N$20 000 = N$1 000; at 9% it is 0.09 x N$20 000 = N$1 800. The extra N$800 a year comes out of the Hangula household's income, so less is left for other goods. The household is therefore likely to cut spending it can put off, such as furniture or outings, and to postpone new credit purchases, because new borrowing is dearer too.",
    "marking_guidance": [
     "Context: the figures must be used - the 5% and 9% rates and the N$20 000 loan.",
     "Reasoning: the link from the interest figures to the household's spending must be given, because a quoted figure alone explains nothing.",
@@ -327,9 +337,11 @@
    "qa_status": "review_required",
    "claims_seen": {
     "CLM-0455-4.4-005": 1,
-    "CLM-0455-4.4-004": 1
+    "CLM-0455-4.4-004": 2
    },
-   "authored_hash": "eb66ed05a0f9bb9ca5fa330b2e31b68ca23de9b268b1d866e6a222b9f87bd0a0",
+   "authored_hash": "c421b39cb8121cf7682c285afe9ca74bf73e0ecfd3024fc16e42e9dad7a4f3eb",
+   "prior_hash": "eb66ed05a0f9bb9ca5fa330b2e31b68ca23de9b268b1d866e6a222b9f87bd0a0",
+   "repair_note": "Review fix: monetary policy measures now include the foreign exchange rate (claims 002, 004, 006 revised); leaked register wording removed from P01; authoring labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "monetary policy measures"
    ]
@@ -354,7 +366,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "The Bank of Namibia cuts its policy interest rate from 7% to 4% to support output growth. Analyse how this cut is likely to affect spending and borrowing in the Namibian economy.",
-   "canonical_answer": "Starting point: the policy rate falls from 7% to 4%, so commercial banks are likely to cut their loan and deposit rates, because their funds cost less. Mechanism: cheaper loans make borrowing easier to afford - a N$50 000 loan at 4% costs 0.04 x N$50 000 = N$2 000 a year in interest where it cost N$3 500 at 7% - so firms such as Etosha Gate Lodge are likely to bring forward building projects and households are likely to buy on credit more readily. Lower deposit rates lower the reward for saving, so households tend to move money out of deposits into spending. Consequences: borrowing rises, credit-financed spending rises, firms see stronger sales and may take on workers, so output and employment are supported. For whom: borrowers gain cheaper credit; savers lose income; firms gain customers and the economy gains output growth, while the risk of a faster rise in prices returns if spending outruns what the economy can produce.",
+   "canonical_answer": "When the policy rate falls from 7% to 4%, commercial banks are likely to cut their loan and deposit rates, because their own funds cost less. Borrowing becomes cheaper: the yearly interest on a N$50 000 loan falls from 0.07 x N$50 000 = N$3 500 to 0.04 x N$50 000 = N$2 000, so firms such as Etosha Gate Lodge bring building projects forward and households buy more on credit. Lower deposit rates make saving less rewarding, so more income is spent. Therefore borrowing and spending rise, and firms sell more and may hire, supporting output and jobs. Borrowers and firms gain, savers lose income, and prices may rise faster if spending outruns what the economy can produce.",
    "marking_guidance": [
     "Starting point: the initial change - the cut from 7% to 4% - must be stated.",
     "Mechanism: because bank rates follow the policy rate, this causes cheaper borrowing and a lower reward for saving.",
@@ -375,9 +387,11 @@
    "qa_status": "review_required",
    "claims_seen": {
     "CLM-0455-4.4-005": 1,
-    "CLM-0455-4.4-004": 1
+    "CLM-0455-4.4-004": 2
    },
-   "authored_hash": "21fe6c02aa484ef97abfab527cee027cbd3ed88c11710194027402aad5fecd9c",
+   "authored_hash": "b37ed3d1d1203e4f8cd18bd017c141f66dfdc2a19599665d9ac7f67c3713f462",
+   "prior_hash": "21fe6c02aa484ef97abfab527cee027cbd3ed88c11710194027402aad5fecd9c",
+   "repair_note": "Review fix: monetary policy measures now include the foreign exchange rate (claims 002, 004, 006 revised); leaked register wording removed from P01; authoring labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "monetary policy measures"
    ]
@@ -400,8 +414,8 @@
    "command_word": "Define",
    "mark_tariff": 2,
    "difficulty": 3,
-   "prompt": "Define price stability as a government macroeconomic aim.",
-   "canonical_answer": "Price stability is the aim of keeping the rise in the general price level low and steady; it is the macroeconomic aim that monetary policy serves most directly, since interest rates work on spending and the growth of the money supply.",
+   "prompt": "Define price stability.",
+   "canonical_answer": "Price stability is the aim of keeping the rise in the general price level low and steady, so that money keeps its buying power. It is the macroeconomic aim that monetary policy serves most directly.",
    "marking_guidance": [
     "Precise definition: the meaning must cover the general price level, the low and steady rise, and the link to monetary policy."
    ],
@@ -420,7 +434,9 @@
    "claims_seen": {
     "CLM-0455-4.4-011": 1
    },
-   "authored_hash": "d084e063a4d23524619b35f174585fd72a2f0bf4893de1f854bffe660c811db1",
+   "authored_hash": "57ae62e3679ed4179826f97023164fc04f41606b813b6d092c652774dfa9541a",
+   "prior_hash": "e0d03ea60466be7d7a4530da95a6c910ef90394046beb1c5c3e44513af15e260",
+   "repair_note": "Reviewer: removed syllabus-heading qualifiers from Define prompts, distinguished prompts duplicated across topics, and replaced the leaked 'for whom:' label in the essay plan",
    "objective_titles": [
     "effects of monetary policy on government macroeconomic aims"
    ]
@@ -446,7 +462,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "In an economy where prices are rising 9% a year, the central bank lifts its policy rate from 5% to 9%. Analyse how the interest-rate rise is likely to affect the government's macroeconomic aims.",
-   "canonical_answer": "Starting point: the policy rate rises from 5% to 9% to slow a 9% rise in prices. Mechanism: because loans and credit-financed purchases become dearer, households and firms tend to borrow less and save more, so spending slows and firms raise their prices more slowly; this causes the pressure on the aim of price stability to ease. Consequences for the other aims: slower borrowing is likely to slow output growth, so the growth aim is served less well; firms facing weaker sales may cut hours, so the employment aim suffers; and higher rates may draw funds from abroad, tending to lift the currency, which makes exports harder to sell and bears on the external aim. For whom: the government gains on price stability but loses ground on growth and jobs; savers gain income while borrowers and exporting firms lose, so the economy as a whole faces a trade-off between steadier prices and faster growth.",
+   "canonical_answer": "The policy rate rises from 5% to 9% to slow a 9% yearly rise in prices. Because loans become dearer, households and firms borrow less and save more, so spending slows and firms raise prices more slowly, which moves the economy towards price stability. Slower borrowing is also likely to slow output growth, and firms facing weaker sales may cut hours, so the growth and employment aims suffer. Higher rates may draw funds from abroad and lift the currency, making exports harder to sell. Savers gain while borrowers and exporting firms lose, so the government trades some growth and jobs for steadier prices.",
    "marking_guidance": [
     "Starting point: the initial change - the rate rising from 5% to 9% against 9% price rises - must be stated.",
     "Mechanism: because borrowing becomes dearer, this causes slower spending and slower price rises.",
@@ -470,7 +486,9 @@
     "CLM-0455-4.4-010": 1,
     "CLM-0455-4.4-012": 1
    },
-   "authored_hash": "0dd9fc9c3cd0e52b083951aa2e2dd07d69df27dd53f595077dde770b62daf7e6",
+   "authored_hash": "68e11962f8a1878cfd8b384a09be54bf57846469ae00c880001a2dfe9856ba96",
+   "prior_hash": "0dd9fc9c3cd0e52b083951aa2e2dd07d69df27dd53f595077dde770b62daf7e6",
+   "repair_note": "Review fix: monetary policy measures now include the foreign exchange rate (claims 002, 004, 006 revised); leaked register wording removed from P01; authoring labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "effects of monetary policy on government macroeconomic aims"
    ]
@@ -496,7 +514,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Between 2024 and 2026, the yearly rise in prices in an economy went from 4% to 9%, and the central bank responded by raising its policy rate from 5% to 9%. Using the figures, explain why the interest-rate rise is likely to help the government's aim of price stability.",
-   "canonical_answer": "The figures show the problem and the response: prices were rising 4% a year in 2024 and 9% a year in 2026, so the aim of keeping the rise low and steady was moving away from reach. The policy rate rose from 5% to 9%, so credit-financed spending becomes dearer and saving better rewarded, because banks pass the policy rate on. Where households borrow less and save more, spending on goods slows and firms raise prices more slowly, so the rise in prices eases back toward the aim. Therefore the figures mean the central bank acted on the aim it serves most directly, since the rate rise works on exactly the spending and money growth that drive the rise in prices.",
+   "canonical_answer": "Prices rose 4% a year in 2024 but 9% a year in 2026, so the economy was moving away from price stability. Raising the policy rate from 5% to 9% makes credit dearer and saving better rewarded, because banks pass the rate on. Households borrow less and save more, so spending on goods slows and firms raise prices more slowly. Therefore the rate rise is likely to pull the yearly rise in prices back down from 9%, though with a delay.",
    "marking_guidance": [
     "Context: the figures must be used - the 4% and 9% price rises and the 5% to 9% policy rate.",
     "Reasoning: the link from the rate figures to slower price rises must be given, because the aim is served through that chain.",
@@ -518,7 +536,9 @@
     "CLM-0455-4.4-009": 1,
     "CLM-0455-4.4-011": 1
    },
-   "authored_hash": "df9bed258cb876a8f6204f613fdb6dfeef1b586534f6c2242d26641313f8776d",
+   "authored_hash": "b9b3d473ad30826ce6979e2968f10869ede0dccda49e86775f97ab2fca590019",
+   "prior_hash": "df9bed258cb876a8f6204f613fdb6dfeef1b586534f6c2242d26641313f8776d",
+   "repair_note": "Review fix: monetary policy measures now include the foreign exchange rate (claims 002, 004, 006 revised); leaked register wording removed from P01; authoring labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "effects of monetary policy on government macroeconomic aims"
    ]
@@ -543,9 +563,9 @@
    "mark_tariff": 4,
    "difficulty": 5,
    "prompt": "Explain the features of the main measures of monetary policy available to a central bank.",
-   "canonical_answer": "The measures are of two kinds. Interest-rate changes: the central bank raises or lowers the rate at which it lends to commercial banks, and the commercial banks tend to move their own loan and deposit rates in the same direction, so the cost of borrowing and the reward for saving shift together. Money-supply measures: the central bank can sell government securities to banks, which pay from their reserves and then hold less to lend, or tighten the rules under which banks create new deposits through lending, so the amount of new money added each year changes. The features both share: they are carried out by the central bank, they work through the banking system rather than through taxes or spending, and they aim at the economy's performance as a whole.",
+   "canonical_answer": "The central bank has three measures. It can change the interest rate at which it lends to commercial banks, which move their loan and deposit rates the same way, changing the cost of borrowing and the reward for saving. It can control the money supply by selling government securities to banks or tightening lending rules, so fewer new deposits are created. It can buy or sell its own currency to influence the foreign exchange rate, changing import and export prices. All three work through money, not taxes or government spending.",
    "marking_guidance": [
-    "Features: what it includes - the two kinds of measure must each be explained with how it works through banks."
+    "Features: what it includes - the three kinds of measure (interest rates, the money supply and the foreign exchange rate) must each be explained with how it works."
    ],
    "context": {
     "sector": null,
@@ -560,10 +580,12 @@
    "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-0455-4.4-004": 1,
+    "CLM-0455-4.4-004": 2,
     "CLM-0455-4.4-005": 1
    },
-   "authored_hash": "4e267d46d5535a6d3255d99c9ea92ae7f26c783409880513935221cadee1f66b",
+   "authored_hash": "089e4dc830e1f53be32cd63b7709c7652ec52f1dd35ab3b127da389ffe1bcd65",
+   "prior_hash": "4e267d46d5535a6d3255d99c9ea92ae7f26c783409880513935221cadee1f66b",
+   "repair_note": "Review fix: monetary policy measures now include the foreign exchange rate (claims 002, 004, 006 revised); leaked register wording removed from P01; authoring labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "monetary policy measures"
    ]
@@ -588,7 +610,7 @@
    "mark_tariff": 4,
    "difficulty": 4,
    "prompt": "Explain the features of the way monetary policy affects the government's macroeconomic aims.",
-   "canonical_answer": "The features are reach and direction. Direct reach: monetary policy serves the aim of price stability most directly, since interest rates work on the spending and money growth that drive the rise in prices. Indirect reach: the other aims are touched through the same chain at one remove - lower rates tend to encourage borrowing, spending and output growth, which supports jobs, while higher rates tend to cool them and may slow growth and employment. Trade-off: because one instrument serves several aims, moving toward price stability may move away from growth or jobs. Unequal effects: savers and fixed-income households tend to gain from a rise while borrowers and firms selling on credit lose, so the features include who feels each effect.",
+   "canonical_answer": "Monetary policy reaches price stability most directly, because interest rates work on the spending and money growth that drive rising prices. It reaches the other aims indirectly: lower rates encourage borrowing, spending and output growth, which supports jobs, while higher rates cool them. Because one instrument serves several aims, moving towards price stability may move away from growth and jobs. Its effects are uneven: savers and fixed-income households tend to gain from a rate rise, while borrowers and firms selling on credit lose.",
    "marking_guidance": [
     "Features: the characteristics named must include the direct and indirect reach, the trade-off between aims, and the uneven effects across groups."
    ],
@@ -608,7 +630,9 @@
     "CLM-0455-4.4-012": 1,
     "CLM-0455-4.4-009": 1
    },
-   "authored_hash": "b857288638ce342bd0634cde9e1458ed7e3b03e1948b49b16b3326c14e243f39",
+   "authored_hash": "97c2cebd3a2a18c8bdd4e095be80aba986102413e67b1b3c8242baca47d5099d",
+   "prior_hash": "b857288638ce342bd0634cde9e1458ed7e3b03e1948b49b16b3326c14e243f39",
+   "repair_note": "Review fix: monetary policy measures now include the foreign exchange rate (claims 002, 004, 006 revised); leaked register wording removed from P01; authoring labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "effects of monetary policy on government macroeconomic aims"
    ]
@@ -641,8 +665,8 @@
    "command_word": null,
    "mark_tariff": null,
    "difficulty": 3,
-   "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. Money supply is best defined as:\nA  the taxes the government collects in a year\nB  the notes and coins in circulation plus the bank deposits that can be spent\nC  the gold reserves held by the central bank\nD  the total loans made by commercial banks in a year\n\n2. Monetary policy is carried out by:\nA  commercial banks making loans\nB  the tax office collecting revenue\nC  the central bank setting interest rates and money-supply measures\nD  firms deciding how much to produce\n\n3. The central bank raises its policy rate. Commercial banks are likely to:\nA  raise their loan and deposit rates, because their funds cost more\nB  lower their loan rates to win borrowers\nC  lend more freely than before\nD  change nothing, since the policy rate does not touch them\n\n4. The main measures of monetary policy are:\nA  the taxes the finance ministry collects and its budget for public works\nB  minimum wages and price controls\nC  worker training and road building\nD  interest-rate changes and measures to control money-supply growth\n\n5. Which of these is a supply-side policy measure rather than a monetary one?\nA  selling government securities to banks\nB  a rise in the policy interest rate\nC  a worker-training programme for the unemployed\nD  tighter rules on bank lending\n\n6. The yearly interest on a N$5 000 loan at 10% a year is:\nA  N$50\nB  N$500\nC  N$5 000\nD  N$10 000\n\n7. The central bank raises interest rates to slow a rise in prices. The most likely effect on the government's aims is:\nA  slower growth of spending and money, easing the pressure on prices\nB  faster output growth at once\nC  a rise in employment immediately\nD  a faster rise in the general price level\n\n8. A limitation of relying on interest-rate changes is that:\nA  they are hard to announce quickly\nB  they lower the whole price level at a stroke\nC  they raise output growth at once\nD  their effects arrive with a delay and reach cash-financed spending less",
-   "canonical_answer": "Key: 1 B, 2 C, 3 A, 4 D, 5 C, 6 B, 7 A, 8 D.\n1. B names both cash and spendable deposits (A confuses the money supply with tax revenue, C with the central bank's reserves, D with a flow of new lending rather than the stock of money).\n2. C names the central bank and its two handles (A confuses the central bank with commercial banks, B with the tax system, D with firms' own choices).\n3. A gives the pass-through that makes the measure work (B and C run the mechanism the wrong way, since dearer funds discourage rather than encourage lending; D denies the pass-through the topic teaches).\n4. D lists the two measures of the topic (A is the spending-and-taxation route of topic 4.3, B lists other tools of the finance ministry, C lists supply-side measures - the standard confusion the register flags).\n5. C changes the economy's capacity to produce, so it is supply-side (A, B and D work on the cost of borrowing and the stock of money, so each is monetary).\n6. B applies 10% to N$5 000 (A drops a zero in the percentage, C confuses the interest with the loan itself, D doubles the loan).\n7. A traces the chain the topic teaches (B and C expect gains at once, which reverses the cooling effect; D expects the rate rise to worsen prices, which runs the mechanism backwards).\n8. D names both the delay and the uneven reach (A reverses the ease of announcing a rate, B expects the level of prices to fall at once rather than the rise to slow, C invents an instant growth gain).",
+   "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. Money supply is best defined as:\nA  the taxes the government collects in a year\nB  the notes and coins in circulation plus the bank deposits that can be spent\nC  the gold reserves held by the central bank\nD  the total loans made by commercial banks in a year\n\n2. Monetary policy is carried out by:\nA  commercial banks making loans\nB  the tax office collecting revenue\nC  the central bank changing interest rates, the money supply and the exchange rate\nD  firms deciding how much to produce\n\n3. The central bank raises its policy rate. Commercial banks are likely to:\nA  raise their loan and deposit rates, because their funds cost more\nB  lower their loan rates to win borrowers\nC  lend more freely than before\nD  change nothing, since the policy rate does not touch them\n\n4. The main measures of monetary policy are:\nA  the taxes the finance ministry collects and its budget for public works\nB  minimum wages and price controls\nC  worker training and road building\nD  changes in interest rates, the money supply and the foreign exchange rate\n\n5. Which of these is a supply-side policy measure rather than a monetary one?\nA  selling government securities to banks\nB  a rise in the policy interest rate\nC  a worker-training programme for the unemployed\nD  tighter rules on bank lending\n\n6. The yearly interest on a N$5 000 loan at 10% a year is:\nA  N$50\nB  N$500\nC  N$5 000\nD  N$10 000\n\n7. The central bank raises interest rates to slow a rise in prices. The most likely effect on the government's aims is:\nA  slower growth of spending and money, easing the pressure on prices\nB  faster output growth at once\nC  a rise in employment immediately\nD  a faster rise in the general price level\n\n8. A limitation of relying on interest-rate changes is that:\nA  they are hard to announce quickly\nB  they lower the whole price level at a stroke\nC  they raise output growth at once\nD  their effects arrive with a delay and reach cash-financed spending less",
+   "canonical_answer": "Key: 1 B, 2 C, 3 A, 4 D, 5 C, 6 B, 7 A, 8 D.\n1. B names both cash and spendable deposits (A confuses the money supply with tax revenue, C with the central bank's reserves, D with a flow of new lending rather than the stock of money).\n2. C names the central bank and its three measures (A confuses the central bank with commercial banks, B with the tax system, D with firms' own choices).\n3. A gives the pass-through that makes the measure work (B and C run the mechanism the wrong way, since dearer funds discourage rather than encourage lending; D denies the pass-through the topic teaches).\n4. D lists the three measures of monetary policy (A is the spending-and-taxation route of topic 4.3, B lists other tools of the finance ministry, C lists supply-side measures, which change the economy's capacity to produce rather than the price or quantity of money).\n5. C changes the economy's capacity to produce, so it is supply-side (A, B and D work on the cost of borrowing and the stock of money, so each is monetary).\n6. B applies 10% to N$5 000 (A drops a zero in the percentage, C confuses the interest with the loan itself, D doubles the loan).\n7. A traces the chain the topic teaches (B and C expect gains at once, which reverses the cooling effect; D expects the rate rise to worsen prices, which runs the mechanism backwards).\n8. D names both the delay and the uneven reach (A reverses the ease of announcing a rate, B expects the level of prices to fall at once rather than the rise to slow, C invents an instant growth gain).",
    "marking_guidance": [
     "Key: one mark per question, eight in total; the correct option is listed and each distractor is explained as the specific misunderstanding it catches.",
     "Every distractor traces to a named error: the money supply confused with taxes or reserves, the central bank confused with commercial banks, monetary measures confused with supply-side measures, the pass-through denied or reversed, the percentage misapplied."
@@ -661,15 +685,17 @@
    "qa_status": "review_required",
    "claims_seen": {
     "CLM-0455-4.4-001": 1,
-    "CLM-0455-4.4-002": 1,
+    "CLM-0455-4.4-002": 2,
     "CLM-0455-4.4-003": 1,
-    "CLM-0455-4.4-004": 1,
+    "CLM-0455-4.4-004": 2,
     "CLM-0455-4.4-005": 1,
-    "CLM-0455-4.4-006": 1,
+    "CLM-0455-4.4-006": 2,
     "CLM-0455-4.4-008": 1,
     "CLM-0455-4.4-009": 1
    },
-   "authored_hash": "c09e6739756b857a977ebf9979af438a087ccc4dff36f9c2651435c186201cfb",
+   "authored_hash": "b70db21e0b60c3edf45a7131636570b8f17aa0ed89fb6dbbd117939597779348",
+   "prior_hash": "c09e6739756b857a977ebf9979af438a087ccc4dff36f9c2651435c186201cfb",
+   "repair_note": "Review fix: monetary policy measures now include the foreign exchange rate (claims 002, 004, 006 revised); leaked register wording removed from P01; authoring labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "definition of money supply and monetary policy",
     "monetary policy measures",
@@ -701,7 +727,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "A report in the Windhoek Courier, 2026: \"Two years ago prices in Namibia were rising 4% a year; this year the rise has reached 9%. The Bank of Namibia has lifted its policy rate in steps, and bank lending has slowed. Households are saving more of their income, and traders in the Gobabis market say customers pay cash and have felt little of the change.\"\n\nTable 1 - Namibia, 2024 and 2026\n  policy interest rate, 2024: 5%\n  policy interest rate, 2026: 9%\n  yearly rise in prices, 2024: 4%\n  yearly rise in prices, 2026: 9%\n  share of income saved by households, 2024: 8%\n  share of income saved by households, 2026: 12%\n  average new loan per borrowing household, 2024: N$4 000\n  average new loan per borrowing household, 2026: N$2 800\n\n(a) Calculate the yearly interest on the average new loan to a borrowing household in 2026. [1]\n(b) State the yearly rise in prices in 2024. [1]\n(c) Identify from Table 1 the policy interest rate in 2024 and in 2026. [2]\n(d) Explain why the rise in the policy rate is likely to slow the rise in prices. [4]\n(e) Analyse what the data suggests about the effects of the interest-rate rise on the Namibian economy between 2024 and 2026. [6]",
-   "canonical_answer": "(a) The average new loan is N$2 800 at 9%, so the yearly interest is 0.09 x N$2 800 = N$252.\n(b) The yearly rise in prices in 2024 was 4%.\n(c) The policy interest rate was 5% in 2024 and 9% in 2026 (from Table 1).\n(d) A higher policy rate raises the cost of funds to commercial banks, so their loan rates tend to rise, and borrowing becomes dearer while saving is better rewarded. Because loans are dearer, households take smaller loans - the average new loan fell from N$4 000 to N$2 800 - so credit-financed spending falls. Where spending on goods slows, firms find buyers harder to win and raise their prices more slowly, so the yearly rise in prices eases. Because saving is better rewarded, the saving share rose from 8% to 12%, which slows spending further and the growth of the money supply with it.\n(e) Expected relationship: a rate rise tends to reduce borrowing and raise saving, cooling spending and easing pressure on prices, while weighing on growth. Evidence: the saving share rose from 8% to 12%, the average new loan fell from N$4 000 to N$2 800, and the policy rate doubled from 5% to 9%. Analysis: the smaller loans point to weaker credit-financed spending, which supports firms raising prices more slowly; the higher saving share points to the same cooling from the other side, since income moved out of spending earns more at the higher deposit rate; together they show the measure at work on both handles of the money market. But the price rise itself went from 4% to 9% over the same period, so the measure had not yet brought the aim within reach when the report was written - the delay the data reveals. Exception: the extract notes that Gobabis market traders are paid in cash, so households without bank credit respond less to the rate, meaning part of the economy feels the rise through slower sales alone. For whom: savers gained income, borrowers faced dearer credit, firms selling on credit met weaker sales, and the government moved toward price stability while risking slower growth.",
+   "canonical_answer": "(a) The average new loan is N$2 800 at 9%, so the yearly interest is 0.09 x N$2 800 = N$252.\n(b) The yearly rise in prices in 2024 was 4%.\n(c) The policy interest rate was 5% in 2024 and 9% in 2026 (from Table 1).\n(d) A higher policy rate raises the cost of funds to commercial banks, so their loan rates tend to rise, and borrowing becomes dearer while saving is better rewarded. Because loans are dearer, households take smaller loans - the average new loan fell from N$4 000 to N$2 800 - so credit-financed spending falls. Where spending on goods slows, firms find buyers harder to win and raise their prices more slowly, so the yearly rise in prices eases. Because saving is better rewarded, the saving share rose from 8% to 12%, which slows spending further and the growth of the money supply with it.\n(e) A rate rise tends to reduce borrowing and raise saving, cooling spending and easing pressure on prices, while weighing on growth. The data fits this: the saving share rose from 8% to 12%, the average new loan fell from N$4 000 to N$2 800, and the policy rate doubled from 5% to 9%. The smaller loans point to weaker credit-financed spending, which supports firms raising prices more slowly; the higher saving share points to the same cooling from the other side, since income moved out of spending earns more at the higher deposit rate; together they show the measure at work on both handles of the money market. But the price rise itself went from 4% to 9% over the same period, so the measure had not yet brought the aim within reach when the report was written - the delay the data reveals. There is an exception: the extract notes that Gobabis market traders are paid in cash, so households without bank credit respond less to the rate, meaning part of the economy feels the rise through slower sales alone. Savers gained income, borrowers faced dearer credit, firms selling on credit met weaker sales, and the government moved toward price stability while risking slower growth.",
    "marking_guidance": [
     "Context: parts (a), (b) and (c) are read or calculated from the data; (d) and (e) must use the figures - the 5% to 9% policy rate, the 8% to 12% saving share, the N$4 000 to N$2 800 loan.",
     "Reasoning: one mark per distinct linked statement; quoting a figure on its own is description, not analysis - the relationship must be stated and the reason given.",
@@ -731,7 +757,9 @@
     "CLM-0455-4.4-009": 1,
     "CLM-0455-4.4-010": 1
    },
-   "authored_hash": "a2cf07b1f85a69c5aef18d9d74834b725ed8871361c1e4ca1c3bf1da5eb2dfb1",
+   "authored_hash": "f77b325af0a71014469c8fc8d53426a35da2e7c5919007e4528c938425fcb5fa",
+   "prior_hash": "a2cf07b1f85a69c5aef18d9d74834b725ed8871361c1e4ca1c3bf1da5eb2dfb1",
+   "repair_note": "Review fix: monetary policy measures now include the foreign exchange rate (claims 002, 004, 006 revised); leaked register wording removed from P01; authoring labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "monetary policy measures",
     "effects of monetary policy on government macroeconomic aims"
@@ -765,7 +793,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "The yearly rise in prices in Namibia has moved from 4% in 2024 to 9% in 2026, and the Bank of Namibia has raised its policy rate from 5% to 9% in response.\n(a) Define money supply. [2]\n(b) Explain how a rise in interest rates is likely to slow the growth of the money supply. [4]\n(c) Analyse the likely effects of the central bank's actions on the government's macroeconomic aims. [6]\n(d) Discuss whether the central bank should raise interest rates when prices are rising quickly. [8]",
-   "canonical_answer": "(a) Money supply is the total stock of money in an economy at a point in time: the notes and coins in circulation plus the bank deposits that can be spent by card, cheque or transfer.\n(b) Banks add to the money supply when they make new loans, since the loan creates a new spendable deposit. A rise in interest rates makes loans dearer, so households and firms borrow less; because fewer new loans are made, fewer new deposits are created. Higher deposit rates also pull income out of spending and into existing deposits, which does not add to the stock of money. With new lending slowed, the flow of new money into the economy shrinks, so the growth of the money supply slows.\n(c) Starting point: the policy rate rises from 5% to 9% against a 9% yearly rise in prices. Mechanism: because borrowing is dearer and saving better rewarded, credit-financed spending slows and firms raise prices more slowly, so the pressure on the aim of price stability eases - the aim monetary policy serves most directly. Consequences for the other aims: slower borrowing is likely to slow building projects and output growth, so the growth aim is served less well; firms facing weaker sales may cut hours, so employment suffers; and higher rates may draw funds from abroad, tending to lift the currency and make exports harder to sell, which bears on the external aim. For whom: savers and fixed-income households gain, borrowers and firms selling on credit lose, and the government trades some growth and jobs for steadier prices.\n(d) Why it might: where prices rise because borrowing and spending run fast, dearer credit cools exactly that, and the measure works through the whole banking system at once, so the central bank moves the aim it serves most directly with one instrument. Why it might not: the effects arrive with delay - by the time spending slows, the cause of the price rise may have passed - and where prices rise because of a poor harvest or dearer imported fuel, dearer borrowing holds back output and jobs without touching the cause, so the trade-off is paid for little gain. Judgement: on balance the central bank should raise rates where the pressure on prices comes from domestic borrowing and spending, since the instrument is well aimed at it. What the judgement depends on is the source of the price pressure and the state of growth and jobs: it depends on whether the economy can afford slower output while the rise in prices eases.",
+   "canonical_answer": "(a) Money supply is the total stock of money in an economy at a point in time: the notes and coins in circulation plus the bank deposits that can be spent by card, cheque or transfer.\n(b) Banks add to the money supply when they make new loans, since the loan creates a new spendable deposit. A rise in interest rates makes loans dearer, so households and firms borrow less; because fewer new loans are made, fewer new deposits are created. Higher deposit rates also pull income out of spending and into existing deposits, which does not add to the stock of money. With new lending slowed, the flow of new money into the economy shrinks, so the growth of the money supply slows.\n(c) The policy rate rises from 5% to 9% against a 9% yearly rise in prices. Because borrowing is dearer and saving better rewarded, credit-financed spending slows and firms raise prices more slowly, so the pressure on the aim of price stability eases - the aim monetary policy serves most directly. For the other aims, slower borrowing is likely to slow building projects and output growth, so the growth aim is served less well; firms facing weaker sales may cut hours, so employment suffers; and higher rates may draw funds from abroad, tending to lift the currency and make exports harder to sell, which bears on the external aim. Savers and fixed-income households gain, borrowers and firms selling on credit lose, and the government trades some growth and jobs for steadier prices.\n(d) Raising rates may be right: where prices rise because borrowing and spending run fast, dearer credit cools exactly that, and the measure works through the whole banking system at once, so the central bank moves the aim it serves most directly with one instrument. It may not be: the effects arrive with delay - by the time spending slows, the cause of the price rise may have passed - and where prices rise because of a poor harvest or dearer imported fuel, dearer borrowing holds back output and jobs without touching the cause, so the trade-off is paid for little gain. On balance the central bank should raise rates where the pressure on prices comes from domestic borrowing and spending, since the instrument is well aimed at it. What the judgement depends on is the source of the price pressure and the state of growth and jobs: it depends on whether the economy can afford slower output while the rise in prices eases.",
    "marking_guidance": [
     "Parts (a) to (d) carry a model answer each; (d) is level-marked over three bands.",
     "Context: (b) and (c) must use the figures given - the 4% to 9% price rise and the 5% to 9% policy rate.",
@@ -789,13 +817,15 @@
    "qa_status": "review_required",
    "claims_seen": {
     "CLM-0455-4.4-001": 1,
-    "CLM-0455-4.4-004": 1,
+    "CLM-0455-4.4-004": 2,
     "CLM-0455-4.4-005": 1,
     "CLM-0455-4.4-009": 1,
     "CLM-0455-4.4-010": 1,
     "CLM-0455-4.4-011": 1
    },
-   "authored_hash": "41a3eaeaafac3161fd65a279213fa2a648109dc3f031a23829bb70c124d53b41",
+   "authored_hash": "b9b4de0500c88f0f0fa0bbb2864a8226d290f63536ea95bd780fe2a8cab2d815",
+   "prior_hash": "41a3eaeaafac3161fd65a279213fa2a648109dc3f031a23829bb70c124d53b41",
+   "repair_note": "Review fix: monetary policy measures now include the foreign exchange rate (claims 002, 004, 006 revised); leaked register wording removed from P01; authoring labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "definition of money supply and monetary policy",
     "monetary policy measures",
@@ -826,7 +856,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "Plan an answer to: \"Discuss whether raising interest rates is the most effective way for a government to achieve price stability.\" Build the plan from the measures of monetary policy and their effects on the macroeconomic aims. Do not write the essay; produce the plan.",
-   "canonical_answer": "Case for (well aimed at the aim): the interest rate works on the spending and money growth that drive a rise in prices, and it reaches the whole banking system at once.\nChain 1: policy rate rises -> loan rates rise -> borrowing and credit-financed spending fall -> firms raise prices more slowly -> pressure on prices eases (for whom: savers gain income; borrowers face dearer credit; the government moves toward price stability).\nChain 2: policy rate rises -> deposit rates rise -> saving share rises -> growth of the money supply slows -> the background rise in prices eases (for whom: the economy gains steadier money; firms gain a predictable cost background).\nCase against (delays, uneven reach, trade-offs): the effects arrive with delay, and cash-financed spending responds little, so where the price rise comes from supply problems the measure misses the cause.\nChain 3: policy rate rises -> firms postpone loan-financed building -> output grows more slowly and hours are cut -> the aims of growth and employment suffer while prices ease slowly (for whom: construction firms and their workers lose; the government trades growth for steadier prices).\nCase against, second point: other routes exist - spending and taxation can cool demand directly, and measures that raise the economy's capacity to produce can ease supply-caused price rises - so the interest rate need not carry the burden alone.\nJudgement: raising interest rates tends to be the most effective single measure where prices rise because domestic borrowing and spending run fast, because the instrument works on exactly that and reaches the whole economy at once. The condition the judgement depends on is the source of the pressure on prices: where the rise comes from supply problems, a route that lifts capacity serves the aim better and at lower cost in jobs.",
+   "canonical_answer": "Case for (well aimed at the aim): the interest rate works on the spending and money growth that drive a rise in prices, and it reaches the whole banking system at once.\nChain 1: policy rate rises -> loan rates rise -> borrowing and credit-financed spending fall -> firms raise prices more slowly -> pressure on prices eases (who is affected: savers gain income; borrowers face dearer credit; the government moves toward price stability).\nChain 2: policy rate rises -> deposit rates rise -> saving share rises -> growth of the money supply slows -> the background rise in prices eases (who is affected: the economy gains steadier money; firms gain a predictable cost background).\nCase against (delays, uneven reach, trade-offs): the effects arrive with delay, and cash-financed spending responds little, so where the price rise comes from supply problems the measure misses the cause.\nChain 3: policy rate rises -> firms postpone loan-financed building -> output grows more slowly and hours are cut -> the aims of growth and employment suffer while prices ease slowly (who is affected: construction firms and their workers lose; the government trades growth for steadier prices).\nCase against, second point: other routes exist - spending and taxation can cool demand directly, and measures that raise the economy's capacity to produce can ease supply-caused price rises - so the interest rate need not carry the burden alone.\nJudgement: raising interest rates tends to be the most effective single measure where prices rise because domestic borrowing and spending run fast, because the instrument works on exactly that and reaches the whole economy at once. The condition the judgement depends on is the source of the pressure on prices: where the rise comes from supply problems, a route that lifts capacity serves the aim better and at lower cost in jobs.",
    "marking_guidance": [
     "A plan, not an essay: the chains and the stated judgement are what is assessed.",
     "Criterion: the decisive factor is whether the pressure on prices comes from borrowing and spending or from supply.",
@@ -852,7 +882,9 @@
     "CLM-0455-4.4-009": 1,
     "CLM-0455-4.4-010": 1
    },
-   "authored_hash": "67f226e453310464d63fd8867b984e44ced225537daf1541be6f48019aaf2602",
+   "authored_hash": "7290f37bcd49a40e280ef0c72afb34d28692d8df8f3b57026dc8ff94150b0e36",
+   "prior_hash": "67f226e453310464d63fd8867b984e44ced225537daf1541be6f48019aaf2602",
+   "repair_note": "Reviewer: removed syllabus-heading qualifiers from Define prompts, distinguished prompts duplicated across topics, and replaced the leaked 'for whom:' label in the essay plan",
    "objective_titles": [
     "monetary policy measures",
     "effects of monetary policy on government macroeconomic aims"

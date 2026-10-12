@@ -1,7 +1,7 @@
 {
   "qa_report_id": "QA-cie-0455-igcse-2026-3.7",
   "build_id": "cie-0455-igcse-2026/topic-3.7",
-  "generated_at": "2026-10-06T20:10:18Z",
+  "generated_at": "2026-10-12T22:54:16Z",
   "deterministic_checks": [
     {
       "check_id": "C-00",
@@ -72,7 +72,7 @@
     {
       "check_id": "C-32",
       "status": "pass",
-      "message": "[RS-22 Stated arithmetic is correct] All 18 stated calculations in canonical answers evaluate correctly.",
+      "message": "[RS-22 Stated arithmetic is correct] All 14 stated calculations in canonical answers evaluate correctly.",
       "affected_ids": []
     },
     {
@@ -222,7 +222,7 @@
     {
       "check_id": "C-28",
       "status": "pass",
-      "message": "[RS-32 Packet hash manifest] Critic-packet hash manifest written for 18 files to topics/3.7/packet.sha256; the manifest's own SHA-256 is detached in packet.sha256.hash (fda5f718f2ac2aad) so the whole packet is verifiable.",
+      "message": "[RS-32 Packet hash manifest] Critic-packet hash manifest written for 18 files to topics/3.7/packet.sha256; the manifest's own SHA-256 is detached in packet.sha256.hash (5ec45d262c38304e) so the whole packet is verifiable.",
       "affected_ids": []
     },
     {

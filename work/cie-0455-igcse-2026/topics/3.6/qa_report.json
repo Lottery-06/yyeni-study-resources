@@ -1,7 +1,7 @@
 {
   "qa_report_id": "QA-cie-0455-igcse-2026-3.6",
   "build_id": "cie-0455-igcse-2026/topic-3.6",
-  "generated_at": "2026-10-06T20:10:18Z",
+  "generated_at": "2026-10-12T22:54:16Z",
   "deterministic_checks": [
     {
       "check_id": "C-00",
@@ -113,13 +113,9 @@
     },
     {
       "check_id": "C-10",
-      "status": "warn",
-      "message": "[RS-36 Assessment-priority claims need assessment evidence] 4 learner-facing assessment-priority claims across 3 locations; each needs a mapped assessment-evidence record.",
-      "affected_ids": [
-        "CU-0455-3.6.1",
-        "CU-0455-3.6.3",
-        "notes"
-      ]
+      "status": "pass",
+      "message": "[RS-36 Assessment-priority claims need assessment evidence] No learner-facing claim about examiner behaviour, mark priority or question frequency.",
+      "affected_ids": []
     },
     {
       "check_id": "C-11",
@@ -214,7 +210,7 @@
     {
       "check_id": "C-26",
       "status": "pass",
-      "message": "[RS-09 Word budget] All 3 content units sit inside their declared word budget (1196 words total).",
+      "message": "[RS-09 Word budget] All 3 content units sit inside their declared word budget (1194 words total).",
       "affected_ids": []
     },
     {
@@ -226,7 +222,7 @@
     {
       "check_id": "C-28",
       "status": "pass",
-      "message": "[RS-32 Packet hash manifest] Critic-packet hash manifest written for 16 files to topics/3.6/packet.sha256; the manifest's own SHA-256 is detached in packet.sha256.hash (06cbe7fd52519daf) so the whole packet is verifiable.",
+      "message": "[RS-32 Packet hash manifest] Critic-packet hash manifest written for 16 files to topics/3.6/packet.sha256; the manifest's own SHA-256 is detached in packet.sha256.hash (02c79629d6ee7b73) so the whole packet is verifiable.",
       "affected_ids": []
     },
     {
@@ -290,11 +286,11 @@
     "claim_count": 11,
     "content_unit_count": 3,
     "learning_item_count": 16,
-    "word_count": 1196
+    "word_count": 1194
   },
   "release_decision": "publish",
   "notes": [
-    "Standard v0.2.0-draft check suite. 44 checks: 39 pass, 0 fail, 1 warn, 4 not_run.",
+    "Standard v0.2.0-draft check suite. 44 checks: 40 pass, 0 fail, 0 warn, 4 not_run.",
     "A not_run check means an input the check needs is absent. It is never a pass.",
     "RS-30: these are mechanical results computed by code. They say nothing about whether the material teaches the subject well."
   ]

@@ -61,7 +61,7 @@
    "mark_tariff": 2,
    "difficulty": 1,
    "prompt": "A shop owner in Swakopmund chooses her own stock, sets her own prices and keeps the profit, answering to no planning office. Identify the two features of a market economic system her situation shows.",
-   "canonical_answer": "Private ownership: the shop and its stock are hers, not the state's. Decentralised decision-making: she, a private individual, decides what to stock and what to charge, with no central authority directing her. Her situation shows these two features of a market system: resources privately owned and production decisions taken by private individuals rather than by government.",
+   "canonical_answer": "Her situation shows private ownership, because the shop and its stock are hers rather than the state's, and decentralised decision-making, because she, not a planning office, decides what to stock and what to charge. Keeping the profit also shows the profit motive at work.",
    "marking_guidance": [
     "Features: the elements required are private ownership and production decisions taken by households and firms rather than government; the profit motive and freely moving prices are the other two the answer may name."
    ],
@@ -80,7 +80,9 @@
    "claims_seen": {
     "CLM-0455-2.9-002": 1
    },
-   "authored_hash": "7e6ddd918b6a96b8ddd14afd89600f273ecf5e8e0ab29071e0f887e7c3d0c6de"
+   "authored_hash": "2613fa600e68c3a0fd3eadf64ec864b4a12944e22f99318424998884b7c91a8e",
+   "prior_hash": "7e6ddd918b6a96b8ddd14afd89600f273ecf5e8e0ab29071e0f887e7c3d0c6de",
+   "repair_note": "Review fix: flashcard answers trimmed to recall length and labels removed; P02(b) made a genuine two-feature Identify; labels removed from P02(d)/P03; objective wording"
   },
   {
    "item_id": "ITEM-0455-2.9-003-DEF",
@@ -101,7 +103,7 @@
    "mark_tariff": 2,
    "difficulty": 2,
    "prompt": "In this topic, prices are said to act as signals and incentives. Define what this means for a market economic system.",
-   "canonical_answer": "Prices acting as signals and incentives means that a rising price tells producers a good is scarce and selling it is more profitable, which tends to draw firms and resources toward that good, while a falling price tells them the opposite and tends to push resources away. In this way prices, moving with demand and supply, direct resources without a central plan.",
+   "canonical_answer": "A price movement carries information and a reward. A rising price signals that a good is scarce and more profitable to sell, drawing firms and resources towards it; a falling price tends to push them away. Prices thus direct resources without a central plan.",
    "marking_guidance": [
     "Precise meaning: the definition must state what prices acting as signals and incentives means - a price movement carries information about scarcity and profit, which tends to move resources in response."
    ],
@@ -120,7 +122,9 @@
    "claims_seen": {
     "CLM-0455-2.9-004": 1
    },
-   "authored_hash": "5d95de8baf97f205287e4be9dccd47ecdc3698d49bc33a4fab22428511cf06a3"
+   "authored_hash": "612dfc0c0d05f260ca5cb08bf85da34f5d7a73adc3078cd97e871bfd29bfc207",
+   "prior_hash": "5d95de8baf97f205287e4be9dccd47ecdc3698d49bc33a4fab22428511cf06a3",
+   "repair_note": "Review fix: flashcard answers trimmed to recall length and labels removed; P02(b) made a genuine two-feature Identify; labels removed from P02(d)/P03; objective wording"
   },
   {
    "item_id": "ITEM-0455-2.9-004-WHY",
@@ -142,7 +146,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "Two firms sell bottled juice at the open market in Oshakati, and shoppers walk past the dearer stall to the cheaper one. Explain why competition among sellers is an advantage of the market economic system for consumers.",
-   "canonical_answer": "The reason is that competition forces sellers to serve the consumer to survive. Because shoppers can choose the cheaper stall, the dearer seller loses sales, so each seller tends to keep prices down rather than charge what they might like. The same pressure pushes each firm to keep its costs low and to offer something shoppers prefer - a new flavour, a bigger bottle - because that is how it wins customers from its rival. The consumer therefore gains from lower prices and wider choice, because rivalry means sellers must compete for their spending. This is the advantage of competition in a market system: it tends to hold prices down and widen choice, as each firm's profit depends on the consumer's willingness to buy.",
+   "canonical_answer": "Shoppers in Oshakati can walk past the dearer stall, so a seller who charges more than its rival tends to lose sales. Each seller therefore has a reason to keep its price down, keep its costs low and offer something shoppers prefer, such as a new flavour or a bigger bottle, because that is how it wins customers. Consumers gain lower prices and wider choice, because rivalry makes each firm's profit depend on winning their spending.",
    "marking_guidance": [
     "Reason: why competition benefits consumers must be explained - sellers must win customers from rivals, because shoppers can switch.",
     "Purpose: the explanation should end at what the consumer gains - lower prices and wider choice - since that is the advantage."
@@ -163,7 +167,9 @@
     "CLM-0455-2.9-005": 1,
     "CLM-0455-2.9-006": 1
    },
-   "authored_hash": "0d31b17214eb9998842a59529666913ae89f72d88ff86d29d79ab438dee8c42e"
+   "authored_hash": "4c0c0b93c39362d8c31b21d9bf90407f2654a1c20393002ee950db1adb573a03",
+   "prior_hash": "0d31b17214eb9998842a59529666913ae89f72d88ff86d29d79ab438dee8c42e",
+   "repair_note": "Review fix: flashcard answers trimmed to recall length and labels removed; P02(b) made a genuine two-feature Identify; labels removed from P02(d)/P03; objective wording"
   },
   {
    "item_id": "ITEM-0455-2.9-005-APP",
@@ -186,7 +192,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "In a mainly market-run economy, a freelance photographer in Windhoek earns about N$18 000 in a busy month, while the cleaner in the same office block earns N$3 000. Using the figures, explain why unequal income is a disadvantage of the market economic system.",
-   "canonical_answer": "The figures show a sixfold gap: the photographer's skill is scarce and rewarded at N$18 000, while the cleaner's wage sits at N$3 000. The reasoning is that in a market system rewards follow what is scarce and what people will pay for, not effort alone, so incomes tend to differ widely. This means that the distribution of income produced by the market may leave some households with too little to buy the goods the system produces so efficiently - the cleaner may struggle to afford the very goods the market directs resources toward. Therefore unequal income is a disadvantage of the market system: the same price mechanism that allocates goods well does not guarantee that everyone can afford them.",
+   "canonical_answer": "The photographer earns N$18 000 a month, six times the cleaner's N$3 000. In a market system rewards follow what is scarce and what buyers will pay for, not effort alone, so a scarce skill earns far more than widely available labour. Incomes therefore differ widely, and the cleaner's household may be unable to afford goods the market produces efficiently. That is the disadvantage: the price mechanism allocates goods well but does not ensure everyone can buy them.",
    "marking_guidance": [
     "Context: the data - N$18 000 against N$3 000 - must be used to show the gap.",
     "Reasoning: the link from scarce skills to unequal rewards must be made, because a market system pays what is scarce and valued.",
@@ -208,7 +214,9 @@
     "CLM-0455-2.9-008": 1,
     "CLM-0455-2.9-005": 1
    },
-   "authored_hash": "1104a4c75e25720f061ceba067c915a2c711596fc694de2efb27cc068d6bbbe3"
+   "authored_hash": "5b51ecf0939c6404422e3f5fcde9c48d6ae9c4d798c589d1e61e29ada363fc47",
+   "prior_hash": "1104a4c75e25720f061ceba067c915a2c711596fc694de2efb27cc068d6bbbe3",
+   "repair_note": "Review fix: flashcard answers trimmed to recall length and labels removed; P02(b) made a genuine two-feature Identify; labels removed from P02(d)/P03; objective wording"
   },
   {
    "item_id": "ITEM-0455-2.9-006-CHAIN",
@@ -230,7 +238,7 @@
    "mark_tariff": 8,
    "difficulty": 3,
    "prompt": "A bottling plant in a town on the Kavango River releases its waste water into the river, and the profit it makes each year stays healthy. Discuss the consequences of the market system's profit motive for the people downstream, the firm's workers, and the government of the town.",
-   "canonical_answer": "Starting point: the plant produces where profit is healthy, and the waste it releases imposes costs on people downstream. Mechanism: because the firm's profit depends on what it sells, not on the harm it causes, the market system gives it a reason to keep producing and no price signal telling it to stop - the river is not priced, so the harm it carries never appears in the firm's costs. This causes the harm to continue and often to grow as output grows. Consequence: the results land on named parties. For the people downstream, the water they fish in and draw from carries the plant's waste, so their health and livelihoods suffer, and they receive no compensation because no payment passed for the harm. For the firm's workers, the same profit keeps their jobs secure in the short run, which is the gain the profit motive brings them. For the town's government, the costs arrive as health spending and lost fishing income it had no hand in creating, and it must decide whether to intervene, which is where the market system's misfire hands the government a problem it did not choose. The exception is worth naming: where the plant's owners value their reputation with local customers, they may curb the release voluntarily, because harm that reaches customers threatens sales. That exception shows the boundary of the misfire - the profit motive ignores harm to third parties, but responds to harm that touches profit.",
+   "canonical_answer": "The plant keeps producing because its profit depends on what it sells, not on the harm it causes. The river is not priced, so the cost of the waste never enters the plant's costs and no price signal tells it to cut back; the harm continues and may grow as output grows. People downstream lose most: the water they fish in and draw from carries the waste, their health and livelihoods suffer, and they receive no compensation. The firm's workers gain in the short run, because healthy profit keeps their jobs secure. The town's government is left with health spending and lost fishing income it did not create, and must decide whether to intervene. The harm has a limit: if the owners fear for their reputation with local customers, they may curb the release voluntarily, because harm that reaches customers threatens sales. On balance, the profit motive serves the plant and its workers but fails people downstream, because it ignores harm to third parties unless that harm touches profit.",
    "marking_guidance": [
     "Starting point: the initial change - a profitable firm releasing waste into an unpriced river - must open the analysis.",
     "Mechanism: because the harm is not priced, no signal reaches the firm, and this causes the harm to continue.",
@@ -253,7 +261,9 @@
     "CLM-0455-2.9-010": 1,
     "CLM-0455-2.9-009": 1
    },
-   "authored_hash": "e13b6fd060a905f6e2785d57f8bba10567a0451a8a1f2ebcd054e49daaa5fcca"
+   "authored_hash": "fcda659856d085ee5c38eed3355227cd68ad6f862c1622b3dd4705f5b8ccfb2c",
+   "prior_hash": "e13b6fd060a905f6e2785d57f8bba10567a0451a8a1f2ebcd054e49daaa5fcca",
+   "repair_note": "Review fix: flashcard answers trimmed to recall length and labels removed; P02(b) made a genuine two-feature Identify; labels removed from P02(d)/P03; objective wording"
   },
   {
    "item_id": "ITEM-0455-2.9-P01",
@@ -332,10 +342,10 @@
    "command_word": null,
    "mark_tariff": null,
    "difficulty": 5,
-   "prompt": "A newspaper report on the riverside town of Rundu, 2026: \"Rundu's retail market is run by private traders. Last year 34 clothing stalls traded at the open market and shoppers paid an average of N$120 for a dress. This year 42 stalls trade and the average price is N$95; stall owners say the new arrivals copied the good sellers. The town's riverside traders meanwhile complain that fish stocks are falling, which they blame on waste released upstream by two bottling plants, whose combined yearly profit is reported at N$2.4 million.\"\n\nTable 1 - Rundu open market, clothing stalls\n  stalls last year: 34\n  stalls this year: 42\n  average dress price last year: N$120\n  average dress price this year: N$95\n\n(a) Calculate the fall in the average dress price between the two years. [1]\n(b) Identify from Table 1 the number of clothing stalls trading this year. [2]\n(c) Explain why the changes in Table 1 show competition working as an advantage of the market economic system for shoppers. [4]\n(d) Analyse what the report suggests about how well the market system serves the two different groups in Rundu - the shoppers and the riverside traders. [6]",
-   "canonical_answer": "(a) N$120 - N$95 = N$25.\n(b) The number of clothing stalls trading this year is 42 (from Table 1); the 34 beside it is last year's count.\n(c) The figures show rivalry at work: new sellers entered - from 34 stalls to 42 - because the good sellers' profits were visible, and the average price fell from N$120 to N$95. Competition works for shoppers because each stall must win customers from the others, so a stall charging far above the market tends to lose sales, which is what pushed the average price down. Shoppers therefore gain a lower price and more stalls to choose between, which is the advantage of competition in a market system: it tends to hold prices down and widen choice.\n(d) Expected relationship: the market system serves the two groups differently, because the market rewards those who take part as buyers and sellers and ignores harm that carries no price. Evidence: shoppers gained - 42 stalls where 34 traded, and N$95 dresses where they paid N$120 - which is the price mechanism allocating resources to what consumers value. Evidence: the riverside traders lost - falling fish stocks blamed on waste from plants whose profits of N$2.4 million stayed healthy - which is the misfire: the harm to the fishers was never priced, so no signal reached the plants. Analysis: for the shoppers, the same entry of new firms that lowered prices widens choice and so consumer sovereignty is being served; for the traders, the profit motive that keeps the plants producing also keeps the waste flowing, and because the river carries no price, the market gives the plants no reason to stop. Exception: not every group outside a market loses - a stall owner who wins customers is a private trader gaining, and the plants' own workers keep jobs because profits stay healthy, so the misfire is specific to those who bear harm they cannot charge for. The conclusion the report points to: the market system serves shoppers well where rivalry is real, and serves the riverside traders poorly where harm is unpriced.",
+   "prompt": "A newspaper report on the riverside town of Rundu, 2026: \"Rundu's retail market is run by private traders. Last year 34 clothing stalls traded at the open market and shoppers paid an average of N$120 for a dress. This year 42 stalls trade and the average price is N$95; stall owners say the new arrivals copied the good sellers. The town's riverside traders meanwhile complain that fish stocks are falling, which they blame on waste released upstream by two bottling plants, whose combined yearly profit is reported at N$2.4 million.\"\n\nTable 1 - Rundu open market, clothing stalls\n  stalls last year: 34\n  stalls this year: 42\n  average dress price last year: N$120\n  average dress price this year: N$95\n\n(a) Calculate the fall in the average dress price between the two years. [1]\n(b) Identify two features of the market economic system shown in the report. [2]\n(c) Explain why the changes in Table 1 show competition working as an advantage of the market economic system for shoppers. [4]\n(d) Analyse what the report suggests about how well the market system serves the two different groups in Rundu - the shoppers and the riverside traders. [6]",
+   "canonical_answer": "(a) N$120 - N$95 = N$25.\n(b) Any two, one mark each: private ownership - the market is run by private traders; freedom of entry - the stalls rose from 34 to 42 as new traders arrived; competition - the new arrivals copied the good sellers and the average price fell; prices set by demand and supply rather than by an official.\n(c) The figures show rivalry at work: new sellers entered - from 34 stalls to 42 - because the good sellers' profits were visible, and the average price fell from N$120 to N$95. Competition works for shoppers because each stall must win customers from the others, so a stall charging far above the market tends to lose sales, which is what pushed the average price down. Shoppers therefore gain a lower price and more stalls to choose between, which is the advantage of competition in a market system: it tends to hold prices down and widen choice.\n(d) The market system serves the two groups differently, because the market rewards those who take part as buyers and sellers and ignores harm that carries no price. The shoppers gained - 42 stalls where 34 traded, and N$95 dresses where they paid N$120 - which is the price mechanism allocating resources to what consumers value. The riverside traders lost - falling fish stocks blamed on waste from plants whose profits of N$2.4 million stayed healthy - which is the misfire: the harm to the fishers was never priced, so no signal reached the plants. For the shoppers, the same entry of new firms that lowered prices widens choice, so consumer sovereignty is being served; for the traders, the profit motive that keeps the plants producing also keeps the waste flowing, and because the river carries no price, the market gives the plants no reason to stop. Not every group outside a market loses, however - a stall owner who wins customers is a private trader gaining, and the plants' own workers keep jobs because profits stay healthy, so the misfire is specific to those who bear harm they cannot charge for. The report therefore suggests that the market system serves shoppers well where rivalry is real, and serves the riverside traders poorly where harm is unpriced.",
    "marking_guidance": [
-    "Context: parts (a) and (b) must be read from the data; the six-mark part must use the figures as evidence - the stall counts, the price fall, the N$2.4 million profit.",
+    "Context: part (a) must be calculated from Table 1 and part (b) identified from the report, one mark per feature; the six-mark part must use the figures as evidence - the stall counts, the price fall, the N$2.4 million profit.",
     "Reasoning: one mark per distinct linked statement in (c); the link from rivalry to the lower price must be made, because competition is what holds prices down.",
     "Conclusion: part (d) must run expected relationship, then evidence from the data, then analysis, then an exception; quoting figures alone is description and earns nothing without the relationship it supports.",
     "For whom: consequences must be named for the shoppers and the riverside traders, not left as a general verdict on markets."
@@ -366,7 +376,9 @@
     "CLM-0455-2.9-009": 1,
     "CLM-0455-2.9-010": 1
    },
-   "authored_hash": "f0a32c939282cd29207d2b7da1080b73c0ba750824e7ed886927b7d80f757c0f"
+   "authored_hash": "6c20a5548b04f3497c947988948fd62b7a1fe917c495455ba700fd381a6f047b",
+   "prior_hash": "f0a32c939282cd29207d2b7da1080b73c0ba750824e7ed886927b7d80f757c0f",
+   "repair_note": "Review fix: flashcard answers trimmed to recall length and labels removed; P02(b) made a genuine two-feature Identify; labels removed from P02(d)/P03; objective wording"
   },
   {
    "item_id": "ITEM-0455-2.9-P03",
@@ -394,7 +406,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "A country's government is considering withdrawing from its rural retail sector, leaving prices, entry and production choices to private traders. At present officials decide which traders may open stalls and what prices they may charge. A survey shows that rural households say they want a wider choice of goods than the officials currently allow.\n(a) Define a market economic system. [2]\n(b) Explain how consumer sovereignty would operate in the rural retail sector after the change. [4]\n(c) Analyse the effects on rural households and on traders of leaving prices and entry to the market. [6]\n(d) Discuss whether the government should withdraw from the rural retail sector. [8]",
-   "canonical_answer": "(a) A market economic system is an economic system in which resources are allocated through the price mechanism: private ownership, the decisions of households and firms, and prices formed by demand and supply determine what is produced, how it is produced and for whom.\n(b) Consumer sovereignty means consumers direct production through their spending. In the rural retail sector it would operate like this: traders, now free to choose their stock, would stock what households actually buy, because that is where their sales and profit come from; a line of goods that households pass over would be dropped, because unsold stock earns the trader nothing. The survey's finding - households want a wider choice - becomes the instruction the market answers: where households spend on new goods, other traders notice the sales and copy them. So what appears on rural stalls comes to reflect what households choose, because it is their spending, not an official's permission, that decides what is worth stocking.\n(c) Effects on rural households: with entry open, more traders are likely to appear where spending is there to win, so the choice of goods widens - the very thing the survey says households want. Rivalry among traders tends to hold prices down, because a trader charging far above the others tends to lose customers, so households may pay less for the same good. Effects on traders: the freedom cuts both ways. A trader who reads household wants well gains customers and profit; a trader who stocks what households do not want may lose stock and perhaps the stall, because with no official price the sale depends on what households choose to buy. For households with little money, the exception matters: wider choice and lower prices help most where households can afford to buy at all, so the gain is smallest for the poorest. Analysis overall: the change shifts what rural retail produces from what officials allow toward what households choose, with the gains and risks of that shift landing on both named groups.\n(d) Why the government might withdraw: the market's machinery answers the survey's complaint directly - choice widens because traders follow spending, rivalry tends to hold prices down, and no official has to guess what households want. Why it might not: the market does not serve every household equally. Where incomes are very low, wider choice does not reach the poorest, and unregulated traders may push prices where they can, particularly in villages with a single stall. Judgement: on balance the government should withdraw from setting prices and permissions, because the survey shows households want choice the officials are not supplying, and rivalry can serve them; the condition the judgement depends on is whether the government keeps a watching brief - stepping in where a settlement is left with one seller or where a trader's practices harm households - because the market system serves households well where rivalry is real and poorly where it is not.",
+   "canonical_answer": "(a) A market economic system is an economic system in which resources are allocated through the price mechanism: private ownership, the decisions of households and firms, and prices formed by demand and supply determine what is produced, how it is produced and for whom.\n(b) Consumer sovereignty means consumers direct production through their spending. In the rural retail sector it would operate like this: traders, now free to choose their stock, would stock what households actually buy, because that is where their sales and profit come from; a line of goods that households pass over would be dropped, because unsold stock earns the trader nothing. The survey's finding - households want a wider choice - becomes the instruction the market answers: where households spend on new goods, other traders notice the sales and copy them. So what appears on rural stalls comes to reflect what households choose, because it is their spending, not an official's permission, that decides what is worth stocking.\n(c) Effects on rural households: with entry open, more traders are likely to appear where spending is there to win, so the choice of goods widens - the very thing the survey says households want. Rivalry among traders tends to hold prices down, because a trader charging far above the others tends to lose customers, so households may pay less for the same good. Effects on traders: the freedom cuts both ways. A trader who reads household wants well gains customers and profit; a trader who stocks what households do not want may lose stock and perhaps the stall, because with no official price the sale depends on what households choose to buy. For households with little money, the exception matters: wider choice and lower prices help most where households can afford to buy at all, so the gain is smallest for the poorest. Overall, the change shifts what rural retail produces from what officials allow toward what households choose, with the gains and risks of that shift landing on both named groups.\n(d) The government might withdraw because the market's machinery answers the survey's complaint directly - choice widens because traders follow spending, rivalry tends to hold prices down, and no official has to guess what households want. It might not, because the market does not serve every household equally. Where incomes are very low, wider choice does not reach the poorest, and unregulated traders may push prices where they can, particularly in villages with a single stall. On balance, the government should withdraw from setting prices and permissions, because the survey shows households want choice the officials are not supplying, and rivalry can serve them; the condition the judgement depends on is whether the government keeps a watching brief - stepping in where a settlement is left with one seller or where a trader's practices harm households - because the market system serves households well where rivalry is real and poorly where it is not.",
    "marking_guidance": [
     "Parts (a) to (d) carry a model answer each; (d) is level-marked over three bands.",
     "Context: (b) must show consumer sovereignty operating through the survey's households and traders; (c) must trace effects to both named groups - households and traders.",
@@ -423,7 +435,9 @@
     "CLM-0455-2.9-009": 1,
     "CLM-0455-2.9-008": 1
    },
-   "authored_hash": "704905fd3d860f80f3adedbbcf064b6a4ce7fb97b15bc5060736518932fa9132"
+   "authored_hash": "d7387573923ade06ef52baab4ae05535ba9cb0a00b810de7d6d50fa5564259fd",
+   "prior_hash": "704905fd3d860f80f3adedbbcf064b6a4ce7fb97b15bc5060736518932fa9132",
+   "repair_note": "Review fix: flashcard answers trimmed to recall length and labels removed; P02(b) made a genuine two-feature Identify; labels removed from P02(d)/P03; objective wording"
   },
   {
    "item_id": "ITEM-0455-2.9-P04",

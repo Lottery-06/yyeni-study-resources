@@ -34,7 +34,7 @@
    "block_id": "6.2.2-b2",
    "block_type": "definition",
    "heading": "What a multinational company is",
-   "text": "A multinational company (MNC) is a firm that produces goods or sells them in more than one country. The country of its head office is its home country; each country where it produces or sells is a host country. Most products a learner can name - drinks, phones, clothing - are made and sold this way, and the spread of these firms is one of the engines of globalisation: the same product, sold in many countries, often assembled in several of them.",
+   "text": "A multinational company (MNC) is a firm that produces goods or services in more than one country, through plants, offices or other operations it runs there. A firm that sells abroad from its home base is exporting; it becomes multinational when it produces abroad. The country of its head office is its home country; each other country where it operates is a host country. Most products a learner can name - drinks, phones, clothing - are made and sold this way, and the spread of these firms is one of the engines of globalisation: the same product, sold in many countries, often assembled in several of them.",
    "claim_ids": [
     "CLM-0455-6.2-004"
    ],
@@ -43,15 +43,17 @@
     "AO1"
    ],
    "claims_seen": {
-    "CLM-0455-6.2-004": 1
+    "CLM-0455-6.2-004": 2
    },
-   "authored_hash": "b432bd6ccb5a2b9e69132bf9971502ba397d69e3015397f42ed1989224152df9"
+   "authored_hash": "cfdf3b8a024d280579f934eb671abe1898bf6b533862f8d8b1a22bcf05ad5298",
+   "prior_hash": "b432bd6ccb5a2b9e69132bf9971502ba397d69e3015397f42ed1989224152df9",
+   "repair_note": "Review fix: MNC defined as producing (operating) in more than one country, not selling - claims 004/006, notes, 003, P01 Q2 key; home-country effects of MNCs added (claim 005, notes, 005); producer and economy gains of free trade added (007, P03d); subsidy and embargo explained (P02c); dropped possessives restored throughout; 008 home-blanket saving corrected to N$30; missing N$320 added to 016 stem; leaked labels and marking text removed from P02/P03; flashcard answers trimmed for recall"
   },
   {
    "block_id": "6.2.2-b3",
    "block_type": "worked_application",
    "heading": "A plant opens in Oshakati",
-   "text": "Haneda Electronics keeps its head office in Nagoya, Japan, and has opened an assembly plant in Oshakati. The plant pays 300 workers an average of N$6 500 a month, and the 60 technicians it trained now also maintain machinery for other firms in the town. Its profit, about N$12 million a year, is paid to the head office. The host country, Namibia, gains jobs, wages and skills that spread beyond the plant; the home country, Japan, gains profit and a market it did not serve before; and the cost that travels with them is that local electronics sellers now face a competitor with far larger resources behind it.",
+   "text": "Haneda Electronics keeps its head office in Nagoya, Japan, and has opened an assembly plant in Oshakati. The plant pays 300 workers an average of N$6 500 a month, and the 60 technicians it trained now also maintain machinery for other firms in the town. Its profit, about N$12 million a year, is paid to the head office. The host country, Namibia, gains jobs, wages and skills that spread beyond the plant; the home country, Japan, gains profit and a market it did not serve before, though the assembly jobs, and the tax on their wages, went to Namibia rather than to a Japanese town; and the cost that travels with them is that local electronics sellers now face a competitor with far larger resources behind it.",
    "claim_ids": [
     "CLM-0455-6.2-007",
     "CLM-0455-6.2-005"
@@ -63,15 +65,17 @@
    ],
    "claims_seen": {
     "CLM-0455-6.2-007": 1,
-    "CLM-0455-6.2-005": 1
+    "CLM-0455-6.2-005": 2
    },
-   "authored_hash": "d91d2529622eb20e3b39406ce8665d8ca2ea27ac6b713098e3a483970462e747"
+   "authored_hash": "0516969ae333e4448794f424ac560327268703aec80f6251c228e051771594a1",
+   "prior_hash": "d91d2529622eb20e3b39406ce8665d8ca2ea27ac6b713098e3a483970462e747",
+   "repair_note": "Review fix: MNC defined as producing (operating) in more than one country, not selling - claims 004/006, notes, 003, P01 Q2 key; home-country effects of MNCs added (claim 005, notes, 005); producer and economy gains of free trade added (007, P03d); subsidy and embargo explained (P02c); dropped possessives restored throughout; 008 home-blanket saving corrected to N$30; missing N$320 added to 016 stem; leaked labels and marking text removed from P02/P03; flashcard answers trimmed for recall"
   },
   {
    "block_id": "6.2.2-b4",
    "block_type": "misconception",
    "heading": "Multinational is not a kind of ownership",
-   "text": "Learners mix up three questions that sound alike. A public limited company sells its shares on a stock exchange - that is ownership traded to the public. A state-owned company belongs to a government - that is who owns it. A multinational company produces or sells in more than one country - that is where it operates. One firm may be any combination of the three: a state-owned airline that flies to and keeps offices in other countries is state-owned and multinational at once. The test: ask which question the sentence answers - ownership traded, who owns it, or where it operates.",
+   "text": "Learners mix up three questions that sound alike. A public limited company sells its shares on a stock exchange - that is ownership traded to the public. A state-owned company belongs to a government - that is who owns it. A multinational company produces in more than one country - that is where it operates. One firm may be any combination of the three: a state-owned airline that flies to and keeps offices in other countries is state-owned and multinational at once. The test: ask which question the sentence answers - ownership traded, who owns it, or where it operates.",
    "claim_ids": [
     "CLM-0455-6.2-006",
     "CLM-0455-6.2-004"
@@ -81,10 +85,12 @@
     "AO1"
    ],
    "claims_seen": {
-    "CLM-0455-6.2-006": 1,
-    "CLM-0455-6.2-004": 1
+    "CLM-0455-6.2-006": 2,
+    "CLM-0455-6.2-004": 2
    },
-   "authored_hash": "c07aa3c0f3b8ed4a9e49e3430275609bf0e812fda733da2b75affae83dc6da8b"
+   "authored_hash": "cda7dd6c37a212aedb0b2f1a6f7025715270e8f4f2a45caf74ef17ad7122a07b",
+   "prior_hash": "c07aa3c0f3b8ed4a9e49e3430275609bf0e812fda733da2b75affae83dc6da8b",
+   "repair_note": "Review fix: MNC defined as producing (operating) in more than one country, not selling - claims 004/006, notes, 003, P01 Q2 key; home-country effects of MNCs added (claim 005, notes, 005); producer and economy gains of free trade added (007, P03d); subsidy and embargo explained (P02c); dropped possessives restored throughout; 008 home-blanket saving corrected to N$30; missing N$320 added to 016 stem; leaked labels and marking text removed from P02/P03; flashcard answers trimmed for recall"
   },
   {
    "block_id": "6.2.2-b5",

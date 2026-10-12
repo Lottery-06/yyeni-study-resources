@@ -24,7 +24,7 @@
    "mark_tariff": 2,
    "difficulty": 3,
    "prompt": "Marula Foods dries fruit in Gobabis for sale across Namibia. Define supply.",
-   "canonical_answer": "Supply is the quantity of a good that producers are willing and able to offer for sale at a given price over a period of time. For Marula Foods, supply is the quantity of dried fruit it is willing and able to offer for sale at each price over a period - not the quantity it hopes buyers might take.",
+   "canonical_answer": "Supply is the quantity of a good that producers are willing and able to offer for sale at a given price over a period of time. For Marula Foods, it is the dried fruit it is willing and able to offer at each price.",
    "marking_guidance": [
     "One mark for the precise definition: willing and able, at a given price, over a period of time - the meaning must place supply on the seller's side of the market.",
     "One mark for applying the meaning to Marula Foods: what it offers for sale at each price, rather than what it hopes to sell."
@@ -44,7 +44,9 @@
    "claims_seen": {
     "CLM-0455-2.4-001": 1
    },
-   "authored_hash": "c81dddb32be954793637cd93d5002e31d2ddc79293e0fef8f7161782116faaa3",
+   "authored_hash": "ea694ab8088a4a60a6341c399f84c0048aa41a298e1c8583762a38669e8503bc",
+   "prior_hash": "c81dddb32be954793637cd93d5002e31d2ddc79293e0fef8f7161782116faaa3",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length in plain prose; supply-diagram cards no longer call a point on a lone supply curve an equilibrium, and 015 no longer invents an N$135/55-sign crossing its prompt never gave; lodge card 005 now about rooms offered, not let; 010 no longer calls a contraction 'fewer crates at each price'; 016 drops a demand explanation for an offering figure; P02(b) made a two-point identify; PES cross-reference corrected to topic 2.8; leaked labels removed from P02(d) and P03(c).",
    "objective_titles": [
     "definition of supply"
    ]
@@ -71,12 +73,12 @@
    "mark_tariff": 8,
    "difficulty": 3,
    "prompt": "Otjiwa Dairy in Otavi offers 500 litres of milk a week at N$10 a litre. The farm-gate price rises to N$12 a litre, and the dairy offers 620 litres a week. Discuss how a supply diagram of this market shows what supply means, giving a verbal walk-through of every part of the diagram and what it shows.",
-   "canonical_answer": "Walk through the diagram in words, element by element. First, the axes labelled: price of milk, in N$ per litre, on the vertical axis, and quantity, in litres a week, on the horizontal axis. Second, the original curves drawn and labelled: an upward-sloping supply curve S through the point at N$10 and 500 litres, showing the quantity the dairy is willing and able to offer at each price; the market's demand curve may be drawn in faintly, since it belongs to topic 2.3, to mark where the two sides meet. Third, the shift or movement, in the correct direction: the price rise is a movement up along the unchanged supply curve - an extension in supply - from the point at N$10 and 500 litres to the point at N$12 and 620 litres, because the good's own price is what changed. Fourth, the new equilibrium marked and labelled: the point at N$12 and 620 litres, where the quantity the dairy now offers meets what buyers take at the new price. Fifth, what the diagram shows, in words: at each point along S the dairy shows effective supply - willingness and ability to offer for sale - at that price, so the curve is the definition of supply drawn as a relationship. The link is that the diagram joins the definition to the selling side of the market, and the consequence is that 120 more litres a week are offered, since 620 - 500 = 120 litres, because the higher price makes each litre more worth producing.",
+   "canonical_answer": "Price of milk, in N$ a litre, goes on the vertical axis and litres a week on the horizontal. One upward-sloping supply curve, S, passes through N$10 and 500 litres, showing what the dairy is willing and able to offer at each price. The price rise moves the market up along the same curve to a new point at N$12 and 620 litres. The curve does not shift, because the change is in the good's own price: this is an extension in supply of 620 - 500 = 120 litres a week. In words, each point on S is the definition of supply drawn as a relationship: the quantity the dairy is willing and able to offer at that price. The link is that a higher price makes each litre more worth producing, so the dairy offers more along an unchanged curve. The consequence is 120 more litres a week on offer, with supply itself, the whole curve, unchanged.",
    "marking_guidance": [
     "The walk-through must name the axes labelled - price and quantity, each with its units - before anything else.",
     "Reward the original curves drawn and labelled: the supply curve in place at N$10 and 500 litres before the change is described.",
     "Check the shift or movement, in the correct direction: a rise in the good's own price is a movement up an unchanged supply curve, an extension in supply, not a shift of it.",
-    "The new equilibrium marked and labelled at the new price and quantity earns its mark, and what the diagram shows, in words, must close the walk-through.",
+    "The new point marked and labelled on the same curve at the new price and quantity earns its mark, and what the diagram shows, in words, must close the walk-through.",
     "The link between the definition and its drawn form, and the consequence for the market - 120 more litres a week offered - carry the analysis marks."
    ],
    "context": {
@@ -96,7 +98,9 @@
     "CLM-0455-2.4-003": 1,
     "CLM-0455-2.4-004": 1
    },
-   "authored_hash": "000527ba0cbddd465930c5fd85cfc8361431ad227e812e726daaf37b7779e1de",
+   "authored_hash": "5bb27194e0af23680df36a7ec793eee04d30261a7b165d5eda9dbec12375274f",
+   "prior_hash": "000527ba0cbddd465930c5fd85cfc8361431ad227e812e726daaf37b7779e1de",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length in plain prose; supply-diagram cards no longer call a point on a lone supply curve an equilibrium, and 015 no longer invents an N$135/55-sign crossing its prompt never gave; lodge card 005 now about rooms offered, not let; 010 no longer calls a contraction 'fewer crates at each price'; 016 drops a demand explanation for an offering figure; P02(b) made a two-point identify; PES cross-reference corrected to topic 2.8; leaked labels removed from P02(d) and P03(c).",
    "objective_titles": [
     "definition of supply"
    ]
@@ -122,7 +126,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Namib Signs paints standard signs for Windhoek shops. Its schedule: at N$100 a sign it offers 24 signs a month, at N$150 it offers 40 signs, at N$200 it offers 52 signs. Explain what the figures show about Namib Signs' supply of signs.",
-   "canonical_answer": "What the data shows is the definition of supply written as numbers: at each price, the quantity of signs the firm is willing and able to offer. The relationship is positive - the higher the price, the larger the quantity offered. Supporting evidence: at N$100 the firm offers 24 signs a month and at N$200 it offers 52, since 52 - 24 = 28 more signs, because a higher price makes each sign more worth painting and so raises the quantity the firm is willing to offer. However, the comparison of the steps suggests ability has a limit: the offering rises by 16 signs between N$100 and N$150, since 40 - 24 = 16 signs, but by 12 signs between N$150 and N$200, since 52 - 40 = 12 signs, so the firm may be nearing what its painters and machines are able to produce in a month.",
+   "canonical_answer": "The schedule shows a positive relationship: the higher the price, the more signs Namib Signs is willing and able to offer, from 24 a month at N$100 to 52 at N$200, since 52 - 24 = 28 more. A higher price makes each sign more worth painting. However, the steps shrink: 40 - 24 = 16 more signs from N$100 to N$150, but 52 - 40 = 12 from N$150 to N$200, so the firm may be nearing what its painters and machines can produce in a month.",
    "marking_guidance": [
     "What the data shows - a positive relationship between price and quantity offered - must be named before the evidence is credited.",
     "Supporting evidence: the comparison of 24 signs at N$100 with 52 at N$200, both figures read from the schedule.",
@@ -145,7 +149,9 @@
     "CLM-0455-2.4-001": 1,
     "CLM-0455-2.4-004": 1
    },
-   "authored_hash": "39726e5d09b7b63fc4ca1461e772019eb3c2805d010184deca6c682cb9f0aad3",
+   "authored_hash": "d74cb7850de67e2fbfafe642d978415485d1825202c990919868a310940efe55",
+   "prior_hash": "39726e5d09b7b63fc4ca1461e772019eb3c2805d010184deca6c682cb9f0aad3",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length in plain prose; supply-diagram cards no longer call a point on a lone supply curve an equilibrium, and 015 no longer invents an N$135/55-sign crossing its prompt never gave; lodge card 005 now about rooms offered, not let; 010 no longer calls a contraction 'fewer crates at each price'; 016 drops a demand explanation for an offering figure; P02(b) made a two-point identify; PES cross-reference corrected to topic 2.8; leaked labels removed from P02(d) and P03(c).",
    "objective_titles": [
     "definition of supply"
    ]
@@ -171,7 +177,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Kaoko Juice would like to sell 1 000 bottles of juice a week in Opuwo, but its pressing plant is able to produce 400 bottles a week. Explain whether Kaoko Juice's wish to sell 1 000 bottles is supply at present.",
-   "canonical_answer": "The figures mean that Kaoko Juice's supply at present is the 400 bottles a week it is both willing and able to offer, because supply needs willingness and ability together: a wish to sell 1 000 bottles without the capacity to press them stays outside supply, and the gap is 600 bottles a week, since 1 000 - 400 = 600 bottles. Therefore the wish is not supply at present; it becomes supply provided the firm raises its pressing capacity, assuming the extra bottles could be produced and sold at the going price.",
+   "canonical_answer": "Supply needs willingness and ability together. Kaoko Juice is willing to sell 1 000 bottles a week but able to press 400, so its supply at present is 400 bottles a week; the other 1 000 - 400 = 600 bottles are a wish, not supply. Therefore the wish is not supply now, though it could become supply if the firm raised its pressing capacity.",
    "marking_guidance": [
     "The context must be used: the figures are a wish of 1 000 bottles against a capacity of 400.",
     "The reasoning is that supply is willingness and ability together, because a wish without the ability to offer stays outside supply.",
@@ -193,7 +199,9 @@
     "CLM-0455-2.4-001": 1,
     "CLM-0455-2.4-002": 1
    },
-   "authored_hash": "55ca25e5b8b81de634abb5ba5e0c85187b9b0fb1916db3fa8c211ebe48ad0fa8",
+   "authored_hash": "e66283ca4519648b81b2d6b313df16d04d632ff2339a99ef19df48aa87d9c8a0",
+   "prior_hash": "55ca25e5b8b81de634abb5ba5e0c85187b9b0fb1916db3fa8c211ebe48ad0fa8",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length in plain prose; supply-diagram cards no longer call a point on a lone supply curve an equilibrium, and 015 no longer invents an N$135/55-sign crossing its prompt never gave; lodge card 005 now about rooms offered, not let; 010 no longer calls a contraction 'fewer crates at each price'; 016 drops a demand explanation for an offering figure; P02(b) made a two-point identify; PES cross-reference corrected to topic 2.8; leaked labels removed from P02(d) and P03(c).",
    "objective_titles": [
     "definition of supply"
    ]
@@ -217,8 +225,8 @@
    "command_word": "Analyse",
    "mark_tariff": 6,
    "difficulty": 5,
-   "prompt": "Etosha Gate Lodge near Etosha charges N$650 a night and lets 34 of its 40 rooms to visitors. The nightly rate rises to N$800, and the lodge now lets 40 rooms - each room it has. Analyse the effect of this price rise on the quantity of rooms the lodge offers, on the lodge itself and on visitors.",
-   "canonical_answer": "Starting point: the initial change is the lodge's own price, rising from N$650 to N$800 a night. Mechanism: because each room brings in more per night, letting rooms becomes more worthwhile, and this causes an extension in supply - a movement up along the lodge's unchanged supply curve - from 34 rooms toward the 40 it has standing; the lodge is willing to let more rooms at N$800 and able to, since the rooms exist. Consequence: therefore the quantity of rooms offered rises from 34 to 40, since 40 - 34 = 6 rooms, and the lodge has reached the limit of what it is able to offer - beyond 40 rooms a willingness to let more counts for nothing without the ability, which is what the definition of supply turns on. For whom: for the lodge, 6 more room-nights sold at the higher rate; for visitors, 6 more rooms to book, at N$800 rather than N$650 a night; for the lodge's cleaners and guides, more rooms let may mean longer shifts.",
+   "prompt": "Etosha Gate Lodge near Etosha charges N$650 a night and offers 34 of its 40 rooms, keeping 6 shut to save on staff. The nightly rate rises to N$800, and the lodge now offers all 40 rooms. Analyse the effect of this price rise on the quantity of rooms the lodge offers, on the lodge itself and on visitors.",
+   "canonical_answer": "The lodge's own price rises from N$650 to N$800 a night, so each room earns more and opening the shut rooms becomes worth the staff cost. This causes an extension in supply, a movement up the lodge's unchanged supply curve, from 34 to 40 rooms, since 40 - 34 = 6 rooms. With every room now offered, the lodge is not able to offer more at any price, and willingness without ability is not supply. The lodge can let up to 6 more rooms a night at the higher rate if visitors book them. Visitors have more rooms to choose from but pay N$800 rather than N$650, and the lodge's cleaners and guides may work longer shifts.",
    "marking_guidance": [
     "The chain needs its starting point: the good's own price rising, with the quantity moving along an unchanged curve.",
     "The mechanism mark rewards the because-step: a higher price makes letting rooms more worthwhile, and this causes the extension along the curve.",
@@ -241,7 +249,9 @@
     "CLM-0455-2.4-001": 1,
     "CLM-0455-2.4-002": 1
    },
-   "authored_hash": "1e6581a9fd8c28ae89ac931b2bbca20a8850e0bbac4ce21e67952f52ad14174f",
+   "authored_hash": "4b65ac78c52d3e29f1212012d5c7ffa57d8191de6d712eb790f13f276f6bdd97",
+   "prior_hash": "4b211ef296828ee0c9b7657bc3c5c037261eeeb50f5a15a017c764c8539569a7",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length in plain prose; supply-diagram cards no longer call a point on a lone supply curve an equilibrium; lodge card 005 now about rooms offered; P02(b) made a two-point identify; PES cross-reference corrected to topic 2.8; leaked labels removed.",
    "objective_titles": [
     "definition of supply"
    ]
@@ -266,7 +276,7 @@
    "mark_tariff": 4,
    "difficulty": 4,
    "prompt": "Ruacana Riverside Cabins runs guided canoe trips on the Kunene, offering 12 trips a week at N$150 a trip. Explain what the definition of supply includes, using the case of the cabins' trips.",
-   "canonical_answer": "The definition includes five features. A quantity offered for sale: the trips themselves, counted as 12 a week. Willingness to sell: the firm is willing to run trips at N$150 because each trip is worth running at that price. Ability to offer: it has the canoes, the guides and the river access to run the trips - without them the willingness would count for nothing. A given price: N$150 a trip, the price at which the 12 trips are offered. A period of time: a week, over which the quantity is counted. The features together are what makes the 12 trips supply rather than a hope to sell trips.",
+   "canonical_answer": "Five features. A quantity offered for sale: 12 trips a week. Willingness to sell: the cabins choose to run trips because each is worth running at N$150. Ability to offer: the canoes, guides and river access that make the trips possible; without them willingness counts for nothing. A given price: N$150 a trip. A period of time: a week, over which the 12 trips are counted. Together they make the 12 trips supply rather than a hope to sell.",
    "marking_guidance": [
     "The features must be drawn from the definition: a quantity, willingness, ability, a given price, a period of time.",
     "Each feature is explained through the case: the 12 trips, the N$150 price, the canoes and guides, the week.",
@@ -288,7 +298,9 @@
     "CLM-0455-2.4-001": 1,
     "CLM-0455-2.4-002": 1
    },
-   "authored_hash": "d87eb975a53bd0069f7d6e43d160d1603ec7b7d5507c0c7186de215b64585756",
+   "authored_hash": "eecdf68ddb52755790eb3cf98875076d442d1fa9bbfc596884caada9cb3d8b0f",
+   "prior_hash": "d87eb975a53bd0069f7d6e43d160d1603ec7b7d5507c0c7186de215b64585756",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length in plain prose; supply-diagram cards no longer call a point on a lone supply curve an equilibrium, and 015 no longer invents an N$135/55-sign crossing its prompt never gave; lodge card 005 now about rooms offered, not let; 010 no longer calls a contraction 'fewer crates at each price'; 016 drops a demand explanation for an offering figure; P02(b) made a two-point identify; PES cross-reference corrected to topic 2.8; leaked labels removed from P02(d) and P03(c).",
    "objective_titles": [
     "definition of supply"
    ]
@@ -312,7 +324,7 @@
    "mark_tariff": 2,
    "difficulty": 3,
    "prompt": "Oshakati Textiles sells printed cloth from its depot at N$25 a metre. Define quantity supplied.",
-   "canonical_answer": "Quantity supplied is the amount of a good that producers are willing and able to offer for sale at one particular price over a period of time. For Oshakati Textiles it is the metres of cloth offered at N$25 a metre in a given period - a single point on the firm's supply curve, not the whole curve.",
+   "canonical_answer": "Quantity supplied is the amount of a good that producers are willing and able to offer for sale at one particular price over a period of time. Here it is the cloth offered at N$25 a metre: one point on the supply curve.",
    "marking_guidance": [
     "One mark for the precise meaning: the amount offered at one particular price, over a period of time.",
     "One mark for the contrast that fixes the definition: quantity supplied is a single point on the supply curve, whereas supply is the whole relationship."
@@ -332,7 +344,9 @@
    "claims_seen": {
     "CLM-0455-2.4-006": 1
    },
-   "authored_hash": "407460c9259034a3787779cc3e6dc0141a5e53b7cef657942327befc6ca8bbe8",
+   "authored_hash": "4f0cc9a221655ad76d7a64e7a20da8f91d8ca6d622d3bdb8f9942a5c788f2b3e",
+   "prior_hash": "d87f667cab38ef6897241dd1db29a40b1ef645d60f94e2626e312407ca669a3e",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length in plain prose; supply-diagram cards no longer call a point on a lone supply curve an equilibrium; lodge card 005 now about rooms offered; P02(b) made a two-point identify; PES cross-reference corrected to topic 2.8; leaked labels removed.",
    "objective_titles": [
     "price, supply and quantity"
    ]
@@ -359,12 +373,12 @@
    "mark_tariff": 8,
    "difficulty": 3,
    "prompt": "Kaoko Juice sells ginger juice in Opuwo. At N$8 a bottle it offers 600 bottles a week; the price it can charge rises to N$12 a bottle, and it offers 900 bottles a week. Discuss how a supply diagram of Kaoko Juice's market shows the effect of the price rise, giving a verbal walk-through of every part of the diagram and what it shows.",
-   "canonical_answer": "Walk through the diagram in words, element by element. First, the axes labelled: price of a bottle, in N$, on the vertical axis, and quantity, in bottles a week, on the horizontal axis. Second, the original curves drawn and labelled: an upward-sloping supply curve S through the point at N$8 and 600 bottles, showing the quantity Kaoko Juice is willing and able to offer at each price; the demand curve may be drawn in faintly, since it belongs to topic 2.3, to mark where the two sides meet. Third, the shift or movement, in the correct direction: the price rise from N$8 to N$12 is a movement up along the unchanged supply curve - an extension in supply - from 600 to 900 bottles, because the good's own price is what changed. Fourth, the new equilibrium marked and labelled: the point at N$12 and 900 bottles, where the quantity the firm now offers meets what buyers take at the new price. Fifth, what the diagram shows, in words: the market moved along the curve, so the quantity supplied rose while supply, the whole relationship, stayed where it was. The link is between the price change and the curve: the price moved the market along S, and the consequence is 300 more bottles offered a week, since 900 - 600 = 300 bottles, because each bottle is more worth producing at N$12 than at N$8.",
+   "canonical_answer": "Price of a bottle, in N$, goes on the vertical axis and bottles a week on the horizontal. One upward-sloping supply curve, S, passes through N$8 and 600 bottles, showing what Kaoko Juice is willing and able to offer at each price. The price rise moves the market up along the same curve to a new point at N$12 and 900 bottles. The curve does not shift, because the change is in the good's own price: this is an extension in supply of 900 - 600 = 300 bottles a week. In words, quantity supplied rose while supply, the whole relationship, stayed where it was. The link is that each bottle is more worth producing at N$12 than at N$8, so the price moves the market along S rather than moving S. The consequence is 300 more bottles offered each week along an unchanged curve.",
    "marking_guidance": [
     "The walk-through must name the axes labelled - price and quantity, each with its units - before anything else.",
     "Reward the original curves drawn and labelled: the supply curve in place at N$8 and 600 bottles before the change is described.",
     "Check the shift or movement, in the correct direction: a rise in the good's own price is a movement up an unchanged supply curve, an extension in supply, not a shift of it.",
-    "The new equilibrium marked and labelled at the new price and quantity earns its mark, and what the diagram shows, in words, must close the walk-through.",
+    "The new point marked and labelled on the same curve at the new price and quantity earns its mark, and what the diagram shows, in words, must close the walk-through.",
     "The link between the price change and the curve, and the consequence - 300 more bottles a week offered along the same curve - carry the analysis marks."
    ],
    "context": {
@@ -384,7 +398,9 @@
     "CLM-0455-2.4-007": 1,
     "CLM-0455-2.4-015": 1
    },
-   "authored_hash": "3d4875a54fdea605504990b5fa746ed5144abcf64dfd77edca34400048e583b0",
+   "authored_hash": "4a06706d90a331226363c114cd74c67b03270dbf6efc0992df9356e434f2208c",
+   "prior_hash": "3d4875a54fdea605504990b5fa746ed5144abcf64dfd77edca34400048e583b0",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length in plain prose; supply-diagram cards no longer call a point on a lone supply curve an equilibrium, and 015 no longer invents an N$135/55-sign crossing its prompt never gave; lodge card 005 now about rooms offered, not let; 010 no longer calls a contraction 'fewer crates at each price'; 016 drops a demand explanation for an offering figure; P02(b) made a two-point identify; PES cross-reference corrected to topic 2.8; leaked labels removed from P02(d) and P03(c).",
    "objective_titles": [
     "price, supply and quantity"
    ]
@@ -411,7 +427,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "A Walvis Bay fishing firm's schedule for horse mackerel: at N$15 a kilogram it offers 800 kilograms a day, at N$20 it offers 950 kilograms, at N$25 it offers 1 050 kilograms. Explain what the figures show about the firm's supply of mackerel as the price changes.",
-   "canonical_answer": "What the data shows is an extension in supply: as the price rises, the quantity supplied rises along the firm's unchanged supply curve. The relationship between price and quantity is positive. Supporting evidence: from N$15 to N$20 the offering rises by 150 kilograms, since 950 - 800 = 150 kilograms, and from N$20 to N$25 it rises by 100 kilograms, since 1 050 - 950 = 100 kilograms, because each kilogram landed is more worth the effort at the higher price. However, the exception the comparison reveals is that the rise shrinks at higher prices, which suggests the firm's boats and crew may be nearing what they are able to land in a day - the curve's upward slope is the willingness to offer more, and the shrinking steps are the limit on the ability to do it.",
+   "canonical_answer": "The figures show an extension in supply: as the price rises, the quantity offered rises along the firm's unchanged supply curve, a positive relationship. From N$15 to N$20 the offering rises by 950 - 800 = 150 kilograms, and from N$20 to N$25 by 1 050 - 950 = 100 kilograms, because each kilogram landed is more worth the effort at a higher price. However, the steps shrink, which suggests the boats and crew are nearing the most they are able to land in a day.",
    "marking_guidance": [
     "What the data shows - the positive relationship, read as an extension in supply - must be named first.",
     "Supporting evidence: the comparison of the two steps, 150 kilograms and 100 kilograms, both read from the schedule.",
@@ -435,7 +451,9 @@
     "CLM-0455-2.4-006": 1,
     "CLM-0455-2.4-007": 1
    },
-   "authored_hash": "fe3e66c3a63993c26eaafe4b6dbfa15e7232f2af169331dc6039ef4bfc1c0226",
+   "authored_hash": "3034aec51703391482f244a694092488e5f68d1519076288232f023c251b9602",
+   "prior_hash": "fe3e66c3a63993c26eaafe4b6dbfa15e7232f2af169331dc6039ef4bfc1c0226",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length in plain prose; supply-diagram cards no longer call a point on a lone supply curve an equilibrium, and 015 no longer invents an N$135/55-sign crossing its prompt never gave; lodge card 005 now about rooms offered, not let; 010 no longer calls a contraction 'fewer crates at each price'; 016 drops a demand explanation for an offering figure; P02(b) made a two-point identify; PES cross-reference corrected to topic 2.8; leaked labels removed from P02(d) and P03(c).",
    "objective_titles": [
     "price, supply and quantity"
    ]
@@ -461,7 +479,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Etosha Gate Lodge raised the price of its guided dawn drive from N$200 to N$260 per visitor and now runs 9 drives a month instead of 7. Explain the change this shows in the lodge's supply of drives.",
-   "canonical_answer": "The figures show an extension in supply: the good's own price rose, and because each drive is more worth running at N$260 than at N$200, the quantity supplied rises from 7 to 9 drives a month - 2 more, since 9 - 7 = 2 drives - as a movement up along the lodge's unchanged supply curve. Therefore the change is in quantity supplied, a point on the curve, and the supply curve itself has not shifted: no condition of supply is stated to have changed.",
+   "canonical_answer": "The lodge's own price rose from N$200 to N$260 a visitor, and each drive is more worth running at the higher price, so the lodge moved up its unchanged supply curve: an extension in supply from 7 to 9 drives a month, since 9 - 7 = 2 drives. No condition of supply is stated to have changed, so this is a change in quantity supplied, not a shift in supply.",
    "marking_guidance": [
     "The context must be used: the price rise from N$200 to N$260 and the quantity rise from 7 to 9 drives a month.",
     "The reasoning is that the good's own price causes a movement along the curve - an extension in supply - because each drive is more worth running at the higher price.",
@@ -483,7 +501,9 @@
     "CLM-0455-2.4-006": 1,
     "CLM-0455-2.4-007": 1
    },
-   "authored_hash": "ae7131226e83d17070d152bfea950049938223266c454dd31880598641b6942c",
+   "authored_hash": "5000e7b747a56e16283eea2a2f365cd815d507e011ef9406c77c8b004b052f8c",
+   "prior_hash": "ae7131226e83d17070d152bfea950049938223266c454dd31880598641b6942c",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length in plain prose; supply-diagram cards no longer call a point on a lone supply curve an equilibrium, and 015 no longer invents an N$135/55-sign crossing its prompt never gave; lodge card 005 now about rooms offered, not let; 010 no longer calls a contraction 'fewer crates at each price'; 016 drops a demand explanation for an offering figure; P02(b) made a two-point identify; PES cross-reference corrected to topic 2.8; leaked labels removed from P02(d) and P03(c).",
    "objective_titles": [
     "price, supply and quantity"
    ]
@@ -509,7 +529,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "The price of a 10-kilogram crate of tomatoes at the Oshakati fresh-produce market falls from N$60 to N$45. Analyse the effect of the price fall on the quantity of tomatoes traders offer for sale, on the traders and on shoppers.",
-   "canonical_answer": "Starting point: the initial change is the crate's own price, falling from N$60 to N$45. Mechanism: because each crate earns less, hauling and sorting it is less worth the traders' effort, and this causes a contraction in supply - a movement down along the unchanged supply curve - as some crates are no longer worth bringing to market at N$45. Consequence: therefore the quantity of tomatoes offered for sale tends to fall, and the market settles at a smaller quantity than before, without the supply curve itself moving. For whom: for the traders, fewer crates to sell means thinner takings per stall; for the traders' porters, fewer crates to haul may mean shorter working days; for shoppers, fewer crates on the benches at each price, though at N$45 instead of N$60 for those that are there.",
+   "canonical_answer": "The crate's own price falls from N$60 to N$45, so each crate earns less and hauling and sorting it becomes less worth the traders' effort. This causes a contraction in supply, a movement down the unchanged supply curve, as some crates are no longer worth bringing to market at N$45, so the quantity offered tends to fall while the curve itself stays put. The traders sell fewer crates at a lower price, so their takings per stall tend to thin. Their porters, with fewer crates to haul, may have shorter working days. Shoppers pay N$45 instead of N$60 a crate but may find fewer crates on the benches.",
    "marking_guidance": [
     "The chain needs its starting point: the good's own price falling, with the quantity moving along an unchanged curve.",
     "The mechanism mark rewards the because-step: a lower price makes each crate less worth hauling, and this causes the contraction along the curve.",
@@ -533,7 +553,9 @@
     "CLM-0455-2.4-006": 1,
     "CLM-0455-2.4-007": 1
    },
-   "authored_hash": "46882220a14100958c3049789f3543c1b914a1bbeddec2d5c26db654d46c7f51",
+   "authored_hash": "364efc2bdf9751af6a0dcdc0754be29ec13f13f7804c5d02495a0f265a6d1a36",
+   "prior_hash": "46882220a14100958c3049789f3543c1b914a1bbeddec2d5c26db654d46c7f51",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length in plain prose; supply-diagram cards no longer call a point on a lone supply curve an equilibrium, and 015 no longer invents an N$135/55-sign crossing its prompt never gave; lodge card 005 now about rooms offered, not let; 010 no longer calls a contraction 'fewer crates at each price'; 016 drops a demand explanation for an offering figure; P02(b) made a two-point identify; PES cross-reference corrected to topic 2.8; leaked labels removed from P02(d) and P03(c).",
    "objective_titles": [
     "price, supply and quantity"
    ]
@@ -558,7 +580,7 @@
    "mark_tariff": 4,
    "difficulty": 4,
    "prompt": "Explain the features of an extension in supply and of a contraction in supply.",
-   "canonical_answer": "An extension in supply has three features: it is caused by a rise in the good's own price; it is a movement up along an unchanged supply curve; and it ends at a larger quantity offered than before. A contraction in supply has the matching three: it is caused by a fall in the good's own price; it is a movement down along the same unchanged curve; and it ends at a smaller quantity offered. The feature the two share is that the supply curve itself stays where it was - what changes is the quantity supplied, a point on the curve, and the element that keeps them movements rather than shifts is that the good's own price is the sole influence at work.",
+   "canonical_answer": "An extension in supply is caused by a rise in the good's own price, is a movement up along an unchanged supply curve, and ends at a larger quantity offered. A contraction mirrors it: caused by a fall in the good's own price, a movement down the same curve, ending at a smaller quantity offered. In both, the supply curve stays where it was: quantity supplied changes, supply does not, because the good's own price is the influence at work.",
    "marking_guidance": [
     "The features of an extension are named: a price rise, a movement up along the curve, a larger quantity offered.",
     "The features of a contraction mirror them: a price fall, a movement down, a smaller quantity offered.",
@@ -580,7 +602,9 @@
     "CLM-0455-2.4-006": 1,
     "CLM-0455-2.4-007": 1
    },
-   "authored_hash": "91243b175d70ee38c6b8bd12d8bd45725c36c41e949560524214e4dd9bff31e4",
+   "authored_hash": "d9a19a409c23fb10516520206510bde3571c825ae6203562339ed33144a9f0e3",
+   "prior_hash": "91243b175d70ee38c6b8bd12d8bd45725c36c41e949560524214e4dd9bff31e4",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length in plain prose; supply-diagram cards no longer call a point on a lone supply curve an equilibrium, and 015 no longer invents an N$135/55-sign crossing its prompt never gave; lodge card 005 now about rooms offered, not let; 010 no longer calls a contraction 'fewer crates at each price'; 016 drops a demand explanation for an offering figure; P02(b) made a two-point identify; PES cross-reference corrected to topic 2.8; leaked labels removed from P02(d) and P03(c).",
    "objective_titles": [
     "price, supply and quantity"
    ]
@@ -604,7 +628,7 @@
    "mark_tariff": 2,
    "difficulty": 2,
    "prompt": "Bread in Katutura comes from many small bakeries. Define market supply.",
-   "canonical_answer": "Market supply is the quantity of a good that all the producers in a market together are willing and able to offer for sale at a given price over a period of time. For bread in Katutura, it is the loaves the town's bakeries together offer, not the output of a single bakery.",
+   "canonical_answer": "Market supply is the quantity of a good that all the producers in a market together are willing and able to offer for sale at a given price over a period of time. For Katutura bread, it is the loaves all its bakeries offer together.",
    "marking_guidance": [
     "One mark for the precise definition: all the producers together, willing and able, at a given price, over a period of time.",
     "One mark for the meaning of \"market\" here: the combined offering of every seller, against the individual supply of one bakery."
@@ -624,7 +648,9 @@
    "claims_seen": {
     "CLM-0455-2.4-008": 1
    },
-   "authored_hash": "3375839688296a445179235d27b87e3ecf20278dad4a25eab4642da4cb1f5551",
+   "authored_hash": "e490d36d8a28265947082ced15f951bfe2578f0252c86ee07dcf016b8eeae781",
+   "prior_hash": "3375839688296a445179235d27b87e3ecf20278dad4a25eab4642da4cb1f5551",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length in plain prose; supply-diagram cards no longer call a point on a lone supply curve an equilibrium, and 015 no longer invents an N$135/55-sign crossing its prompt never gave; lodge card 005 now about rooms offered, not let; 010 no longer calls a contraction 'fewer crates at each price'; 016 drops a demand explanation for an offering figure; P02(b) made a two-point identify; PES cross-reference corrected to topic 2.8; leaked labels removed from P02(d) and P03(c).",
    "objective_titles": [
     "individual and market supply"
    ]
@@ -649,7 +675,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "Katutura's bread at N$8 a loaf comes from three bakeries: One Bread offers 200 loaves a day, Tuwani Bakery offers 300, and Eveline Street Bakers offers 500. Explain why market supply at N$8 a loaf is found by adding the bakeries' offerings together rather than by taking the largest or an average.",
-   "canonical_answer": "The reason is that market supply counts what every seller in the market offers at that price, so the market figure at N$8 is the sum of the individual figures at N$8. Adding across bakeries: 200 + 300 = 500 loaves, and 500 + 500 = 1 000 loaves a day. Taking the largest bakery's output alone would leave the other two bakeries' offerings out and understate the market; an average would divide what three bakeries offer between them, as if one bakery stood in for the whole market. Because supply at a price is what all the sellers together offer, the purpose of adding across sellers at the same price is to count the whole market.",
+   "canonical_answer": "Market supply counts what every seller offers at a price, so the market figure at N$8 is the sum of the bakeries' offerings at N$8: 200 + 300 + 500 = 1 000 loaves a day. Taking the largest bakery alone leaves out the other two and understates the market at 500 loaves. An average, about 333 loaves, treats one bakery as if it were the whole market. Adding across sellers at the same price is what counts the whole market.",
    "marking_guidance": [
     "The reason must be stated: market supply at one price is the sum of what every seller offers at that price, which is the purpose of the method.",
     "Reward the working across sellers at the same price: 200 + 300 = 500 loaves, then 500 + 500 = 1 000 loaves a day.",
@@ -671,7 +697,9 @@
     "CLM-0455-2.4-008": 1,
     "CLM-0455-2.4-009": 1
    },
-   "authored_hash": "edd6bd8a330d2551a4866105d325d9d4179314b0b7019ae5b85355ff61b88522",
+   "authored_hash": "c5b3bbb2ee372a68d0092908caaa6bd5c7e28d335deacb5ec3fd2cd4f848b788",
+   "prior_hash": "edd6bd8a330d2551a4866105d325d9d4179314b0b7019ae5b85355ff61b88522",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length in plain prose; supply-diagram cards no longer call a point on a lone supply curve an equilibrium, and 015 no longer invents an N$135/55-sign crossing its prompt never gave; lodge card 005 now about rooms offered, not let; 010 no longer calls a contraction 'fewer crates at each price'; 016 drops a demand explanation for an offering figure; P02(b) made a two-point identify; PES cross-reference corrected to topic 2.8; leaked labels removed from P02(d) and P03(c).",
    "objective_titles": [
     "individual and market supply"
    ]
@@ -698,7 +726,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "The Windhoek Saturday flower market has many sellers. Swakopmund Flower Farm offers 300 bunches a week at N$30 a bunch, Otavi Rose Growers offers 450 bunches, and the rest of the sellers together offer 250 bunches. Explain how the market supply of flowers at N$30 a bunch is found from these figures.",
-   "canonical_answer": "Market supply at N$30 counts what all the sellers together offer at that price. The figures are added across sellers at the same price: 300 + 450 = 750 bunches, and 750 + 250 = 1 000 bunches a week. The conclusion is that the market supply of flowers at N$30 is 1 000 bunches a week, built from the farm's 300, the grower's 450 and the rest of the market's 250 - and the same addition done at each other price fills in the whole market supply schedule.",
+   "canonical_answer": "Market supply at N$30 is what all the sellers together offer at that price, so the figures are added across sellers at the same price: 300 + 450 + 250 = 1 000 bunches a week. Therefore the market supply of flowers at N$30 a bunch is 1 000 bunches a week, and the same addition at each other price fills in the market supply schedule.",
    "marking_guidance": [
     "The figures must be used: addition across sellers at the same price, 300 + 450 = 750 bunches, then 750 + 250 = 1 000 bunches.",
     "The reasoning is that market supply at one price is the sum of every seller's offering at that price, because the market counts them all.",
@@ -721,7 +749,9 @@
     "CLM-0455-2.4-009": 1,
     "CLM-0455-2.4-010": 1
    },
-   "authored_hash": "b248e88a5490fb0b39aa0eabb5c7ff39949c8c38c91b2413e863e342196ed02a",
+   "authored_hash": "306992e3bca36209f617ae5e875eba9f2185619abdf6ddb8c715c8b7aa18db90",
+   "prior_hash": "b248e88a5490fb0b39aa0eabb5c7ff39949c8c38c91b2413e863e342196ed02a",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length in plain prose; supply-diagram cards no longer call a point on a lone supply curve an equilibrium, and 015 no longer invents an N$135/55-sign crossing its prompt never gave; lodge card 005 now about rooms offered, not let; 010 no longer calls a contraction 'fewer crates at each price'; 016 drops a demand explanation for an offering figure; P02(b) made a two-point identify; PES cross-reference corrected to topic 2.8; leaked labels removed from P02(d) and P03(c).",
    "objective_titles": [
     "individual and market supply"
    ]
@@ -745,7 +775,7 @@
    "mark_tariff": 2,
    "difficulty": 3,
    "prompt": "A drought can shrink a harvest without changing any price. Define the conditions of supply.",
-   "canonical_answer": "The conditions of supply are the influences on supply other than the good's own price: the costs of the inputs used to make the good, the technology of production, indirect taxes and subsidies on the good, the prices of other goods the producer could make instead, the weather for farm and fishing goods, and the number of sellers in the market.",
+   "canonical_answer": "The conditions of supply are the influences on supply other than the good's own price: input costs, technology, indirect taxes and subsidies, prices of other goods the producer could make, the weather for farm goods, and the number of sellers. Drought is the weather condition.",
    "marking_guidance": [
     "One mark for the precise definition: influences on supply other than the good's own price.",
     "One mark for naming conditions from the list, such as input costs, the weather or the number of sellers - the good's own price earns nothing here, because it moves the market along the curve."
@@ -765,7 +795,9 @@
    "claims_seen": {
     "CLM-0455-2.4-011": 1
    },
-   "authored_hash": "6282be94cf91caa1f5695e0f45d3f22b6fa4df2a0bbe5aef179aeb15c46a453f",
+   "authored_hash": "1f7e43c22de7da3c3ec547f6c0b0cf773db946f0cf161ed0ff19b1150c41a7d0",
+   "prior_hash": "6282be94cf91caa1f5695e0f45d3f22b6fa4df2a0bbe5aef179aeb15c46a453f",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length in plain prose; supply-diagram cards no longer call a point on a lone supply curve an equilibrium, and 015 no longer invents an N$135/55-sign crossing its prompt never gave; lodge card 005 now about rooms offered, not let; 010 no longer calls a contraction 'fewer crates at each price'; 016 drops a demand explanation for an offering figure; P02(b) made a two-point identify; PES cross-reference corrected to topic 2.8; leaked labels removed from P02(d) and P03(c).",
    "objective_titles": [
     "conditions of supply"
    ]
@@ -792,12 +824,12 @@
    "mark_tariff": 8,
    "difficulty": 3,
    "prompt": "Namib Signs paints shop signs in Windhoek. At N$150 a sign it offers 40 signs a month. The cost of the vinyl it prints on falls sharply, and at the unchanged price of N$150 it now offers 60 signs a month. Discuss how a supply diagram of this market shows the effect of the cost fall, giving a verbal walk-through of every part of the diagram and what it shows.",
-   "canonical_answer": "Walk through the diagram in words, element by element. First, the axes labelled: price of a sign, in N$, on the vertical axis, and quantity, in signs a month, on the horizontal axis. Second, the original curves drawn and labelled: an upward-sloping supply curve S1 through the point at N$150 and 40 signs, with the demand curve drawn faintly, since it belongs to topic 2.3, to mark where the two sides meet at N$150 and 40 signs. Third, the shift or movement, in the correct direction: the fall in the vinyl cost is a condition of supply changing while the good's own price did not, so the whole supply curve shifts to the right, from S1 to S2, an increase in supply - at the unchanged N$150 the firm now offers 60 signs a month, 20 more, since 60 - 40 = 20 signs. Fourth, the new equilibrium marked and labelled: the demand curve crosses S2 at N$135 a sign and 55 signs a month, so the new equilibrium sits right of and below the old one. Fifth, what the diagram shows, in words: a condition of supply, not the good's own price, moved the whole relationship - a larger quantity is offered at each price along S2 than along S1. The link is between the cost fall and the curve: cheaper vinyl makes each sign more worth producing at each price, and the consequence is a larger quantity offered at an unchanged price, with a new meeting point with demand at a lower price and a larger quantity.",
+   "canonical_answer": "Price of a sign, in N$, goes on the vertical axis and signs a month on the horizontal. The original supply curve, S1, slopes upward through N$150 and 40 signs. Cheaper vinyl is a condition of supply changing while the price did not, so the whole curve shifts right to S2, an increase in supply: at the unchanged N$150 the firm now offers 60 signs a month, 60 - 40 = 20 more, and it offers more at every other price. The new point is marked on S2 at N$150 and 60 signs. There is no movement along S1, because the good's own price did not change. In words, a condition of supply, not the price, moved the whole relationship. The link is that cheaper vinyl makes each sign more worth producing at each price. The consequence is 20 more signs offered a month at N$150; once a demand curve is added, the shift tends to bring a lower market price and a larger quantity sold, which topic 2.6 develops.",
    "marking_guidance": [
     "The walk-through must name the axes labelled - price and quantity, each with its units - before anything else.",
     "Reward the original curves drawn and labelled: the supply curve S1 in place at N$150 and 40 signs before the change is described.",
     "Check the shift or movement, in the correct direction: a fall in an input cost is a rightward shift of the whole curve, an increase in supply, not a movement along it.",
-    "The new equilibrium marked and labelled at N$135 and 55 signs earns its mark, and what the diagram shows, in words, must close the walk-through.",
+    "The new point marked and labelled on S2 at N$150 and 60 signs earns its mark, and what the diagram shows, in words, must close the walk-through.",
     "The link between the cost fall and the shifted curve, and the consequence - 20 more signs a month offered at an unchanged price - carry the analysis marks."
    ],
    "context": {
@@ -817,7 +849,9 @@
     "CLM-0455-2.4-012": 1,
     "CLM-0455-2.4-013": 1
    },
-   "authored_hash": "20e593366d9edf86af7e3b8864b64b3685d1d26b129b023b82e61a26150485cb",
+   "authored_hash": "15fd2b0b44a47bd1bee334a465aa1ce9563789c6bd5ae774c48d40eb6d56ea96",
+   "prior_hash": "20e593366d9edf86af7e3b8864b64b3685d1d26b129b023b82e61a26150485cb",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length in plain prose; supply-diagram cards no longer call a point on a lone supply curve an equilibrium, and 015 no longer invents an N$135/55-sign crossing its prompt never gave; lodge card 005 now about rooms offered, not let; 010 no longer calls a contraction 'fewer crates at each price'; 016 drops a demand explanation for an offering figure; P02(b) made a two-point identify; PES cross-reference corrected to topic 2.8; leaked labels removed from P02(d) and P03(c).",
    "objective_titles": [
     "conditions of supply"
    ]
@@ -844,11 +878,11 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Marula Foods of Gobabis dries fruit for sale across Namibia. Its offering at an unchanged price of N$40 a packet: 900 packets in March, 900 in April, 750 in May, 600 in June. In May the cost of its packaging rose; in June the marula harvest came in smaller. Explain what the figures show about the supply of dried fruit at Marula Foods.",
-   "canonical_answer": "What the data shows is a decrease in supply: at an unchanged price the quantity offered fell in May and again in June, so the whole supply curve shifted left rather than the market moving along it. Supporting evidence: 900 packets in March and April, then 750 in May and 600 in June - 300 fewer by June, since 900 - 600 = 300 packets - at the same N$40. The explanation of the relationship is that a packaging cost rise is a condition of supply, making each packet less worth producing, and a smaller harvest cuts the firm's ability to offer fruit at any price. However, the figures show the two conditions arriving together: they cannot separate how much of the 300-packet fall came from the dearer packaging and how much from the smaller harvest, and a fall in buyers' demand over the same months could have thinned sales as well.",
+   "canonical_answer": "The figures show a decrease in supply: at an unchanged N$40 the quantity offered fell from 900 packets in March and April to 750 in May and 600 in June, 900 - 600 = 300 fewer, so the whole curve shifted left. Dearer packaging makes each packet less worth producing, and a smaller harvest cuts the firm's ability to offer fruit at any price; both are conditions of supply. However, the two arrived together, so the figures cannot show how much of the 300-packet fall each caused.",
    "marking_guidance": [
     "What the data shows - a decrease in supply at an unchanged price, a shift of the curve - must be named first.",
     "Supporting evidence: the comparison of 900 packets with 750 and 600 at the same N$40, all read from the figures.",
-    "The exception or reservation - the two conditions cannot be separated, and demand may have moved too - earns its mark.",
+    "The exception or reservation - the two conditions cannot be separated - earns its mark.",
     "The why must be given: a cost rise and a smaller harvest are conditions of supply, which is the explanation of the relationship."
    ],
    "context": {
@@ -868,7 +902,9 @@
     "CLM-0455-2.4-012": 1,
     "CLM-0455-2.4-013": 1
    },
-   "authored_hash": "44dea396ea160069fbf4751a0b109e2d9c8175c300638db0e49d19214b682f25",
+   "authored_hash": "c9feffa7bf094ecb945f58dbfe0c0ea2b5feae4315eca23169c8c572666f6482",
+   "prior_hash": "44dea396ea160069fbf4751a0b109e2d9c8175c300638db0e49d19214b682f25",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length in plain prose; supply-diagram cards no longer call a point on a lone supply curve an equilibrium, and 015 no longer invents an N$135/55-sign crossing its prompt never gave; lodge card 005 now about rooms offered, not let; 010 no longer calls a contraction 'fewer crates at each price'; 016 drops a demand explanation for an offering figure; P02(b) made a two-point identify; PES cross-reference corrected to topic 2.8; leaked labels removed from P02(d) and P03(c).",
    "objective_titles": [
     "conditions of supply"
    ]
@@ -895,7 +931,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "The government pays Oshakati Textiles a subsidy of N$4 a metre on the cloth it weaves. The price of cloth stays at N$25 a metre, and the firm's offering rises from 5 000 to 5 450 metres a month. Explain the effect of the subsidy on the firm's supply of cloth.",
-   "canonical_answer": "The figures show an increase in supply: the subsidy is a condition of supply changing while the good's own price stayed at N$25, so the whole supply curve shifts to the right and the firm offers 450 more metres a month, since 5 450 - 5 000 = 450 metres, because each metre woven is more worth producing with N$4 arriving alongside the price. Therefore the change is a shift of the curve, not a movement along it - the price did not change, so quantity supplied rose at an unchanged price, which is the mark of a shift.",
+   "canonical_answer": "The subsidy is a condition of supply that changed while the price stayed at N$25, so the whole supply curve shifts right: an increase in supply. With N$4 a metre arriving alongside the price, each metre is more worth weaving, and the firm offers 5 450 - 5 000 = 450 more metres a month. Therefore this is a shift of the curve, not a movement along it, because quantity supplied rose at an unchanged price.",
    "marking_guidance": [
     "The context must be used: the N$4 a metre subsidy, the unchanged N$25 price and the rise from 5 000 to 5 450 metres.",
     "The reasoning is that a subsidy is a condition of supply, because it makes each metre more worth producing at an unchanged price and so shifts the curve.",
@@ -918,7 +954,9 @@
     "CLM-0455-2.4-012": 1,
     "CLM-0455-2.4-014": 1
    },
-   "authored_hash": "9e4798dac315d412a48f97c75169dbd6ccd6421f4d7ebc5317b8502c8d0ca58c",
+   "authored_hash": "b08b52a5349303d2b7f1314d1bcb2778219e177509a580ceccf7b6e0c5698199",
+   "prior_hash": "9e4798dac315d412a48f97c75169dbd6ccd6421f4d7ebc5317b8502c8d0ca58c",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length in plain prose; supply-diagram cards no longer call a point on a lone supply curve an equilibrium, and 015 no longer invents an N$135/55-sign crossing its prompt never gave; lodge card 005 now about rooms offered, not let; 010 no longer calls a contraction 'fewer crates at each price'; 016 drops a demand explanation for an offering figure; P02(b) made a two-point identify; PES cross-reference corrected to topic 2.8; leaked labels removed from P02(d) and P03(c).",
    "objective_titles": [
     "conditions of supply"
    ]
@@ -945,7 +983,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "Drought cuts the maize harvest round Otavi, with no change in the price of maize. Analyse the effect of the drought on the supply of maize in Namibia, on millers and on households.",
-   "canonical_answer": "Starting point: the initial change is a condition of supply - the weather - worsening, with the price of maize unchanged. Mechanism: because the harvest is smaller, farmers are able to offer less maize at each price, and this causes a decrease in supply - the whole supply curve shifts left, meaning a smaller quantity offered at every price. Consequence: therefore the quantity of maize on offer at the unchanged price falls, and the market settles at a smaller quantity than before. For whom: for the farmers, less maize to sell means thinner incomes from the same fields; for the millers, less maize arriving may leave their mills standing idle some days; for households, less maize on the shelves at each price, and where the shortage bites, dearer mealie meal later on.",
+   "canonical_answer": "Drought worsens the weather, a condition of supply, while the price of maize is unchanged. Because the harvest is smaller, farmers are able to offer less maize at each price, so the whole supply curve shifts left: a decrease in supply. Less maize is therefore offered at the unchanged price. Farmers have less to sell from the same fields, so their incomes tend to fall. Millers receive less maize, so their mills may stand idle some days. Households may find less maize on the shelves and, where the shortage lasts, dearer mealie meal later.",
    "marking_guidance": [
     "The chain needs its starting point: a condition of supply - the weather - changing with the price unchanged.",
     "The mechanism mark rewards the because-step: a smaller harvest cuts what farmers are able to offer, and this causes the leftward shift.",
@@ -970,7 +1008,9 @@
     "CLM-0455-2.4-013": 1,
     "CLM-0455-2.4-014": 1
    },
-   "authored_hash": "09cd1acbd851f1886893dc71a8ae0b6490c0aecce0460582b63fbb990951f23d",
+   "authored_hash": "8c69e7d1295b7141ef9683e4c7986e18342dd7df4f9e62103cb387f02d524074",
+   "prior_hash": "09cd1acbd851f1886893dc71a8ae0b6490c0aecce0460582b63fbb990951f23d",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length in plain prose; supply-diagram cards no longer call a point on a lone supply curve an equilibrium, and 015 no longer invents an N$135/55-sign crossing its prompt never gave; lodge card 005 now about rooms offered, not let; 010 no longer calls a contraction 'fewer crates at each price'; 016 drops a demand explanation for an offering figure; P02(b) made a two-point identify; PES cross-reference corrected to topic 2.8; leaked labels removed from P02(d) and P03(c).",
    "objective_titles": [
     "conditions of supply"
    ]
@@ -1071,10 +1111,10 @@
    "command_word": null,
    "mark_tariff": null,
    "difficulty": 5,
-   "prompt": "A radio report from Oshakati, October 2026: \"Tomatoes are the Oshakati fresh-produce market's steadiest trade. Traders offered 1 100 crates a week last year at N$85 a crate; this year they offer 1 400 crates a week at the same N$85. Two things changed: good rains lifted the harvest round Ruacana, and a new feeder road cut the cost of bringing each crate to market. A fuel levy of N$6 on every crate arrives next year.\"\n\nTable 1 - Oshakati tomatoes\n  crates offered a week: 1 100 last year, 1 400 this year\n  price a crate: N$85 last year, N$85 this year\n  rain round Ruacana: poor last year, good this year\n  road cost a crate: high last year, lower this year\n  fuel levy a crate: none this year, N$6 next year\n\n(a) Calculate the rise in the number of crates offered a week. [1]\n(b) Identify from Table 1 one condition of supply that changed between the two years. [2]\n(c) Explain why the quantity of tomatoes offered rose even though the price did not change. [4]\n(d) Analyse what the figures suggest about the tomato market next year, for the traders, their customers and the truck owners. [6]",
-   "canonical_answer": "(a) 1 400 - 1 100 = 300 crates.\n(b) Either the better rain round Ruacana (the weather) or the cheaper road cost a crate (a fall in the costs of getting the good to market). Each is a condition of supply: an influence other than the crate's own price.\n(c) An unchanged price with a larger quantity offered cannot come from a movement along an unchanged supply curve, because along the curve a higher price is what raises quantity supplied. What fits the figures is an increase in supply: conditions changed - the harvest was bigger and transport cheaper - so at the unchanged price of N$85 the whole curve shifted right and 300 more crates were offered. The quantity rose because the whole relationship moved, not because the price did.\n(d) Expected relationship: the fuel levy raises the cost of bringing each crate to market, so supply tends to shift left next year. Evidence: the levy is N$6 a crate, against this year's 1 400 crates offered at N$85 with the good rains and the cheaper road behind them. Analysis: for the traders, dearer transport means some crates are no longer worth hauling, so the quantity offered at N$85 tends to fall back from 1 400; for customers, fewer crates at each price may mean emptier benches, and where traders pass the levy on, dearer tomatoes; for the truck owners, the levy may lift what they can charge for haulage, since hauling costs more to run. Exception: however, if the rains stay good, the larger harvest may offset the levy and keep the quantity offered near this year's level.",
+   "prompt": "A radio report from Oshakati, October 2026: \"Tomatoes are the Oshakati fresh-produce market's steadiest trade. Traders offered 1 100 crates a week last year at N$85 a crate; this year they offer 1 400 crates a week at the same N$85. Two things changed: good rains lifted the harvest round Ruacana, and a new feeder road cut the cost of bringing each crate to market. A fuel levy of N$6 on every crate arrives next year.\"\n\nTable 1 - Oshakati tomatoes\n  crates offered a week: 1 100 last year, 1 400 this year\n  price a crate: N$85 last year, N$85 this year\n  rain round Ruacana: poor last year, good this year\n  road cost a crate: high last year, lower this year\n  fuel levy a crate: none this year, N$6 next year\n\n(a) Calculate the rise in the number of crates offered a week. [1]\n(b) Identify from Table 1 two conditions of supply that changed between the two years. [2]\n(c) Explain why the quantity of tomatoes offered rose even though the price did not change. [4]\n(d) Analyse what the figures suggest about the tomato market next year, for the traders, their customers and the truck owners. [6]",
+   "canonical_answer": "(a) 1 400 - 1 100 = 300 crates.\n(b) The better rain round Ruacana (the weather) and the cheaper road cost a crate (a fall in the cost of getting the good to market). Each is a condition of supply: an influence other than the crate's own price. The fuel levy is not yet one of them: it arrives next year.\n(c) An unchanged price with a larger quantity offered cannot come from a movement along an unchanged supply curve, because along the curve a higher price is what raises quantity supplied. What fits the figures is an increase in supply: conditions changed - the harvest was bigger and transport cheaper - so at the unchanged price of N$85 the whole curve shifted right and 300 more crates were offered. The quantity rose because the whole relationship moved, not because the price did.\n(d) The fuel levy raises the cost of bringing each crate to market, so supply tends to shift left next year: a decrease in supply. The evidence is the N$6 levy a crate, set against this year's 1 400 crates offered at N$85 with the good rains and the cheaper road behind them. For the traders, dearer transport means some crates are no longer worth hauling, so the quantity offered at N$85 tends to fall back from 1 400. For customers, fewer crates at each price may mean emptier benches and, where traders pass the levy on, dearer tomatoes. For the truck owners, the levy may lift what they can charge for haulage, since hauling costs more to run, though fewer crates may need moving. However, if the rains stay good, the larger harvest may offset the levy and keep the quantity offered near this year's level.",
    "marking_guidance": [
-    "Parts (a) and (b) are read from the data; the six-mark part must use the figures as evidence - the 300-crate rise, the N$85 price held flat, the N$6 levy - and one point is marked per distinct linked statement.",
+    "Parts (a) and (b) are read from the data, and (b) needs both changed conditions for two marks; the six-mark part must use the figures as evidence - the 300-crate rise, the N$85 price held flat, the N$6 levy - and one point is marked per distinct linked statement.",
     "Part (c) is marked on the shift of the curve against the movement along it; the distinction, and the link from the changed conditions to the extra 300 crates, carries the marks.",
     "Part (d) is marked on expected relationship, then evidence, then analysis, then an exception; quoting figures without the relationship they support earns nothing, and consequences must be named for the traders, the customers and the truck owners."
    ],
@@ -1104,7 +1144,9 @@
     "CLM-0455-2.4-012": 1,
     "CLM-0455-2.4-013": 1
    },
-   "authored_hash": "efe47129223b7c82b2e04fc640d8e50309fbb94da77298ce3136d636bf216426",
+   "authored_hash": "91ebba37c3b6fa1ac8c86a595f5a3e92c406347cef2c514aeccdddb3b7f12745",
+   "prior_hash": "efe47129223b7c82b2e04fc640d8e50309fbb94da77298ce3136d636bf216426",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length in plain prose; supply-diagram cards no longer call a point on a lone supply curve an equilibrium, and 015 no longer invents an N$135/55-sign crossing its prompt never gave; lodge card 005 now about rooms offered, not let; 010 no longer calls a contraction 'fewer crates at each price'; 016 drops a demand explanation for an offering figure; P02(b) made a two-point identify; PES cross-reference corrected to topic 2.8; leaked labels removed from P02(d) and P03(c).",
    "objective_titles": [
     "price, supply and quantity",
     "conditions of supply"
@@ -1139,7 +1181,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "Oshakati Textiles weaves cloth sold across northern Namibia. Answer all parts.\n\n(a) Define supply. [2]\n(b) Explain the difference between supply and quantity supplied. [4]\n(c) The government pays Oshakati Textiles a subsidy of N$5 a metre while the price of cloth stays at N$25 a metre, and the firm's offering rises from 5 000 to 5 600 metres a month. Analyse what this change means for the firm, for its workers and for its customers. [6]\n(d) Discuss whether a rise in the price of cloth would increase the supply of cloth. [8]",
-   "canonical_answer": "(a) Supply is the quantity of a good that producers are willing and able to offer for sale at a given price over a period of time.\n(b) Supply is the whole relationship between price and quantity: the full set of quantities producers offer at each price. Quantity supplied is the single amount offered at one particular price. When the good's own price changes, quantity supplied changes and the market moves along the supply curve, while supply - the relationship - stays as it was. When a condition of supply changes, the whole curve shifts, and quantity supplied changes at an unchanged price. The test is whether the good's own price changed.\n(c) Starting point: the initial change is a condition of supply - the N$5 a metre subsidy - with the price fixed at N$25. Mechanism: because a condition changed while the price did not, the supply curve shifts to the right, and this causes the quantity supplied at N$25 to rise from 5 000 to 5 600 metres a month, an increase of 600 metres, since 5 600 - 5 000 = 600 metres. Consequence for the firm: more metres sold at an unchanged price, with each metre carrying the subsidy alongside the N$25. Consequence for its workers: more metres to weave may mean more shifts or extra hands taken on. Consequence for customers: more cloth on the market at N$25, and if other weavers gain the same subsidy, the market price may ease later. Exception: if the subsidy is withdrawn, the curve shifts back and the extra metres disappear.\n(d) The case for: the relationship between price and quantity supplied is positive, so a higher price tends to raise the quantity supplied - a movement up along an unchanged supply curve - as each metre becomes more worth weaving, and sellers offer more cloth. The case against: a price rise changes quantity supplied, not supply; the curve itself has not moved, so calling the change an increase in supply mistakes a movement along the curve for a shift of it. Where input costs rise alongside the price, the curve may even shift left while the market slides up it, and the quantity offered could end up smaller. Judgement: a higher price raises the quantity supplied provided the supply curve itself is not shifting at the same time; whether supply increases depends on a condition of supply changing, and that is the condition the judgement rests on.",
+   "canonical_answer": "(a) Supply is the quantity of a good that producers are willing and able to offer for sale at a given price over a period of time.\n(b) Supply is the whole relationship between price and quantity: the full set of quantities producers offer at each price. Quantity supplied is the single amount offered at one particular price. When the good's own price changes, quantity supplied changes and the market moves along the supply curve - an extension in supply when the price rises, a contraction when it falls - while supply, the relationship, stays as it was. When a condition of supply changes, the whole curve shifts - an increase or a decrease in supply - and quantity supplied changes at an unchanged price. The test is whether the good's own price changed.\n(c) The N$5 a metre subsidy is a condition of supply that changed while the price stayed at N$25. Because a condition changed and the price did not, the supply curve shifts to the right, an increase in supply, and the quantity supplied at N$25 rises from 5 000 to 5 600 metres a month, an increase of 600 metres, since 5 600 - 5 000 = 600 metres. The firm sells more metres at an unchanged price, with each metre carrying the subsidy alongside the N$25. Its workers, with more metres to weave, may gain more shifts, or extra hands may be taken on. Customers find more cloth on the market at N$25, and if other weavers gain the same subsidy, the market price may ease later. If the subsidy is withdrawn, the curve tends to shift back and the extra metres disappear.\n(d) The case for: the relationship between price and quantity supplied is positive, so a higher price tends to raise the quantity supplied - a movement up along an unchanged supply curve - as each metre becomes more worth weaving, and sellers offer more cloth. The case against: a price rise changes quantity supplied, not supply; the curve itself has not moved, so calling the change an increase in supply mistakes a movement along the curve for a shift of it. Where input costs rise alongside the price, the curve may even shift left while the market slides up it, and the quantity offered could end up smaller. Judgement: a higher price raises the quantity supplied provided the supply curve itself is not shifting at the same time; whether supply increases depends on a condition of supply changing, and that is the condition the judgement rests on.",
    "marking_guidance": [
     "Every part carries a model answer; part (d) is level-marked over three bands.",
     "(a) rewards the precise definition: willing and able, at a given price, over a period of time.",
@@ -1172,7 +1214,9 @@
     "CLM-0455-2.4-012": 1,
     "CLM-0455-2.4-013": 1
    },
-   "authored_hash": "5da3598cd8f19192e1ad46cc55f71d106c9a98483e00139d261e9b4c69960893",
+   "authored_hash": "db09058c4e642a28a903bdd21bb5864714e96c2dece3299ecfb11901f27167e4",
+   "prior_hash": "5da3598cd8f19192e1ad46cc55f71d106c9a98483e00139d261e9b4c69960893",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length in plain prose; supply-diagram cards no longer call a point on a lone supply curve an equilibrium, and 015 no longer invents an N$135/55-sign crossing its prompt never gave; lodge card 005 now about rooms offered, not let; 010 no longer calls a contraction 'fewer crates at each price'; 016 drops a demand explanation for an offering figure; P02(b) made a two-point identify; PES cross-reference corrected to topic 2.8; leaked labels removed from P02(d) and P03(c).",
    "objective_titles": [
     "definition of supply",
     "price, supply and quantity",

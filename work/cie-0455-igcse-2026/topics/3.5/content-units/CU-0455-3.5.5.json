@@ -20,20 +20,22 @@
    "block_id": "3.5.5-b1",
    "block_type": "learner_objective",
    "heading": "What this section covers",
-   "text": "Define economies and diseconomies of scale, explain why average cost per unit falls as output grows and why it may rise again, and read both from a firm's figures.",
+   "text": "Define economies and diseconomies of scale, explain why average cost per unit falls as a firm grows larger and why it may rise again, and read both from a firm's figures.",
    "claim_ids": [],
    "context_tags": [],
    "assessment_objectives": [
     "AO1"
    ],
    "claims_seen": {},
-   "authored_hash": "a127c63d85729396e40e63f7fc3b7320e1d802516bb79e3ae83d45143bf4a1f5"
+   "authored_hash": "1489ca0e1231dc4faefb028ff4435285d78a8952c8dc6442d320db0f87721ef3",
+   "prior_hash": "a127c63d85729396e40e63f7fc3b7320e1d802516bb79e3ae83d45143bf4a1f5",
+   "repair_note": "Review fix: rewrote economies of scale as gains from growing in scale (bulk buying, technical, financial, managerial), not fixed costs spread at one size; dairy now milks its own herd so its primary activity is real; trimmed flashcard answers; removed leaked labels; corrected cross-reference to topic 3.7"
   },
   {
    "block_id": "3.5.5-b2",
    "block_type": "definition",
    "heading": "Average cost and scale",
-   "text": "A firm's average cost is the cost of producing one unit: the whole cost of production divided by the number of units produced. Economies of scale are the falls in average cost that come as output grows. Diseconomies of scale are the rises in average cost that may return when a firm grows beyond the size its management can coordinate. Both are named for scale because both are about size: what happens to the cost of one unit as the firm's output changes.",
+   "text": "A firm's average cost is the cost of producing one unit: the whole cost of production divided by the number of units produced. Economies of scale are the falls in average cost that come as a firm grows larger. Diseconomies of scale are the rises in average cost that may return when a firm grows beyond the size its management can coordinate. Both are named for scale because both are about size: what happens to the cost of one unit as the firm's size changes.",
    "claim_ids": [
     "CLM-0455-3.5-015"
    ],
@@ -42,15 +44,17 @@
     "AO1"
    ],
    "claims_seen": {
-    "CLM-0455-3.5-015": 1
+    "CLM-0455-3.5-015": 2
    },
-   "authored_hash": "51d142d8e3f351f7af93513b89eb0797697ca2d2280a9bb8c03c0d4b80338f25"
+   "authored_hash": "2dce136278bdb586622cabb404e30cc8fc4ad07cd82b8a88d1d99ecc1e6deed5",
+   "prior_hash": "51d142d8e3f351f7af93513b89eb0797697ca2d2280a9bb8c03c0d4b80338f25",
+   "repair_note": "Review fix: rewrote economies of scale as gains from growing in scale (bulk buying, technical, financial, managerial), not fixed costs spread at one size; dairy now milks its own herd so its primary activity is real; trimmed flashcard answers; removed leaked labels; corrected cross-reference to topic 3.7"
   },
   {
    "block_id": "3.5.5-b3",
    "block_type": "worked_application",
    "heading": "Oshakati Textiles reads its own figures",
-   "text": "Oshakati Textiles made 1 000 shirts a month at an average cost of N$40 a shirt. After a second production line opened, output reached 2 000 shirts a month and average cost fell to N$34 - N$6 cheaper per shirt. The fall has three sources. The firm's rent and machines cost about the same whether 1 000 or 2 000 shirts come off the line, so each shirt carries a smaller share of those costs than before. Buying cotton in bulk earns the supplier's discount. And a line dedicated to shirts justifies a cutting machine a small output could not. A steel works in Brazil shows the same mechanics at a larger scale: each tonne carries a smaller share of the plant's heavy fixed costs as output grows.",
+   "text": "Oshakati Textiles grew by opening a second production line: output rose from 1 000 to 2 000 shirts a month and average cost fell from N$40 to N$34 a shirt. The savings come from being a bigger firm. Ordering twice the cotton earns a bulk-buying discount. A firm this size can justify a specialised cutting machine that a small output could not keep busy. Banks tend to lend to a larger firm more cheaply, and it can afford a specialist production manager. This differs from spreading the same rent over more units without growing, which lowers average fixed cost and belongs to topic 3.7. A Brazilian steel works gains the same way, buying iron ore by the shipload at a lower price per tonne.",
    "claim_ids": [
     "CLM-0455-3.5-016"
    ],
@@ -59,9 +63,11 @@
     "AO2"
    ],
    "claims_seen": {
-    "CLM-0455-3.5-016": 1
+    "CLM-0455-3.5-016": 2
    },
-   "authored_hash": "ce0a18859dd7fa448c7099630a44c857af75fa063a278c1c5969bc597541665d"
+   "authored_hash": "6a6aa93669ffb86b7041fb675f0f8893652d38f6e79bb23d869c2867825f1cd3",
+   "prior_hash": "ce0a18859dd7fa448c7099630a44c857af75fa063a278c1c5969bc597541665d",
+   "repair_note": "Review fix: rewrote economies of scale as gains from growing in scale (bulk buying, technical, financial, managerial), not fixed costs spread at one size; dairy now milks its own herd so its primary activity is real; trimmed flashcard answers; removed leaked labels; corrected cross-reference to topic 3.7"
   },
   {
    "block_id": "3.5.5-b4",
@@ -84,7 +90,7 @@
    "block_id": "3.5.5-b5",
    "block_type": "cross_link",
    "heading": "Connections",
-   "text": "The costs a firm juggles as it grows are set out in topic 3.6, and the effect of size on how a market works is picked up in topic 3.8.",
+   "text": "The costs of production a firm pays are set out in topic 3.7, and the effect of size on how a market works is picked up in topic 3.8.",
    "claim_ids": [
     "CLM-0455-3.5-016"
    ],
@@ -93,10 +99,12 @@
     "AO1"
    ],
    "claims_seen": {
-    "CLM-0455-3.5-016": 1
+    "CLM-0455-3.5-016": 2
    },
-   "authored_hash": "cda001513a7ac96dc149b68214c5e6c6d74b24cf2606c09dcb34b866d25aa164"
+   "authored_hash": "873e05c4ebd5613a0fc1acc56285c22bcdb561ed4ba9059426d2724b4620f90c",
+   "prior_hash": "cda001513a7ac96dc149b68214c5e6c6d74b24cf2606c09dcb34b866d25aa164",
+   "repair_note": "Review fix: rewrote economies of scale as gains from growing in scale (bulk buying, technical, financial, managerial), not fixed costs spread at one size; dairy now milks its own herd so its primary activity is real; trimmed flashcard answers; removed leaked labels; corrected cross-reference to topic 3.7"
   }
  ],
- "word_count": 404
+ "word_count": 403
 }

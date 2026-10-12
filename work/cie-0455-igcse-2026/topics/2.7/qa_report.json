@@ -1,7 +1,7 @@
 {
   "qa_report_id": "QA-cie-0455-igcse-2026-2.7",
   "build_id": "cie-0455-igcse-2026/topic-2.7",
-  "generated_at": "2026-10-06T20:10:12Z",
+  "generated_at": "2026-10-12T22:54:14Z",
   "deterministic_checks": [
     {
       "check_id": "C-00",
@@ -72,7 +72,7 @@
     {
       "check_id": "C-32",
       "status": "pass",
-      "message": "[RS-22 Stated arithmetic is correct] All 19 stated calculations in canonical answers evaluate correctly.",
+      "message": "[RS-22 Stated arithmetic is correct] All 22 stated calculations in canonical answers evaluate correctly.",
       "affected_ids": []
     },
     {
@@ -210,7 +210,7 @@
     {
       "check_id": "C-26",
       "status": "pass",
-      "message": "[RS-09 Word budget] All 5 content units sit inside their declared word budget (1968 words total).",
+      "message": "[RS-09 Word budget] All 5 content units sit inside their declared word budget (1969 words total).",
       "affected_ids": []
     },
     {
@@ -222,13 +222,13 @@
     {
       "check_id": "C-28",
       "status": "pass",
-      "message": "[RS-32 Packet hash manifest] Critic-packet hash manifest written for 18 files to topics/2.7/packet.sha256; the manifest's own SHA-256 is detached in packet.sha256.hash (7ed4cda2dc0c23a5) so the whole packet is verifiable.",
+      "message": "[RS-32 Packet hash manifest] Critic-packet hash manifest written for 18 files to topics/2.7/packet.sha256; the manifest's own SHA-256 is detached in packet.sha256.hash (2e9f4b9085f28b2a) so the whole packet is verifiable.",
       "affected_ids": []
     },
     {
       "check_id": "C-37",
       "status": "pass",
-      "message": "[RS-43 Conditioned mechanisms carry their conditions] All 9 assertions of a registered conditioned mechanism carry every condition the register requires.",
+      "message": "[RS-43 Conditioned mechanisms carry their conditions] All 8 assertions of a registered conditioned mechanism carry every condition the register requires.",
       "affected_ids": []
     },
     {
@@ -286,7 +286,7 @@
     "claim_count": 28,
     "content_unit_count": 5,
     "learning_item_count": 24,
-    "word_count": 1968
+    "word_count": 1969
   },
   "release_decision": "publish",
   "notes": [

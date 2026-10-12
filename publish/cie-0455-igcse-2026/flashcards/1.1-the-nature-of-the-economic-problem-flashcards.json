@@ -67,7 +67,7 @@
    "mark_tariff": 2,
    "difficulty": 1,
    "prompt": "A single mother in Oshakati earns N$3 200 a month and lists eleven things she wants for her household. Identify the two features of her situation that together make it an example of the economic problem.",
-   "canonical_answer": "Her wants exceed her resources: the list of eleven wants is unlimited relative to her N$3 200. And her resource is finite: the income cannot be stretched to cover the list, so she must choose. Those two features - finite resources and unlimited wants - are what make it the economic problem.",
+   "canonical_answer": "Her resources are finite: the N$3 200 cannot be stretched. Her wants exceed those resources: the eleven things cost more than the income. Together these two features force her to choose, which is what makes it the economic problem.",
    "marking_guidance": [
     "Features: the two elements required are finite resources (N$3 200) and wants that exceed them, so choice is forced."
    ],
@@ -86,7 +86,9 @@
    "claims_seen": {
     "CLM-0455-1.1-002": 1
    },
-   "authored_hash": "3aa24cf738e3b67efcaa5d7cc23d17dc33cbbedcbdcfbe056b67707507eecfbd",
+   "authored_hash": "6066cf55e08e0fd5cc3d7a475a2de37b0a9cc4b38dcf1046cc9b130408406987",
+   "prior_hash": "3aa24cf738e3b67efcaa5d7cc23d17dc33cbbedcbdcfbe056b67707507eecfbd",
+   "repair_note": "Reviewer 2026-10-13: free/economic good test corrected to scarcity and opportunity cost (not price); P02(b) made worth 2 marks; P01 widened to a producer and a worker; P04 case labels corrected; leaked chain labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "finite resources and unlimited wants"
    ]
@@ -154,10 +156,10 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "Sunshine in the Namib desert is there for anyone who walks out into it; a tanker delivers 5 000 litres of borehole water to a Windhoek household for N$180. Explain the difference between the sunshine as a free good and the water as an economic good.",
-   "canonical_answer": "The boundary is scarcity relative to wants. The sunshine is a free good: at a zero price, supply exceeds wants, so no sacrifice is involved in taking it and no one charges for it. The water is an economic good: it is scarce relative to wants, because supplying it costs labour, fuel and pumps, so a price of N$180 must be paid and the price is what rations the delivery capacity. The test for which one applies is whether a price has to be paid: a price is the mark of scarcity, and its absence marks a free good.",
+   "canonical_answer": "The difference is scarcity relative to wants. Sunshine in the Namib is a free good: at a zero price there is more than anyone wants, so taking it sacrifices nothing. The tanker water is an economic good: the labour, fuel and pumps that deliver it could be used elsewhere, so supplying it has an opportunity cost, and the N$180 rations the scarce delivery capacity. The test is whether using the good means giving something up, not whether a price is paid.",
    "marking_guidance": [
     "Boundary: the difference must be stated - scarcity relative to wants versus abundance at a zero price.",
-    "Test: how to tell them apart - whether a price must be paid, because a price is the mark of scarcity."
+    "Test: how to tell them apart - whether using the good involves an opportunity cost; a price is a clue to scarcity, not the test, because an economic good can be supplied free to its user."
    ],
    "context": {
     "sector": null,
@@ -175,7 +177,9 @@
     "CLM-0455-1.1-003": 1,
     "CLM-0455-1.1-004": 1
    },
-   "authored_hash": "84d8fa567d1655c805f10dd7d77b334ee6db8494d0f7640dc04dcb6973788c1d",
+   "authored_hash": "8106a90c233d4158c6920345a33da1cca988bca95d2908d88958d3d9c4686dcf",
+   "prior_hash": "84d8fa567d1655c805f10dd7d77b334ee6db8494d0f7640dc04dcb6973788c1d",
+   "repair_note": "Reviewer 2026-10-13: free/economic good test corrected to scarcity and opportunity cost (not price); P02(b) made worth 2 marks; P01 widened to a producer and a worker; P04 case labels corrected; leaked chain labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "economic and free goods"
    ]
@@ -201,10 +205,10 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "A beach cafe in Lisbon sells bottled seawater spray for kitchens at 14 euros a bottle and sold 1 000 bottles last year, while the sea outside its door can be pumped by anyone for nothing. Using the figures, explain why the bottled spray is an economic good whereas the sea supplies a free good, and what this means for how each is rationed.",
-   "canonical_answer": "The figures show the spray commands a price - 14 euros a bottle, 1 000 bottles sold - which means it is scarce relative to wants, and the price is what rations it. The sea outside is a free good: at a zero price, supply exceeds wants, so no sacrifice is involved in pumping it. Therefore the spray is rationed by price while the sea needs no rationing, because scarcity is what a price responds to and abundance is what a zero price reflects.",
+   "canonical_answer": "The spray sells at 14 euros a bottle and 1 000 bottles were bought last year, so buyers give up money that could have bought other things, and the labour, bottles and delivery behind each bottle have other uses: the spray is scarce relative to wants. The sea is a free good because, at a zero price, there is more than anyone wants, so pumping it sacrifices nothing. Therefore the spray is rationed by its price, while the sea needs no rationing.",
    "marking_guidance": [
     "Context: the data - the 14 euro price and the 1 000 bottles sold - must be used.",
-    "Reasoning: the link from price to scarcity must be made, because a price is the mark of an economic good.",
+    "Reasoning: the link from the resources each bottle uses, and the price buyers pay, to scarcity relative to wants must be made, because scarcity is what makes a good economic.",
     "Conclusion: therefore the spray is rationed by price whereas the sea is not rationed at all."
    ],
    "context": {
@@ -220,10 +224,12 @@
    "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-0455-1.1-005": 1,
+    "CLM-0455-1.1-005": 2,
     "CLM-0455-1.1-003": 1
    },
-   "authored_hash": "4bfe6dfdde6bfd9627405e655825614a8e482ec039202ce8b284a45b70d23e0a",
+   "authored_hash": "a4bb0afd21c35c3f49b216bc0647eb2bba058655bc5789d44e0a9db6bd6984c6",
+   "prior_hash": "4bfe6dfdde6bfd9627405e655825614a8e482ec039202ce8b284a45b70d23e0a",
+   "repair_note": "Reviewer 2026-10-13: free/economic good test corrected to scarcity and opportunity cost (not price); P02(b) made worth 2 marks; P01 widened to a producer and a worker; P04 case labels corrected; leaked chain labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "economic and free goods"
    ]
@@ -248,7 +254,7 @@
    "mark_tariff": 8,
    "difficulty": 3,
    "prompt": "A town council in northern Namibia has a fixed yearly budget for its boreholes and is considering supplying water free of charge to every household. Discuss the consequences of treating water as though it were a free good when it is in fact an economic good, for the consumer, the council and the wider economy of the town.",
-   "canonical_answer": "Starting point: water is an economic good, because supplying it costs labour, fuel and pumps; the initial change being considered is a zero price on it. Mechanism: because the price no longer signals scarcity, households use water as though supply were unlimited, consumption rises beyond what the boreholes can sustain, and the council spends its fixed budget on fuel and repairs far faster than planned. Consequence: the consumer therefore faces shortages and long queues at the borehole once it runs dry in the dry season; the council as producer cannot cover its costs, cuts maintenance and eventually closes pumps; the economy of the town loses the output that water would have supported - gardens, brick-making, brewing - had it been priced to last. For whom the damage lands: consumers lose the water itself, the council loses budget control, and firms and workers in the town lose production and income. The council that instead charges a token N$20 per tanker keeps the signal alive: consumption stays within supply, because the price still tells households that water is scarce.",
+   "canonical_answer": "Water is an economic good: pumping it uses labour, fuel and pumps that have other uses. If the council sets a zero price, the price no longer signals that scarcity, so households use water as though supply were unlimited. Consumption rises beyond what the boreholes can sustain, and the council's fixed budget goes on fuel and repairs faster than planned. Consumers therefore face shortages and queues once boreholes run dry in the dry season. The council cannot cover its costs, so it cuts maintenance and may have to close pumps. The town's economy loses the output water would have supported - gardens, brick-making, brewing - so firms and workers there lose production and income. On balance, a token charge such as N$20 a tanker-load is likely to serve the town better than a zero price, because it keeps consumption within supply while keeping water affordable.",
    "marking_guidance": [
     "Starting point: the initial change - a zero price placed on a good that costs resources to supply.",
     "Mechanism: because the price no longer signals scarcity, over-consumption follows, and this causes the budget to exhaust early.",
@@ -269,9 +275,11 @@
    "qa_status": "review_required",
    "claims_seen": {
     "CLM-0455-1.1-003": 1,
-    "CLM-0455-1.1-005": 1
+    "CLM-0455-1.1-005": 2
    },
-   "authored_hash": "f921b5a6cd74520ee455d62c56f59cd4d136fd4853419b6a797c95e4259e422f",
+   "authored_hash": "28f723a566c069758987f09baaebb9045810fcde7156867b55358cc094af1d2e",
+   "prior_hash": "f921b5a6cd74520ee455d62c56f59cd4d136fd4853419b6a797c95e4259e422f",
+   "repair_note": "Reviewer 2026-10-13: free/economic good test corrected to scarcity and opportunity cost (not price); P02(b) made worth 2 marks; P01 widened to a producer and a worker; P04 case labels corrected; leaked chain labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "economic and free goods"
    ]
@@ -298,11 +306,11 @@
    "command_word": null,
    "mark_tariff": null,
    "difficulty": 3,
-   "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. Resources are finite and wants are unlimited. What follows?\nA  wants can be fully satisfied\nB  choices must be made\nC  prices are illegal\nD  governments must print money\n\n2. Which is the best statement of the economic problem?\nA  governments tax too little\nB  unemployment is too high\nC  finite resources cannot satisfy unlimited wants\nD  firms charge prices that are too high\n\n3. A good is scarce relative to wants. What kind of good is it?\nA  a free good\nB  a public good\nC  a luxury good\nD  an economic good\n\n4. Which must be true of a free good?\nA  at a zero price, supply exceeds wants\nB  the government supplies it\nC  no one wants it\nD  it is produced only in wealthy countries\n\n5. A household earns N$3 200 and lists eleven wants. The situation illustrates:\nA  unlimited wants against finite resources\nB  a shortage caused by poor harvests\nC  a failure of the market system\nD  inflation\n\n6. Which test separates an economic good from a free good?\nA  whether it is manufactured\nB  whether a price has to be paid\nC  whether it lasts long\nD  whether it is exported\n\n7. Sea air on the coast at Swakopmund is best described as:\nA  an economic good, because many people want it\nB  a free good, because at a zero price supply exceeds wants\nC  an economic good, because it is useful\nD  a free good, because no one wants it\n\n8. Bottled oxygen sold to climbers on Mount Kilimanjaro at 60 US dollars a bottle is an economic good because:\nA  it is manufactured\nB  obtaining it requires a sacrifice and it is scarce relative to wants\nC  only climbers want it\nD  the government taxes it",
-   "canonical_answer": "Key: 1 B, 2 C, 3 D, 4 A, 5 A, 6 B, 7 B, 8 B.\n1. Choice is forced (B); A denies scarcity, C and D invent policies that do not follow from the problem.\n2. C is the definition (finite resources, unlimited wants); A, B and D each describe one possible symptom or policy, not the problem itself.\n3. Scarcity relative to wants makes an economic good (D); A confuses it with a free good, B is a different concept entirely, C confuses scarcity with luxury.\n4. A free good is abundant at a zero price (A); B confuses free goods with publicly provided goods, C confuses abundance with being unwanted - people do want sea air, D confuses geography with scarcity.\n5. Eleven wants on a N$3 200 income is the economic problem itself (A); B invents a harvest, C blames a system, D confuses scarcity with a rise in prices.\n6. The price test (B); A, C and D are properties that economic and free goods can share or lack independently of scarcity.\n7. Sea air is wanted and still free, because supply exceeds wants at a zero price (B); A and C both mistake being wanted or useful for being scarce, D mistakes free for unwanted.\n8. The bottle is scarce and commands a price, so a sacrifice is involved (B); A confuses manufacture with scarcity, C confuses a narrow market with scarcity, D confuses tax with price.",
+   "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. A bakery in Rundu has one oven and more orders for bread and cakes than the oven can bake in a day. What must the bakery do?\nA  fill every order in full\nB  choose which orders to fill\nC  stop charging prices\nD  ask the government to print money\n\n2. Which is the best statement of the economic problem?\nA  governments tax too little\nB  unemployment is too high\nC  finite resources cannot satisfy unlimited wants\nD  firms charge prices that are too high\n\n3. A good is scarce relative to wants. What kind of good is it?\nA  a free good\nB  a public good\nC  a luxury good\nD  an economic good\n\n4. Which must be true of a free good?\nA  at a zero price, supply exceeds wants\nB  the government supplies it\nC  no one wants it\nD  it is produced only in wealthy countries\n\n5. A worker in Oshakati has one free Saturday: her employer offers overtime, her family wants a day together and her garden needs planting. The situation illustrates:\nA  unlimited wants against a finite resource\nB  a shortage caused by poor harvests\nC  a failure of the market system\nD  inflation\n\n6. Which test separates an economic good from a free good?\nA  whether it is manufactured\nB  whether using it involves an opportunity cost\nC  whether the user is charged a price\nD  whether it is exported\n\n7. Sea air on the coast at Swakopmund is best described as:\nA  an economic good, because many people want it\nB  a free good, because at a zero price supply exceeds wants\nC  an economic good, because it is useful\nD  a free good, because no one wants it\n\n8. Bottled oxygen sold to climbers on Mount Kilimanjaro at 60 US dollars a bottle is an economic good because:\nA  it is manufactured\nB  obtaining it requires a sacrifice and it is scarce relative to wants\nC  only climbers want it\nD  the government taxes it",
+   "canonical_answer": "Key: 1 B, 2 C, 3 D, 4 A, 5 A, 6 B, 7 B, 8 B.\n1. One oven against more orders than it can bake forces the bakery to choose (B); A denies scarcity, C and D invent policies that do not follow from the problem.\n2. C is the definition (finite resources, unlimited wants); A, B and D each describe one possible symptom or policy, not the problem itself.\n3. Scarcity relative to wants makes an economic good (D); A confuses it with a free good, B is a different concept entirely, C confuses scarcity with luxury.\n4. A free good is abundant at a zero price (A); B confuses free goods with publicly provided goods, C confuses abundance with being unwanted - people do want sea air, D confuses geography with scarcity.\n5. One Saturday wanted for three uses is the economic problem facing a worker (A); B invents a harvest, C blames a system, D confuses scarcity with a rise in prices.\n6. Scarcity relative to wants shows as an opportunity cost (B); C is the trap - state schooling is free to pupils yet still an economic good - and A and D are properties that do not decide scarcity.\n7. Sea air is wanted and still free, because supply exceeds wants at a zero price (B); A and C both mistake being wanted or useful for being scarce, D mistakes free for unwanted.\n8. The bottle is scarce and commands a price, so a sacrifice is involved (B); A confuses manufacture with scarcity, C confuses a narrow market with scarcity, D confuses tax with price.",
    "marking_guidance": [
     "Key: one mark per question, eight in total; the correct option for each is listed and each distractor is explained as the specific misunderstanding it catches.",
-    "Every distractor traces to a named error: scarcity denied, free good confused with a publicly provided good, scarcity confused with luxury or usefulness, abundance confused with being unwanted, the price test missed."
+    "Every distractor traces to a named error: scarcity denied, free good confused with a publicly provided good, scarcity confused with luxury or usefulness, abundance confused with being unwanted, a price charged mistaken for the test of scarcity."
    ],
    "context": {
     "sector": null,
@@ -321,7 +329,9 @@
     "CLM-0455-1.1-003": 1,
     "CLM-0455-1.1-004": 1
    },
-   "authored_hash": "60ede57d7f74d878dca73a1c8424a3a4d8202cd02a02c9d5ee80c53d7cec6792",
+   "authored_hash": "37e088b634409778f57664867185e6d2753975315dc94a01925b1e303d0d0f96",
+   "prior_hash": "60ede57d7f74d878dca73a1c8424a3a4d8202cd02a02c9d5ee80c53d7cec6792",
+   "repair_note": "Reviewer 2026-10-13: free/economic good test corrected to scarcity and opportunity cost (not price); P02(b) made worth 2 marks; P01 widened to a producer and a worker; P04 case labels corrected; leaked chain labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "finite resources and unlimited wants",
     "economic and free goods"
@@ -350,11 +360,11 @@
    "command_word": null,
    "mark_tariff": null,
    "difficulty": 5,
-   "prompt": "A radio report on Ongwediva, 2026: \"The town council delivered 4 200 tanker-loads of water last year at N$180 a load, and households asked for 5 600. The council also supplies unpurified canal water free for gardens. councillors say the tanker service loses money. The town's yearly water budget is N$1.1 million; fuel, wages and pump repairs cost N$0.9 million.\"\n\nTable 1 - Ongwediva water, last year\n  tanker-loads delivered: 4 200\n  tanker-loads requested: 5 600\n  price per tanker-load: N$180\n  yearly budget: N$1 100 000\n  yearly running costs: N$900 000\n\n(a) Calculate the shortfall between tanker-loads requested and delivered. [1]\n(b) Identify from Table 1 the price of one tanker-load of water. [2]\n(c) Explain why the tanker water is an economic good while the canal water for gardens is treated as a free good. [4]\n(d) Analyse what the figures suggest would happen to the council's service and to households if the price of N$180 were removed. [6]",
-   "canonical_answer": "(a) 5 600 - 4 200 = 1 400 tanker-loads.\n(b) The price of one tanker-load is N$180 (from Table 1); the request data (5 600 loads) and the delivery data (4 200 loads) sit beside it.\n(c) The tanker water is an economic good because it is scarce relative to wants: 5 600 loads requested against 4 200 delivered means wants exceed supply, and supplying each load costs fuel, wages and repairs, so a price of N$180 is charged to ration it. The canal water is treated as a free good: no price is charged, so no signal of scarcity reaches gardeners. The test of which one applies is whether a price must be paid; by that test the canal water is being treated as free even though the town's budget suggests it too has a cost.\n(d) Expected relationship: removing the price would raise the quantity requested, because the price is currently what rations the scarce tanker capacity. Evidence from the data: wants already exceed supply by 1 400 loads at N$180, and the service already fails to cover its position - revenue was 4 200 x N$180 = N$756 000 against running costs of N$900 000, a shortfall of N$144 000. Analysis: with the price gone, the council loses the whole N$756 000 of revenue, its N$1.1 million budget now meets only running costs with nothing for pump renewal, and consumption rises toward the 5 600 requested and beyond, so queues lengthen and boreholes run dry earlier in the dry season. Consequences land on households, who wait longer for water, and on the council, which cannot fund maintenance. Exception: where a household currently rations itself hard because N$180 is a heavy share of income, its use may barely change, because price was not what limited it - poverty was. That exception matters most for the poorest households, for whom the removal helps most in the short run while the service itself decays.",
+   "prompt": "A radio report on Ongwediva, 2026: \"The town council delivered 4 200 tanker-loads of water last year at N$180 a load, and households asked for 5 600. The council also supplies unpurified canal water free for gardens. councillors say the tanker service loses money. The town's yearly water budget is N$1.1 million; fuel, wages and pump repairs cost N$0.9 million.\"\n\nTable 1 - Ongwediva water, last year\n  tanker-loads delivered: 4 200\n  tanker-loads requested: 5 600\n  price per tanker-load: N$180\n  yearly budget: N$1 100 000\n  yearly running costs: N$900 000\n\n(a) Calculate the shortfall between tanker-loads requested and delivered. [1]\n(b) Identify from Table 1 two figures that show tanker water is scarce relative to wants. [2]\n(c) Explain why the tanker water is an economic good while the canal water for gardens is treated as a free good. [4]\n(d) Analyse what the figures suggest would happen to the council's service and to households if the price of N$180 were removed. [6]",
+   "canonical_answer": "(a) 5 600 - 4 200 = 1 400 tanker-loads.\n(b) Any two of: 5 600 loads requested against 4 200 delivered, so wants exceed supply [1]; a price of N$180 a load is charged [1]; running costs of N$900 000 a year, showing that supplying the water uses resources [1].\n(c) The tanker water is an economic good because it is scarce relative to wants: 5 600 loads requested against 4 200 delivered means wants exceed supply, and supplying each load costs fuel, wages and repairs, so a price of N$180 is charged to ration it. The canal water is treated as a free good because it carries no price, so no signal of scarcity reaches gardeners. But a zero price is not the test: if pumping canal water uses labour and fuel, or the water could serve other uses, it has an opportunity cost and is still an economic good. It would be a genuine free good only if, at a zero price, there were more of it than gardeners want.\n(d) Expected relationship: removing the price would raise the quantity requested, because the price is currently what rations the scarce tanker capacity. Evidence from the data: wants already exceed supply by 1 400 loads at N$180, and the service already fails to cover its position - revenue was 4 200 x N$180 = N$756 000 against running costs of N$900 000, a shortfall of N$144 000. Analysis: with the price gone, the council loses the whole N$756 000 of revenue, its N$1.1 million budget must cover running costs that start at N$900 000 and rise as more loads are delivered, leaving at most 1 100 000 - 900 000 = N$200 000 for pump renewal, and consumption rises toward the 5 600 requested and beyond, so queues lengthen and boreholes run dry earlier in the dry season. Consequences land on households, who wait longer for water, and on the council, which cannot fund maintenance. Exception: where a household currently rations itself hard because N$180 is a heavy share of income, its use may barely change, because price was not what limited it - poverty was. That exception matters most for the poorest households, for whom the removal helps most in the short run while the service itself decays.",
    "marking_guidance": [
-    "Context: parts (a) and (b) must be read from the data; the six-mark part must use the figures as evidence - the 1 400-load gap, the N$756 000 revenue, the N$144 000 shortfall.",
-    "Reasoning: one mark per distinct linked statement in (c); the link from price to scarcity must be made, because a price is the mark of an economic good.",
+    "Context: parts (a) and (b) must be read from the data, with (b) earning one mark for each of two figures; the six-mark part must use the figures as evidence - the 1 400-load gap, the N$756 000 revenue, the N$144 000 shortfall.",
+    "Reasoning: one mark per distinct linked statement in (c); the link from scarcity relative to wants, and the opportunity cost of supply, to an economic good must be made; a zero price alone does not make a good free.",
     "Conclusion: part (d) must run expected relationship, then evidence from the data, then analysis, then an exception; quoting figures alone is description and earns nothing without the relationship it supports.",
     "For whom: consequences must be named for households and the council, not left as general harm."
    ],
@@ -379,9 +389,11 @@
    "claims_seen": {
     "CLM-0455-1.1-001": 1,
     "CLM-0455-1.1-003": 1,
-    "CLM-0455-1.1-005": 1
+    "CLM-0455-1.1-005": 2
    },
-   "authored_hash": "a892c88a2ddb85a027e3904216b2a8d8332d699112565fd02c066a4d4fe83375",
+   "authored_hash": "2bd60d13d4becf93af158b26aa6ea66e7693ccd2856cf042775c5b7d658a1e3c",
+   "prior_hash": "a892c88a2ddb85a027e3904216b2a8d8332d699112565fd02c066a4d4fe83375",
+   "repair_note": "Reviewer 2026-10-13: free/economic good test corrected to scarcity and opportunity cost (not price); P02(b) made worth 2 marks; P01 widened to a producer and a worker; P04 case labels corrected; leaked chain labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "finite resources and unlimited wants",
     "economic and free goods"
@@ -412,7 +424,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "A Namibian regional council must divide a N$40 million yearly budget between water infrastructure, school classrooms and a new tourism road. Consultants report that households in the region list far more wants than the budget can meet.\n(a) Define the economic problem. [2]\n(b) Explain why the council's situation is an example of the economic problem, using the figures. [4]\n(c) Analyse the consequences of the council treating clean piped water as a free good - no charge to households - when supplying it is costly. [6]\n(d) Discuss whether the council should charge households for piped water. [8]",
-   "canonical_answer": "(a) The economic problem is the situation in which resources are finite while wants are unlimited, so choices must be made about how the resources are used.\n(b) The budget is the finite resource: N$40 million is fixed. The wants placed on it - water, classrooms, the road, plus every want households list beyond what the budget can meet - exceed it. The council must therefore choose which projects to fund and which to leave, which is choice forced by scarcity. Each of the three projects competes with the other two for the same N$40 million, so funding one means not funding the others, and the wants listed cannot all be satisfied.\n(c) Treating costly water as a free good removes the price signal, so households use water as though supply were unlimited. Mechanism: no price means no rationing, so consumption rises; the council pays the full cost of what is consumed from the N$40 million, so less remains for classrooms and the road; maintenance of pumps and pipes competes with new building for what is left. Consequences: households gain free water in the short run but face pressure and cuts when pipes decay; the schools and tourism projects lose funding; the economy of the region grows more slowly because the budget was spread thinner than its uses warranted. Where supply is genuinely abundant at no extra cost per litre delivered, the harm is small - but piped water is not that case, because each litre costs pumping and treatment.\n(d) Why it might: a charge keeps the price signal alive, so consumption reflects the cost of supply, the budget stretches across all three aims, and maintenance is funded, which protects the poorest households from service collapse in the long run. A small, uniform charge with a lifeline free block can protect low-income households while still signalling scarcity. Why it might not: water is a basic need, and a charge set without regard to income may push the poorest households to untreated sources, which harms health and raises the region's later health costs; and where meters are absent, administering charges may cost more than it raises. Judgement: on balance the council should charge, but at a low rate with a free basic block, because the decisive condition is that a zero price on a costly good destroys the very service the poor depend on; the charge level should be set so that no household is driven to unsafe sources.",
+   "canonical_answer": "(a) The economic problem is the situation in which resources are finite while wants are unlimited, so choices must be made about how the resources are used.\n(b) The budget is the finite resource: N$40 million is fixed. The wants placed on it - water, classrooms, the road, plus every want households list beyond what the budget can meet - exceed it. The council must therefore choose which projects to fund and which to leave, which is choice forced by scarcity. Each of the three projects competes with the other two for the same N$40 million, so funding one means not funding the others, and the wants listed cannot all be satisfied.\n(c) Treating costly water as a free good removes the price signal, so households use water as though supply were unlimited. No price means no rationing, so consumption rises; the council pays the full cost of what is consumed from the N$40 million, so less remains for classrooms and the road; maintenance of pumps and pipes competes with new building for what is left. As a result, households gain free water in the short run but face pressure and cuts when pipes decay; the schools and tourism projects lose funding; the economy of the region grows more slowly because the budget was spread thinner than its uses warranted. Where supply is genuinely abundant at no extra cost per litre delivered, the harm is small - but piped water is not that case, because each litre costs pumping and treatment.\n(d) Why it might: a charge keeps the price signal alive, so consumption reflects the cost of supply, the budget stretches across all three aims, and maintenance is funded, which protects the poorest households from service collapse in the long run. A small, uniform charge with a lifeline free block can protect low-income households while still signalling scarcity. Why it might not: water is a basic need, and a charge set without regard to income may push the poorest households to untreated sources, which harms health and raises the region's later health costs; and where meters are absent, administering charges may cost more than it raises. Judgement: on balance the council should charge, but at a low rate with a free basic block, because the decisive condition is that a zero price on a costly good destroys the very service the poor depend on; the charge level should be set so that no household is driven to unsafe sources.",
    "marking_guidance": [
     "Parts (a) to (d) carry a model answer each; (d) is level-marked over three bands.",
     "Context: (b) must use the N$40 million and the competing projects; (c) must trace the mechanism through to named parties - households, the council, the regional economy.",
@@ -440,7 +452,9 @@
     "CLM-0455-1.1-003": 1,
     "CLM-0455-1.1-004": 1
    },
-   "authored_hash": "97685134e6e8a449459d7662d15e36b240806583044deba7c9f541fff7e2f40c",
+   "authored_hash": "06a1a446907bb60d13e352f7d27f65ddd75d7c2ff990667347f22397b0f5a64b",
+   "prior_hash": "97685134e6e8a449459d7662d15e36b240806583044deba7c9f541fff7e2f40c",
+   "repair_note": "Reviewer 2026-10-13: free/economic good test corrected to scarcity and opportunity cost (not price); P02(b) made worth 2 marks; P01 widened to a producer and a worker; P04 case labels corrected; leaked chain labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "finite resources and unlimited wants",
     "economic and free goods"
@@ -469,7 +483,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "Plan an answer to: \"A town treats its piped water as a free good while its tanker water sells at N$180 a load. Discuss whether a town that supplies water free to households is acting against the economic problem.\" Do not write the essay; produce the plan.",
-   "canonical_answer": "Case for (free supply acts against scarcity): water is a basic need, so excluding those who cannot pay protects health; a free basic block rations nothing that the poor were wasting - their use was limited by poverty, not price.\nChain 1: basic need -> no charge -> poorest households reach clean water -> health outcomes held -> later health costs fall (for households, the town).\nCase against (free supply ignores scarcity): supply costs fuel, wages and repairs, so water is an economic good, and a zero price removes the signal; consumption rises, budget exhausts, maintenance is cut, service decays, and the poorest lose the water they relied on (for households, the council, firms).\nChain 2: zero price on a costly good -> no rationing signal -> consumption beyond supply -> budget exhausted early -> maintenance cut -> service collapse (for households, the town).\nCase against, second point: the tanker price of N$180 coexists with free piped water, so the town already rations by another means - capacity - and queues replace prices, which is rationing by waiting rather than by willingness to pay.\nJudgement: free supply is not against the economic problem so long as the supply is genuinely abundant at the margin; where it is not - and piped water is not - the zero price is a choice to ignore scarcity, and the cost returns as queues and decay. The condition the judgement depends on: whether a lifeline block, small and capped, replaces unlimited free supply.",
+   "canonical_answer": "Case that free supply does not act against the economic problem: water is a basic need, so excluding those who cannot pay protects health; a free basic block rations nothing that the poor were wasting - their use was limited by poverty, not price.\nChain 1: basic need -> no charge -> poorest households reach clean water -> health outcomes held -> later health costs fall (for households, the town).\nCase that free supply does act against the economic problem, because it ignores scarcity: supply costs fuel, wages and repairs, so water is an economic good, and a zero price removes the signal; consumption rises, budget exhausts, maintenance is cut, service decays, and the poorest lose the water they relied on (for households, the council, firms).\nChain 2: zero price on a costly good -> no rationing signal -> consumption beyond supply -> budget exhausted early -> maintenance cut -> service collapse (for households, the town).\nSecond point that it does: the tanker price of N$180 coexists with free piped water, so the town already rations by another means - capacity - and queues replace prices, which is rationing by waiting rather than by willingness to pay.\nJudgement: free supply is not against the economic problem so long as the supply is genuinely abundant at the margin; where it is not - and piped water is not - the zero price is a choice to ignore scarcity, and the cost returns as queues and decay. The condition the judgement depends on: whether a lifeline block, small and capped, replaces unlimited free supply.",
    "marking_guidance": [
     "A plan, not an essay: structure with the stated judgement is what is assessed.",
     "Context: the plan must use the town's own facts - the N$180 tanker price, the free piped supply.",
@@ -495,9 +509,11 @@
    "claims_seen": {
     "CLM-0455-1.1-001": 1,
     "CLM-0455-1.1-003": 1,
-    "CLM-0455-1.1-005": 1
+    "CLM-0455-1.1-005": 2
    },
-   "authored_hash": "ae50566dde6ffa05f9c3f53718bd2759fd39798f11ddbf8e8b14e18de645bc29",
+   "authored_hash": "d72d9886cb13dfe6e81c4bed1d41b85d1033dd278155341746b73df039b26095",
+   "prior_hash": "ae50566dde6ffa05f9c3f53718bd2759fd39798f11ddbf8e8b14e18de645bc29",
+   "repair_note": "Reviewer 2026-10-13: free/economic good test corrected to scarcity and opportunity cost (not price); P02(b) made worth 2 marks; P01 widened to a producer and a worker; P04 case labels corrected; leaked chain labels removed; flashcard answers trimmed for recall.",
    "objective_titles": [
     "finite resources and unlimited wants",
     "economic and free goods"

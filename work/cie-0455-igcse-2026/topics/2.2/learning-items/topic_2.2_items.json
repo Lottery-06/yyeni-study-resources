@@ -62,7 +62,7 @@
    "mark_tariff": 6,
    "difficulty": 3,
    "prompt": "At the weekend market in Katutura, the price of frozen chicken pieces is stuck below the price at which the quantity buyers plan to buy equals the quantity sellers plan to sell. Analyse how the market system works to move this market back towards equilibrium.",
-   "canonical_answer": "Mechanism: below the equilibrium price, buyers plan to buy more chicken than sellers plan to bring, because the low price makes chicken attractive to buyers and unattractive to sellers. The working of the market system is that unsatisfied buyers then compete: some offer a little more rather than go home empty, and sellers who can fetch more bring extra stock the following weekend. How the movement happens: each small rise in price cuts the quantity buyers plan to buy and raises the quantity sellers plan to supply, so the gap between them narrows from both directions. Consequence: the price therefore tends to be pushed upwards towards the level at which the two planned quantities meet, and the shortage that started the process is closed, so that the market moves back towards equilibrium without any official directing it.",
+   "canonical_answer": "Below the equilibrium price, buyers plan to buy more chicken than sellers plan to bring, so there is a shortage. Unsatisfied buyers compete: some offer a little more rather than go home empty, and sellers who can get more bring extra stock the next weekend. Each rise in price cuts the quantity buyers plan to buy and raises the quantity sellers plan to sell, so the gap narrows from both sides. The price therefore tends to rise until the two planned quantities meet, closing the shortage and returning the market to equilibrium without any official directing it.",
    "marking_guidance": [
     "Mechanism: how the shortage below equilibrium works must be explained, because buyers competing with each other is what pushes the price up.",
     "Consequence: therefore the price moves up and the planned quantities converge, so that the market settles back at equilibrium."
@@ -83,7 +83,9 @@
     "CLM-0455-2.2-002": 1,
     "CLM-0455-2.2-001": 1
    },
-   "authored_hash": "bedd5e33d9768cd93c30aa15ada92b84f0af71cfdf4289561e82b532d45b477d"
+   "authored_hash": "7c4ccdd4d8e2b91a1ccacf533db9eac32e145e58dfe5f1f9e5ce453ee996540a",
+   "prior_hash": "bedd5e33d9768cd93c30aa15ada92b84f0af71cfdf4289561e82b532d45b477d",
+   "repair_note": "Reviewer 2026-10-13: minimum/maximum price corrected to legal direction, with effect only below (ceiling) or above (floor) equilibrium - MISCON 017, P01 Q4, claim 003 and notes block 2.2.1-b4; 005 Define-on-a-heading reworded as State; P02(b) made worth 2 marks; possibly-real firm name replaced; leaked chain labels removed; flashcard answers trimmed for recall."
   },
   {
    "item_id": "ITEM-0455-2.2-003-APP",
@@ -106,10 +108,10 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "The Harbour Fresh stall at Walvis Bay sold fresh mussels at N$60 a kilogram and buyers took the whole 90 kilograms on offer each Friday, turning some late customers away. The stall now charges N$84 and sells 70 kilograms, with no one turned away. Using the figures, explain what happened to the market for the stall's mussels and why the stall's revenue position changed.",
-   "canonical_answer": "The data show the market moved from one state to another. At N$60, the quantity buyers planned to buy exceeded the 90 kilograms sellers brought, so the stall was in disequilibrium with a shortage: late customers were turned away. At N$84, buyers take 70 kilograms and no one is turned away, so the quantity buyers plan to buy now roughly matches what the stall plans to sell, which means the market has moved to a new equilibrium at the higher price. Because the price rose while quantity still sold, the stall's weekly takings rose from 90 x N$60 = N$5 400 to 70 x N$84 = N$5 880, so its revenue position improved even though fewer kilograms changed hands. The figures therefore show a market system at work: the shortage was closed by a price movement, not by any official order.",
+   "canonical_answer": "At N$60, buyers wanted more than the 90 kilograms on offer, so there was a shortage: late customers were turned away. At N$84, buyers take 70 kilograms and no one is turned away, so the shortage has closed and the market has moved towards equilibrium at the higher price. Takings rose from 90 x N$60 = N$5 400 to 70 x N$84 = N$5 880 a week, so revenue improved although fewer kilograms were sold. A price movement, not an official order, closed the shortage.",
    "marking_guidance": [
     "Context: the data - the N$60 and N$84 prices and the 90 and 70 kilogram quantities - must be used, because the comparison is the evidence.",
-    "Reasoning: the link from shortage to price rise to new equilibrium must be made.",
+    "Reasoning: the link from shortage to price rise to equilibrium must be made.",
     "Conclusion: therefore the market settles at N$84 and the stall's takings move from N$5 400 to N$5 880 a week."
    ],
    "context": {
@@ -128,7 +130,9 @@
     "CLM-0455-2.2-002": 1,
     "CLM-0455-2.2-001": 1
    },
-   "authored_hash": "95db27cba6d958f0a4f014ae997f831797a5f81ae4f2d9b78efa8de718cad609"
+   "authored_hash": "5ec601476e3619e4499b33aaaae6d855f6b0cc13a2abfb8706c608b308ad19ff",
+   "prior_hash": "95db27cba6d958f0a4f014ae997f831797a5f81ae4f2d9b78efa8de718cad609",
+   "repair_note": "Reviewer 2026-10-13: minimum/maximum price corrected to legal direction, with effect only below (ceiling) or above (floor) equilibrium - MISCON 017, P01 Q4, claim 003 and notes block 2.2.1-b4; 005 Define-on-a-heading reworded as State; P02(b) made worth 2 marks; possibly-real firm name replaced; leaked chain labels removed; flashcard answers trimmed for recall."
   },
   {
    "item_id": "ITEM-0455-2.2-004-CHAIN",
@@ -150,7 +154,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "Visitor numbers at the Etosha gate rise sharply one season, so every lodge near the gate is fully booked months ahead. Analyse the chain of consequences that a market system sets off from this situation, for lodges, workers and consumers.",
-   "canonical_answer": "Starting point: the initial change is a rise in demand for lodge beds near the Etosha gate, so at the old prices the quantity buyers plan to book exceeds the quantity of beds sellers offer - a shortage. Mechanism: lodges respond by raising room prices, because fully booked calendars tell them buyers will pay more; this causes the higher price to signal to other providers that beds near the gate are scarce relative to wants. Consequence: the higher prices therefore tend to attract new provision - camp operators at Otjiwarongo convert vans into extra bed capacity, and Namib Signs and other local firms gain orders furnishing them - and workers are drawn in as lodge jobs multiply, so labour moves towards the gate. Results for whom: consumers able to pay the new prices still get beds, while consumers priced out switch to camps further away or travel off-season; workers in the area gain wages and jobs; the lodges gain revenue per room. The chain therefore reallocates beds, materials and workers towards the visitors, without a planner moving any of them.",
+   "canonical_answer": "More visitors raise demand for beds near the Etosha gate, so at the old prices more beds are wanted than lodges offer: a shortage. Lodges raise room prices, because full calendars show buyers will pay more, and the higher price signals to other providers that beds there are scarce. New provision is therefore attracted - camp operators add tents and rooms, and local carpenters gain orders furnishing them - and workers are drawn in as lodge jobs multiply. Consumers who can pay still get beds, while others switch to camps further away or travel off-season; workers gain jobs and wages; lodges gain revenue per room. Beds, materials and workers move towards visitors without a planner moving them.",
    "marking_guidance": [
     "Starting point: the initial change - a shortage of lodge beds at the old prices - must open the chain.",
     "Mechanism: the price rise and what this causes, because the higher price is the signal other providers read.",
@@ -173,7 +177,9 @@
     "CLM-0455-2.2-001": 1,
     "CLM-0455-2.2-002": 1
    },
-   "authored_hash": "78d1df7359cfebc990feb04f3ed0b010e1eb1c4408f82106391f860a5e090164"
+   "authored_hash": "3ff218c3020786625f7235457554bf9f34316674479b51c4332d1a75471509c8",
+   "prior_hash": "78d1df7359cfebc990feb04f3ed0b010e1eb1c4408f82106391f860a5e090164",
+   "repair_note": "Reviewer 2026-10-13: minimum/maximum price corrected to legal direction, with effect only below (ceiling) or above (floor) equilibrium - MISCON 017, P01 Q4, claim 003 and notes block 2.2.1-b4; 005 Define-on-a-heading reworded as State; P02(b) made worth 2 marks; possibly-real firm name replaced; leaked chain labels removed; flashcard answers trimmed for recall."
   },
   {
    "item_id": "ITEM-0455-2.2-013-EVAL",
@@ -195,7 +201,7 @@
    "mark_tariff": 8,
    "difficulty": 5,
    "prompt": "Namibia allocates most of its shops, farms and workshops through markets, while keeping schools and clinics in government hands. Discuss whether a market system is the best way for Namibia to allocate its scarce resources.",
-   "canonical_answer": "Why it might: the market system tends to direct resources towards what buyers actually want, because rising prices and expanding sales reward the producers who guess correctly, and it does this without a ministry needing to know what every household in Katutura or Opuwo wants this month. Competition between sellers also tends to hold prices near costs where many small sellers deal with many buyers, so consumers get variety and invention - Kaoko Juice exists because a market let it start. Why it might not: the market answers the for whom question by income, so households with little money are served last, which is why Namibia keeps schools and clinics outside the market; and there are goods, like clean air over Walvis Bay or flood defences on the Kunene, where no buyer can be charged, so a market tends to under-provide them. Prices also ignore costs imposed on others, so a factory that dirties water may expand even where the harm outweighs its output. Judgement: on balance the market system is the best starting way to allocate ordinary goods and services, because no planner can match its reach, but it is not the best way for every good; it depends on whether buyers can be charged and whether the price carries the full cost. The decisive condition is the nature of the good: markets for chargeable ordinary goods, government for goods no one can be charged for.",
+   "canonical_answer": "A market system tends to direct resources towards what buyers want, because rising prices and sales reward producers who supply it, without any ministry needing to know what every household wants. Where many sellers compete, prices tend to stay near costs, and new firms can start and offer variety. But the market answers the for whom question by income, so poor households are served last - one reason Namibia keeps schools and clinics in government hands. Goods no buyer can be charged for, such as flood defences on the Kunene, tend to be under-provided, and prices ignore costs imposed on others, so a polluting factory may expand even where the harm outweighs its output. On balance, the market system is likely to be the best way to allocate ordinary goods and services, because no planner can match its reach, but not every good. It depends on whether buyers can be charged and whether the price carries the full cost.",
    "marking_guidance": [
     "Judgement: a reasoned conclusion must be reached - on balance, or it depends - not a list of points.",
     "Why it might: the argument for the market system must be developed.",
@@ -218,7 +224,9 @@
     "CLM-0455-2.2-004": 1,
     "CLM-0455-2.2-001": 1
    },
-   "authored_hash": "561be3be65fc50b88a014c620c9222887fb738b087ff212546d8de6d07d52fcd"
+   "authored_hash": "5ef12684aa3bf8ca7d15241cf7ef0afed0a2934ca57d03d9227e528c8a10c27f",
+   "prior_hash": "561be3be65fc50b88a014c620c9222887fb738b087ff212546d8de6d07d52fcd",
+   "repair_note": "Reviewer 2026-10-13: minimum/maximum price corrected to legal direction, with effect only below (ceiling) or above (floor) equilibrium - MISCON 017, P01 Q4, claim 003 and notes block 2.2.1-b4; 005 Define-on-a-heading reworded as State; P02(b) made worth 2 marks; possibly-real firm name replaced; leaked chain labels removed; flashcard answers trimmed for recall."
   },
   {
    "item_id": "ITEM-0455-2.2-014-FEATURE",
@@ -240,7 +248,7 @@
    "mark_tariff": 4,
    "difficulty": 4,
    "prompt": "Explain the features of a market system that together allow it to allocate scarce resources.",
-   "canonical_answer": "The features are buyers, sellers, prices and the allocation that follows from them. Buyers bring their wants and their money to markets, so their spending records what is valued. Sellers bring goods and services and their costs, so their choices record what can be supplied. The price is the feature that connects them: it emerges from the two sides meeting in a market and it carries the information, because a high price signals scarcity relative to wants and a low price the reverse. Market equilibrium is the further feature that keeps the two sides consistent, since at the equilibrium price the quantity buyers plan to buy matches the quantity sellers plan to sell, and out-of-line prices are pushed back by shortages and surpluses. What it includes overall: these features together allocate resources, because producers move land, labour and materials towards the goods whose prices reward them, which is the allocation the system delivers.",
+   "canonical_answer": "Buyers bring their wants and money, so their spending records what is valued. Sellers bring goods and their costs, so their offers record what can be supplied. Prices connect the two: a high price signals scarcity relative to wants, a low price the reverse. Equilibrium keeps the two sides consistent, because shortages and surpluses push prices that are out of line back towards it. Together these features allocate resources: producers move land, labour and materials towards goods whose prices reward them.",
    "marking_guidance": [
     "Features: the elements required are buyers, sellers, prices and the allocation they produce, with equilibrium named.",
     "What it includes: each feature must be explained, not merely listed."
@@ -261,7 +269,9 @@
     "CLM-0455-2.2-001": 1,
     "CLM-0455-2.2-002": 1
    },
-   "authored_hash": "f8a9a667fcb1cc21f1ad619720fc3c6e6feef53ea31a06b2efe723e742ae8b04"
+   "authored_hash": "56d8da52f81f37a9e52c791e6bc7b9d7d71f28d597d6ff8305f2957dfd7beea6",
+   "prior_hash": "f8a9a667fcb1cc21f1ad619720fc3c6e6feef53ea31a06b2efe723e742ae8b04",
+   "repair_note": "Reviewer 2026-10-13: minimum/maximum price corrected to legal direction, with effect only below (ceiling) or above (floor) equilibrium - MISCON 017, P01 Q4, claim 003 and notes block 2.2.1-b4; 005 Define-on-a-heading reworded as State; P02(b) made worth 2 marks; possibly-real firm name replaced; leaked chain labels removed; flashcard answers trimmed for recall."
   },
   {
    "item_id": "ITEM-0455-2.2-017-MISCON",
@@ -282,12 +292,12 @@
    "command_word": "Explain",
    "mark_tariff": 4,
    "difficulty": 4,
-   "prompt": "The Gobabis maize market clears at N$95 a bag. The council then announces a policy it calls a price limit of N$120 a bag, and a learner says this must help buyers because it is a maximum price. Explain the confusion the learner has made between a minimum price and a maximum price, and how to tell them apart.",
-   "canonical_answer": "The confusion: what learners mix up is the direction of the two limits, assuming any official price limit works the same way whichever way it points. The boundary: the difference lies in where the limit sits against the equilibrium price. At N$95 equilibrium, a limit of N$120 sits above the market price, so it is a floor - a minimum price - and sellers may legally charge N$120 or less, but at that level sellers plan to bring more bags than buyers plan to take, so a surplus tends to build up. A maximum price is a ceiling set below the equilibrium price, such as a limit of N$70, which keeps the price low for buyers but leaves planned buying above planned selling, so a shortage tends to build up. The test: how to tell them apart is to compare the limit with the equilibrium price and ask who is left wanting - a surplus above it means the limit is a minimum, a shortage below it means the limit is a maximum. Applied here, the Gobabis policy is a minimum price, so it tends to help sellers able to sell, not the buyers the learner imagined.",
+   "prompt": "The Gobabis maize market clears at N$95 a bag. The council announces that no trader may charge more than N$120 a bag. One learner says this must be a minimum price because it is above the market price; another says it will lower the price buyers pay because it is a maximum price. Explain the confusion between a minimum price and a maximum price, and how to tell them apart.",
+   "canonical_answer": "Both learners judge the limit by its level rather than its legal direction. A maximum price is a ceiling that sellers may not charge above; a minimum price is a floor that sellers may not charge below. The test is the wording of the rule, so 'no more than N$120' is a maximum price. Where it sits decides whether it bites: a ceiling of N$120 above the N$95 equilibrium changes nothing, and buyers still pay N$95. An effective maximum price is set below equilibrium; an effective minimum price, above it.",
    "marking_guidance": [
-    "The confusion: what learners mix up - assuming both limits work the same way - must be named.",
-    "The boundary: the difference - a floor above equilibrium versus a ceiling below it - must be stated.",
-    "The test: how to tell them apart - compare the limit with the equilibrium price and see which side is left wanting - must be given."
+    "The confusion: what learners mix up - judging a limit by its level against equilibrium instead of by its legal direction - must be named.",
+    "The boundary: the difference - a maximum price is a ceiling sellers may not charge above, a minimum price a floor they may not charge below; only a ceiling below equilibrium or a floor above it changes the market price - must be stated.",
+    "The test: how to tell them apart - read the legal direction of the rule, then compare the limit with the equilibrium price to see whether it has any effect - must be given."
    ],
    "context": {
     "sector": null,
@@ -302,11 +312,13 @@
    "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-0455-2.2-003": 1,
+    "CLM-0455-2.2-003": 2,
     "CLM-0455-2.2-002": 1
    },
-   "authored_hash": "99e02b756e8d62ff43ab499344be48e7e04ee28ef79f3db69740e7bbb875b06d",
-   "misconception_entry": "minimum vs maximum price"
+   "authored_hash": "8285b06e795cb6f91417fee3cad55ff4618eff176c66a7f5cf44acc3425f0d1a",
+   "misconception_entry": "minimum vs maximum price",
+   "prior_hash": "99e02b756e8d62ff43ab499344be48e7e04ee28ef79f3db69740e7bbb875b06d",
+   "repair_note": "Reviewer 2026-10-13: minimum/maximum price corrected to legal direction, with effect only below (ceiling) or above (floor) equilibrium - MISCON 017, P01 Q4, claim 003 and notes block 2.2.1-b4; 005 Define-on-a-heading reworded as State; P02(b) made worth 2 marks; possibly-real firm name replaced; leaked chain labels removed; flashcard answers trimmed for recall."
   },
   {
    "item_id": "ITEM-0455-2.2-005-DEF",
@@ -323,13 +335,13 @@
    ],
    "blooms_level": "Remember",
    "blooms_level_basis": "subtype DEF",
-   "command_word": "Define",
+   "command_word": "State",
    "mark_tariff": 2,
    "difficulty": 3,
-   "prompt": "Define the key resources allocation decisions.",
-   "canonical_answer": "The key resources allocation decisions are the three questions every economy must answer because of scarcity: what to produce, how to produce it, and for whom to produce it.",
+   "prompt": "State the three key allocation decisions that scarcity forces on every economy.",
+   "canonical_answer": "What to produce, how to produce it, and for whom to produce it. Scarcity forces all three, because finite resources cannot satisfy unlimited wants.",
    "marking_guidance": [
-    "Precise meaning: the definition must state the meaning of the term - the three questions scarcity forces: what, how and for whom."
+    "Precise meaning: the answer must name the three questions scarcity forces - what, how and for whom."
    ],
    "context": {
     "sector": null,
@@ -346,7 +358,9 @@
    "claims_seen": {
     "CLM-0455-2.2-005": 1
    },
-   "authored_hash": "b37c8e153c44f74f08f7a9d4d4aa2cf64539acc476bd081d09292cf9edc1b19d"
+   "authored_hash": "d4778b0e4943d86913c061f71b32165454bc022ba22460325ee96c8e361410fa",
+   "prior_hash": "b37c8e153c44f74f08f7a9d4d4aa2cf64539acc476bd081d09292cf9edc1b19d",
+   "repair_note": "Reviewer 2026-10-13: minimum/maximum price corrected to legal direction, with effect only below (ceiling) or above (floor) equilibrium - MISCON 017, P01 Q4, claim 003 and notes block 2.2.1-b4; 005 Define-on-a-heading reworded as State; P02(b) made worth 2 marks; possibly-real firm name replaced; leaked chain labels removed; flashcard answers trimmed for recall."
   },
   {
    "item_id": "ITEM-0455-2.2-006-MECH",
@@ -368,7 +382,7 @@
    "mark_tariff": 6,
    "difficulty": 3,
    "prompt": "Oshakati Textiles has one factory, a fixed staff of 40 workers and orders arriving from two very different customers. Analyse how the economic problem forces this firm into the key resources allocation decisions.",
-   "canonical_answer": "Mechanism: the firm's resources - one factory, 40 workers, a fixed week of machine time - are finite, while the orders placed on them exceed what the factory can fill, which is the economic problem in miniature. How the decisions follow: because wants outrun capacity, the firm must decide what to produce, since filling the school-uniform order means refusing the hotel-linen order; it must decide how to produce, since a given metre of cloth can be cut to waste little fabric with more worker time or to waste more fabric with less; and it must decide for whom to produce, which the order book settles by revenue and reliability. Consequence: each answer therefore shapes the others, so choosing the uniforms (what) pushes the factory towards the labour-heavy cutting method (how) and commits the season's output to the school contract (for whom). The same forcing applies to an economy, because scarcity is what turns choice from a preference into a necessity.",
+   "canonical_answer": "The firm's resources - one factory, 40 workers, a fixed week of machine time - are finite, while the orders exceed what it can fill: the economic problem in miniature. So it must decide what to produce, because filling one customer's order may mean refusing the other's; how to produce, because cloth can be cut with more worker time and less waste, or less time and more waste; and for whom, which it may settle by which customer pays more reliably. The decisions shape each other: the product chosen limits the methods that can make it, and the method's cost limits which customers can be served. Scarcity turns these choices into necessities.",
    "marking_guidance": [
     "Mechanism: how scarcity generates the three decisions must be explained, because finite capacity against competing orders is the forcing.",
     "Consequence: therefore each decision must be shown to shape the others, so that the firm's situation is resolved into the three questions."
@@ -389,7 +403,9 @@
     "CLM-0455-2.2-005": 1,
     "CLM-0455-2.2-006": 1
    },
-   "authored_hash": "8c1ea0eac2a07376634f8a7eb7e7f5ab6b23ad9bda1ddfcba0b4a43f569d8106"
+   "authored_hash": "4ba36e8b780a74b5356f84f8760beb13771faa631cf1588f7356e1d1506c88a8",
+   "prior_hash": "8c1ea0eac2a07376634f8a7eb7e7f5ab6b23ad9bda1ddfcba0b4a43f569d8106",
+   "repair_note": "Reviewer 2026-10-13: minimum/maximum price corrected to legal direction, with effect only below (ceiling) or above (floor) equilibrium - MISCON 017, P01 Q4, claim 003 and notes block 2.2.1-b4; 005 Define-on-a-heading reworded as State; P02(b) made worth 2 marks; possibly-real firm name replaced; leaked chain labels removed; flashcard answers trimmed for recall."
   },
   {
    "item_id": "ITEM-0455-2.2-007-APP",
@@ -412,7 +428,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Marula Foods of Gobabis has 15 field workers, one delivery truck and a season's budget of N$50 000. The figures show it plans to send 10 workers to gather marula fruit, pay N$18 000 to run the truck on a 90-day collection round, and sell its oil in 250-millilitre bottles at N$45 each to supermarkets in Windhoek. Using the figures, explain which key resources allocation decision each part of the plan answers.",
-   "canonical_answer": "The figures map onto the three decisions. What to produce: sending 10 of the 15 workers to gather marula fruit answers it, because the fruit choice commits the season to marula oil rather than to any other preserve the same workers could have gathered - 10 of 15 workers is the data showing where the firm's scarce labour went. How to produce: the N$18 000 truck round answers it, because a 90-day collection circuit with one delivery truck is the chosen method, trading fuel and time against hiring a second vehicle. For whom to produce: the bottles at N$45 each in Windhoek supermarkets answer it, because the buyers named are the supermarket customers able to pay N$45, so the output is aimed at them. The conclusion that follows: the figures therefore mean that one small firm answers the same three questions an economy must answer, since its 15 workers, one truck and N$50 000 are simply scarcity at firm scale.",
+   "canonical_answer": "What to produce: sending 10 of the 15 workers to gather marula fruit commits the season to marula oil. How to produce: spending N$18 000 to run one truck on a 90-day collection round is the chosen method, rather than hiring a second vehicle. For whom: selling 250-millilitre bottles at N$45 each to Windhoek supermarkets aims the output at shoppers there who can pay that price. Therefore one small firm answers the same three questions as an economy, because its workers, truck and N$50 000 are scarce.",
    "marking_guidance": [
     "Context: the figures - the 10 workers, the N$18 000 round, the N$45 bottles - must each be tied to a decision.",
     "Reasoning: the link between each scarce resource and the decision it settles must be made.",
@@ -434,7 +450,9 @@
     "CLM-0455-2.2-005": 1,
     "CLM-0455-2.2-006": 1
    },
-   "authored_hash": "25b11f0e7f207a7a35ee6ee78646c6a6ab84a01fedabe82d7c2b60537a1ac1e0"
+   "authored_hash": "855fd2a367c4929c486fa6f96fd504338df47f228ba1c25b49f3c4ad3443422d",
+   "prior_hash": "25b11f0e7f207a7a35ee6ee78646c6a6ab84a01fedabe82d7c2b60537a1ac1e0",
+   "repair_note": "Reviewer 2026-10-13: minimum/maximum price corrected to legal direction, with effect only below (ceiling) or above (floor) equilibrium - MISCON 017, P01 Q4, claim 003 and notes block 2.2.1-b4; 005 Define-on-a-heading reworded as State; P02(b) made worth 2 marks; possibly-real firm name replaced; leaked chain labels removed; flashcard answers trimmed for recall."
   },
   {
    "item_id": "ITEM-0455-2.2-008-CHAIN",
@@ -456,7 +474,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "Falling rainfall around Ruacana makes river-front land for growing maize scarcer, while the same land can still carry drip-irrigated grapevines on far less water. Analyse the chain of consequences for the key resources allocation decisions facing farmers on that land, for consumers, workers and the government.",
-   "canonical_answer": "Starting point: the initial change is scarcity tightening on one resource - water for maize on the Ruacana river-front - while an alternative use of the same land, grapes, needs less of it. Mechanism: because the water needed for maize has become dearer in effect, the what decision shifts - farmers tend to move land from maize to grapes, since the same hectares now answer the question differently; this causes the how decision to shift too, because drip lines and trellises replace flood-irrigated rows, so the method changes with the product. Consequence: the for whom decision therefore shifts as well, since grape buyers in export markets rather than local maize millers become the customers, and the millers must look further afield for their grain. Results for whom: consumers near Ruacana lose local maize but gain grapes and grape wages spent locally; workers shift from planting rows to training vines and packing crates; the government faces calls to fund irrigation schemes or food relief where the local grain supply thins. The chain shows the three decisions moving together, because a change in the scarcity of one input drags all three answers with it.",
+   "canonical_answer": "Falling rainfall makes water for maize on the Ruacana river-front scarcer, while grapes on drip irrigation need far less. So the what decision shifts: farmers tend to move land from maize to grapes. The how decision shifts with it, as drip lines and trellises replace flood-irrigated rows. The for whom decision shifts too, as grape buyers, perhaps in export markets, replace local maize millers, who must buy grain from further away. Consumers near Ruacana lose local maize but gain from grape wages spent locally; workers move from planting rows to tending vines and packing; the government may face calls to fund irrigation or food relief. A change in one scarce input moves all three decisions.",
    "marking_guidance": [
     "Starting point: the initial change - water scarcity for maize on the same land as grapes - must open the chain.",
     "Mechanism: this causes the what and how decisions to shift together, because the input change moves them both.",
@@ -479,7 +497,9 @@
     "CLM-0455-2.2-005": 1,
     "CLM-0455-2.2-006": 1
    },
-   "authored_hash": "828c21408cc1f56dd59589de774948b9342b1eefccab04a70f4ca422899b91a1"
+   "authored_hash": "670f931640f27c1952446ad713c32fbfcd13159de4f77b03c6b43e8ba6f6c01e",
+   "prior_hash": "828c21408cc1f56dd59589de774948b9342b1eefccab04a70f4ca422899b91a1",
+   "repair_note": "Reviewer 2026-10-13: minimum/maximum price corrected to legal direction, with effect only below (ceiling) or above (floor) equilibrium - MISCON 017, P01 Q4, claim 003 and notes block 2.2.1-b4; 005 Define-on-a-heading reworded as State; P02(b) made worth 2 marks; possibly-real firm name replaced; leaked chain labels removed; flashcard answers trimmed for recall."
   },
   {
    "item_id": "ITEM-0455-2.2-015-FEATURE",
@@ -501,7 +521,7 @@
    "mark_tariff": 4,
    "difficulty": 4,
    "prompt": "Explain the features of the key resources allocation decisions that make them unavoidable in an economy.",
-   "canonical_answer": "The features are these. There are three of them - what to produce, how to produce it and for whom to produce it - and their existence is a feature of scarcity itself: with finite resources and unlimited wants, an economy cannot have everything, so the choices must be made somewhere by someone. Each decision names a different scarce thing at stake: the what decision allocates the output of land and materials between competing goods; the how decision allocates workers and machines between competing methods; the for whom decision allocates the finished output between competing claimants. A further feature is that the decisions interlock, since the product chosen limits the methods possible, and the cost of those methods limits what can be offered to consumers. What it includes, finally, is the fact that no system escapes them: a market economy answers the three through prices, and an economy run by central officials answers them through plans, but the questions are answered either way.",
+   "canonical_answer": "There are three decisions - what to produce, how to produce it and for whom - and they exist because of scarcity: with finite resources and unlimited wants, someone must choose. Each allocates something different: what divides resources between goods, how divides them between methods, and for whom divides the output between people. The decisions interlock, because the product chosen limits the methods, and their cost limits who can be served. No system escapes them: markets answer through prices, central planners through plans.",
    "marking_guidance": [
     "Features: the elements required - the three questions, what each allocates, their interlocking and their unavoidability.",
     "What it includes: each feature must be explained, not merely listed."
@@ -522,7 +542,9 @@
     "CLM-0455-2.2-005": 1,
     "CLM-0455-2.2-006": 1
    },
-   "authored_hash": "95fc947bee9dcf3597e4e32442735a30f8207f0dbc60ca93c4a6120ae97a38ba"
+   "authored_hash": "e49f58c2ed59a069401319fd25fa89dde7876e30b7ef519b493bab40f62caf90",
+   "prior_hash": "95fc947bee9dcf3597e4e32442735a30f8207f0dbc60ca93c4a6120ae97a38ba",
+   "repair_note": "Reviewer 2026-10-13: minimum/maximum price corrected to legal direction, with effect only below (ceiling) or above (floor) equilibrium - MISCON 017, P01 Q4, claim 003 and notes block 2.2.1-b4; 005 Define-on-a-heading reworded as State; P02(b) made worth 2 marks; possibly-real firm name replaced; leaked chain labels removed; flashcard answers trimmed for recall."
   },
   {
    "item_id": "ITEM-0455-2.2-009-DEF",
@@ -584,7 +606,7 @@
    "mark_tariff": 6,
    "difficulty": 3,
    "prompt": "Storms keep fishing boats in the port of Walvis Bay for two weeks, and the price of fresh linefish across the town rises. Analyse how the price mechanism works in this situation to deal with the scarcity.",
-   "canonical_answer": "Mechanism: the storms cut the quantity sellers can land, so at the old price the quantity buyers plan to buy exceeds the fish available, and the shortage bids the price up. How the rise works on both sides: the higher price is a signal, telling buyers across Walvis Bay that linefish is scarcer relative to wants than last month; and it is an incentive, because buyers respond by switching some meals to chicken or tinned fish, while restaurants keep menus flexible to protect their margins. Consequence: the price rise therefore rations the scarce catch among the buyers who value it most in money terms, and it also rewards whoever can add supply - the operator who trucks frozen fish from Cape Town reads the higher price and sends a load, because the reward for doing so has risen. So the mechanism deals with scarcity in two directions at once, squeezing demand onto the smaller catch and pulling extra supply in, without any official counting the fish.",
+   "canonical_answer": "The storms cut the catch, so at the old price buyers plan to buy more linefish than is available, and the shortage pushes the price up. The higher price is a signal: it tells buyers that linefish is scarcer relative to wants. It is also an incentive: buyers switch some meals to chicken or tinned fish, and suppliers who can add fish, such as a trader trucking frozen fish from Cape Town, are rewarded for doing so. The price rise therefore rations the smaller catch among the buyers who value it most in money terms while pulling extra supply in, dealing with scarcity without any official counting the fish.",
    "marking_guidance": [
     "Mechanism: how the price rise signals and incentivises on both sides must be explained, because the two directions are the mechanism.",
     "Consequence: therefore rationing of the scarce catch and extra supply pulled in must both follow."
@@ -605,7 +627,9 @@
     "CLM-0455-2.2-008": 1,
     "CLM-0455-2.2-009": 1
    },
-   "authored_hash": "8d6a49a86a0d49a4d9edcd3605ff7bef8a84c04d14cc037de5fced045c47dd1e"
+   "authored_hash": "9ed5c89ceb41ddfb8dfa1e7236c1562ea041c39a3c96c7ad140c0387f098bf02",
+   "prior_hash": "8d6a49a86a0d49a4d9edcd3605ff7bef8a84c04d14cc037de5fced045c47dd1e",
+   "repair_note": "Reviewer 2026-10-13: minimum/maximum price corrected to legal direction, with effect only below (ceiling) or above (floor) equilibrium - MISCON 017, P01 Q4, claim 003 and notes block 2.2.1-b4; 005 Define-on-a-heading reworded as State; P02(b) made worth 2 marks; possibly-real firm name replaced; leaked chain labels removed; flashcard answers trimmed for recall."
   },
   {
    "item_id": "ITEM-0455-2.2-011-APP",
@@ -628,7 +652,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "In a Vietnamese province, poor harvests cut the bean crop while coffee shops in the cities keep expanding. The farm-gate price of beans moves from 38 000 dong to 52 000 dong a kilogram, and growers respond by planting 15 % more beans for next season. Using the figures, explain how the price mechanism is reallocating resources in this province.",
-   "canonical_answer": "The data show the mechanism at work in both its parts. The price moving from 38 000 dong to 52 000 dong a kilogram is the signal: it announces that beans are scarcer relative to the expanding city demand than before. The 15 % rise in plantings is the response to the incentive: because each kilogram now earns growers 14 000 dong more, land, seed and family labour shift into beans rather than the vegetables that competed for the same fields. Therefore the mechanism is reallocating resources towards coffee - more of the province's scarce farmland, workers and water will carry beans next season - while on the buying side the higher price tends to push marginal city shops towards smaller cups or blended drinks. The figures therefore mean that a price change in one market has steered a whole province's planting decisions, with no ministry issuing a single instruction.",
+   "canonical_answer": "The price rising from 38 000 to 52 000 dong a kilogram is the signal: beans have become scarcer relative to growing city demand. The 15 % rise in planting is the response to the incentive: each kilogram now earns growers 52 000 - 38 000 = 14 000 dong more, so land, seed and family labour shift into beans from competing crops. Therefore the price mechanism is moving more of the province's farmland, labour and water into beans, while city buyers cut back, with no ministry issuing an instruction.",
    "marking_guidance": [
     "Context: the figures - the move from 38 000 to 52 000 dong and the 15 % rise in plantings - must be used.",
     "Reasoning: the link from higher price to signal, incentive and reallocation must be made.",
@@ -650,7 +674,9 @@
     "CLM-0455-2.2-009": 1,
     "CLM-0455-2.2-008": 1
    },
-   "authored_hash": "833f19561020c2a226bd36ed1dc738f09e42cf272a19ef19f31ea0158a0e976e"
+   "authored_hash": "6890c6af126bfbe40e31b25561e5db60b2edb23f3f58f3bfd4efe72aeb7130f9",
+   "prior_hash": "833f19561020c2a226bd36ed1dc738f09e42cf272a19ef19f31ea0158a0e976e",
+   "repair_note": "Reviewer 2026-10-13: minimum/maximum price corrected to legal direction, with effect only below (ceiling) or above (floor) equilibrium - MISCON 017, P01 Q4, claim 003 and notes block 2.2.1-b4; 005 Define-on-a-heading reworded as State; P02(b) made worth 2 marks; possibly-real firm name replaced; leaked chain labels removed; flashcard answers trimmed for recall."
   },
   {
    "item_id": "ITEM-0455-2.2-012-CHAIN",
@@ -672,7 +698,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "A drought cuts the millet harvest in the north of Namibia, and the market price of a 10-kilogram bag rises from N$85 to N$140. Analyse the chain of consequences the price mechanism sets off from this rise, for consumers, farm workers and the economy of the region.",
-   "canonical_answer": "Starting point: the initial change is a drought-shrunken millet harvest, so at N$85 a bag the quantity buyers plan to buy far exceeds the quantity sellers hold, and the price moves to N$140. Mechanism: because the higher price signals scarcity, the mechanism works on both sides - some consumers switch to maize meal or bread, while millers and traders read the wider gap between the northern N$140 and prices further south and start moving grain towards the north, where the reward per bag is now greatest. This causes new reallocation: farmers who held back stock release it at the better price, and land that can carry a dry-season crop under irrigation comes into use near Oshakati and Ruacana. Consequence: the results land unevenly across the region - consumers with thin incomes are squeezed hardest, since millet is a staple and substitutes cost money; farm workers gain where planting expands, but lose where the drought itself destroyed fields; the economy of the region sees food spending rise and other spending fall. For whom the mechanism serves first: it reallocates grain towards buyers able to pay N$140, which is why relief agencies, not markets, tend to reach the poorest households in a drought year.",
+   "canonical_answer": "The drought shrinks the millet harvest, so at N$85 a bag buyers want far more than sellers hold, and the price rises to N$140. The higher price signals scarcity: some consumers switch to maize meal or bread, traders move grain north, where the reward per bag is now greatest, and farmers holding stock release it. Consumers on low incomes are squeezed hardest, because millet is a staple; farm workers gain where planting expands but lose where the drought destroyed fields; the region spends more on food and less on other things. Because grain goes first to buyers able to pay N$140, relief agencies, not markets, tend to reach the poorest households.",
    "marking_guidance": [
     "Starting point: the initial change - the drought and the move from N$85 to N$140 a bag - must open the chain.",
     "Mechanism: the signal and incentive working on buyers, traders and stock-holders, because the price movement is what they read.",
@@ -695,7 +721,9 @@
     "CLM-0455-2.2-009": 1,
     "CLM-0455-2.2-010": 1
    },
-   "authored_hash": "500d934c3d6940d8802a14834e9efdcd11d0d318f3daef3ea66fdead896ec7b9"
+   "authored_hash": "be03f0ee8391dddfd969290efe44f86a914df65d9abaecd9679d9094d8b34ff6",
+   "prior_hash": "500d934c3d6940d8802a14834e9efdcd11d0d318f3daef3ea66fdead896ec7b9",
+   "repair_note": "Reviewer 2026-10-13: minimum/maximum price corrected to legal direction, with effect only below (ceiling) or above (floor) equilibrium - MISCON 017, P01 Q4, claim 003 and notes block 2.2.1-b4; 005 Define-on-a-heading reworded as State; P02(b) made worth 2 marks; possibly-real firm name replaced; leaked chain labels removed; flashcard answers trimmed for recall."
   },
   {
    "item_id": "ITEM-0455-2.2-016-FEATURE",
@@ -717,7 +745,7 @@
    "mark_tariff": 4,
    "difficulty": 4,
    "prompt": "Explain the features of the price mechanism that let it answer the key allocation questions.",
-   "canonical_answer": "The features are the signal, the incentive and the reallocation they jointly produce. The signal: a price that rises or falls carries information about scarcity relative to wants, so buyers and producers learn from it without meeting the people on the other side of the market. The incentive: a higher price rewards expansion with more revenue per unit, and a lower price withdraws that reward, so it moves self-interested decisions in the direction of the signal. The reallocation: because producers expand where prices reward them and buyers step back where prices discourage them, land, labour and materials shift between competing uses, which is the mechanism's answer to what to produce; the cost of inputs shapes how to produce, since dearer inputs push producers towards methods that use less of them; and the prices buyers can pay shape for whom to produce. What it includes overall: no central planner is a feature as well, because the whole steering happens through prices alone.",
+   "canonical_answer": "The signal: a rising or falling price carries information about scarcity relative to wants, so buyers and producers learn from it without meeting. The incentive: a higher price rewards expansion with more revenue per unit, and a lower price removes that reward. The reallocation: producers expand where prices reward them, which answers what to produce; dearer inputs push them towards cheaper methods, which answers how; and the prices buyers can pay answer for whom. No central planner is needed: prices do the steering.",
    "marking_guidance": [
     "Features: the elements required - signal, incentive and reallocation - must each be named and explained.",
     "What it includes: the link from each feature to the allocation questions it answers must be made."
@@ -738,7 +766,9 @@
     "CLM-0455-2.2-008": 1,
     "CLM-0455-2.2-010": 1
    },
-   "authored_hash": "821bc871890cbe6b30eb57efb5f4dab8ac8d234962fe5c7d6b021469a4268a82"
+   "authored_hash": "994ffd9f19410a8f2646c02bcc206d7f9412cab93334e862fb9f0a66a125a995",
+   "prior_hash": "821bc871890cbe6b30eb57efb5f4dab8ac8d234962fe5c7d6b021469a4268a82",
+   "repair_note": "Reviewer 2026-10-13: minimum/maximum price corrected to legal direction, with effect only below (ceiling) or above (floor) equilibrium - MISCON 017, P01 Q4, claim 003 and notes block 2.2.1-b4; 005 Define-on-a-heading reworded as State; P02(b) made worth 2 marks; possibly-real firm name replaced; leaked chain labels removed; flashcard answers trimmed for recall."
   },
   {
    "item_id": "ITEM-0455-2.2-P01",
@@ -766,8 +796,8 @@
    "command_word": null,
    "mark_tariff": null,
    "difficulty": 3,
-   "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. In a market system, the allocation of scarce resources is decided mainly by:\nA  government officials\nB  prices emerging between buyers and sellers\nC  the oldest firm in the industry\nD  a rota agreed among sellers\n\n2. A market is in equilibrium when:\nA  the price is at its lowest this year\nB  sellers hold no unsold stock from last year\nC  the quantity buyers plan to buy equals the quantity sellers plan to sell\nD  the government fixes the price\n\n3. At a price below the equilibrium price, a market tends to show:\nA  a shortage\nB  a surplus\nC  unchanged sales\nD  lower costs\n\n4. A minimum price is a limit set:\nA  below the equilibrium price\nB  at the equilibrium price itself\nC  wherever the council chooses each week\nD  above the equilibrium price\n\n5. Which set contains the key resources allocation decisions?\nA  wages, rents, interest\nB  what, how, for whom\nC  exports, imports, aid\nD  land, labour, capital\n\n6. The price mechanism works mainly by:\nA  officials directing each delivery\nB  prices acting as signals and incentives\nC  firms voting on output\nD  buyers queueing in order of arrival\n\n7. The price of a good rises. What tends to happen in a market system?\nA  producers are drawn towards expanding that good\nB  producers immediately abandon the good\nC  buyers plan to buy more of it than before\nD  the government takes over the market\n\n8. A maximum price set below the equilibrium price tends to cause:\nA  a surplus of the good\nB  a shortage of the good\nC  higher revenue for every seller\nD  an immediate move to a new equilibrium",
-   "canonical_answer": "Key: 1 B, 2 C, 3 A, 4 D, 5 B, 6 B, 7 A, 8 B.\n1. B is the market system's own steering; A describes an economy run by central officials, C and D invent arrangements markets do not need.\n2. C is the definition of equilibrium; A confuses equilibrium with a low price, B confuses it with clearing old stock, D confuses it with a controlled price.\n3. Below equilibrium, planned buying exceeds planned selling, so A; B reverses the direction, C assumes the price has no effect, D confuses market outcomes with costs.\n4. A minimum price sits above equilibrium, so D; A describes a maximum price, B makes the limit do nothing, C misses that the direction against equilibrium is what defines it.\n5. B is the standard trio; A lists factor incomes, C lists trade flows, D lists the resources themselves rather than the decisions about them.\n6. Signals and incentives are the mechanism (B); A describes central planning, C invents a voting arrangement, D confuses rationing by queue with the price system.\n7. A higher price rewards expansion, so producers are drawn in (A); B overstates the response, C reverses the demand response to a higher price, D jumps to a policy the mechanism does not imply.\n8. A ceiling below equilibrium leaves planned buying above planned selling, so a shortage (B); A reverses the two limits, C is not guaranteed for sellers who cannot sell at the ceiling, D reverses what a binding ceiling does.",
+   "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. In a market system, the allocation of scarce resources is decided mainly by:\nA  government officials\nB  prices emerging between buyers and sellers\nC  the oldest firm in the industry\nD  a rota agreed among sellers\n\n2. A market is in equilibrium when:\nA  the price is at its lowest this year\nB  sellers hold no unsold stock from last year\nC  the quantity buyers plan to buy equals the quantity sellers plan to sell\nD  the government fixes the price\n\n3. At a price below the equilibrium price, a market tends to show:\nA  a shortage\nB  a surplus\nC  unchanged sales\nD  lower costs\n\n4. A minimum price changes the market outcome only when it is set:\nA  below the equilibrium price\nB  at the equilibrium price itself\nC  wherever the council chooses each week\nD  above the equilibrium price\n\n5. Which set contains the key resources allocation decisions?\nA  wages, rents, interest\nB  what, how, for whom\nC  exports, imports, aid\nD  land, labour, capital\n\n6. The price mechanism works mainly by:\nA  officials directing each delivery\nB  prices acting as signals and incentives\nC  firms voting on output\nD  buyers queueing in order of arrival\n\n7. The price of a good rises. What tends to happen in a market system?\nA  producers are drawn towards expanding that good\nB  producers immediately abandon the good\nC  buyers plan to buy more of it than before\nD  the government takes over the market\n\n8. A maximum price set below the equilibrium price tends to cause:\nA  a surplus of the good\nB  a shortage of the good\nC  higher revenue for every seller\nD  an immediate move to a new equilibrium",
+   "canonical_answer": "Key: 1 B, 2 C, 3 A, 4 D, 5 B, 6 B, 7 A, 8 B.\n1. B is the market system's own steering; A describes an economy run by central officials, C and D invent arrangements markets do not need.\n2. C is the definition of equilibrium; A confuses equilibrium with a low price, B confuses it with clearing old stock, D confuses it with a controlled price.\n3. Below equilibrium, planned buying exceeds planned selling, so A; B reverses the direction, C assumes the price has no effect, D confuses market outcomes with costs.\n4. A floor bites only above equilibrium, so D; A is where a maximum price bites - a floor below equilibrium changes nothing - B also leaves the market price unchanged, and C ignores that the limit's position against equilibrium decides its effect.\n5. B is the standard trio; A lists factor incomes, C lists trade flows, D lists the resources themselves rather than the decisions about them.\n6. Signals and incentives are the mechanism (B); A describes central planning, C invents a voting arrangement, D confuses rationing by queue with the price system.\n7. A higher price rewards expansion, so producers are drawn in (A); B overstates the response, C reverses the demand response to a higher price, D jumps to a policy the mechanism does not imply.\n8. A ceiling below equilibrium leaves planned buying above planned selling, so a shortage (B); A reverses the two limits, C is not guaranteed for sellers who cannot sell at the ceiling, D reverses what a binding ceiling does.",
    "marking_guidance": [
     "Key: one mark per question, eight in total; the correct option for each is listed and each distractor is explained as the specific misunderstanding it catches.",
     "Every distractor traces to a named error: markets confused with central direction, equilibrium confused with low prices or cleared stock, the two price limits crossed, the allocation decisions confused with lists of resources or incomes, a higher price assumed to push buyers towards more purchases."
@@ -787,12 +817,14 @@
    "claims_seen": {
     "CLM-0455-2.2-001": 1,
     "CLM-0455-2.2-002": 1,
-    "CLM-0455-2.2-003": 1,
+    "CLM-0455-2.2-003": 2,
     "CLM-0455-2.2-005": 1,
     "CLM-0455-2.2-008": 1,
     "CLM-0455-2.2-009": 1
    },
-   "authored_hash": "a01b688316f1922dc9c5d9016b4d1c358a2bceff319b40a6885b39340261c672"
+   "authored_hash": "95e93f2bbebe766bf13c40e581836b1e5e1be3136fce26d31cf48f4cf798e3b9",
+   "prior_hash": "a01b688316f1922dc9c5d9016b4d1c358a2bceff319b40a6885b39340261c672",
+   "repair_note": "Reviewer 2026-10-13: minimum/maximum price corrected to legal direction, with effect only below (ceiling) or above (floor) equilibrium - MISCON 017, P01 Q4, claim 003 and notes block 2.2.1-b4; 005 Define-on-a-heading reworded as State; P02(b) made worth 2 marks; possibly-real firm name replaced; leaked chain labels removed; flashcard answers trimmed for recall."
   },
   {
    "item_id": "ITEM-0455-2.2-P02",
@@ -819,10 +851,10 @@
    "command_word": null,
    "mark_tariff": null,
    "difficulty": 5,
-   "prompt": "A radio report from Opuwo, 2026: \"The town's Saturday market is the main food market for the district. Last year the market price of a 12.5-kilogram bag of pearl millet meal was N$95, and traders brought 6 000 bags over the season. This season the price stands at N$150, traders have brought 6 600 bags, and buyers are taking 5 100 bags, leaving traders with unsold stock. The regional council is considering announcing a guaranteed floor of N$160 a bag to protect growers against a second dry year. Millers in the town employ 90 workers, down from 120 last year.\"\n\nTable 1 - Opuwo millet meal market\nlast season price: N$95 per bag\nlast season quantity traded: 6 000 bags\nthis season price: N$150 per bag\nthis season quantity traded: 5 100 bags\ntraders' stock brought this season: 6 600 bags\nmillers' workers last year: 120\nmillers' workers this year: 90\n\n(a) Calculate the number of bags traders currently hold unsold. [1]\n(b) Identify from Table 1 the change in the number of mill workers in Opuwo. [2]\n(c) Explain whether the millet meal market is in equilibrium this season, using the figures. [4]\n(d) Analyse what the council's proposed floor of N$160 a bag would tend to do to the market, using the data as evidence. [6]",
-   "canonical_answer": "(a) 6 600 - 5 100 = 1 500 bags.\n(b) Milling employment fell from 120 workers to 90 workers, a fall of 120 - 90 = 30 workers over the year.\n(c) The market is not in equilibrium. At N$150 a bag, traders brought 6 600 bags while buyers took 5 100, so planned selling exceeds planned buying by 1 500 bags, which is a surplus - the mark of a price above its equilibrium level. Equilibrium would sit at some price below N$150, where the quantity traders are willing to bring meets the quantity buyers plan to take. The comparison with last season supports this: at N$95, 6 000 bags traded with no unsold stock reported, so the market then cleared near that price.\n(d) Expected relationship: a floor set above the current price of N$150 would widen the gap between what traders plan to bring and what buyers plan to take, because a higher guaranteed price raises sellers' willingness to supply while pushing more buyers out of the market. Evidence from the data: the market already carries a surplus of 1 500 bags at N$150, and trade has already fallen from 6 000 to 5 100 bags as the price rose from N$95; the millers' 30 lost workers show the demand side thinning. Analysis: with the floor at N$160, unsold stock would tend to grow beyond 1 500 bags, traders would discount in side channels to shift it, and the council would come under pressure to buy the surplus itself or watch storage costs land on traders; growers protected by the floor gain per bag sold, while the poorest households - already squeezed by the move from N$95 - face an even higher effective price for a staple. Consequence for whom: consumers lose, protected growers gain, the council carries the cost of whatever it does with the surplus. Exception: where a household's buying was already limited by income rather than price, the floor may change little for it, because price was not what held its purchases back.",
+   "prompt": "A radio report from Opuwo, 2026: \"The town's Saturday market is the main food market for the district. Last year the market price of a 12.5-kilogram bag of pearl millet meal was N$95, and traders brought 6 000 bags over the season. This season the price stands at N$150, traders have brought 6 600 bags, and buyers are taking 5 100 bags, leaving traders with unsold stock. The regional council is considering announcing a guaranteed floor of N$160 a bag to protect growers against a second dry year. Millers in the town employ 90 workers, down from 120 last year.\"\n\nTable 1 - Opuwo millet meal market\nlast season price: N$95 per bag\nlast season quantity traded: 6 000 bags\nthis season price: N$150 per bag\nthis season quantity traded: 5 100 bags\ntraders' stock brought this season: 6 600 bags\nmillers' workers last year: 120\nmillers' workers this year: 90\n\n(a) Calculate the number of bags traders currently hold unsold. [1]\n(b) Identify from Table 1 two changes in the millet meal market between last season and this season. [2]\n(c) Explain whether the millet meal market is in equilibrium this season, using the figures. [4]\n(d) Analyse what the council's proposed floor of N$160 a bag would tend to do to the market, using the data as evidence. [6]",
+   "canonical_answer": "(a) 6 600 - 5 100 = 1 500 bags.\n(b) Any two of: the price rose from N$95 to N$150 a bag [1]; the quantity traded fell from 6 000 to 5 100 bags [1]; millers' workers fell from 120 to 90 [1].\n(c) The market is not in equilibrium. At N$150 a bag, traders brought 6 600 bags while buyers took 5 100, so planned selling exceeds planned buying by 1 500 bags, which is a surplus - the mark of a price above its equilibrium level. Equilibrium would sit at some price below N$150, where the quantity traders are willing to bring meets the quantity buyers plan to take. The comparison with last season supports this: at N$95, 6 000 bags traded with no unsold stock reported, so the market then cleared near that price.\n(d) Expected relationship: a floor set above the current price of N$150 would widen the gap between what traders plan to bring and what buyers plan to take, because a higher guaranteed price raises sellers' willingness to supply while pushing more buyers out of the market. Evidence from the data: the market already carries a surplus of 1 500 bags at N$150, and trade has already fallen from 6 000 to 5 100 bags as the price rose from N$95; the millers' 30 lost workers show the demand side thinning. Analysis: with the floor at N$160, unsold stock would tend to grow beyond 1 500 bags, traders would discount in side channels to shift it, and the council would come under pressure to buy the surplus itself or watch storage costs land on traders; growers protected by the floor gain per bag sold, while the poorest households - already squeezed by the move from N$95 - face an even higher effective price for a staple. Overall, consumers lose, protected growers gain, the council carries the cost of whatever it does with the surplus. Exception: where a household's buying was already limited by income rather than price, the floor may change little for it, because price was not what held its purchases back.",
    "marking_guidance": [
-    "Context: parts (a) and (b) must be read from the data; the six-mark part must use the figures as evidence - the 1 500-bag surplus, the fall from 6 000 to 5 100 bags traded, the 30 lost milling jobs.",
+    "Context: parts (a) and (b) must be read from the data, with (b) earning one mark for each of two changes; the six-mark part must use the figures as evidence - the 1 500-bag surplus, the fall from 6 000 to 5 100 bags traded, the 30 lost milling jobs.",
     "One mark per distinct linked statement; quoting a figure alone earns nothing unless the relationship it supports is stated.",
     "Conclusion: part (d) must run expected relationship, then evidence from the data, then analysis with consequences for named parties, then an exception.",
     "For whom: consumers, growers, traders, the council and the millers' workers must be named as the parties the floor touches."
@@ -848,11 +880,13 @@
    "qa_status": "review_required",
    "claims_seen": {
     "CLM-0455-2.2-002": 1,
-    "CLM-0455-2.2-003": 1,
+    "CLM-0455-2.2-003": 2,
     "CLM-0455-2.2-005": 1,
     "CLM-0455-2.2-009": 1
    },
-   "authored_hash": "3e06dd81c21c9d7dd6d909673744825579e9a94adadc4828754eba112bb33d6f"
+   "authored_hash": "e950d0d24edf5da1257f96a27eb69678f7268ce1fcd45dc3efb7e8b645dff72e",
+   "prior_hash": "3e06dd81c21c9d7dd6d909673744825579e9a94adadc4828754eba112bb33d6f",
+   "repair_note": "Reviewer 2026-10-13: minimum/maximum price corrected to legal direction, with effect only below (ceiling) or above (floor) equilibrium - MISCON 017, P01 Q4, claim 003 and notes block 2.2.1-b4; 005 Define-on-a-heading reworded as State; P02(b) made worth 2 marks; possibly-real firm name replaced; leaked chain labels removed; flashcard answers trimmed for recall."
   },
   {
    "item_id": "ITEM-0455-2.2-P03",
@@ -882,7 +916,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "The Owambo region's towns are growing quickly, and food, water and building materials are allocated there through markets.\n(a) Define the price mechanism. [2]\n(b) Explain how prices act as signals and incentives to the buyers and sellers of building materials in these towns. [4]\n(c) Analyse how the market system would tend to reallocate resources in these towns if the growth in population continued. [6]\n(d) Discuss whether markets alone should decide what, how and for whom to produce in these growing towns. [8]",
-   "canonical_answer": "(a) The price mechanism is the way changing prices act as signals of scarcity and as incentives, moving resources between competing uses without any central planner directing them.\n(b) Signals: when cement or roofing becomes scarce relative to the wants of a growing town, the price rises, and that rise tells buyers and sellers across the region that scarcity has tightened without either side meeting the other. Incentives: the higher price rewards traders who truck materials in from Otjiwarongo or Windhoek, because the reward per load has risen, and it pushes some households towards brick or smaller builds, because the cost of the scarce material now bites. So the same price movement works on both sides of the market at once, squeezing some demand out and pulling supply in.\n(c) Mechanism: continued population growth raises the quantity buyers plan to buy of housing, water and food at existing prices, so shortages of space, materials and delivery capacity appear. Because prices tend to rise where planned buying exceeds planned selling, the higher prices signal where the scarcity is worst, and resources move towards it: builders shift from renovating to raising new walls, brickworks run extra shifts, water tanker operators add runs, and workers move towards the towns where wages in these trades are bid up. Consequences land on named parties: households arriving late face the higher prices that the reallocation runs through, landowners near the new stands gain, firms that read the signal early expand and profit, and the government sees tax receipts grow alongside calls for roads and schools. The economy of the region therefore reallocates land, labour and materials towards its growing towns, with no ministry directing a single truck.\n(d) Why markets alone might answer: the market system reads the wants of thousands of separate households far more quickly than a plan could, because every purchase is itself a vote on what to produce; producers expand what is rewarded and drop what is not, so what to produce tends to track what buyers value; and on how to produce, dearer inputs push producers towards methods that waste less, while for whom is answered by what buyers will pay, which at least keeps output flowing to whoever demands it. Why markets alone might not answer: for whom then means income alone, so low-income households in the growing towns may be priced out of water and housing entirely, which is why Namibian towns already keep clinics and schools outside the market; goods no buyer can be charged for, such as street drainage or clean air over the town, tend to be under-provided because no price exists to signal them; and prices ignore costs imposed on others, so a brickyard that smokes out a school may expand anyway. Judgement: on balance markets should carry the main load of what and how, because no planner can match their reach, but not for whom in full, nor for the goods no price can be charged for. The condition the judgement depends on: whether a good can be charged for and whether its price carries its full cost - where either fails, the market answer needs supplementing.",
+   "canonical_answer": "(a) The price mechanism is the way changing prices act as signals of scarcity and as incentives, moving resources between competing uses without any central planner directing them.\n(b) Signals: when cement or roofing becomes scarce relative to the wants of a growing town, the price rises, and that rise tells buyers and sellers across the region that scarcity has tightened without either side meeting the other. Incentives: the higher price rewards traders who truck materials in from Otjiwarongo or Windhoek, because the reward per load has risen, and it pushes some households towards brick or smaller builds, because the cost of the scarce material now bites. So the same price movement works on both sides of the market at once, squeezing some demand out and pulling supply in.\n(c) Continued population growth raises the quantity buyers plan to buy of housing, water and food at existing prices, so shortages of space, materials and delivery capacity appear. Because prices tend to rise where planned buying exceeds planned selling, the higher prices signal where the scarcity is worst, and resources move towards it: builders shift from renovating to raising new walls, brickworks run extra shifts, water tanker operators add runs, and workers move towards the towns where wages in these trades are bid up. The consequences fall on several parties: households arriving late face the higher prices that the reallocation runs through, landowners near the new stands gain, firms that read the signal early expand and profit, and the government sees tax receipts grow alongside calls for roads and schools. The economy of the region therefore reallocates land, labour and materials towards its growing towns, with no ministry directing a single truck.\n(d) Why markets alone might answer: the market system reads the wants of thousands of separate households far more quickly than a plan could, because every purchase is itself a vote on what to produce; producers expand what is rewarded and drop what is not, so what to produce tends to track what buyers value; and on how to produce, dearer inputs push producers towards methods that waste less, while for whom is answered by what buyers will pay, which at least keeps output flowing to whoever demands it. Why markets alone might not answer: for whom then means income alone, so low-income households in the growing towns may be priced out of water and housing entirely, which is why Namibian towns already keep clinics and schools outside the market; goods no buyer can be charged for, such as street drainage or clean air over the town, tend to be under-provided because no price exists to signal them; and prices ignore costs imposed on others, so a brickyard that smokes out a school may expand anyway. Judgement: on balance markets should carry the main load of what and how, because no planner can match their reach, but not for whom in full, nor for the goods no price can be charged for. The condition the judgement depends on: whether a good can be charged for and whether its price carries its full cost - where either fails, the market answer needs supplementing.",
    "marking_guidance": [
     "Parts (a) to (d) carry a model answer each; (d) is level-marked over three bands.",
     "Context: (b) and (c) must stay in the towns' building-materials setting; (c) must trace consequences to named parties.",
@@ -912,7 +946,9 @@
     "CLM-0455-2.2-009": 1,
     "CLM-0455-2.2-010": 1
    },
-   "authored_hash": "c083a12d6867ce03abcd443eee762b570cf3a44bee4206642a8f6b1fcf65d0f6"
+   "authored_hash": "6954339b16a8546178fc952d472ab0d5038603dad5fef67ed8525097d3bdb10f",
+   "prior_hash": "c083a12d6867ce03abcd443eee762b570cf3a44bee4206642a8f6b1fcf65d0f6",
+   "repair_note": "Reviewer 2026-10-13: minimum/maximum price corrected to legal direction, with effect only below (ceiling) or above (floor) equilibrium - MISCON 017, P01 Q4, claim 003 and notes block 2.2.1-b4; 005 Define-on-a-heading reworded as State; P02(b) made worth 2 marks; possibly-real firm name replaced; leaked chain labels removed; flashcard answers trimmed for recall."
   },
   {
    "item_id": "ITEM-0455-2.2-P04",

@@ -60,9 +60,11 @@
     "AO1"
    ],
    "claims_seen": {
-    "CLM-0455-6.2-009": 1
+    "CLM-0455-6.2-009": 2
    },
-   "authored_hash": "54aedae9993a151e77437e0b6272637e69cfadabd09713c17fb2970bd06c9761"
+   "authored_hash": "54aedae9993a151e77437e0b6272637e69cfadabd09713c17fb2970bd06c9761",
+   "prior_hash": "54aedae9993a151e77437e0b6272637e69cfadabd09713c17fb2970bd06c9761",
+   "reviewed_unchanged": "Re-read after CLM-0455-6.2-009 dropped an authoring label; the block already teaches the same boundary and test."
   },
   {
    "block_id": "6.2.3-b4",
@@ -97,10 +99,12 @@
     "AO2"
    ],
    "claims_seen": {
-    "CLM-0455-6.2-011": 1,
+    "CLM-0455-6.2-011": 2,
     "CLM-0455-6.2-010": 1
    },
-   "authored_hash": "7b3fed05c2387d5d3d46a15451f2e4bfc1df3247c3aa094df6e5bbe6f04ad260"
+   "authored_hash": "7b3fed05c2387d5d3d46a15451f2e4bfc1df3247c3aa094df6e5bbe6f04ad260",
+   "prior_hash": "7b3fed05c2387d5d3d46a15451f2e4bfc1df3247c3aa094df6e5bbe6f04ad260",
+   "reviewed_unchanged": "Re-read after CLM-0455-6.2-011 dropped an authoring label and gained a possessive; the block already teaches the same levels."
   },
   {
    "block_id": "6.2.3-b6",

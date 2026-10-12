@@ -1,7 +1,7 @@
 {
   "qa_report_id": "QA-cie-0455-igcse-2026-2.10",
   "build_id": "cie-0455-igcse-2026/topic-2.10",
-  "generated_at": "2026-10-06T20:10:12Z",
+  "generated_at": "2026-10-12T22:54:15Z",
   "deterministic_checks": [
     {
       "check_id": "C-00",
@@ -210,7 +210,7 @@
     {
       "check_id": "C-26",
       "status": "pass",
-      "message": "[RS-09 Word budget] All 3 content units sit inside their declared word budget (1308 words total).",
+      "message": "[RS-09 Word budget] All 3 content units sit inside their declared word budget (1301 words total).",
       "affected_ids": []
     },
     {
@@ -222,7 +222,7 @@
     {
       "check_id": "C-28",
       "status": "pass",
-      "message": "[RS-32 Packet hash manifest] Critic-packet hash manifest written for 16 files to topics/2.10/packet.sha256; the manifest's own SHA-256 is detached in packet.sha256.hash (d1b894e4dba51c69) so the whole packet is verifiable.",
+      "message": "[RS-32 Packet hash manifest] Critic-packet hash manifest written for 16 files to topics/2.10/packet.sha256; the manifest's own SHA-256 is detached in packet.sha256.hash (0a6e23de15f2b743) so the whole packet is verifiable.",
       "affected_ids": []
     },
     {
@@ -286,7 +286,7 @@
     "claim_count": 12,
     "content_unit_count": 3,
     "learning_item_count": 14,
-    "word_count": 1308
+    "word_count": 1301
   },
   "release_decision": "publish",
   "notes": [

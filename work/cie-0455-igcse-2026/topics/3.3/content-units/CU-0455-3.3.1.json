@@ -33,7 +33,7 @@
    "block_id": "3.3.1-b2",
    "block_type": "definition",
    "heading": "What is being chosen",
-   "text": "An occupation is a person's regular type of work - the job they train for and do, such as fitting machines or teaching. Choosing one means weighing the wage on offer, the pay for a period of work, against non-wage factors: the skills and qualifications a person already holds, the training a job adds, working conditions and hours, security of employment, distance from home and family, personal interest and aptitude, and the status a job carries. The work on offer sits in the three sectors named in topic 1.3 - taking materials from nature, making things, or providing services.",
+   "text": "An occupation is a person's regular type of work - the job they train for and do, such as fitting machines or teaching. Choosing one means weighing the wage on offer, the pay for a period of work, against non-wage factors: the skills and qualifications a person already holds, the training a job adds, working conditions and hours, security of employment, distance from home and family, personal interest and aptitude, and the status a job carries. The work on offer sits in the three sectors of topic 3.5 - taking materials from nature, making things, or providing services.",
    "claim_ids": [
     "CLM-0455-3.3-001",
     "CLM-0455-3.3-002"
@@ -46,7 +46,9 @@
     "CLM-0455-3.3-001": 1,
     "CLM-0455-3.3-002": 1
    },
-   "authored_hash": "717b5d71e63e831f3408fd3e47f55e324d6aff28cd560b7f2ccbf1313a2677d1"
+   "authored_hash": "4455abeb3c3467612e8977620ed511c21b4d70fda3fdcf4b08945cefd09f8693",
+   "prior_hash": "3c1c3b256310091cd67053f12adcba598d53d736bd12f252ea26f1ab07506f5d",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, replaced an artificial Define prompt on the syllabus heading, removed leaked authoring labels, corrected two sector cross-references (topic 3.5, not 1.3)"
   },
   {
    "block_id": "3.3.1-b3",
@@ -90,7 +92,7 @@
    "block_id": "3.3.1-b5",
    "block_type": "misconception",
    "heading": "Workers are classified by their industry, not by rank",
-   "text": "Examination answers sometimes label people \"primary workers\" as though primary described the worker. The primary, secondary and tertiary labels classify industries by what they do: fishing off Walvis Bay takes materials from nature, Oshakati Textiles makes things, a lodge at Etosha provides services. A worker belongs to a sector through the industry that employs them, and \"primary\" names the sector, not the worker's seniority or importance. The test: ask what the industry does with materials - takes them from nature, turns them into products, or supplies services - and that names the sector the worker sits in.",
+   "text": "Learners sometimes label people \"primary workers\" as though primary described the worker. The primary, secondary and tertiary labels classify industries by what they do: fishing off Walvis Bay takes materials from nature, Oshakati Textiles makes things, a lodge at Etosha provides services. A worker belongs to a sector through the industry that employs them, and \"primary\" names the sector, not the worker's seniority or importance. The test: ask what the industry does with materials - takes them from nature, turns them into products, or supplies services - and that names the sector the worker sits in.",
    "claim_ids": [
     "CLM-0455-3.3-016"
    ],
@@ -101,7 +103,9 @@
    "claims_seen": {
     "CLM-0455-3.3-016": 1
    },
-   "authored_hash": "de916731fa2a3bdc09bfb1e1edeeb190953ebdda7078689768a90210ba3d17f1"
+   "authored_hash": "4d9fc5a7fa79a034c234f2b0c326bdd2c2b2192330616986cfe86c453ee54738",
+   "prior_hash": "de916731fa2a3bdc09bfb1e1edeeb190953ebdda7078689768a90210ba3d17f1",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, replaced an artificial Define prompt on the syllabus heading, removed leaked authoring labels, corrected two sector cross-references (topic 3.5, not 1.3)"
   },
   {
    "block_id": "3.3.1-b6",
@@ -121,5 +125,5 @@
    "authored_hash": "fe215fe10e6c57d43c1b85dfb0e30eacf796963742d530f9c6fa74f70ea28631"
   }
  ],
- "word_count": 551
+ "word_count": 549
 }

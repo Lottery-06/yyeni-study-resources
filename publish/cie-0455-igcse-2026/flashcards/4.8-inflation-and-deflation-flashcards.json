@@ -24,7 +24,7 @@
    "mark_tariff": 2,
    "difficulty": 1,
    "prompt": "Define inflation.",
-   "canonical_answer": "Inflation is a sustained rise in the general price level of an economy over a period, usually a year, so that a unit of money buys fewer goods and services than before. Two creditable elements: the general price level, and the sustained rise over a period.",
+   "canonical_answer": "Inflation is a sustained rise in the general price level of an economy over a period, usually a year, so that a unit of money buys fewer goods and services than before.",
    "marking_guidance": [
     "Precise definition: the meaning must be stated exactly - what the term is, and what it covers."
    ],
@@ -43,7 +43,9 @@
    "claims_seen": {
     "CLM-0455-4.8-001": 1
    },
-   "authored_hash": "cb441712ddc4ca8205db1dfb4201da10828106a4316097acbafe4516badcc7b6",
+   "authored_hash": "067e8e5a7ee39320f88b4a6b644d3a49d9cdf3f4a84c22d32fa1e93bdc52e162",
+   "prior_hash": "cb441712ddc4ca8205db1dfb4201da10828106a4316097acbafe4516badcc7b6",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; 'Two creditable elements' and label chains removed; P02(e) wage pass-through corrected to cost-push; 4.8-006 answer no longer invents a N$30 000 basket; 4.8-017 'halving' corrected; topic cross-references corrected (price stability aim is 4.2, current account is 6.4).",
    "objective_titles": [
     "definition of inflation and deflation"
    ]
@@ -70,7 +72,7 @@
    "mark_tariff": 2,
    "difficulty": 1,
    "prompt": "At a Katutura market stall, the price of a loaf of bread rises from N$10 to N$12 in one month. A learner says the economy therefore has inflation. Identify the features of inflation that a rise in one good's price does not show.",
-   "canonical_answer": "The features the example misses: inflation is a rise in the general price level, the cost of the whole basket of goods and services a typical household buys, and not the price of one good; it is sustained over a period rather than a single month's change in one stall's price; and other prices may hold or fall while bread rises, leaving the general level unchanged. A further feature the learner would miss: a slower rise in prices is not deflation - the general level must actually fall before deflation is the right word.",
+   "canonical_answer": "Inflation is a rise in the general price level, the cost of the whole basket a typical household buys, not the price of one good. It is sustained over a period, not one month's change, and other prices may hold or fall while bread rises.",
    "marking_guidance": [
     "Features: what it includes - each characteristic named and separated; a definition restated is not a features answer."
    ],
@@ -92,7 +94,9 @@
     "CLM-0455-4.8-003": 1,
     "CLM-0455-4.8-004": 1
    },
-   "authored_hash": "599d99197ca530fe27cd1ef6f7e0d2d0efcef61b90aebd07db05e7ae263a03f8",
+   "authored_hash": "14624820854180c814cc6d52e1cc05eb4bd5530ac2a3f291dc11ed05a810e8b3",
+   "prior_hash": "599d99197ca530fe27cd1ef6f7e0d2d0efcef61b90aebd07db05e7ae263a03f8",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; 'Two creditable elements' and label chains removed; P02(e) wage pass-through corrected to cost-push; 4.8-006 answer no longer invents a N$30 000 basket; 4.8-017 'halving' corrected; topic cross-references corrected (price stability aim is 4.2, current account is 6.4).",
    "objective_titles": [
     "definition of inflation and deflation"
    ]
@@ -116,7 +120,7 @@
    "mark_tariff": 2,
    "difficulty": 2,
    "prompt": "Define the Consumer Prices Index (CPI).",
-   "canonical_answer": "The Consumer Prices Index is a measure of the general price level: it tracks the cost of a fixed basket of goods and services bought by a typical household, with each item weighted by the share of household spending it takes. Two creditable elements: the fixed basket, and the weighting by spending shares.",
+   "canonical_answer": "The Consumer Prices Index measures the general price level by tracking the cost of a fixed basket of goods and services bought by a typical household, with each item weighted by its share of household spending.",
    "marking_guidance": [
     "Precise definition: the meaning must be stated exactly - what the term is, and what it covers."
    ],
@@ -135,7 +139,9 @@
    "claims_seen": {
     "CLM-0455-4.8-005": 1
    },
-   "authored_hash": "28ffb407134d53521321d45dbab3622694817afb4b5bfe39bcb38d99b7a77d97",
+   "authored_hash": "cd9742a8f2c89a4a88fc3d384d52b93448ccc24f876393bc3de7b67e0f55cb93",
+   "prior_hash": "28ffb407134d53521321d45dbab3622694817afb4b5bfe39bcb38d99b7a77d97",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; 'Two creditable elements' and label chains removed; P02(e) wage pass-through corrected to cost-push; 4.8-006 answer no longer invents a N$30 000 basket; 4.8-017 'halving' corrected; topic cross-references corrected (price stability aim is 4.2, current account is 6.4).",
    "objective_titles": [
     "measurement of inflation and deflation"
    ]
@@ -159,7 +165,7 @@
    "mark_tariff": 1,
    "difficulty": 2,
    "prompt": "The Consumer Prices Index of an economy stood at 120.0 last year and 126.0 this year. Calculate the economy's yearly rate of inflation.",
-   "canonical_answer": "Formula: yearly inflation rate = (CPI this year - CPI last year) / CPI last year x 100. Substitution, step one: 126.0 - 120.0 = 6.0 index points. Step two: 6.0 / 120.0 = 0.05. Step three: 0.05 x 100 = 5. Answer with units: 5% a year.",
+   "canonical_answer": "Inflation rate = (CPI this year - CPI last year) / CPI last year x 100. Here 126.0 - 120.0 = 6.0 index points, 6.0 / 120.0 = 0.05, and 0.05 x 100 = 5, so the rate of inflation is 5% a year.",
    "marking_guidance": [
     "Formula: the yearly inflation rate formula must be stated or used.",
     "Substitution: the working shows the figures put into the formula, step by step.",
@@ -180,7 +186,9 @@
    "claims_seen": {
     "CLM-0455-4.8-006": 1
    },
-   "authored_hash": "434d13a036846ae8b8c228e2836fcc291f7e4e6e91d869c4c9421e89ac165df9",
+   "authored_hash": "8a0ad10ef101c1b2196fd0b198e986504607a20672d9924675c6530141825a1c",
+   "prior_hash": "434d13a036846ae8b8c228e2836fcc291f7e4e6e91d869c4c9421e89ac165df9",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; 'Two creditable elements' and label chains removed; P02(e) wage pass-through corrected to cost-push; 4.8-006 answer no longer invents a N$30 000 basket; 4.8-017 'halving' corrected; topic cross-references corrected (price stability aim is 4.2, current account is 6.4).",
    "objective_titles": [
     "measurement of inflation and deflation"
    ]
@@ -207,7 +215,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "In one year an economy's Consumer Prices Index rose by 5%. Within the basket, food prices rose 12%, bus fares rose 6%, clothing rose 2% and electronics fell 3%. Explain what the data shows about the general price level and the prices of individual goods.",
-   "canonical_answer": "What the data shows is a general price level rising while the items inside it move in different directions, and one item moving against the trend: the index rose 5% while food rose 12% and electronics fell 3%. Supporting evidence by comparison: the spread runs from a 12% rise for food to a 3% fall for electronics, with bus fares at 6% and clothing at 2% between them. Why: the explanation of the relationship is that the index is an average weighted by spending shares, so it conceals the spread - a household spending a large share of its income on food faces a much faster rise in its cost of living than 5%, and a household buying electronics sees part of its basket get cheaper. However, the exception shows the reading matters more than the headline: a good can fall in price during a year of rising prices in general, so the 5% figure is an average and not a description of what happened to any single item.",
+   "canonical_answer": "The general price level rose 5%, but the items inside it moved differently. Food rose 12% and bus fares 6%, while clothing rose 2% and electronics fell 3%. The CPI is an average weighted by spending shares, so it hides this spread: a household spending a large share of its income on food faces a rise in its cost of living well above 5%. However, a good can fall in price in a year when prices in general rise, so the 5% describes no single item.",
    "marking_guidance": [
     "What the data shows: the relationship between the figures must be stated before anything else.",
     "Supporting evidence: a comparison of two or more items in the data, with their figures.",
@@ -231,7 +239,9 @@
     "CLM-0455-4.8-007": 1,
     "CLM-0455-4.8-008": 1
    },
-   "authored_hash": "7bc145e20cc318a7c0157863dc749f3359659f81b2e4172cada8d885ddd55ea5",
+   "authored_hash": "22d22dd7c74ed5eb663c5a92b6b9f1c160e4d152e5431d352ae74f6e1c009c60",
+   "prior_hash": "5b13911a311cdd5d393e7261654c1e9ce54ed6811615ba3bba9ffd418db9c67d",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed to the word caps; wording kept clear of the price-revenue mechanism.",
    "objective_titles": [
     "measurement of inflation and deflation"
    ]
@@ -257,7 +267,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "A retiree in Windhoek lives on a pension fixed at N$120 000 a year. The Consumer Prices Index rises from 120.0 to 126.0 while the pension is unchanged. Using the figures, explain what happens to the quantity of goods the pension buys.",
-   "canonical_answer": "The figures show a fixed money income against a rising index: a basket of goods costing N$30 000 at an index of 120.0 costs more at 126.0. The multiplier is 126.0 / 120.0 = 1.05, so the same basket now costs 1.05 x N$30 000 = N$31 500, a rise of N$31 500 - N$30 000 = N$1 500. Because the pension is fixed at N$120 000, it no longer buys what it bought: where prices rose 5% and the pension rose 0%, the pension buys fewer goods than a year before, and the retiree must cut some purchases or replace dearer items. Therefore the figures mean the real value of the pension - the quantity of goods it buys - has fallen, even though its money figure stayed the same.",
+   "canonical_answer": "Prices rose by 126.0 / 120.0 = 1.05, which is 5%. The pension stays at N$120 000, so measured in last year's prices it is worth N$120 000 / 1.05 = N$114 286, about N$5 714 less. Because each dollar now buys fewer goods, the retiree must cut some purchases. Therefore the real value of the pension, the quantity of goods it buys, has fallen by about 5% even though its money value is unchanged.",
    "marking_guidance": [
     "Context: the figures in the prompt must be used - no answer without them.",
     "Reasoning: the link from the figures to the concept must be written out, because figures stated without the link earn nothing.",
@@ -279,7 +289,9 @@
     "CLM-0455-4.8-005": 1,
     "CLM-0455-4.8-006": 1
    },
-   "authored_hash": "ff26a4e5b5811521d54b6bd8a2077dc7d46f838fa52df5b1bd77903111cf30fe",
+   "authored_hash": "28b34f0d66f44763a0e98e5f72d4b882a9f87fcac8a6d62f9dcff998937fe483",
+   "prior_hash": "ff26a4e5b5811521d54b6bd8a2077dc7d46f838fa52df5b1bd77903111cf30fe",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; 'Two creditable elements' and label chains removed; P02(e) wage pass-through corrected to cost-push; 4.8-006 answer no longer invents a N$30 000 basket; 4.8-017 'halving' corrected; topic cross-references corrected (price stability aim is 4.2, current account is 6.4).",
    "objective_titles": [
     "measurement of inflation and deflation"
    ]
@@ -303,7 +315,7 @@
    "mark_tariff": 2,
    "difficulty": 3,
    "prompt": "Define demand-pull inflation.",
-   "canonical_answer": "Demand-pull inflation is a rise in the general price level caused by total spending in the economy growing faster than the economy's capacity to produce, so buyers compete for scarce goods and sellers raise prices. Two creditable elements: spending outgrowing capacity, and prices pulled up by that competition.",
+   "canonical_answer": "Demand-pull inflation is a rise in the general price level caused by total spending in the economy growing faster than its capacity to produce, so buyers compete for scarce goods and sellers raise prices.",
    "marking_guidance": [
     "Precise definition: the meaning must be stated exactly - what the term is, and what it covers."
    ],
@@ -322,7 +334,9 @@
    "claims_seen": {
     "CLM-0455-4.8-009": 1
    },
-   "authored_hash": "355ecec350de874e488f18d33eae5588b5ce0f1eef539f25b05e37ce0f346c70",
+   "authored_hash": "57de33b12259a77397a8ba45687a55e7b55874016cf8e9a937dbadcc394cb356",
+   "prior_hash": "355ecec350de874e488f18d33eae5588b5ce0f1eef539f25b05e37ce0f346c70",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; 'Two creditable elements' and label chains removed; P02(e) wage pass-through corrected to cost-push; 4.8-006 answer no longer invents a N$30 000 basket; 4.8-017 'halving' corrected; topic cross-references corrected (price stability aim is 4.2, current account is 6.4).",
    "objective_titles": [
     "causes of inflation and deflation"
    ]
@@ -346,7 +360,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "In one year, total spending in an economy grows by 8% while its capacity to produce grows by 2%. Analyse how demand-pull inflation is likely to develop, and who gains and who loses as it does.",
-   "canonical_answer": "Starting point: total spending grows 8% in the year while capacity to produce grows 2%, so buyers arrive faster than goods can be supplied. Mechanism: because buyers compete for the scarce goods, sellers find they can raise prices without losing sales - lodge rooms in a full Etosha season are priced up because visitors bid for the last of them - and this causes the general price level to rise as the shortage spreads through the basket. Consequence: therefore the extra spending partly turns into higher prices rather than higher output, and the economy ends the year with prices risen by more than capacity grew; where the rise continues, wage claims follow prices and the rise feeds itself. For whom: sellers of scarce goods and owners of assets that keep pace gain; consumers on fixed money incomes and savers holding money lose buying power, and workers whose pay lags prices lose while the rise runs.",
+   "canonical_answer": "Total spending grows 8% while capacity grows 2%, so buyers want more than firms can supply. Because buyers compete for the scarce goods, sellers can raise prices without losing sales, as lodges do when Etosha rooms run short in a busy season, and the general price level rises as shortages spread through the basket. Part of the extra spending therefore becomes higher prices rather than more output, and if workers then win higher wages to keep up, the rise can feed itself. Sellers of scarce goods gain, while savers holding money, households on fixed incomes and workers whose pay lags behind prices lose buying power.",
    "marking_guidance": [
     "Starting point: the initial change must be stated, as a when or an if.",
     "Mechanism: the causal link must be written out, because this causes that, step by step.",
@@ -368,7 +382,9 @@
    "claims_seen": {
     "CLM-0455-4.8-009": 1
    },
-   "authored_hash": "21545e77533377a7e2fb806c10a96c23c7b35393c9ea605551c83d8e0d4347bc",
+   "authored_hash": "759d79d9bd0a7d2fc2048a2e2cda7a0cef786c81d415305f90e6b4e095e2f73d",
+   "prior_hash": "21545e77533377a7e2fb806c10a96c23c7b35393c9ea605551c83d8e0d4347bc",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; 'Two creditable elements' and label chains removed; P02(e) wage pass-through corrected to cost-push; 4.8-006 answer no longer invents a N$30 000 basket; 4.8-017 'halving' corrected; topic cross-references corrected (price stability aim is 4.2, current account is 6.4).",
    "objective_titles": [
     "causes of inflation and deflation"
    ]
@@ -393,7 +409,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "The price of diesel rises from N$20 to N$25 a litre, and haulage firms pass the rise on to the shops they supply. Using the figures, explain how this is likely to lead to cost-push inflation in the economy.",
-   "canonical_answer": "The figures show a rise in an input cost: the diesel rise is N$25 - N$20 = N$5 a litre, which is N$5 / N$20 = 0.25 of the old price, or 25% dearer fuel. Because haulage moves most goods to market, the cost of getting food and stock to shops rises with it, and this causes shop prices to rise as firms pass the extra cost on - with total spending unchanged, this is cost-push inflation rather than demand-pull. Therefore the general price level rises because costs rose first, and the shop prices follow the fuel figure upward; where wages then chase the higher prices, the cost push spreads further.",
+   "canonical_answer": "Diesel rises by N$25 - N$20 = N$5 a litre, and N$5 / N$20 = 0.25, a 25% rise. Haulage firms' costs rise and they pass this on, so moving food and stock to shops costs more and shops raise their prices. Prices rise because costs rose first, with total spending unchanged, so this is cost-push inflation. Therefore, as many goods travel by road, the fuel rise is likely to lift the general price level, not just one price.",
    "marking_guidance": [
     "Context: the figures in the prompt must be used - no answer without them.",
     "Reasoning: the link from the figures to the concept must be written out, because figures stated without the link earn nothing.",
@@ -414,7 +430,9 @@
    "claims_seen": {
     "CLM-0455-4.8-010": 1
    },
-   "authored_hash": "9b37a029af9dd4d07fefcc6e1a590de5a75fe8f240453f2fb2297c8b077bf541",
+   "authored_hash": "26cb91fd4429395876b09702eb2a4e25a834dd64450eb653c3dabecc1060b895",
+   "prior_hash": "9b37a029af9dd4d07fefcc6e1a590de5a75fe8f240453f2fb2297c8b077bf541",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; 'Two creditable elements' and label chains removed; P02(e) wage pass-through corrected to cost-push; 4.8-006 answer no longer invents a N$30 000 basket; 4.8-017 'halving' corrected; topic cross-references corrected (price stability aim is 4.2, current account is 6.4).",
    "objective_titles": [
     "causes of inflation and deflation"
    ]
@@ -438,7 +456,7 @@
    "mark_tariff": 2,
    "difficulty": 3,
    "prompt": "Define the real value of a sum of money.",
-   "canonical_answer": "The real value of a sum of money is the quantity of goods and services it will buy. Where the general price level rises, the same money figure buys fewer goods, so its real value falls; where the general price level falls, the same money figure buys more, so its real value rises. Two creditable elements: goods bought rather than the money figure, and the movement against the general price level.",
+   "canonical_answer": "The real value of a sum of money is the quantity of goods and services it will buy. When the general price level rises, the same sum buys fewer goods, so its real value falls; when the price level falls, its real value rises.",
    "marking_guidance": [
     "Precise definition: the meaning must be stated exactly - what the term is, and what it covers."
    ],
@@ -457,7 +475,9 @@
    "claims_seen": {
     "CLM-0455-4.8-013": 1
    },
-   "authored_hash": "cd9b9ffcd6bea3286132054006a9a683d211c809b8edcebfbc300ac84bbd9f12",
+   "authored_hash": "9c5a071e7e41804d211e0f47845b75514ad589df2fe4ff7073c013b531dc0290",
+   "prior_hash": "cd9b9ffcd6bea3286132054006a9a683d211c809b8edcebfbc300ac84bbd9f12",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; 'Two creditable elements' and label chains removed; P02(e) wage pass-through corrected to cost-push; 4.8-006 answer no longer invents a N$30 000 basket; 4.8-017 'halving' corrected; topic cross-references corrected (price stability aim is 4.2, current account is 6.4).",
    "objective_titles": [
     "consequences of inflation and deflation"
    ]
@@ -482,7 +502,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "The general price level of an economy begins to fall by 2% a year, and households start to expect further falls. Analyse how this is likely to affect spending, output, jobs and a household repaying a N$50 000 loan.",
-   "canonical_answer": "Starting point: the general price level falls 2% a year and buyers expect the fall to continue. Mechanism: because buyers expect lower prices later, they postpone purchases they can put off - a new coat, furniture, a better phone - and this causes firms' sales to fall even though nothing has become worse; firms then cut prices further to win the buyers there are, which deepens the expectation. Consequence: therefore firms cut output and lay off workers; the workers who lose income spend less, so prices fall again, and the economy can settle into a self-feeding fall in spending. For whom: consumers who keep their jobs gain cheaper goods, workers who lose their posts carry the cost, firms face falling sales and postponement, and the household with the N$50 000 loan finds the debt heavier in real terms - the money figure is fixed while each unit of it buys more, so more goods must be given up to service it.",
+   "canonical_answer": "With prices falling 2% a year and expected to keep falling, buyers postpone purchases they can put off, such as furniture or a new phone. Firms' sales fall, so they cut prices further, cut output and lay off workers. Workers who lose income spend less, so prices fall again and the fall can feed itself. Meanwhile the household's N$50 000 loan stays fixed in money while each dollar buys more, so repaying it means giving up more goods, and the household cuts its spending further. Consumers who keep their jobs gain cheaper goods, but laid-off workers, firms and borrowers lose.",
    "marking_guidance": [
     "Starting point: the initial change must be stated, as a when or an if.",
     "Mechanism: the causal link must be written out, because this causes that, step by step.",
@@ -505,7 +525,9 @@
     "CLM-0455-4.8-015": 1,
     "CLM-0455-4.8-011": 1
    },
-   "authored_hash": "eec012a8f16712c486d381c67972f794369f358dff6e5f5855b76e03f6827e30",
+   "authored_hash": "3b7205af60bcfba32ddb9f5c9c5b5b2dcf62b6a6231b870495910bbdcf4ab89f",
+   "prior_hash": "eec012a8f16712c486d381c67972f794369f358dff6e5f5855b76e03f6827e30",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; 'Two creditable elements' and label chains removed; P02(e) wage pass-through corrected to cost-push; 4.8-006 answer no longer invents a N$30 000 basket; 4.8-017 'halving' corrected; topic cross-references corrected (price stability aim is 4.2, current account is 6.4).",
    "objective_titles": [
     "consequences of inflation and deflation"
    ]
@@ -530,7 +552,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Tulonga lends a neighbour N$10 000 at a fixed 6% a year in money terms. During the year of the loan, prices in the economy rise by 9%. Using the figures, explain who gains and who loses from the loan in real terms.",
-   "canonical_answer": "The figures show a money return below the rise in prices: the loan earns 6% a year in money while prices rise 9%, so the buying power of the repayment is down by 9% - 6% = 3% on the year. Because the interest does not make up the rise in prices, Tulonga is repaid a sum that buys less than the sum lent would have bought, and therefore loses in real terms: the real return is negative. The neighbour gains the mirror image - repaying a fixed money debt out of prices that have risen 9% means giving up fewer goods than the loan was worth - so where inflation is unexpected, the loan shifts buying power from the lender to the borrower without either signing for that.",
+   "canonical_answer": "Tulonga is repaid N$10 000 x 1.06 = N$10 600, but to keep up with 9% inflation she would need N$10 000 x 1.09 = N$10 900. The repayment buys less than the sum she lent, so her real return is negative, roughly 3% a year below zero. Tulonga, the lender, therefore loses in real terms. The neighbour gains, because the fixed money debt is repaid in money that buys less than when it was borrowed.",
    "marking_guidance": [
     "Context: the figures in the prompt must be used - no answer without them.",
     "Reasoning: the link from the figures to the concept must be written out, because figures stated without the link earn nothing.",
@@ -551,7 +573,9 @@
    "claims_seen": {
     "CLM-0455-4.8-013": 1
    },
-   "authored_hash": "f285db5fede245b0bd5cd0f18e75be5a36ab77b1f0f5b16dab1b9db5e97aca5b",
+   "authored_hash": "de27d75fd117d259931d8a9e1e0137f00a5836ac2924c1079b70a86b1fd26e38",
+   "prior_hash": "f285db5fede245b0bd5cd0f18e75be5a36ab77b1f0f5b16dab1b9db5e97aca5b",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; 'Two creditable elements' and label chains removed; P02(e) wage pass-through corrected to cost-push; 4.8-006 answer no longer invents a N$30 000 basket; 4.8-017 'halving' corrected; topic cross-references corrected (price stability aim is 4.2, current account is 6.4).",
    "objective_titles": [
     "consequences of inflation and deflation"
    ]
@@ -574,8 +598,8 @@
    "command_word": "Define",
    "mark_tariff": 2,
    "difficulty": 4,
-   "prompt": "Define monetary policy as it is used against inflation.",
-   "canonical_answer": "Monetary policy is the use of interest rates and measures to control the growth of the money supply, carried out by the central bank, to influence the economy's performance; used against inflation, it raises interest rates so that borrowing becomes dearer and the growth of total spending slows. Two creditable elements: the central bank as the actor, and the interest-rate route to slower spending growth.",
+   "prompt": "Define monetary policy and state how it is typically used against inflation.",
+   "canonical_answer": "Monetary policy is the use of changes in interest rates, the money supply and the foreign exchange rate, usually by the central bank, to influence the economy. Against inflation it typically raises interest rates, so borrowing becomes dearer and spending grows more slowly.",
    "marking_guidance": [
     "Precise definition: the meaning must be stated exactly - what the term is, and what it covers."
    ],
@@ -594,7 +618,9 @@
    "claims_seen": {
     "CLM-0455-4.8-017": 1
    },
-   "authored_hash": "94d280c581a0595fda19dda95ed3f44e795496a36a6b8eb43bcd270ce890a9ef",
+   "authored_hash": "b42691832635b494a866f5d6b47a8448868994aa4f7744006f397ea46a0e1b7c",
+   "prior_hash": "44ccac796a4b2832ea36dec6359361eaf10df43f8e5628328a8d87cad618e16e",
+   "repair_note": "Reviewer: removed syllabus-heading qualifiers from Define prompts, distinguished prompts duplicated across topics, and replaced the leaked 'for whom:' label in the essay plan",
    "objective_titles": [
     "policies to control inflation and deflation"
    ]
@@ -619,7 +645,7 @@
    "mark_tariff": 6,
    "difficulty": 4,
    "prompt": "To slow a 6% yearly climb in prices driven by fast credit growth, the central bank raises its policy interest rate. Analyse the benefits of using an interest-rate rise to control inflation.",
-   "canonical_answer": "A benefit is that the measure is well aimed at the cause: because prices are climbing on the back of fast credit growth, dearer borrowing works on exactly that, and this leads to slower growth of the economy's whole outlay and so to gentler price moves - the demand-pull pressure eases at its source. A second benefit is reach: the rate rise works through the whole banking system at once, so households and firms across the economy feel it through their loan and deposit rates within days, which a measure aimed at one region or one industry cannot match. A third benefit is protection of buying power: where the climb in prices slows, savers and households on fixed money incomes keep more of what their money buys, so the gain lands on those the inflation was quietly taxing. For whom: consumers face gentler price moves, savers gain better-rewarded deposits, and the economy gains a steadier background for planning; the government gains ground on the price stability aim.",
+   "canonical_answer": "The rate rise is aimed at the cause: prices are climbing on fast credit growth, and dearer borrowing slows exactly that, so total spending grows more slowly and the demand-pull pressure eases. It has wide reach, because commercial banks pass the higher rate on to loan and deposit rates across the whole economy, not one region or industry. It protects buying power: as the 6% climb slows, savers and households on fixed money incomes keep more of what their money buys. Consumers see prices climb more slowly, savers earn more on deposits, firms plan against steadier prices, and the government moves closer to its price stability aim.",
    "marking_guidance": [
     "Benefit: each advantage must be stated as a benefit of the policy measure named.",
     "Because: the reasoning must link the policy to its effect, so that the chain is written out.",
@@ -641,7 +667,9 @@
     "CLM-0455-4.8-018": 1,
     "CLM-0455-4.8-017": 1
    },
-   "authored_hash": "bc520ed3082d85c6a6cd748b76b61389038c3d7d6dae05c80b4d27140ccb2c73",
+   "authored_hash": "587b7e7146c2da0e2354316746353865c62f982882e0ec6fadfa8c4c59b3cae7",
+   "prior_hash": "e160c6057ff510d10c37032c4ad47c107ae3055e5415ec8404d205cc612189a8",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed to the word caps; wording kept clear of the price-revenue mechanism.",
    "objective_titles": [
     "policies to control inflation and deflation"
    ]
@@ -666,7 +694,7 @@
    "mark_tariff": 6,
    "difficulty": 4,
    "prompt": "Prices are rising because imported fuel has become dearer and firms are passing the cost on. Analyse the limitations of using higher interest rates to control this rise in prices.",
-   "canonical_answer": "One limitation is that the measure misses the cause: because the price rise is cost-push - dearer fuel reaching shop prices - dearer borrowing does nothing to the price of fuel, so this leads to higher interest costs beside the higher fuel costs rather than in place of them. A second limitation is the cost of the attempt: where dearer credit makes firms postpone expansion and households cut spending, output grows more slowly and jobs weaken, so the policy squeezes the economy without easing the source of the rise. A third limitation is delay: the effects of a rate rise arrive months after it is announced, so where the fuel price has moved on by then, the restraint acts after the cause has gone. For whom: firms face dearer credit and weaker sales together, workers in loan-dependent industries carry the slowdown, consumers face the higher prices regardless, and the economy trades growth for a measure that does not reach the cause of its price rise.",
+   "canonical_answer": "Higher rates miss the cause: this rise is cost-push, from dearer imported fuel, and dearer borrowing does nothing to the price of fuel, so firms face higher interest costs on top of higher fuel costs. The attempt is costly: dearer credit makes firms postpone expansion and households cut spending, so output grows more slowly and jobs weaken while prices stay pushed up. The effects also arrive months later, perhaps after the fuel price has moved on. Firms face dearer credit and weaker sales together, workers in loan-dependent industries carry the slowdown, consumers still pay the higher prices, and the economy gives up growth without reaching the cause.",
    "marking_guidance": [
     "Limitation: each drawback must be stated as a limitation of the policy measure named.",
     "Because: the reasoning must say why the drawback arises, so that the chain is written out.",
@@ -688,7 +716,9 @@
     "CLM-0455-4.8-019": 1,
     "CLM-0455-4.8-018": 1
    },
-   "authored_hash": "ed1021aad96d8aa518f3e0540ac6de28f746ba714c420630d67c52328094f4f2",
+   "authored_hash": "29d5c66c67da2a6e6697aedbed065f4ba1e759b004fc4e2a9a25059761232a1e",
+   "prior_hash": "ed1021aad96d8aa518f3e0540ac6de28f746ba714c420630d67c52328094f4f2",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; 'Two creditable elements' and label chains removed; P02(e) wage pass-through corrected to cost-push; 4.8-006 answer no longer invents a N$30 000 basket; 4.8-017 'halving' corrected; topic cross-references corrected (price stability aim is 4.2, current account is 6.4).",
    "objective_titles": [
     "policies to control inflation and deflation"
    ]
@@ -715,7 +745,7 @@
    "mark_tariff": 8,
    "difficulty": 5,
    "prompt": "Discuss whether raising interest rates is the most effective policy for a government to control inflation.",
-   "canonical_answer": "Why it might: the argument for is aim and reach. Where prices are rising because spending and credit run fast, a rate rise works on exactly that, and because commercial banks pass it on, it reaches households and firms across the economy within days; it also protects the buying power of savers and fixed-income households as the rise in prices slows, and a low steady rise in prices is easier for an economy to manage than the fast rise it prevents. Why it might not: the argument against is that the measure answers spending, not costs. Where prices rise because fuel or harvests have pushed costs up, dearer borrowing squeezes output and jobs without touching the cause, and the effects arrive with a delay beside that; the route also trades against the government's other aims, slowing growth and employment while it works, where fiscal measures can be aimed more narrowly and supply-side measures can work on capacity instead. Judgement: on balance the interest-rate rise is the most effective single measure where the pressure on prices comes from domestic spending and credit, because it is well aimed, quick to act and economy-wide. What settles it is the source of the price rise: it depends on whether prices are being pulled up by spending or pushed up by costs - in the first case the rate rise is the right main instrument, and in the second it is a costly side-measure while measures on the cost side do the real work.",
+   "canonical_answer": "Raising interest rates may be the most effective policy where prices rise on fast spending and credit, because dearer borrowing slows exactly that spending, banks pass the higher rate on across the whole economy, and a slower climb protects savers and fixed-income households. A low, steady rise in prices is easier to manage than the fast rise it prevents. It may not be, because it works on spending, not costs. Where fuel or harvests push costs up, dearer borrowing squeezes output and jobs without touching the cause, and its effect on spending takes months. It also slows growth and employment, whereas fiscal measures can be aimed more narrowly and supply-side measures can ease costs. On balance, a rate rise is the most effective single measure where the pressure comes from domestic spending and credit, as it is well aimed and economy-wide. It depends on the source of the rise: against demand-pull inflation it should lead; against cost-push inflation it is a costly side-measure while cost-side measures do the work.",
    "marking_guidance": [
     "Judgement: the answer must reach a judgement, and it depends must be answered by naming the condition.",
     "Why it might: the argument for must be developed with its mechanism.",
@@ -740,7 +770,9 @@
     "CLM-0455-4.8-019": 1,
     "CLM-0455-4.8-016": 1
    },
-   "authored_hash": "6da11d37e94da20370732cdfb640f155e034dfab78770da7fcdcea802dd75074",
+   "authored_hash": "00742a3b2ff938d394c0e9f1591cdf37a03e5d715cc6bdbd56444ca016bacdca",
+   "prior_hash": "221816608118cf2672a6ff0b25ff4527d6959dac4f75f1fe5f475a3894d801b8",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed to the word caps; wording kept clear of the price-revenue mechanism.",
    "objective_titles": [
     "policies to control inflation and deflation"
    ]
@@ -766,7 +798,7 @@
    "mark_tariff": 4,
    "difficulty": 4,
    "prompt": "Prices in an economy have begun to fall and the central bank cuts its policy rate from 7% to 4%. A Katutura bakery is planning a N$150 000 oven on bank credit. Using the figures, explain how the cut is likely to affect the bakery's borrowing and the wider economy's spending.",
-   "canonical_answer": "The figures show the cost of credit halving: yearly interest of 0.07 x N$150 000 = N$10 500 on the oven falls to 0.04 x N$150 000 = N$6 000, a saving of N$10 500 - N$6 000 = N$4 500 a year. Because the loan is now cheaper, the bakery is likely to bring the oven forward rather than wait, and households move the same way - dearer prices postponed their purchases, and cheaper credit with falling prices makes some of those purchases easier to afford. Therefore the cut is likely to raise borrowing and support spending across the economy, though where households expect prices to keep falling, some postponement may continue even at the lower rate, so the figures show the pull on the bakery more strongly than on each buyer.",
+   "canonical_answer": "Yearly interest on the N$150 000 oven falls from 0.07 x N$150 000 = N$10 500 to 0.04 x N$150 000 = N$6 000, saving N$10 500 - N$6 000 = N$4 500 a year. Cheaper credit makes buying the oven now more worthwhile, so the bakery is likely to borrow and invest sooner, and households may borrow to spend too. However, where buyers expect prices to keep falling, they may still postpone purchases, so the cut supports spending but may not restart it quickly.",
    "marking_guidance": [
     "Context: the figures in the prompt must be used - no answer without them.",
     "Reasoning: the link from the figures to the concept must be written out, because figures stated without the link earn nothing.",
@@ -788,7 +820,9 @@
     "CLM-0455-4.8-020": 1,
     "CLM-0455-4.8-017": 1
    },
-   "authored_hash": "2cd99ba839c55d7a60f6bd724e48446e0a34f917b298322ff1722972fb9dc99e",
+   "authored_hash": "b82f31df2f7c84935f7b7e14b4ec1ff1510419b76bd8d9d0a4717d56c02f2685",
+   "prior_hash": "2cd99ba839c55d7a60f6bd724e48446e0a34f917b298322ff1722972fb9dc99e",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; 'Two creditable elements' and label chains removed; P02(e) wage pass-through corrected to cost-push; 4.8-006 answer no longer invents a N$30 000 basket; 4.8-017 'halving' corrected; topic cross-references corrected (price stability aim is 4.2, current account is 6.4).",
    "objective_titles": [
     "policies to control inflation and deflation"
    ]
@@ -813,7 +847,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "Facing a 6% yearly climb in prices driven by fast spending, a government cuts its own spending and raises taxes while the central bank holds interest rates. Analyse how this fiscal tightening is likely to work through the economy and whom it affects.",
-   "canonical_answer": "Starting point: the government cuts its spending and raises taxes, removing spending power directly while interest rates stay put. Mechanism: because the government buys less and households have less income left after tax, the economy's whole outlay grows more slowly, and this causes sellers to stop being able to count on buyers bidding against each other - the same demand-pull pressure the rate rise would have worked on, reached by the tax and spending route. Consequence: therefore the yearly climb in prices eases toward the price stability aim, but firms that sold to the government see their orders fall first, and output and jobs in those industries weaken while the tightening does its work. For whom: taxpayers and recipients of public services carry the direct cost, firms selling to the government lose sales, their workers face shorter hours, and consumers face gentler price moves once the tightening has passed through - a trade the government chooses between its aims.",
+   "canonical_answer": "When the government cuts its own spending and raises taxes, it buys less and households keep less income after tax, so total spending grows more slowly. Sellers can no longer count on buyers bidding against each other, so the demand-pull pressure eases and the 6% yearly rise in prices slows towards the price stability aim. But firms that sell to the government lose orders first, and output and jobs in those industries weaken while the tightening works. Taxpayers and users of public services bear the direct cost, those firms and their workers lose sales and hours, and consumers gain from prices climbing more slowly: a trade-off between the government's aims.",
    "marking_guidance": [
     "Starting point: the initial change must be stated, as a when or an if.",
     "Mechanism: the causal link must be written out, because this causes that, step by step.",
@@ -836,7 +870,9 @@
     "CLM-0455-4.8-017": 1,
     "CLM-0455-4.8-009": 1
    },
-   "authored_hash": "b98443bb841310519357b210a2e94f1922fab0e603e58211fba45d9b2cd2f39f",
+   "authored_hash": "2188f6ce37612718d70eef9f85b01833544f4e4b1f072edbdabf7abb721547dd",
+   "prior_hash": "e981b4b239c5bb34470f5962814b1daca615fa84d04720f35bd846b0b6a7eae8",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed to the word caps; wording kept clear of the price-revenue mechanism.",
    "objective_titles": [
     "policies to control inflation and deflation"
    ]
@@ -862,7 +898,7 @@
    "mark_tariff": 4,
    "difficulty": 5,
    "prompt": "Explain the features of the range of policies available to control inflation.",
-   "canonical_answer": "The range has three routes, and its features are who carries each out and what each works on. Monetary policy: carried out by the central bank, it raises interest rates so that borrowing becomes dearer, saving is better rewarded and the growth of total spending slows - a measure that works on spending as a whole. Fiscal policy: carried out by the government, it cuts spending or raises taxes to remove spending from the economy directly, and its force can be aimed at particular purchases or industries. Supply-side measures: also carried out by the government, they raise the economy's capacity or ease input costs - infrastructure, training, cheaper logistics - so they work on cost pressure where spending restraint cannot. What the routes share: each serves the price stability aim, each works through a different handle on the economy, and where inflation is cost-push the third route reaches the cause while the first two do not; against deflation the same routes run in reverse.",
+   "canonical_answer": "The three routes differ in who acts and what they work on. Monetary policy, run by the central bank, raises interest rates so borrowing is dearer and total spending grows more slowly. Fiscal policy, run by the government, cuts spending or raises taxes, and can be aimed at particular purchases or industries. Supply-side measures, such as training or cheaper transport, raise capacity or ease input costs, so they can reach cost-push inflation that spending restraint cannot. All serve price stability, and against deflation they run in reverse.",
    "marking_guidance": [
     "Features: what it includes - each characteristic named and separated; a definition restated is not a features answer."
    ],
@@ -883,7 +919,9 @@
     "CLM-0455-4.8-018": 1,
     "CLM-0455-4.8-019": 1
    },
-   "authored_hash": "86466924fcc60337a6a4eaf83a7e8903243e41f20225008173a34386e2a657b4",
+   "authored_hash": "bb76e5568f7161755993c71a31c3685bb05015e9c47a09e11e88130a09bc37eb",
+   "prior_hash": "86466924fcc60337a6a4eaf83a7e8903243e41f20225008173a34386e2a657b4",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; 'Two creditable elements' and label chains removed; P02(e) wage pass-through corrected to cost-push; 4.8-006 answer no longer invents a N$30 000 basket; 4.8-017 'halving' corrected; topic cross-references corrected (price stability aim is 4.2, current account is 6.4).",
    "objective_titles": [
     "policies to control inflation and deflation"
    ]
@@ -983,8 +1021,8 @@
    "command_word": null,
    "mark_tariff": null,
    "difficulty": 5,
-   "prompt": "A report in the Oshakati Times, 2026: \"Prices rose faster this year than last, and shoppers at the open market say food is the reason. The statistics agency's index rose again in the twelve months to March, with food the leading item; clothing barely moved. The central bank has warned it may act, though the harvest, not credit, is what traders blame.\"\n\nTable 1 - the economy, twelve months to March\n  CPI, March last year: 128.0\n  CPI, March this year: 134.4\n  yearly rise in food prices: 9%\n  yearly rise in transport fares: 6%\n  yearly rise in clothing prices: 2%\n  household A food share of spending: 60%\n  household B food share of spending: 15%\n\n(a) Calculate the economy's yearly rate of inflation between the two March readings. [1]\n(b) State the yearly rise in food prices shown in Table 1. [1]\n(c) Identify from Table 1 the two items whose prices rose more slowly than the CPI. [2]\n(d) Explain why household A's cost of living is likely to have risen faster than the CPI. [4]\n(e) Analyse what the data suggests about the economy in the twelve months to March. [6]",
-   "canonical_answer": "(a) The rise is 134.4 - 128.0 = 6.4 index points. The rate is 6.4 / 128.0 = 0.05, and 0.05 x 100 = 5, so the yearly rate of inflation is 5%.\n(b) Food prices rose 9% (from Table 1).\n(c) Transport fares at 6% and clothing at 2% rose more slowly than the CPI's 5% (from Table 1).\n(d) The CPI is an average weighted by spending shares, and household A's spending is concentrated on the fastest-rising item. Food alone contributes 0.60 x 9% = 5.4 percentage points to A's cost of living, already above the whole 5% rise in the index, so A's basket rises faster than the average. Because A spends a large share on food and food rose 9% while A's other purchases rose by less, the weighted average of A's own prices sits above the index. Therefore A's cost of living has risen faster than the CPI, where household B, spending 15% on food, faces a rise closer to the index or below it.\n(e) Expected relationship: a general price level rising 5%, led by one item - food at 9% against clothing at 2% - points to cost pressure from food inputs reaching the whole basket rather than a broad spending boom, because the rise is concentrated where the harvest bit. Evidence from the data: the CPI moved from 128.0 to 134.4, a 5% rise; food rose 9% while clothing rose 2% and transport 6%, and households spending heavily on food - A at 60% - face more than the headline. Analysis: a food-led rise of this shape tends to hit consumers on low incomes hardest, since food takes the largest share of their spending, so the buying power of their incomes falls fastest even while the index reads 5%; where firms pass food costs on through wages, the rise could spread - the demand-pull route the central bank's warning fits, though credit is not what the data shows rising. Exception: clothing at 2% shows the rise is not economy-wide in strength, and household B, at a 15% food share, faces a cost of living rising by less than the index - the average conceals both directions at once.",
+   "prompt": "An invented report, written for practice, in the Oshakati Times, 2026: \"Prices rose faster this year than last, and shoppers at the open market say food is the reason. The statistics agency's index rose again in the twelve months to March, with food the leading item; clothing barely moved. The central bank has warned it may act, though the harvest, not credit, is what traders blame.\"\n\nTable 1 - the economy, twelve months to March\n  CPI, March last year: 128.0\n  CPI, March this year: 134.4\n  yearly rise in food prices: 9%\n  yearly rise in transport fares: 6%\n  yearly rise in clothing prices: 2%\n  household A food share of spending: 60%\n  household B food share of spending: 15%\n\n(a) Calculate the economy's yearly rate of inflation between the two March readings. [1]\n(b) State the yearly rise in food prices shown in Table 1. [1]\n(c) Identify from Table 1 the two items whose prices rose more slowly than the CPI. [2]\n(d) Explain why household A's cost of living is likely to have risen faster than the CPI. [4]\n(e) Analyse what the data suggests about the economy in the twelve months to March. [6]",
+   "canonical_answer": "(a) The rise is 134.4 - 128.0 = 6.4 index points. The rate is 6.4 / 128.0 = 0.05, and 0.05 x 100 = 5, so the yearly rate of inflation is 5%.\n(b) Food prices rose 9% (from Table 1).\n(c) Transport fares at 6% and clothing at 2% rose more slowly than the CPI's 5% (from Table 1).\n(d) The CPI is an average weighted by spending shares, and household A's spending is concentrated on the fastest-rising item. Food alone contributes 0.60 x 9% = 5.4 percentage points to A's cost of living, already above the whole 5% rise in the index, so A's basket rises faster than the average. Because A spends a large share on food and food rose 9% while A's other purchases rose by less, the weighted average of A's own prices sits above the index. Therefore A's cost of living has risen faster than the CPI, where household B, spending 15% on food, faces a rise closer to the index or below it.\n(e) A general price level rising 5%, led by one item - food at 9% against clothing at 2% - points to cost pressure from food reaching the whole basket rather than a broad spending boom, because the rise is concentrated where the harvest bit. The CPI moved from 128.0 to 134.4, a 5% rise; food rose 9% while transport rose 6% and clothing 2%, and households spending heavily on food - A at 60% - face more than the headline rate. A food-led rise of this shape tends to hit consumers on low incomes hardest, since food takes the largest share of their spending, so the buying power of their incomes falls fastest even while the index reads 5%. If workers then win higher wages to keep up with food prices and firms pass those wage costs on, the rise could spread across the basket - a further cost-push route. The central bank's warning would fit demand-pull pressure, but the data shows nothing about credit rising. However, clothing at 2% shows the rise is not equally strong across the economy, and household B, at a 15% food share, faces a cost of living rising by less than the index - the average hides both directions at once.",
    "marking_guidance": [
     "Parts: (a) and (b) are 1 mark each, read or calculated from Table 1; (c) is 2 marks, 1 per item; (d) is 4 marks, one per distinct linked statement; (e) is 6 marks.",
     "Context: (d) and (e) must use the figures - the 128.0 to 134.4 index move, the 9% / 6% / 2% item rises, and the 60% and 15% food shares.",
@@ -1016,7 +1054,9 @@
     "CLM-0455-4.8-010": 1,
     "CLM-0455-4.8-013": 1
    },
-   "authored_hash": "143c10d5ffef1d288ebecf07bdf1bf6734aaded82687ea9a42fb331f7181638d",
+   "authored_hash": "6475c662fd523694908d27e8d77c2e9826591c1cb4a7ed222885246b1fa12aac",
+   "prior_hash": "143c10d5ffef1d288ebecf07bdf1bf6734aaded82687ea9a42fb331f7181638d",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; 'Two creditable elements' and label chains removed; P02(e) wage pass-through corrected to cost-push; 4.8-006 answer no longer invents a N$30 000 basket; 4.8-017 'halving' corrected; topic cross-references corrected (price stability aim is 4.2, current account is 6.4).",
    "objective_titles": [
     "measurement of inflation and deflation",
     "causes of inflation and deflation",
@@ -1054,7 +1094,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "An economy's prices have risen 6% a year for two years, driven first by fast credit growth and lately by dearer imported fuel.\n(a) Define inflation. [2]\n(b) Explain the difference between demand-pull inflation and cost-push inflation. [4]\n(c) Analyse the consequences of a period of falling prices for consumers, firms and workers. [6]\n(d) Discuss whether the government should use higher interest rates to deal with the economy's fast rise in prices. [8]",
-   "canonical_answer": "(a) Inflation is a sustained rise in the general price level of an economy over a period, usually a year, so that a unit of money buys fewer goods and services than before. Two creditable elements: the general price level, and the sustained rise over a period.\n(b) The difference lies in what rises first. Demand-pull inflation begins on the spending side: total spending in the economy grows faster than its capacity to produce, buyers compete for scarce goods, and prices are pulled up by that competition - fast credit growth pulling prices up is the demand-pull case. Cost-push inflation begins on the cost side: the costs of production rise - dearer imported fuel is the cost-push case - and firms pass the rise on in higher prices with total spending unchanged. The test that tells them apart: ask what changed first. Where spending ran ahead first, the inflation is demand-pull; where costs rose first and prices followed, it is cost-push - and the economy here shows both in sequence, so the answer to which policy fits turns on which cause is doing the work at the time.\n(c) Starting point: the general price level falls, and buyers come to expect further falls. Mechanism: because buyers expect lower prices later, they postpone purchases they can put off, and this causes firms' sales to fall; firms cut prices again to win the buyers there are, cut output, and lay off workers. Consequence: therefore workers who lose income spend less, prices fall further, and the fall can feed itself into a lasting drop in spending and output; at the same time each money-fixed debt becomes heavier in real terms, because each unit of money now buys more, so households and firms cut spending further to service debts. For whom: consumers who keep their incomes gain cheaper goods, but as buyers together they weaken the markets they buy from; firms face falling sales and margins; workers carry the lay-offs and the shorter hours; and borrowers find the real weight of their debts rising as the price level falls.\n(d) Why it might: the interest-rate rise is well aimed at the first cause of this economy's climb in prices - fast credit growth - because dearer borrowing slows exactly the outlay that pulled prices up, and it works through the whole banking system at once, protecting the buying power of savers and fixed-income households as the climb slows; a low steady rise in prices is easier for an economy to manage than the fast climb the policy prevents. Why it might not: the latest pressure is cost-push - dearer imported fuel - and dearer borrowing does nothing to the price of fuel, so the measure risks squeezing output and jobs while prices stay pushed up by costs; the effects arrive with a delay, so a rise announced now may land after the fuel price has moved on; and the route trades against the government's other aims, slowing growth and employment while it works. Judgement: on balance the government should use higher interest rates while credit growth is the main driver of the climb, because the instrument is aimed at that cause and reaches the whole economy; what the judgement depends on is the source of the pressure at the time - it depends on whether prices are being pulled up by spending or pushed up by costs, and where fuel is doing the work, measures on the cost side bear the burden better and at lower cost in jobs.",
+   "canonical_answer": "(a) Inflation is a sustained rise in the general price level of an economy over a period, usually a year, so that a unit of money buys fewer goods and services than before.\n(b) The difference lies in what rises first. Demand-pull inflation begins on the spending side: total spending in the economy grows faster than its capacity to produce, buyers compete for scarce goods, and prices are pulled up by that competition - fast credit growth pulling prices up is the demand-pull case. Cost-push inflation begins on the cost side: the costs of production rise - dearer imported fuel is the cost-push case - and firms pass the rise on in higher prices with total spending unchanged. The test that tells them apart: ask what changed first. Where spending ran ahead first, the inflation is demand-pull; where costs rose first and prices followed, it is cost-push - and the economy here shows both in sequence, so the answer to which policy fits turns on which cause is doing the work at the time.\n(c) When the general price level falls and buyers come to expect further falls, they postpone purchases they can put off, so firms' sales fall; firms cut prices again to win the buyers there are, cut output, and lay off workers. Workers who lose income spend less, prices fall further, and the fall can feed itself into a lasting drop in spending and output. At the same time each debt fixed in money becomes heavier in real terms, because each unit of money now buys more, so households and firms cut spending further to service their debts. Consumers who keep their incomes gain cheaper goods, but by postponing together they weaken the markets they buy from; firms face falling sales and margins; workers carry the lay-offs and shorter hours; and borrowers find the real weight of their debts rising as the price level falls.\n(d) Higher interest rates suit the first cause of this economy's rise in prices - fast credit growth - because dearer borrowing slows exactly the spending that pulled prices up, and the higher rate reaches the whole banking system at once, protecting the buying power of savers and fixed-income households as the rise slows; a low, steady rise in prices is easier for an economy to manage than the fast rise the policy prevents. Against this, the latest pressure is cost-push - dearer imported fuel - and dearer borrowing does nothing to the price of fuel, so the measure risks squeezing output and jobs while prices stay pushed up by costs; the effects arrive with a delay, so a rise announced now may land after the fuel price has moved on; and the policy trades against the government's other aims, slowing growth and employment while it works. On balance the government should use higher interest rates while credit growth is the main driver of the rise, because the instrument is aimed at that cause and reaches the whole economy. The judgement depends on the source of the pressure at the time: whether prices are being pulled up by spending or pushed up by costs. Where fuel is doing the work, measures on the cost side bear the burden better and at lower cost in jobs.",
    "marking_guidance": [
     "Parts: (a) 2 marks for two creditable elements of the definition; (b) 4 marks, one per distinct linked statement; (c) 6 marks, one per distinct linked statement with its reason carried; (d) 8 marks, level-marked over three bands.",
     "Bands for (d): Level 3 (top) examines why it might and why it might not, then reaches a judgement naming the condition it depends on - the source of the price pressure; Level 2 develops one side or asserts a judgement without the condition; Level 1 offers fragments of either side.",
@@ -1086,7 +1126,9 @@
     "CLM-0455-4.8-018": 1,
     "CLM-0455-4.8-019": 1
    },
-   "authored_hash": "ee25dc7bc02ed9114a0eff39ffd8b421561658b29270625fd46282b5fe667b80",
+   "authored_hash": "1e769429ee4806c5700ebce8e2950a8af48e28b55a73bab65692d4ee0a5c6378",
+   "prior_hash": "ee25dc7bc02ed9114a0eff39ffd8b421561658b29270625fd46282b5fe667b80",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; 'Two creditable elements' and label chains removed; P02(e) wage pass-through corrected to cost-push; 4.8-006 answer no longer invents a N$30 000 basket; 4.8-017 'halving' corrected; topic cross-references corrected (price stability aim is 4.2, current account is 6.4).",
    "objective_titles": [
     "definition of inflation and deflation",
     "causes of inflation and deflation",
@@ -1123,7 +1165,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "Plan an answer to: \"Discuss whether deflation is a more serious problem for an economy than inflation.\" Build the plan from the causes and consequences of each. Do not write the essay; produce the plan.",
-   "canonical_answer": "Case for (deflation is the more serious):\nPoint 1: deflation chains into output. Chain: prices fall and buyers expect further falls -> purchases are postponed -> firms cut output and lay off workers -> the workers' lost income cuts spending again, a self-feeding spiral inflation does not match (for whom: workers lose posts; firms lose sales; the economy loses output).\nPoint 2: deflation raises the real burden of debt. Chain: the price level falls while debts stay fixed in money -> each unit of money buys more, so more goods must be given up to service each loan -> households and firms cut spending to keep paying -> spending falls and the fall deepens (for whom: borrowers carry more; lenders are repaid in money worth more, so the burden shifts against debtors).\nCase against (inflation is serious too):\nPoint 1: inflation redistributes and scrambles planning. Chain: prices rise faster than expected -> savers and lenders on fixed money sums lose buying power, borrowers gain -> firms cannot predict costs, wage bargaining turns into a chase -> investment waits and exports lose ground where domestic prices outrun rivals' (for whom: savers, lenders, fixed-income households lose; firms plan less; the economy invests less).\nPoint 2: the seriousness depends on the cause of the deflation. Chain: where falling prices come from cheaper inputs and higher productivity -> firms charge less without losing profit -> the price level falls while output holds (for whom: consumers gain cheaper goods with no loss of jobs) - so supply-side deflation of this kind is less damaging than a fast inflation.\nJudgement: deflation is the more serious problem where it is demand-side - driven by weak spending and feeding itself - because policy struggles to restart spending once buyers wait, whereas inflation driven by spending can be slowed with interest rates and does less harm while it is moderate. The condition the judgement depends on is the cause and speed of each: a mild supply-side fall in prices may be benign, and a fast inflation is worse than a gentle fall - so it depends on which economy, which cause, and how fast.",
+   "canonical_answer": "Case for (deflation is the more serious):\nPoint 1: deflation chains into output. Chain: prices fall and buyers expect further falls -> purchases are postponed -> firms cut output and lay off workers -> the workers' lost income cuts spending again, a self-feeding spiral inflation does not match (who is affected: workers lose posts; firms lose sales; the economy loses output).\nPoint 2: deflation raises the real burden of debt. Chain: the price level falls while debts stay fixed in money -> each unit of money buys more, so more goods must be given up to service each loan -> households and firms cut spending to keep paying -> spending falls and the fall deepens (who is affected: borrowers carry more; lenders are repaid in money worth more, so the burden shifts against debtors).\nCase against (inflation is serious too):\nPoint 1: inflation redistributes and scrambles planning. Chain: prices rise faster than expected -> savers and lenders on fixed money sums lose buying power, borrowers gain -> firms cannot predict costs, wage bargaining turns into a chase -> investment waits and exports lose ground where domestic prices outrun rivals' (who is affected: savers, lenders, fixed-income households lose; firms plan less; the economy invests less).\nPoint 2: the seriousness depends on the cause of the deflation. Chain: where falling prices come from cheaper inputs and higher productivity -> firms charge less without losing profit -> the price level falls while output holds (who is affected: consumers gain cheaper goods with no loss of jobs) - so supply-side deflation of this kind is less damaging than a fast inflation.\nJudgement: deflation is the more serious problem where it is demand-side - driven by weak spending and feeding itself - because policy struggles to restart spending once buyers wait, whereas inflation driven by spending can be slowed with interest rates and does less harm while it is moderate. The condition the judgement depends on is the cause and speed of each: a mild supply-side fall in prices may be benign, and a fast inflation is worse than a gentle fall - so it depends on which economy, which cause, and how fast.",
    "marking_guidance": [
     "A plan, not an essay: the case for, the case against, each point as a chain, and the judgement with the condition it depends on.",
     "Each chain states its starting point, its mechanism and the consequence for a named party - consumers, workers, borrowers, savers, lenders, firms or the economy.",
@@ -1151,7 +1193,9 @@
     "CLM-0455-4.8-017": 1,
     "CLM-0455-4.8-018": 1
    },
-   "authored_hash": "f2ceb412a1988f3a594372b30c0cd4e0418c6e017e599a98af7823e16594b9b1",
+   "authored_hash": "f78412a59a6e9a0d91a4f3db4d38278f2f2e4082c5cffc41242058dcbab3c02c",
+   "prior_hash": "f2ceb412a1988f3a594372b30c0cd4e0418c6e017e599a98af7823e16594b9b1",
+   "repair_note": "Reviewer: removed syllabus-heading qualifiers from Define prompts, distinguished prompts duplicated across topics, and replaced the leaked 'for whom:' label in the essay plan",
    "objective_titles": [
     "causes of inflation and deflation",
     "consequences of inflation and deflation",

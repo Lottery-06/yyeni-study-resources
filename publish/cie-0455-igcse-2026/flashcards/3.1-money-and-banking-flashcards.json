@@ -115,7 +115,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "At a craft market in Katutura a wood-carver sells a carving for N$80 and, the same afternoon, buys a 10 kg bag of maize meal for N$45 in coins and notes. Before the market used money she had to find one trader who both wanted a carving and sold maize. Using the context, explain how money working as a medium of exchange helps this trader, and why trade tends to be quicker with money than with barter.",
-   "canonical_answer": "The context shows exchange before money: the carver needed one trader who both wanted a carving and sold maize - a double coincidence of wants - and finding that trader takes time she could spend carving. With money in use, the carving sells to any buyer who holds N$80, and the notes and coins are accepted by the maize seller for the N$45 bag, so money as a medium of exchange links sellers who want different goods. Because money is accepted across the whole market, the carver can sell to more buyers and buy sooner, which means that each purchase takes one meeting rather than one search; therefore money as a medium of exchange tends to make trade quicker and wider than barter does.",
+   "canonical_answer": "Before money, the carver needed a double coincidence of wants: one trader who both wanted a carving and sold maize, and finding that trader took time away from carving. With money as a medium of exchange, she can sell the carving to any buyer with N$80 and pay the maize seller N$45 in notes and coins, because both accept money. Each purchase therefore takes one meeting instead of a search, which means trade with money tends to be quicker and wider than barter.",
    "marking_guidance": [
     "Context: the figures - the N$80 carving and the N$45 bag of maize meal - and the before-money situation must be used.",
     "Reasoning: the link from money as a medium of exchange to quicker trade must be made, because removing the double coincidence of wants is the mechanism.",
@@ -137,7 +137,9 @@
     "CLM-0455-3.1-002": 1,
     "CLM-0455-3.1-001": 1
    },
-   "authored_hash": "566099bf226ca49e36bc613ba89f587b98a662a9d2e9d09c1725691fd832662d",
+   "authored_hash": "c01a9f1cdc5c639f4129a4182a5e29c2d076ae2596a5b027e05b5b15f09346ee",
+   "prior_hash": "566099bf226ca49e36bc613ba89f587b98a662a9d2e9d09c1725691fd832662d",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked authoring labels and register wording, corrected a cross-reference",
    "objective_titles": [
     "money"
    ]
@@ -162,7 +164,7 @@
    "mark_tariff": 8,
    "difficulty": 3,
    "prompt": "Suppose sellers across an economy began to doubt the notes and coins they were paid in, and started to demand goods in direct barter instead. Discuss the likely consequences for consumers, producers and the government of an economy where money stops being accepted.",
-   "canonical_answer": "Starting point: the initial change is that sellers stop accepting money and demand goods, so exchange falls back on barter. Mechanism: barter needs a double coincidence of wants, because each trader must find a partner who wants what is offered and offers what is wanted; this causes each purchase to take longer, so fewer trades happen and buyers and sellers match less often. Consequence: consumers spend more time searching and get less variety; producers sell less of their output, so they narrow what they make to what they can swap, which results in less specialization and less output; and the government finds taxes harder to collect and its salaries harder to pay, because neither is easy to settle in goods. For whom: consumers bear search costs and less choice, workers in specialized firms face less secure jobs, firms lose sales, and the government loses revenue and payment channels. Judgement: the effect is likely to be largest for specialized producers and smallest where people already trade a narrow range of staples face to face, and whether output falls sharply depends on how quickly trust in the currency returns.",
+   "canonical_answer": "If sellers refuse money and demand goods, exchange falls back on barter. Barter needs a double coincidence of wants: each trader must find a partner who wants what is offered and offers what is wanted. This causes each purchase to take longer, so fewer trades happen. Consumers spend more time searching and get less variety. Producers sell less of their output, so they narrow what they make to what they can swap; specialisation and output fall, and workers in specialised firms face less secure jobs. The government finds taxes harder to collect and salaries harder to pay, because neither is easily settled in goods. The damage is likely to be greatest for specialised producers and smallest where people already swap a few staple goods face to face, and how far output falls depends on how quickly trust in the currency returns.",
    "marking_guidance": [
     "Starting point: the initial change - sellers demanding goods instead of money - must be named.",
     "Mechanism: the chain through the double coincidence of wants must be spelled out, because slower matching is what causes the fall in trade.",
@@ -185,7 +187,9 @@
     "CLM-0455-3.1-002": 1,
     "CLM-0455-3.1-001": 1
    },
-   "authored_hash": "4b71132ffeae7e5ea993f5400a4b6d849dd5649266884e2fc33dedc0db23c481",
+   "authored_hash": "d455a455c342dcec44e4c793a3f082dfa7c29bd4d404493414b02ed38d6c9ff6",
+   "prior_hash": "4b71132ffeae7e5ea993f5400a4b6d849dd5649266884e2fc33dedc0db23c481",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked authoring labels and register wording, corrected a cross-reference",
    "objective_titles": [
     "money"
    ]
@@ -253,7 +257,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "Explain why commercial banks matter to a producer such as Kaoko Juice of Oshakati and to the consumers who buy its juice.",
-   "canonical_answer": "A commercial bank matters to Kaoko Juice for a reason of timing and scale: the firm pays for fruit, bottles and wages before the juice sells, and a bank loan bridges that gap, while its deposit account keeps the takings safe and its transfers pay distant suppliers without cash travelling. The bank pools many small deposits from savers into the larger loan the producer needs, which a single saver could rarely offer. Consumers gain because their savings are kept safe and their payments travel over distance, and because the lending that reaches producers helps the goods they buy reach the shelves. The purpose banks serve is joining small savers to larger borrowers, which is why both producer and consumer rely on them.",
+   "canonical_answer": "Kaoko Juice pays for fruit, bottles and wages before its juice sells, and a bank loan bridges that gap. The bank can make the loan because it pools many small deposits into a sum no single saver could lend. The firm's deposit account keeps its takings safe, and transfers pay distant suppliers without cash travelling. Consumers gain because their savings are kept safe, their payments travel over distance, and the loans that reach producers help keep goods on the shelves.",
    "marking_guidance": [
     "Reason: the purpose - bridging the gap between paying costs and receiving revenue - must be stated, because that is why producers borrow.",
     "Development: each reason must be linked to the party it helps, not left as a list of bank services."
@@ -274,7 +278,9 @@
     "CLM-0455-3.1-007": 1,
     "CLM-0455-3.1-005": 1
    },
-   "authored_hash": "5e877a138bc75a54c0331145809e30f692c7ad2711954b38fefefc613abb3cbb",
+   "authored_hash": "945c56edb7be6577565495e1162b87b228ac961d48a99a4777aab62a63d95698",
+   "prior_hash": "5e877a138bc75a54c0331145809e30f692c7ad2711954b38fefefc613abb3cbb",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked authoring labels and register wording, corrected a cross-reference",
    "objective_titles": [
     "banking"
    ]
@@ -301,7 +307,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "A news extract reports: \"This month the government paid salaries to 100 000 civil servants through its account at the Bank of Namibia, which also issued 12 million new N$30 notes this year. The salaries landed in accounts held at commercial banks.\" Using the extract, explain the roles the central bank and the commercial banks play in these payments.",
-   "canonical_answer": "The extract shows a division of roles. The central bank issues the currency - the 12 million N$30 notes - and holds the government's account, so it settles the government's side of the salary payments; it is banker to the government rather than to individuals. The commercial banks hold the accounts the salaries land in, so they serve the civil servants as customers, keeping the deposits and providing the payment services the money is drawn through. The figures show the system working end to end, which means that a salary paid by the government reaches a worker's account through both banks doing different jobs; therefore the boundary is visible in one payment - the central bank settles for the government, whereas the commercial banks serve the households receiving the pay.",
+   "canonical_answer": "The extract shows two kinds of bank doing different jobs. The central bank, the Bank of Namibia, issued the 12 million N$30 notes and holds the government's account, so it settles the government's side of the salaries paid to 100 000 civil servants. The commercial banks hold the workers' own accounts, where the salaries land, and provide the payment services the workers draw on. Therefore one salary passes through both: the central bank serves the government, whereas the commercial banks serve households.",
    "marking_guidance": [
     "Context: the extract - the 100 000 salaries and the 12 million N$30 notes - must be used to anchor each role.",
     "Reasoning: the link from each role to the party it serves must be made, because who the bank serves is the boundary between them.",
@@ -324,7 +330,9 @@
     "CLM-0455-3.1-005": 1,
     "CLM-0455-3.1-007": 1
    },
-   "authored_hash": "e689c3f38af25848f4a283c25b0a861ea55fb473db620934b286bd905514d36e",
+   "authored_hash": "cde6102c1938f42277301541a731ad07e580f84c7ea34954a5e53feac0063dd8",
+   "prior_hash": "e689c3f38af25848f4a283c25b0a861ea55fb473db620934b286bd905514d36e",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked authoring labels and register wording, corrected a cross-reference",
    "objective_titles": [
     "banking"
    ]
@@ -412,7 +420,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "A newspaper report from Oshakati, 2026: \"Oshakati Textiles, a garment firm employing 60 workers, plans to add a second production line after its orders grew. Its owner told the newspaper: 'Our own savings cover part of the new machines; the rest we are likely to borrow from our bank.' Across the economy, deposits at commercial banks keep climbing.\"\n\nTable 1 - commercial banks in the economy\n  deposits held at commercial banks: N$85 billion last year, N$92 billion this year\n  average lending rate on business loans: 9.0% last year, 10.5% this year\n  new business loans: 12 000 last year, 14 400 this year\n\n(a) Calculate the rise in deposits held at commercial banks between the two years. [1]\n(b) Identify from Table 1 the average lending rate and the number of new business loans, both for this year. [2]\n(c) Explain why Oshakati Textiles keeps its sales revenue as deposits at a commercial bank rather than as notes and coins in a safe. [4]\n(d) Analyse, using the data, what the figures suggest about the importance of commercial banks to producers in this economy. [6]",
-   "canonical_answer": "(a) Deposits rose by N$7 billion: 92 - 85 = 7.\n(b) The average lending rate is 10.5% and the number of new business loans is 14 400.\n(c) Notes in a safe can be stolen, and a safe pays no return, whereas a deposit at a commercial bank is recorded and guarded and usually earns some interest while the bank lends the funds on. Because the firm's customers and suppliers use transfers, the takings arrive as deposits already: holding them as notes would mean withdrawing cash only to bank it again before paying suppliers. Deposits are money in a different form, so the firm loses nothing by keeping its revenue there - the bank can move the money to a supplier's account at once, over any distance, which notes cannot do without travelling. Therefore the firm keeps its revenue as deposits because the account protects the money, links it to the payment system, and lets it earn while it waits.\n(d) Expected relationship: where deposits at commercial banks grow, the funds banks can lend to businesses tend to grow with them. Evidence from the data: deposits rose from N$85 billion to N$92 billion, and new business loans rose from 12 000 to 14 400, a rise of one fifth, so lending moved with deposits. Analysis: producers depend on banks to pool many small deposits into loans large enough to buy machines, as Oshakati Textiles plans to do; the growing number of business loans suggests producers are financing expansion through the banks, and the wages that expansion pays reach households and local shops as spending. The lending rate rising from 9.0% to 10.5% works the other way: borrowing costs more, so some producers may postpone expansion. Exception: a producer financing machines from its own retained earnings may need no bank at all, and deposits might grow while banks prefer safer assets than business loans, so the trend in deposits is not proof on its own. For whom: producers gain the loans, workers gain the jobs the expansion creates, and the economy gains the output.",
+   "canonical_answer": "(a) Deposits rose by N$7 billion: 92 - 85 = 7.\n(b) The average lending rate is 10.5% and the number of new business loans is 14 400.\n(c) Notes in a safe can be stolen, and a safe pays no return, whereas a deposit at a commercial bank is recorded and guarded and usually earns some interest while the bank lends the funds on. Because the firm's customers and suppliers use transfers, the takings arrive as deposits already: holding them as notes would mean withdrawing cash only to bank it again before paying suppliers. Deposits are money in a different form, so the firm loses nothing by keeping its revenue there - the bank can move the money to a supplier's account at once, over any distance, which notes cannot do without travelling. Therefore the firm keeps its revenue as deposits because the account protects the money, links it to the payment system, and lets it earn while it waits.\n(d) Where deposits at commercial banks grow, the funds banks can lend to businesses tend to grow with them, and the data fit that pattern: deposits rose from N$85 billion to N$92 billion, and new business loans rose from 12 000 to 14 400, a rise of one fifth, so lending moved with deposits. Producers depend on banks to pool many small deposits into loans large enough to buy machines, as Oshakati Textiles plans to do; the growing number of business loans suggests producers are financing expansion through the banks, and the wages that expansion pays reach households and local shops as spending. The lending rate rising from 9.0% to 10.5% works the other way: borrowing costs more, so some producers may postpone expansion. However, a producer financing machines from its own retained earnings may need no bank at all, and deposits might grow while banks prefer safer assets to business loans, so the trend in deposits is not proof on its own. Producers gain the loans, workers gain the jobs the expansion creates, and the economy gains the output.",
    "marking_guidance": [
     "Context: parts (a) and (b) are read straight from the data; part (d) must use the figures as evidence - the deposits, the loan numbers, the lending rate.",
     "Reasoning: one mark per distinct linked statement in (c); a bank service named without the link to the firm earns little.",
@@ -440,7 +448,9 @@
     "CLM-0455-3.1-005": 1,
     "CLM-0455-3.1-007": 1
    },
-   "authored_hash": "fbf3fbd4f831bfe72ce34da3be2376e3dc0c9d9538437e432f55e94f631aacf2",
+   "authored_hash": "f707dc5c6087125e5fceea2fbe4c5fb221b86699a08390f3cfe95b9956262f76",
+   "prior_hash": "fbf3fbd4f831bfe72ce34da3be2376e3dc0c9d9538437e432f55e94f631aacf2",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked authoring labels and register wording, corrected a cross-reference",
    "objective_titles": [
     "money",
     "banking"
@@ -472,7 +482,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "A lodge near Etosha employs 45 workers in peak season and banks with a commercial bank in Windhoek.\n(a) Define money. [2]\n(b) The lodge quotes its rooms at N$1 200 a night, counts the cost of providing a night at N$450, and reads its bank statement in the same units. Explain how money acting as a unit of account helps the lodge. [4]\n(c) Analyse the role commercial banks play for producers and consumers in an economy. [6]\n(d) Discuss whether an economy could run its payments system effectively without a central bank. [8]",
-   "canonical_answer": "(a) Money is anything that people generally accept as payment for goods and services and for settling debts; its forms include coins, notes and bank deposits.\n(b) A unit of account measures value in one common unit, so the lodge's N$1 200 price means the same number to potential guests wherever they bank. Because price and cost share the unit, the lodge can set the N$1 200 against its N$450 cost and see a difference of N$750 a night, which guides its pricing and how many rooms it offers. Comparisons over time and between suppliers become possible too: when fuel or food prices move, the lodge can track what a night costs it in the same units as its revenue. Therefore the unit of account helps the lodge by making price, cost and the difference between them comparable in one measure.\n(c) Starting point: producers pay wages and buy materials before their output sells, and consumers need somewhere to keep money between receiving and spending it. Mechanism: a commercial bank accepts deposits from many households and lends the pooled funds to firms, so a producer can borrow for equipment from savers who could not each finance it alone; this causes investment that raises what the firm can produce. Consequence: producers gain loans that bridge the gap between paying costs and receiving revenue, and accounts that move payments to suppliers at a distance; consumers gain deposits that are guarded and usually earn a return, payments that travel without cash, and shelves kept stocked by the firms the loans finance. For whom: producers gain financing, consumers gain safety and payment services, workers gain through the jobs the financed expansion supports, and the economy gains the output. Exception: where a producer has retained earnings of its own it may need no bank, and where savers distrust banks they may hold cash instead, which shrinks the pool banks can lend.\n(d) Why it might: most payments already travel between accounts at commercial banks, which settle with one another every day; in principle the banks could keep moving deposits without a central institution, and some countries ran currencies issued by several competing banks in earlier times. Why it might not: the notes and coins households trust need a single issuer behind them, the government needs one account for its taxes and salaries, and when deposits are withdrawn in a rush the commercial banks have no lender of last resort, so one bank's trouble may spread to others and freeze the payments producers and consumers rely on. Judgement: an economy might keep payments moving without a central bank in calm conditions, but the system is likely to be more fragile; the condition the judgement depends on is whether trust in the currency and in deposits holds, and whether the commercial banks can settle with one another when one of them is in trouble.",
+   "canonical_answer": "(a) Money is anything that people generally accept as payment for goods and services and for settling debts; its forms include coins, notes and bank deposits.\n(b) A unit of account measures value in one common unit, so the lodge's N$1 200 price means the same number to potential guests wherever they bank. Because price and cost share the unit, the lodge can set the N$1 200 against its N$450 cost and see a difference of N$750 a night, which guides its pricing and how many rooms it offers. Comparisons over time and between suppliers become possible too: when fuel or food prices move, the lodge can track what a night costs it in the same units as its revenue. Therefore the unit of account helps the lodge by making price, cost and the difference between them comparable in one measure.\n(c) Producers pay wages and buy materials before their output sells, and consumers need somewhere to keep money between receiving and spending it. A commercial bank accepts deposits from many households and lends the pooled funds to firms, so a producer can borrow for equipment from savers who could not each finance it alone; this causes investment that raises what the firm can produce. Producers gain loans that bridge the gap between paying costs and receiving revenue, and accounts that move payments to suppliers at a distance. Consumers gain deposits that are guarded and usually earn a return, payments that travel without cash, and shelves kept stocked by the firms the loans finance. Workers gain through the jobs the financed expansion supports, and the economy gains the output. However, where a producer has retained earnings of its own it may need no bank, and where savers distrust banks they may hold cash instead, which shrinks the pool banks can lend.\n(d) Why it might: most payments already travel between accounts at commercial banks, which settle with one another every day; in principle the banks could keep moving deposits without a central institution, and some countries ran currencies issued by several competing banks in earlier times. Why it might not: the notes and coins households trust need a single issuer behind them, the government needs one account for its taxes and salaries, and when deposits are withdrawn in a rush the commercial banks have no lender of last resort, so one bank's trouble may spread to others and freeze the payments producers and consumers rely on. Judgement: an economy might keep payments moving without a central bank in calm conditions, but the system is likely to be more fragile; the condition the judgement depends on is whether trust in the currency and in deposits holds, and whether the commercial banks can settle with one another when one of them is in trouble.",
    "marking_guidance": [
     "Parts (a) to (d) carry a model answer each; (d) is level-marked over three bands, with the top band examining why it might and why it might not and reaching a judgement.",
     "Context: (b) must use the figures - the N$1 200 price and the N$450 cost; (c) must attribute each role to the party it helps - producers, consumers, workers, the economy.",
@@ -502,7 +512,9 @@
     "CLM-0455-3.1-006": 1,
     "CLM-0455-3.1-007": 1
    },
-   "authored_hash": "0b6f33537ae1b820085d0fbe141e3c7d10357fe76378fa7855cdff8c39c87a09",
+   "authored_hash": "debef84198061ba954148ff06c60ad9f2c00651626ce4e4a7f4c1f247e7fcc72",
+   "prior_hash": "0b6f33537ae1b820085d0fbe141e3c7d10357fe76378fa7855cdff8c39c87a09",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked authoring labels and register wording, corrected a cross-reference",
    "objective_titles": [
     "money",
     "banking"

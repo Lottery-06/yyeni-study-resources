@@ -52,7 +52,7 @@
    "block_id": "CU-0455-5.4.1-B3",
    "block_type": "worked_application",
    "heading": "GDP per head, worked out",
-   "text": "GDP per head is total output for the year divided by the population, and it is the income measure used to compare development. A southern African economy producing N$260 billion of output with 2.6 million people shows N$260 billion \u00f7 2.6 million people = N$100 000 per head. Japan shows why the division matters: output of US$4 000 billion against 125 million people gives US$32 000 per head. The same total spread across twice the population would halve output per head, so totals rank size while GDP per head ranks living standards.",
+   "text": "GDP per head is total output for the year divided by the population, and it is the income measure used to compare development. A southern African economy producing N$260 billion of output with 2.6 million people shows N$260 billion ÷ 2.6 million people = N$100 000 per head. Japan shows why the division matters: output of US$4 000 billion against 125 million people gives US$32 000 per head. The same total spread across twice the population would halve output per head, so totals rank size while GDP per head ranks living standards.",
    "claim_ids": [
     "CLM-0455-5.4-002"
    ],
@@ -88,7 +88,7 @@
    "block_id": "CU-0455-5.4.1-B5",
    "block_type": "analysis_chain",
    "heading": "Why the gaps tend to persist",
-   "text": "The chain that keeps a low-income country behind runs through its households and its government. Where income per head is low, households spend most of what they earn on necessities and the government collects little tax revenue, so less is left for schools, clinics and piped water. Children then grow up with less schooling and worse health, so the workers they become produce less in an hour, keeping output per head low into the next generation. For whom: children lose the schooling, households carry the water and illness, and the budget starts small each year.",
+   "text": "The chain that keeps a low-income country behind runs through its households and its government. Where income per head is low, households spend most of what they earn on necessities and the government collects little tax revenue, so less is left for schools, clinics and piped water. Children then grow up with less schooling and worse health, so the workers they become produce less in an hour, keeping output per head low into the next generation. Children lose the schooling, households carry the water and the illness, and the government's budget starts small each year.",
    "claim_ids": [
     "CLM-0455-5.4-004"
    ],
@@ -99,7 +99,9 @@
    "claims_seen": {
     "CLM-0455-5.4-004": 1
    },
-   "authored_hash": "aa612504c76cce401caf54b342c5340d72e817e32e307c5701b7bcf6b71b1f27"
+   "authored_hash": "772d20f9fffa978223ea521f7117a7f23ed0e5fa5c5cd5075ebe7dc1a98e8e77",
+   "prior_hash": "aa612504c76cce401caf54b342c5340d72e817e32e307c5701b7bcf6b71b1f27",
+   "repair_note": "Review fix: leaked labels removed from notes block B5 and from P02/P03 model answers; P03(b) restored the missing health indicator; P03(c) now matches its stem (spending added, funded by borrowing, not moved); flashcard answers trimmed for recall"
   },
   {
    "block_id": "CU-0455-5.4.1-B6",

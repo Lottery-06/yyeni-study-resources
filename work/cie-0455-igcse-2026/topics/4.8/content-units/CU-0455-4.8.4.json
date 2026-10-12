@@ -33,7 +33,7 @@
    "block_id": "4.8.4-b2",
    "block_type": "stakeholder_effect",
    "heading": "Who gains and who loses from inflation",
-   "text": "Inflation moves buying power between people: savers holding money lose, because the same sum buys less as prices climb; lenders repaid in fixed money sums tend to lose where the interest does not make up the climb, while borrowers gain the mirror image - a debt fixed in money is repaid in goods worth less than the sum lent. Workers on fixed money wages tend to lose until pay catches up, and firms are caught both ways: dearer inputs, yet prices they can set.",
+   "text": "Inflation moves buying power between people: savers holding money lose, because the same sum buys less as prices climb; lenders repaid in fixed money sums tend to lose where the interest does not make up the climb, while borrowers gain the mirror image - a debt fixed in money is repaid in money that buys less than the sum lent. Workers on fixed money wages tend to lose until pay catches up. Firms face dearer inputs, but many can raise their own prices too, so how they fare depends on which rises faster.",
    "claim_ids": [
     "CLM-0455-4.8-013"
    ],
@@ -45,13 +45,15 @@
    "claims_seen": {
     "CLM-0455-4.8-013": 1
    },
-   "authored_hash": "80021568c86db2922b8b834255df721c762b0eea3d90bbd0f5e13159498aba6a"
+   "authored_hash": "0ce3d197455cfcd3bd1076d2b8783455be1fbf24f1ef66764a430fd84b033e63",
+   "prior_hash": "80021568c86db2922b8b834255df721c762b0eea3d90bbd0f5e13159498aba6a",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; 'Two creditable elements' and label chains removed; P02(e) wage pass-through corrected to cost-push; 4.8-006 answer no longer invents a N$30 000 basket; 4.8-017 'halving' corrected; topic cross-references corrected (price stability aim is 4.2, current account is 6.4)."
   },
   {
    "block_id": "4.8.4-b3",
    "block_type": "analysis_chain",
    "heading": "Inflation through the wider economy",
-   "text": "Where inflation is high or unexpected, its consequences run beyond redistribution. Firms cannot predict input costs or set prices with confidence, so investment waits, and wage bargaining turns into a chase: prices climb, wages follow, costs climb again. Exports tend to become dearer against rivals' goods where domestic prices climb faster than trading partners' prices - the current account of topic 6.2.",
+   "text": "Where inflation is high or unexpected, its consequences run beyond redistribution. Firms cannot predict input costs or set prices with confidence, so investment waits, and wage bargaining turns into a chase: prices climb, wages follow, costs climb again. Exports tend to become dearer against rivals' goods where domestic prices climb faster than trading partners' prices - the current account of topic 6.4.",
    "claim_ids": [
     "CLM-0455-4.8-014"
    ],
@@ -62,13 +64,15 @@
    "claims_seen": {
     "CLM-0455-4.8-014": 1
    },
-   "authored_hash": "3076a801b36351b283a65a929bf2b886a20a030afdb0139a75c3420b18b91e87"
+   "authored_hash": "4c8a3ddbe26a1028340dbf7226457dd454cbc25d687c61670edc829a9dfbe2db",
+   "prior_hash": "3076a801b36351b283a65a929bf2b886a20a030afdb0139a75c3420b18b91e87",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; 'Two creditable elements' and label chains removed; P02(e) wage pass-through corrected to cost-push; 4.8-006 answer no longer invents a N$30 000 basket; 4.8-017 'halving' corrected; topic cross-references corrected (price stability aim is 4.2, current account is 6.4)."
   },
   {
    "block_id": "4.8.4-b4",
    "block_type": "analysis_chain",
    "heading": "Deflation's chains",
-   "text": "A falling general price level chains into the real economy. Chain one: buyers expect lower prices later, so they postpone purchases; firms see sales fall, cut output and lay off workers; the workers who lose income spend less, so prices fall again. Chain two: debts are fixed in money, and each unit of money now buys more, so the real burden of each loan grows as the price level falls - households and firms cut spending to service debts, deepening the fall.",
+   "text": "A falling general price level chains into the real economy in two ways. First, buyers expect lower prices later, so they postpone purchases; firms see sales fall, cut output and lay off workers; the workers who lose income spend less, so prices fall again. Second, debts are fixed in money, and each unit of money now buys more, so the real burden of each loan grows as the price level falls - households and firms cut spending to service debts, deepening the fall.",
    "claim_ids": [
     "CLM-0455-4.8-015"
    ],
@@ -79,13 +83,15 @@
    "claims_seen": {
     "CLM-0455-4.8-015": 1
    },
-   "authored_hash": "524ab93bfa6dd4ff4775fbcfdbd7f9e9afb416df2e54e50967f3eba483e72de5"
+   "authored_hash": "d116a9d1927d8cd879ded70130b5dcdae5a1f37520a4aa21fd392abca510b781",
+   "prior_hash": "524ab93bfa6dd4ff4775fbcfdbd7f9e9afb416df2e54e50967f3eba483e72de5",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; 'Two creditable elements' and label chains removed; P02(e) wage pass-through corrected to cost-push; 4.8-006 answer no longer invents a N$30 000 basket; 4.8-017 'halving' corrected; topic cross-references corrected (price stability aim is 4.2, current account is 6.4)."
   },
   {
    "block_id": "4.8.4-b5",
    "block_type": "evaluation",
    "heading": "Which is harder to manage",
-   "text": "A low, steady rise in the general price level tends to be easier to manage than falling prices: wages and debts adjust more smoothly where the price level edges up gently, and the chains above stay quiet. Deflation, where it takes hold, risks the self-feeding spiral of postponed spending - the reason the price stability aim of topic 4.1 is set at a low, steady rise rather than zero.",
+   "text": "A low, steady rise in the general price level tends to be easier to manage than falling prices: wages and debts adjust more smoothly where the price level edges up gently, and the chains above stay quiet. Deflation, where it takes hold, risks the self-feeding spiral of postponed spending - the reason the price stability aim of topic 4.2 is set at a low, steady rise rather than zero.",
    "claim_ids": [
     "CLM-0455-4.8-016"
    ],
@@ -97,13 +103,15 @@
    "claims_seen": {
     "CLM-0455-4.8-016": 1
    },
-   "authored_hash": "aa4aa7bb21e75f7272fd53c9871bcd0db0ed6998ab113cf86ffec8b32ddfa7d7"
+   "authored_hash": "881494472d02ee4deaa01215412257838efd407148caca279aaa113b9cd7dc67",
+   "prior_hash": "aa4aa7bb21e75f7272fd53c9871bcd0db0ed6998ab113cf86ffec8b32ddfa7d7",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; 'Two creditable elements' and label chains removed; P02(e) wage pass-through corrected to cost-push; 4.8-006 answer no longer invents a N$30 000 basket; 4.8-017 'halving' corrected; topic cross-references corrected (price stability aim is 4.2, current account is 6.4)."
   },
   {
    "block_id": "4.8.4-b6",
    "block_type": "cross_link",
    "heading": "Connections",
-   "text": "These consequences are what the policies of the next section are chosen to avoid, and the export prices among them belong with topic 6.2.",
+   "text": "These consequences are what the policies of the next section are chosen to avoid, and the export prices among them belong with topic 6.4.",
    "claim_ids": [
     "CLM-0455-4.8-014"
    ],
@@ -114,7 +122,9 @@
    "claims_seen": {
     "CLM-0455-4.8-014": 1
    },
-   "authored_hash": "f7387d997df14cf511b21f06c93ce2cde5035af56b06a42aa17cf652b0f43167"
+   "authored_hash": "ecc34afb8fb92ae1aacd0a8f50badd6dad224a8076719cf09dc0fd0a3f603aa1",
+   "prior_hash": "f7387d997df14cf511b21f06c93ce2cde5035af56b06a42aa17cf652b0f43167",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; 'Two creditable elements' and label chains removed; P02(e) wage pass-through corrected to cost-push; 4.8-006 answer no longer invents a N$30 000 basket; 4.8-017 'halving' corrected; topic cross-references corrected (price stability aim is 4.2, current account is 6.4)."
   }
  ],
  "word_count": 360

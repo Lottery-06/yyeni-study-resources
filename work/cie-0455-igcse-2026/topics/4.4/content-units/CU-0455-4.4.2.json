@@ -32,8 +32,8 @@
   {
    "block_id": "4.4.2-b2",
    "block_type": "plain_explanation",
-   "heading": "The two main measures",
-   "text": "The first measure is changing interest rates: the central bank raises or lowers the rate at which it lends to commercial banks, which tend to move their loan and deposit rates the same way. The second measure is controlling the growth of the money supply: the central bank can sell government securities to banks, which pay from their reserves and then hold less to lend, or tighten the rules under which banks create new deposits through lending.",
+   "heading": "The three main measures",
+   "text": "The first measure is changing interest rates: the central bank raises or lowers the rate at which it lends to commercial banks, which tend to move their loan and deposit rates the same way. The second is controlling the growth of the money supply: the central bank can sell government securities to banks, which pay from their reserves and then hold less to lend, or tighten the rules under which banks create new deposits through lending. The third is changing the foreign exchange rate: a central bank can buy its own currency with its foreign currency reserves, which tends to raise its price, or sell it, which tends to lower it. The Namibian dollar is tied one-for-one to the South African rand, so the Bank of Namibia uses this measure to hold that link steady; how exchange rates are set is developed in topic 6.3.",
    "claim_ids": [
     "CLM-0455-4.4-004",
     "CLM-0455-4.4-005"
@@ -43,10 +43,12 @@
     "AO1"
    ],
    "claims_seen": {
-    "CLM-0455-4.4-004": 1,
+    "CLM-0455-4.4-004": 2,
     "CLM-0455-4.4-005": 1
    },
-   "authored_hash": "e264fbb43949ddcbfe72d8b702c98fbcfa99a14c9b3f108ea6c9aaf758ede5c1"
+   "authored_hash": "89141ee05e0c3092c3fc92729406d15dda4ee26d957f69cf8b2190773f3729ab",
+   "prior_hash": "e264fbb43949ddcbfe72d8b702c98fbcfa99a14c9b3f108ea6c9aaf758ede5c1",
+   "repair_note": "Review fix: monetary policy measures now include the foreign exchange rate (claims 002, 004, 006 revised); leaked register wording removed from P01; authoring labels removed; flashcard answers trimmed for recall."
   },
   {
    "block_id": "4.4.2-b3",
@@ -63,15 +65,16 @@
    ],
    "claims_seen": {
     "CLM-0455-4.4-005": 1,
-    "CLM-0455-4.4-004": 1
+    "CLM-0455-4.4-004": 2
    },
-   "authored_hash": "6fd5cf154af7704de8cdab7683de3737bc052b3b6d09be53ca445c87231fa4b5"
+   "authored_hash": "6fd5cf154af7704de8cdab7683de3737bc052b3b6d09be53ca445c87231fa4b5",
+   "reviewed_unchanged": "The chain traces a rate rise only, which the revised list of measures still contains; the added exchange-rate measure needs no change here."
   },
   {
    "block_id": "4.4.2-b4",
    "block_type": "misconception",
    "heading": "Monetary measures or supply-side measures?",
-   "text": "The boundary: a monetary measure works on the cost of borrowing and the stock of money; a supply-side measure works on the economy's capacity to produce. The test is to ask what the measure changes - the price of money, or what the economy can produce. A grant helping Kaoko Juice buy bottling equipment is supply-side; a policy-rate rise is monetary.",
+   "text": "The boundary: a monetary measure works on the price and quantity of money - interest rates, the money supply, the exchange rate; a supply-side measure works on the economy's capacity to produce. The test is to ask what the measure changes - the price of money, or what the economy can produce. A grant helping Kaoko Juice buy bottling equipment is supply-side; a policy-rate rise is monetary.",
    "claim_ids": [
     "CLM-0455-4.4-006"
    ],
@@ -81,15 +84,17 @@
     "AO2"
    ],
    "claims_seen": {
-    "CLM-0455-4.4-006": 1
+    "CLM-0455-4.4-006": 2
    },
-   "authored_hash": "331e4a7feaa93f0b65e242e7c57912f5f4da147ca9e9c33bb8beb97679a06e11"
+   "authored_hash": "389b25bd02c936bd505e500f11195d89900e46d25f335279e7b4ab426a350925",
+   "prior_hash": "331e4a7feaa93f0b65e242e7c57912f5f4da147ca9e9c33bb8beb97679a06e11",
+   "repair_note": "Review fix: monetary policy measures now include the foreign exchange rate (claims 002, 004, 006 revised); leaked register wording removed from P01; authoring labels removed; flashcard answers trimmed for recall."
   },
   {
    "block_id": "4.4.2-b5",
    "block_type": "evaluation",
    "heading": "Strength and drawbacks",
-   "text": "Strength: interest-rate changes work through the whole banking system at once, reaching households and firms across the economy within days. Drawbacks: the effects arrive with a delay, spending financed without bank credit responds less, and dearer borrowing may hold back firms' building projects and jobs. A rate rise cools credit-financed spending faster than it cools a cash-only market stall, in Vietnam as in Namibia.",
+   "text": "The strength of interest-rate changes is reach: they work through the whole banking system at once, reaching households and firms across the economy within days. Their drawbacks are that the effects arrive with a delay, spending financed without bank credit responds less, and dearer borrowing may hold back firms' building projects and jobs. A rate rise cools credit-financed spending faster than a cash-only market stall, in Vietnam as in Namibia.",
    "claim_ids": [
     "CLM-0455-4.4-007",
     "CLM-0455-4.4-008"
@@ -103,7 +108,9 @@
     "CLM-0455-4.4-007": 1,
     "CLM-0455-4.4-008": 1
    },
-   "authored_hash": "2a768df59e1996c40c5bc6fd5b8cfa17fbfd4f2adbc86a5d91fabbadb95580d6"
+   "authored_hash": "5a869638819e29483228ecf9561c942ddfe406db8bf4c16853afeb9bf2bd7b3b",
+   "prior_hash": "2a768df59e1996c40c5bc6fd5b8cfa17fbfd4f2adbc86a5d91fabbadb95580d6",
+   "repair_note": "Review fix: monetary policy measures now include the foreign exchange rate (claims 002, 004, 006 revised); leaked register wording removed from P01; authoring labels removed; flashcard answers trimmed for recall."
   },
   {
    "block_id": "4.4.2-b6",

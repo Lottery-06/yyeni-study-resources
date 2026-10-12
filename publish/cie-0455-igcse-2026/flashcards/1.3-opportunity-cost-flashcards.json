@@ -68,7 +68,7 @@
    "mark_tariff": 2,
    "difficulty": 1,
    "prompt": "A farmer near Otavi plants his one irrigated field with maize and gives up the sunflower crop he ranked second. Identify the two features of his situation that together define the opportunity cost of the maize.",
-   "canonical_answer": "The choice: the field is used for maize, so one use is selected from competing uses. The next best alternative forgone: the sunflower crop he ranked second is the sacrifice, not every crop he might have planted. Those two features - a choice made and the next best alternative given up - together define the opportunity cost, here the sunflower harvest.",
+   "canonical_answer": "First, a choice: the field is used for maize, one use selected from competing uses. Second, the next best alternative forgone: the sunflower crop he ranked second, not every crop he might have planted. Together they make the sunflower harvest the opportunity cost.",
    "marking_guidance": [
     "Features: the two elements required are the choice itself and the next best alternative given up; ranking second is what picks the sunflowers, and the forgone harvest is the measured cost."
    ],
@@ -88,7 +88,9 @@
     "CLM-0455-1.3-001": 1,
     "CLM-0455-1.3-002": 1
    },
-   "authored_hash": "ff98b37f7aef7fe37b8bc5862034d5086bfc78219dd2b289a0a3decd11255662",
+   "authored_hash": "6c7483cae0d7707218a5becefd8d9e75610095e411381ee6e910f93df248b4f0",
+   "prior_hash": "ff98b37f7aef7fe37b8bc5862034d5086bfc78219dd2b289a0a3decd11255662",
+   "repair_note": "Reviewer 2026-10-13: 003 Define-on-a-heading reworded as State; P02 possessive and (b) tariff fit fixed; P01 explanation slips fixed; leaked chain labels removed from P03 and notes block 1.3.2-b3; flashcard answers trimmed for recall.",
    "objective_titles": [
     "definition of opportunity cost"
    ]
@@ -109,13 +111,13 @@
    ],
    "blooms_level": "Remember",
    "blooms_level_basis": "subtype DEF",
-   "command_word": "Define",
+   "command_word": "State",
    "mark_tariff": 2,
    "difficulty": 3,
-   "prompt": "Define what is meant by the influence of opportunity cost on decision making.",
-   "canonical_answer": "The influence of opportunity cost on decision making is that a decision maker weighs the expected benefit of the option chosen against the expected benefit of the next best alternative, and tends to choose the option whose benefit exceeds what the alternative would have yielded.",
+   "prompt": "State how opportunity cost influences a decision maker's choice between two options.",
+   "canonical_answer": "The decision maker weighs the expected benefit of each option against the benefit of the next best alternative it would give up, and tends to choose the option whose benefit exceeds the benefit forgone.",
    "marking_guidance": [
-    "Meaning: the definition must state the weighing of the chosen benefit against the forgone next best benefit as what guides the choice."
+    "Meaning: the answer must state the weighing of the chosen benefit against the forgone next best benefit as what guides the choice."
    ],
    "context": {
     "sector": null,
@@ -133,7 +135,9 @@
     "CLM-0455-1.3-004": 1,
     "CLM-0455-1.3-005": 1
    },
-   "authored_hash": "bdd981e24f7a730e35398462cfb254ba372ab0cdbfb6d4d6e35b52c3a1676dba",
+   "authored_hash": "87b4f1732cb82206a9139c8fe13ca60e0ee5efa319b08c877c287dbfb9f072d3",
+   "prior_hash": "bdd981e24f7a730e35398462cfb254ba372ab0cdbfb6d4d6e35b52c3a1676dba",
+   "repair_note": "Reviewer 2026-10-13: 003 Define-on-a-heading reworded as State; P02 possessive and (b) tariff fit fixed; P01 explanation slips fixed; leaked chain labels removed from P03 and notes block 1.3.2-b3; flashcard answers trimmed for recall.",
    "objective_titles": [
     "the influence of opportunity cost on decision making"
    ]
@@ -159,7 +163,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "The council of a town near Gobabis has N$1.5 million to spend and must choose between upgrading the water pipes or resurfacing the main road. Analyse how opportunity cost influences this decision and who gains or loses from whichever project is chosen.",
-   "canonical_answer": "Starting point: the council has N$1.5 million, a finite fund, and two competing uses for it, so choosing one project means giving up the other. Mechanism: because the same money cannot fund both, the council compares the expected benefit of each - the value of water saved from leaks against the value of shorter travel times and lower vehicle damage - and the project whose expected benefit is larger tends to be chosen. The benefit of the forgone project is the opportunity cost of the choice. If pipes rank first, the resurfacing is the cost; if the road ranks first, the leaking water is. Consequence: therefore the choice lands on real parties. Choosing pipes means households along the main road continue to pay suspension repairs on the potholes, while households near the reservoir gain reliable supply; choosing the road means drivers gain lower repair costs while households endure rationing when the dry season strains the old pipes. For whom: the council itself spends either way, drivers gain from the road, households gain from the pipes, and the group whose project was forgone carries the opportunity cost of the decision.",
+   "canonical_answer": "The council has one finite fund of N$1.5 million and two competing uses, so choosing one project means giving up the other. It compares the expected benefit of each - water saved from leaks against shorter journeys and less vehicle damage - and tends to choose the larger. The benefit of the forgone project is the opportunity cost. If the pipes are chosen, households near the reservoir gain a reliable supply while drivers keep paying for pothole damage; if the road is chosen, drivers gain while households face rationing when the dry season strains the old pipes. Either way, the group whose project was forgone carries the opportunity cost.",
    "marking_guidance": [
     "Starting point: the initial situation - one finite fund, two competing uses - must be stated.",
     "Mechanism: the comparison of benefits must be explained, because the forgone alternative is what the choice is weighed against.",
@@ -183,7 +187,9 @@
     "CLM-0455-1.3-005": 1,
     "CLM-0455-1.3-006": 1
    },
-   "authored_hash": "832caf45d437c335d2076ba5183aea9529b2e86f6bf2ca46ada85a09caf3b22f",
+   "authored_hash": "23a5286943297df1c6843ce5d87541c47b9ff9efef93fad42fc174e3da6bafc7",
+   "prior_hash": "832caf45d437c335d2076ba5183aea9529b2e86f6bf2ca46ada85a09caf3b22f",
+   "repair_note": "Reviewer 2026-10-13: 003 Define-on-a-heading reworded as State; P02 possessive and (b) tariff fit fixed; P01 explanation slips fixed; leaked chain labels removed from P03 and notes block 1.3.2-b3; flashcard answers trimmed for recall.",
    "objective_titles": [
     "the influence of opportunity cost on decision making"
    ]
@@ -209,7 +215,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Kaoko Juice has one bottling line for the week and must choose between a mango nectar run that would earn N$26 000 and a marula juice run that would earn N$18 000. Using the figures, explain how opportunity cost influences the firm's decision and whether the mango run is worthwhile.",
-   "canonical_answer": "The figures set the comparison: the mango run earns N$26 000 and the marula run, the next best use of the same line, earns N$18 000. Opportunity cost influences the decision because the line is scarce - it can bottle one fruit that week - so choosing mango means giving up marula, and the N$18 000 forgone is the cost of the mango run. The mango run is worthwhile because its benefit of N$26 000 exceeds the N$18 000 next best alternative given up, which means the choice earns the firm N$8 000 more than its opportunity cost. Therefore the weighing of benefit against forgone benefit, not the money cost of the run, is what decides.",
+   "canonical_answer": "The line can bottle only one fruit that week, so choosing mango means giving up marula: the N$18 000 forgone is the opportunity cost of the mango run. The mango run is worthwhile because its N$26 000 benefit exceeds that cost by N$26 000 - N$18 000 = N$8 000. Therefore the decision rests on weighing benefit against the benefit forgone, not on the money cost of the run.",
    "marking_guidance": [
     "Context: the data - N$26 000 against N$18 000 - must be used to set the comparison.",
     "Reasoning: the link must be made - the scarcer line forces the choice, and the forgone run is the cost.",
@@ -231,7 +237,9 @@
     "CLM-0455-1.3-004": 1,
     "CLM-0455-1.3-005": 1
    },
-   "authored_hash": "e4563bf21467e7db06797c72e9dd6a77a98d76c92eb166a290a7be7ee2c16264",
+   "authored_hash": "37ebdbc2ad7e78108c9c24e41eac980a7d9f2f064b2a736064530e99a4458ee9",
+   "prior_hash": "e4563bf21467e7db06797c72e9dd6a77a98d76c92eb166a290a7be7ee2c16264",
+   "repair_note": "Reviewer 2026-10-13: 003 Define-on-a-heading reworded as State; P02 possessive and (b) tariff fit fixed; P01 explanation slips fixed; leaked chain labels removed from P03 and notes block 1.3.2-b3; flashcard answers trimmed for recall.",
    "objective_titles": [
     "the influence of opportunity cost on decision making"
    ]
@@ -259,7 +267,7 @@
    "mark_tariff": null,
    "difficulty": 3,
    "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. Opportunity cost is best defined as:\nA  the money paid for the chosen option\nB  the benefit lost from the next best alternative given up\nC  the total of everything given up\nD  the cheapest available option\n\n2. A student spends N$50 on a book. The same N$50 would have bought data worth N$45 to her. Her opportunity cost is:\nA  N$50\nB  N$45\nC  N$5\nD  the book\n\n3. Why does every choice carry an opportunity cost?\nA  because prices usually rise\nB  because resources are scarce and cannot serve two uses at once\nC  because governments tax choices\nD  because wants are limited\n\n4. A choice tends to be worthwhile when:\nA  it is the cheapest option\nB  its benefit exceeds the benefit of the next best alternative\nC  its money cost is zero\nD  it has no alternatives\n\n5. A council funds pipes instead of a road. The opportunity cost of the pipes is:\nA  the money spent on pipes\nB  the road forgone\nC  the pipes and the road together\nD  the taxes that funded the budget\n\n6. A worker values a free Saturday at N$300 and is offered a shift paying N$420. Taking the shift costs her, in opportunity cost terms:\nA  N$420\nB  N$300\nC  N$720\nD  nothing, the Saturday was free\n\n7. Opportunity cost influences decision making because decision makers:\nA  compare the chosen benefit with the forgone benefit\nB  always avoid money costs\nC  must obey government rules\nD  prefer the cheapest option\n\n8. A firm's line can run mango (N$26 000) or marula (N$18 000). Choosing mango means the opportunity cost is:\nA  N$44 000\nB  N$26 000\nC  N$18 000\nD  N$8 000",
-   "canonical_answer": "Key: 1 B, 2 B, 3 B, 4 B, 5 B, 6 B, 7 A, 8 C.\n1. B is the definition (next best alternative forgone); A confuses money cost with opportunity cost, C adds every alternative together when the next best alone is the cost, D confuses cheapness with forgone benefit.\n2. The next best alternative is the data at N$45 (B); A confuses money spent with forgone benefit, C mistakes the gap for the cost, D mistakes the chosen good for the forgone one.\n3. Scarcity prevents a resource serving two uses at once (B); A blames rising prices, C invents a tax rule, D reverses the economic problem.\n4. Worthwhile means exceeding the next best alternative (B); A confuses cheap with worthwhile, B is the weighing test itself, C confuses zero money cost with zero opportunity cost, D denies scarcity.\n5. The forgone road is the cost (B); A is the money cost, C stacks every alternative together, D mistakes funding source for forgone benefit.\n6. The Saturday of her own use, valued at N$300, is the cost of the shift (B); A counts the pay received rather than the sacrifice, C adds pay to sacrifice, D assumes a free morning carries no cost.\n7. The weighing of chosen against forgone benefit is the influence (A); B, C and D each replace the comparison with a rule that is not the mechanism of opportunity cost.\n8. Marula, the next best run at N$18 000, is the cost (C); A stacks both runs together, B counts the benefit received, D mistakes the surplus over the alternative for the cost.",
+   "canonical_answer": "Key: 1 B, 2 B, 3 B, 4 B, 5 B, 6 B, 7 A, 8 C.\n1. B is the definition (next best alternative forgone); A confuses money cost with opportunity cost, C adds every alternative together when the next best alone is the cost, D confuses cheapness with forgone benefit.\n2. The next best alternative is the data at N$45 (B); A confuses money spent with forgone benefit, C mistakes the gap for the cost, D mistakes the chosen good for the forgone one.\n3. Scarcity prevents a resource serving two uses at once (B); A blames rising prices, C invents a tax rule, D reverses the economic problem.\n4. Worthwhile means exceeding the next best alternative (B); A confuses cheap with worthwhile, C confuses zero money cost with zero opportunity cost, D denies scarcity.\n5. The forgone road is the cost (B); A is the money cost, C stacks every alternative together, D mistakes funding source for forgone benefit.\n6. The Saturday of her own use, valued at N$300, is the cost of the shift (B); A counts the pay received rather than the sacrifice, C adds pay to sacrifice, D assumes a free day carries no cost.\n7. The weighing of chosen against forgone benefit is the influence (A); B, C and D each replace the comparison with a rule that is not the mechanism of opportunity cost.\n8. Marula, the next best run at N$18 000, is the cost (C); A stacks both runs together, B counts the benefit received, D mistakes the surplus over the alternative for the cost.",
    "marking_guidance": [
     "Key: one mark per question, eight in total; the correct option for each is listed and each distractor is explained as the specific misunderstanding it catches.",
     "Every distractor traces to a named error: money cost confused with opportunity cost, every alternative stacked instead of the next best, the pay received mistaken for the sacrifice, zero money cost mistaken for zero opportunity cost."
@@ -281,7 +289,9 @@
     "CLM-0455-1.3-002": 1,
     "CLM-0455-1.3-004": 1
    },
-   "authored_hash": "138766e71362f1ef8d3bea74c8eaf388ee755194bbc6096e8ed4b2174c403fea",
+   "authored_hash": "6153e6377e3356979c02bab38045b2a42a4c5a98a17276f31f8534a04a6d2d4a",
+   "prior_hash": "138766e71362f1ef8d3bea74c8eaf388ee755194bbc6096e8ed4b2174c403fea",
+   "repair_note": "Reviewer 2026-10-13: 003 Define-on-a-heading reworded as State; P02 possessive and (b) tariff fit fixed; P01 explanation slips fixed; leaked chain labels removed from P03 and notes block 1.3.2-b3; flashcard answers trimmed for recall.",
    "objective_titles": [
     "definition of opportunity cost",
     "the influence of opportunity cost on decision making"
@@ -310,8 +320,8 @@
    "command_word": null,
    "mark_tariff": null,
    "difficulty": 5,
-   "prompt": "A radio report from northern Namibia, 2026: \"Etosha Gate Lodge must choose what to do with its twelve spare rooms and its one qualified guide this season. A birdwatching package would earn N$240 000; a photography package, which needs the guide full-time, would earn N$205 000. The lodge manager says staff cannot run both because each needs the same guide. The lodge total budget for the season is N$300 000.\"\n\nTable 1 - Etosha Gate Lodge, this season\n  birdwatching package earnings: N$240 000\n  photography package earnings: N$205 000\n  one qualified guide, hours available: 1 800\n  season budget: N$300 000\n\n(a) Calculate the difference between the two packages' expected earnings. [1]\n(b) Identify from Table 1 the resource that forces the choice between the two packages. [2]\n(c) Explain why the photography package has an opportunity cost even though the manager expects it to earn money. [4]\n(d) Analyse how opportunity cost should influence the lodge's decision, using the figures, and what would change the decision. [6]",
-   "canonical_answer": "(a) N$240 000 - N$205 000 = N$35 000.\n(b) The one qualified guide (from Table 1): each package needs the same 1 800 hours of that guide, so the guide's time is the scarce resource that rules out running both.\n(c) An opportunity cost is a cost of choosing, not a cost of losing. The photography package earns money, but choosing it means giving up the birdwatching package, whose expected earnings of N$240 000 are forgone. The opportunity cost of the photography package is therefore the N$240 000 the lodge gives up, because the guide's time cannot serve both. Earning money does not remove the cost: the question is what the same guide-time would have earned elsewhere, and here that amount is larger than what photography yields.\n(d) Expected relationship: the package with the larger benefit relative to its forgone alternative is the one the scales favour. Evidence from the data: birdwatching earns N$240 000 and photography N$205 000, so choosing photography costs N$240 000 in forgone earnings, while choosing birdwatching costs N$205 000; the difference between the two forgone amounts is N$35 000. Analysis: because the guide is the binding resource, the lodge should run birdwatching: its benefit exceeds its opportunity cost by N$35 000, whereas photography falls N$35 000 short of its own next best use. Consequences land on the lodge owners, who gain the higher return, on the photographers among the guests, who lose the package they preferred, and on local guides who might have been hired had a second guide been trained. Exception: the decision changes if the figures change - where the photography package builds a reputation that raises future seasons' earnings above the N$35 000 gap, or where birdwatching demand proves weaker than forecast, the weighing tips back toward photography, because opportunity cost is measured on expected benefits and expectations can move.",
+   "prompt": "A radio report from northern Namibia, 2026: \"Etosha Gate Lodge must choose what to do with its twelve spare rooms and its one qualified guide this season. A birdwatching package would earn N$240 000; a photography package, which needs the guide full-time, would earn N$205 000. The lodge manager says staff cannot run both because each needs the same guide. The lodge's total budget for the season is N$300 000.\"\n\nTable 1 - Etosha Gate Lodge, this season\n  birdwatching package earnings: N$240 000\n  photography package earnings: N$205 000\n  one qualified guide, hours available: 1 800\n  season budget: N$300 000\n\n(a) Calculate the difference between the two packages' expected earnings. [1]\n(b) Identify from Table 1 the resource that forces the choice between the two packages, and state why it forces the choice. [2]\n(c) Explain why the photography package has an opportunity cost even though the manager expects it to earn money. [4]\n(d) Analyse how opportunity cost should influence the lodge's decision, using the figures, and what would change the decision. [6]",
+   "canonical_answer": "(a) N$240 000 - N$205 000 = N$35 000.\n(b) The one qualified guide [1]; each package needs the same guide's 1 800 hours, so the lodge cannot run both [1].\n(c) An opportunity cost is a cost of choosing, not a cost of losing. The photography package earns money, but choosing it means giving up the birdwatching package, whose expected earnings of N$240 000 are forgone. The opportunity cost of the photography package is therefore the N$240 000 the lodge gives up, because the guide's time cannot serve both. Earning money does not remove the cost: the question is what the same guide-time would have earned elsewhere, and here that amount is larger than what photography yields.\n(d) Expected relationship: the package with the larger benefit relative to its forgone alternative is the one the scales favour. Evidence from the data: birdwatching earns N$240 000 and photography N$205 000, so choosing photography costs N$240 000 in forgone earnings, while choosing birdwatching costs N$205 000; the difference between the two forgone amounts is N$35 000. Analysis: because the guide is the binding resource, the lodge should run birdwatching: its benefit exceeds its opportunity cost by N$35 000, whereas photography falls N$35 000 short of its own next best use. Consequences land on the lodge owners, who gain the higher return, on the photographers among the guests, who lose the package they preferred, and on local guides who might have been hired had a second guide been trained. Exception: the decision changes if the figures change - where the photography package builds a reputation that raises future seasons' earnings above the N$35 000 gap, or where birdwatching demand proves weaker than forecast, the weighing tips back toward photography, because opportunity cost is measured on expected benefits and expectations can move.",
    "marking_guidance": [
     "Context: parts (a) and (b) must be read from the data; the six-mark part must use the figures as evidence - the N$35 000 gap and the guide's 1 800 hours.",
     "Reasoning: one mark per distinct linked statement in (c); the link from choosing to forgoing must be made, because a package that earns money can still carry a cost.",
@@ -340,7 +350,9 @@
     "CLM-0455-1.3-004": 1,
     "CLM-0455-1.3-005": 1
    },
-   "authored_hash": "b7e591aabdf69a7f70da4adfe7aa5b424432f240521b6487dfbaf306f86f47ae",
+   "authored_hash": "f5241ffb0803937b0fe12e3ad2d30f479e96ffa557b26db49cf860177aab7d30",
+   "prior_hash": "b7e591aabdf69a7f70da4adfe7aa5b424432f240521b6487dfbaf306f86f47ae",
+   "repair_note": "Reviewer 2026-10-13: 003 Define-on-a-heading reworded as State; P02 possessive and (b) tariff fit fixed; P01 explanation slips fixed; leaked chain labels removed from P03 and notes block 1.3.2-b3; flashcard answers trimmed for recall.",
    "objective_titles": [
     "definition of opportunity cost",
     "the influence of opportunity cost on decision making"
@@ -372,7 +384,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "Otjiwa Dairy has one delivery truck and N$80 000 spare for the year. The truck can serve either the Windhoek hotels route, which would add N$95 000 of sales, or the Oshakati retail route, which would add N$78 000. The N$80 000 could upgrade cold storage or fund a second season of radio advertising.\n(a) Define opportunity cost. [2]\n(b) Explain why the truck route choice carries an opportunity cost, using the figures. [4]\n(c) Analyse how opportunity cost influences this firm's decisions about the truck and the N$80 000, and who is affected. [6]\n(d) Discuss whether a firm should always choose the option with the higher expected money benefit. [8]",
-   "canonical_answer": "(a) Opportunity cost is the benefit lost from the next best alternative that is given up when a choice is made.\n(b) The truck is scarce: it can drive one route at a time, so serving Windhoek means not serving Oshakati. Choosing the Windhoek hotels route adds N$95 000 of sales, and its opportunity cost is the N$78 000 of Oshakati sales forgone; choosing Oshakati costs the N$95 000 of hotel sales. Because the same resource cannot serve both routes, the choice necessarily gives one up, which is why the cost exists whatever route is chosen.\n(c) Starting point: one truck, one N$80 000 fund, and two competing uses for each. Mechanism: the firm ranks the alternatives and compares benefits - the Windhoek route earns N$95 000 against an Oshakati forgone benefit of N$78 000, so the hotel route exceeds its opportunity cost by N$17 000 and is favoured; the N$80 000 is weighed the same way, cold storage against advertising, by the sales each would protect or add. Consequence: therefore the hotel route tends to be chosen, Oshakati retailers lose the fresh supply runs, hotel guests gain reliable deliveries, and the firm earns N$17 000 more than the sacrifice the choice creates. For whom: Oshakati shops and their customers carry the cost of forgone supply, Windhoek hotels gain, and the firm's owners gain the higher return - the opportunity cost is carried by whoever wanted the forgone option.\n(d) Why it might: money benefit is the measurable yardstick, and a firm that cannot pay its way fails those who depend on it, so choosing the higher money benefit - here the Windhoek route - is defensible because it exceeds the next best alternative. Why it might not: money benefit alone can miss costs and gains that money does not record - the Oshakati route might build loyalty among retailers who later order more, or the advertising might lift every route at once - and a single year's figures can mislead where one option builds reputation whose returns arrive later. Judgement: the firm should start from the higher expected money benefit, because the weighing of benefit against forgone benefit is the sound test, but should adjust it where a forgone option carries later or unpriced gains; the judgement depends on whether the non-money effects - loyalty, reputation, spread of risk - are expected to exceed the N$17 000 gap in later years.",
+   "canonical_answer": "(a) Opportunity cost is the benefit lost from the next best alternative that is given up when a choice is made.\n(b) The truck is scarce: it can drive one route at a time, so serving Windhoek means not serving Oshakati. Choosing the Windhoek hotels route adds N$95 000 of sales, and its opportunity cost is the N$78 000 of Oshakati sales forgone; choosing Oshakati costs the N$95 000 of hotel sales. Because the same resource cannot serve both routes, the choice necessarily gives one up, which is why the cost exists whatever route is chosen.\n(c) There is one truck, one N$80 000 fund, and two competing uses for each. The firm ranks the alternatives and compares benefits - the Windhoek route earns N$95 000 against an Oshakati forgone benefit of N$78 000, so the hotel route exceeds its opportunity cost by N$17 000 and is favoured; the N$80 000 is weighed the same way, cold storage against advertising, by the sales each would protect or add. Therefore the hotel route tends to be chosen, Oshakati retailers lose the fresh supply runs, hotel guests gain reliable deliveries, and the firm earns N$17 000 more than the sacrifice the choice creates. Overall, Oshakati shops and their customers carry the cost of forgone supply, Windhoek hotels gain, and the firm's owners gain the higher return - the opportunity cost is carried by whoever wanted the forgone option.\n(d) Why it might: money benefit is the measurable yardstick, and a firm that cannot pay its way fails those who depend on it, so choosing the higher money benefit - here the Windhoek route - is defensible because it exceeds the next best alternative. Why it might not: money benefit alone can miss costs and gains that money does not record - the Oshakati route might build loyalty among retailers who later order more, or the advertising might lift every route at once - and a single year's figures can mislead where one option builds reputation whose returns arrive later. Judgement: the firm should start from the higher expected money benefit, because the weighing of benefit against forgone benefit is the sound test, but should adjust it where a forgone option carries later or unpriced gains; the judgement depends on whether the non-money effects - loyalty, reputation, spread of risk - are expected to exceed the N$17 000 gap in later years.",
    "marking_guidance": [
     "Parts (a) to (d) carry a model answer each; (d) is level-marked over three bands.",
     "Context: (b) must use the N$95 000 and N$78 000 figures; (c) must trace the decision through to named parties - Oshakati retailers, hotels, owners.",
@@ -402,7 +414,9 @@
     "CLM-0455-1.3-005": 1,
     "CLM-0455-1.3-006": 1
    },
-   "authored_hash": "aaa872129b3a9a20287dcacbeb7e29f387df09ba054b54bf7cdabcc2fddebf6e",
+   "authored_hash": "be4c8bd762aabce736be01b3c6a18585cca9faa2866dd47a12ff72f9b725be6e",
+   "prior_hash": "aaa872129b3a9a20287dcacbeb7e29f387df09ba054b54bf7cdabcc2fddebf6e",
+   "repair_note": "Reviewer 2026-10-13: 003 Define-on-a-heading reworded as State; P02 possessive and (b) tariff fit fixed; P01 explanation slips fixed; leaked chain labels removed from P03 and notes block 1.3.2-b3; flashcard answers trimmed for recall.",
    "objective_titles": [
     "definition of opportunity cost",
     "the influence of opportunity cost on decision making"

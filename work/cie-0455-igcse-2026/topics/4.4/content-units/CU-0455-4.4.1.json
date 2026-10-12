@@ -33,7 +33,7 @@
    "block_id": "4.4.1-b2",
    "block_type": "definition",
    "heading": "Money supply and the policy built on it",
-   "text": "Money supply is the total stock of money in an economy at a point in time: the notes and coins in circulation plus the bank deposits that can be spent by card, cheque or transfer. Deposits count because they pay for goods in the same way cash does. Monetary policy is the use of changes in interest rates and of measures to control the growth of the money supply to influence the economy's performance. In Namibia the Bank of Namibia, the central bank, carries it out, setting the rate at which it lends to commercial banks, and that rate shapes the loan and deposit rates banks offer households and firms. Central banks are often confused with commercial banks: a commercial bank takes deposits and makes loans, while the central bank stands above the banks and steers them. The Bank of Japan plays this steering role, as does the central bank of the Netherlands within the European system.",
+   "text": "Money supply is the total stock of money in an economy at a point in time: the notes and coins in circulation plus the bank deposits that can be spent by card, cheque or transfer. Deposits count because they pay for goods in the same way cash does. Monetary policy is the use of changes in interest rates, the money supply and the foreign exchange rate to influence the economy's performance. In Namibia the Bank of Namibia, the central bank, carries it out, setting the rate at which it lends to commercial banks, and that rate shapes the loan and deposit rates banks offer households and firms. Central banks are often confused with commercial banks: a commercial bank takes deposits and makes loans, while the central bank stands above the banks and steers them. The Bank of Japan plays this steering role, as does the central bank of the Netherlands within the European system.",
    "claim_ids": [
     "CLM-0455-4.4-001",
     "CLM-0455-4.4-002",
@@ -45,10 +45,12 @@
    ],
    "claims_seen": {
     "CLM-0455-4.4-001": 1,
-    "CLM-0455-4.4-002": 1,
+    "CLM-0455-4.4-002": 2,
     "CLM-0455-4.4-003": 1
    },
-   "authored_hash": "26eeeea887c5d0f6ee2e225b2f09a423b730aefc02e3bd2a9b3b474c66294b7c"
+   "authored_hash": "e8664d40fc84046374e10d6a593f68f1a565510081dd15042438c2a7376e5dfd",
+   "prior_hash": "26eeeea887c5d0f6ee2e225b2f09a423b730aefc02e3bd2a9b3b474c66294b7c",
+   "repair_note": "Review fix: monetary policy measures now include the foreign exchange rate (claims 002, 004, 006 revised); leaked register wording removed from P01; authoring labels removed; flashcard answers trimmed for recall."
   },
   {
    "block_id": "4.4.1-b3",
@@ -66,11 +68,12 @@
     "AO2"
    ],
    "claims_seen": {
-    "CLM-0455-4.4-002": 1,
+    "CLM-0455-4.4-002": 2,
     "CLM-0455-4.4-003": 1,
     "CLM-0455-4.4-005": 1
    },
-   "authored_hash": "db0b7f4eaa37ef5b41cee89396594835b8d683eed39f1a21308ac615621eecb0"
+   "authored_hash": "db0b7f4eaa37ef5b41cee89396594835b8d683eed39f1a21308ac615621eecb0",
+   "reviewed_unchanged": "The worked example traces an interest-rate rise only, which the revised definition still contains; the added exchange-rate measure needs no change here."
   },
   {
    "block_id": "4.4.1-b4",
@@ -85,9 +88,10 @@
     "AO1"
    ],
    "claims_seen": {
-    "CLM-0455-4.4-002": 1
+    "CLM-0455-4.4-002": 2
    },
-   "authored_hash": "77a7a7eff5bfdc68ec8bc9d94f46f9efa324c5a1bea135e7b7312bb73afaf7d3"
+   "authored_hash": "77a7a7eff5bfdc68ec8bc9d94f46f9efa324c5a1bea135e7b7312bb73afaf7d3",
+   "reviewed_unchanged": "The cross-link names monetary policy as an instrument and already points to topic 6.3 for exchange rates; the revised definition needs no change here."
   }
  ],
  "word_count": 340

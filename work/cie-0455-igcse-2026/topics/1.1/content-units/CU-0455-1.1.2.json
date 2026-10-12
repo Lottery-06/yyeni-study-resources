@@ -52,7 +52,7 @@
    "block_id": "1.1.2-b3",
    "block_type": "worked_application",
    "heading": "The test in use",
-   "text": "The test that separates them is whether a price has to be paid. Apply it to two goods a beach cafe in Lisbon sees: the seawater outside its door, and the bottled seawater spray it sells to kitchens at 14 euros a bottle. The sea itself is a free good - pumping it costs almost nothing and there is more than anyone wants. The bottled spray is an economic good - labour, bottles, labels and delivery make each one scarce relative to wants, so a price is charged. Note the nuance: the same substance can be a free good in one form and an economic good in another, because scarcity is a relationship between supply and wants, not a property of the substance. Ocean water for a Norwegian fishing village would be a free good in exactly the same way.",
+   "text": "The test that separates them is scarcity relative to wants, which shows up as an opportunity cost: does using the good mean giving something else up? Apply it to two goods a beach cafe in Lisbon sees: the seawater outside its door, and the bottled seawater spray it sells to kitchens at 14 euros a bottle. The sea itself is a free good - there is more than anyone wants, so taking some sacrifices nothing. The bottled spray is an economic good - the labour, bottles, labels and delivery in each one could have been used elsewhere, so it is scarce relative to wants and a price is charged. A price is a clue, not the test: state schooling is free to the pupil, yet the teachers, classrooms and books it uses could serve other purposes, so it is still an economic good. Note the nuance: the same substance can be a free good in one form and an economic good in another, because scarcity is a relationship between supply and wants, not a property of the substance.",
    "claim_ids": [
     "CLM-0455-1.1-005",
     "CLM-0455-1.1-003"
@@ -63,10 +63,12 @@
     "AO2"
    ],
    "claims_seen": {
-    "CLM-0455-1.1-005": 1,
+    "CLM-0455-1.1-005": 2,
     "CLM-0455-1.1-003": 1
    },
-   "authored_hash": "4ca92562e3912d3c3bec760c5de5b57081889b7cf936ef9e6c82cec3bea491e5"
+   "authored_hash": "f46f6371fedb336d3bba58fcf8a74c8090b3aeaa2efe973a3604526df596a693",
+   "prior_hash": "4ca92562e3912d3c3bec760c5de5b57081889b7cf936ef9e6c82cec3bea491e5",
+   "repair_note": "Reviewer 2026-10-13: free/economic good test corrected to scarcity and opportunity cost (not price); P02(b) made worth 2 marks; P01 widened to a producer and a worker; P04 case labels corrected; leaked chain labels removed; flashcard answers trimmed for recall."
   },
   {
    "block_id": "1.1.2-b4",
@@ -86,5 +88,5 @@
    "authored_hash": "7fe3031ed7ba6ed7e75a94decc3e33753203141316fd94ccc5750756b32b6056"
   }
  ],
- "word_count": 323
+ "word_count": 361
 }

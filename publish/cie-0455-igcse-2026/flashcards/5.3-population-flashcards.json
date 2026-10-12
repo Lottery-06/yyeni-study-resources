@@ -68,7 +68,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "Explain why net migration can change the size of a country's population.",
-   "canonical_answer": "Net migration is the balance of immigration, people moving in to live, over emigration, people moving out to live elsewhere, and it changes the population directly, because each immigrant adds one person to the count and each emigrant removes one. Where immigration runs ahead of emigration, net migration is inward and the population grows without a single extra birth; where emigration runs ahead, the count falls even if births match deaths. The reason migration changes the population size is that it moves people across the border in one direction or the other, so the number of residents rises or falls by the net number.",
+   "canonical_answer": "Net migration is immigration minus emigration. It changes the population directly, because each immigrant adds a resident and each emigrant removes one, with no birth or death involved. Where immigration exceeds emigration, net migration is inward and the population grows; where emigration exceeds immigration, the population falls even if births match deaths.",
    "marking_guidance": [
     "Reason: the answer must state why migration moves the population count, because immigrants add residents and emigrants remove them.",
     "Development: credit the two directions - inward net migration raising the count and outward net migration lowering it - with each linked to the population total."
@@ -89,7 +89,9 @@
     "CLM-0455-5.3-003": 1,
     "CLM-0455-5.3-001": 1
    },
-   "authored_hash": "56402955291fddbbc22d9f6133c4e1b0d269c6d6d819dda984a8ef27bfccc559",
+   "authored_hash": "6a975e8a623ab110647da5582373388e139d8066fcdd6a19ae8fa193f9b25066",
+   "prior_hash": "56402955291fddbbc22d9f6133c4e1b0d269c6d6d819dda984a8ef27bfccc559",
+   "repair_note": "Review fix: leaked chain labels removed (P02, P03); P01 Q7 option made grammatical; flashcard answers trimmed for recall, MISCON cards rewritten as plain discrimination prose",
    "objective_titles": [
     "the factors that affect population growth"
    ]
@@ -117,7 +119,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "A report on Kavango East records: \"The birth rate is 24 per 1000 people per year. The death rate is 8 per 1000 people per year. Emigration runs at 5 per 1000 people per year against immigration of 3 per 1000 people per year.\" Using the figures, explain whether the population is growing and what drives that growth.",
-   "canonical_answer": "The birth rate of 24 per 1000 people per year runs well ahead of the death rate of 8 per 1000, so natural increase is 16 per 1000 people per year: 24 - 8 = 16. Immigration of 3 per 1000 against emigration of 5 per 1000 gives outward net migration of 2 per 1000 people per year, which trims the growth: 16 - 2 = 14 per 1000. The figures mean the population is growing at 14 per 1000 people per year, because births exceed deaths by far more than outward migration offsets. Therefore the population is growing: natural increase is the driver, and migration is the brake.",
+   "canonical_answer": "Natural increase is 24 - 8 = 16 per 1000 people per year, because births run well ahead of deaths. Emigration of 5 per 1000 against immigration of 3 per 1000 gives outward net migration of 2 per 1000, which trims growth to 16 - 2 = 14 per 1000 people per year. The population is therefore growing: natural increase drives it, and outward migration is a small brake.",
    "marking_guidance": [
     "Context: the figures - birth rate 24 per 1000, death rate 8 per 1000, immigration 3 per 1000 and emigration 5 per 1000 - must anchor each step of the reasoning.",
     "Reasoning: the link from each figure to growth must be made, because comparing births with deaths first and then the two migration flows is what produces the rate.",
@@ -141,7 +143,9 @@
     "CLM-0455-5.3-003": 1,
     "CLM-0455-5.3-001": 1
    },
-   "authored_hash": "57562edb9e597193e1787774780d41ed46aaacbe3129e15f012f302f7df64ba7",
+   "authored_hash": "924198933a6f8e934e161a58084eb92437879147e3cae151cdb8eba564d3f374",
+   "prior_hash": "57562edb9e597193e1787774780d41ed46aaacbe3129e15f012f302f7df64ba7",
+   "repair_note": "Review fix: leaked chain labels removed (P02, P03); P01 Q7 option made grammatical; flashcard answers trimmed for recall, MISCON cards rewritten as plain discrimination prose",
    "objective_titles": [
     "the factors that affect population growth"
    ]
@@ -210,7 +214,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "Suppose a low-income country improves its clinics, clean water supply and childhood vaccinations, and its death rate falls while its birth rate stays high. Analyse the likely effects of the falling death rate on the country's population growth and on its government.",
-   "canonical_answer": "Starting point: the initial change is a fall in the death rate while the birth rate stays high, driven by better clinics, clean water and vaccinations. Mechanism: because fewer babies and young adults die, more of each year's births survive to adulthood and people live longer, and this causes the population to grow quickly even though births per 1000 have not changed. Consequence: the population rises fast, so school places, health posts and housing must expand, and the number of dependants per worker stays high for a generation; therefore government spending on services rises while tax revenue per person grows more slowly. For whom: households feed more surviving children, the government pays for more classrooms and clinics, and the economy gains a larger future workforce where jobs are created for it. Exception: where the birth rate later falls, as it tends to as incomes rise, growth slows again.",
+   "canonical_answer": "With the birth rate still high and the death rate falling, more babies survive to adulthood and people live longer, so the population grows faster even though births per 1000 have not changed. The government must expand schools, clinics and housing, and with many dependants per worker for a generation, its spending on services rises faster than tax revenue per person. Households feed more surviving children, and the economy gains a larger future workforce, provided jobs are created for it. Where the birth rate later falls, as it tends to when incomes rise, growth slows again.",
    "marking_guidance": [
     "Starting point: the initial change - the death rate falling while the birth rate stays high - must be named.",
     "Mechanism: because fewer people die young, this causes survivors to accumulate, which is the engine of the faster growth.",
@@ -234,7 +238,9 @@
     "CLM-0455-5.3-005": 1,
     "CLM-0455-5.3-004": 1
    },
-   "authored_hash": "081c83ff9307d6933d30483158942793c43a26b1a07a8164adc14f19bc0d2cb1",
+   "authored_hash": "e343fbe05e397c4bd8cd85cce30e301ba1128051abd85facfdb7f2772b554e70",
+   "prior_hash": "081c83ff9307d6933d30483158942793c43a26b1a07a8164adc14f19bc0d2cb1",
+   "repair_note": "Review fix: leaked chain labels removed (P02, P03); P01 Q7 option made grammatical; flashcard answers trimmed for recall, MISCON cards rewritten as plain discrimination prose",
    "objective_titles": [
     "reasons for different rates of population growth in different countries"
    ]
@@ -261,7 +267,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "A statistical abstract lists two countries. Country A, low-income: birth rate 38 per 1000 people per year, death rate 11 per 1000 people per year. Country B, high-income: birth rate 8 per 1000 people per year, death rate 10 per 1000 people per year. Using the data, explain why the two countries' population growth rates differ.",
-   "canonical_answer": "The data show Country A's population growing quickly and Country B's shrinking slowly. Country A's births exceed its deaths by 27 per 1000 people per year, because 38 - 11 = 27: birth rates tend to be high in low-income countries, where children contribute to household income early and family planning is less accessible, while better basic care keeps the death rate moderate. Country B's deaths exceed its births by 2 per 1000 people per year, because 10 - 8 = 2: birth rates tend to be low in high-income countries, where children cost more to raise and educate and families are smaller, while longer lives keep the death rate close to the birth rate. Therefore the difference in growth rates is driven mainly by the birth rates, 38 per 1000 against 8 per 1000, because the death rates work against the gap, being lower in the fast-growing country.",
+   "canonical_answer": "Country A's births exceed deaths by 38 - 11 = 27 per 1000 people per year, so it grows quickly; Country B's deaths exceed births by 10 - 8 = 2 per 1000, so it shrinks slowly. Birth rates tend to be high in low-income countries, where children earn early and family planning is harder to reach, and low in high-income countries, where children cost more to raise. The death rates are close, 11 against 10 per 1000, so the birth rates, 38 against 8 per 1000, drive the difference.",
    "marking_guidance": [
     "Context: the data - the birth and death rates of both countries - must anchor each step.",
     "Reasoning: the link from each rate to growth must be made, because the gap between births and deaths is what sets the growth rate.",
@@ -284,7 +290,9 @@
     "CLM-0455-5.3-006": 1,
     "CLM-0455-5.3-004": 1
    },
-   "authored_hash": "1189048cf517836e3a7180e41534817ce3ea41ca18ec52c463f9b66f1e5bf1e9",
+   "authored_hash": "f145fe58431f1ef6589a8acd432a2ad9da8a3800bdadeadb47136fd4c4ff9265",
+   "prior_hash": "f7dca642536efa0a86ed9570c1804d40784e87939932a4ca0bfa3e47a3c00a4f",
+   "repair_note": "Review fix: flashcard answer trimmed for recall",
    "objective_titles": [
     "reasons for different rates of population growth in different countries"
    ]
@@ -353,7 +361,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "The share of a country's population over the age of 65 rises from 6% to 19% over three decades, while its birth rate falls. Analyse the likely effects of this changing age structure on the country's government and firms.",
-   "canonical_answer": "Starting point: the initial change is a rising share of over-65s, from 6% to 19%, with a falling birth rate. Mechanism: because fewer children are born while older people live longer, this causes the working-age share of the population to shrink relative to the retired. Consequence: the government collects less income tax per person while pension and health spending climbs, and firms find vacancies harder to fill, so pay for scarce workers tends to rise; therefore the cost of supporting each retired person falls on fewer workers. For whom: the government carries higher pension and health budgets, workers carry heavier care burdens, firms carry labour shortages and higher wage costs, and consumers face firms passing those costs into prices. Exception: where older people stay longer in work or immigration adds workers, the workforce shrinkage eases.",
+   "canonical_answer": "With fewer births and longer lives, the over-65 share rises from 6% to 19% and the working-age share shrinks relative to the retired. The government therefore collects less income tax per person while pension and health spending climbs, so the cost of each retired person falls on fewer workers. Firms find vacancies harder to fill and pay more for scarce workers, and may pass the cost on to consumers in higher prices. Workers also carry heavier care duties at home. Where older people work longer or immigration adds workers, the strain eases.",
    "marking_guidance": [
     "Starting point: the initial change - the rising share of over-65s alongside a falling birth rate - must be named.",
     "Mechanism: because births fall while lives lengthen, this causes the working-age share to shrink, which is the engine of the effects.",
@@ -377,7 +385,9 @@
     "CLM-0455-5.3-010": 1,
     "CLM-0455-5.3-012": 1
    },
-   "authored_hash": "6a8502bb02cd78df292505ce290cb24ec3515d2207b75e92924007e1c1261e1d",
+   "authored_hash": "8c2fa9c3da08087ac609de5c234a86b4c5ed3598da418af650181dc311d63438",
+   "prior_hash": "6a8502bb02cd78df292505ce290cb24ec3515d2207b75e92924007e1c1261e1d",
+   "repair_note": "Review fix: leaked chain labels removed (P02, P03); P01 Q7 option made grammatical; flashcard answers trimmed for recall, MISCON cards rewritten as plain discrimination prose",
    "objective_titles": [
     "the effects of changes in the size and structure of population on different countries"
    ]
@@ -404,7 +414,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "A planning report for a district records: \"In Year 1, 44% of the population was under 15 and 3% was over 65. Ten years later, the share under 15 had fallen to 34% and the share over 65 had risen to 6%. The birth rate fell over those ten years from 30 per 1000 to 18 per 1000 people per year.\" Using the figures, explain what changed in the district's population structure and one effect this change suggests for its school planning.",
-   "canonical_answer": "The figures show the structure ageing from the bottom up. The share under 15 falling from 44% to 34% means fewer children relative to the whole population, because the birth rate fell from 30 per 1000 to 18 per 1000 people per year. The share over 65 rising from 3% to 6% means older residents form a growing group, though still a small one. For school planning, this means demand for primary places is likely to ease over the coming decade, because the cohorts entering school are shrinking; therefore the district may need fewer new classrooms than a decade ago, and the funds can shift towards health services for the growing older group.",
+   "canonical_answer": "The structure is ageing from the bottom: the under-15 share fell from 44% to 34% as the birth rate fell from 30 to 18 per 1000 people per year, while the over-65 share doubled from 3% to 6%, though it is still small. Because the groups entering school are shrinking, demand for primary places is likely to ease, so the district may need fewer new classrooms and can shift funds towards health services for its older residents.",
    "marking_guidance": [
     "Context: the figures - the under-15 share falling from 44% to 34%, the over-65 share rising from 3% to 6%, and the birth rate falling from 30 to 18 per 1000 - must anchor the answer.",
     "Reasoning: the link from each figure to the structure must be made, because a share on its own says little until it is compared with the others.",
@@ -427,7 +437,9 @@
     "CLM-0455-5.3-011": 1,
     "CLM-0455-5.3-010": 1
    },
-   "authored_hash": "add3541a743ed3b93ccd426b0c90553ccd0b87609e9485e6b5053babb66f768d",
+   "authored_hash": "70e57ea248d78a8e1755ff7f6b1b0029407f63a7bd2ce4e8baf23d0f43b05e18",
+   "prior_hash": "add3541a743ed3b93ccd426b0c90553ccd0b87609e9485e6b5053babb66f768d",
+   "repair_note": "Review fix: leaked chain labels removed (P02, P03); P01 Q7 option made grammatical; flashcard answers trimmed for recall, MISCON cards rewritten as plain discrimination prose",
    "objective_titles": [
     "the effects of changes in the size and structure of population on different countries"
    ]
@@ -453,7 +465,7 @@
    "mark_tariff": 8,
    "difficulty": 5,
    "prompt": "Discuss whether differences in birth rates are the main reason population growth rates differ between countries.",
-   "canonical_answer": "Why it might: the birth rate sets how far births run ahead of deaths, and its spread between countries is wide - a low-income country may record 38 per 1000 people per year against 8 per 1000 in a high-income one - because children contribute income early where incomes are low and family planning and schooling for girls are harder to reach, so natural increase differs hugely between the two. Why it might not: growth is the balance of three factors, so the main reason may lie elsewhere. Two countries with similar birth rates grow differently where their death rates or net migration differ, and a country can grow quickly through inward migration even with a low birth rate; a falling death rate in a country whose birth rate is still high also produces fast growth without any rise in births. Judgement: on balance, birth rate differences tend to explain much of the spread in growth rates, because their variation between countries is the widest and they feed natural increase directly. What settles it: the condition is the relative size of the gaps - where birth rates differ by 30 per 1000 and the other factors by a few points, births dominate, whereas where two countries' birth rates are close, the decisive factor is which of the death rate or net migration moves, so the main reason depends on which gaps are widest in the countries compared.",
+   "canonical_answer": "Birth rates might be the main reason because they vary widely - a low-income country may record 38 per 1000 people per year against 8 per 1000 in a high-income one - since children add income early where incomes are low and family planning is harder to reach, so natural increase differs hugely. They might not be, because growth balances three factors: countries with similar birth rates grow differently where death rates or net migration differ, inward migration can drive fast growth despite a low birth rate, and a falling death rate with a still-high birth rate speeds growth without any rise in births. On balance, birth-rate differences tend to explain most of the spread, because they vary most and feed natural increase directly. What settles it is the relative size of the gaps: where birth rates differ by 30 per 1000 and the other factors by a few points, births dominate; where birth rates are close, death rates or net migration decide.",
    "marking_guidance": [
     "Judgement: the answer must reach one - on balance, whether birth rate differences are the main reason - and it may say it depends on which gaps are widest.",
     "Why it might: the argument for birth rates as the main reason must be developed with its reasons.",
@@ -477,7 +489,9 @@
     "CLM-0455-5.3-006": 1,
     "CLM-0455-5.3-007": 1
    },
-   "authored_hash": "e387899a6a2a004d64ffad6e19a380bd9a9f0e611d2759748e2dd697090e6cc7",
+   "authored_hash": "6c47d402e66b604c200a41d0f6df14295279ba3ff70192ada0151867c58258cc",
+   "prior_hash": "e387899a6a2a004d64ffad6e19a380bd9a9f0e611d2759748e2dd697090e6cc7",
+   "repair_note": "Review fix: leaked chain labels removed (P02, P03); P01 Q7 option made grammatical; flashcard answers trimmed for recall, MISCON cards rewritten as plain discrimination prose",
    "objective_titles": [
     "reasons for different rates of population growth in different countries"
    ]
@@ -502,7 +516,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "A health report states that a country's infant mortality rate fell from 96 deaths to 41 deaths per 1000 live births in a decade. A learner reads it and writes: \"The birth rate is falling fast.\" Explain the confusion between the birth rate and the infant mortality rate, and state the test that tells them apart.",
-   "canonical_answer": "The confusion: the learner treats a fall in the infant mortality rate as a fall in the birth rate, when the report says nothing about how many babies are born - it reports how many of those born survive their first year. The boundary: the birth rate counts live births per 1000 people in the whole population in a year, a measure of new life; the infant mortality rate counts the deaths of babies under one year old per 1000 live births in a year, a measure of early survival. The test: ask what is counted and out of what group - births against the whole population, or deaths of babies against the births themselves. The two can move in opposite directions, as here: care for babies improved, with deaths falling from 96 to 41 per 1000 live births, while the number born per 1000 residents is unstated, so a conclusion about the birth rate cannot be drawn from these figures.",
+   "canonical_answer": "The learner treats a fall in infant mortality as a fall in the birth rate. The birth rate counts live births per 1000 people in the whole population in a year; the infant mortality rate counts deaths of babies under one per 1000 live births in a year. To tell them apart, ask what is counted, out of what group. Here more babies survived, deaths falling from 96 to 41 per 1000 live births, but the report gives no births per 1000 people, so nothing follows about the birth rate.",
    "marking_guidance": [
     "The confusion: what learners mix up must be named - a fall in deaths of babies under one taken as a fall in births.",
     "The boundary: the difference in what each rate counts and against what group - live births per 1000 people, against deaths under one per 1000 live births - must be drawn.",
@@ -524,9 +538,11 @@
     "CLM-0455-5.3-008": 1,
     "CLM-0455-5.3-002": 1
    },
-   "authored_hash": "5df08727e47e87123a0d9366c4a1c51bb80a4dec83e38d3333af9037ebc276f6",
+   "authored_hash": "d0c2a85eaaedeb719a8ae0390fbdb27e26f5263d74c4c76c727186802ba524f1",
    "misconception_entry": "birth rate vs infant mortality rates",
    "misconception_id": "MISCON-REGISTER-0455-5.3.2-birth-rate-vs-infant-mortality-rates",
+   "prior_hash": "66a249ac97a2503180ff86fee48dd9c3b79a6ceffa547493fe1e2d9ec2409881",
+   "repair_note": "Review fix: flashcard answer trimmed for recall",
    "objective_titles": [
     "reasons for different rates of population growth in different countries"
    ]
@@ -551,7 +567,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "In a class discussion on why population growth rates differ between countries, one learner plans to write about the interest rates people pay, and another about the tax rates the government sets. Explain the confusion between interest rates and tax rates, and state the test that tells them apart.",
-   "canonical_answer": "The confusion: the two learners swap a borrowing charge for a government levy, and both plan to answer a population question with terms that do not drive it. The boundary: an interest rate is the price a borrower pays a lender for the use of borrowed money, agreed in a contract; a tax rate is the share of income or spending that the government requires by law. The test: ask who receives the payment and whether it is compulsory - a lender charges interest under an agreement, whereas the government takes tax under law without asking the payer. Neither rate is a direct driver of population growth: the direct drivers are the birth rate, the death rate and net migration, so an answer about differences in growth should turn on those three.",
+   "canonical_answer": "The learners treat a borrowing charge and a government levy as the same kind of rate. An interest rate is the price a borrower pays a lender for borrowed money, agreed by contract; a tax rate is the share of income or spending the government takes by law. To tell them apart, ask who receives the payment and whether paying it is compulsory. Neither directly drives population growth, which turns on the birth rate, the death rate and net migration.",
    "marking_guidance": [
     "The confusion: what learners mix up must be named - a borrowing charge treated as interchangeable with a compulsory levy to the state.",
     "The boundary: the difference - interest paid to a lender under a contract against tax taken by the government under law - must be drawn.",
@@ -573,9 +589,11 @@
     "CLM-0455-5.3-008": 1,
     "CLM-0455-5.3-001": 1
    },
-   "authored_hash": "67d0ee51b0130a29b8f1c2d17c759d27a514b8e36b5ba06fdcd535acc3285cb8",
+   "authored_hash": "0b474170f7ab9b70b6af090913a5dc4c36bdd4fe6eda4a5c760ff588f298133d",
    "misconception_entry": "interest rates vs tax rates",
    "misconception_id": "MISCON-REGISTER-0455-5.3.2-interest-rates-vs-tax-rates",
+   "prior_hash": "67d0ee51b0130a29b8f1c2d17c759d27a514b8e36b5ba06fdcd535acc3285cb8",
+   "repair_note": "Review fix: leaked chain labels removed (P02, P03); P01 Q7 option made grammatical; flashcard answers trimmed for recall, MISCON cards rewritten as plain discrimination prose",
    "objective_titles": [
     "reasons for different rates of population growth in different countries"
    ]
@@ -610,7 +628,7 @@
    "command_word": null,
    "mark_tariff": null,
    "difficulty": 3,
-   "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. Which group contains the three factors that affect population growth?\nA  the birth rate, the death rate, net migration\nB  the inflation rate, the exchange rate, the interest rate\nC  tax rates, the price level, the exchange rate\nD  exports, imports, the current account\n\n2. A country's birth rate is 21 per 1000 people per year and its death rate is 9 per 1000 people per year. Its natural increase is:\nA  12 per 1000 people per year\nB  30 per 1000 people per year\nC  9 per 1000 people per year\nD  21 per 1000 people per year\n\n3. Net migration is:\nA  immigration minus emigration\nB  immigration plus emigration\nC  emigration minus immigration\nD  the birth rate minus the death rate\n\n4. Birth rates tend to be highest in:\nA  high-income countries where children stay in education for many years\nB  low-income countries where children contribute to household income early\nC  countries with the oldest populations\nD  countries receiving the most immigration\n\n5. A fall in a country's infant mortality rate tells us that:\nA  fewer babies are being born\nB  more of the babies born are surviving their first year\nC  the birth rate is falling\nD  the population is shrinking\n\n6. A population pyramid with a wide base and a narrow top indicates:\nA  a low birth rate and an ageing population\nB  a high birth rate and a young population\nC  net migration inward at a high rate\nD  a population at its optimum size\n\n7. The optimum population is the size that:\nA  gives the highest output per person with existing resources and technology\nB  the largest population a country could feed\nC  matches the number of jobs available\nD  keeps the birth rate equal to the death rate\n\n8. An ageing population structure tends to:\nA  raise the share of workers relative to the retired\nB  raise the tax burden of pensions and health care on the budget\nC  raise the birth rate\nD  expand the labour force quickly",
+   "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. Which group contains the three factors that affect population growth?\nA  the birth rate, the death rate, net migration\nB  the inflation rate, the exchange rate, the interest rate\nC  tax rates, the price level, the exchange rate\nD  exports, imports, the current account\n\n2. A country's birth rate is 21 per 1000 people per year and its death rate is 9 per 1000 people per year. Its natural increase is:\nA  12 per 1000 people per year\nB  30 per 1000 people per year\nC  9 per 1000 people per year\nD  21 per 1000 people per year\n\n3. Net migration is:\nA  immigration minus emigration\nB  immigration plus emigration\nC  emigration minus immigration\nD  the birth rate minus the death rate\n\n4. Birth rates tend to be highest in:\nA  high-income countries where children stay in education for many years\nB  low-income countries where children contribute to household income early\nC  countries with the oldest populations\nD  countries receiving the most immigration\n\n5. A fall in a country's infant mortality rate tells us that:\nA  fewer babies are being born\nB  more of the babies born are surviving their first year\nC  the birth rate is falling\nD  the population is shrinking\n\n6. A population pyramid with a wide base and a narrow top indicates:\nA  a low birth rate and an ageing population\nB  a high birth rate and a young population\nC  net migration inward at a high rate\nD  a population at its optimum size\n\n7. The optimum population is the size that:\nA  gives the highest output per person with existing resources and technology\nB  is the largest population a country could feed\nC  matches the number of jobs available\nD  keeps the birth rate equal to the death rate\n\n8. An ageing population structure tends to:\nA  raise the share of workers relative to the retired\nB  raise the tax burden of pensions and health care on the budget\nC  raise the birth rate\nD  expand the labour force quickly",
    "canonical_answer": "Key: 1 A, 2 A, 3 A, 4 B, 5 B, 6 B, 7 A, 8 B.\n1. The three drivers are births, deaths and migration (A); B lists money and policy terms - the interest-rate drift recorded in learner errors, C lists fiscal levers, D lists trade items that belong to the current account.\n2. Natural increase is the birth rate minus the death rate: 21 - 9 = 12 (A); B adds the two rates, C copies the death rate, D copies the birth rate - each catches a different slip in reading the formula.\n3. Net migration nets the two flows (A); B adds them so nothing nets out, C reverses the sign so growth reads as shrinkage, D names natural increase instead.\n4. Where children contribute income early and family planning is less accessible, birth rates tend to be high (B); A describes settings where births tend to be fewer, C confuses age structure with the birth rate, D confuses migration with births.\n5. Infant mortality counts deaths of babies under one per 1000 live births, so a fall means better early survival (B); A and C are the birth-rate confusion, D goes beyond what the measure can show.\n6. A wide base means many births relative to the whole population (B); A reverses the reading, C swaps the pyramid for migration flows, D swaps it for the optimum concept.\n7. Output per person with existing resources and technology defines it (A); B treats the optimum as a ceiling rather than the best point, C ties it to jobs alone, D ties it to a birth-death balance instead of output per person.\n8. More retired people relative to workers raise pension and health budgets (B); A reverses the shift, C mistakes a structure change for a behaviour change, D is the opposite of a shrinking workforce.",
    "marking_guidance": [
     "Key: one mark per question, eight in total; the correct option for each is listed and every distractor is explained as the specific misunderstanding it catches.",
@@ -640,7 +658,9 @@
     "CLM-0455-5.3-010": 1,
     "CLM-0455-5.3-012": 1
    },
-   "authored_hash": "5aa916ab5515c7649adbb2b9579364a1412c14b7cf1c7ac770ca983eaf24a7fa",
+   "authored_hash": "3145fef57764d44e9bddfff107d86b3701c48c0a51bc597b0f96fc44ea0a1f0d",
+   "prior_hash": "5aa916ab5515c7649adbb2b9579364a1412c14b7cf1c7ac770ca983eaf24a7fa",
+   "repair_note": "Review fix: leaked chain labels removed (P02, P03); P01 Q7 option made grammatical; flashcard answers trimmed for recall, MISCON cards rewritten as plain discrimination prose",
    "objective_titles": [
     "the factors that affect population growth",
     "reasons for different rates of population growth in different countries",
@@ -676,7 +696,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "A newspaper report from Windhoek, 2026: \"The statistics office published its population review yesterday. The chief statistician told reporters: 'Births are falling slowly and people are living longer. Our population still grows, but its shape is changing.'\"\n\nTable 1 - a country in southern Africa, Year 1 and Year 5\n  birth rate: 32 per 1000 people per year in Year 1, 28 per 1000 people per year in Year 5\n  death rate: 12 per 1000 people per year in Year 1, 9 per 1000 people per year in Year 5\n  net migration: 1 per 1000 people per year in Year 1, 2 per 1000 people per year in Year 5\n  share of population under 15: 44% in Year 1, 41% in Year 5\n  share of population over 65: 3% in Year 1, 4% in Year 5\n\n(a) Calculate the natural increase in Year 1. [1]\n(b) Calculate the natural increase in Year 5. [1]\n(c) State two factors, other than the birth rate and the death rate, that affect the size of a country's population. [2]\n(d) Explain why the changes between Year 1 and Year 5 may make it harder for the government to plan its spending. [4]\n(e) Analyse, using the data, what the changes between Year 1 and Year 5 suggest about the effects of a changing population on this country. [6]",
-   "canonical_answer": "(a) Natural increase is the birth rate minus the death rate: 32 - 12 = 20 per 1000 people per year.\n(b) In Year 5: 28 - 9 = 19 per 1000 people per year.\n(c) Immigration and emigration, whose balance is net migration, affect the size of the population; the table records net migration of 1 per 1000 in Year 1 and 2 per 1000 in Year 5.\n(d) The changes pull spending in two directions. The share over 65 rising from 3% to 4% means pensions and health care take a growing share of the budget, because older people use these services more heavily. The share under 15 falling from 44% to 41% suggests school demand will ease, but slowly: with the birth rate still at 28 per 1000 people per year, classrooms stay full for years while elder care expands. Planning is harder because the two age groups need different services and the shift is gradual, so the government funds both at once rather than closing schools to open clinics.\n(e) Expected relationship: a falling birth rate with a falling death rate and lengthening lives shifts a population's structure older while it keeps growing. Evidence: natural increase runs at 20 per 1000 people per year in Year 1 and 19 in Year 5, so the population still grows quickly; the share under 15 falls from 44% to 41% while the share over 65 rises from 3% to 4%, and net migration doubles from 1 per 1000 to 2 per 1000. Analysis: growth is slowing at the base - a smaller share of children - while older residents accumulate, which means the future workforce will grow more slowly than the population it supports, and spending tilts towards health care and pensions while school demand eases later; firms gain a large working-age share now, because the children of Year 1 reach working age within two decades. Exception: where inward migration adds working-age adults, as the doubling of net migration to 2 per 1000 suggests, the workforce shrinkage may ease, so the ageing effect on spending and labour is not uniform. For whom: households face care duties for older relatives, the government faces shifting budgets, firms face a labour market that tightens over time.",
+   "canonical_answer": "(a) Natural increase is the birth rate minus the death rate: 32 - 12 = 20 per 1000 people per year.\n(b) In Year 5: 28 - 9 = 19 per 1000 people per year.\n(c) Immigration and emigration, whose balance is net migration, affect the size of the population; the table records net migration of 1 per 1000 in Year 1 and 2 per 1000 in Year 5.\n(d) The changes pull spending in two directions. The share over 65 rising from 3% to 4% means pensions and health care take a growing share of the budget, because older people use these services more heavily. The share under 15 falling from 44% to 41% suggests school demand will ease, but slowly: with the birth rate still at 28 per 1000 people per year, classrooms stay full for years while elder care expands. Planning is harder because the two age groups need different services and the shift is gradual, so the government funds both at once rather than closing schools to open clinics.\n(e) A falling birth rate with a falling death rate and lengthening lives shifts a population's structure older while it keeps growing. Here natural increase runs at 20 per 1000 people per year in Year 1 and 19 in Year 5, so the population still grows quickly; the share under 15 falls from 44% to 41% while the share over 65 rises from 3% to 4%, and net migration doubles from 1 per 1000 to 2 per 1000. Growth is slowing at the base - a smaller share of children - while older residents accumulate, which means the future workforce will grow more slowly than the population it supports, and spending tilts towards health care and pensions while school demand eases later; firms gain a large working-age share now, because the children of Year 1 reach working age within two decades. However, where inward migration adds working-age adults, as the doubling of net migration to 2 per 1000 suggests, the workforce shrinkage may ease, so the ageing effect on spending and labour is not uniform. Households face care duties for older relatives, the government faces shifting budgets, firms face a labour market that tightens over time.",
    "marking_guidance": [
     "Context: parts (a) and (b) are read straight from the table; part (e) must use the data as evidence - the rates, the shares and the migration balance.",
     "Reasoning: part (d) earns one mark per distinct linked statement, and each link must run from a figure to the spending pressure it creates.",
@@ -709,7 +729,9 @@
     "CLM-0455-5.3-011": 1,
     "CLM-0455-5.3-012": 1
    },
-   "authored_hash": "dff73bb0662324db48d50084db75e1d540c4fde8f1be47f48b19cd629d30c9c5",
+   "authored_hash": "d6e6028e3cd4d80de22eb21f21fa8b2034999bec5204d5b1b79e7466a89ffc6b",
+   "prior_hash": "dff73bb0662324db48d50084db75e1d540c4fde8f1be47f48b19cd629d30c9c5",
+   "repair_note": "Review fix: leaked chain labels removed (P02, P03); P01 Q7 option made grammatical; flashcard answers trimmed for recall, MISCON cards rewritten as plain discrimination prose",
    "objective_titles": [
     "the factors that affect population growth",
     "reasons for different rates of population growth in different countries",
@@ -744,7 +766,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "A country in southern Africa records a birth rate of 34 per 1000 people per year against a death rate of 10 per 1000 people per year, and its population is growing by over 2% a year.\n(a) Define the optimum population. [2]\n(b) Explain why birth rates tend to be higher in low-income countries than in high-income countries. [4]\n(c) Analyse the effects of a rapid increase in population size on a country's economy. [6]\n(d) Discuss whether a slower rate of population growth would benefit a country. [8]",
-   "canonical_answer": "(a) The optimum population is the size of population that, with the country's existing resources and technology, gives the highest output per person; below it, adding people tends to raise output per person, and above it, adding people tends to lower it.\n(b) In low-income countries children often contribute to household income early - herding, harvest work, small trade - so a large family raises what the household can live on, and access to family planning and schooling for girls is more limited, which keeps birth rates high. In high-income countries children cost more to raise and educate, schooling runs for many years before any earning begins, and families tend to be small, so birth rates sit low. The comparison holds as a tendency, and it explains why the fastest-growing populations sit in lower-income regions.\n(c) Starting point: the initial change is a rapid increase in population size. Mechanism: because more children are born and survive, this causes demand for food, school places, clinics and housing to rise at once, while the tax base that funds them grows more slowly, since the new arrivals spend years as dependants before they earn. Consequence: the government diverts spending to services, food imports may rise where output does not keep pace, and output per person tends to fall where land and capital are fixed. In time the large cohorts reach working age, and where jobs exist the labour supply expands and output can grow faster. For whom: households feed more dependants, the government funds more places, firms face growing markets later, and the economy carries a lower output per person until the new workers are absorbed. Exception: where investment and jobs keep pace with the arrivals, the extra people become producers rather than dependants and output per person can hold.\n(d) Why it might: slower growth eases pressure on services and spending - fewer new classrooms and clinics each year - and can raise output per person where the population sits above its optimum, because resources and capital stretch further across fewer people. Why it might not: slower growth means fewer workers arriving, so the labour force ages and shrinks, pension and health costs rise against a smaller taxpayer base, and firms face shrinking markets - the path Japan and parts of Europe show, where slow growth compounds labour shortages. Judgement: on balance, slower growth benefits a country whose population sits above its optimum and whose services cannot keep pace, because the relief to spending and output per person outweighs the smaller workforce; where a country sits below its optimum with jobs unfilled, slower growth does more harm than good. The condition: what settles it is where the population stands relative to the optimum and whether the economy creates jobs for those already born - the answer depends on which side of the optimum the country stands.",
+   "canonical_answer": "(a) The optimum population is the size of population that, with the country's existing resources and technology, gives the highest output per person; below it, adding people tends to raise output per person, and above it, adding people tends to lower it.\n(b) In low-income countries children often contribute to household income early - herding, harvest work, small trade - so a large family raises what the household can live on, and access to family planning and schooling for girls is more limited, which keeps birth rates high. In high-income countries children cost more to raise and educate, schooling runs for many years before any earning begins, and families tend to be small, so birth rates sit low. The comparison holds as a tendency, and it explains why the fastest-growing populations sit in lower-income regions.\n(c) When population size increases rapidly, because more children are born and survive, this causes demand for food, school places, clinics and housing to rise at once, while the tax base that funds them grows more slowly, since the new arrivals spend years as dependants before they earn. The government diverts spending to services, food imports may rise where output does not keep pace, and output per person tends to fall where land and capital are fixed. In time the large cohorts reach working age, and where jobs exist the labour supply expands and output can grow faster. Households feed more dependants, the government funds more places, firms face growing markets later, and the economy carries a lower output per person until the new workers are absorbed. However, where investment and jobs keep pace with the arrivals, the extra people become producers rather than dependants and output per person can hold.\n(d) Why it might: slower growth eases pressure on services and spending - fewer new classrooms and clinics each year - and can raise output per person where the population sits above its optimum, because resources and capital stretch further across fewer people. Why it might not: slower growth means fewer workers arriving, so the labour force ages and shrinks, pension and health costs rise against a smaller taxpayer base, and firms face shrinking markets - the path Japan and parts of Europe show, where slow growth compounds labour shortages. Judgement: on balance, slower growth benefits a country whose population sits above its optimum and whose services cannot keep pace, because the relief to spending and output per person outweighs the smaller workforce; where a country sits below its optimum with jobs unfilled, slower growth does more harm than good. The condition: what settles it is where the population stands relative to the optimum and whether the economy creates jobs for those already born - the answer depends on which side of the optimum the country stands.",
    "marking_guidance": [
     "Parts (a) to (d) carry a model answer each; (d) is level-marked over three bands, with the top band examining why it might and why it might not and reaching a judgement that names its condition.",
     "Context: (b) and (c) earn one mark per distinct linked statement - a reason named without its link earns little.",
@@ -774,7 +796,9 @@
     "CLM-0455-5.3-011": 1,
     "CLM-0455-5.3-004": 1
    },
-   "authored_hash": "117f658b2c0204d115af29016d0ad1adeb2fdd3642333a511528b850be0cf6ca",
+   "authored_hash": "49d3819ee7d9a4cfe197dbd3ec2be025ded78bcdb00aa07e4c7300e959d4d725",
+   "prior_hash": "117f658b2c0204d115af29016d0ad1adeb2fdd3642333a511528b850be0cf6ca",
+   "repair_note": "Review fix: leaked chain labels removed (P02, P03); P01 Q7 option made grammatical; flashcard answers trimmed for recall, MISCON cards rewritten as plain discrimination prose",
    "objective_titles": [
     "the factors that affect population growth",
     "reasons for different rates of population growth in different countries",

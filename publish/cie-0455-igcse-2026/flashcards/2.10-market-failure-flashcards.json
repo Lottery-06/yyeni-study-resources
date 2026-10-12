@@ -24,7 +24,7 @@
    "mark_tariff": 2,
    "difficulty": 1,
    "prompt": "Private waste collectors in Katutura serve the households that pay and skip the lanes of those that do not, so uncollected waste piles up across the neighbourhood. Define market failure as the term applies to this market for waste collection.",
-   "canonical_answer": "Market failure is the failure of the price mechanism to allocate resources in the way that best serves society: the market, left to itself, produces a level of output that leaves society worse off than another level would. Applied here: the collectors' price covers the private costs of serving paying households, but the harm from uncollected waste falls on the whole neighbourhood, so the market under-provides collection relative to what the town as a whole would gain from it.",
+   "canonical_answer": "Market failure is the failure of the price mechanism, left to itself, to allocate resources in the way that best serves society. Here collectors serve only paying households, so the harm of uncollected waste falls on the whole neighbourhood and collection is under-provided.",
    "marking_guidance": [
     "Reward the precise definition: the price mechanism allocating resources against society's interest, because the price leaves some costs or benefits uncounted.",
     "The meaning must rest on the whole market's level of output; a definition resting on firms closing describes business failure, not market failure."
@@ -44,7 +44,9 @@
    "claims_seen": {
     "CLM-0455-2.10-001": 1
    },
-   "authored_hash": "c0e6da745ac708f42f4a29ab96a898fd226e8fd800debb5df7e88779a92bd235",
+   "authored_hash": "a9ad619f1378439732c8a6f893b7a9c4b8bd24acfaff5cfd8801525b06818eed",
+   "prior_hash": "c0e6da745ac708f42f4a29ab96a898fd226e8fd800debb5df7e88779a92bd235",
+   "repair_note": "Review fix: flashcard answers trimmed and labels removed; 007 and notes rewritten without the market-failure demand-supply diagram (syllabus says not required); P02(b) asks for two costs; labels removed from P02/P03; Define prompt reworded",
    "objective_titles": [
     "definition of market failure"
    ]
@@ -68,7 +70,7 @@
    "mark_tariff": 2,
    "difficulty": 1,
    "prompt": "Namib Signs proposes to fund a new beam of lighting over Otavi's main taxi rank from a voluntary levy, and drivers who refuse to pay would still see by its light. Identify the features that make this lighting a public good.",
-   "canonical_answer": "Two features define the lighting as a public good. Non-excludability: once the beam shines, drivers who paid nothing cannot be stopped from using its light, so refusing the levy leaves a driver as well-lit as everyone else. Non-rivalry: one driver's use of the light leaves as much for the next, so an extra user adds nothing to the cost of providing it. Together these produce the free-rider problem: each driver is likely to hope others pay, so a voluntary levy tends to raise too little.",
+   "canonical_answer": "The lighting is non-excludable, since drivers who refuse the levy cannot be stopped from seeing by the beam, and non-rival, since one driver's use leaves as much light for the next. Together these invite free riding, so a voluntary levy tends to raise too little.",
    "marking_guidance": [
     "Reward the features named - non-excludability and non-rivalry - with the free-rider consequence each leads to.",
     "What it includes: each feature must be explained in the case's own terms, not merely listed - a bare word earns nothing."
@@ -88,7 +90,9 @@
    "claims_seen": {
     "CLM-0455-2.10-004": 1
    },
-   "authored_hash": "533b6ea25f42493ad0ffb16d7917515e7566bede38c9ce3cb3004a3f34bc3798",
+   "authored_hash": "50991a72677edf72b8cc5dcfdef7e68728212a8cd439d6c9cbadf8a548bda2f1",
+   "prior_hash": "533b6ea25f42493ad0ffb16d7917515e7566bede38c9ce3cb3004a3f34bc3798",
+   "repair_note": "Review fix: flashcard answers trimmed and labels removed; 007 and notes rewritten without the market-failure demand-supply diagram (syllabus says not required); P02(b) asks for two costs; labels removed from P02/P03; Define prompt reworded",
    "objective_titles": [
     "definition of market failure"
    ]
@@ -114,7 +118,7 @@
    "mark_tariff": 2,
    "difficulty": 3,
    "prompt": "Otavi Charcoal Works burns wood waste for N$40 000 of income a season, and the smoke over 60 homesteads costs each N$250 in cleaning and clinic visits. Define an external cost as the term applies to this case.",
-   "canonical_answer": "An external cost is a cost imposed by an economic activity on people outside the transaction, who receive no payment for it. Applied here: the N$250 each homestead spends on cleaning and clinic visits is a cost of the charcoal works' production, but the firm pays none of it and the buyers' price carries none of it, so the full cost of the activity falls partly on third parties. The private costs the firm pays, together with the external costs it imposes, make up the social costs of the season's charcoal.",
+   "canonical_answer": "An external cost is a cost an activity imposes on people outside the transaction, who receive no payment for it. Here it is the N$250 each of the 60 homesteads spends on cleaning and clinic visits, which the charcoal works never pays.",
    "marking_guidance": [
     "Reward the precise definition: a cost imposed on third parties outside the transaction, for which they receive no payment.",
     "The meaning must separate external costs from private costs; a definition that counts the firm's own spending as external earns nothing."
@@ -136,7 +140,9 @@
     "CLM-0455-2.10-007": 1,
     "CLM-0455-2.10-008": 1
    },
-   "authored_hash": "5e44b714cecdc95fc33ee6a1b86e354e29d8221e1c62c95c0511e0435062fdac",
+   "authored_hash": "13ba589134a77353e234a8e1d11d008299dde98254c7f66b0e620f4a1f14a871",
+   "prior_hash": "5e44b714cecdc95fc33ee6a1b86e354e29d8221e1c62c95c0511e0435062fdac",
+   "repair_note": "Review fix: flashcard answers trimmed and labels removed; 007 and notes rewritten without the market-failure demand-supply diagram (syllabus says not required); P02(b) asks for two costs; labels removed from P02/P03; Define prompt reworded",
    "objective_titles": [
     "causes of market failure"
    ]
@@ -161,7 +167,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "Oshakati Textiles dyes cloth for N$90 000 of sales a month. Its dye water runs into the town channel, and 20 market gardens downstream each lose N$1 500 a month of crops. Analyse the consequences of this market failure for the firm's owners, the market gardeners, and the town's council.",
-   "canonical_answer": "Starting point: the initial change is the dye water entering the town channel, which shifts 20 x N$1 500 = N$30 000 a month of costs, since 20 gardens each lose N$1 500, onto people outside the firm's transactions. Mechanism: because the price of dyed cloth carries none of these costs, the firm's own outlay understates the activity's true cost to society, and this causes the market to dye more cloth than the level Oshakati as a whole would choose. Consequence for the owners: profit judged against private costs alone, so the dye house looks more profitable than it is for the town. Consequence for the market gardeners: 20 households each lose N$1 500 a month of crops, with no compensation arriving. Consequence for the council: it faces the channel's clean-up bill or the loss of the gardens' produce, whichever it pays for. For whom: the owners gain, the gardeners and the council pay, and the town's resources sit behind a level of dyeing whose full costs exceed what the price said.",
+   "canonical_answer": "The dye water pushes costs onto people outside the firm's transactions: 20 gardens each lose N$1 500 a month, so 20 x N$1 500 = N$30 000 a month. Because the price of dyed cloth carries none of this, the firm's costs understate the true cost to society, and the market dyes more cloth than Oshakati as a whole would choose. The owners gain, because profit measured against private costs alone makes the dye house look more profitable than it is for the town. The 20 market gardeners each lose N$1 500 of crops a month with no compensation. The council faces either the clean-up bill for the channel or the loss of the gardens' produce.",
    "marking_guidance": [
     "Starting point: the initial change - the dye water entering the channel - must be named first, with the N$30 000 attached.",
     "Mechanism: because the price carries none of the costs imposed on others, this causes output above the level society would choose.",
@@ -184,7 +190,9 @@
     "CLM-0455-2.10-002": 1,
     "CLM-0455-2.10-007": 1
    },
-   "authored_hash": "ee93e23ac923cdb856702b12eff586a4a228a210cd41a63bda092cd039b9b529",
+   "authored_hash": "452c10f0e42a34d09d301435a05de62385ecf91570165e912170208918e278b5",
+   "prior_hash": "ee93e23ac923cdb856702b12eff586a4a228a210cd41a63bda092cd039b9b529",
+   "repair_note": "Review fix: flashcard answers trimmed and labels removed; 007 and notes rewritten without the market-failure demand-supply diagram (syllabus says not required); P02(b) asks for two costs; labels removed from P02/P03; Define prompt reworded",
    "objective_titles": [
     "causes of market failure"
    ]
@@ -209,8 +217,8 @@
    "command_word": "Explain",
    "mark_tariff": 4,
    "difficulty": 3,
-   "prompt": "Ruacana Radio reaches 80 000 listeners across the Kunene region, and a season of broadcasts costs N$90 000 to run. A listener with a radio tunes in whether or not they have paid, and one listener tuning in leaves the signal as strong for the next. Explain, for this market, why the two features named in the prompt cause private broadcasters to provide too little air time.",
-   "canonical_answer": "The context: the figures describe a service listeners cannot be excluded from once it broadcasts, and one whose use by each listener leaves as much for the next - non-excludability and non-rivalry, the two features of a public good. The reasoning: because listeners who pay nothing receive the full benefit, each listener is likely to wait for others to fund the station; this is the free-rider problem, and the link to the market outcome is that a private broadcaster cannot collect enough paying listeners to cover the N$90 000, so provision tends to fall short. The conclusion: therefore the market for regional broadcasts under-provides relative to what the 80 000 listeners would gain, which is the under-provision public goods cause.",
+   "prompt": "Ruacana Radio reaches 80 000 listeners across the Kunene region, and a season of broadcasts costs N$90 000 to run. A listener with a radio tunes in whether or not they have paid, and one listener tuning in leaves the signal as strong for the next. Explain, for this market, why these two features cause private broadcasters to provide too little air time.",
+   "canonical_answer": "The signal is non-excludable, because anyone with a radio can tune in without paying, and non-rival, because one listener leaves the signal as strong for the next. Since non-payers get the full benefit, each listener is likely to wait for others to pay - the free-rider problem. A private broadcaster therefore struggles to collect enough from the 80 000 listeners to cover the N$90 000 a season, so it provides less air time than listeners would value: the market under-provides.",
    "marking_guidance": [
     "The context - the two features and the figures - must anchor the answer: non-excludability and non-rivalry, drawn from the prompt.",
     "Reasoning: because non-payers benefit regardless, the link is the free-rider problem - each listener waiting for others to pay.",
@@ -232,7 +240,9 @@
     "CLM-0455-2.10-004": 1,
     "CLM-0455-2.10-007": 1
    },
-   "authored_hash": "4c5a9ac0903b77c7bdfcfbc495b735abef8d4d5d010627d0b710e5bbe01d9ee1",
+   "authored_hash": "0ee5a99f82ab414cd2d501d99f1594cd35351e4eb0feb115dae57f27b8cd6a66",
+   "prior_hash": "4c5a9ac0903b77c7bdfcfbc495b735abef8d4d5d010627d0b710e5bbe01d9ee1",
+   "repair_note": "Review fix: flashcard answers trimmed and labels removed; 007 and notes rewritten without the market-failure demand-supply diagram (syllabus says not required); P02(b) asks for two costs; labels removed from P02/P03; Define prompt reworded",
    "objective_titles": [
     "causes of market failure"
    ]
@@ -256,8 +266,8 @@
    "command_word": "Define",
    "mark_tariff": 2,
    "difficulty": 3,
-   "prompt": "Cheap strong brew sells 2 200 cartons a month in Swakopmund while the town clinic judges 1 500 the manageable level. Define the over-consumption of a good as a consequence of market failure, using these figures.",
-   "canonical_answer": "Over-consumption is consumption above the level that matches the good's full social costs - the level society would choose if the price carried the harm the good imposes on others. Applied to the brew: 2 200 cartons a month are bought against a manageable level of 1 500, so consumption runs 700 cartons a month above that level, since 2 200 - 1 500 = 700 cartons; the excess exists because the brew's price reflects its private costs alone, not the clinic hours and lost work its use imposes on others.",
+   "prompt": "Cheap strong brew sells 2 200 cartons a month in Swakopmund while the town clinic judges 1 500 the manageable level. Define over-consumption as a consequence of market failure, using these figures.",
+   "canonical_answer": "Over-consumption is consumption above the level that matches a good's full social costs. Here 2 200 cartons a month are bought against a manageable 1 500, so 2 200 - 1 500 = 700 cartons too many, because the price ignores the harm to others.",
    "marking_guidance": [
     "Reward the precise definition: consumption above the level that matches the good's full social costs, with the figures attached.",
     "The meaning must tie the excess to the price failing to carry the good's costs to others; a definition of buying more than before earns nothing."
@@ -278,7 +288,9 @@
     "CLM-0455-2.10-005": 1,
     "CLM-0455-2.10-011": 1
    },
-   "authored_hash": "5c3fc13689fb51dd66527aba6b55aee29df1425bbe3127c04745003f7a364b48",
+   "authored_hash": "19657a31cc95369b715a373ab4986324e89f3bd1042b51b9fbf1d12087738698",
+   "prior_hash": "5c3fc13689fb51dd66527aba6b55aee29df1425bbe3127c04745003f7a364b48",
+   "repair_note": "Review fix: flashcard answers trimmed and labels removed; 007 and notes rewritten without the market-failure demand-supply diagram (syllabus says not required); P02(b) asks for two costs; labels removed from P02/P03; Define prompt reworded",
    "objective_titles": [
     "consequences of market failure"
    ]
@@ -303,14 +315,12 @@
    "command_word": "Discuss",
    "mark_tariff": 8,
    "difficulty": 3,
-   "prompt": "The Oshakati clinic sells flu vaccinations at N$60 each and 300 are bought in a season. The clinic's own estimate is that the level serving the whole town - counting the protection each vaccination gives to the neighbours of the person vaccinated - is 900 a season. Discuss how a demand-and-supply diagram of the vaccination market shows the under-provision, giving a verbal walk-through of the diagram and what it shows.",
-   "canonical_answer": "Walk through the diagram in words, element by element. The axes labelled: the price of a vaccination, in N$, on the vertical axis, and the quantity of vaccinations a season on the horizontal axis. The original curves drawn and labelled: the demand curve D1, sloping downward - it traces what buyers are willing and able to pay for their own protection - and the supply curve S, sloping upward, meeting D1 at N$60 and 300 vaccinations, the equilibrium marked E1. The shift or movement, in the correct direction: a demand curve that also counted the protection each vaccinated person gives to classmates and neighbours would sit to the right of D1, at D2, because at each price the vaccination is worth more to the town than D1 records; this is a shift of the demand curve to the right, not a movement along it, since the price has not changed while the benefits being counted have. The new equilibrium marked and labelled: E2, where D2 crosses S, at a price above N$60 and a quantity near 900 a season. What the diagram shows, in words: the market quantity of 300 falls 600 vaccinations short of the town's full benefit, since 900 - 300 = 600 vaccinations, and the shortfall exists because the demand the market reads counts the buyer's own benefit alone. The link is between the benefits to others and the position of the demand curve - benefits no buyer counts keep it left of where the town's interest would put it - and the consequence is under-consumption: 600 vaccinations a season sit unbought while the risk they would have prevented travels the town.",
+   "prompt": "The Oshakati clinic sells flu vaccinations at N$60 each and 300 are bought in a season. The clinic estimates that the level serving the whole town - counting the protection each vaccination gives to the neighbours of the person vaccinated - is 900 a season. Discuss whether the market for vaccinations in Oshakati is failing, and what the shortfall means for the town.",
+   "canonical_answer": "Buyers decide at N$60 by weighing the protection they themselves receive. Each vaccination also protects classmates, neighbours and people in the taxi queue, but that external benefit enters no buyer's decision, so the market settles at 300 a season against the 900 the clinic judges would serve the town - a shortfall of 900 - 300 = 600 vaccinations. The link is that the price mechanism counts private benefit alone, so a merit good with external benefits is under-consumed. The consequence lands on the unvaccinated: flu spreads further than it needs to, households lose work and school days, and the clinic treats cases vaccination could have prevented. Against this, the 900 is the clinic's own estimate rather than an observed figure, and some people may refuse vaccination for reasons a lower price would not change, so the true shortfall may be smaller. On balance the market is failing: even if the estimate is generous, the benefits to others are real and the price ignores them.",
    "marking_guidance": [
-    "The walk-through must name the axes labelled - price and quantity, each with its units - before anything else.",
-    "Reward the original curves drawn and labelled: D1 and S in place at N$60 and 300 vaccinations, meeting at E1, before the change is described.",
-    "Check the shift or movement, in the correct direction: counting the benefits to others is a rightward shift of the demand curve, not a movement along it, because the price has not changed.",
-    "The new equilibrium marked and labelled - E2, where the demand that counts others' benefits crosses S near 900 a season - and what the diagram shows, in words: the 600-vaccination gap, earn their marks.",
-    "The link between the benefits to others and the position of the demand curve, and the consequence - 600 vaccinations under-consumed this season - carry the analysis marks."
+    "The link: the price counts only the buyer's own protection, so the benefit to neighbours is left out and the market settles at 300 rather than 900.",
+    "The consequence: 600 vaccinations a season under-consumed, landing on the unvaccinated neighbours, their households and the clinic.",
+    "A Discuss answer weighs a limit - the 900 is an estimate, and some refusals are not about price - and reaches a judgement on whether the market is failing."
    ],
    "context": {
     "sector": null,
@@ -328,8 +338,10 @@
     "CLM-0455-2.10-011": 1,
     "CLM-0455-2.10-012": 1
    },
-   "authored_hash": "5a69767144440519763c87e21c787f18a7916d28268cee7edd8b271a2cb1f6bb",
+   "authored_hash": "0aa6c77011b22e1a4b843339fcdc64e4b5b81bfb5f74f0e97f4a7a68871a6c83",
    "misconception_entry": null,
+   "prior_hash": "5a69767144440519763c87e21c787f18a7916d28268cee7edd8b271a2cb1f6bb",
+   "repair_note": "Review fix: flashcard answers trimmed and labels removed; 007 and notes rewritten without the market-failure demand-supply diagram (syllabus says not required); P02(b) asks for two costs; labels removed from P02/P03; Define prompt reworded",
    "objective_titles": [
     "consequences of market failure"
    ]
@@ -355,7 +367,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "A Katutura clinic keeps two seasons of records for a sugary soft drink sold at the same N$6 a bottle throughout. Season 1: 8 000 bottles sold, 90 dental cases. Season 2: 12 000 bottles sold, 210 dental cases. Explain what these figures show about the over-consumption of the drink.",
-   "canonical_answer": "What the data shows: the relationship between the quantity of the drink bought and the dental cases that follow is positive - the larger quantity goes with the larger count of cases. Supporting evidence: the comparison across the seasons shows bottles rising from 8 000 to 12 000 while dental cases rise from 90 to 210. Why: because the price of the drink stays at N$6 while its costs to others - the clinic hours and missed school its sugar causes - never enter that price, buyers face a cheaper choice than the one society bears, so consumption climbs above the level the clinic's dental ward can manage. The exception to weigh: however, two seasons cannot prove the drink alone causes the cases - diets and brushing habits may have changed too - and the figures measure the market's quantity, not the level society would choose, so the size of the over-consumption is estimated, not observed.",
+   "canonical_answer": "Bottles sold and dental cases rise together: bottles from 8 000 to 12 000 while cases climb from 90 to 210. The price stays at N$6, yet the clinic hours and missed school the sugar causes never enter it, so buyers face a cheaper choice than society bears and consumption rises above the level society would choose. However, two seasons cannot prove the drink alone caused the cases - diets and brushing habits may have changed - and the level society would choose is estimated, not observed.",
    "marking_guidance": [
     "What the data shows - the positive relationship between bottles sold and dental cases - must be stated first, with the supporting evidence taken as a comparison across the two seasons.",
     "The exception or caution earns a mark: however, two seasons cannot separate the drink's effect from other changes, and the social level is an estimate.",
@@ -377,7 +389,9 @@
     "CLM-0455-2.10-005": 1,
     "CLM-0455-2.10-011": 1
    },
-   "authored_hash": "cc6d75bebd30c29aba0f1f5a560db9f7b1b9886d9f31f093ae2a874bbe82221d",
+   "authored_hash": "696dffd1612816925fb8b9612d2caca5faf372b63b6587850ec55cc1c5dbd69e",
+   "prior_hash": "cc6d75bebd30c29aba0f1f5a560db9f7b1b9886d9f31f093ae2a874bbe82221d",
+   "repair_note": "Review fix: flashcard answers trimmed and labels removed; 007 and notes rewritten without the market-failure demand-supply diagram (syllabus says not required); P02(b) asks for two costs; labels removed from P02/P03; Define prompt reworded",
    "objective_titles": [
     "consequences of market failure"
    ]
@@ -403,7 +417,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Enrolment at Ruacana's evening book-keeping classes stands at 200 students a term at a fee of N$50, while the region's employers judge 600 the level their payrolls need, and families undervalue the classes' later payoff. Explain, for this town, the consequences of this under-consumption for the students who stayed away, the employers, and the wider economy.",
-   "canonical_answer": "The context: the figures show 200 students enrolled against a needed level of 600, a shortfall of 400 students a term, since 600 - 200 = 400 students, at a fee that has not changed. The reasoning: because families undervalue the classes - a merit good's payoff looks small next to today's cost - demand at N$50 sits below where the classes' benefits to the students, the employers and the town would place it, and the link from that undervaluing to the enrolment is the under-consumption itself. The conclusion: therefore 400 potential book-keepers a term stay without the training, employers face vacancies they cannot fill locally, and the wider economy keeps less of the skill its own spending could have built; the missed benefit lands on the very parties who stayed away.",
+   "canonical_answer": "Enrolment is 200 against the 600 employers need, a shortfall of 600 - 200 = 400 students a term at an unchanged N$50 fee. Because families undervalue the classes' later payoff - book-keeping training is a merit good - demand sits below the level its full benefits justify. Therefore 400 potential book-keepers a term miss the skill and the earnings it brings, employers face vacancies they cannot fill locally, and the wider economy builds less skill than it could.",
    "marking_guidance": [
     "The context - 200 enrolled against 600 needed, at the unchanged N$50 - must anchor the answer; the figures are the evidence.",
     "Reasoning: because families undervalue a merit good, the link is demand below the level the classes' full benefits would justify.",
@@ -425,7 +439,9 @@
     "CLM-0455-2.10-005": 1,
     "CLM-0455-2.10-011": 1
    },
-   "authored_hash": "06a736e71965504715ab18a98d07d0e3fc6ae4ba900f512c534e11fd379a4d2d",
+   "authored_hash": "373c6e66ab21b8aa19a36e32509800a252fa4aa63275e8a8119f84b138e7676c",
+   "prior_hash": "06a736e71965504715ab18a98d07d0e3fc6ae4ba900f512c534e11fd379a4d2d",
+   "repair_note": "Review fix: flashcard answers trimmed and labels removed; 007 and notes rewritten without the market-failure demand-supply diagram (syllabus says not required); P02(b) asks for two costs; labels removed from P02/P03; Define prompt reworded",
    "objective_titles": [
     "consequences of market failure"
    ]
@@ -450,7 +466,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "A tobacco stall at Oshakati's open market sells 3 500 packs of cigarettes a month at N$30 a pack. The state clinic spends N$400 000 a month treating the chest cases that follow, and judges 2 000 packs a month the level its wards could manage. Analyse the consequences of this over-consumption for the smokers, their households, and the state clinic.",
-   "canonical_answer": "Starting point: the initial change is a market level of 3 500 packs a month against a manageable level of 2 000, so consumption sits 1 500 packs a month above what the clinic judges sustainable, since 3 500 - 2 000 = 1 500 packs. Mechanism: because the N$30 price carries none of the N$400 000 the clinic spends, the pack looks cheaper to the smoker than the chest cases make it for society, and this causes consumption to settle above the manageable level - the demerit-good form of market failure. Consequence for the smokers: they bear health damage the price did not signal, since the true cost of each pack is higher than N$30 once the clinic's bills are counted. Consequence for their households: income and care hours flow to treatment and away from school fees and food. Consequence for the state clinic: N$400 000 a month of capacity is consumed by cases the price never warned of, and this crowds out the ward's other patients. For whom: the smokers lose health, the households lose income and time, and the clinic's other patients lose capacity - the misallocation lands on all three.",
+   "canonical_answer": "The stall sells 3 500 packs a month against the 2 000 the clinic judges manageable, so 3 500 - 2 000 = 1 500 packs too many. Because the N$30 price carries none of the N$400 000 the clinic spends each month, a pack looks cheaper to the smoker than it is to society, so consumption of this demerit good settles above the manageable level. Smokers bear health damage the price did not signal. Their households lose income and care hours to treatment, taken from school fees and food. The clinic spends N$400 000 a month on these cases, which crowds out its other patients, so the misallocation lands on all three.",
    "marking_guidance": [
     "Starting point: the initial change - 3 500 packs against the 2 000 judged manageable - must be named first, with the 1 500-pack gap attached.",
     "Mechanism: because the price carries none of the clinic's costs, this causes consumption above the level society would choose - the demerit-good failure.",
@@ -473,7 +489,9 @@
     "CLM-0455-2.10-005": 1,
     "CLM-0455-2.10-011": 1
    },
-   "authored_hash": "f79ec76b39df15f1b5b32eb00d86210fdbf11aa683867d8951f17c3e0ddeee2c",
+   "authored_hash": "f20739757e11757299bc22488970c6c4502309fa5aa5d0b4ab2704457a5ada12",
+   "prior_hash": "f79ec76b39df15f1b5b32eb00d86210fdbf11aa683867d8951f17c3e0ddeee2c",
+   "repair_note": "Review fix: flashcard answers trimmed and labels removed; 007 and notes rewritten without the market-failure demand-supply diagram (syllabus says not required); P02(b) asks for two costs; labels removed from P02/P03; Define prompt reworded",
    "objective_titles": [
     "consequences of market failure"
    ]
@@ -562,8 +580,8 @@
    "command_word": null,
    "mark_tariff": null,
    "difficulty": 5,
-   "prompt": "A radio report from Walvis Bay, March 2027: \"Pelagic Processors opened its second fish-meal line this year. The plant's washings drain through the town channel into the lagoon. Net fishers say their season's catch is down; the plant says its processing volume is up. The town council has published its first lagoon survey.\"\n\nTable 1 - Pelagic Processors, Walvis Bay\n  fish-meal output: 900 tonnes last year, 1 500 tonnes this year\n  washings drained per tonne processed: 4 litres\n  net fishers affected: 30, each losing N$2 000 of catch a season\n  council dredging estimate: N$500 000\n\n(a) Calculate the litres of washings drained this year. [1]\n(b) Identify from Table 1 one cost the plant's price does not carry. [2]\n(c) Explain why the market produces more fish-meal than the level Walvis Bay as a whole would choose. [4]\n(d) Analyse what the survey suggests for the plant's owners, the net fishers and the council, using the data as evidence. [6]",
-   "canonical_answer": "(a) 1 500 x 4 = 6 000 litres of washings this year.\n(b) The net fishers' lost catch - N$2 000 each across 30 fishers - or the council's N$500 000 dredging estimate: both are costs imposed on parties outside the plant's transactions, and the price of fish-meal carries neither.\n(c) The washings impose costs on the fishers and the council that the price of fish-meal does not carry, so the plant's private costs understate the activity's social costs. Because buyers pay a price set against private costs alone, the market settles at 1 500 tonnes, above the level that would match the full costs to the town; this is over-production, and the second production line shows the market extending an activity whose full costs it never reads.\n(d) Expected relationship: processing volume rises with the waste the lagoon absorbs, so the harm and the output move together. Evidence: output rose from 900 to 1 500 tonnes, washings ran at 6 000 litres this year, and 30 fishers lost N$60 000 of catch between them, since 30 x N$2 000 = N$60 000, beside a N$500 000 dredging estimate. Analysis: for the owners, the second line adds revenue judged against private costs alone, so expansion looks more profitable than it is for the town; for the fishers, N$60 000 of income is lost to a plant whose price they never set; for the council, N$500 000 of dredging competes with other spending plans. Exception: however, the catch fall may owe something to weather and stock movements a first survey cannot separate, and the dredging estimate is a single survey's figure rather than a settled cost.",
+   "prompt": "A radio report from Walvis Bay, March 2027: \"Pelagic Processors opened its second fish-meal line this year. The plant's washings drain through the town channel into the lagoon. Net fishers say their season's catch is down; the plant says its processing volume is up. The town council has published its first lagoon survey.\"\n\nTable 1 - Pelagic Processors, Walvis Bay\n  fish-meal output: 900 tonnes last year, 1 500 tonnes this year\n  washings drained per tonne processed: 4 litres\n  net fishers affected: 30, each losing N$2 000 of catch a season\n  council dredging estimate: N$500 000\n\n(a) Calculate the litres of washings drained this year. [1]\n(b) Identify from Table 1 two costs the plant's price does not carry. [2]\n(c) Explain why the market produces more fish-meal than the level Walvis Bay as a whole would choose. [4]\n(d) Analyse what the survey suggests for the plant's owners, the net fishers and the council, using the data as evidence. [6]",
+   "canonical_answer": "(a) 1 500 x 4 = 6 000 litres of washings this year.\n(b) The net fishers' lost catch - N$2 000 each across 30 fishers - and the council's N$500 000 dredging estimate, one mark each: both are costs imposed on parties outside the plant's transactions, and the price of fish-meal carries neither.\n(c) The washings impose costs on the fishers and the council that the price of fish-meal does not carry, so the plant's private costs understate the activity's social costs. Because buyers pay a price set against private costs alone, the market settles at 1 500 tonnes, above the level that would match the full costs to the town; this is over-production, and the second production line shows the market extending an activity whose full costs it never reads.\n(d) Processing volume rises with the waste the lagoon absorbs, so the harm and the output move together. Output rose from 900 to 1 500 tonnes, washings ran at 6 000 litres this year, and 30 fishers lost N$60 000 of catch between them, since 30 x N$2 000 = N$60 000, beside a N$500 000 dredging estimate. For the owners, the second line adds revenue judged against private costs alone, so expansion looks more profitable than it is for the town; for the fishers, N$60 000 of income is lost to a plant whose price they never set; for the council, N$500 000 of dredging competes with other spending plans. However, the catch fall may owe something to weather and stock movements a first survey cannot separate, and the dredging estimate is a single survey's figure rather than a settled cost.",
    "marking_guidance": [
     "Parts (a) and (b) are read from the data; the six-mark part must use the figures as evidence - the tonnage rise, the 6 000 litres, the N$60 000 of lost catch, the N$500 000 dredging estimate - not as analysis itself.",
     "One mark per distinct linked statement in (c): the costs the price does not carry, and the market level sitting above the social level, carry the marks.",
@@ -593,7 +611,9 @@
     "CLM-0455-2.10-007": 1,
     "CLM-0455-2.10-011": 1
    },
-   "authored_hash": "6639d12a9b9f48263540dda91d2384d3bdab05930135aea45723433be028d4ce",
+   "authored_hash": "7ca980d214519d35f83711b28a050342bc48231a19bfb3dd0312bf619fcc0e27",
+   "prior_hash": "6639d12a9b9f48263540dda91d2384d3bdab05930135aea45723433be028d4ce",
+   "repair_note": "Review fix: flashcard answers trimmed and labels removed; 007 and notes rewritten without the market-failure demand-supply diagram (syllabus says not required); P02(b) asks for two costs; labels removed from P02/P03; Define prompt reworded",
    "objective_titles": [
     "causes of market failure",
     "consequences of market failure"
@@ -626,7 +646,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "Gobabis households use the services of one health trust and one high school. Answer all parts.\n\n(a) Define market failure. [2]\n(b) Explain the difference between a merit good and a demerit good, and say which way each is misallocated. [4]\n(c) The Gobabis health trust sells child vaccinations at N$45 each and 400 are bought a season; the trust judges 1 000 the level that would protect the town. Analyse what this shortfall means for the town's children, their families and the trust. [6]\n(d) Discuss whether selling a merit good at a price low enough for the town's households to meet would end its under-consumption. [8]",
-   "canonical_answer": "(a) Market failure is the failure of the price mechanism to allocate resources in the way that best serves society, so the market produces too much of some goods and too little of others relative to the levels that would match their full costs and benefits.\n(b) A merit good is one whose benefits consumers tend to undervalue, so the market under-consumes it - vaccination, schooling. A demerit good is one whose harm consumers tend to undercount, so the market over-consumes it - tobacco, strong drink. The two are misallocated in opposite directions: resources sit behind too little of the merit good and too much of the demerit good, in each case because the price carries less of the good's full effects than society bears.\n(c) Starting point: the initial change is a market level of 400 vaccinations against a protective level of 1 000, a shortfall of 600, since 1 000 - 400 = 600 vaccinations, at an unchanged price of N$45. Mechanism: because buyers count the protection their own children receive and skip the protection a vaccinated child gives to classmates and neighbours, demand at N$45 sits below where the good's social benefits would place it. Consequence for the children: 600 remain exposed to a disease the vaccine checks. Consequence for their families: exposure risk arrives with treatment costs and lost school days. Consequence for the trust: its capacity flows into treating the cases the price did not prevent. For whom: the unprotected children, their families, and the ward's other patients carry the shortfall.\n(d) The case for: a lower price moves buyers down the demand curve, so the quantity demanded rises; where the barrier was ability to pay, an affordable price removes it, and the quantity moves towards the protective level. The case against: where the barrier is undervaluing rather than affordability - families who doubt the vaccine, or weigh today's N$45 against other needs - a lower price does nothing to change what the good looks worth in their eyes, so demand may still sit below the social level; and the trust must cover the cost of production from somewhere, which may require the council's budget or a donor. Judgement: an affordable price narrows the shortfall where ability to pay is the binding constraint; it ends under-consumption provided the undervaluing has also been addressed, and the condition it depends on is whether the trust's costs can be covered at that price, and whether the families who stayed away were priced out or unconvinced.",
+   "canonical_answer": "(a) Market failure is the failure of the price mechanism to allocate resources in the way that best serves society, so the market produces too much of some goods and too little of others relative to the levels that would match their full costs and benefits.\n(b) A merit good is one whose benefits consumers tend to undervalue, so the market under-consumes it - vaccination, schooling. A demerit good is one whose harm consumers tend to undercount, so the market over-consumes it - tobacco, strong drink. The two are misallocated in opposite directions: resources sit behind too little of the merit good and too much of the demerit good, in each case because the price carries less of the good's full effects than society bears.\n(c) The market buys 400 vaccinations against a protective level of 1 000, a shortfall of 600, since 1 000 - 400 = 600 vaccinations, at an unchanged price of N$45. Because buyers count the protection their own children receive and skip the protection a vaccinated child gives to classmates and neighbours, demand at N$45 sits below where the good's social benefits would place it. For the children, 600 remain exposed to a disease the vaccine checks. For their families, that exposure brings the risk of treatment costs and lost school days. For the trust, capacity flows into treating the cases the price did not prevent. The shortfall is therefore carried by the unprotected children, their families and the ward's other patients.\n(d) The case for is that a lower price moves buyers down the demand curve, so the quantity demanded rises; where the barrier was ability to pay, an affordable price removes it, and the quantity moves towards the protective level. The case against is that where the barrier is undervaluing rather than affordability - families who doubt the vaccine, or weigh today's N$45 against other needs - a lower price does nothing to change what the good looks worth in their eyes, so demand may still sit below the social level; and the trust must cover the cost of production from somewhere, which may require the council's budget or a donor. On balance, an affordable price narrows the shortfall where ability to pay is the binding constraint; it ends under-consumption provided the undervaluing has also been addressed, and the condition it depends on is whether the trust's costs can be covered at that price, and whether the families who stayed away were priced out or unconvinced.",
    "marking_guidance": [
     "Every part carries a model answer; part (d) is level-marked over three bands.",
     "(a) rewards the precise definition: the price mechanism allocating against society's interest, not a single firm's fortunes.",
@@ -657,7 +677,9 @@
     "CLM-0455-2.10-011": 1,
     "CLM-0455-2.10-012": 1
    },
-   "authored_hash": "60ab8bb0097d4e22bd22c74d40c4fc9e5096ea54539043110913d6dbd90662d8",
+   "authored_hash": "623c8904554136e8f87bfecc27ba6b6e17c2a796f67d5177328d608427b004cc",
+   "prior_hash": "60ab8bb0097d4e22bd22c74d40c4fc9e5096ea54539043110913d6dbd90662d8",
+   "repair_note": "Review fix: flashcard answers trimmed and labels removed; 007 and notes rewritten without the market-failure demand-supply diagram (syllabus says not required); P02(b) asks for two costs; labels removed from P02/P03; Define prompt reworded",
    "objective_titles": [
     "definition of market failure",
     "causes of market failure",

@@ -20,10 +20,10 @@
    "command_word": "Define",
    "mark_tariff": 2,
    "difficulty": 2,
-   "prompt": "Define the macroeconomic aims of government.",
-   "canonical_answer": "The macroeconomic aims of government are the economy-wide outcomes a government works towards: low inflation, low unemployment, steady growth in the output of the economy, and a current account close to balance.",
+   "prompt": "Define macroeconomic aims and state the five aims a government pursues.",
+   "canonical_answer": "Macroeconomic aims are the economy-wide outcomes a government works towards. The five are low inflation, low unemployment, steady growth in output, a current account close to balance, and redistribution of income towards a fairer distribution.",
    "marking_guidance": [
-    "Precise meaning: the definition must state that these are economy-wide outcomes a government seeks, and name the aims - low inflation, low unemployment, steady growth in output, and a current account close to balance."
+    "Precise meaning: the definition must state that these are economy-wide outcomes a government seeks, and name the five aims - low inflation, low unemployment, steady growth in output, a current account close to balance, and redistribution of income."
    ],
    "context": {
     "sector": null,
@@ -38,9 +38,11 @@
    "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-0455-4.2-001": 1
+    "CLM-0455-4.2-001": 2
    },
-   "authored_hash": "1aa3b0f928a2edead175d97ed0c67f56f3b62d31b4dc3092f7c707318dbed6b9"
+   "authored_hash": "f4306b3c4caf9eff850b6e72f1ca7f7a2b5fba6a919448e6f0ac71b126f269a4",
+   "prior_hash": "1aa3b0f928a2edead175d97ed0c67f56f3b62d31b4dc3092f7c707318dbed6b9",
+   "repair_note": "Reviewer fix 2026-10-13: added the fifth macroeconomic aim (redistribution of income) to claims 001-003, the aims block and item 001/P01; reworded the Define prompt; removed leaked authoring labels; trimmed flashcard answers for recall."
   },
   {
    "item_id": "ITEM-0455-4.2-002-WHY",
@@ -61,7 +63,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "Explain why low inflation is one of the macroeconomic aims of government.",
-   "canonical_answer": "Low inflation is an aim because slow price rises protect the buying power of incomes and savings: a worker whose pay rises by 5.0% while prices rise by 3.0% is better off in real terms, whereas fast inflation quietly takes that gain away. The purpose of the aim is steadiness: firms can plan prices and wages further ahead, savers are not penalised for holding money, and people on fixed pensions keep their purchasing power. For the government, slow price rises tend to keep wage demands and public-sector costs calmer, which makes the budget easier to manage. Therefore the aim exists because fast price rises spread costs across households, savers and firms, while slow ones let each of them plan ahead.",
+   "canonical_answer": "Low inflation protects the buying power of incomes and savings: a worker whose pay rises by 5.0% while prices rise by 3.0% is better off in real terms, but fast inflation takes that gain away. Because slow price rises are easier to predict, firms can plan prices, wages and investment further ahead, savers are not penalised for holding money, and pensioners on fixed incomes keep their purchasing power. Slow price rises also tend to calm wage demands and public-sector costs, so the government's budget is easier to manage.",
    "marking_guidance": [
     "Reason: the purpose of the aim - protecting the buying power of incomes and savings - must be stated, because that is why governments pursue it.",
     "Development: credit the parties the aim serves - workers, savers, pensioners, firms and the government - with each linked reason."
@@ -79,9 +81,11 @@
    "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-0455-4.2-003": 1
+    "CLM-0455-4.2-003": 2
    },
-   "authored_hash": "8991a7017f072ad586b85ccab39002fea965d43c0a72b2782e8904258afc2f4f"
+   "authored_hash": "0929aee0b970a2f3b3acb7f0d65431d3e7add7a880c70edf788765ce54d20c70",
+   "prior_hash": "8991a7017f072ad586b85ccab39002fea965d43c0a72b2782e8904258afc2f4f",
+   "repair_note": "Reviewer fix 2026-10-13: added the fifth macroeconomic aim (redistribution of income) to claims 001-003, the aims block and item 001/P01; reworded the Define prompt; removed leaked authoring labels; trimmed flashcard answers for recall."
   },
   {
    "item_id": "ITEM-0455-4.2-003-APP",
@@ -104,7 +108,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "A briefing for the Minister of Finance reports on the year just ended: \"Inflation slowed to 4.1% from 6.8% the year before. Output grew by 3.0%. The unemployment rate stands at 12.6%. The current account deficit widened to 3.4% of the value of exports.\" Using the figures, explain which macroeconomic aims the economy moved towards and which it moved away from.",
-   "canonical_answer": "The figures show movement towards two aims and away from two. Inflation slowing from 6.8% to 4.1% means the economy moved towards low inflation, because the general price level is rising more slowly than before. Output growing by 3.0% is movement towards the growth aim, since the production of the economy is expanding. The unemployment rate standing at 12.6% is high, and the briefing reports no fall, so the jobs aim is being missed rather than approached. The current account deficit widening to 3.4% of the value of exports moves the economy away from external balance, because the country is spending more abroad relative to what it earns. Therefore the inflation and growth aims are being served, whereas the jobs and external aims are not.",
+   "canonical_answer": "The figures show movement towards two aims and away from two. Inflation slowing from 6.8% to 4.1% moves the economy towards low inflation, because prices are rising more slowly. Output growth of 3.0% moves it towards the growth aim. Unemployment of 12.6% is high and has not fallen, so the jobs aim is being missed. A current account deficit widening to 3.4% of export value moves it away from external balance. Therefore the inflation and growth aims are being served, but the jobs and external aims are not.",
    "marking_guidance": [
     "Context: the figures - inflation at 4.1% against 6.8%, output growth of 3.0%, unemployment at 12.6%, the deficit at 3.4% - must be used to anchor each judgement.",
     "Reasoning: each judgement must say why the figure supports it, because a number without its link to an aim earns little.",
@@ -123,10 +127,12 @@
    "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-0455-4.2-001": 1,
-    "CLM-0455-4.2-002": 1
+    "CLM-0455-4.2-001": 2,
+    "CLM-0455-4.2-002": 2
    },
-   "authored_hash": "b484a7b47e1e557da24dc23e0a2fe4bc8d944bb1c4decd4c0672f56e678d3087"
+   "authored_hash": "ef64ba1c16bdbd67f6077e8fb71e80f507f41b45f7eccaf10af5e882a7b7ed77",
+   "prior_hash": "b484a7b47e1e557da24dc23e0a2fe4bc8d944bb1c4decd4c0672f56e678d3087",
+   "repair_note": "Reviewer fix 2026-10-13: added the fifth macroeconomic aim (redistribution of income) to claims 001-003, the aims block and item 001/P01; reworded the Define prompt; removed leaked authoring labels; trimmed flashcard answers for recall."
   },
   {
    "item_id": "ITEM-0455-4.2-007-CHAIN",
@@ -149,7 +155,7 @@
    "mark_tariff": 8,
    "difficulty": 3,
    "prompt": "Suppose a government announces that faster growth of the economy's output will be its leading aim, and spending across the economy rises quickly in response, with little spare capacity left in factories and workplaces. Discuss the likely consequences for consumers, workers, firms and the government of chasing the growth aim in these conditions.",
-   "canonical_answer": "Starting point: the initial change is a quick rise in spending across the economy aimed at faster growth, in an economy with little spare capacity. Mechanism: because firms cannot easily raise output when workplaces are near full, the extra spending bids up prices rather than adding much production; this causes the general price level to accelerate, and part of the spending goes abroad on imports. Consequence: consumers face faster price rises for the same goods, so households on fixed pay lose buying power; workers gain jobs and overtime at first, though pay rises tend to be overtaken by price rises; firms enjoy fuller order books while their costs, including imported materials, climb; the government collects more tax revenue yet faces renewed strain on the current account. For whom: consumers bear the price rises, workers hold jobs whose pay stretches less far, firms carry higher costs with fuller sales, and the government carries the wider external deficit. Judgement: the growth aim is likely to be served least where capacity is tightest, and whether the chase is worth it depends on how quickly the economy can expand its capacity to meet the extra spending.",
+   "canonical_answer": "When spending across the economy rises quickly to chase faster growth while little spare capacity is left, firms cannot easily raise output. Because workplaces are near full, the extra spending bids up prices rather than adding much production, so inflation accelerates and part of the spending goes abroad on imports. Consumers face faster price rises, so households on fixed pay lose buying power. Workers gain jobs and overtime at first, but their pay rises tend to be overtaken by price rises. Firms enjoy fuller order books while their costs, including imported materials, climb. The government collects more tax revenue but faces a wider current account deficit. Therefore the growth aim is likely to be served least where capacity is tightest, and whether the chase is worth it depends on how quickly the economy can expand its capacity to meet the extra spending.",
    "marking_guidance": [
     "Starting point: the initial change - fast-rising spending across the economy in a tight economy - must be named.",
     "Mechanism: the chain through limited spare capacity must be spelled out, because near-full workplaces turning spending into prices is what causes the strain.",
@@ -169,11 +175,13 @@
    "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-0455-4.2-001": 1,
-    "CLM-0455-4.2-003": 1,
+    "CLM-0455-4.2-001": 2,
+    "CLM-0455-4.2-003": 2,
     "CLM-0455-4.2-004": 1
    },
-   "authored_hash": "f4dcce8c335eb0d1b833282214e97dde676c0f32057fab2858951b4fb3add421"
+   "authored_hash": "5b5584ddd01eae9e1e05c32d0764d8e6f84c28bbda4e14a1cd0b14582b38803a",
+   "prior_hash": "f4dcce8c335eb0d1b833282214e97dde676c0f32057fab2858951b4fb3add421",
+   "repair_note": "Reviewer fix 2026-10-13: added the fifth macroeconomic aim (redistribution of income) to claims 001-003, the aims block and item 001/P01; reworded the Define prompt; removed leaked authoring labels; trimmed flashcard answers for recall."
   },
   {
    "item_id": "ITEM-0455-4.2-004-DEF",
@@ -235,7 +243,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "Explain the difference between a conflict between macroeconomic aims and a case in which two aims move together.",
-   "canonical_answer": "The boundary is the direction of travel. In a conflict, the conditions that serve one aim strain another: a quick rise in spending across the economy tends to lower unemployment while pushing inflation up, so one aim improves as the other worsens. Where two aims move together, the same conditions serve both: an economy whose productivity rises can grow its output while adding little pressure to prices, so the growth aim and the inflation aim advance side by side. The test is to trace the driving condition to its effect on the second aim: if it pushes the second aim away, the case is a conflict, whereas if it holds or helps the second aim, the aims are moving together. Which one applies therefore depends on the source of the change, not on the aims themselves.",
+   "canonical_answer": "The difference is the direction of travel. In a conflict, the conditions that serve one aim strain another: a quick rise in spending across the economy tends to lower unemployment while pushing inflation up. Where aims move together, the same conditions serve both: rising productivity lets output grow with little pressure on prices. The test is to trace the driving condition to the second aim: if it pushes that aim away, it is a conflict; if it holds or helps it, the aims move together.",
    "marking_guidance": [
     "Boundary: the distinction - one aim improving while another worsens, against both advancing together - must be drawn, whereas a definition of a single aim does not answer.",
     "Test: the answer must say how to tell which case applies - trace the driving condition through to its effect on the second aim."
@@ -256,7 +264,9 @@
     "CLM-0455-4.2-005": 1,
     "CLM-0455-4.2-007": 1
    },
-   "authored_hash": "a6433c5729baff34efa536c0df1af651afbf4fe36a91d06e08299243e7d04a32"
+   "authored_hash": "936b31c3114a0602e5f5578544959fbfde704ab43810aacd3ca06189b05fdc53",
+   "prior_hash": "a6433c5729baff34efa536c0df1af651afbf4fe36a91d06e08299243e7d04a32",
+   "repair_note": "Reviewer fix 2026-10-13: added the fifth macroeconomic aim (redistribution of income) to claims 001-003, the aims block and item 001/P01; reworded the Define prompt; removed leaked authoring labels; trimmed flashcard answers for recall."
   },
   {
    "item_id": "ITEM-0455-4.2-006-APP",
@@ -279,7 +289,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "An economy reports for the past year: \"Unemployment fell from 16.0% to 13.5%. Inflation rose from 3.8% to 6.9%. Spending on imports grew by 9.0% while export earnings grew by 4.0%.\" Using the data, explain the conflict between macroeconomic aims these figures show.",
-   "canonical_answer": "The data show the jobs aim being served while the inflation and external aims are strained. Unemployment falling from 16.0% to 13.5% means the economy moved towards low unemployment, because the spending that creates jobs was strong. The same strength reached prices: inflation rising from 3.8% to 6.9% moves the economy away from low inflation, because the spending that hires workers also lets firms with full order books raise prices. Import spending growing by 9.0% while export earnings grew by 4.0% widens the gap between what the country spends abroad and what it earns, which strains the current account. Therefore the conflict is that one driving condition - fast-rising spending across the economy - serves one aim while pulling two others away, so the government cannot hold all three aims by the same route.",
+   "canonical_answer": "The data show the jobs aim served while the inflation and external aims are strained. Unemployment falling from 16.0% to 13.5% moves the economy towards low unemployment, because strong spending created jobs. The same spending let firms with full order books raise prices, so inflation rose from 3.8% to 6.9%. Import spending growing by 9.0% against export earnings growing by 4.0% widens the gap between spending abroad and earnings, straining the current account. Therefore one driving condition, fast-rising spending, serves one aim while pulling two others away.",
    "marking_guidance": [
     "Context: the data - unemployment at 13.5% from 16.0%, inflation at 6.9% from 3.8%, import growth of 9.0% against export growth of 4.0% - must anchor each step.",
     "Reasoning: the link between the single driving condition and its opposite effects on the aims must be made, because that link is the conflict.",
@@ -301,7 +311,9 @@
     "CLM-0455-4.2-005": 1,
     "CLM-0455-4.2-006": 1
    },
-   "authored_hash": "1ff21a33f44beb3ac5bf76fae28b13ca8c59b9a311892184a81f42b603ba961c"
+   "authored_hash": "d21b4f8e72b5ad9d105d2db0bc5b809b953f34b6a759a29505bc99f8a80e82e5",
+   "prior_hash": "1ff21a33f44beb3ac5bf76fae28b13ca8c59b9a311892184a81f42b603ba961c",
+   "repair_note": "Reviewer fix 2026-10-13: added the fifth macroeconomic aim (redistribution of income) to claims 001-003, the aims block and item 001/P01; reworded the Define prompt; removed leaked authoring labels; trimmed flashcard answers for recall."
   },
   {
    "item_id": "ITEM-0455-4.2-P01",
@@ -330,8 +342,8 @@
    "command_word": null,
    "mark_tariff": null,
    "difficulty": 3,
-   "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. Which list contains the macroeconomic aims of government?\nA  low inflation, low unemployment, steady growth in output, a current account close to balance\nB  low costs, high revenue, market share, profit for firms\nC  a balanced budget, a strong currency, high tariffs, low wages\nD  higher exports than imports in each month\n\n2. Movement towards the aim of low unemployment is measured by:\nA  a fall in the rate of inflation\nB  a narrowing current account deficit\nC  a fall in the unemployment rate\nD  a rise in output per worker\n\n3. An economy's inflation rate rises from 3.0% to 8.0%. This moves the economy away from:\nA  the growth aim\nB  the jobs aim\nC  external balance\nD  the inflation aim\n\n4. A quick rise in spending across the economy lowers unemployment while speeding up price rises. This situation is best described as:\nA  a rise in productivity per worker\nB  a conflict between macroeconomic aims\nC  a case of two aims moving together\nD  a fall in the general price level\n\n5. Which of these is a possible cause of faster price rises?\nA  a quick rise in spending across the economy with little spare capacity\nB  a higher general price level\nC  a wider current account deficit\nD  a fall in unemployment recorded the following year\n\n6. Growth that comes from rising productivity can serve two aims at once. Which pair?\nA  low unemployment and a wider current account deficit\nB  low inflation and a wider current account deficit\nC  steady growth in output and low inflation\nD  fast price rises and external balance\n\n7. The current account of a country records:\nA  the tax revenue and spending of the government\nB  the notes and coins issued by the central bank\nC  the savings held at commercial banks\nD  earnings from exports of goods and services against spending on imports\n\n8. Where unemployment is very high, a government is likely to give which aim the lead?\nA  low inflation\nB  low unemployment\nC  external balance\nD  steady growth",
-   "canonical_answer": "Key: 1 A, 2 C, 3 D, 4 B, 5 A, 6 C, 7 D, 8 B.\n1. The four economy-wide outcomes are the aims (A); B lists firm-level outcomes from microeconomics, C lists policy tools and targets rather than outcomes, D narrows one aim into a monthly trade position.\n2. The unemployment rate is the indicator of the jobs aim (C); A names the inflation indicator, B the external indicator, and D confuses productivity with the jobs measure.\n3. Faster price rises move the economy away from low inflation (D); A, B and C name aims this change does not push away in the standard reading.\n4. One driving condition serving one aim while straining another is a conflict between aims (B); A swaps the cause for a different process, C reverses the direction since the aims pull apart here, D names the opposite of what happened.\n5. Fast-rising spending in a tight economy starts the process, so it is a cause (A); B names the outcome itself, C and D name consequences of the same process - consequences placed where a cause was asked for.\n6. Productivity-led growth raises output with little pressure on prices, so growth and low inflation advance together (C); A and B each pair a served aim with a strained one, D pairs two outcomes the case rules out.\n7. The current account sets export earnings against import spending (D); A is the government budget, B and C belong to money and banking.\n8. The aim furthest from being met tends to lead the ranking, so jobs come first (B); A, C and D name aims that rank behind where unemployment is very high.",
+   "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. Which list contains the macroeconomic aims of government?\nA  low inflation, low unemployment, steady growth in output, a current account close to balance, a fairer distribution of income\nB  low costs, high revenue, market share, profit for firms\nC  a balanced budget, a strong currency, high tariffs, low wages\nD  higher exports than imports in each month\n\n2. Movement towards the aim of low unemployment is measured by:\nA  a fall in the rate of inflation\nB  a narrowing current account deficit\nC  a fall in the unemployment rate\nD  a rise in output per worker\n\n3. An economy's inflation rate rises from 3.0% to 8.0%. This moves the economy away from:\nA  the growth aim\nB  the jobs aim\nC  external balance\nD  the inflation aim\n\n4. A quick rise in spending across the economy lowers unemployment while speeding up price rises. This situation is best described as:\nA  a rise in productivity per worker\nB  a conflict between macroeconomic aims\nC  a case of two aims moving together\nD  a fall in the general price level\n\n5. Which of these is a possible cause of faster price rises?\nA  a quick rise in spending across the economy with little spare capacity\nB  a higher general price level\nC  a wider current account deficit\nD  a fall in unemployment recorded the following year\n\n6. Growth that comes from rising productivity can serve two aims at once. Which pair?\nA  low unemployment and a wider current account deficit\nB  low inflation and a wider current account deficit\nC  steady growth in output and low inflation\nD  fast price rises and external balance\n\n7. The current account of a country records:\nA  the tax revenue and spending of the government\nB  the notes and coins issued by the central bank\nC  the savings held at commercial banks\nD  earnings from exports of goods and services against spending on imports\n\n8. Where unemployment is very high, a government is likely to give which aim the lead?\nA  low inflation\nB  low unemployment\nC  external balance\nD  steady growth",
+   "canonical_answer": "Key: 1 A, 2 C, 3 D, 4 B, 5 A, 6 C, 7 D, 8 B.\n1. The five economy-wide outcomes are the aims (A); B lists firm-level outcomes from microeconomics, C lists policy tools and targets rather than outcomes, D narrows one aim into a monthly trade position.\n2. The unemployment rate is the indicator of the jobs aim (C); A names the inflation indicator, B the external indicator, and D confuses productivity with the jobs measure.\n3. Faster price rises move the economy away from low inflation (D); A, B and C name aims this change does not push away in the standard reading.\n4. One driving condition serving one aim while straining another is a conflict between aims (B); A swaps the cause for a different process, C reverses the direction since the aims pull apart here, D names the opposite of what happened.\n5. Fast-rising spending in a tight economy starts the process, so it is a cause (A); B names the outcome itself, C and D name consequences of the same process - consequences placed where a cause was asked for.\n6. Productivity-led growth raises output with little pressure on prices, so growth and low inflation advance together (C); A and B each pair a served aim with a strained one, D pairs two outcomes the case rules out.\n7. The current account sets export earnings against import spending (D); A is the government budget, B and C belong to money and banking.\n8. The aim furthest from being met tends to lead the ranking, so jobs come first (B); A, C and D name aims that rank behind where unemployment is very high.",
    "marking_guidance": [
     "Key: one mark per question, eight in total; the correct option for each is listed and each distractor is explained as the specific misunderstanding it catches.",
     "Each distractor traces to a named error: the aims list confused with firm-level outcomes, one aim's indicator taken for another's, a consequence offered where a cause was asked for, a conflict read as aims moving together."
@@ -349,16 +361,18 @@
    "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-0455-4.2-001": 1,
-    "CLM-0455-4.2-002": 1,
-    "CLM-0455-4.2-003": 1,
+    "CLM-0455-4.2-001": 2,
+    "CLM-0455-4.2-002": 2,
+    "CLM-0455-4.2-003": 2,
     "CLM-0455-4.2-004": 1,
     "CLM-0455-4.2-005": 1,
     "CLM-0455-4.2-006": 1,
     "CLM-0455-4.2-007": 1,
     "CLM-0455-4.2-008": 1
    },
-   "authored_hash": "6086f84ac08a92c54dc65b4484aef28b50983a97a911aec121f52dcd3ab54f28"
+   "authored_hash": "88e2d13e4bd754469a6bf304041dab585bd9f2469be8e83a03e57da9f64bfb8f",
+   "prior_hash": "6086f84ac08a92c54dc65b4484aef28b50983a97a911aec121f52dcd3ab54f28",
+   "repair_note": "Reviewer fix 2026-10-13: added the fifth macroeconomic aim (redistribution of income) to claims 001-003, the aims block and item 001/P01; reworded the Define prompt; removed leaked authoring labels; trimmed flashcard answers for recall."
   },
   {
    "item_id": "ITEM-0455-4.2-P02",
@@ -386,7 +400,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "A newspaper report from Windhoek, 2026: \"The Ministry of Finance published its annual review yesterday. The Minister told reporters: 'Growth is returning and, with it, jobs are coming back. We will watch prices closely.'\"\n\nTable 1 - the economy, Year 1 and Year 2\n  rate of inflation: 4.8% in Year 1, 7.6% in Year 2\n  unemployment rate: 15.2% in Year 1, 12.8% in Year 2\n  real output growth: 1.9% in Year 1, 4.1% in Year 2\n  current account balance: a deficit of 2.0% of the value of exports in Year 1, a deficit of 4.6% in Year 2\n\n(a) Calculate the rise in the rate of inflation between Year 1 and Year 2. [1]\n(b) State what happened to the current account balance between Year 1 and Year 2. [2]\n(c) Explain why the fall in the unemployment rate matters to households and to the government. [4]\n(d) Analyse, using the data, what the Year 2 figures suggest about conflicts between the macroeconomic aims. [6]",
-   "canonical_answer": "(a) In Year 1 the rate of inflation was 4.8%. In Year 2 it was 7.6%. The rise is 2.8 percentage points: 7.6 - 4.8 = 2.8.\n(b) The current account moved from a deficit of 2.0% of the value of exports to a deficit of 4.6%, so the deficit widened.\n(c) For households, unemployment falling from 15.2% to 12.8% means more people in work, which raises household income, because a wage replaces no wage; households that gain work can buy more and borrow less for daily needs. For the government, more people in work means more income tax revenue and less spending on unemployment support, because both sides of the budget move together. The fall matters, therefore, to the incomes of the households that gain jobs and to the public finances that fund services.\n(d) Expected relationship: a driving condition that serves one aim tends to strain others where capacity is tight. Evidence from the data: unemployment fell from 15.2% to 12.8% and output growth rose from 1.9% to 4.1%, while inflation rose from 4.8% to 7.6% and the current account deficit widened from 2.0% to 4.6% of the value of exports. Analysis: the strong growth of spending that created the jobs and the growth also pushed prices up, because firms with full order books can raise prices, and it pulled in imports, which widened the deficit; therefore the jobs and growth aims moved towards their targets while the inflation and external aims moved away, which is the conflict. Exception: where growth comes from rising productivity rather than pressure on capacity, prices may stay slow, so the conflict is not automatic; the figures suggest spending pressure was present this year. For whom: households gained jobs but face faster price rises, firms gained fuller order books but higher costs, and the government gained tax revenue while watching the external position.",
+   "canonical_answer": "(a) In Year 1 the rate of inflation was 4.8%. In Year 2 it was 7.6%. The rise is 2.8 percentage points: 7.6 - 4.8 = 2.8.\n(b) The current account moved from a deficit of 2.0% of the value of exports to a deficit of 4.6%, so the deficit widened.\n(c) For households, unemployment falling from 15.2% to 12.8% means more people in work, which raises household income, because a wage replaces no wage; households that gain work can buy more and borrow less for daily needs. For the government, more people in work means more income tax revenue and less spending on unemployment support, because both sides of the budget move together. The fall matters, therefore, to the incomes of the households that gain jobs and to the public finances that fund services.\n(d) A driving condition that serves one aim tends to strain others where capacity is tight, and the data bear this out: unemployment fell from 15.2% to 12.8% and output growth rose from 1.9% to 4.1%, while inflation rose from 4.8% to 7.6% and the current account deficit widened from 2.0% to 4.6% of the value of exports. The strong growth of spending that created the jobs and the growth also pushed prices up, because firms with full order books can raise prices, and it pulled in imports, which widened the deficit; therefore the jobs and growth aims moved towards their targets while the inflation and external aims moved away, which is the conflict. The conflict is not automatic: where growth comes from rising productivity rather than pressure on capacity, prices may stay slow; the figures suggest spending pressure was present this year. The effects land unevenly: households gained jobs but face faster price rises, firms gained fuller order books but higher costs, and the government gained tax revenue while watching the external position.",
    "marking_guidance": [
     "Context: parts (a) and (b) are read straight from the data; part (d) must use the figures as evidence - the inflation, unemployment, growth and current account numbers.",
     "Reasoning: one mark per distinct linked statement in (c); a benefit named without its link to households or the government earns little.",
@@ -410,13 +424,15 @@
    "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-0455-4.2-001": 1,
-    "CLM-0455-4.2-002": 1,
-    "CLM-0455-4.2-003": 1,
+    "CLM-0455-4.2-001": 2,
+    "CLM-0455-4.2-002": 2,
+    "CLM-0455-4.2-003": 2,
     "CLM-0455-4.2-005": 1,
     "CLM-0455-4.2-006": 1
    },
-   "authored_hash": "64118f312cf67997da96cd967a752e3c8dc19bcde616f2ab1aeabd46905ecc9a"
+   "authored_hash": "71edff7d26bc374a3d5ced83e0779e382fa1a4dbdac95bb515c51862083784b2",
+   "prior_hash": "64118f312cf67997da96cd967a752e3c8dc19bcde616f2ab1aeabd46905ecc9a",
+   "repair_note": "Reviewer fix 2026-10-13: added the fifth macroeconomic aim (redistribution of income) to claims 001-003, the aims block and item 001/P01; reworded the Define prompt; removed leaked authoring labels; trimmed flashcard answers for recall."
   },
   {
    "item_id": "ITEM-0455-4.2-P03",
@@ -446,7 +462,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "An economy is recovering from a slowdown: last year its unemployment rate was 17.3% and its factories worked well below capacity.\n(a) Define the macroeconomic aim of low inflation. [2]\n(b) Explain why the government of this economy might rank the aim of low unemployment above the aim of low inflation at present. [4]\n(c) Analyse the likely effects on the macroeconomic aims of a quick rise in spending across the economy with little spare capacity. [6]\n(d) Discuss whether a government can pursue all of its macroeconomic aims at the same time. [8]",
-   "canonical_answer": "(a) The macroeconomic aim of low inflation is the outcome of slow rises in the general price level, so that the buying power of wages and savings holds steady over time.\n(b) The government is likely to rank jobs first because the harm of 17.3% unemployment is present and large: households without wages cut their spending, skills fade the longer people are out of work, and the budget pays out support while collecting less tax. Price rises in a slowdown tend to be slow, so the inflation aim is nearer being met and its harm is spread thinly, whereas the jobs aim is far from being met and its harm is concentrated. Therefore ranking jobs first reflects which aim is currently furthest from achievement, not a judgement that inflation never matters.\n(c) Starting point: the initial change is a quick rise in spending across the economy with little spare capacity. Mechanism: because firms cannot easily raise output when workplaces are near full, the extra spending bids up prices; this causes inflation to accelerate, and part of the spending goes abroad on imports. Consequence: unemployment tends to fall and output tends to rise, so the jobs and growth aims are served, while the inflation aim is strained and the current account tends to widen. For whom: consumers pay higher prices, workers gain jobs whose pay stretches less far, firms face fuller order books and higher costs, and the government gains tax revenue while the external position weakens. Exception: where firms can raise output quickly because capacity is loose, the same spending adds production with less pressure on prices, and the aims move together instead.\n(d) Why it might: some conditions serve several aims at once - growth built on higher productivity raises output while adding little pressure on prices, and the extra output can earn export revenue, so the growth, inflation and external aims can advance together. Why it might not: the conditions that push one aim often pull another - spending strong enough to cut unemployment quickly tends to raise prices and pull in imports, so the jobs aim clashes with the inflation and external aims, and a government that cools the spending to protect prices gives up some of the jobs. Judgement: a government can move towards all its aims at once where the driving condition is benign, such as productivity-led growth in an economy with room to produce more; the condition the judgement depends on is the source of the change - spending pressure in a tight economy pulls the aims apart and forces a ranking, whereas added capacity to produce moves them together.",
+   "canonical_answer": "(a) The macroeconomic aim of low inflation is the outcome of slow rises in the general price level, so that the buying power of wages and savings holds steady over time.\n(b) The government is likely to rank jobs first because the harm of 17.3% unemployment is present and large: households without wages cut their spending, skills fade the longer people are out of work, and the budget pays out support while collecting less tax. Price rises in a slowdown tend to be slow, so the inflation aim is nearer being met and its harm is spread thinly, whereas the jobs aim is far from being met and its harm is concentrated. Therefore ranking jobs first reflects which aim is currently furthest from achievement, not a judgement that inflation never matters.\n(c) The process starts with a quick rise in spending across the economy when little spare capacity is left. Because firms cannot easily raise output when workplaces are near full, the extra spending bids up prices; inflation accelerates, and part of the spending goes abroad on imports. As a result unemployment tends to fall and output tends to rise, so the jobs and growth aims are served, while the inflation aim is strained and the current account deficit tends to widen. Consumers pay higher prices, workers gain jobs whose pay stretches less far, firms face fuller order books and higher costs, and the government gains tax revenue while the external position weakens. The exception is where capacity is loose: firms can then raise output quickly, the same spending adds production with less pressure on prices, and the aims move together instead.\n(d) A government may be able to pursue several aims at once, because some conditions serve them together: growth built on higher productivity raises output while adding little pressure on prices, and the extra output can earn export revenue, so the growth, inflation and external aims can advance together. It may not, because the conditions that push one aim often pull another: spending strong enough to cut unemployment quickly tends to raise prices and pull in imports, so the jobs aim clashes with the inflation and external aims, and a government that cools the spending to protect prices gives up some of the jobs. On balance, a government can move towards all its aims at once where the driving condition is benign, such as productivity-led growth in an economy with room to produce more; the judgement depends on the source of the change - spending pressure in a tight economy pulls the aims apart and forces a ranking, whereas added capacity to produce moves them together.",
    "marking_guidance": [
     "Parts (a) to (d) carry a model answer each; (d) is level-marked over three bands, with the top band examining why it might and why it might not and reaching a judgement.",
     "Context: (b) must use the 17.3% unemployment rate and the below-capacity factories; (c) must attribute each effect to the party it lands on - consumers, workers, firms, the government.",
@@ -469,15 +485,17 @@
    "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-0455-4.2-001": 1,
-    "CLM-0455-4.2-002": 1,
-    "CLM-0455-4.2-003": 1,
+    "CLM-0455-4.2-001": 2,
+    "CLM-0455-4.2-002": 2,
+    "CLM-0455-4.2-003": 2,
     "CLM-0455-4.2-004": 1,
     "CLM-0455-4.2-005": 1,
     "CLM-0455-4.2-006": 1,
     "CLM-0455-4.2-007": 1
    },
-   "authored_hash": "0481f319f47f9f21a4fb8ee99283087ded733f6d00663ce90a8b01b243a25725"
+   "authored_hash": "123ee3ae6a8958e53c0a86d4532f376be439b0721b7ed47fda45e25c866110f3",
+   "prior_hash": "0481f319f47f9f21a4fb8ee99283087ded733f6d00663ce90a8b01b243a25725",
+   "repair_note": "Reviewer fix 2026-10-13: added the fifth macroeconomic aim (redistribution of income) to claims 001-003, the aims block and item 001/P01; reworded the Define prompt; removed leaked authoring labels; trimmed flashcard answers for recall."
   },
   {
    "item_id": "ITEM-0455-4.2-P04",
@@ -524,13 +542,15 @@
    "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-0455-4.2-003": 1,
+    "CLM-0455-4.2-003": 2,
     "CLM-0455-4.2-004": 1,
     "CLM-0455-4.2-005": 1,
     "CLM-0455-4.2-006": 1,
     "CLM-0455-4.2-007": 1
    },
-   "authored_hash": "c3d32cb2545aa4794615a2988e71fc11d01f89e6988707c28b40b09d9c22d7fa"
+   "authored_hash": "c3d32cb2545aa4794615a2988e71fc11d01f89e6988707c28b40b09d9c22d7fa",
+   "reviewed_unchanged": "Re-read against CLM-0455-4.2-003 revision 2: the plan weighs inflation against unemployment only, and the added redistribution aim does not change either case or the judgement.",
+   "prior_hash": "c3d32cb2545aa4794615a2988e71fc11d01f89e6988707c28b40b09d9c22d7fa"
   }
  ]
 }

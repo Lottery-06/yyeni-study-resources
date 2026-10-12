@@ -52,7 +52,7 @@
    "block_id": "3.5.1-b3",
    "block_type": "worked_application",
    "heading": "One firm, three sectors",
-   "text": "Otjiwa Dairy in Gobabis works in all three sectors at once. Contracts with 40 surrounding farms bring in N$1.2 million of raw milk a year - farming is primary activity. Its pasteurising plant turns the milk into 400 000 tubs of yoghurt - processing is secondary activity. Its 6 vans deliver the tubs to shops across the region - a delivery service is tertiary activity. Classifying such a firm means sorting its activities one by one. A Japanese firm that catches its own fish, cans them and sells them through its own stalls makes the same point: a firm is not stuck in one sector by its name.",
+   "text": "Otjiwa Dairy in Gobabis works in all three sectors at once. Its own herd of 300 cows gives N$1.2 million of raw milk a year - farming is primary activity. Its pasteurising plant turns the milk into 400 000 tubs of yoghurt - processing is secondary activity. Its 6 vans deliver the tubs to shops across the region - a delivery service is tertiary activity. Classifying such a firm means sorting its activities one by one. A Japanese firm that catches its own fish, cans them and sells them through its own stalls makes the same point: a firm is not stuck in one sector by its name.",
    "claim_ids": [
     "CLM-0455-3.5-003"
    ],
@@ -61,15 +61,17 @@
     "AO2"
    ],
    "claims_seen": {
-    "CLM-0455-3.5-003": 1
+    "CLM-0455-3.5-003": 2
    },
-   "authored_hash": "7d0141b3c6f33f30221c5b1724095958b6f8fa791d02f6339f30f2f55209f1d6"
+   "authored_hash": "e4cd0fc392750b0a4094f83a21a343b83126bf7332f8bc6695a68429e287086d",
+   "prior_hash": "7d0141b3c6f33f30221c5b1724095958b6f8fa791d02f6339f30f2f55209f1d6",
+   "repair_note": "Review fix: rewrote economies of scale as gains from growing in scale (bulk buying, technical, financial, managerial), not fixed costs spread at one size; dairy now milks its own herd so its primary activity is real; trimmed flashcard answers; removed leaked labels; corrected cross-reference to topic 3.7"
   },
   {
    "block_id": "3.5.1-b4",
    "block_type": "misconception",
    "heading": "Wanting a price rise is not what causes one",
-   "text": "Learners mix up two different statements: why firms would like to receive higher prices, and why a merger may result in higher prices. The boundary: wanting a higher price is a motive firms generally share - a higher price usually means more revenue from each sale - and it exists whether or not any merger happens. A merger resulting in higher prices is an outcome, which may follow where the joining removes one of the market's competing sellers, so the pressure of rivalry on price weakens. The test: ask whether a statement names what a firm aims at, or what changed in the market - the same want existed before the merger, when prices did not rise, so it cannot explain what changed.",
+   "text": "Learners mix up two different statements: the reason any firm prefers to charge more, and the reason a merger can leave buyers paying more. The boundary: wanting a higher price is a motive firms generally share - a higher price usually means more revenue from each sale - and it exists whether or not any merger happens. A merger resulting in higher prices is an outcome, which may follow where the joining removes one of the market's competing sellers, so the pressure of rivalry on price weakens. The test: ask whether a statement names what a firm aims at, or what changed in the market - the same want existed before the merger, when prices did not rise, so it cannot explain what changed.",
    "claim_ids": [
     "CLM-0455-3.5-004"
    ],
@@ -80,7 +82,9 @@
    "claims_seen": {
     "CLM-0455-3.5-004": 1
    },
-   "authored_hash": "13e58a3cfe0447ca6dd47e868e5d48df316523f6f59bf571002a0377083ab5a9"
+   "authored_hash": "1006e656f4b4941c78e7ee69b7f50200338e5bd1664e4d4f7e0d7ffb50513c12",
+   "prior_hash": "13e58a3cfe0447ca6dd47e868e5d48df316523f6f59bf571002a0377083ab5a9",
+   "repair_note": "Reworded 3.5.1-b4 opening to avoid echoing examiner-report phrasing (copied-wording check)"
   },
   {
    "block_id": "3.5.1-b5",

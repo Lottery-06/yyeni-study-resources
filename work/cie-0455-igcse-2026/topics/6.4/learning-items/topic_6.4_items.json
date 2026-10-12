@@ -24,7 +24,7 @@
    "mark_tariff": 2,
    "difficulty": 2,
    "prompt": "Define the current account of the balance of payments.",
-   "canonical_answer": "The current account is the record of transactions between a country's residents and non-residents in goods, services, primary income and secondary income over a stated period. It records both receipts and payments, allowing their difference to be calculated. It is an external transactions account, rather than a government budget.",
+   "canonical_answer": "The current account is the record of transactions between a country's residents and non-residents in goods, services, primary income and secondary income over a stated period. It records receipts, payments and their difference. It is an external account, not a government budget.",
    "marking_guidance": [
     "Precise definition: identify external transactions over a period and the four components; a goods-trade balance alone is incomplete."
    ],
@@ -46,7 +46,9 @@
     "CLM-0455-6.4-003": 1,
     "CLM-0455-6.4-004": 1
    },
-   "authored_hash": "2c80b8bfff31bd71675f822174f3d52795ce4cdb1b9801334935269e0beaa826"
+   "authored_hash": "1c2e6bb6f70b319fbfa4b787090bba8b6f332c58f1122f4256587eb0c06c3b85",
+   "prior_hash": "9d7099b60541d99c5e8acdda47cbf2c9c756bd7fce8bba701b37a7c290602f77",
+   "repair_note": "Review fix: definition trimmed for recall"
   },
   {
    "item_id": "ITEM-0455-6.4-002-CALC",
@@ -67,7 +69,7 @@
    "mark_tariff": 1,
    "difficulty": 2,
    "prompt": "Invented annual figures, all in N$ million: goods receipts 90, payments 110; services receipts 35, payments 20; primary income receipts 6, payments 10; secondary income receipts 8, payments 5. Calculate the current-account balance. [1]",
-   "canonical_answer": "Formula: current-account balance is the sum of receipts minus payments in each section. Working: (90 - 110) + (35 - 20) + (6 - 10) + (8 - 5) = -6. Answer with units: -N$6 million, a current account deficit of N$6 million.",
+   "canonical_answer": "Current-account balance = the sum of receipts minus payments in each section: (90 - 110) + (35 - 20) + (6 - 10) + (8 - 5) = -6, a current account deficit of N$6 million.",
    "marking_guidance": [
     "Formula: sum the four component balances.",
     "Substitution and working: subtract each payment from its corresponding receipt and preserve negative signs.",
@@ -88,7 +90,9 @@
    "claims_seen": {
     "CLM-0455-6.4-004": 1
    },
-   "authored_hash": "421264c0e1732688ef3a8712faf75f33069bed938b7335fc64ff037ca3538995"
+   "authored_hash": "be99f91d88d30adf33112ae531f81aa2ff88f426e110804d23ff91555d02bb77",
+   "prior_hash": "421264c0e1732688ef3a8712faf75f33069bed938b7335fc64ff037ca3538995",
+   "repair_note": "Review fix: leaked labels removed (002, 003, 006, 009, 014, 016, P02); flashcard answers trimmed for recall with conditions kept"
   },
   {
    "item_id": "ITEM-0455-6.4-003-INTERP",
@@ -112,7 +116,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "Invented annual component balances, N$ million: goods -30, services +20, primary income -4, secondary income +4. Explain why a services surplus does not establish a current account surplus. [4]",
-   "canonical_answer": "The data shows a positive services balance alongside a larger goods deficit. Supporting evidence: the N$20 million services surplus offsets part of the N$30 million goods deficit, leaving -N$10 million across trade. However, primary income is -N$4 million and secondary income +N$4 million, so these two sections offset each other. The current account remains -N$10 million because it combines all four sections. A positive component is therefore compatible with an overall deficit.",
+   "canonical_answer": "The data shows a services surplus alongside a larger goods deficit. The N$20 million services surplus offsets part of the N$30 million goods deficit, leaving -N$10 million across trade. However, the income sections must also be counted: primary income at -N$4 million and secondary income at +N$4 million cancel out. The current account combines all four sections, so it remains a deficit of N$10 million: a surplus in one component is compatible with an overall deficit.",
    "marking_guidance": [
     "The relationship: a component surplus offsets a deficit elsewhere rather than determining the whole account.",
     "Supporting evidence and comparison: N$20 million services surplus is smaller than the N$30 million goods deficit.",
@@ -136,7 +140,9 @@
     "CLM-0455-6.4-003": 1,
     "CLM-0455-6.4-004": 1
    },
-   "authored_hash": "240e42e5c249b03cfbd64146e212146a669f3c0a7ff6d931b3a081d3a4075816"
+   "authored_hash": "53ab70adc5770ea67943ec615878e9b797fdfa154932369ad12fb65c781cda87",
+   "prior_hash": "240e42e5c249b03cfbd64146e212146a669f3c0a7ff6d931b3a081d3a4075816",
+   "repair_note": "Review fix: leaked labels removed (002, 003, 006, 009, 014, 016, P02); flashcard answers trimmed for recall with conditions kept"
   },
   {
    "item_id": "ITEM-0455-6.4-004-APP",
@@ -203,7 +209,7 @@
    "mark_tariff": 2,
    "difficulty": 3,
    "prompt": "Define a current account surplus, distinguishing it from a government budget deficit. [2]",
-   "canonical_answer": "A current account surplus is an excess of external current-account receipts over payments during a stated period. It covers goods, services and income flows. A government budget deficit instead means government spending exceeds its revenue. The boundary is the flows measured: external current transactions versus government revenue and expenditure. The test is to ask which receipts and payments are being compared; a budget deficit provides no sufficient evidence of a current account surplus.",
+   "canonical_answer": "A current account surplus is an excess of external current-account receipts over payments in a stated period, covering goods, services and income flows. A government budget deficit is government spending above government revenue: a different set of flows, so one says nothing about the other.",
    "marking_guidance": [
     "Precise definition: external current-account receipts exceed payments over a period.",
     "The confusion, boundary and test: do not substitute a government revenue-and-spending balance for the external balance."
@@ -224,7 +230,9 @@
     "CLM-0455-6.4-005": 1,
     "CLM-0455-6.4-008": 1
    },
-   "authored_hash": "ec58f43c57c678c7e1c51ab935dac764b2aa44a5a2c0bffd611afb4943220826"
+   "authored_hash": "65949b0087f8360047fc57bfdb86affe8231f474a6d0a509e3b583ad20c8e5cf",
+   "prior_hash": "ec58f43c57c678c7e1c51ab935dac764b2aa44a5a2c0bffd611afb4943220826",
+   "repair_note": "Review fix: leaked labels removed (002, 003, 006, 009, 014, 016, P02); flashcard answers trimmed for recall with conditions kept"
   },
   {
    "item_id": "ITEM-0455-6.4-006-CHAIN",
@@ -246,7 +254,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "A Namibian exporter sells dried fruit to Botswana and Portugal. Its prices rise faster than rival export prices, and buyers can switch suppliers. Other current-account components stay unchanged. Analyse how this change could cause a current account deficit. [6]",
-   "canonical_answer": "Starting point: the exporter's relative prices rise. Because buyers have alternative suppliers, its fruit becomes less price-competitive, which may reduce orders. This causes a fall in the quantity exported. If the quantity fall outweighs the higher price, export receipts fall. Therefore receipts may fall below unchanged payments, creating or widening a current account deficit. For the economy, the mechanism runs from lost price competitiveness through lower export earnings to the external gap; it depends on buyers responding strongly enough, not on a price rise by itself.",
+   "canonical_answer": "The exporter's prices rise relative to its rivals'. Because buyers in Botswana and Portugal can switch suppliers, its fruit becomes less price-competitive and orders may fall. If the fall in quantity outweighs the higher price, export receipts fall. With other components unchanged, receipts may then fall below payments, creating or widening a current account deficit. For the economy, the chain runs from lost price competitiveness through lower export earnings to the external gap; it depends on buyers responding strongly enough, not on the price rise by itself.",
    "marking_guidance": [
     "Starting point: relative export prices rise.",
     "Mechanism: because buyers can switch, weaker competitiveness can reduce orders and receipts.",
@@ -269,7 +277,9 @@
     "CLM-0455-6.4-006": 1,
     "CLM-0455-6.4-007": 1
    },
-   "authored_hash": "88850723b6e427b4f88f13e76103b8e3e089f0234c7f384eb64d83ce402bdfc0"
+   "authored_hash": "85d51ae55f79775fae1eea54370369a6252c6f0cf8b6eeb9e97dd222d973af69",
+   "prior_hash": "88850723b6e427b4f88f13e76103b8e3e089f0234c7f384eb64d83ce402bdfc0",
+   "repair_note": "Review fix: leaked labels removed (002, 003, 006, 009, 014, 016, P02); flashcard answers trimmed for recall with conditions kept"
   },
   {
    "item_id": "ITEM-0455-6.4-007-APP",
@@ -293,7 +303,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Invented annual figures for an economy: external current receipts N$100 million, payments N$110 million; government revenue N$40 million, spending N$45 million. Payments then rise by N$8 million as households buy more imported food, while the other figures stay unchanged. Explain what caused the change in the current account and why it is distinct from the government budget deficit. [4]",
-   "canonical_answer": "The figures initially show a N$10 million current account deficit and a separate N$5 million government budget deficit. Higher spending on imported food adds N$8 million to external payments, because the food is bought from non-residents. With receipts unchanged, the current account deficit becomes N$18 million. The budget deficit remains N$5 million. The confusion is treating the two deficits as interchangeable; the boundary is external flows versus government flows, and the test is which account the extra payment enters. Therefore the import increase causes the external deterioration here, rather than the unchanged budget balance.",
+   "canonical_answer": "At first the current account shows a N$10 million deficit and the budget a separate N$5 million deficit. Buying more imported food adds N$8 million to payments to non-residents, so with receipts unchanged the current account deficit widens to N$18 million. The budget deficit stays at N$5 million, because no government revenue or spending changed. The two deficits measure different flows - external transactions against government finances - so the import rise, not the budget, caused the external deterioration.",
    "marking_guidance": [
     "Context: use the N$8 million import increase and the unchanged government figures.",
     "Reasoning: because imports increase external payments, the external deficit widens.",
@@ -316,7 +326,9 @@
     "CLM-0455-6.4-006": 1,
     "CLM-0455-6.4-008": 1
    },
-   "authored_hash": "5517250395c8a68a8c0292e79a45cc0149bb0d62381fb0ca3a28c17d78665992"
+   "authored_hash": "b0396db81625405fbd27edae325c48da82705ea774c2b960ce16311717602c73",
+   "prior_hash": "5517250395c8a68a8c0292e79a45cc0149bb0d62381fb0ca3a28c17d78665992",
+   "repair_note": "Review fix: leaked labels removed (002, 003, 006, 009, 014, 016, P02); flashcard answers trimmed for recall with conditions kept"
   },
   {
    "item_id": "ITEM-0455-6.4-018-FEATURE",
@@ -381,7 +393,7 @@
    "mark_tariff": 2,
    "difficulty": 3,
    "prompt": "Define foreign exchange reserves in the context of financing external payments. [2]",
-   "canonical_answer": "Foreign exchange reserves are foreign-currency assets held by a country's monetary authority. They can be used to meet external payments or support the home currency through intervention. Drawing on reserves may help meet a current-account shortfall temporarily, but repeated use reduces the assets available; reserves are a stock, whereas the current account records flows during a period.",
+   "canonical_answer": "Foreign exchange reserves are foreign-currency assets held by a country's monetary authority, which can be used to meet external payments or to support the home currency. They can cover a current-account shortfall for a time, but repeated use runs them down.",
    "marking_guidance": [
     "Precise definition: foreign-currency assets held by the monetary authority.",
     "Meaning in context: reserves can meet external payments or support the currency; distinguish the stock from current-account flows."
@@ -402,7 +414,9 @@
     "CLM-0455-6.4-009": 1,
     "CLM-0455-6.4-012": 1
    },
-   "authored_hash": "258814443a18b90f4d86749f90bfd890100b24d062b4917e926c8fdbd44f2297"
+   "authored_hash": "aa7cbd7ac72cc0633f9b49fc871cfe9092eafedf8a302a1bb8c9b8bf25e3664f",
+   "prior_hash": "258814443a18b90f4d86749f90bfd890100b24d062b4917e926c8fdbd44f2297",
+   "repair_note": "Review fix: leaked labels removed (002, 003, 006, 009, 014, 016, P02); flashcard answers trimmed for recall with conditions kept"
   },
   {
    "item_id": "ITEM-0455-6.4-009-CHAIN",
@@ -425,7 +439,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "A hypothetical economy has a floating currency. Households switch spending from domestic furniture to imported furniture, worsening its current account, with other currency flows unchanged. Analyse possible consequences for GDP, employment and inflation. [6]",
-   "canonical_answer": "Starting point: imports replace sales by domestic furniture producers. Because domestic firms receive fewer orders, they may reduce production, lowering GDP. Fewer workers may be needed, so employment can fall. The higher external payments can add sales of home currency for foreign currency, putting downward pressure on the floating exchange rate. If depreciation follows, imported materials become dearer in home currency and firms may pass those costs into consumer prices, raising inflation. Therefore workers can lose jobs while consumers face higher import-related prices. The effects depend on domestic sales actually being displaced and on depreciation occurring; the deficit alone does not prove these outcomes.",
+   "canonical_answer": "Imports replace sales by domestic furniture makers. Because these firms receive fewer orders, they may cut production, lowering GDP, and need fewer workers, so employment can fall. The extra import payments add to sales of home currency for foreign currency, putting downward pressure on the floating exchange rate. If depreciation follows, imported materials become dearer in home currency and firms may pass the cost into prices, raising inflation. Workers can lose jobs while consumers face higher import-related prices. The effects depend on domestic sales actually being displaced and on depreciation occurring.",
    "marking_guidance": [
     "Starting point: import spending replaces domestic sales.",
     "Mechanism: because orders fall, production and labour demand may fall; trace currency pressure separately.",
@@ -449,7 +463,9 @@
     "CLM-0455-6.4-011": 1,
     "CLM-0455-6.4-012": 1
    },
-   "authored_hash": "4ab39772a182e8cec38b576ca75a1c3e8baf598dbdeb35d91845dd188b3e20d4"
+   "authored_hash": "6e8a5371fa37a27a7284768c71f794764818048b2d4a13679e713c295640e453",
+   "prior_hash": "4ab39772a182e8cec38b576ca75a1c3e8baf598dbdeb35d91845dd188b3e20d4",
+   "repair_note": "Review fix: leaked labels removed (002, 003, 006, 009, 014, 016, P02); flashcard answers trimmed for recall with conditions kept"
   },
   {
    "item_id": "ITEM-0455-6.4-010-APP",
@@ -515,7 +531,7 @@
    "mark_tariff": 2,
    "difficulty": 4,
    "prompt": "Define balance of payments stability. [2]",
-   "canonical_answer": "Balance of payments stability is a sustainable external payments position without persistent pressures that require disruptive adjustment. A temporary current account deficit can be consistent with stability if it can be financed sustainably and does not lead to repeated reserve loss or unaffordable future payments. Stability therefore does not mean that the current account must equal zero in each period.",
+   "canonical_answer": "Balance of payments stability is a sustainable external payments position, without persistent pressures that force disruptive adjustment. A temporary deficit can be consistent with it if financed sustainably, so stability does not require a zero current-account balance each period.",
    "marking_guidance": [
     "Precise definition: a sustainable external payments position with no persistent disruptive pressure.",
     "Meaning: distinguish sustainability from an exact zero balance in each period."
@@ -535,7 +551,9 @@
    "claims_seen": {
     "CLM-0455-6.4-013": 1
    },
-   "authored_hash": "ab79e05d135a9a51296fdc31c2ce4db28039a143abb39184859ad574c10e0e5a"
+   "authored_hash": "b20cebf47597428d03ee5fdf42d975e4a21860ab1b162dd8e294608126b57b33",
+   "prior_hash": "ab79e05d135a9a51296fdc31c2ce4db28039a143abb39184859ad574c10e0e5a",
+   "repair_note": "Review fix: leaked labels removed (002, 003, 006, 009, 014, 016, P02); flashcard answers trimmed for recall with conditions kept"
   },
   {
    "item_id": "ITEM-0455-6.4-012-BEN",
@@ -647,7 +665,7 @@
    "mark_tariff": 8,
    "difficulty": 5,
    "prompt": "A hypothetical economy has a persistent current account deficit. Demand for essential imports responds weakly to prices, exporters face capacity constraints, and its currency floats. Discuss whether depreciation is the best way to restore external stability. [8]",
-   "canonical_answer": "Why it might: with quoted prices unchanged, depreciation makes exports cheaper abroad and imports dearer at home. Buyers may switch spending towards domestic goods and exports may attract more orders, improving the current account where demand for exports and imports is elastic enough to respond and domestic supply can respond. Why it might not: here essential import demand responds weakly and export capacity is constrained, so import costs may rise without a sufficient export response. Firms using imported inputs may face higher costs and households may face inflation. Training and infrastructure may better address export capacity, although they take time and public resources. Judgement: on balance, depreciation alone is unlikely to be the best response to these stated constraints. The decisive condition is whether export and import quantities can respond sufficiently, together with supply capacity; if those constraints ease, depreciation can become more effective.",
+   "canonical_answer": "Depreciation might be best because, with quoted prices unchanged, it makes exports cheaper abroad and imports dearer at home, so buyers may switch towards domestic goods and exports may win more orders, improving the current account where demand for exports and imports is elastic enough to respond and domestic supply can respond. It might not be, because here essential import demand responds weakly and export capacity is constrained, so import costs may rise without enough export response; firms using imported inputs face higher costs and households may face inflation. Training and infrastructure may tackle export capacity better, though they take time and public money. On balance, depreciation alone is unlikely to be the best response to these constraints. The decisive condition is whether export and import quantities, and supply capacity, can respond; if those constraints ease, depreciation becomes more effective.",
    "marking_guidance": [
     "Why it might: develop the relative-price and spending-switching argument with the conditions that export and import demand is elastic enough to respond and that supply can respond.",
     "Why it might not: use weak essential-import demand response and constrained export supply.",
@@ -672,9 +690,9 @@
     "CLM-0455-6.4-015": 2,
     "CLM-0455-6.4-016": 1
    },
-   "authored_hash": "15badcd7215b0a95721c32d57a9017483920635b54f6bd22061437aa1148fa25",
-   "prior_hash": "a41e59bf8896879a913461e02c89bdf2890bdf9a84581952a161813f9f04bb65",
-   "repair_note": "Planner audit 2026-10-06: removed the named Marshall-Lerner condition (beyond the 0455 syllabus; the condition is kept in plain words) and corrected cross-references to topics 2.7 (PED) and 6.4 (current account)."
+   "authored_hash": "4c9a10af05846b0287f5c0f55fccdcd868b279f215345a5cc8356e50d0623baf",
+   "prior_hash": "15badcd7215b0a95721c32d57a9017483920635b54f6bd22061437aa1148fa25",
+   "repair_note": "Review fix: leaked labels removed (002, 003, 006, 009, 014, 016, P02); flashcard answers trimmed for recall with conditions kept"
   },
   {
    "item_id": "ITEM-0455-6.4-015-APP",
@@ -740,7 +758,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "A hypothetical economy's import spending has risen as households borrow to buy imported consumer goods. The government raises interest rates. Analyse how this policy might improve its current account and affect domestic firms. [6]",
-   "canonical_answer": "Starting point: higher interest rates raise the cost of borrowing and the return to saving. Because households may borrow and spend less, purchases of imported consumer goods can fall. This causes lower external payments, which may narrow the current account deficit if receipts do not fall as much. However, domestic firms may also lose sales when spending falls, leading to lower output and employment. Higher borrowing costs can discourage investment, and any currency appreciation may weaken export competitiveness. Therefore the economy may gain a smaller external gap at a cost to firms and workers; the net result depends on import responsiveness and the effect on exports.",
+   "canonical_answer": "Higher interest rates raise the cost of borrowing and the reward for saving. Because households may borrow and spend less, their purchases of imported consumer goods can fall, lowering external payments and narrowing the current account deficit if receipts do not fall as much. However, domestic firms may also lose sales as spending falls, cutting output and employment, and dearer borrowing can discourage investment; any currency appreciation may also weaken exporters. The economy may gain a smaller external gap at a cost to firms and workers; the net result depends on how far imports respond and what happens to exports.",
    "marking_guidance": [
     "Starting point: interest rates rise.",
     "Mechanism: because credit becomes dearer and saving more rewarding, import purchases may fall.",
@@ -762,7 +780,9 @@
    "claims_seen": {
     "CLM-0455-6.4-014": 1
    },
-   "authored_hash": "a9b5f3e8486f6fcdc34c6a4c028621e77e048a498761501d17512ef5a9c47427"
+   "authored_hash": "20f9edd4cf0fe0278c0cd37432552041d3a2695d7335ff760fce1cab6e7d6a0d",
+   "prior_hash": "a9b5f3e8486f6fcdc34c6a4c028621e77e048a498761501d17512ef5a9c47427",
+   "repair_note": "Review fix: leaked labels removed (002, 003, 006, 009, 014, 016, P02); flashcard answers trimmed for recall with conditions kept"
   },
   {
    "item_id": "ITEM-0455-6.4-017-FEATURE",
@@ -785,7 +805,7 @@
    "mark_tariff": 4,
    "difficulty": 5,
    "prompt": "Explain two approaches available to a government seeking balance of payments stability. [4]",
-   "canonical_answer": "One approach reduces domestic spending, for example higher taxes or interest rates, which can reduce import payments but also weaken domestic sales. Another approach improves export competitiveness through training or transport infrastructure, which can raise receipts if quality, costs or delivery improve enough for buyers to respond. Other policy features include expenditure switching through tariffs and exchange-rate changes. A depreciation improves the current account where demand for exports and imports is elastic enough to respond and supply can respond; tariffs can raise costs and invite retaliation. The approaches differ in whether they reduce payments or help firms earn receipts.",
+   "canonical_answer": "One approach reduces domestic spending, through higher taxes or interest rates, which can cut import payments but also weakens domestic sales. Another improves export competitiveness through training or transport infrastructure, which can raise receipts if quality, cost or delivery improve enough for buyers to respond. Governments may also switch spending through tariffs or depreciation, though depreciation helps the current account only where demand for exports and imports is elastic enough to respond and supply can respond, and tariffs can raise costs and invite retaliation.",
    "marking_guidance": [
     "Features and elements: name two policy approaches and explain how each affects receipts or payments.",
     "Retain costs and conditions; do not treat a policy name as evidence that it succeeds."
@@ -807,9 +827,9 @@
     "CLM-0455-6.4-015": 2,
     "CLM-0455-6.4-016": 1
    },
-   "authored_hash": "8d4e04c8674e0aa960eef5a1a8b0aa1d677d547fd4e007759215c498b5b2da1f",
-   "prior_hash": "3d4c525f3f402e6009b6066146db17853eb2b761c01c8f80e52f4137072b3327",
-   "repair_note": "Planner audit 2026-10-06: removed the named Marshall-Lerner condition (beyond the 0455 syllabus; the condition is kept in plain words) and corrected cross-references to topics 2.7 (PED) and 6.4 (current account)."
+   "authored_hash": "82a785bf0952f523f5a091d8ed748cb45c7c921ce0eeaa6907b7cc5068c54831",
+   "prior_hash": "8d4e04c8674e0aa960eef5a1a8b0aa1d677d547fd4e007759215c498b5b2da1f",
+   "repair_note": "Review fix: leaked labels removed (002, 003, 006, 009, 014, 016, P02); flashcard answers trimmed for recall with conditions kept"
   },
   {
    "item_id": "ITEM-0455-6.4-P01",
@@ -921,7 +941,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "Invented economic news extract: A hypothetical small economy trading with Botswana and Portugal reports stronger foreign orders and increased visitor bookings. Firms have unused capacity. Its currency floats, and other currency flows stay unchanged. Imported equipment also increased, while investors abroad received more dividends from domestic firms. The economy's government revenue and spending did not change.\n\nAnnual external receipts and payments, all N$ million:\n                         Year 1 receipts / payments   Year 2 receipts / payments\nGoods                       100 / 130                    120 / 135\nServices                     30 / 20                      40 / 20\nPrimary income                5 / 10                       5 / 12\nSecondary income              8 / 3                        8 / 3\n\n(a) Calculate the goods balance in Year 2. [1]\n(b) Calculate the full current-account balance in Year 2. [1]\n(c) Identify two components whose balance improved from Year 1 to Year 2. [2]\n(d) Explain two causes of the improvement, using the extract. [4]\n(e) Analyse possible consequences of the change for output, employment and the exchange rate, using the data as evidence and explaining a limitation of the conclusion. [6]\nTotal: 14 marks.",
-   "canonical_answer": "(a) Formula: goods balance = goods receipts minus payments. Working: 120 - 135 = -15. Answer: a goods deficit of N$15 million.\n(b) Working: (120 - 135) + (40 - 20) + (5 - 12) + (8 - 3) = 3. Answer: a current account surplus of N$3 million.\n(c) Trade in goods and trade in services.\n(d) Stronger foreign orders can increase goods export receipts because overseas customers buy more domestic products, provided firms can fill the orders. Increased foreign visitor bookings can increase service export receipts because accommodation and related services are sold to non-residents. These changes account for the rise in goods receipts from N$100 million to N$120 million and services receipts from N$30 million to N$40 million.\n(e) Expected relationship: an export-led improvement can support output and jobs, and place upward pressure on a floating currency, other currency flows unchanged. Evidence: the goods deficit shrinks from N$30 million to N$15 million, while the services surplus rises from N$10 million to N$20 million. The full balance changes from -N$20 million in Year 1 to +N$3 million in Year 2, an improvement of N$23 million. Analysis: increased foreign orders and visitor bookings raise domestic firms' sales. With unused capacity, firms may expand output and employ more workers, raising GDP and employment. More export receipts relative to import payments can increase demand for the home currency relative to its supply, tending to appreciate it. However, a balance improvement by itself does not establish these effects: a surplus caused by recession-related import cuts could accompany falling output. Here receipts rose, making that explanation less plausible, but capital and other currency flows could offset trade pressure outside the stated assumption. Appreciation may also make later exports dearer abroad and imports cheaper at home, weakening some exporters while reducing import-price inflation. The dividend increase worsened primary income by N$2 million, so not all components improved.",
+   "canonical_answer": "(a) Goods balance = goods receipts minus payments = 120 - 135 = -15, a goods deficit of N$15 million.\n(b) (120 - 135) + (40 - 20) + (5 - 12) + (8 - 3) = 3, a current account surplus of N$3 million.\n(c) Trade in goods and trade in services.\n(d) Stronger foreign orders can increase goods export receipts because overseas customers buy more domestic products, provided firms can fill the orders. Increased foreign visitor bookings can increase service export receipts because accommodation and related services are sold to non-residents. These changes account for the rise in goods receipts from N$100 million to N$120 million and services receipts from N$30 million to N$40 million.\n(e) An export-led improvement can support output and jobs, and place upward pressure on a floating currency, other currency flows unchanged. In the data, the goods deficit shrinks from N$30 million to N$15 million, while the services surplus rises from N$10 million to N$20 million. The full balance changes from -N$20 million in Year 1 to +N$3 million in Year 2, an improvement of N$23 million. Increased foreign orders and visitor bookings raise domestic firms' sales. With unused capacity, firms may expand output and employ more workers, raising GDP and employment. More export receipts relative to import payments can increase demand for the home currency relative to its supply, tending to appreciate it. However, a balance improvement by itself does not establish these effects: a surplus caused by recession-related import cuts could accompany falling output. Here receipts rose, making that explanation less plausible, but capital and other currency flows could offset trade pressure outside the stated assumption. Appreciation may also make later exports dearer abroad and imports cheaper at home, weakening some exporters while reducing import-price inflation. The dividend increase worsened primary income by N$2 million, so not all components improved.",
    "marking_guidance": [
     "Parts (a) and (b): one mark each for the correctly signed answer with N$ million units; preserve own figures in later working where appropriate.",
     "Part (c): one mark each for trade in goods and trade in services, two in total.",
@@ -954,7 +974,9 @@
     "CLM-0455-6.4-011": 1,
     "CLM-0455-6.4-012": 1
    },
-   "authored_hash": "247e09c5248ed370ed91a935178e49542f45fb804bc2cce6af067628b6ce1bca"
+   "authored_hash": "8c4a28015ad9cf4a9259a7097944a467cfaf5ef954f257bc45efdfd21e48994a",
+   "prior_hash": "247e09c5248ed370ed91a935178e49542f45fb804bc2cce6af067628b6ce1bca",
+   "repair_note": "Review fix: leaked labels removed (002, 003, 006, 009, 014, 016, P02); flashcard answers trimmed for recall with conditions kept"
   },
   {
    "item_id": "ITEM-0455-6.4-P03",

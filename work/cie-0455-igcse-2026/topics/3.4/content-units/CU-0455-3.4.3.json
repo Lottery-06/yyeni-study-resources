@@ -51,7 +51,7 @@
    "block_id": "3.4.3-b3",
    "block_type": "limitation",
    "heading": "Where the costs land",
-   "text": "The costs are just as real. A wage rise won in bargaining raises the firm's pay bill hour by hour: at Marula Meat Processors, an abattoir in Gobabis, a deal lifting the rate from N$10.00 to N$11.00 an hour added N$1.00 an hour for as long as it employs its 180 union members. A firm facing dearer labour may raise prices, and where its buyers can switch to cheaper imports it may instead let its workforce shrink by not replacing workers who leave. Industrial action is the sharpest cost: a three-day stoppage at the abattoir lost N$96 000 of output, and the striking workers lost three days' pay. Dock unions at the port of Rotterdam in the Netherlands know the same arithmetic.",
+   "text": "The costs are just as real. A wage rise won in bargaining raises the firm's pay bill hour by hour: at Marula Meat Processors, an abattoir in Gobabis, a deal lifting the rate from N$10.00 to N$11.00 an hour added N$1.00 for every hour its 180 union members work. A firm facing dearer labour may raise prices, and where its buyers can switch to cheaper imports it may instead let its workforce shrink by not replacing workers who leave. Industrial action is the sharpest cost: a three-day stoppage at the abattoir lost N$96 000 of output, and the striking workers lost three days' pay. Dock unions at the port of Rotterdam in the Netherlands know the same arithmetic.",
    "claim_ids": [
     "CLM-0455-3.4-009",
     "CLM-0455-3.4-010"
@@ -64,7 +64,9 @@
     "CLM-0455-3.4-009": 1,
     "CLM-0455-3.4-010": 1
    },
-   "authored_hash": "aa8db0438869e3e4aa9a6e1726b2ea1fda784685e12424aa2937f13501ea9064"
+   "authored_hash": "0cb769e8fd540e32389a53583f4b411ce26b7b39530910a55be1e01b96beffae",
+   "prior_hash": "aa8db0438869e3e4aa9a6e1726b2ea1fda784685e12424aa2937f13501ea9064",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, corrected the P01 Q2 distractor letter (D, not C), rewrote P02(c) in its own context, removed leaked authoring labels"
   },
   {
    "block_id": "3.4.3-b4",
@@ -95,5 +97,5 @@
    "authored_hash": "4b3c057d33d7694e2c6bcae006d591bddbca0ddf47f287c64e5d64414cb19b0e"
   }
  ],
- "word_count": 389
+ "word_count": 385
 }

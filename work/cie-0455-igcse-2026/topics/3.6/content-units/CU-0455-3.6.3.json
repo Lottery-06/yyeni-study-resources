@@ -87,7 +87,7 @@
    "block_id": "3.6.3-b5",
    "block_type": "misconception",
    "heading": "Production is not productivity",
-   "text": "Examiners record learners treating the two as one idea. Production is a total; productivity is a rate per factor. The test: two laundries each washing 9 000 loads a month are equal in production, but if one uses 12 workers and the other 18, the first washes 750 loads per worker and the second 500, so the first is the more productive. A firm can even raise production while productivity falls - taking on extra workers whose added output is smaller per worker than before - so a growing total is not on its own a sign of efficiency.",
+   "text": "Learners often treat the two as one idea. Production is a total; productivity is a rate per factor. The test: two laundries each washing 9 000 loads a month are equal in production, but if one uses 12 workers and the other 18, the first washes 750 loads per worker and the second 500, so the first is the more productive. A firm can even raise production while productivity falls - taking on extra workers whose added output is smaller per worker than before - so a growing total is not on its own a sign of efficiency.",
    "claim_ids": [
     "CLM-0455-3.6-011"
    ],
@@ -99,7 +99,9 @@
    "claims_seen": {
     "CLM-0455-3.6-011": 1
    },
-   "authored_hash": "d81886c178313d2f83574619802671aaece700eb1a7e7c0d7e4cdaccbabb1da7"
+   "authored_hash": "71f797769e503ca29cc6f99a1d4ec7d4f0618a2e9703c162c042d739ab0f4585",
+   "prior_hash": "d81886c178313d2f83574619802671aaece700eb1a7e7c0d7e4cdaccbabb1da7",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked register and authoring-label wording, repaired a garbled sentence in P03(c), hedged an unstated equal-wage assumption"
   },
   {
    "block_id": "3.6.3-b6",
@@ -119,5 +121,5 @@
    "authored_hash": "0590ffe2ca69edd3957efd720ab265a9897679267945d827a1a88185736c2e22"
   }
  ],
- "word_count": 395
+ "word_count": 394
 }

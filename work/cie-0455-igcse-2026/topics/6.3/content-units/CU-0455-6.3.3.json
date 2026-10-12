@@ -52,7 +52,7 @@
    "block_id": "6.3.3-b3",
    "block_type": "analysis_chain",
    "heading": "Two causes traced",
-   "text": "Trace a rise in overseas demand: a German tour operator books Etosha Gate Lodge and must pay in Namibian dollars; because the operator buys Namibian dollars to pay, demand for the currency rises, tending to push its price in euros up - an appreciation. Trace an interest change: the central bank raises its rate of interest from 6% to 9% with rates abroad unchanged; because deposits in Namibian dollars now pay more, funds are likely to flow in and demand rises with them. A decrease in the rate of interest runs the chain in reverse.",
+   "text": "Trace a rise in overseas demand, using Zambia, whose currency, the kwacha, floats: a German tour operator books a lodge near Livingstone and must pay in kwacha; because the operator buys kwacha to pay, demand for the currency rises, tending to push its price in euros up - an appreciation. Trace an interest change: Zambia's central bank raises its rate of interest from 6% to 9% with rates abroad unchanged; because kwacha deposits now pay more, funds are likely to flow in and demand rises with them. A decrease in the rate of interest runs the chain in reverse. The Namibian dollar is held at one rand (section 6.3.5), so these forces reach it through the rand: it rises and falls against the euro as the rand does.",
    "claim_ids": [
     "CLM-0455-6.3-010",
     "CLM-0455-6.3-011"
@@ -65,13 +65,15 @@
     "CLM-0455-6.3-010": 1,
     "CLM-0455-6.3-011": 1
    },
-   "authored_hash": "263537768cb1fd9c5c398af303ff4258d4948225cdb17783aaa407e5c51f4fbc"
+   "authored_hash": "985a776a2f39d405ce3bbd2594d9ec5aabf31aad0e6fd9edff7c8ef8dfaeff67",
+   "prior_hash": "263537768cb1fd9c5c398af303ff4258d4948225cdb17783aaa407e5c51f4fbc",
+   "repair_note": "Review fix: removed the floating/pegged contradiction - Namibia-specific demand and interest-rate shocks no longer move the N$ on its own (004, 006, 009 and notes 6.3.3-b3/b4 reframed around Zambia's floating kwacha; P02 causes moved to the rand, with the peg stated; P03(b) generalised); N$-euro moves now stated as moving with the rand (011, 012, P03, notes 6.3.4-b3, 6.3.5-b3, claim 020); P02/P03 labels removed; flashcard answers trimmed for recall"
   },
   {
    "block_id": "6.3.3-b4",
    "block_type": "plain_explanation",
    "heading": "Speculation and multinationals",
-   "text": "Speculation acts on expectations: a trader expecting the Namibian dollar to strengthen buys it now, adding present demand and tending to push the rate the way guessed; an expected fall adds present supply instead. A multinational's entry works like an investment flow: a Germany-based retailer opening outlets in Windhoek converts foreign funds into Namibian dollars, and its departure removes that demand.",
+   "text": "Speculation acts on expectations: a trader expecting the kwacha to strengthen buys it now, adding present demand and tending to push the rate the way guessed; an expected fall adds present supply instead. A multinational's entry works like an investment flow: a Germany-based retailer opening outlets in Lusaka converts foreign funds into kwacha, and its departure removes that demand.",
    "claim_ids": [
     "CLM-0455-6.3-012"
    ],
@@ -82,7 +84,9 @@
    "claims_seen": {
     "CLM-0455-6.3-012": 1
    },
-   "authored_hash": "10633f527a3a9bba5a90fb5acf906874cc0369b3f79065d7662d5f1497f6b4f2"
+   "authored_hash": "7b472c7b4d1cc190458afc0af0a133132cdd8e3e157830dde4795c5ffd141e8f",
+   "prior_hash": "10633f527a3a9bba5a90fb5acf906874cc0369b3f79065d7662d5f1497f6b4f2",
+   "repair_note": "Review fix: removed the floating/pegged contradiction - Namibia-specific demand and interest-rate shocks no longer move the N$ on its own (004, 006, 009 and notes 6.3.3-b3/b4 reframed around Zambia's floating kwacha; P02 causes moved to the rand, with the peg stated; P03(b) generalised); N$-euro moves now stated as moving with the rand (011, 012, P03, notes 6.3.4-b3, 6.3.5-b3, claim 020); P02/P03 labels removed; flashcard answers trimmed for recall"
   },
   {
    "block_id": "6.3.3-b5",

@@ -10,6 +10,11 @@
    "from": "subtype DIAGRAM on any 2.2 slot",
    "to": "n/a - topic 2.2 has no DIAGRAM slot",
    "why": "no deviation in this topic; placeholder removed"
+  },
+  {
+   "from": "ITEM-0455-2.2-005-DEF command word Define (2 marks): 'Define the key resources allocation decisions'",
+   "to": "command word State (2 marks): 'State the three key allocation decisions that scarcity forces on every economy'",
+   "why": "Reviewer 2026-10-13: the syllabus heading is a list of three questions, not a term, so Define produced an artificial prompt; State is a used 0455 command word whose modal tariff is 2, so subtype, AO, Bloom level and tariff are unchanged."
   }
  ]
 }

@@ -5,6 +5,11 @@
    "from": "subtype MISCON on any 1.3 slot",
    "to": "n/a - topic 1.3 has no MISCON slot",
    "why": "no deviation in this topic; the register entry (opportunity cost vs decision to choose) is handled inside CU-0455-1.3.2 b2 and item ITEM-0455-1.3-003-DEF guidance"
+  },
+  {
+   "from": "ITEM-0455-1.3-003-DEF command word Define (2 marks): 'Define what is meant by the influence of opportunity cost on decision making'",
+   "to": "command word State (2 marks): 'State how opportunity cost influences a decision maker's choice between two options'",
+   "why": "Reviewer 2026-10-13: the syllabus heading is not a term that can be defined, so Define produced an artificial prompt; State is a used 0455 command word whose modal tariff is 2, so subtype, AO, Bloom level and tariff are unchanged."
   }
  ]
 }

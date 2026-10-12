@@ -21,7 +21,7 @@
    "mark_tariff": 2,
    "difficulty": 1,
    "prompt": "Define the costs of production.",
-   "canonical_answer": "The costs of production are the payments a firm makes for the inputs it uses in producing its output, and its total cost is the sum of its fixed costs and its variable costs. Two creditable elements: payments for the inputs used in production, and the make-up of total cost as fixed costs plus variable costs.",
+   "canonical_answer": "The costs of production are the payments a firm makes for the inputs it uses to produce its output. Total cost is the sum of fixed costs and variable costs.",
    "marking_guidance": [
     "Precise meaning: the definition must give the precise meaning of the term, and each creditable element of it is worth one mark."
    ],
@@ -40,7 +40,9 @@
    "claims_seen": {
     "CLM-0455-3.7-001": 1
    },
-   "authored_hash": "c46e00114a023ed749d3c46b0562125186245cc458463729e7b3f94b92e5f8cd"
+   "authored_hash": "fc5bfb3a800fbaf035e3c8910dbe9315259779ffc910f26777b235aa9a004cc0",
+   "prior_hash": "c46e00114a023ed749d3c46b0562125186245cc458463729e7b3f94b92e5f8cd",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked 'Two creditable elements' text and authoring labels, replaced 'new equilibrium' on a cost diagram with the finishing point, restored a dropped possessive"
   },
   {
    "item_id": "ITEM-0455-3.7-002-FEATURE",
@@ -61,7 +63,7 @@
    "mark_tariff": 2,
    "difficulty": 1,
    "prompt": "Namib Signs paints signboards in Otjiwarongo. Identify the features of the fixed costs this firm faces.",
-   "canonical_answer": "A fixed cost does not change with the level of output. Its features: the firm pays the same figure whatever the number of signboards it makes in a month; it is paid even when output is zero; and it is tied to the period rather than to the units - the workshop rent, the machine leases and the insurance premium are set by contract. The vinyl and ink the firm buys are not in this class, because they move with the boards made.",
+   "canonical_answer": "A fixed cost stays the same whatever number of signboards the firm makes in a month, and it must be paid even if output is zero. It is tied to a time period, such as the monthly workshop rent, machine leases or insurance.",
    "marking_guidance": [
     "Features: the elements required are named in the answer, and one mark is earned per feature developed with what it shows."
    ],
@@ -80,7 +82,9 @@
    "claims_seen": {
     "CLM-0455-3.7-002": 1
    },
-   "authored_hash": "5703107ada1e7a1df2428afe720e9a6ff5709a273803a98a9150e9b9edd082da"
+   "authored_hash": "3d2e7c911e9c63d4ac8e200ba002d812dc1d6f21af9ab2791743be1bc3466aef",
+   "prior_hash": "5703107ada1e7a1df2428afe720e9a6ff5709a273803a98a9150e9b9edd082da",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked 'Two creditable elements' text and authoring labels, replaced 'new equilibrium' on a cost diagram with the finishing point, restored a dropped possessive"
   },
   {
    "item_id": "ITEM-0455-3.7-003-DEF",
@@ -101,7 +105,7 @@
    "mark_tariff": 2,
    "difficulty": 3,
    "prompt": "Define average total cost.",
-   "canonical_answer": "Average total cost is total cost divided by the number of units produced in the period, giving the cost per unit. It takes in the fixed payments and the variable payments of the firm together, and it is stated in currency per unit, such as N$6.00 per litre.",
+   "canonical_answer": "Average total cost is total cost divided by the number of units produced: the cost per unit. It includes both fixed and variable costs and is stated in money per unit, such as N$6.00 per litre.",
    "marking_guidance": [
     "Precise meaning: the definition must give the precise meaning of the term, and each creditable element of it is worth one mark."
    ],
@@ -120,7 +124,9 @@
    "claims_seen": {
     "CLM-0455-3.7-004": 1
    },
-   "authored_hash": "e12107da881f6fc7f631d73bf332d5cbb5ef57e5cee97ecc2f73fc988ea87b8e"
+   "authored_hash": "9eeb5b84db9ee07103218d586c37339e29cd1916de2a9cdf41e48c42bd295187",
+   "prior_hash": "e12107da881f6fc7f631d73bf332d5cbb5ef57e5cee97ecc2f73fc988ea87b8e",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked 'Two creditable elements' text and authoring labels, replaced 'new equilibrium' on a cost diagram with the finishing point, restored a dropped possessive"
   },
   {
    "item_id": "ITEM-0455-3.7-004-DIAGRAM",
@@ -144,14 +150,14 @@
    "mark_tariff": 8,
    "difficulty": 3,
    "prompt": "Kaoko Juice bottles juice at Opuwo. Its fixed costs are N$6 000 a month, and each extra crate adds N$15 to its costs. The bottler raises monthly output from 200 crates to 600 crates. Discuss how a diagram showing how changes in output affect the firm's average costs is drawn and used: state what each axis is labelled with, where the original curves sit, the direction of the movement as output rises, the point the firm ends at, and what the finished diagram shows in words.",
-   "canonical_answer": "Begin with the axes: label the horizontal axis monthly output, in crates, and the vertical axis cost, in N$ per crate. Draw the original curves: average fixed cost starts at N$30 per crate at 200 crates and slopes downward toward N$10 at 600 crates; average total cost starts at N$45 per crate at 200 crates and slopes downward toward N$25 at 600 crates, sitting N$15 above average fixed cost at each output because that gap is average variable cost. Label the curves AFC1 and ATC1. Mark the starting point A on ATC1 at 200 crates, where average total cost is N$45 per crate. The change is a movement along the curves in the correct direction: to the right and downward, as monthly output rises from 200 to 600 crates; no curve shifts, because the fixed payment and the cost of one more crate are unchanged. The new equilibrium marked and labelled is point B on ATC1 at 600 crates, where average total cost is N$25 per crate. What the diagram shows, in words: the same fixed payment of N$6 000 spread over 600 crates instead of 200 pulls average fixed cost down from N$30 to N$10 per crate, and average total cost with it, from N$45 to N$25, while the N$15 per crate of variable cost holds steady. The downward slope of the two curves is what the finished diagram shows: falling cost per unit as output grows.",
+   "canonical_answer": "Label the horizontal axis monthly output in crates and the vertical axis cost in N$ per crate. Draw average fixed cost, AFC1, falling from N$30 per crate at 200 crates to N$10 at 600 crates. Draw average total cost, ATC1, falling from N$45 to N$25 over the same range, always N$15 above AFC1, because that gap is the unchanged average variable cost. Mark the starting point A on ATC1 at 200 crates and N$45. As output rises, the firm moves down and to the right along the curves to point B on ATC1 at 600 crates and N$25; no curve shifts, because the fixed payment and the cost of one more crate are unchanged. In words, the diagram shows that spreading the same N$6 000 of fixed costs over 600 crates instead of 200 cuts average fixed cost from N$30 to N$10, so average total cost falls from N$45 to N$25 while variable cost holds at N$15 per crate.",
    "marking_guidance": [
     "Axes labelled: monthly output in crates on one axis and cost in N$ per crate on the other - the measures of this diagram, and price and quantity axes belong to demand and supply diagrams.",
     "Original curves drawn and labelled: AFC1 and ATC1 both drawn and named before any movement is marked.",
     "The shift or movement, in the correct direction: a movement along the curves to the right and downward as output rises; no curve shifts, because the fixed payment and the cost of one more crate are unchanged.",
-    "New equilibrium marked and labelled: the finishing point B on ATC1 at 600 crates, marked and named.",
+    "Finishing point marked and labelled: point B on ATC1 at 600 crates and N$25 per crate - a cost diagram shows where the firm ends up, not an equilibrium.",
     "What the diagram shows, in words: the fixed payment spread over more crates pulls both averages down while the variable gap holds steady.",
-    "The link: the mechanism is the fixed payment spread over more crates, and the consequence is the fall in the firm cost per crate from N$45 to N$25."
+    "The link: the mechanism is the fixed payment spread over more crates, and the consequence is the fall in the firm's cost per crate from N$45 to N$25."
    ],
    "context": {
     "sector": null,
@@ -170,7 +176,9 @@
     "CLM-0455-3.7-005": 1,
     "CLM-0455-3.7-006": 1
    },
-   "authored_hash": "632a7ea36946d424eb5f7dd207cd585a93472a36a66a4e4cf349ff74806ce379"
+   "authored_hash": "c2b4a7ef8e2f82fa6c73a34aaff7d7a5903b15c5f7dfac9c0937aa4edba9a031",
+   "prior_hash": "632a7ea36946d424eb5f7dd207cd585a93472a36a66a4e4cf349ff74806ce379",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked 'Two creditable elements' text and authoring labels, replaced 'new equilibrium' on a cost diagram with the finishing point, restored a dropped possessive"
   },
   {
    "item_id": "ITEM-0455-3.7-005-INTERP",
@@ -194,7 +202,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Otjiwa Dairy in Gobabis records two months. In March it processed 3 000 litres of milk at an average total cost of N$6.00 per litre; in June it processed 6 000 litres at an average total cost of N$5.00 per litre, with average variable cost at N$4.00 per litre in each month. Explain what the data shows about how the dairy's average costs changed as its output rose.",
-   "canonical_answer": "What the data shows is a fall in average total cost as output rises: from N$6.00 per litre at 3 000 litres to N$5.00 per litre at 6 000 litres. Supporting evidence by comparison: average variable cost held at N$4.00 per litre in each month, so the whole fall, N$6.00 - N$5.00 = N$1.00 per litre, came from the fixed side, where average fixed cost fell from N$2.00 to N$1.00 per litre as the same payment spread over twice the litres. Why: the explanation of the relationship is that fixed payments do not move with output, so each extra litre carries a smaller share of them, which pulls the average down. However, the fall is not open-ended: where output begins to strain the dairy's capacity - overtime, breakdowns, a crowded cold room - the cost of one more litre rises, and average variable cost turns upward with it.",
+   "canonical_answer": "The data show average total cost falling as output rises, from N$6.00 per litre at 3 000 litres to N$5.00 at 6 000 litres. Average variable cost stayed at N$4.00, so the whole N$1.00 fall came from average fixed cost, which fell from N$2.00 to N$1.00 because the same fixed costs were spread over twice as many litres. However, the fall has a limit: if output strains capacity, overtime and breakdowns raise the cost of each extra litre and the average turns upward.",
    "marking_guidance": [
     "What the data shows: the relationship between the figures must be stated before anything else.",
     "Supporting evidence: a comparison of two rows or steps in the data, with their figures.",
@@ -218,7 +226,9 @@
     "CLM-0455-3.7-005": 1,
     "CLM-0455-3.7-006": 1
    },
-   "authored_hash": "b75de8af4ca366c5aa1447877c669e578076562225b68e4199fbd23c221c0fb0"
+   "authored_hash": "1294a55de45d1b06ef35eceb3cc91901a4787229b87e5d7374f157f2d36576a2",
+   "prior_hash": "b75de8af4ca366c5aa1447877c669e578076562225b68e4199fbd23c221c0fb0",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked 'Two creditable elements' text and authoring labels, replaced 'new equilibrium' on a cost diagram with the finishing point, restored a dropped possessive"
   },
   {
    "item_id": "ITEM-0455-3.7-006-APP",
@@ -241,7 +251,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Oshakati Textiles makes school shirts. Its rent and machine leases cost N$9 000 a month, and materials and machine time cost N$30 for each shirt. A month of 300 shirts cost it N$18 000; a month of 900 shirts cost it N$36 000. Using the figures, explain why the average total cost per shirt fell from N$60 to N$40 as monthly output rose.",
-   "canonical_answer": "The figures show a fixed payment being spread. At 300 shirts the total was N$9 000 fixed plus N$30 x 300 = N$9 000 variable, so total cost = N$9 000 + N$9 000 = N$18 000 and average fixed cost = N$9 000 / 300 shirts = N$30. At 900 shirts the variable side reached N$30 x 900 = N$27 000, so total cost = N$9 000 + N$27 000 = N$36 000 and average fixed cost = N$9 000 / 900 = N$10. Because the variable cost per shirt held at N$30, the fall in average fixed cost, from N$30 to N$10, is the whole reason average total cost fell from N$60 to N$40. Therefore the firm's cost per shirt fell not because any input became cheaper but because the unchanged rent and leases were shared across three times as many shirts.",
+   "canonical_answer": "At 300 shirts, variable cost is N$30 x 300 = N$9 000, total cost N$18 000, and average fixed cost N$9 000 / 300 = N$30. At 900 shirts, variable cost is N$30 x 900 = N$27 000, total cost N$36 000, and average fixed cost N$9 000 / 900 = N$10. Variable cost stayed at N$30 a shirt, so the N$20 fall in average fixed cost explains the whole fall. Therefore cost per shirt fell because unchanged rent and leases were spread over three times as many shirts.",
    "marking_guidance": [
     "Context: the figures in the prompt must be used - no answer without them.",
     "Reasoning: the link from the figures to the concept must be written out, because figures stated without the link earn nothing.",
@@ -263,7 +273,9 @@
     "CLM-0455-3.7-004": 1,
     "CLM-0455-3.7-005": 1
    },
-   "authored_hash": "475b01af35ac832725dece272a8b60a101e8f55ba8c75231ae7159a28d06395e"
+   "authored_hash": "61b0fa9e13c8f268792d96f78454288ba344976cfe4d2e4cbda1eabe7063f3cf",
+   "prior_hash": "475b01af35ac832725dece272a8b60a101e8f55ba8c75231ae7159a28d06395e",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked 'Two creditable elements' text and authoring labels, replaced 'new equilibrium' on a cost diagram with the finishing point, restored a dropped possessive"
   },
   {
    "item_id": "ITEM-0455-3.7-007-CHAIN",
@@ -286,7 +298,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "The monthly rent of Otjiwa Dairy's premises in Gobabis rises from N$6 000 to N$9 000, while its output and its ingredient cost per litre stay as they were. Analyse the consequences of this rise in a fixed cost for the dairy, for its customers and for its workers.",
-   "canonical_answer": "Starting point: the rent, a fixed cost, rises from N$6 000 to N$9 000 a month, so the dairy's total cost rises by N$9 000 - N$6 000 = N$3 000 at each level of output. Mechanism: because the payment does not vary with the litres processed, average fixed cost rises at each output - at 6 000 litres it moves from N$1.00 to N$9 000 / 6 000 = N$1.50 per litre - and this causes average total cost to rise by the same N$0.50 per litre, since the ingredient cost per litre is unchanged. Consequence: therefore each litre costs more to process than before, and the dairy is likely to answer with a higher price, a search for cheaper premises, or lower spending elsewhere. For whom: where it raises its price, customers pay more for each litre; where it cuts spending, its workers face shorter hours or a hiring freeze; and where the dairy can pass none of the rise on, the cost lands on its own profit and its survival margin narrows.",
+   "canonical_answer": "Rent, a fixed cost, rises from N$6 000 to N$9 000 a month, so total cost rises by N$9 000 - N$6 000 = N$3 000 at each output. Because rent does not vary with output, average fixed cost rises: at 6 000 litres, from N$1.00 to N$9 000 / 6 000 = N$1.50 per litre. With ingredient cost per litre unchanged, average total cost rises by the same N$0.50. The dairy may raise prices, seek cheaper premises or cut other spending. Customers pay more if prices rise; workers may face fewer hours or a hiring freeze if spending is cut; and if none of the rise is passed on, the owners' profit falls and survival becomes less secure.",
    "marking_guidance": [
     "Starting point: the initial change must be stated, as a when or an if.",
     "Mechanism: the causal link must be written out, because this causes that, step by step.",
@@ -310,7 +322,9 @@
     "CLM-0455-3.7-005": 1,
     "CLM-0455-3.7-006": 1
    },
-   "authored_hash": "0a8d15f7a1be73ce79c241f6d4ad87d12728d7cfa70d34f581163b97899e2317"
+   "authored_hash": "935afd48afe089665f57dcc9ffb94785c996835c3153bb66f962c4939ef76d33",
+   "prior_hash": "0a8d15f7a1be73ce79c241f6d4ad87d12728d7cfa70d34f581163b97899e2317",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked 'Two creditable elements' text and authoring labels, replaced 'new equilibrium' on a cost diagram with the finishing point, restored a dropped possessive"
   },
   {
    "item_id": "ITEM-0455-3.7-008-DEF",
@@ -331,7 +345,7 @@
    "mark_tariff": 2,
    "difficulty": 1,
    "prompt": "Define revenue.",
-   "canonical_answer": "Revenue is the income a firm receives from selling its output over a period, measured in money and before any costs are deducted. It is counted in N$ for a Namibian firm, and it moves with the firm's sales and the prices it charges.",
+   "canonical_answer": "Revenue is the income a firm receives from selling its output over a period, before any costs are deducted. It is measured in money, such as N$, and depends on the quantity sold and the prices charged.",
    "marking_guidance": [
     "Precise meaning: the definition must give the precise meaning of the term, and each creditable element of it is worth one mark."
    ],
@@ -350,7 +364,9 @@
    "claims_seen": {
     "CLM-0455-3.7-007": 1
    },
-   "authored_hash": "5f8b36172ef1288d4a709bd8fe0b581217ae5fdf46770c39a2afb7622bd9d6ab"
+   "authored_hash": "4242ddf5b10bcb7673a3001fd54166260d3286b74d286df53ead7a98f83d4ac0",
+   "prior_hash": "5f8b36172ef1288d4a709bd8fe0b581217ae5fdf46770c39a2afb7622bd9d6ab",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked 'Two creditable elements' text and authoring labels, replaced 'new equilibrium' on a cost diagram with the finishing point, restored a dropped possessive"
   },
   {
    "item_id": "ITEM-0455-3.7-009-FEATURE",
@@ -372,7 +388,7 @@
    "mark_tariff": 2,
    "difficulty": 1,
    "prompt": "A firm's revenue is measured in two ways. Identify the features of total revenue and average revenue.",
-   "canonical_answer": "Total revenue is the whole income from sales in a period, and its features are: it is measured in N$; it counts income before any cost is deducted; and it moves with the price charged and with the quantity sold. Average revenue is that income per unit sold, and its features are: it equals total revenue divided by the number of units; it is stated in N$ per unit; and where each unit sells at one price, average revenue equals that price, which lets a firm compare income across differing levels of sales.",
+   "canonical_answer": "Total revenue is all sales income in a period, in N$, before costs, and changes with price and quantity sold. Average revenue is total revenue divided by units sold, in N$ per unit, and equals the price when each unit sells at one price.",
    "marking_guidance": [
     "Features: the elements required are named in the answer, and one mark is earned per feature developed with what it shows."
    ],
@@ -392,7 +408,9 @@
     "CLM-0455-3.7-007": 1,
     "CLM-0455-3.7-008": 1
    },
-   "authored_hash": "631126438c1e552d1333e03d74d3d49b4e968def19c3f6ffb9c9889ee4abdeec"
+   "authored_hash": "fc0ad1073af025b053941ea49d09ddf722739fa9e2280b3e0c1e12fe545dda8a",
+   "prior_hash": "631126438c1e552d1333e03d74d3d49b4e968def19c3f6ffb9c9889ee4abdeec",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked 'Two creditable elements' text and authoring labels, replaced 'new equilibrium' on a cost diagram with the finishing point, restored a dropped possessive"
   },
   {
    "item_id": "ITEM-0455-3.7-010-DEF",
@@ -453,7 +471,7 @@
    "mark_tariff": 1,
    "difficulty": 2,
    "prompt": "Marula Foods sells 800 jars of marula spread at N$25 per jar in a month. Calculate the firm's total revenue for the month.",
-   "canonical_answer": "Formula: total revenue = price x quantity sold. Substitution: total revenue = N$25 per jar x 800 jars. Answer with units: N$20 000 for the month.",
+   "canonical_answer": "Total revenue = price x quantity sold = N$25 per jar x 800 jars = N$20 000 for the month.",
    "marking_guidance": [
     "Formula: total revenue = price x quantity sold must be stated or used.",
     "Substitution: the working shows the figures put into the formula.",
@@ -474,7 +492,9 @@
    "claims_seen": {
     "CLM-0455-3.7-009": 1
    },
-   "authored_hash": "f1c5af9f27028d3430cf401db38b631cedcf51d386ab658e457053c6ea9ea8eb"
+   "authored_hash": "390594c610bf0e7757a12c5aee27a02cb868486c9f0b45cd35c9c40df94920b2",
+   "prior_hash": "f1c5af9f27028d3430cf401db38b631cedcf51d386ab658e457053c6ea9ea8eb",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked 'Two creditable elements' text and authoring labels, replaced 'new equilibrium' on a cost diagram with the finishing point, restored a dropped possessive"
   },
   {
    "item_id": "ITEM-0455-3.7-012-INTERP",
@@ -497,7 +517,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "Marula Foods records two months of sales. In May it sold 800 jars at N$25 each, earning N$20 000; in August it sold 1 100 jars at N$20 each, earning N$22 000. Explain what the data shows about how the price cut changed the firm's revenue.",
-   "canonical_answer": "What the data shows is total revenue rising after a price cut: from N$20 000 at N$25 a jar to N$22 000 at N$20 a jar. Supporting evidence by comparison: the 300 extra jars added N$20 x 300 = N$6 000, against the N$25 - N$20 = N$5 given up on each of the 800 old jars, N$5 x 800 = N$4 000, so total revenue rose by N$22 000 - N$20 000 = N$2 000. Why: the explanation of the relationship is that buyers responded to the lower price by buying enough extra jars to more than cover the income given up on the old sales. However, the response is not guaranteed: where a price cut wins few extra jars, the income given up outweighs the income added and total revenue falls, so the data shows what happened for this firm rather than a rule for each firm.",
+   "canonical_answer": "After the price cut from N$25 to N$20, total revenue rose from N$20 000 to N$22 000. The 300 extra jars added N$20 x 300 = N$6 000, while charging N$5 less on the 800 original jars lost N$5 x 800 = N$4 000, so revenue rose by N$2 000. This happened because buyers bought enough extra jars to more than make up for the lower price. However, where a price cut wins few extra sales, total revenue falls, so this is not a rule for every firm.",
    "marking_guidance": [
     "What the data shows: the relationship between the figures must be stated before anything else.",
     "Supporting evidence: a comparison of two rows or steps in the data, with their figures.",
@@ -520,7 +540,9 @@
     "CLM-0455-3.7-008": 1,
     "CLM-0455-3.7-010": 1
    },
-   "authored_hash": "b8ffcb6183e4626deb4e88b05ad9c4a18a95b78a6f4f5a8cd4697596cac2f389"
+   "authored_hash": "090588831aa79097b11a74cae2c26969a70c42e138a35df6b119ff1a9ac04fe7",
+   "prior_hash": "b8ffcb6183e4626deb4e88b05ad9c4a18a95b78a6f4f5a8cd4697596cac2f389",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked 'Two creditable elements' text and authoring labels, replaced 'new equilibrium' on a cost diagram with the finishing point, restored a dropped possessive"
   },
   {
    "item_id": "ITEM-0455-3.7-013-APP",
@@ -543,7 +565,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "Etosha Gate Lodge filled 20 of its rooms on the nights of June at N$1 500 per room, and 25 rooms on the nights of July at the same price. Using the figures, explain why the lodge's total revenue rose from June to July.",
-   "canonical_answer": "The figures show total revenue rising in step with occupancy at an unchanged price. June: total revenue = N$1 500 x 20 rooms = N$30 000. July: total revenue = N$1 500 x 25 rooms = N$37 500. The rise, N$37 500 - N$30 000 = N$7 500, came from the 5 extra rooms, because the price held at N$1 500 and each extra room added that figure to income. Average revenue stayed at N$1 500 per room in each month, so the whole gain is a sales effect and not a price effect. Therefore the lodge's income rose because it sold more of the same service at the same price, which is the case where revenue and sales move together.",
+   "canonical_answer": "In June, total revenue was N$1 500 x 20 rooms = N$30 000; in July it was N$1 500 x 25 rooms = N$37 500. Revenue rose by N$37 500 - N$30 000 = N$7 500 because 5 more rooms were sold at the same price, each adding N$1 500. Average revenue stayed at N$1 500 per room, so the rise came from more sales, not a higher price. Therefore the lodge's revenue rose because it sold more rooms at an unchanged price.",
    "marking_guidance": [
     "Context: the figures in the prompt must be used - no answer without them.",
     "Reasoning: the link from the figures to the concept must be written out, because figures stated without the link earn nothing.",
@@ -565,7 +587,9 @@
     "CLM-0455-3.7-009": 1,
     "CLM-0455-3.7-010": 1
    },
-   "authored_hash": "25a055a14a97a5f5051d7e49d4863cf65f40f29a200932e33e090e89834250e8"
+   "authored_hash": "01fcfbeba06daf9f9defbb7a0fe657eef376f779a0425a027e84e7084e5d86aa",
+   "prior_hash": "25a055a14a97a5f5051d7e49d4863cf65f40f29a200932e33e090e89834250e8",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked 'Two creditable elements' text and authoring labels, replaced 'new equilibrium' on a cost diagram with the finishing point, restored a dropped possessive"
   },
   {
    "item_id": "ITEM-0455-3.7-014-DEF",
@@ -586,7 +610,7 @@
    "mark_tariff": 2,
    "difficulty": 2,
    "prompt": "Define profit.",
-   "canonical_answer": "Profit is the amount by which a firm's total revenue exceeds its total cost in a period: total revenue minus total cost. Where total cost is the larger figure, the same calculation gives a loss. Profit is measured in N$ and stated for a period, such as a month or a year.",
+   "canonical_answer": "Profit is the amount by which a firm's total revenue exceeds its total cost over a period: total revenue minus total cost. If total cost is larger, the result is a loss. Profit is measured in N$ for a stated period.",
    "marking_guidance": [
     "Precise meaning: the definition must give the precise meaning of the term, and each creditable element of it is worth one mark."
    ],
@@ -605,7 +629,9 @@
    "claims_seen": {
     "CLM-0455-3.7-012": 1
    },
-   "authored_hash": "4ca1bc0eb5baa1b9a79f750d74036de3b4754864d4619b2cfd73de1e08946ca3"
+   "authored_hash": "e1f87dded40a6dd5f45e7487cbf6b93bd822cb11140d0fa3d25e27725898ac76",
+   "prior_hash": "4ca1bc0eb5baa1b9a79f750d74036de3b4754864d4619b2cfd73de1e08946ca3",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked 'Two creditable elements' text and authoring labels, replaced 'new equilibrium' on a cost diagram with the finishing point, restored a dropped possessive"
   },
   {
    "item_id": "ITEM-0455-3.7-015-WHY",
@@ -627,7 +653,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "A juice processing firm opened in Oshakati three months ago and is not yet covering its fixed costs. Explain why a firm in its first months may put survival ahead of profit maximisation.",
-   "canonical_answer": "The reason is that a firm that has stopped trading cannot earn any profit in the periods that follow. Survival means covering costs, keeping customers and keeping the firm's name known while it builds its sales. A young firm has few customers and a small share of the market, so its revenue is thin against its fixed costs; while that lasts, its purpose is to reach the point where revenue covers cost - to survive - because profit maximisation presupposes a firm that is still there to enjoy it. Survival and profit maximisation are aims in order: the first makes the second possible. A firm that squeezed the largest possible profit from its opening months, by charging the highest price its few customers would bear, risks losing those customers and its name with them, which is why the young firm prices to build its customer base first.",
+   "canonical_answer": "A firm that closes cannot make any profit later, so staying in business comes first. A new firm has few customers and a small market share, so its revenue is low compared with its fixed costs. Its purpose is to reach the point where revenue covers costs while it builds sales and becomes known. Charging the highest price its few customers will pay might raise profit now, but could drive them away and damage the firm's name. So survival comes first because it makes later profit possible.",
    "marking_guidance": [
     "Reason: why survival comes first for a young firm must be explained, because the aim of staying in trading is what makes any later profit possible.",
     "Purpose: the answer names what survival means - covering costs and keeping customers - rather than restating the definition of profit."
@@ -648,7 +674,9 @@
     "CLM-0455-3.7-012": 1,
     "CLM-0455-3.7-013": 1
    },
-   "authored_hash": "cf7f164c79642464046000c35259a70d087748952ab233eb80895b2ad893f41e"
+   "authored_hash": "5ae2063693ac28a02c9b40761a4d8e47dffc996fb63e5edf3128753c672e5762",
+   "prior_hash": "cf7f164c79642464046000c35259a70d087748952ab233eb80895b2ad893f41e",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked 'Two creditable elements' text and authoring labels, replaced 'new equilibrium' on a cost diagram with the finishing point, restored a dropped possessive"
   },
   {
    "item_id": "ITEM-0455-3.7-016-APP",
@@ -672,7 +700,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "Katutura Community Transport runs bus routes for the town council. The council keeps the fare at N$10 a ride while the firm's cost per ride is N$14, and its buses run full on weekdays. Using the figures, explain which objective the transport firm appears to follow, and why.",
-   "canonical_answer": "The figures show a firm deliberately earning less than its costs: at N$10 a ride against a cost of N$14, each ride brings in N$14 - N$10 = N$4 less than it costs. Because the council sets the fare and the routes, the objective the firm appears to follow is social welfare - affordable travel for the community - rather than profit maximisation, since a firm set on profit would need fares above N$14. Running at N$4 a ride below cost is a policy rather than an accident, and the shortfall is covered from council funds. Therefore the firm's behaviour fits an objective set by its owner, the community's benefit, and the figures are the evidence of it.",
+   "canonical_answer": "Each ride brings in N$10 but costs N$14, so the firm loses N$14 - N$10 = N$4 a ride. Because the council sets the fare, the firm appears to follow social welfare, giving the community affordable travel, rather than profit maximisation, which would need fares above N$14. Full buses show the low fare is being used, and the shortfall must be covered from elsewhere, most likely council funds. Therefore the figures suggest the firm is run for community benefit rather than profit.",
    "marking_guidance": [
     "Context: the figures in the prompt must be used - no answer without them.",
     "Reasoning: the link from the figures to the concept must be written out, because figures stated without the link earn nothing.",
@@ -695,7 +723,9 @@
     "CLM-0455-3.7-013": 1,
     "CLM-0455-3.7-014": 1
    },
-   "authored_hash": "a95672430489659bc703db935f562d1d712a56c940f406e0ac3769c8c3adfe49"
+   "authored_hash": "b69a92f2081f8c0c81778b90696f56043b4463f7e67de161e74945f47e4419e1",
+   "prior_hash": "a95672430489659bc703db935f562d1d712a56c940f406e0ac3769c8c3adfe49",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked 'Two creditable elements' text and authoring labels, replaced 'new equilibrium' on a cost diagram with the finishing point, restored a dropped possessive"
   },
   {
    "item_id": "ITEM-0455-3.7-017-MISCON",
@@ -717,7 +747,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Two learners read about a dairy whose wastewater fouls a river. One says the river clean-up belongs in the dairy's costs of production; the other calls it a social cost, the same thing as an external cost. Explain the confusion between external costs and social costs, and state the test that tells them apart.",
-   "canonical_answer": "The confusion: the two learners treat a part as the whole, and muddle the firm's own payments with costs the firm imposes on others. The boundary between the ideas: external costs are the costs a firm's activity imposes on people outside the firm - the fouled river, borne by those downstream; social costs are the whole cost to society, the firm's own costs of production together with the costs imposed on others. The clean-up is not a payment the dairy makes, so it is not among its costs of production; it is an external cost, and it forms part of social costs without being the whole of them, because social costs also take in the dairy's feed, wages and rent. The test: ask who makes the payment, and whether the firm's own production costs are included. A cost the firm itself pays is a cost of production; a cost imposed on others with no payment is an external cost; the two added together are social costs.",
+   "canonical_answer": "The learners confuse a firm's own costs with costs it imposes on others. The dairy does not pay for the river clean-up, so it is not a cost of production; it is an external cost borne by people downstream. Social cost is the total cost to society: the dairy's own production costs plus the external costs. To tell them apart, ask who pays: if the firm pays, it is a production cost; if others bear it without payment, it is external; both together are social cost.",
    "marking_guidance": [
     "The confusion: what learners mix up must be named - an external cost mistaken for the whole of social cost, and the firm's own payments left out of account.",
     "The boundary between the ideas: external costs are the part imposed on others; social costs add the firm's own production costs to that part.",
@@ -739,9 +769,11 @@
     "CLM-0455-3.7-003": 1,
     "CLM-0455-3.7-001": 1
    },
-   "authored_hash": "83a8ca89b33893cf01b7481f4b15680d38897e8b28e2218515a0800dcf90dc94",
+   "authored_hash": "052783722512d9cc697d7f316b3c9bf11fb4ed488ea304bfcff956e237909186",
    "misconception_entry": "external vs social costs",
-   "misconception_id": "MISCON-REGISTER-0455-3.7.1-external-vs-social-costs"
+   "misconception_id": "MISCON-REGISTER-0455-3.7.1-external-vs-social-costs",
+   "prior_hash": "83a8ca89b33893cf01b7481f4b15680d38897e8b28e2218515a0800dcf90dc94",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked 'Two creditable elements' text and authoring labels, replaced 'new equilibrium' on a cost diagram with the finishing point, restored a dropped possessive"
   },
   {
    "item_id": "ITEM-0455-3.7-P01",
@@ -829,7 +861,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "A report in the Swakopmund Advertiser, 2026: \"Swakopmund Seafoods processes frozen fish for export. Two years ago the firm ran one cold room; today it runs three on the same leased site, and the lease has not changed. Its export price is fixed by contract, and its order book has grown.\"\n\nTable 1 - Swakopmund Seafoods\n  output, 2024: 2 000 kg\n  output, 2026: 3 000 kg\n  fixed costs, 2024: N$12 000\n  fixed costs, 2026: N$12 000\n  variable cost per kg, 2024: N$6\n  variable cost per kg, 2026: N$6\n  price per kg, 2024: N$14\n  price per kg, 2026: N$14\n\n(a) The firm's variable cost in 2026 is its variable cost per kilogram times its output. Calculate its total cost in 2026. [1]\n(b) Calculate average total cost per kilogram in 2026. [1]\n(c) Identify from Table 1 the price per kilogram in 2024 and in 2026. [2]\n(d) Explain why average total cost per kilogram fell between the two years. [4]\n(e) Analyse what the data suggests about the firm's costs and revenue between the two years. [6]",
-   "canonical_answer": "(a) Variable cost = N$6 x 3 000 kg = N$18 000. Total cost = N$12 000 + N$18 000 = N$30 000.\n(b) Average total cost = N$30 000 / 3 000 kg = N$10 per kilogram.\n(c) The price per kilogram was N$14 in 2024 and N$14 in 2026, fixed by contract (from Table 1).\n(d) Average total cost fell because the fixed payment was spread over more kilograms while the variable cost per kilogram held. In 2024, total cost = N$12 000 + N$12 000 = N$24 000 and average total cost = N$24 000 / 2 000 kg = N$12 per kilogram, of which average fixed cost was N$6. In 2026 average total cost was N$10 per kilogram, of which average fixed cost was N$4, since N$12 000 / 3 000 kg = N$4. The N$2 fall per kilogram came wholly from the fixed side: the lease is unchanged, so each kilogram carries a smaller share of it, while the N$6 per kilogram of variable cost stayed put. The firm became cheaper per unit to run without any input becoming cheaper.\n(e) Expected relationship: with the lease unchanged, the price fixed and output up by 1 000 kg, average total cost should fall and total revenue should rise in step with sales. Evidence from the data: average total cost fell from N$12 to N$10 per kilogram; total revenue = N$14 x 2 000 kg = N$28 000 in 2024 and N$14 x 3 000 kg = N$42 000 in 2026. Analysis: the fall in cost per kilogram, from N$12 to N$10, widened the margin between the contract price of N$14 and the cost per kilogram from N$2 to N$4, so profit moved from N$28 000 - N$24 000 = N$4 000 to N$42 000 - N$30 000 = N$12 000; the mechanism is the spreading of the unchanged lease over half as many kilograms again, and the revenue gain came from more sales at the unchanged price rather than from any price movement. For whom: the owners gain the larger profit, the workers gain more processing shifts, and the export customers keep paying the same price. Exception: the spread has a limit - where output strains the three cold rooms, the cost of one more kilogram rises with overtime and breakdowns, and where a fourth room is leased the fixed payment itself rises and the averages turn upward; the contract price also ends at some date, and revenue then moves with whatever price replaces it.",
+   "canonical_answer": "(a) Variable cost = N$6 x 3 000 kg = N$18 000. Total cost = N$12 000 + N$18 000 = N$30 000.\n(b) Average total cost = N$30 000 / 3 000 kg = N$10 per kilogram.\n(c) The price per kilogram was N$14 in 2024 and N$14 in 2026, fixed by contract (from Table 1).\n(d) Average total cost fell because the fixed payment was spread over more kilograms while the variable cost per kilogram held. In 2024, total cost = N$12 000 + N$12 000 = N$24 000 and average total cost = N$24 000 / 2 000 kg = N$12 per kilogram, of which average fixed cost was N$6. In 2026 average total cost was N$10 per kilogram, of which average fixed cost was N$4, since N$12 000 / 3 000 kg = N$4. The N$2 fall per kilogram came wholly from the fixed side: the lease is unchanged, so each kilogram carries a smaller share of it, while the N$6 per kilogram of variable cost stayed put. The firm became cheaper per unit to run without any input becoming cheaper.\n(e) With the lease unchanged, the price fixed and output up by 1 000 kg, average total cost should fall and total revenue should rise in step with sales, and the data bear this out: average total cost fell from N$12 to N$10 per kilogram; total revenue = N$14 x 2 000 kg = N$28 000 in 2024 and N$14 x 3 000 kg = N$42 000 in 2026. The fall in cost per kilogram, from N$12 to N$10, widened the margin between the contract price of N$14 and the cost per kilogram from N$2 to N$4, so profit moved from N$28 000 - N$24 000 = N$4 000 to N$42 000 - N$30 000 = N$12 000; the mechanism is the spreading of the unchanged lease over half as many kilograms again, and the revenue gain came from more sales at the unchanged price rather than from any price movement. The owners gain the larger profit, the workers gain more processing shifts, and the export customers keep paying the same price. However, the spread has a limit - where output strains the three cold rooms, the cost of one more kilogram rises with overtime and breakdowns, and where a fourth room is leased the fixed payment itself rises and the averages turn upward; the contract price also ends at some date, and revenue then moves with whatever price replaces it.",
    "marking_guidance": [
     "Parts: (a) and (b) are 1 mark each and must be exact calculations from Table 1; (c) is 2 marks, 1 per year; (d) is 4 marks, one per distinct linked statement; (e) is 6 marks.",
     "(e) must run the expected relationship, then evidence from the data, then analysis, then an exception; quoting a figure from Table 1 is evidence, not analysis - a figure without the linked statement it supports earns nothing in (e).",
@@ -860,7 +892,9 @@
     "CLM-0455-3.7-009": 1,
     "CLM-0455-3.7-010": 1
    },
-   "authored_hash": "a0e259b1295133f91d7e829a162da7a523a76859b1bd8178a882aabd0519254f"
+   "authored_hash": "6e890a8a962455be209ada8acf5b6eb14c80f1a5f4a6b4164ae79d1b045ddce0",
+   "prior_hash": "a0e259b1295133f91d7e829a162da7a523a76859b1bd8178a882aabd0519254f",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked 'Two creditable elements' text and authoring labels, replaced 'new equilibrium' on a cost diagram with the finishing point, restored a dropped possessive"
   },
   {
    "item_id": "ITEM-0455-3.7-P03",
@@ -891,7 +925,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "A firm processes mahangu meal in Otavi.\n(a) Define a fixed cost. [2]\n(b) Explain why a firm's average fixed cost falls as its output rises. [4]\n(c) Analyse the effects on a firm, its customers and its workers of a rise in the firm's fixed costs. [6]\n(d) Discuss whether profit maximisation should be the main objective of a firm. [8]",
-   "canonical_answer": "(a) A fixed cost is a cost that does not change with the level of output: the firm pays the same figure whether it makes one unit or one thousand, and it is paid even at zero output. Rent, insurance and lease payments are the usual examples. Two creditable elements: no change with output, and payment whatever the units made.\n(b) Average fixed cost = fixed cost / output. Because the fixed payment does not change with output, dividing it by more units gives each unit a smaller share: at N$12 000 a month, 2 000 units carry N$6.00 each and 3 000 units carry N$4.00 each. The fall comes from the arithmetic of spreading, not from any input becoming cheaper - the firm pays the same total, so the figure per unit shrinks as the number of units grows. Where output falls again, the same arithmetic runs the other way and each unit carries more of the payment.\n(c) Starting point: a rise in the firm's fixed costs, such as its rent, with output and the variable cost per unit unchanged. Mechanism: because the payment is fixed, total cost rises at each output and average fixed cost rises with it; this causes average total cost per unit to rise by the same amount, since the variable side is untouched. Consequence: therefore the firm is likely to raise its prices, cut other spending or seek cheaper premises; where it raises prices, customers pay more for each bag of meal, and where it cuts spending, workers face shorter shifts, delayed hiring or cancelled training. For whom: the owners carry a smaller profit first; customers then face higher prices; workers face tighter budgets; and where the firm can pass none of the rise on, its survival margin narrows.\n(d) Why it might: profit is the margin that keeps a firm solvent and funds its future - retained profit pays for new premises and equipment - and a firm that covers its costs keeps its workers in posts. A firm that makes a large profit can cut prices, invest or wait out a hard season where rivals cannot, and lenders read that profit as safety. Why it might not: a firm set on the largest possible profit may pay its workers the least it can, charge customers the highest price they will bear and spend nothing on the community around it; each such choice can drive customers and workers away over time, and a young firm that put profit first could price itself out of the market it needs to build. Judgement: profit maximisation is a sound main objective for a secure firm facing rivals, because profit funds the other aims; the condition the judgement depends on is the firm's situation - its age, its competition and who owns it - since a firm fighting to survive, or a firm owned by a community, does well to put another aim first.",
+   "canonical_answer": "(a) A fixed cost is a cost that does not change with the level of output: the firm pays the same figure whether it makes one unit or one thousand, and it is paid even at zero output. Rent, insurance and lease payments are the usual examples.\n(b) Average fixed cost = fixed cost / output. Because the fixed payment does not change with output, dividing it by more units gives each unit a smaller share: at N$12 000 a month, 2 000 units carry N$6.00 each and 3 000 units carry N$4.00 each. The fall comes from the arithmetic of spreading, not from any input becoming cheaper - the firm pays the same total, so the figure per unit shrinks as the number of units grows. Where output falls again, the same arithmetic runs the other way and each unit carries more of the payment.\n(c) Suppose a fixed cost such as rent rises, with output and the variable cost per unit unchanged. Because the payment is fixed, total cost rises at each output and average fixed cost rises with it; this causes average total cost per unit to rise by the same amount, since the variable side is untouched. The firm is therefore likely to raise its prices, cut other spending or seek cheaper premises; where it raises prices, customers pay more for each bag of meal, and where it cuts spending, workers face shorter shifts, delayed hiring or cancelled training. The owners carry a smaller profit first; customers then face higher prices; workers face tighter budgets; and where the firm can pass none of the rise on, its survival margin narrows.\n(d) Why it might: profit is the margin that keeps a firm solvent and funds its future - retained profit pays for new premises and equipment - and a firm that covers its costs keeps its workers in posts. A firm that makes a large profit can cut prices, invest or wait out a hard season where rivals cannot, and lenders read that profit as safety. Why it might not: a firm set on the largest possible profit may pay its workers the least it can, charge customers the highest price they will bear and spend nothing on the community around it; each such choice can drive customers and workers away over time, and a young firm that put profit first could price itself out of the market it needs to build. Judgement: profit maximisation is a sound main objective for a secure firm facing rivals, because profit funds the other aims; the condition the judgement depends on is the firm's situation - its age, its competition and who owns it - since a firm fighting to survive, or a firm owned by a community, does well to put another aim first.",
    "marking_guidance": [
     "Parts: (a) 2 marks for two creditable elements of the definition; (b) 4 marks, one per distinct linked statement; (c) 6 marks, one per distinct linked statement with its reason carried; (d) 8 marks, level-marked over three bands.",
     "Bands for (d): Level 3 (top) examines why it might and why it might not, then reaches a judgement naming the condition it depends on; Level 2 develops one side or asserts a judgement without the condition; Level 1 offers fragments of either side.",
@@ -920,7 +954,9 @@
     "CLM-0455-3.7-013": 1,
     "CLM-0455-3.7-014": 1
    },
-   "authored_hash": "98ead8dd62beab641915130b9cc7583a4fe062fc7044e7f7358264b716467017"
+   "authored_hash": "1204bc1e18313e4fef7a224f10896b44a868454d68fc259a81afc5843339bb1b",
+   "prior_hash": "98ead8dd62beab641915130b9cc7583a4fe062fc7044e7f7358264b716467017",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked 'Two creditable elements' text and authoring labels, replaced 'new equilibrium' on a cost diagram with the finishing point, restored a dropped possessive"
   },
   {
    "item_id": "ITEM-0455-3.7-P04",

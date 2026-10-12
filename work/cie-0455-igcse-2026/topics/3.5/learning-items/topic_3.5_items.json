@@ -61,7 +61,7 @@
    "mark_tariff": 2,
    "difficulty": 2,
    "prompt": "Identify the main characteristics of the primary sector of production.",
-   "canonical_answer": "The primary sector is made up of firms that extract or grow raw materials: fishing off Walvis Bay, farming in the Otavi district, mining and forestry. Its characteristics are direct work on natural resources - catching, growing, digging - and output that usually feeds secondary firms for processing rather than reaching final buyers as it comes.",
+   "canonical_answer": "The primary sector is made up of firms that extract or grow raw materials, such as fishing, farming, mining and forestry. They work directly on natural resources, and their output usually goes to secondary firms for processing rather than straight to final buyers.",
    "marking_guidance": [
     "Characteristics: what it includes - extracting or growing raw materials, direct work on natural resources, and output that usually feeds secondary firms rather than final buyers - must be named."
    ],
@@ -80,7 +80,9 @@
    "claims_seen": {
     "CLM-0455-3.5-001": 1
    },
-   "authored_hash": "0e480f9ea098b345657f78896c66e57bcc42b7038b2848c4d0ec42d186ca15d8"
+   "authored_hash": "2564d4164ce2fa1c7aebd81352abee7386259a7ac479ee5827b7f358c6ecfe25",
+   "prior_hash": "0e480f9ea098b345657f78896c66e57bcc42b7038b2848c4d0ec42d186ca15d8",
+   "repair_note": "Review fix: rewrote economies of scale as gains from growing in scale (bulk buying, technical, financial, managerial), not fixed costs spread at one size; dairy now milks its own herd so its primary activity is real; trimmed flashcard answers; removed leaked labels; corrected cross-reference to topic 3.7"
   },
   {
    "item_id": "ITEM-0455-3.5-003-APP",
@@ -102,10 +104,10 @@
    "command_word": "Explain",
    "mark_tariff": 4,
    "difficulty": 2,
-   "prompt": "Otjiwa Dairy in Gobabis buys raw milk worth N$1.2 million a year from 40 surrounding farms, pasteurises it in its own plant into 400 000 tubs of yoghurt, and delivers the tubs to shops with a fleet of 6 vans. Using the figures, explain how the firm's activities are classified by sector of production.",
-   "canonical_answer": "The figures map onto the three sectors one activity at a time. The N$1.2 million of raw milk bought from farms is primary activity: the milk is a raw material grown by farming. The 400 000 tubs of yoghurt pasteurised in the plant is secondary activity: raw milk is processed into a finished good. The 6 vans delivering tubs to shops is tertiary activity: a service is supplied, moving the good to its sellers. Therefore the firm as a whole spans all three sectors, which means that classification by sector sorts a firm's activities one by one rather than pinning the whole firm to a single label.",
+   "prompt": "Otjiwa Dairy in Gobabis milks its own herd of 300 cows, producing raw milk worth N$1.2 million a year, pasteurises the milk in its own plant into 400 000 tubs of yoghurt, and delivers the tubs to shops with a fleet of 6 vans. Using the figures, explain how the firm's activities are classified by sector of production.",
+   "canonical_answer": "Each activity belongs to a sector. Producing N$1.2 million of raw milk from its own herd is primary activity, because farming produces a raw material. Turning the milk into 400 000 tubs of yoghurt is secondary activity, because a raw material is processed into a finished good. Delivering the tubs to shops with 6 vans is tertiary activity, because it is a service. Therefore the firm works in all three sectors, which means it is classified by sorting its activities one by one.",
    "marking_guidance": [
-    "Context: the figures must be used - the N$1.2 million of raw milk, the 400 000 tubs and the 6 vans.",
+    "Context: the figures must be used - the N$1.2 million of raw milk from its own herd, the 400 000 tubs and the 6 vans.",
     "Reasoning: the link from each activity to its sector must be given, because an activity named without being placed earns little.",
     "Conclusion: therefore the answer must close on what the figures together mean for how the firm is classified."
    ],
@@ -122,10 +124,12 @@
    "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-0455-3.5-003": 1,
+    "CLM-0455-3.5-003": 2,
     "CLM-0455-3.5-001": 1
    },
-   "authored_hash": "e5972c554ccdca7240b665db040991d1d2863990e2db29b1d57a7f6ed5af4b3d"
+   "authored_hash": "75b02a7b1e69bb94f340a4f676b0a99e381e6a5b6da29fd4249e668d42b347be",
+   "prior_hash": "e5972c554ccdca7240b665db040991d1d2863990e2db29b1d57a7f6ed5af4b3d",
+   "repair_note": "Review fix: rewrote economies of scale as gains from growing in scale (bulk buying, technical, financial, managerial), not fixed costs spread at one size; dairy now milks its own herd so its primary activity is real; trimmed flashcard answers; removed leaked labels; corrected cross-reference to topic 3.7"
   },
   {
    "item_id": "ITEM-0455-3.5-004-DEF",
@@ -146,7 +150,7 @@
    "mark_tariff": 2,
    "difficulty": 3,
    "prompt": "Define a small firm.",
-   "canonical_answer": "A small firm is a business that employs few workers, produces a small output and usually serves a local market, with the owner often managing directly. Because countries and industries draw the line in different places, the label rests on a measure - the number of workers, yearly sales or the capital the firm uses - rather than on one headcount fixed the same way everywhere.",
+   "canonical_answer": "A small firm employs few workers, produces a small output and usually serves a local market, often with the owner managing directly. Countries and industries draw the line differently, using measures such as the number of workers, yearly sales or capital employed.",
    "marking_guidance": [
     "Precise definition: the meaning must name the markers of smallness - few workers, small output, usually a local market - and may add that the line is drawn differently by different countries and industries."
    ],
@@ -165,7 +169,9 @@
    "claims_seen": {
     "CLM-0455-3.5-005": 1
    },
-   "authored_hash": "a3d21ee532db1d575e7ea0bc7cf15e590a3760feb38a2e8ccc608e28af6b2509"
+   "authored_hash": "1e2d9aaddc52943327883fe1ccad2ffd54dacd30a8d8c21e0b6441da1fe32bf5",
+   "prior_hash": "a3d21ee532db1d575e7ea0bc7cf15e590a3760feb38a2e8ccc608e28af6b2509",
+   "repair_note": "Review fix: rewrote economies of scale as gains from growing in scale (bulk buying, technical, financial, managerial), not fixed costs spread at one size; dairy now milks its own herd so its primary activity is real; trimmed flashcard answers; removed leaked labels; corrected cross-reference to topic 3.7"
   },
   {
    "item_id": "ITEM-0455-3.5-005-CHAIN",
@@ -187,7 +193,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "A large supermarket chain opens a store at the edge of Oshakati, close to the streets where the town's small shops trade. Analyse the likely effects of the opening on the small shopkeepers and their customers.",
-   "canonical_answer": "Starting point: the supermarket opens with bulk buying behind it, so its prices tend to sit below the small shops' and its range is wider under one roof. Mechanism: because shoppers respond to lower prices and one-stop convenience, spending that used to reach the small shops is likely to shift toward the supermarket, so the shops' revenue falls as customers drift away. Consequences: shopkeepers whose takings fall may cut their opening hours, lay off helpers or close; those who change what they do - longer hours, doorstep delivery, stock the supermarket does not carry - may hold enough trade to keep trading, so the effect differs between shops rather than landing evenly. For whom: customers gain lower prices and more choice while the shops stand; shopkeepers and their helpers carry the loss of trade; and the town's economy may see spending concentrate in one large firm where it used to spread across many small ones.",
+   "canonical_answer": "When the supermarket opens, bulk buying lets it price below the small shops, and it offers a wider range under one roof. Because shoppers respond to lower prices and one-stop convenience, spending is likely to shift away from the small shops, so their revenue falls. Some shopkeepers may cut opening hours, lay off helpers or close. Others may adapt by opening longer, delivering or stocking goods the supermarket does not carry, and keep enough trade to survive. Customers gain lower prices and more choice, shopkeepers and their helpers lose trade and income, and the town's spending becomes concentrated in one large firm instead of many small ones.",
    "marking_guidance": [
     "Starting point: the initial change - a supermarket opening with bulk-buy prices and a wider range - must be stated.",
     "Mechanism: because shoppers respond to price and convenience, this causes the shift in spending away from the small shops.",
@@ -210,7 +216,9 @@
     "CLM-0455-3.5-008": 1,
     "CLM-0455-3.5-006": 1
    },
-   "authored_hash": "c25d2350b34e6691562bcaaeed720ad478540e410d9895a8ad0413a77677e7fe"
+   "authored_hash": "2b2b675c748e65f3a24042e5c46687b0252aeb73e78adb253a6f5b1e68b6b58c",
+   "prior_hash": "c25d2350b34e6691562bcaaeed720ad478540e410d9895a8ad0413a77677e7fe",
+   "repair_note": "Review fix: rewrote economies of scale as gains from growing in scale (bulk buying, technical, financial, managerial), not fixed costs spread at one size; dairy now milks its own herd so its primary activity is real; trimmed flashcard answers; removed leaked labels; corrected cross-reference to topic 3.7"
   },
   {
    "item_id": "ITEM-0455-3.5-006-APP",
@@ -233,7 +241,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Marula Foods in Oshakati employs 6 workers, presses marula fruit into 9 000 bottles of juice a year, and sells them to 15 shops within 60 km of the plant; the owner manages the workers directly. Using the figures, explain why Marula Foods is classified as a small firm.",
-   "canonical_answer": "The figures fit each marker of a small firm. Few workers: 6 employees is a small workforce by any common measure, and the owner manages them directly rather than through layers of managers. Small output: 9 000 bottles a year is a modest production level for a drinks firm. Local market: the 15 shops all sit within 60 km, so the firm serves its own region rather than a national market. Therefore the firm matches the definition on all three measures at once, which means that its smallness is a pattern across workers, output and reach rather than a single number.",
+   "canonical_answer": "The figures fit each sign of a small firm. With 6 workers, the workforce is small, and the owner manages them directly rather than through layers of managers. Output of 9 000 bottles a year is modest for a drinks firm. All 15 shops it supplies are within 60 km, so it serves a local market rather than the whole country. Therefore Marula Foods is a small firm, because its workforce, output and market reach all point the same way.",
    "marking_guidance": [
     "Context: the figures must be used - 6 workers, 9 000 bottles a year and 15 shops within 60 km.",
     "Reasoning: the link from each figure to a marker of smallness must be given, because a figure quoted without its marker earns little.",
@@ -255,7 +263,9 @@
     "CLM-0455-3.5-005": 1,
     "CLM-0455-3.5-006": 1
    },
-   "authored_hash": "64c5936fa246f0f6ebc158b796d8a6ce5ee0c4adabfdcd0514d941c5f4332368"
+   "authored_hash": "c56481ebe5ffcd9bd44cdcd7a31dd22b2c63bd8748d7e65d7286d6dea10f42b8",
+   "prior_hash": "64c5936fa246f0f6ebc158b796d8a6ce5ee0c4adabfdcd0514d941c5f4332368",
+   "repair_note": "Review fix: rewrote economies of scale as gains from growing in scale (bulk buying, technical, financial, managerial), not fixed costs spread at one size; dairy now milks its own herd so its primary activity is real; trimmed flashcard answers; removed leaked labels; corrected cross-reference to topic 3.7"
   },
   {
    "item_id": "ITEM-0455-3.5-016-EVAL",
@@ -277,7 +287,7 @@
    "mark_tariff": 8,
    "difficulty": 5,
    "prompt": "Small firms employ few workers, and their wages tend to lag behind those of large firms. Discuss whether an economy gains more from its small firms than it loses.",
-   "canonical_answer": "Why it might: the argument for. Small firms create jobs in places large firms do not reach, and each one trains workers who may later start firms of their own; they keep spending circulating in local areas, and their niches add choice and services a large firm would not bother supplying. Why it might not: the argument against. Small firms tend to pay lower wages and offer less secure jobs than large firms; many close within a few years, taking their owners' savings with them; and their output per worker is usually lower, so the economy gets less from each person employed. Judgement: on balance the economy is likely to gain from its small firms while they exist - jobs, training, local spending and choice are real gains - and the losses fall mainly on the owners and workers of the firms that fail rather than on the economy as a whole. The condition: what settles it is how long the typical small firm survives and what its workers go on to do afterwards; where the workers of failed firms carry their training into new firms, the economy keeps the gain even after the firm that paid for it has gone.",
+   "canonical_answer": "The economy might gain more than it loses. Small firms create jobs where large firms do not operate, train workers who may later start their own firms, keep spending in local areas, and add choice by serving niches large firms ignore. It might not, because small firms tend to pay less and offer less secure jobs than large firms, many close within a few years and their owners lose their savings, and output per worker is usually lower. On balance, the economy is likely to gain from small firms while they exist, because jobs, training, local spending and choice are real gains, and the losses fall mainly on the owners and workers of the firms that fail. It depends on how long small firms usually survive and what their workers do next: if workers from failed firms carry their skills into new firms, the economy keeps the benefit even after the original firm closes.",
    "marking_guidance": [
     "Judgement: on balance the answer must reach a supported view, and it depends on weighing jobs, training and local spending against low wages and closures.",
     "Why it might: the argument for - jobs in places large firms do not reach, training, local spending, choice - must be developed.",
@@ -300,7 +310,9 @@
     "CLM-0455-3.5-007": 1,
     "CLM-0455-3.5-006": 1
    },
-   "authored_hash": "59a35a22d0a34d3b417806d411b1e9aaa6f39bf7f185621bd3cb2e0c62fb607c"
+   "authored_hash": "44049046cd502eed95c7ec95c66c105df6459d8ef0d13d53997af624e3eaac8e",
+   "prior_hash": "59a35a22d0a34d3b417806d411b1e9aaa6f39bf7f185621bd3cb2e0c62fb607c",
+   "repair_note": "Review fix: rewrote economies of scale as gains from growing in scale (bulk buying, technical, financial, managerial), not fixed costs spread at one size; dairy now milks its own herd so its primary activity is real; trimmed flashcard answers; removed leaked labels; corrected cross-reference to topic 3.7"
   },
   {
    "item_id": "ITEM-0455-3.5-007-DEF",
@@ -362,7 +374,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "Kaoko Juice in Opuwo, funded by retained profit and a bank loan, opens a second bottling line and takes on 30 more workers, raising yearly output from 240 000 litres to 500 000 litres. Analyse the likely effects of this internal growth on the firm and on its workers.",
-   "canonical_answer": "Starting point: the second line is installed, 30 workers join, and yearly output rises from 240 000 litres to 500 000 litres. Mechanism: because more capacity lets the firm supply more customers, revenue is likely to rise with output; and because the growth was funded from retained profit and a loan, part of the extra revenue is committed to repayments before any of it reaches the owners. Consequences: the firm's market position strengthens as supply grows, though managers who ran one line now run two, so decisions travel through more people and mistakes become costlier; the workers gain 30 jobs and clearer promotion paths, though the personal contact of a small workforce is harder to keep as the payroll lengthens. For whom: workers gain openings, the owners gain a larger firm carrying debt, and customers in the region gain a steadier supply; where the loan repayments outlast the extra revenue they funded, the firm carries the strain.",
+   "canonical_answer": "The new line and 30 workers raise yearly output from 240 000 to 500 000 litres. Because the firm can now supply more customers, its revenue is likely to rise. But because the growth was paid for with retained profit and a loan, part of the extra revenue must go on repayments before the owners benefit. The firm's market position improves, but managers now run two lines, so decisions involve more people and mistakes cost more. Workers gain 30 new jobs and better promotion chances, although close contact with the owner is harder to keep as the workforce grows. Customers gain a steadier supply, and if the extra revenue falls short of the repayments, the firm faces financial strain.",
    "marking_guidance": [
     "Starting point: the initial change - a second line, 30 more workers, output rising from 240 000 litres to 500 000 litres - must be stated.",
     "Mechanism: because capacity and finance shape what follows, this causes the divergence between rising revenue and committed repayments.",
@@ -385,7 +397,9 @@
     "CLM-0455-3.5-011": 1,
     "CLM-0455-3.5-010": 1
    },
-   "authored_hash": "f15fdfc95fce3c4b40a454194b3b5a7b2e2c7c6c9c9e5649be2d56b59ef398b5"
+   "authored_hash": "760af22a891c0290e3ead174d8237384db3775e885e73277a0d44cd6035bc25c",
+   "prior_hash": "f15fdfc95fce3c4b40a454194b3b5a7b2e2c7c6c9c9e5649be2d56b59ef398b5",
+   "repair_note": "Review fix: rewrote economies of scale as gains from growing in scale (bulk buying, technical, financial, managerial), not fixed costs spread at one size; dairy now milks its own herd so its primary activity is real; trimmed flashcard answers; removed leaked labels; corrected cross-reference to topic 3.7"
   },
   {
    "item_id": "ITEM-0455-3.5-009-APP",
@@ -408,7 +422,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Between 2024 and 2026 Kaoko Juice of Opuwo raised its sales from 240 000 litres of juice a year to 500 000 litres, entirely through a second bottling line of its own and 30 new workers; in those years the firm neither bought another firm nor agreed to combine with one. Using the figures, explain why this growth is classified as internal growth.",
-   "canonical_answer": "The figures show the firm growing without another firm joining it: sales rose from 240 000 litres to 500 000 litres, and in those years no firm was bought and no combination was agreed. That is the definition of internal growth - expansion from the firm's own resources, here a second bottling line and 30 new workers, paid for from within. The scale of the rise, more than doubling, shows the growth is a lasting change rather than a single good season, because the capacity behind it - the line and the workers - stays in place year after year. Therefore the classification turns on where the growth came from rather than on how large it is: output that rises through a firm's own resources is internal growth.",
+   "canonical_answer": "Sales rose from 240 000 to 500 000 litres a year, and the firm neither bought nor merged with another firm. The growth came from its own resources: a second bottling line and 30 new workers. That fits the definition of internal growth: expansion through the firm's own resources while it remains the same firm. Therefore the growth is internal because of where it came from, not because of its size, even though output more than doubled.",
    "marking_guidance": [
     "Context: the figures must be used - 240 000 litres rising to 500 000 litres, a second line, 30 new workers, and no firm bought or combined with.",
     "Reasoning: the link from the source of the growth to the classification must be given, because size alone does not settle internal against external.",
@@ -430,7 +444,9 @@
     "CLM-0455-3.5-009": 1,
     "CLM-0455-3.5-010": 1
    },
-   "authored_hash": "21d9e5c7af829fce16f13163830462de93a7fdc43aae6e868960bb50c1cb2f32"
+   "authored_hash": "0c3b554999db5d2d5adbef24669c8aa565fdd4f331ea56ad7187795ed3b45b3e",
+   "prior_hash": "21d9e5c7af829fce16f13163830462de93a7fdc43aae6e868960bb50c1cb2f32",
+   "repair_note": "Review fix: rewrote economies of scale as gains from growing in scale (bulk buying, technical, financial, managerial), not fixed costs spread at one size; dairy now milks its own herd so its primary activity is real; trimmed flashcard answers; removed leaked labels; corrected cross-reference to topic 3.7"
   },
   {
    "item_id": "ITEM-0455-3.5-010-DEF",
@@ -491,7 +507,7 @@
    "mark_tariff": 2,
    "difficulty": 2,
    "prompt": "Identify the main features of a takeover.",
-   "canonical_answer": "A takeover has three features: one firm buys control of another; the buyer and the target are different firms with different owners; and the bought firm usually keeps trading under new ownership rather than closing. It differs from a merger in that the initiative and the money come from a single buyer rather than from two firms agreeing as equals.",
+   "canonical_answer": "In a takeover, one firm buys control of another. The buyer and target are separate firms with different owners, and the bought firm usually keeps trading under new owners. Unlike a merger, one buyer drives the deal rather than two firms agreeing as equals.",
    "marking_guidance": [
     "Features: what it includes - one firm buying control of another, a buyer and a target with different owners, the bought firm continuing under new owners - must be named."
    ],
@@ -510,7 +526,9 @@
    "claims_seen": {
     "CLM-0455-3.5-012": 1
    },
-   "authored_hash": "23d1c8d8320499d88f146b44a870847ab6715dcaad9fa08877c0a992d2df64e9"
+   "authored_hash": "050f1c76017241b2f3d6d99ddaf39fbb9ab5aadc6ee2a8b974d535a45b04c181",
+   "prior_hash": "23d1c8d8320499d88f146b44a870847ab6715dcaad9fa08877c0a992d2df64e9",
+   "repair_note": "Review fix: rewrote economies of scale as gains from growing in scale (bulk buying, technical, financial, managerial), not fixed costs spread at one size; dairy now milks its own herd so its primary activity is real; trimmed flashcard answers; removed leaked labels; corrected cross-reference to topic 3.7"
   },
   {
    "item_id": "ITEM-0455-3.5-012-APP",
@@ -534,7 +552,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "Otavi's three bakeries became two in 2025 when the two larger ones merged into a single firm; before the merger one supplied 3 100 loaves a week and the other 1 900, and the merged bakery now supplies 5 200 loaves a week from one building. Within a year the town's bread price had risen from N$10 to N$12 a loaf. Using the figures, explain why the merger may have resulted in higher bread prices in Otavi.",
-   "canonical_answer": "The figures show the market losing a seller: the town's two largest bakeries became one, and the merged firm supplies 5 200 loaves a week from a single building where the two had supplied their loaves as rivals. When two rivals combine, the pressure of competition between them on price disappears, because one firm now sets the price its own two brands used to compete over. With the remaining bakery small beside it, the merged firm is likely to face less resistance to raising price, and the rise from N$10 to N$12 a loaf fits that weakened pressure. The merged firm wanted higher prices before the merger too - firms generally do - but the want is not the cause: what changed is the market, which lost a competing seller, so the same want met less resistance afterwards.",
+   "canonical_answer": "The merger turned the town's two largest bakeries, which had competed, into one firm supplying 5 200 loaves a week. Once rivals combine, competition between them no longer holds their prices down. With only one small bakery left beside it, the merged firm faces less resistance to a price rise, and the rise from N$10 to N$12 a loaf fits this. The bakeries wanted higher prices before the merger too; what changed was the market, which lost a competing seller.",
    "marking_guidance": [
     "Context: the figures must be used - 3 100 and 1 900 loaves a week before, 5 200 from one building after, and the N$10 to N$12 price.",
     "Reasoning: the link from losing a rival seller to weaker pressure on price must be given, because firms wanting higher prices explains nothing that changed at the merger.",
@@ -557,7 +575,9 @@
     "CLM-0455-3.5-014": 1,
     "CLM-0455-3.5-004": 1
    },
-   "authored_hash": "c6126ff951262e079d8c18f40218b3144c0bd042e8a2861706231669b680829d"
+   "authored_hash": "4bd88412f93441c6fee018e8a7a0313783feefe4f361aa15ffbae74268b38f45",
+   "prior_hash": "c6126ff951262e079d8c18f40218b3144c0bd042e8a2861706231669b680829d",
+   "repair_note": "Review fix: rewrote economies of scale as gains from growing in scale (bulk buying, technical, financial, managerial), not fixed costs spread at one size; dairy now milks its own herd so its primary activity is real; trimmed flashcard answers; removed leaked labels; corrected cross-reference to topic 3.7"
   },
   {
    "item_id": "ITEM-0455-3.5-013-DEF",
@@ -578,9 +598,9 @@
    "mark_tariff": 2,
    "difficulty": 2,
    "prompt": "Define economies of scale.",
-   "canonical_answer": "Economies of scale are the falls in a firm's average cost per unit that come as its output grows: as production rises, the cost of producing one unit tends to fall, because the firm's costs are spread over more units and its larger purchases earn better terms.",
+   "canonical_answer": "Economies of scale are the falls in average cost per unit that a firm gains as it grows larger, for example from bulk buying, specialised machinery, cheaper borrowing or specialist managers.",
    "marking_guidance": [
-    "Precise definition: the meaning must tie falling average cost per unit to rising output, distinguishing it from rising profit or larger revenue."
+    "Precise definition: the meaning must tie falling average cost per unit to the firm growing larger in scale, distinguishing it from rising profit or larger revenue, and from the same fixed costs merely being spread over more units at an unchanged size."
    ],
    "context": {
     "sector": null,
@@ -595,9 +615,11 @@
    "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-0455-3.5-015": 1
+    "CLM-0455-3.5-015": 2
    },
-   "authored_hash": "59be32f8cb6c340f7f7c87ca895b2c1389012178bd9a3c48dcc4d64a15615c6c"
+   "authored_hash": "b986458791242bedf6114c2c58d9cdecf6403a6bd8918f4dba5093a70c7d5972",
+   "prior_hash": "59be32f8cb6c340f7f7c87ca895b2c1389012178bd9a3c48dcc4d64a15615c6c",
+   "repair_note": "Review fix: rewrote economies of scale as gains from growing in scale (bulk buying, technical, financial, managerial), not fixed costs spread at one size; dairy now milks its own herd so its primary activity is real; trimmed flashcard answers; removed leaked labels; corrected cross-reference to topic 3.7"
   },
   {
    "item_id": "ITEM-0455-3.5-014-WHY",
@@ -618,7 +640,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "Explain why a firm's average costs may begin to rise again once it grows very large.",
-   "canonical_answer": "The reason is coordination. A very large firm runs through layers of departments: a decision that took one meeting when the firm was small may take several as each layer adds its approval, so management time goes on internal communication instead of production. Messages from the top reach the production line through more people, so instructions can arrive late or changed. Workers may come to feel like a small part of a very big process, and care and effort tend to fall with that feeling. Each difficulty raises the cost of running the firm without raising its output, so the average cost of one unit rises.",
+   "canonical_answer": "The reason is coordination. In a very large firm, decisions pass through layers of departments, so something that took one meeting may take several, and managers spend time on internal communication instead of production. Instructions pass through more people, so they may arrive late or changed. Workers may feel like a small part of a huge organisation, so their effort and care can fall. Each of these raises costs without raising output, so average cost per unit rises.",
    "marking_guidance": [
     "Reason: the answer must give causes - harder coordination, slower communication, weaker motivation - and link each to rising cost, because a list of difficulties with no cost consequence earns little."
    ],
@@ -637,7 +659,9 @@
    "claims_seen": {
     "CLM-0455-3.5-017": 1
    },
-   "authored_hash": "9b59b6ca9badf42ed614fc1bf1e03ffd5069d8b9cf1344320629756ce5c0baa7"
+   "authored_hash": "b8cebde349815e563a4032826baa49140a296672d087d649dd766b9caadee0ab",
+   "prior_hash": "9b59b6ca9badf42ed614fc1bf1e03ffd5069d8b9cf1344320629756ce5c0baa7",
+   "repair_note": "Review fix: rewrote economies of scale as gains from growing in scale (bulk buying, technical, financial, managerial), not fixed costs spread at one size; dairy now milks its own herd so its primary activity is real; trimmed flashcard answers; removed leaked labels; corrected cross-reference to topic 3.7"
   },
   {
    "item_id": "ITEM-0455-3.5-015-APP",
@@ -660,10 +684,10 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "Oshakati Textiles made 1 000 shirts a month at an average cost of N$40 a shirt. After a second production line opened, output reached 2 000 shirts a month and average cost fell to N$34 a shirt. Using the figures, explain why the firm's average cost per shirt fell as its output grew.",
-   "canonical_answer": "The figures show average cost falling by N$6 a shirt, from N$40 to N$34, as monthly output rose from 1 000 shirts to 2 000. The reason is that part of the firm's costs does not rise with output: rent and machines cost the firm about the same whether it makes 1 000 or 2 000 shirts, so doubling output halves the share of those costs each shirt carries. Bulk buying adds to the fall, because twice the cotton earns a better price from the supplier, and a line dedicated to shirts can justify a cutting machine a small output could not. Therefore the fall from N$40 to N$34 is the firm's economies of scale at work: costs spread over more shirts, better buying terms, and equipment that larger output alone makes worthwhile.",
+   "canonical_answer": "Opening a second line made the firm larger, and average cost fell by N$40 - N$34 = N$6 a shirt as output doubled from 1 000 to 2 000 shirts a month. Buying twice as much cotton earns a bulk discount from suppliers. A firm of this size can justify a specialised cutting machine that a small firm could not keep busy. Larger firms also tend to borrow more cheaply and can afford specialist managers. Therefore the N$6 fall shows economies of scale gained as the firm grew.",
    "marking_guidance": [
-    "Context: the figures must be used - N$40 falling to N$34, output 1 000 rising to 2 000 shirts a month.",
-    "Reasoning: the link from each cause - fixed costs spread over more shirts, bulk discounts, specialised equipment - to the N$6 fall must be given, because quoting the fall is not explaining it.",
+    "Context: the figures must be used - N$40 falling to N$34, output 1 000 rising to 2 000 shirts a month after a second line opened.",
+    "Reasoning: the link from each economy of scale - bulk buying, specialised equipment, cheaper finance, specialist management - to the N$6 fall must be given, because quoting the fall is not explaining it.",
     "Conclusion: therefore the answer must close on what the figures together show about economies of scale."
    ],
    "context": {
@@ -679,10 +703,12 @@
    "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-0455-3.5-016": 1,
-    "CLM-0455-3.5-015": 1
+    "CLM-0455-3.5-016": 2,
+    "CLM-0455-3.5-015": 2
    },
-   "authored_hash": "536698954b1b23c8c18af51993709081e48ff3415671e036d0cdffbd2875228d"
+   "authored_hash": "29c30940d5295c94a5fc387debe0ca1c612ffa111b3c84a5b0e344dad9bd8559",
+   "prior_hash": "536698954b1b23c8c18af51993709081e48ff3415671e036d0cdffbd2875228d",
+   "repair_note": "Review fix: rewrote economies of scale as gains from growing in scale (bulk buying, technical, financial, managerial), not fixed costs spread at one size; dairy now milks its own herd so its primary activity is real; trimmed flashcard answers; removed leaked labels; corrected cross-reference to topic 3.7"
   },
   {
    "item_id": "ITEM-0455-3.5-P01",
@@ -713,8 +739,8 @@
    "command_word": null,
    "mark_tariff": null,
    "difficulty": 3,
-   "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. A firm catches fish at Walvis Bay, cans the catch in its own plant and sells the cans through its own shop. The whole firm is best described as:\nA  a secondary firm, because canning is its largest activity\nB  a firm working in the primary, secondary and tertiary sectors at once\nC  a primary firm, because fishing is where the product starts\nD  a tertiary firm, because selling is what the customer sees\n\n2. A firm owned by the government and run on its behalf is best described as:\nA  a state-owned firm\nB  a private-sector firm\nC  a merged firm\nD  a firm with economies of scale\n\n3. Which measure is most often used to decide that a firm is small?\nA  the age of the firm\nB  the number of its workers\nC  the number of products it sells\nD  the town it trades in\n\n4. Two rival bakeries in one town merge, and the price of bread rises in the following year. The best economic explanation is:\nA  the merged firm wants higher prices, as firms generally do\nB  the merger removed one of the town's competing sellers, so the pressure of rivalry on price weakened\nC  the government's approval of the merger required the price rise\nD  the merged firm's shop is larger, and large shops charge more\n\n5. A firm opens a second branch using its retained profit. This is an example of:\nA  a merger\nB  a takeover\nC  internal growth\nD  diseconomies of scale\n\n6. A firm's output rises from 4 000 units to 8 000 units and its average cost per unit falls. This is:\nA  economies of scale\nB  diseconomies of scale\nC  external growth\nD  classification by sector\n\n7. Which is most likely to raise a firm's average cost as it grows very large?\nA  fixed costs spread over more units\nB  bulk-buying discounts from suppliers\nC  slower communication through more layers of management\nD  workers specialising in one task\n\n8. Small firms often survive beside large ones because:\nA  they pay their workers more than large firms do\nB  they offer personal service and niches large firms find hard to copy\nC  their average costs are usually lower than those of large firms\nD  governments close large firms to protect them",
-   "canonical_answer": "Key: 1 B, 2 A, 3 B, 4 B, 5 C, 6 A, 7 C, 8 B.\n1. B - the activities span the three sectors; A, C and D each pick the sector of one activity and treat it as the whole firm, which is the error of classifying by the biggest or the first activity instead of sorting the activities one by one.\n2. A - government ownership defines the state-owned firm; B reverses the ownership, C confuses a merger with a form of ownership, D confuses a cost level with an ownership type.\n3. B - the worker headcount is the common measure; A, C and D name features that do not measure size.\n4. B - the merger removed a rival seller, so the pressure of rivalry on price weakened; A is the confusion this question exists to catch - wanting higher prices is a motive the firms had before the merger, and a want explains nothing that changed afterwards; C invents a rule that approval does not carry; D treats shop size as a cause of price.\n5. C - expansion from the firm's own resources is internal growth; A and B need another firm to join or be bought, D names rising costs, which is not growth at all.\n6. A - average cost falling as output rises is the definition of economies of scale; B reverses it, C names a way of growing rather than a cost outcome, D is a sorting exercise, not a cost change.\n7. C - more layers slow decisions and raise the cost of running the firm; A and B are causes of falling average cost, so they are the opposite of what the question asks; D is a source of savings, not of rising cost.\n8. B - personal service and narrow niches are what large firms find hard to copy; A reverses the usual wage pattern, C contradicts the cost advantage that scale usually brings, D invents a policy the question never states.",
+   "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. A firm catches fish at Walvis Bay, cans the catch in its own plant and sells the cans through its own shop. The whole firm is best described as:\nA  a secondary firm, because canning is its largest activity\nB  a firm working in the primary, secondary and tertiary sectors at once\nC  a primary firm, because fishing is where the product starts\nD  a tertiary firm, because selling is what the customer sees\n\n2. A firm owned by the government and run on its behalf is best described as:\nA  a state-owned firm\nB  a private-sector firm\nC  a merged firm\nD  a firm with economies of scale\n\n3. Which measure is most often used to decide that a firm is small?\nA  the age of the firm\nB  the number of its workers\nC  the number of products it sells\nD  the town it trades in\n\n4. Two rival bakeries in one town merge, and the price of bread rises in the following year. The best economic explanation is:\nA  the merged firm wants higher prices, as firms generally do\nB  the merger removed one of the town's competing sellers, so the pressure of rivalry on price weakened\nC  the government's approval of the merger required the price rise\nD  the merged firm's shop is larger, and large shops charge more\n\n5. A firm opens a second branch using its retained profit. This is an example of:\nA  a merger\nB  a takeover\nC  internal growth\nD  diseconomies of scale\n\n6. A firm's output rises from 4 000 units to 8 000 units and its average cost per unit falls. This is:\nA  economies of scale\nB  diseconomies of scale\nC  external growth\nD  classification by sector\n\n7. Which is most likely to raise a firm's average cost as it grows very large?\nA  cheaper borrowing as banks lend to a larger firm\nB  bulk-buying discounts from suppliers\nC  slower communication through more layers of management\nD  workers specialising in one task\n\n8. Small firms often survive beside large ones because:\nA  they pay their workers more than large firms do\nB  they offer personal service and niches large firms find hard to copy\nC  their average costs are usually lower than those of large firms\nD  governments close large firms to protect them",
+   "canonical_answer": "Key: 1 B, 2 A, 3 B, 4 B, 5 C, 6 A, 7 C, 8 B.\n1. B - the activities span the three sectors; A, C and D each pick the sector of one activity and treat it as the whole firm, which is the error of classifying by the biggest or the first activity instead of sorting the activities one by one.\n2. A - government ownership defines the state-owned firm; B reverses the ownership, C confuses a merger with a form of ownership, D confuses a cost level with an ownership type.\n3. B - the worker headcount is the common measure; A, C and D name features that do not measure size.\n4. B - the merger removed a rival seller, so the pressure of rivalry on price weakened; A is the confusion this question exists to catch - wanting higher prices is a motive the firms had before the merger, and a want explains nothing that changed afterwards; C invents a rule that approval does not carry; D treats shop size as a cause of price.\n5. C - expansion from the firm's own resources is internal growth; A and B need another firm to join or be bought, D names rising costs, which is not growth at all.\n6. A - average cost falling as output rises is the definition of economies of scale; B reverses it, C names a way of growing rather than a cost outcome, D is a sorting exercise, not a cost change.\n7. C - more layers slow decisions and raise the cost of running the firm; A and B are economies of scale, which lower average cost, so they are the opposite of what the question asks; D is a source of savings, not of rising cost.\n8. B - personal service and narrow niches are what large firms find hard to copy; A reverses the usual wage pattern, C contradicts the cost advantage that scale usually brings, D invents a policy the question never states.",
    "marking_guidance": [
     "Key: one mark per question, eight in total; the correct option for each is listed and each distractor is explained as the specific misunderstanding it catches.",
     "Every distractor traces to a named error: a firm classed by one activity instead of its activities, ownership confused with growth or costs, a want mistaken for a market change, scale economies confused with diseconomies."
@@ -737,11 +763,13 @@
     "CLM-0455-3.5-005": 1,
     "CLM-0455-3.5-006": 1,
     "CLM-0455-3.5-009": 1,
-    "CLM-0455-3.5-015": 1,
-    "CLM-0455-3.5-016": 1,
+    "CLM-0455-3.5-015": 2,
+    "CLM-0455-3.5-016": 2,
     "CLM-0455-3.5-017": 1
    },
-   "authored_hash": "bace0702cd14b55158fb46421fe1b838c08b204d9bbc8ac0c54ae8ccc0e5121d"
+   "authored_hash": "0d1edaca9771f20622c5bc9371ca346cd7b2daca07d68de97a4bfb1a35765eae",
+   "prior_hash": "bace0702cd14b55158fb46421fe1b838c08b204d9bbc8ac0c54ae8ccc0e5121d",
+   "repair_note": "Review fix: rewrote economies of scale as gains from growing in scale (bulk buying, technical, financial, managerial), not fixed costs spread at one size; dairy now milks its own herd so its primary activity is real; trimmed flashcard answers; removed leaked labels; corrected cross-reference to topic 3.7"
   },
   {
    "item_id": "ITEM-0455-3.5-P02",
@@ -769,7 +797,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "A report in the Windhoek Courier, February 2026: \"In January the Etosha region's two lodge groups, Etosha Gate Lodge and Ombika Rest Camp, merged into a single firm, Gate and Ombika Lodges. The combined firm shut two of its eight buildings and moved their guests into the remaining six. Managers say one booking office, a shared laundry and bulk food buying have cut costs. Guest associations report that the average room rate rose from N$900 to N$1 050 a night this season, and two Windhoek travel agencies say a larger share of bookings now runs through the merged firm.\"\n\nTable 1 - the two lodge firms and the merged firm\n  guests in 2025: Etosha Gate Lodge 12 000, Ombika Rest Camp 8 000\n  workers in 2025: Etosha Gate Lodge 340, Ombika Rest Camp 260\n  average cost per guest in 2025: Etosha Gate Lodge N$700, Ombika Rest Camp N$760\n  average cost per guest in 2026, merged firm: N$640\n  average room rate per night: N$900 in 2025, N$1 050 in 2026\n  workers in 2026, merged firm: 540\n\n(a) Calculate the combined number of guests the two lodges received in 2025. [1]\n(b) Identify from Table 1 the average cost per guest of the merged firm in 2026. [2]\n(c) Explain why the merged firm's average cost per guest may have fallen. [4]\n(d) Analyse what the data suggests about the effects of the merger on guests, workers and the region's other tourism firms. [6]",
-   "canonical_answer": "(a) Formula: combined guests = guests of one lodge + guests of the other. Substitution: 12 000 + 8 000 = 20 000. Answer with units: 20 000 guests in 2025.\n(b) From Table 1, the merged firm's average cost per guest in 2026 was N$640.\n(c) The merged firm runs six buildings where eight stood, with one booking office, a shared laundry and bulk food buying. Each of these spreads the firm's costs over the same guests: one office where two ran means the office costs are paid once rather than twice, and bulk buying earns supplier discounts that single lodges were too small to command. Where fewer buildings serve the guests, each guest carries a smaller share of the running costs, so the average cost per guest may fall - and the data shows it falling from N$700 and N$760 to N$640, which fits the cost savings the managers describe.\n(d) Expected relationship: a merger that cuts average cost tends to help the merged firm, while removing a rival seller tends to weaken the pressure on prices, so guests may face higher rates while the firm gains. Evidence: average cost per guest fell from N$700 and N$760 to N$640; the average room rate rose from N$900 to N$1 050 a night, N$150 more; the workforce fell from 600 workers in 2025 to 540 in 2026, which is 600 - 540 = 60 workers fewer; and the agencies report bookings shifting toward the merged firm. Analysis: for the firm, the N$640 average cost against a rising room rate widens the margin on each guest, so profit per guest is likely to rise; for guests, the higher rate makes a night in the region dearer; for workers, 60 fewer jobs concentrates employment in one firm; for the other tourism firms, the shift in bookings suggests rivals are losing trade to a larger competitor with lower average costs. Exception: the data cannot separate the merger's effect from the market's - where demand in the region was already weakening, part of the higher rate and the fewer jobs may reflect fewer visitors rather than the merger alone.",
+   "canonical_answer": "(a) Combined guests = 12 000 + 8 000 = 20 000 guests in 2025.\n(b) From Table 1, the merged firm's average cost per guest in 2026 was N$640.\n(c) The merged firm is larger than either lodge was, so it can gain economies of scale. Buying food in bulk for all its guests earns supplier discounts that each lodge was too small to command. One booking office and a shared laundry replace two of each, so the firm needs fewer staff and machines to serve the same guests. Moving guests from eight buildings into six means each building it keeps is used more fully. Each saving cuts cost without cutting the number of guests served, so the average cost per guest may fall - and the data show it falling from N$700 and N$760 to N$640, which fits the savings the managers describe.\n(d) A merger that cuts average cost tends to help the merged firm, while removing a rival seller tends to weaken the pressure on prices, so guests may face higher rates while the firm gains. The data fit this: average cost per guest fell from N$700 and N$760 to N$640; the average room rate rose from N$900 to N$1 050 a night, N$150 more; the workforce fell from 600 workers in 2025 to 540 in 2026, which is 600 - 540 = 60 workers fewer; and the agencies report bookings shifting toward the merged firm. For the firm, the N$640 average cost against a rising room rate widens the margin on each guest, so profit per guest is likely to rise; for guests, the higher rate makes a night in the region dearer; for workers, 60 fewer jobs concentrates employment in one firm; for the other tourism firms, the shift in bookings suggests rivals are losing trade to a larger competitor with lower average costs. However, the data cannot separate the merger's effect from the market's - where demand in the region was already weakening, part of the higher rate and the fewer jobs may reflect fewer visitors rather than the merger alone.",
    "marking_guidance": [
     "Parts and marks: (a) 1 mark for the correct calculation with units, (b) 2 marks for the figure read from Table 1, (c) 4 marks for the explanation, (d) 6 marks for the analysis using the data as evidence.",
     "Reasoning: in (c) and (d) one mark per distinct linked statement; quoting a figure on its own is description, not analysis - the relationship must be stated and the reason given.",
@@ -797,10 +825,12 @@
     "CLM-0455-3.5-012": 1,
     "CLM-0455-3.5-013": 1,
     "CLM-0455-3.5-014": 1,
-    "CLM-0455-3.5-015": 1,
-    "CLM-0455-3.5-016": 1
+    "CLM-0455-3.5-015": 2,
+    "CLM-0455-3.5-016": 2
    },
-   "authored_hash": "ecc6c1623c546cc8c4ec1fca40f035063b7f57c0f8aa9bd816647029cf1f45bc"
+   "authored_hash": "c44f3f120504e9a3943b8b9ae4dd56eefa0e996921a094872d097cbb8107e073",
+   "prior_hash": "ecc6c1623c546cc8c4ec1fca40f035063b7f57c0f8aa9bd816647029cf1f45bc",
+   "repair_note": "Review fix: rewrote economies of scale as gains from growing in scale (bulk buying, technical, financial, managerial), not fixed costs spread at one size; dairy now milks its own herd so its primary activity is real; trimmed flashcard answers; removed leaked labels; corrected cross-reference to topic 3.7"
   },
   {
    "item_id": "ITEM-0455-3.5-P03",
@@ -829,7 +859,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "(a) Define a takeover. [2]\n(b) Explain why a firm may prefer to grow by opening new branches of its own rather than by merging with a rival. [4]\n(c) Analyse the likely effects on a firm's workers of rapid internal growth - output doubling within two years. [6]\n(d) Discuss whether the growth of a firm benefits its customers. [8]",
-   "canonical_answer": "(a) A takeover is the purchase by one firm of control of another: the buyer decides to buy, and the bought firm usually keeps trading under new owners. It differs from a merger because the initiative comes from a single buyer rather than from an agreement between equals.\n(b) Opening its own branches keeps the firm's decisions in its own hands: it chooses the sites, hires its own workers and keeps its own working habits, whereas a merger joins a partner's managers, methods and difficulties to the firm's own. Branch growth also comes in steps: each branch opens when the firm can pay for it, so the risk arrives gradually, whereas a merger commits the whole firm at once and unwinding a poor merger is slow. Where the firm values its way of working, staying itself is itself a reason.\n(c) Starting point: output doubles within two years through the firm's own expansion. Mechanism: because doubling output means many new hires at once, new workers are likely to arrive faster than the firm's routines can absorb them, so training stretches and supervision thins; and because growth is usually funded from retained profit and loans, managers divide their attention between running the new capacity and protecting the repayments. Consequences: workers gain openings and promotion paths that a static firm cannot offer, while existing workers carry heavier training and supervision duties; the informality of a small workforce fades as layers appear between the owner and the line, and where repayments squeeze the budget, wages may be held back while the debt is cleared. For whom: new workers gain jobs, existing workers gain chances and burdens together, and managers carry the strain of holding the bigger firm together.\n(d) Why it might: growing output tends to lower average costs, and where the firm passes the saving on, customers pay less; a larger firm may also supply more reliably and offer a wider range. Why it might not: growth by merger can remove a rival and weaken the pressure on prices, so customers pay more where alternatives are few; and growth that outruns management raises costs again, so customers may meet a firm that is bigger but slower and less personal. Judgement: on balance customers tend to gain where growth lowers costs and the market still holds rival sellers, and tend to lose where growth removes competitors. The condition: what settles it is what the growth does to the number of sellers and whether the cost savings reach prices - the customers' gain is decided by competition, not by size alone.",
+   "canonical_answer": "(a) A takeover is the purchase by one firm of control of another: the buyer decides to buy, and the bought firm usually keeps trading under new owners. It differs from a merger because the initiative comes from a single buyer rather than from an agreement between equals.\n(b) Opening its own branches keeps the firm's decisions in its own hands: it chooses the sites, hires its own workers and keeps its own working habits, whereas a merger joins a partner's managers, methods and difficulties to the firm's own. Branch growth also comes in steps: each branch opens when the firm can pay for it, so the risk arrives gradually, whereas a merger commits the whole firm at once and unwinding a poor merger is slow. Where the firm values its way of working, staying itself is itself a reason.\n(c) Output doubles within two years through the firm's own expansion. Because doubling output means many new hires at once, new workers are likely to arrive faster than the firm's routines can absorb them, so training stretches and supervision thins; and because growth is usually funded from retained profit and loans, managers divide their attention between running the new capacity and protecting the repayments. Workers gain openings and promotion paths that a static firm cannot offer, while existing workers carry heavier training and supervision duties; the informality of a small workforce fades as layers appear between the owner and the line, and where repayments squeeze the budget, wages may be held back while the debt is cleared. New workers gain jobs, existing workers gain chances and burdens together, and managers carry the strain of holding the bigger firm together.\n(d) Why it might: growing output tends to lower average costs, and where the firm passes the saving on, customers pay less; a larger firm may also supply more reliably and offer a wider range. Why it might not: growth by merger can remove a rival and weaken the pressure on prices, so customers pay more where alternatives are few; and growth that outruns management raises costs again, so customers may meet a firm that is bigger but slower and less personal. Judgement: on balance customers tend to gain where growth lowers costs and the market still holds rival sellers, and tend to lose where growth removes competitors. What settles it is what the growth does to the number of sellers and whether the cost savings reach prices - the customers' gain is decided by competition, not by size alone.",
    "marking_guidance": [
     "Parts and marks: (a) 2 marks for the definition, (b) 4 marks for the explanation, (c) 6 marks for the analysis, (d) 8 marks level-marked over three bands.",
     "Context: (b) must weigh internal growth against merging, using the contrasts between them - control, habits, risk arriving in steps against all at once.",
@@ -858,7 +888,9 @@
     "CLM-0455-3.5-013": 1,
     "CLM-0455-3.5-014": 1
    },
-   "authored_hash": "52e07e5c1a77b3d71b3d7c84849150c3cde523d13e389a7d871a4e68ec3332ea"
+   "authored_hash": "d7db6f92ce57ffdd5e4f12ff7977e21fb96c782a1cae304e585bd059ab82da53",
+   "prior_hash": "52e07e5c1a77b3d71b3d7c84849150c3cde523d13e389a7d871a4e68ec3332ea",
+   "repair_note": "Review fix: rewrote economies of scale as gains from growing in scale (bulk buying, technical, financial, managerial), not fixed costs spread at one size; dairy now milks its own herd so its primary activity is real; trimmed flashcard answers; removed leaked labels; corrected cross-reference to topic 3.7"
   },
   {
    "item_id": "ITEM-0455-3.5-P04",
@@ -884,7 +916,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "Plan an answer to: \"Discuss whether a firm that keeps growing is likely to keep gaining from lower average costs.\" Use economies and diseconomies of scale in your plan. Do not write the essay; produce the plan.",
-   "canonical_answer": "Case for (the savings continue while coordination holds):\nChain 1: output grows -> fixed costs spread over more units and bulk buying earns discounts -> average cost per unit falls -> the firm can charge less, win more customers, or keep a wider margin on each unit (for whom: customers may pay less; owners keep more profit per unit).\nChain 2: larger output justifies specialised equipment -> each unit is made with better tools -> average cost falls further (for whom: the firm gains against rivals still using general machines).\nCase against (the savings reach a limit):\nChain 3: the firm grows past the size its management coordinates -> decisions pass through more layers and arrive late -> mistakes and idle time raise the cost of running the firm -> average cost per unit starts rising again (for whom: managers carry the coordination strain; workers' effort tends to fall as they feel smaller in a bigger process).\nJudgement: a firm is likely to keep gaining from lower average costs while its growth stays within the range its management can coordinate. The condition the judgement depends on is management's reach: where coordination, communication and motivation hold, the savings continue; where they fail, diseconomies return and each extra unit costs more to make.",
+   "canonical_answer": "Case for (the savings continue while coordination holds):\nChain 1: the firm grows -> bulk buying earns discounts and larger loans come at lower interest -> average cost per unit falls -> the firm can charge less, win more customers, or keep a wider margin on each unit (for whom: customers may pay less; owners keep more profit per unit).\nChain 2: larger output justifies specialised equipment -> each unit is made with better tools -> average cost falls further (for whom: the firm gains against rivals still using general machines).\nCase against (the savings reach a limit):\nChain 3: the firm grows past the size its management coordinates -> decisions pass through more layers and arrive late -> mistakes and idle time raise the cost of running the firm -> average cost per unit starts rising again (for whom: managers carry the coordination strain; workers' effort tends to fall as they feel smaller in a bigger process).\nJudgement: a firm is likely to keep gaining from lower average costs while its growth stays within the range its management can coordinate. The condition the judgement depends on is management's reach: where coordination, communication and motivation hold, the savings continue; where they fail, diseconomies return and each extra unit costs more to make.",
    "marking_guidance": [
     "A plan, not an essay: the chains and the stated judgement are what is assessed.",
     "Criterion: the decisive factor is whether the firm's management can coordinate the larger output.",
@@ -906,11 +938,13 @@
    "qa_status": "review_required",
    "claims_seen": {
     "CLM-0455-3.5-010": 1,
-    "CLM-0455-3.5-015": 1,
-    "CLM-0455-3.5-016": 1,
+    "CLM-0455-3.5-015": 2,
+    "CLM-0455-3.5-016": 2,
     "CLM-0455-3.5-017": 1
    },
-   "authored_hash": "3f321f31c6ab04b73dd7ebe8a1f130f52f0b909ed8eec27caa74176baeba4589"
+   "authored_hash": "ba760c42c6147219f3ffba2cb40c88ef4181e885c1b20b1b8e8faf29e3913e39",
+   "prior_hash": "3f321f31c6ab04b73dd7ebe8a1f130f52f0b909ed8eec27caa74176baeba4589",
+   "repair_note": "Review fix: rewrote economies of scale as gains from growing in scale (bulk buying, technical, financial, managerial), not fixed costs spread at one size; dairy now milks its own herd so its primary activity is real; trimmed flashcard answers; removed leaked labels; corrected cross-reference to topic 3.7"
   }
  ]
 }

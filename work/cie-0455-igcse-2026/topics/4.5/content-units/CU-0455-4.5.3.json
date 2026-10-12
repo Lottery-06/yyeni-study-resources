@@ -20,20 +20,22 @@
    "block_id": "4.5.3-b1",
    "block_type": "learner_objective",
    "heading": "What this section covers",
-   "text": "Trace the effects of supply-side measures on the government's macroeconomic aims - growth, employment, price stability and the external position - and weigh the trade-offs between them.",
+   "text": "Trace the effects of supply-side measures on the government's macroeconomic aims - growth, employment, price stability, the external position and the distribution of income - and weigh the trade-offs between them.",
    "claim_ids": [],
    "context_tags": [],
    "assessment_objectives": [
     "AO1"
    ],
    "claims_seen": {},
-   "authored_hash": "a8a0480b68c7d47965b39ab36025a3060d1198055bad5dbf3ef5476e00c64293"
+   "authored_hash": "48206bdffef186010f75212a24ac4883e3525c482129a7079c7baf255b39f377",
+   "prior_hash": "a8a0480b68c7d47965b39ab36025a3060d1198055bad5dbf3ef5476e00c64293",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; leaked authoring labels removed; 40-day registration figures marked as invented; fifth macroeconomic aim (distribution of income) added to claim 012 and unit 4.5.3; prompt 4.5-009 reworded."
   },
   {
    "block_id": "4.5.3-b2",
    "block_type": "plain_explanation",
    "heading": "Which aims the measures move",
-   "text": "The macroeconomic aims are those of topic 4.2: growth in total output, employment, price stability and a sound external position. Supply-side measures tend to serve them through one channel: the economy's capacity to produce. A more productive workforce tends to mean more total output, so the growth aim is served. Workers who produce more tend to be easier to employ profitably, so the employment aim gains. Where the economy can produce more for the same effort, pressure on prices tends to ease, and a leaner cost base tends to make exports easier to sell abroad, serving the external position.",
+   "text": "The macroeconomic aims are those of topic 4.2: growth in total output, employment, price stability, a sound external position and a fairer distribution of income. Supply-side measures tend to serve the first four through one channel: the economy's capacity to produce. A more productive workforce tends to mean more total output, so the growth aim is served. Workers who produce more tend to be easier to employ profitably, so the employment aim gains. Where the economy can produce more for the same effort, pressure on prices tends to ease, and a leaner cost base tends to make exports easier to sell abroad, serving the external position. The effect on the distribution of income depends on the measure: training can lift the pay of lower-skilled workers, while lower direct taxes tend to give most to those who earn most and may widen the gap.",
    "claim_ids": [
     "CLM-0455-4.5-009",
     "CLM-0455-4.5-010",
@@ -46,15 +48,17 @@
    "claims_seen": {
     "CLM-0455-4.5-009": 1,
     "CLM-0455-4.5-010": 1,
-    "CLM-0455-4.5-012": 1
+    "CLM-0455-4.5-012": 2
    },
-   "authored_hash": "24c5501ecd056059437e8a121a904ab1c2778880c12e7d3c48548a85ea3b5075"
+   "authored_hash": "d582738dbc45ca52962bbb0804238b4e83a43ae161e1d3ae9e8584a4b672c7e7",
+   "prior_hash": "24c5501ecd056059437e8a121a904ab1c2778880c12e7d3c48548a85ea3b5075",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; leaked authoring labels removed; 40-day registration figures marked as invented; fifth macroeconomic aim (distribution of income) added to claim 012 and unit 4.5.3; prompt 4.5-009 reworded."
   },
   {
    "block_id": "4.5.3-b3",
    "block_type": "analysis_chain",
    "heading": "A training programme traced to the aims",
-   "text": "Suppose the government funds a welding course in Otavi, and 200 trainees raise their output per worker by a fifth. Mechanism: each trained worker produces more, so firms in Otavi can fill larger orders without taking on more machines; total output rises, serving growth. Because the trained welders generate more revenue per hour, firms tend to offer more hours and take on more of them, serving employment. Where local firms can quote lower prices from lower costs per unit, buyers gain and pressure on prices eases, serving price stability. Against this, the course costs public money now, while its gains build over years - the trade-off the government weighs.",
+   "text": "Suppose the government funds a welding course in Otavi, and 200 trainees raise their output per worker by a fifth. Each trained worker produces more, so firms in Otavi can fill larger orders without taking on more machines; total output rises, serving growth. Because the trained welders generate more revenue per hour, firms tend to offer more hours and take on more of them, serving employment. Where local firms can quote lower prices from lower costs per unit, buyers gain and pressure on prices eases, serving price stability. Against this, the course costs public money now, while its gains build over years - the trade-off the government weighs.",
    "claim_ids": [
     "CLM-0455-4.5-009",
     "CLM-0455-4.5-010",
@@ -69,7 +73,9 @@
     "CLM-0455-4.5-010": 1,
     "CLM-0455-4.5-011": 1
    },
-   "authored_hash": "c76faf33b418784282e1f400a07f39edc564c36f1263c24013c7fad98f0e8a42"
+   "authored_hash": "b7186c8b2e8c06afc35755e693873b1cdd40ab5c82412f54ae0a2dd47afadf95",
+   "prior_hash": "c76faf33b418784282e1f400a07f39edc564c36f1263c24013c7fad98f0e8a42",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; leaked authoring labels removed; 40-day registration figures marked as invented; fifth macroeconomic aim (distribution of income) added to claim 012 and unit 4.5.3; prompt 4.5-009 reworded."
   },
   {
    "block_id": "4.5.3-b4",
@@ -104,9 +110,11 @@
     "AO1"
    ],
    "claims_seen": {
-    "CLM-0455-4.5-012": 1
+    "CLM-0455-4.5-012": 2
    },
-   "authored_hash": "36a0ca3ed21eed5b269fa5b5cafa69abf8cb8db8fd0cb01379590ed90c6841fd"
+   "authored_hash": "36a0ca3ed21eed5b269fa5b5cafa69abf8cb8db8fd0cb01379590ed90c6841fd",
+   "reviewed_unchanged": "Claim CLM-0455-4.5-012 revised to add the fifth aim, the distribution of income; this text names no list of aims and needed no change.",
+   "prior_hash": "36a0ca3ed21eed5b269fa5b5cafa69abf8cb8db8fd0cb01379590ed90c6841fd"
   }
  ],
  "word_count": 384

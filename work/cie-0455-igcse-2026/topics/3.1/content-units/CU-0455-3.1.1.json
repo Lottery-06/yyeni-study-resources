@@ -85,7 +85,7 @@
    "block_id": "3.1.1-b5",
    "block_type": "misconception",
    "heading": "Two lists, not one",
-   "text": "The register of common errors records learners mixing the characteristics of money with the functions of money; they are different lists. The functions are what money does in an exchange: medium of exchange, unit of account, store of value. The characteristics are what money has to be to do those jobs: acceptable, durable, portable, divisible, uniform, scarce. The test is to ask 'is it' or 'does it': 'it passes from buyer to seller' names a function, while 'it survives being passed around' names a characteristic. A learner who answers a characteristics question with 'medium of exchange' has quoted the wrong list.",
+   "text": "Learners often mix up the characteristics of money and the functions of money, but they are different lists. The functions are what money does in an exchange: medium of exchange, unit of account, store of value. The characteristics are what money has to be to do those jobs: acceptable, durable, portable, divisible, uniform, scarce. The test is to ask 'is it' or 'does it': 'it passes from buyer to seller' names a function, while 'it survives being passed around' names a characteristic. A learner who answers a characteristics question with 'medium of exchange' has quoted the wrong list.",
    "claim_ids": [
     "CLM-0455-3.1-004",
     "CLM-0455-3.1-002",
@@ -100,13 +100,15 @@
     "CLM-0455-3.1-002": 1,
     "CLM-0455-3.1-003": 1
    },
-   "authored_hash": "eb1078d6b650a035a77f8c2f3a374ff42f946e3a465b39d09e3d02b678dca991"
+   "authored_hash": "6b580ab5212609e499c05d62a0369f189a643ce35a7b6f6385b557a4a48b2512",
+   "prior_hash": "eb1078d6b650a035a77f8c2f3a374ff42f946e3a465b39d09e3d02b678dca991",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked authoring labels and register wording, corrected a cross-reference"
   },
   {
    "block_id": "3.1.1-b6",
    "block_type": "cross_link",
    "heading": "Connections",
-   "text": "The prices money measures are the market prices of topic 2.2, and the state behind the banking system is examined in topic 4.1.",
+   "text": "The prices money measures are the market prices whose determination topic 2.5 explains, and the state behind the banking system is examined in topic 4.1.",
    "claim_ids": [
     "CLM-0455-3.1-002"
    ],
@@ -117,8 +119,10 @@
    "claims_seen": {
     "CLM-0455-3.1-002": 1
    },
-   "authored_hash": "dfb394f6a86f0728d010a382e17d171835523d1bfd5f58e3477a971d1ef9f506"
+   "authored_hash": "5db89a5e65c8cf41e993010f23f46e88c8ad6559b0d4160c3dda1cb7b8a6c572",
+   "prior_hash": "dfb394f6a86f0728d010a382e17d171835523d1bfd5f58e3477a971d1ef9f506",
+   "repair_note": "Review fix: trimmed flashcard answers to recall length, removed leaked authoring labels and register wording, corrected a cross-reference"
   }
  ],
- "word_count": 447
+ "word_count": 446
 }

@@ -68,7 +68,7 @@
    "block_id": "2.2.1-b4",
    "block_type": "misconception",
    "heading": "Minimum price or maximum price?",
-   "text": "Learners often mix up a minimum price with a maximum price because both are official limits on a price. The boundary is where each sits against equilibrium. A minimum price is a floor set above it, so at N$120 in the Otavi example a surplus tends to sit on the market; a maximum price is a ceiling set below it, so at N$70 a shortage tends to appear. The test: which side of equilibrium the limit sits on - above it, sellers cannot sell all they planned; below it, buyers cannot buy all they planned.",
+   "text": "Learners often mix up a minimum price with a maximum price because both are official limits on a price. The legal direction decides which is which: a minimum price is a floor that sellers may not charge below; a maximum price is a ceiling that sellers may not charge above. Where the limit sits against equilibrium decides whether it bites. In the Otavi example, a floor of N$120, above the N$95 equilibrium, tends to leave a surplus; a ceiling of N$70, below it, tends to leave a shortage. A ceiling of N$120 would change nothing, because the market already clears at N$95.",
    "claim_ids": [
     "CLM-0455-2.2-003"
    ],
@@ -78,9 +78,11 @@
     "AO2"
    ],
    "claims_seen": {
-    "CLM-0455-2.2-003": 1
+    "CLM-0455-2.2-003": 2
    },
-   "authored_hash": "42efeb5408481a4fc7bf379ca43d2db6aaf0aa661f9b36c1e00a70203d89eff0"
+   "authored_hash": "651780ca2f4b9c7b095a73b1f9dad6e0ef1c6df779f4d21128baf73ebf5a8037",
+   "prior_hash": "42efeb5408481a4fc7bf379ca43d2db6aaf0aa661f9b36c1e00a70203d89eff0",
+   "repair_note": "Reviewer 2026-10-13: minimum/maximum price corrected to legal direction, with effect only below (ceiling) or above (floor) equilibrium - MISCON 017, P01 Q4, claim 003 and notes block 2.2.1-b4; 005 Define-on-a-heading reworded as State; P02(b) made worth 2 marks; possibly-real firm name replaced; leaked chain labels removed; flashcard answers trimmed for recall."
   },
   {
    "block_id": "2.2.1-b5",
@@ -103,7 +105,7 @@
    "block_id": "2.2.1-b6",
    "block_type": "cross_link",
    "heading": "Connections",
-   "text": "Opportunity cost (topic 1.3) explains the choice every market forces; the three allocation questions follow in section 2.2.2 below; when a market allocates badly is picked up in topic 2.10.",
+   "text": "Opportunity cost (topic 1.3) explains the choice every market forces; the three allocation questions follow in section 2.2.2; markets that allocate badly are topic 2.10.",
    "claim_ids": [
     "CLM-0455-2.2-001"
    ],
@@ -114,8 +116,10 @@
    "claims_seen": {
     "CLM-0455-2.2-001": 1
    },
-   "authored_hash": "63cb8103d72c0eec24b1765daffd67e926c1eb27835f7ff2790b359cce36b5aa"
+   "authored_hash": "f75f7c1c4a0248ce00b9d6eabba2cb4bd3b74c95d07e1de2f53ee5226fef6fb7",
+   "prior_hash": "63cb8103d72c0eec24b1765daffd67e926c1eb27835f7ff2790b359cce36b5aa",
+   "repair_note": "Reviewer 2026-10-13: minimum/maximum price corrected to legal direction, with effect only below (ceiling) or above (floor) equilibrium - MISCON 017, P01 Q4, claim 003 and notes block 2.2.1-b4; 005 Define-on-a-heading reworded as State; P02(b) made worth 2 marks; possibly-real firm name replaced; leaked chain labels removed; flashcard answers trimmed for recall."
   }
  ],
- "word_count": 401
+ "word_count": 403
 }

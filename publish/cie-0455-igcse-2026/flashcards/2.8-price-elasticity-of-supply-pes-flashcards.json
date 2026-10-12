@@ -25,7 +25,7 @@
    "mark_tariff": 2,
    "difficulty": 1,
    "prompt": "A milk depot in Otavi watches how the litres its farmers offer change whenever the farm-gate price changes. Define price elasticity of supply as the term applies to the depot's farmers.",
-   "canonical_answer": "Price elasticity of supply measures how strongly the quantity sellers are willing and able to offer responds when the price of the good changes. For the depot, the term names the measure of how many more or fewer litres its farmers offer when the farm-gate price moves: the percentage change in litres offered, divided by the percentage change in price.",
+   "canonical_answer": "Price elasticity of supply measures how strongly the quantity sellers are willing and able to offer responds to a price change: the percentage change in quantity supplied divided by the percentage change in price. Here: how far the farmers' litres respond to the farm-gate price.",
    "marking_guidance": [
     "Reward the precise definition: how strongly the quantity supplied responds to a change in price, measured as the percentage change in quantity supplied divided by the percentage change in price.",
     "The meaning must tie the definition to the depot's litres; a definition of the demand-side measure alone earns nothing."
@@ -46,7 +46,9 @@
     "CLM-0455-2.8-001": 1,
     "CLM-0455-2.8-002": 1
    },
-   "authored_hash": "bdf546d0bbfb784ee85d950ed9bee9316ca210cb052667df470cdd1885bc34e6",
+   "authored_hash": "d5d97c5e0ccad0ed1fa3b50f45837652ecea03e9003da8e877300da169bd6e17",
+   "prior_hash": "272381902f42b43ab62a385c12d4c2e0424c7e298bf00f568e307a922f0aacb3",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length as plain prose; 002 prompt and answer rebuilt with two real features; 008 artificial Define reworded to State; P02(b) made a two-point Identify; leaked labels removed from P02(d); Katutura spelling fixed.",
    "objective_titles": [
     "definition of PES"
    ]
@@ -70,11 +72,11 @@
    "command_word": "Identify",
    "mark_tariff": 2,
    "difficulty": 1,
-   "prompt": "A worked-out figure for price elasticity of supply is a single number for a market. Identify two features of the measure - what it includes wherever it is used.",
-   "canonical_answer": "Two features the figure shares as a measure: it is built from two percentage changes - the percentage change in quantity supplied over the percentage change in price - and dividing one percentage by another leaves the result a pure ratio that carries no units. Both features hold whatever the good: the number says how strongly sellers responded, not in what units the good is counted.",
+   "prompt": "A worked-out figure for price elasticity of supply is a single number. Identify two features of this figure.",
+   "canonical_answer": "It is a ratio of two percentage changes - quantity supplied over price - so it carries no units. And it is normally positive, because quantity supplied moves with price, and it is read against 1: above 1 is elastic supply, below 1 inelastic.",
    "marking_guidance": [
-    "Reward the characteristics of the measure: built from two percentage changes, a ratio that carries no units, and a comparison of the seller's response against the price of the same good.",
-    "One mark per feature, up to two: each must say what the feature involves, not just name it."
+    "Reward two characteristics of the figure, one mark each: a ratio of two percentage changes that carries no units; and a positive value read against 1 - above 1 elastic, below 1 inelastic.",
+    "What it includes: each feature must say what it involves, not just name it; restating the formula twice earns one mark."
    ],
    "context": {
     "sector": null,
@@ -92,7 +94,9 @@
     "CLM-0455-2.8-001": 1,
     "CLM-0455-2.8-002": 1
    },
-   "authored_hash": "51cfac92d396381d2cb4567ccd3475c3c406c85058018b78bec6394e03eeb6aa",
+   "authored_hash": "553351edcc1a4ee51261e2175fd1c389c0832165f585eb0da466d2db41d84844",
+   "prior_hash": "51cfac92d396381d2cb4567ccd3475c3c406c85058018b78bec6394e03eeb6aa",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length as plain prose; 002 prompt and answer rebuilt with two real features; 008 artificial Define reworded to State; P02(b) made a two-point Identify; leaked labels removed from P02(d); Katutura spelling fixed.",
    "objective_titles": [
     "definition of PES"
    ]
@@ -116,7 +120,7 @@
    "mark_tariff": 2,
    "difficulty": 3,
    "prompt": "Oshakati Textiles raised the price of its printed cotton from N$30 to N$36 a metre, a 20% rise, and the metres of cloth it offers each week rose from 500 to 750, a 50% rise. Define price elasticity of supply as the term applies to Oshakati Textiles' response.",
-   "canonical_answer": "Price elasticity of supply measures how strongly the quantity sellers are willing and able to offer responds when price changes, as the percentage change in quantity supplied divided by the percentage change in price. For Oshakati Textiles, the term names the comparison between its 50% rise in metres offered and the 20% price rise that preceded it - the firm's quantity responded two and a half times as strongly as its price, in percentage terms, which is what its figure of 2.5 records.",
+   "canonical_answer": "Price elasticity of supply is the percentage change in quantity supplied divided by the percentage change in price. For Oshakati Textiles it is 50 / 20 = 2.5: metres offered responded two and a half times as strongly as the price, so supply is elastic.",
    "marking_guidance": [
     "Reward the precise definition: the percentage change in quantity supplied divided by the percentage change in price.",
     "The meaning must be tied to the mill's figures - the 50% rise in metres against the 20% price rise - rather than left as a formula alone."
@@ -136,7 +140,9 @@
    "claims_seen": {
     "CLM-0455-2.8-004": 1
    },
-   "authored_hash": "d7af7e2cc99156341c73e037c04db90a6f2f689c19a86ab22af964ef7b9366be",
+   "authored_hash": "1a05b2644bf9eee99b0d4badda62333e16f8788137e9d6aaceb43f8880de23e5",
+   "prior_hash": "d7af7e2cc99156341c73e037c04db90a6f2f689c19a86ab22af964ef7b9366be",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length as plain prose; 002 prompt and answer rebuilt with two real features; 008 artificial Define reworded to State; P02(b) made a two-point Identify; leaked labels removed from P02(d); Katutura spelling fixed.",
    "objective_titles": [
     "calculation of PES"
    ]
@@ -163,7 +169,7 @@
    "mark_tariff": 8,
    "difficulty": 3,
    "prompt": "A festival weekend raises the demand for fresh fish at the Walvis Bay Saturday market. The day's catch is already landed: at the old price of N$40 a kilo the market sold 300 kilos, and the new price settles at N$70 a kilo with 320 kilos sold. Discuss how a price-and-quantity diagram of this fish market shows what the elasticity of supply decided, giving a verbal walk-through of every part of the diagram and what it shows.",
-   "canonical_answer": "Walk through the diagram in words, element by element. First, the axes labelled: the price of fresh fish in N$ a kilo on the vertical axis, and the quantity in kilos on the horizontal axis. Second, the original curves drawn and labelled: the demand curve D1 and the supply curve S1, crossing at the original equilibrium, marked E1, at N$40 a kilo and 300 kilos. Third, the shift or movement, in the correct direction: the festival raises demand, a condition behind the demand curve, so the whole demand curve shifts right from D1 to D2, while the supply curve stays where it was - the catch is landed, so no condition of supply has changed - and the market then moves along the unchanged supply curve. Fourth, the new equilibrium marked and labelled: where D2 crosses S1, marked E2, at N$70 a kilo and 320 kilos. Fifth, what the diagram shows, in words: the demand shift landed almost entirely on price - up N$30 a kilo, since 70 - 40 = N$30 - and barely on quantity, up 20 kilos, since 320 - 300 = 20 kilos, because the quantity supplied could not follow the price. The link between the landed catch and the outcome is the elasticity of supply: with the day's catch fixed, supply is inelastic over a weekend, so the extra demand was met mostly by a higher price rather than by more fish. The consequence of inelastic supply is that buyers carry the adjustment, through price: had sellers been able to land more fish at short notice - a flatter supply curve - the same demand shift would have moved quantity far more and price far less, so what the diagram shows is the elasticity of supply deciding whether a demand change lands on price or on quantity.",
+   "canonical_answer": "Price of fish (N$ a kilo) goes on the vertical axis and quantity (kilos) on the horizontal. The original demand curve D1 and supply curve S1 cross at E1: N$40 and 300 kilos. S1 is drawn steep, because the day's catch is already landed. The festival raises demand, so the whole demand curve shifts right to D2; supply does not shift, as no condition of supply changed, and the market moves up along S1. The new equilibrium E2, where D2 crosses S1, is at N$70 and 320 kilos. The diagram shows the shift landing mostly on price, up 70 - 40 = N$30 a kilo (75 per cent), and barely on quantity, up 320 - 300 = 20 kilos (under 7 per cent). The link is inelastic supply: with the catch fixed, sellers cannot follow the price. The consequence is that buyers carry the adjustment through a higher price; with a flatter supply curve the same demand shift would have raised quantity more and price less.",
    "marking_guidance": [
     "The walk-through must name the axes labelled - price and quantity, each with its units - before anything else.",
     "Reward the original curves drawn and labelled: D1 and S1 crossing at E1, at N$40 a kilo and 300 kilos, before the change is described.",
@@ -188,7 +194,9 @@
     "CLM-0455-2.8-005": 1,
     "CLM-0455-2.8-006": 1
    },
-   "authored_hash": "28f35da9c553fdd144f751c5d2953e215ed3a2ed9771d47b0f6d6ece4861e26a",
+   "authored_hash": "190fbf28f272f576ca79e9805ed7f9595ae5eac85566529153f3235d3dcc6c7a",
+   "prior_hash": "28f35da9c553fdd144f751c5d2953e215ed3a2ed9771d47b0f6d6ece4861e26a",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length as plain prose; 002 prompt and answer rebuilt with two real features; 008 artificial Define reworded to State; P02(b) made a two-point Identify; leaked labels removed from P02(d); Katutura spelling fixed.",
    "objective_titles": [
     "calculation of PES"
    ]
@@ -214,7 +222,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Two firms worked out their supply elasticities for the past year. Namib Signs, a Katutura printing workshop: 2.8. Etosha Gate Lodge: 0.3. Explain what these figures show about how differently the two firms could respond to price changes.",
-   "canonical_answer": "What the data shows: the relationship is a stark difference in responsiveness - Namib Signs' figure of 2.8 sits well above 1, so its supply is elastic, while Etosha Gate Lodge's 0.3 sits well below 1, so its supply is inelastic. Supporting evidence: the comparison is between 2.8, meaning the quantity the workshop offers changes by 2.8% for every 1% change in the price of printed work, against 0.3 at the lodge, meaning the quantity of rooms offered changes by 0.3% for every 1% change in the room rate. Why: an explanation of the relationship sits behind each business - a printer can usually buy stock, run machines longer or take on extra hands within weeks, so the quantity offered follows price closely, while a lodge's rooms are buildings that cannot be added to a season's trading, so its quantity offered barely responds. The exception: however, a lodge may show a higher figure where it holds spare rooms shut in the low season - unused rooms can be opened, which raises its responsiveness - and a printer may show a lower one once its machines run flat out and its stores empty.",
+   "canonical_answer": "The figures show a sharp difference: Namib Signs' 2.8 is well above 1, so its supply is elastic, while Etosha Gate Lodge's 0.3 is well below 1, so its supply is inelastic. A 1% price rise brings 2.8% more printed work but only 0.3% more rooms. A printer can buy stock, run machines longer or hire within weeks, whereas a lodge cannot add rooms within a season. However, a lodge with closed rooms in the low season could respond more, and a printer at full capacity less.",
    "marking_guidance": [
     "What the data shows - one figure far above 1 and one far below - must be stated first, with supporting evidence taken as a comparison of what each figure means.",
     "The exception earns a mark: however, the lodge's figure may rise where spare rooms can be opened, and the printer's may fall once capacity is full and stores are empty.",
@@ -236,7 +244,9 @@
     "CLM-0455-2.8-004": 1,
     "CLM-0455-2.8-006": 1
    },
-   "authored_hash": "b0bb7d0905afebe85b6bcf9a3f26bb669bc5037774c61739dd690b2b67867d6e",
+   "authored_hash": "3056a901db76bf9a54645801f35a60acd52d3c16e4b6c491a5953c6181ffcc3b",
+   "prior_hash": "b0bb7d0905afebe85b6bcf9a3f26bb669bc5037774c61739dd690b2b67867d6e",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length as plain prose; 002 prompt and answer rebuilt with two real features; 008 artificial Define reworded to State; P02(b) made a two-point Identify; leaked labels removed from P02(d); Katutura spelling fixed.",
    "objective_titles": [
     "calculation of PES"
    ]
@@ -262,7 +272,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "The price of a bag of milled maize at Gobabis rose from N$200 to N$240, a 20% rise. In the month that followed, the Gobabis maize mill offered 1 560 bags against 1 200 before, a 30% rise, and its supply elasticity worked out at 1.5. Explain what the figure of 1.5 shows about how the mill responded to the price change.",
-   "canonical_answer": "The context: the figures show the price of a bag up 20%, from N$200 to N$240, and the bags offered up from 1 200 to 1 560 - a rise of 360 bags, since 1 560 - 1 200 = 360 bags. The reasoning: because the mill's quantity offered rose by a larger percentage than its price, the figure of 1.5 records elastic supply - the mill was able and willing to raise output in response to the higher price, likely by running shifts longer or drawing on stored grain, and the link is that its percentage response was one and a half times the percentage price change. The conclusion: therefore the higher price was met with extra bags rather than with shortage, and the mill's buyers saw supply expand; the figure shows a seller able to follow a rising price with more output, not one rationing what it already had.",
+   "canonical_answer": "Bags offered rose by 1 560 - 1 200 = 360, a 30% rise, against a 20% price rise, so PES = 30 / 20 = 1.5. Because quantity rose by a larger percentage than price, the mill's supply is elastic: it could follow the higher price with more output, probably by running longer shifts or drawing on stored grain. So the price rise was met with extra bags rather than a shortage, and the mill's buyers saw supply expand.",
    "marking_guidance": [
     "The context - the 20% price rise beside the 360 extra bags - must anchor the answer, and the figures are the evidence.",
     "Reasoning: because the percentage rise in quantity offered outstripped the percentage price rise, the link from price to output is what the 1.5 records.",
@@ -284,7 +294,9 @@
     "CLM-0455-2.8-004": 1,
     "CLM-0455-2.8-005": 1
    },
-   "authored_hash": "f7c8c336e6aba2856da76a06e9a9ee59991c2d80657eb6ef9e6ef4e994858931",
+   "authored_hash": "6bff5894c4a8d00d68866f0e7f7c01b08467bce1cdf879e868477518926b4d56",
+   "prior_hash": "f7c8c336e6aba2856da76a06e9a9ee59991c2d80657eb6ef9e6ef4e994858931",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length as plain prose; 002 prompt and answer rebuilt with two real features; 008 artificial Define reworded to State; P02(b) made a two-point Identify; leaked labels removed from P02(d); Katutura spelling fixed.",
    "objective_titles": [
     "calculation of PES"
    ]
@@ -309,7 +321,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "A fishing tournament books out Ruacana for a season, and demand for rooms keeps rising. The town's lodges have 40 rooms each and no building can be finished within a season: room prices rise from N$1 200 to N$1 800 a night, and rooms let rise from 34 to 37 a night at the Ruacana River Lodge. Analyse what the elasticity of the lodges' supply means for the tournament's visitors, the lodge owners and the lodge workers.",
-   "canonical_answer": "Starting point: the initial change is a rise in demand for rooms over a single season - a condition of demand - while the lodges' room count is fixed by buildings that cannot be finished in time. Mechanism: because the quantity of rooms supplied cannot follow the price over a season, this causes the supply of rooms to be inelastic, and the whole adjustment falls on price: the nightly rate rises from N$1 200 to N$1 800 - up N$600, since 1 800 - 1 200 = N$600 - while rooms let rise by 3, from 34 to 37 a night, since 37 - 34 = 3 rooms, a far smaller percentage response than the price made. Consequence: therefore the tournament's visitors pay N$600 a night more for a room they would have booked anyway, and some may stay away or travel outside the season; the lodge owners take a higher rate on nearly the same rooms, so their takings usually rise without any extra output; the lodge workers serve almost the same number of guests on the same shifts, so the boom passes them by within the season. For whom the effects land: the price rise is carried by the tournament's visitors, the revenue gain lands with the lodge owners, and the workers gain little until the period is long enough for rooms - and hiring - to expand.",
+   "canonical_answer": "The tournament raises demand for rooms, but no lodge can be built within the season, so the supply of rooms is inelastic. The adjustment therefore falls mainly on price: the nightly rate rises by 1 800 - 1 200 = N$600, a 50 per cent rise, while rooms let at the River Lodge rise by only 37 - 34 = 3, under 9 per cent. Visitors pay N$600 a night more, and some may stay away. Lodge owners earn a higher rate on nearly the same rooms, so their takings rise without extra output. Workers serve almost the same number of guests on the same shifts, so they gain little until rooms, and hiring, can expand.",
    "marking_guidance": [
     "Starting point: the initial change - the season's demand rise against a fixed stock of rooms - must be named first, and an answer that starts from the price rise has the chain backwards.",
     "Mechanism: because rooms cannot be added within a season, this causes supply to be inelastic, and the adjustment falls on price rather than on quantity.",
@@ -332,7 +344,9 @@
     "CLM-0455-2.8-004": 1,
     "CLM-0455-2.8-006": 1
    },
-   "authored_hash": "67b3454b6cabccd24a9d32e571d44fbb114a4642bac2a8e651b4c09e364f76c7",
+   "authored_hash": "803c3fe33943e28fc5afef5e9eb46a5a84c087dd01142258f3d9cf5e60e0d94a",
+   "prior_hash": "67b3454b6cabccd24a9d32e571d44fbb114a4642bac2a8e651b4c09e364f76c7",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length as plain prose; 002 prompt and answer rebuilt with two real features; 008 artificial Define reworded to State; P02(b) made a two-point Identify; leaked labels removed from P02(d); Katutura spelling fixed.",
    "objective_titles": [
     "calculation of PES"
    ]
@@ -352,14 +366,14 @@
    ],
    "blooms_level": "Understand",
    "blooms_level_basis": "subtype DEF",
-   "command_word": "Define",
+   "command_word": "State",
    "mark_tariff": 2,
    "difficulty": 4,
-   "prompt": "A supply curve's steepness has causes of its own: conditions behind the market decide how strongly sellers can respond to a price change. Define a determinant of price elasticity of supply.",
-   "canonical_answer": "A determinant of price elasticity of supply is a condition behind the supply curve that shapes how strongly sellers respond when price changes - usually spare capacity, the level of stocks held, how easily production can be switched or extra inputs found, and the length of the period sellers have to respond. A determinant does not change the price itself; it sets how far the quantity offered can follow a price that has already changed.",
+   "prompt": "State three determinants of price elasticity of supply.",
+   "canonical_answer": "Any three of: spare capacity, the room to raise output without new equipment; the level of stocks of finished goods; the ease of switching production or finding extra inputs; and the length of time sellers have to respond.",
    "marking_guidance": [
-    "Reward the precise definition: a condition behind the supply curve that shapes how strongly sellers respond to a price change, naming examples such as spare capacity, stocks or the time period.",
-    "The meaning must separate the determinant from the price change: it governs the response, not the price."
+    "Reward the precise determinants: spare capacity, stocks, the ease of switching production or finding inputs, and the time period - any three for both marks, two for one mark.",
+    "The meaning of each must show it governs how far the quantity offered can respond, not the price itself."
    ],
    "context": {
     "sector": null,
@@ -376,7 +390,9 @@
    "claims_seen": {
     "CLM-0455-2.8-007": 1
    },
-   "authored_hash": "4f507212e71f90d787a7a2693e8803070d9637c7d8202a07cb7edb325659c273",
+   "authored_hash": "39f149a51279dd7965e882970375cf6e9ca1f98647df65259a90a27b336189b9",
+   "prior_hash": "4f507212e71f90d787a7a2693e8803070d9637c7d8202a07cb7edb325659c273",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length as plain prose; 002 prompt and answer rebuilt with two real features; 008 artificial Define reworded to State; P02(b) made a two-point Identify; leaked labels removed from P02(d); Katutura spelling fixed.",
    "objective_titles": [
     "determinants of PES"
    ]
@@ -401,7 +417,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "Windhoek grows quickly and demand for bricks rises. The Katutura Brickworks is already firing its kilns flat out and its yard holds few finished bricks, while a newer yard outside the city has two kilns standing idle. Analyse how these differences between the two brickworks decide what happens to brick prices and brick output in the city.",
-   "canonical_answer": "Starting point: the initial change is a rise in demand for bricks across the city, meeting two sellers whose conditions differ - one flat out with thin stocks, one with idle kilns. Mechanism: because spare capacity and stocks are determinants of how strongly sellers can respond, this causes the newer yard's supply to be elastic - it can light its idle kilns and lift output quickly as brick prices rise - while the Katutura Brickworks' supply is inelastic, since its kilns are full and its yard holds little to sell, so its quantity offered barely moves however far the price climbs. Consequence: therefore the city's extra demand is met mostly by the newer yard's extra bricks, and the price rise that follows is smaller than one inelastic seller alone would have brought; for the Katutura Brickworks the rise lands on the price of its unchanged output, a gain in takings without extra work for its crews; for the newer yard the same rise pays for lighting kilns, so its workers gain shifts. For whom the effects land: the city's builders pay a smaller rise than inelastic supply alone would have brought; the idle-kiln yard and its workers take the extra trade; the flat-out brickworks takes a higher price on its existing bricks.",
+   "canonical_answer": "Rising demand for bricks meets two sellers in different conditions. Because spare capacity and stocks are determinants of PES, the newer yard's supply is elastic: it can light its idle kilns and raise output as prices rise. The Katutura Brickworks' supply is inelastic: its kilns are full and its yard nearly empty, so its output barely moves. So most of the city's extra demand is met by the newer yard, and the price rise is smaller than inelastic supply alone would bring. Builders pay less extra than otherwise; the newer yard and its workers gain trade and shifts; the Katutura Brickworks gets a higher price on unchanged output, more takings with no extra work for its crews.",
    "marking_guidance": [
     "Starting point: the initial change - the demand rise meeting two sellers with different spare capacity and stocks - must be named first.",
     "Mechanism: because spare capacity and stock levels are determinants of supply elasticity, this causes one yard's supply to be elastic and the other's to be inelastic.",
@@ -424,7 +440,9 @@
     "CLM-0455-2.8-007": 1,
     "CLM-0455-2.8-008": 1
    },
-   "authored_hash": "056011d8a5090164b1e06c3acc1a20d081200560a33e9bad9602ec02edad8212",
+   "authored_hash": "cb54b30a26d5fa7f102cb133fb0c5a0131bb606562a8a8b4d53f40566035074a",
+   "prior_hash": "056011d8a5090164b1e06c3acc1a20d081200560a33e9bad9602ec02edad8212",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length as plain prose; 002 prompt and answer rebuilt with two real features; 008 artificial Define reworded to State; P02(b) made a two-point Identify; leaked labels removed from P02(d); Katutura spelling fixed.",
    "objective_titles": [
     "determinants of PES"
    ]
@@ -450,7 +468,7 @@
    "mark_tariff": 4,
    "difficulty": 4,
    "prompt": "A sewing co-operative in Katutura holds a store of unprinted T-shirts and can buy cotton from two suppliers in the same week. A tailor in Oshakati sews made-to-order dresses from cloth bought once a month from a single fabric importer. Explain, using this extract, why the co-operative's supply is likely to be more elastic than the tailor's.",
-   "canonical_answer": "The context: the extract contrasts two sellers - the co-operative with shirts in store and two suppliers of cotton within a week, against the tailor with monthly cloth from a single importer. The reasoning: because stocks and the ease of finding extra inputs are determinants of supply elasticity, the link runs as follows - the co-operative can turn a price rise into extra printed shirts within days, drawing on its store and on either supplier, so the quantity it offers responds strongly; the tailor, by contrast, may have customers waiting in a week when her cloth has run out, and with a single importer she cannot quickly buy more, so the quantity she offers responds weakly even to a strong price rise. The conclusion: therefore the co-operative's supply is likely to be the more elastic of the two, because the conditions behind its supply - stocks and easy access to inputs - let it follow a price change, while the tailor's conditions hold her output to her monthly cloth order.",
+   "canonical_answer": "The co-operative holds unprinted shirts in store and can buy cotton from two suppliers within a week, so it can turn a price rise into extra shirts within days. The tailor buys cloth once a month from one importer, so when her cloth runs out she cannot quickly make more, however much the price rises. Because stocks and easy access to inputs are determinants of PES, the co-operative's supply is likely to be the more elastic: quantity can follow price, while the tailor's output is tied to her monthly order.",
    "marking_guidance": [
     "The context - the store of shirts and the two suppliers against the monthly cloth and the single importer - must anchor the answer, and the details of the extract are the evidence.",
     "Reasoning: because stocks and access to inputs are determinants of elasticity, the link runs from each seller's conditions to how strongly the quantity offered can respond.",
@@ -472,7 +490,9 @@
     "CLM-0455-2.8-007": 1,
     "CLM-0455-2.8-008": 1
    },
-   "authored_hash": "8c0fff0f98b0ab0aba2efbe2b0f3d388322cc394ec9c632e53c475e3b5d41a63",
+   "authored_hash": "59f717cf04d683d425f9df5cc72436805c79df6953599b940e037fddcef31da3",
+   "prior_hash": "8c0fff0f98b0ab0aba2efbe2b0f3d388322cc394ec9c632e53c475e3b5d41a63",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length as plain prose; 002 prompt and answer rebuilt with two real features; 008 artificial Define reworded to State; P02(b) made a two-point Identify; leaked labels removed from P02(d); Katutura spelling fixed.",
    "objective_titles": [
     "determinants of PES"
    ]
@@ -498,7 +518,7 @@
    "mark_tariff": 8,
    "difficulty": 5,
    "prompt": "The length of the period sellers have to respond is often called the most important influence on the elasticity of supply. Discuss whether the time period outweighs the other determinants.",
-   "canonical_answer": "Why it might: within days, almost any seller's quantity is fixed by decisions already taken - a landed catch, a planted field, a booked-out lodge - so even a seller with money and machines shows inelastic supply in the very short run; given months, the same seller can hire, build, plant or retrain, so the period sets the ceiling on what every other determinant can do, since spare capacity and stockpiles are themselves created over time. Why it might not: the argument against is that time is only the room in which the other determinants act - a field of mahangu stays inelastic across a whole dry season, and a tailor with one fabric importer stays inelastic for a month however high the price climbs, since no length of time creates a second importer where none exists; and a seller with stored stock shows elastic supply even within the week, which is the stock doing the work the time is given credit for. Judgement: on balance, the time period is the most important determinant where sellers control their own conditions - where capacity, stocks and inputs can be changed if time allows - and is outweighed where nature or a single supplier's grip fixes those conditions; what settles the question for any market is whether its sellers' conditions have room to change within the period.",
+   "canonical_answer": "For the claim: in the very short run almost any seller's quantity is fixed by decisions already taken - a landed catch, a planted field, a full lodge - so supply is inelastic even for a seller with money and machines. Given months, the same seller can hire, build or plant, and spare capacity and stocks are themselves built up over time, so the period sets the ceiling on the other determinants. Against it: time is only the room in which the other determinants act. A mahangu field stays inelastic for the whole dry season, and a tailor with one fabric importer stays inelastic for a month however high the price climbs; meanwhile a seller with stored stock is elastic within the week, which is the stock, not time, at work. On balance, time matters most where sellers can change their capacity, stocks and inputs given time, and is outweighed where nature or a single supplier fixes them. What settles it is whether sellers' conditions can change within the period.",
    "marking_guidance": [
     "Judgement: reward a stated position with a reason, not a fence-sit; on balance the best answers say why time sets the ceiling and where the claim fails.",
     "Why it might: the argument for - the short run fixes quantity by decisions already taken, and the period sets the ceiling on every other determinant.",
@@ -522,7 +542,9 @@
     "CLM-0455-2.8-008": 1,
     "CLM-0455-2.8-009": 1
    },
-   "authored_hash": "0a02ed9905e711ac96aa8842f719727f65827de23d11951fb313eb9899bb57b3",
+   "authored_hash": "c8510d3cb569cf2accdb0d95e8d677bd57f504fe00f13ee84a17dc36f18d7806",
+   "prior_hash": "0a02ed9905e711ac96aa8842f719727f65827de23d11951fb313eb9899bb57b3",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length as plain prose; 002 prompt and answer rebuilt with two real features; 008 artificial Define reworded to State; P02(b) made a two-point Identify; leaked labels removed from P02(d); Katutura spelling fixed.",
    "objective_titles": [
     "determinants of PES"
    ]
@@ -546,7 +568,7 @@
    "mark_tariff": 2,
    "difficulty": 2,
    "prompt": "At a crocodile farm near Katima Mulilo, the number of skins offered for sale barely changes from season to season, whatever happens to skin prices. Define price inelastic supply as the term applies to this farm.",
-   "canonical_answer": "Price inelastic supply is supply with an elasticity below 1: the quantity sellers are willing and able to offer changes by a smaller percentage than the price did. For the farm, the term means the skins offered change little even when prices move - the percentage change in skins offered stays far smaller than the percentage change in price - so however tempting the price, the farm cannot offer many more skins than its crocodiles grow.",
+   "canonical_answer": "Price-inelastic supply has an elasticity below 1: the quantity offered changes by a smaller percentage than the price. For the farm, skins offered change little even when skin prices move, because output is limited by how fast its crocodiles grow.",
    "marking_guidance": [
     "Reward the precise definition: an elasticity below 1 - the quantity supplied changes by a smaller percentage than the price.",
     "The meaning must tie the definition to the farm's unchanging skins; a definition of elastic supply alone earns nothing."
@@ -566,7 +588,9 @@
    "claims_seen": {
     "CLM-0455-2.8-011": 1
    },
-   "authored_hash": "25f03c8a691adcb5f60284faf54115562e0b959292e30f1b3d4aded8ed43a1aa",
+   "authored_hash": "4e48c1f4231f49d47bce9451d83ab60b51a7e6593b513c1da0051c8a5c1abdcd",
+   "prior_hash": "25f03c8a691adcb5f60284faf54115562e0b959292e30f1b3d4aded8ed43a1aa",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length as plain prose; 002 prompt and answer rebuilt with two real features; 008 artificial Define reworded to State; P02(b) made a two-point Identify; leaked labels removed from P02(d); Katutura spelling fixed.",
    "objective_titles": [
     "significance of PES"
    ]
@@ -590,7 +614,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "Before planning for a season of higher demand, a Katutura furniture workshop works out the elasticity of its supply. Explain why the measure matters to the firm's planning.",
-   "canonical_answer": "The reason the measure matters is that the elasticity of the workshop's supply sets what a demand rise can become. Where its supply is elastic, extra demand means extra sales at close to the old price, since the workshop can raise output to meet it. Where its supply is inelastic, the same demand rise tends to show up as a price rise on nearly the same output, which may lift takings but leaves turned-away customers and rivals' furniture filling the space it cannot serve. Because planning means arranging workers, timber and shifts ahead of the season, the purpose of the measure is as a forecast: knowing how strongly its quantity can respond tells the workshop whether the demand rise becomes output it must arrange or revenue it takes on what it already makes.",
+   "canonical_answer": "The elasticity of supply decides what a demand rise becomes. If the workshop's supply is elastic, extra demand becomes extra sales at close to the old price, because it can raise output. If supply is inelastic, the same rise shows up mainly as a higher price on nearly the same output, with customers turned away to rivals. Because workers, timber and shifts must be arranged before the season, the measure acts as a forecast: it tells the workshop whether to plan for more output or a higher price.",
    "marking_guidance": [
     "Reward the reason: the elasticity of supply sets whether extra demand becomes extra output or a higher price on the same output.",
     "Because elastic supply means the firm can meet demand with more units, and inelastic supply means demand lands on price and on customers turned away, each link needs to be made for the mark.",
@@ -611,7 +635,9 @@
    "claims_seen": {
     "CLM-0455-2.8-011": 1
    },
-   "authored_hash": "12c5658ad158fd8d834e204107f01409ac6944a053e139f6c981b30f6fa95a22",
+   "authored_hash": "56218c0352c9ede187195a36fd5b9d123ad71d9bb6f87c26498e405642b5f960",
+   "prior_hash": "12c5658ad158fd8d834e204107f01409ac6944a053e139f6c981b30f6fa95a22",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length as plain prose; 002 prompt and answer rebuilt with two real features; 008 artificial Define reworded to State; P02(b) made a two-point Identify; leaked labels removed from P02(d); Katutura spelling fixed.",
    "objective_titles": [
     "significance of PES"
    ]
@@ -637,7 +663,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "The council of a growing town wants more houses built and offers builders a subsidy for each new home. In the town, builders hold no idle land, skilled bricklayers are scarce and building materials arrive on a single rail line. Explain, using this extract, what the elasticity of the town's housing supply suggests about the subsidy's first years.",
-   "canonical_answer": "The context: the extract shows a housing supply whose conditions - no idle land, scarce bricklayers, one rail line for materials - leave builders little room to respond quickly, so the supply of new houses tends to be inelastic over the subsidy's first years. The reasoning: because the subsidy raises the price builders receive for each home, the link a subsidy relies on is builders answering with more homes; yet with scarce bricklayers and materials on a single line, the quantity of new houses changes little even as the subsidy pays more per home, so the first years' extra payments may lift builders' earnings on the homes they were building anyway rather than call out many more houses. The conclusion: therefore the subsidy is likely to show its full effect slowly - the significance of inelastic supply is that the town's house prices stay high in the first years while capacity and inputs are built up, and the extra homes arrive as the conditions behind supply loosen, provided the subsidy is sustained long enough for that.",
+   "canonical_answer": "With no idle land, scarce bricklayers and materials on a single rail line, builders cannot raise output quickly, so the town's housing supply is likely to be inelastic in the subsidy's first years. The subsidy raises what builders receive per home, but quantity can respond only a little, so much of the early payment may add to builders' earnings on homes they were building anyway. House prices are therefore likely to stay high at first, with extra homes arriving as land, labour and materials expand, if the subsidy lasts.",
    "marking_guidance": [
     "The context - the scarce land, the scarce bricklayers and the single rail line - must anchor the answer, and the details of the extract are the evidence.",
     "Reasoning: because a subsidy works through the supply response, the link runs from the town's conditions to how far new houses can follow the higher payment per home.",
@@ -659,7 +685,9 @@
     "CLM-0455-2.8-012": 1,
     "CLM-0455-2.8-013": 1
    },
-   "authored_hash": "19f2ffa6146ace5feb31c23aac4568c86d7adbda4b7405e9efe5442fbff40d5a",
+   "authored_hash": "5a7264f5315685fbe55d50d794f5db39d7faa2ebf5222eeb954a001d029ec84c",
+   "prior_hash": "19f2ffa6146ace5feb31c23aac4568c86d7adbda4b7405e9efe5442fbff40d5a",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length as plain prose; 002 prompt and answer rebuilt with two real features; 008 artificial Define reworded to State; P02(b) made a two-point Identify; leaked labels removed from P02(d); Katutura spelling fixed.",
    "objective_titles": [
     "significance of PES"
    ]
@@ -749,10 +777,10 @@
    "command_word": null,
    "mark_tariff": null,
    "difficulty": 5,
-   "prompt": "A radio report from Otavi, March 2026: \"Milled maize is dearer in Otavi this month. Namib Grain, the town's big miller, lifted the price of a 12.5 kg bag from N$200 to N$210 and lifted weekly output from 4 000 to 4 400 bags, with a third of its milling line still idle. The village millers around Otavi kept their small hand mills running the same hours as before, and their bag price rose from N$205 to N$230.\"\n\nTable 1 - milled maize in Otavi, March against February\n  Namib Grain price per bag: N$200 in February, N$210 in March\n  Namib Grain bags milled a week: 4 000 in February, 4 400 in March\n  Namib Grain spare capacity: a third of the milling line idle in both months\n  village millers price per bag: N$205 in February, N$230 in March\n  village millers bags a week: 900 in February, 910 in March\n  village millers working hours: unchanged\n\n(a) Calculate Namib Grain's PES for the price rise. [1]\n(b) Identify from Table 1 one reason Namib Grain could raise its output quickly. [2]\n(c) Explain why the village millers' bag price rose further than Namib Grain's. [4]\n(d) Analyse what the figures suggest for Otavi's households if demand for milled maize keeps rising. [6]",
-   "canonical_answer": "(a) The formula: PES = percentage change in quantity supplied / percentage change in price. Substitution: bags milled rose by 400 a week, since 4 400 - 4 000 = 400 bags, so the percentage change in quantity supplied is 400 / 4 000 = 10%; the price rose by N$10, since 210 - 200 = N$10, so the percentage change in price is 10 / 200 = 5%. Answer: PES = 10 / 5 = 2, and supply of bags at Namib Grain is elastic, with no units on the figure.\n(b) The idle third of its milling line - spare capacity the miller could bring into use without new equipment, which is why output could rise while the price was still moving.\n(c) The village millers kept their hours the same and milled only 10 more bags a week, since 910 - 900 = 10 bags, against a price rise of N$25, since 230 - 205 = N$25. Their supply is inelastic: hand mills at fixed hours, with no spare capacity in the table, mean the quantity offered cannot follow the price, so when demand for milled maize rose across the district, the shortage showed up in the village millers' price rather than in their output. Namib Grain, with a third of its line idle, met most of the extra demand with extra bags, which kept its price rise to N$10 on a N$200 bag - the smaller price rise sits beside the more elastic supply.\n(d) Expected relationship: with district demand still rising, output rises where supply is elastic and prices rise where it is not. Evidence: Namib Grain lifted bags milled by 400 a week on a N$10 price rise, while the village millers lifted output by 10 bags on a N$25 rise. Analysis: for Otavi's households, extra demand is likely to be met at close to the old price while Namib Grain's idle third lasts; once its line runs flat out, its supply turns inelastic in turn, and further demand lands on price, as the village millers' price already shows. Households near a village miller may switch toward the big miller's cheaper bags, provided the extra demand does not swallow the spare capacity first. Exception: however, a good harvest or cheaper imported grain could shift supply right across the district and pull prices back down whatever the elasticities, and the table covers a single month, so seasonal swings in milling may reverse the readings later in the year.",
+   "prompt": "A radio report from Otavi, March 2026: \"Milled maize is dearer in Otavi this month. Namib Grain, the town's big miller, lifted the price of a 12.5 kg bag from N$200 to N$210 and lifted weekly output from 4 000 to 4 400 bags, with a third of its milling line still idle. The village millers around Otavi kept their small hand mills running the same hours as before, and their bag price rose from N$205 to N$230.\"\n\nTable 1 - milled maize in Otavi, March against February\n  Namib Grain price per bag: N$200 in February, N$210 in March\n  Namib Grain bags milled a week: 4 000 in February, 4 400 in March\n  Namib Grain spare capacity: a third of the milling line idle in both months\n  village millers price per bag: N$205 in February, N$230 in March\n  village millers bags a week: 900 in February, 910 in March\n  village millers working hours: unchanged\n\n(a) Calculate Namib Grain's PES for the price rise. [1]\n(b) Identify from Table 1 one reason Namib Grain could raise its output quickly and one reason the village millers could not. [2]\n(c) Explain why the village millers' bag price rose further than Namib Grain's. [4]\n(d) Analyse what the figures suggest for Otavi's households if demand for milled maize keeps rising. [6]",
+   "canonical_answer": "(a) The formula: PES = percentage change in quantity supplied / percentage change in price. Substitution: bags milled rose by 400 a week, since 4 400 - 4 000 = 400 bags, so the percentage change in quantity supplied is 400 / 4 000 = 10%; the price rose by N$10, since 210 - 200 = N$10, so the percentage change in price is 10 / 200 = 5%. Answer: PES = 10 / 5 = 2, and supply of bags at Namib Grain is elastic, with no units on the figure.\n(b) Namib Grain had a third of its milling line idle - spare capacity it could bring into use without new equipment; the village millers kept their hand mills running the same hours, so they had no extra working time to draw on.\n(c) The village millers kept their hours the same and milled only 10 more bags a week, since 910 - 900 = 10 bags, against a price rise of N$25, since 230 - 205 = N$25. Their supply is inelastic: hand mills at fixed hours, with no spare capacity in the table, mean the quantity offered cannot follow the price, so when demand for milled maize rose across the district, the shortage showed up in the village millers' price rather than in their output. Namib Grain, with a third of its line idle, met most of the extra demand with extra bags, which kept its price rise to N$10 on a N$200 bag - the smaller price rise sits beside the more elastic supply.\n(d) With district demand still rising, output rises where supply is elastic and prices rise where it is not. The table shows this: Namib Grain lifted bags milled by 400 a week on a N$10 price rise, while the village millers lifted output by 10 bags on a N$25 rise. For Otavi's households, extra demand is likely to be met at close to the old price while Namib Grain's idle third lasts; once its line runs flat out, its supply turns inelastic in turn, and further demand lands on price, as the village millers' price already shows. Households near a village miller may switch toward the big miller's cheaper bags, provided the extra demand does not swallow the spare capacity first. However, a good harvest or cheaper imported grain could shift supply right across the district and pull prices back down whatever the elasticities, and the table covers a single month, so seasonal swings in milling may reverse the readings later in the year.",
    "marking_guidance": [
-    "Parts (a) and (b) are read straight from the data: (a) needs the formula, the substitution and the answer with its reading; (b) one clear condition from the table.",
+    "Parts (a) and (b) are read straight from the data: (a) needs the formula, the substitution and the answer with its reading; (b) one condition from the table for each seller.",
     "Part (c): one mark per distinct linked statement - the inelastic village supply, the unchanged hours, and the contrast with Namib Grain's idle line.",
     "Part (d) is marked on expected relationship, then evidence, then analysis, then an exception; quoting the table without the relationship it supports earns nothing.",
     "For whom: the consequences for households must be traced, and figure-quoting as analysis is refused - the figures are the evidence, the reasoning is the analysis."
@@ -786,7 +814,9 @@
     "CLM-0455-2.8-008": 1,
     "CLM-0455-2.8-009": 1
    },
-   "authored_hash": "c0fd87081b4b99c5b45941263c6d4ab31514451cb1ccd6ce26a6dc5d72d0e73c",
+   "authored_hash": "6b5d7373ca9f025a36ca09a05524961606d49500ce4dbb14947077ede6abdbc9",
+   "prior_hash": "c0fd87081b4b99c5b45941263c6d4ab31514451cb1ccd6ce26a6dc5d72d0e73c",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length as plain prose; 002 prompt and answer rebuilt with two real features; 008 artificial Define reworded to State; P02(b) made a two-point Identify; leaked labels removed from P02(d); Katutura spelling fixed.",
    "objective_titles": [
     "calculation of PES",
     "determinants of PES"

@@ -68,7 +68,7 @@
    "mark_tariff": 2,
    "difficulty": 1,
    "prompt": "Identify two features of economic growth that set it apart from a one-off rise in output in a single quarter.",
-   "canonical_answer": "One feature is duration: growth is a sustained rise, carried across years rather than a single quarter. A second feature is its measure: growth is a rise in real output, with price changes stripped out, so a rise that comes from higher prices alone is not growth.",
+   "canonical_answer": "Growth is sustained: a rise carried across years rather than one quarter. It is also measured in real terms, with price changes removed, so a rise caused by higher prices alone is not growth.",
    "marking_guidance": [
     "Features: what it includes - the characteristics named must separate growth from a single quarter's rise, such as duration and the use of real output as the measure."
    ],
@@ -88,7 +88,9 @@
     "CLM-0455-4.6-001": 1,
     "CLM-0455-4.6-002": 1
    },
-   "authored_hash": "2d5662d7c125638fc0c648dba20d89510b1859963854525641fee39622c9d3dc",
+   "authored_hash": "3cdc962d7f6d1d8cd8136da61aa083df49f9b4c85a10b1053fd784b632b8e3e0",
+   "prior_hash": "2d5662d7c125638fc0c648dba20d89510b1859963854525641fee39622c9d3dc",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "definition of economic growth"
    ]
@@ -112,7 +114,7 @@
    "mark_tariff": 2,
    "difficulty": 2,
    "prompt": "Define real Gross Domestic Product.",
-   "canonical_answer": "Real Gross Domestic Product is the value of all the final goods and services an economy produces in a year, measured at constant prices so that a rise in prices alone cannot make output seem larger; nominal GDP, measured at current prices, is its unadjusted counterpart.",
+   "canonical_answer": "Real GDP is the value of all the final goods and services an economy produces in a year, measured at constant prices so that price rises alone cannot make output seem larger; nominal GDP values the same output at current prices.",
    "marking_guidance": [
     "Precise definition: the meaning must cover yearly production valued at constant prices, with the contrast to nominal GDP named."
    ],
@@ -131,7 +133,9 @@
    "claims_seen": {
     "CLM-0455-4.6-004": 1
    },
-   "authored_hash": "a2b69e7d61965154faa9c7c36d08d5eb0a67de5554ef5099dad66caa400840a0",
+   "authored_hash": "1c8e555f94b07a2f1549d4a600ed33ae8a4adb3166a703e3c6f9faebc50393de",
+   "prior_hash": "a2b69e7d61965154faa9c7c36d08d5eb0a67de5554ef5099dad66caa400840a0",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "measurement of economic growth"
    ]
@@ -155,7 +159,7 @@
    "mark_tariff": 1,
    "difficulty": 2,
    "prompt": "An economy's real GDP was N$50 000 million in 2025 and N$52 500 million in 2026. Calculate the rate of economic growth between the two years.",
-   "canonical_answer": "Formula: growth rate = (real GDP in the later year - real GDP in the earlier year) / real GDP in the earlier year x 100. Substitution: N$52 500 million - N$50 000 million = N$2 500 million, and N$2 500 million / N$50 000 million = 0.05. Answer: 0.05 x 100 = 5, so the economy's rate of economic growth was 5% a year.",
+   "canonical_answer": "Growth rate = (later real GDP - earlier real GDP) / earlier real GDP x 100. N$52 500 million - N$50 000 million = N$2 500 million; 2 500 / 50 000 = 0.05; 0.05 x 100 = 5, so growth was 5% a year.",
    "marking_guidance": [
     "Formula: the growth-rate formula must be stated, with the earlier year's real GDP as its base.",
     "Substitution: the working must show both years' figures substituted and the difference taken before the division.",
@@ -176,7 +180,9 @@
    "claims_seen": {
     "CLM-0455-4.6-005": 1
    },
-   "authored_hash": "1105b1d03a905d9b0c509c63da8cbaf1a359af65ac84b4381195812b198ae7ac",
+   "authored_hash": "a28eb58e12d2c689e66f13e658ade053882fa65d64f13a6b0a21b46fe440c3ad",
+   "prior_hash": "1105b1d03a905d9b0c509c63da8cbaf1a359af65ac84b4381195812b198ae7ac",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "measurement of economic growth"
    ]
@@ -203,7 +209,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "The table shows one economy's real GDP and population. 2020: real GDP N$40 000 million, population 2.0 million people. 2024: real GDP N$48 000 million, population 2.4 million people. Explain what the figures suggest about economic growth in this economy.",
-   "canonical_answer": "What the data shows: total real GDP rose from N$40 000 million to N$48 000 million between 2020 and 2024, since N$48 000 million - N$40 000 million = N$8 000 million, a rise of a fifth over the four years. Yet GDP per head stood still: N$40 000 million / 2.0 million people = N$20 000 per head in 2020, and N$48 000 million / 2.4 million people = N$20 000 per head in 2024. The relationship is that total output grew while average output per person did not. Why: population grew as fast as output, so each year's extra production was matched by extra people to share it among, which is why the percentage rise in real GDP showed up nowhere in the average. However, the totals say nothing about distribution: within the population some households may have gained while others did not, and that exception is what an average hides.",
+   "canonical_answer": "Total real GDP rose by N$8 000 million, from N$40 000 million to N$48 000 million, a fifth more. Yet GDP per head stood still: N$40 000 million / 2.0 million people = N$20 000 in 2020, and N$48 000 million / 2.4 million people = N$20 000 in 2024. This is because the population also grew by a fifth, so the extra output was shared among extra people. However, an average hides distribution: some households may have gained while others lost.",
    "marking_guidance": [
     "What the data shows: the relationship between total real GDP and GDP per head must be stated from the figures.",
     "Supporting evidence: the comparison must use the N$8 000 million rise and the two GDP-per-head figures.",
@@ -227,7 +233,9 @@
     "CLM-0455-4.6-007": 1,
     "CLM-0455-4.6-005": 1
    },
-   "authored_hash": "a9212d6868a83c5ad6eb567de58b2b35324755befecb7f1ddd5ddd6da3c7212c",
+   "authored_hash": "4c2555b6f17755d4310d36a6dcbb02e3ea5646063b77042e936596545115467e",
+   "prior_hash": "a9212d6868a83c5ad6eb567de58b2b35324755befecb7f1ddd5ddd6da3c7212c",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "measurement of economic growth"
    ]
@@ -253,7 +261,7 @@
    "mark_tariff": 4,
    "difficulty": 2,
    "prompt": "Over five years, an economy's prices rise by 60% while its nominal GDP rises by 72%, and its population is unchanged. Using the figures, explain why nominal GDP is a poor measure of this economy's economic growth.",
-   "canonical_answer": "The figures: with prices 60% higher, sales values rise even where production does not, so the 72% rise in nominal GDP mixes price rises with real changes. Stripping the prices out: 1.72 / 1.60 = 1.075, so real output rose by 7.5% over the five years, since 1.075 - 1.0 = 0.075. Because the population was unchanged, GDP per head rose by the same 7.5%. Therefore nominal GDP overstates this economy's growth: it reports 72% where the real rise in output was 7.5%, because the bulk of the nominal rise was price, not production, and a learner who quoted it would call a weak performance a strong one.",
+   "canonical_answer": "With prices 60% higher, sales values rise even where production does not, so the 72% rise in nominal GDP mixes price rises with real change. Removing prices: 1.72 / 1.60 = 1.075, so real output rose by 7.5% over the five years, and with the population unchanged GDP per head rose by the same 7.5%. Therefore nominal GDP overstates this economy's growth almost tenfold: 72% reported against a real rise of 7.5%.",
    "marking_guidance": [
     "Context: the figures must be used - the 60% price rise, the 72% nominal rise and the unchanged population.",
     "Reasoning: the link from price rises to inflated nominal GDP must be given, because a nominal figure on its own says nothing about output.",
@@ -275,7 +283,9 @@
     "CLM-0455-4.6-004": 1,
     "CLM-0455-4.6-007": 1
    },
-   "authored_hash": "27ac2615a8c8522ca961751ab1ece1ac832a1db5d05a4989dd904ad8d80cd6dc",
+   "authored_hash": "f3e1593b99515ec26715507e0752c11fe9cbc3a326f66c69145ded5bc2883d5c",
+   "prior_hash": "27ac2615a8c8522ca961751ab1ece1ac832a1db5d05a4989dd904ad8d80cd6dc",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "measurement of economic growth"
    ]
@@ -345,7 +355,7 @@
    "mark_tariff": 8,
    "difficulty": 3,
    "prompt": "An economy producing at its capacity makes 60 tonnes of fish and 30 tonnes of maize a year. A recession then leaves many of its workers and boats idle, and output falls to 48 tonnes of fish and 24 tonnes of maize. Discuss how a production possibility curve shows what the recession did to this economy: name the axes, the original curve, the point the economy started at, the direction it moved, where it now sits, and what the diagram shows in words.",
-   "canonical_answer": "First, the axes labelled: the vertical axis carries tonnes of fish a year and the horizontal axis tonnes of maize a year, each with its unit named. Second, the original curve drawn and labelled: the production possibility curve shows every combination of the two goods the economy can produce at full use of its resources, and the starting point A sits on the curve at 60 tonnes of fish and 30 tonnes of maize, the economy producing at its capacity. Third, the movement, in the correct direction: the recession does not shift the curve, because the economy's capacity is unchanged; the economy moves inward, from point A on the curve to point B inside it, at 48 tonnes of fish and 24 tonnes of maize, away from the boundary in the direction of less of both goods. Fourth, the new equilibrium marked and labelled: point B, inside the curve, is where the economy now produces - below what it could produce - with workers and boats idle. Fifth, what the diagram shows, in words: the gap between point B and the curve is the output the recession wastes, and the boundary staying where it was is the diagram's whole point. The link between the two positions is idle resources: the recession reduced the use the economy makes of its workers and capital, not the amounts it has of them, and the consequence is that the same curve now holds an economy producing inside it, which is what a recession looks like on a production possibility curve.",
+   "canonical_answer": "Put tonnes of fish a year on the vertical axis and tonnes of maize a year on the horizontal axis. Draw the production possibility curve, showing the combinations the economy can produce with full use of its resources, and mark point A on it at 60 tonnes of fish and 30 tonnes of maize, where the economy produced at capacity. The recession does not shift the curve, because the economy still has the same workers and boats; instead it moves inward from A to point B inside the curve, at 48 tonnes of fish and 24 tonnes of maize - less of both goods. Label B as the economy's new position. In words, the diagram shows that the recession left resources idle rather than destroying them: the gap between B and the curve is output lost to unused workers and boats, and the unchanged curve shows the economy could return to A once they are used again.",
    "marking_guidance": [
     "Axes labelled: both axes must be named with their goods and units before anything else earns credit.",
     "Original curves drawn and labelled: the original curve and the starting point on it, at 60 tonnes of fish and 30 tonnes of maize, must be described.",
@@ -371,7 +381,9 @@
     "CLM-0455-4.6-010": 1,
     "CLM-0455-4.6-011": 1
    },
-   "authored_hash": "4327ab786bbf7b05df51c1029b82b33ea039e63a1c1c510a29c4261eab09c220",
+   "authored_hash": "6b35aa013bf878aad603d1fc426a20b9fa1b637a11709fa29fa4448be969001e",
+   "prior_hash": "4327ab786bbf7b05df51c1029b82b33ea039e63a1c1c510a29c4261eab09c220",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "causes and consequences of recession"
    ]
@@ -397,7 +409,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "An economy's real GDP was N$12 000 million in quarter 1, N$11 800 million in quarter 2, N$11 600 million in quarter 3 and N$11 500 million in quarter 4 of the same year. Its unemployment rate was 8% in quarter 1 and 12% in quarter 4. Explain what the data suggests about this economy.",
-   "canonical_answer": "What the data shows: real GDP fell in each of the three quarters after the first, from N$12 000 million to N$11 500 million across the year, and because the fall ran for more than two successive quarters it meets the definition of a recession. The relationship: as output fell, unemployment rose from 8% to 12%, and the two moved together through the year. Why: firms that sell less cut production, and because they need fewer workers to produce less, they lay staff off, so falling output brings rising unemployment quarter by quarter. However, one detail softens the picture: the fall slowed late in the year, since the drop between the last two quarters was smaller than the drops before it, which may mean the downturn was easing.",
+   "canonical_answer": "Real GDP fell in each of the three quarters after the first, from N$12 000 million to N$11 500 million, so with falls in more than two successive quarters the economy is in recession. As output fell, unemployment rose from 8% to 12%, because firms selling less cut production, need fewer workers and lay staff off. However, the falls slowed - N$100 million in the last quarter against N$200 million in each earlier one - which may mean the downturn was easing.",
    "marking_guidance": [
     "What the data shows: the relationship between the quarterly falls in real GDP and the rise in unemployment must be stated.",
     "Supporting evidence: the comparison must quote the quarterly figures and the 8% and 12% unemployment rates.",
@@ -420,7 +432,9 @@
     "CLM-0455-4.6-008": 1,
     "CLM-0455-4.6-011": 1
    },
-   "authored_hash": "fe406342210df0e034a9a31503d18b55433f68e8645821f19c394f708f4d8717",
+   "authored_hash": "432d5cfc313928b6d8678f79e3b8765002f5c615c6a9992830a36a2ff5c943e4",
+   "prior_hash": "fe406342210df0e034a9a31503d18b55433f68e8645821f19c394f708f4d8717",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "causes and consequences of recession"
    ]
@@ -446,7 +460,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "In normal low-season trading, Etosha Gate Lodge fills 90 of its rooms. During a recession, travel agents report that households are booking far fewer trips, and the lodge fills 54 rooms. Using the figures, explain how a recession is likely to affect a tourism business such as Etosha Gate Lodge.",
-   "canonical_answer": "The figures: filled rooms fell from 90 to 54, since 90 rooms - 54 rooms = 36 rooms, and 36 / 90 = 0.40, a fall of 40% in bookings. The context is a recession: households whose incomes fall, or who fear losing work, cut spending on trips first, because a holiday can be postponed. Because bookings and the revenue they bring fall by 40%, the lodge is likely to cut costs where it can: seasonal staff may lose shifts, maintenance may be deferred, and room prices may be discounted to attract the fewer travellers who remain. Therefore the recession reaches the lodge through lower demand for its rooms, lower revenue and pressure on the jobs it provides, and the 40% fall in filled rooms shows that pressure at work.",
+   "canonical_answer": "Filled rooms fell from 90 to 54: 90 - 54 = 36, and 36 / 90 = 0.40, a 40% fall. In a recession, households whose incomes fall, or who fear losing work, cut holiday spending early because a trip can be postponed. With bookings down 40%, the lodge's revenue falls, so it is likely to cut costs: seasonal staff may lose shifts, maintenance may be deferred and room prices discounted. Therefore the recession reaches the lodge through lower demand, lower revenue and pressure on its workers' jobs.",
    "marking_guidance": [
     "Context: the figures must be used - the fall from 90 rooms to 54 rooms and the 40% drop.",
     "Reasoning: the link from falling household incomes during a recession to postponed holiday spending must be given, because the figures alone explain nothing.",
@@ -468,7 +482,9 @@
     "CLM-0455-4.6-009": 1,
     "CLM-0455-4.6-011": 1
    },
-   "authored_hash": "0726c4e5d417f2554d2a9db7b23b100ce92a7a2d5034cfc7e0e3497f7691ebfc",
+   "authored_hash": "9e9e86e1dcfc823967b120b23015c5e6cee4c99e53eae7546592ee7d2008728b",
+   "prior_hash": "0726c4e5d417f2554d2a9db7b23b100ce92a7a2d5034cfc7e0e3497f7691ebfc",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "causes and consequences of recession"
    ]
@@ -493,7 +509,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "A banking crisis makes loans scarce and costly, and firms across an economy sharply reduce their investment plans. Analyse the likely effects on the economy.",
-   "canonical_answer": "Starting point: credit becomes scarce and costly, and firms cut investment. Mechanism: because investment spending is part of total demand, firms that build machinery and premises lose orders, and this causes their own workforces and suppliers to lose income; those households then spend less, so firms further away see demand fall and cut production too. Consequence: real GDP falls, and where it falls for two successive quarters the economy meets the definition of recession; unemployment rises as firms lay off workers, and firms that depended on credit may fail. For whom: workers lose jobs and income, firms lose sales and some fail, the government loses tax revenue just as it pays more in benefits, and households face a weaker choice of goods and services as businesses cut back.",
+   "canonical_answer": "When credit becomes scarce and costly, firms cut investment. Because investment is part of total demand, firms that build machinery and premises lose orders, so their workers and suppliers lose income; those households then spend less, and firms further along the chain cut production too. As a result real GDP falls, and if it falls for two successive quarters the economy is in recession; unemployment rises, and firms that depended on credit may fail. Workers lose jobs and income, firms lose sales, the government loses tax revenue while paying more in benefits, and consumers face less choice as businesses cut back.",
    "marking_guidance": [
     "Starting point: the initial change - scarce credit and cut investment - must be stated.",
     "Mechanism: because lower investment lowers the income of suppliers and their workers, this causes further falls in demand.",
@@ -516,7 +532,9 @@
     "CLM-0455-4.6-009": 1,
     "CLM-0455-4.6-011": 1
    },
-   "authored_hash": "3cb747a405aaab9400625cc6feac665790cadcf846cd8a44f921067705db36f7",
+   "authored_hash": "31a52680f39974aeb77ecfbd8b233cf22b036d589739d6b6cad16354e9673c46",
+   "prior_hash": "3cb747a405aaab9400625cc6feac665790cadcf846cd8a44f921067705db36f7",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "causes and consequences of recession"
    ]
@@ -542,7 +560,7 @@
    "mark_tariff": 4,
    "difficulty": 4,
    "prompt": "Explain the features of a recession that make it different from a slowdown in which output still rises.",
-   "canonical_answer": "The features are direction, duration, idle resources and spread. Direction: in a recession real GDP falls outright, whereas in a slowdown output still rises, just more slowly than before. Duration: the fall must run for two successive quarters or longer to meet the definition. Idle resources: workers and machines go unused, so the economy produces inside its production possibility curve rather than on it. Spread: the fall shows across the economy as demand weakens, not in a single industry having a poor year.",
+   "canonical_answer": "In a recession real GDP falls outright, whereas in a slowdown output still rises, just more slowly. The fall must last two successive quarters or longer. Workers and machines stand idle, so the economy produces inside its production possibility curve rather than on it. And the fall spreads across the economy as demand weakens, rather than hitting one industry having a poor year.",
    "marking_guidance": [
     "Features: what it includes - the characteristics named must separate falling output over two or more quarters from output that rises more slowly."
    ],
@@ -563,7 +581,9 @@
     "CLM-0455-4.6-010": 1,
     "CLM-0455-4.6-011": 1
    },
-   "authored_hash": "c3a1a8f4eab34f93fe70592b2087f473b756eae6da9fb6004361c584456678cd",
+   "authored_hash": "6b0f49b9baab29c2f26e613eb1064c9b3976dda2fb250e2ceb84d53fdd09024e",
+   "prior_hash": "c3a1a8f4eab34f93fe70592b2087f473b756eae6da9fb6004361c584456678cd",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "causes and consequences of recession"
    ]
@@ -587,7 +607,7 @@
    "mark_tariff": 2,
    "difficulty": 3,
    "prompt": "Define an increase in an economy's productive capacity.",
-   "canonical_answer": "An increase in productive capacity is a rise in the maximum output an economy is capable of producing, shown by the production possibility curve shifting outward; it is a cause of economic growth in the long run, since output can then rise year after year without the economy pressing against its limits.",
+   "canonical_answer": "An increase in productive capacity is a rise in the maximum output an economy can produce, shown by the production possibility curve shifting outward; it lets output keep growing in the long run.",
    "marking_guidance": [
     "Precise definition: the meaning must cover the rise in maximum possible output and the outward shift of the production possibility curve that shows it."
    ],
@@ -606,7 +626,9 @@
    "claims_seen": {
     "CLM-0455-4.6-014": 1
    },
-   "authored_hash": "286d65d168320444fdb95d6ece5d4d279fb45a9f82d176f04dae25d552704dc7",
+   "authored_hash": "f473a6bd850489708bb2f9eeb88367ba835489e8ef91220f6cb0323ca3bf0c14",
+   "prior_hash": "286d65d168320444fdb95d6ece5d4d279fb45a9f82d176f04dae25d552704dc7",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "causes of economic growth"
    ]
@@ -632,8 +654,8 @@
    "command_word": "Discuss",
    "mark_tariff": 8,
    "difficulty": 3,
-   "prompt": "After years of heavy investment in machinery and a wave of new engineering graduates, an economy finds it can produce a fifth more copper and a fifth more beef than before at full employment of resources. Discuss how a production possibility curve shows what happened: name the axes, the original curve, where the economy produced before, the direction the curve moves, the point it can now reach, and what the diagram shows in words.",
-   "canonical_answer": "First, the axes labelled: the vertical axis carries tonnes of copper a year and the horizontal axis tonnes of beef a year, each with its unit named. Second, the original curve drawn and labelled: the production possibility curve shows every combination of copper and beef the economy can produce at full use of its resources, and before the change the economy produced at point A on this curve - 40 tonnes of copper and 80 tonnes of beef, its fullest output. Third, the shift, in the correct direction: the whole curve moves outward, away from the origin, to a new curve; this is a shift of the boundary, not a movement along it, because investment and skills raised what the economy can produce at most. Fourth, the new equilibrium marked and labelled: the economy can now reach a point such as C on the new curve, at 48 tonnes of copper and 96 tonnes of beef, a fifth more of each than before, and every point on the new curve sits outside the old one. Fifth, what the diagram shows, in words: the maximum possible output has risen, and that is economic growth in the capacity sense - the economy can now produce more of both goods than before. The link between the two curves is investment and skills: machinery and engineering graduates raised the most the economy can produce, and the consequence is that output can grow year after year without pressing against the old boundary.",
+   "prompt": "After years of heavy investment in machinery and a wave of new engineering graduates, an economy that could produce at most 40 000 tonnes of copper together with 80 000 tonnes of beef a year at full employment of its resources can now produce a fifth more of each. Discuss how a production possibility curve shows what happened: name the axes, the original curve, where the economy produced before, the direction the curve moves, the point it can now reach, and what the diagram shows in words.",
+   "canonical_answer": "Put tonnes of copper a year on the vertical axis and tonnes of beef a year on the horizontal axis. Draw the original production possibility curve, showing the combinations the economy can produce with full use of its resources, and mark point A on it at 40 000 tonnes of copper and 80 000 tonnes of beef. Investment and new skills raise the most the economy can produce, so the whole curve shifts outward, away from the origin; this is a shift of the boundary, not a movement along it. Mark point C on the new curve at 48 000 tonnes of copper and 96 000 tonnes of beef, a fifth more of each. In words, the diagram shows that maximum possible output has risen: this is economic growth of capacity, and because the new curve lies outside the old one, output can keep rising without pressing against the old limit.",
    "marking_guidance": [
     "Axes labelled: both axes must be named with their goods and units before anything else earns credit.",
     "Original curves drawn and labelled: the original curve and the economy's starting point on it must be described before the change.",
@@ -659,7 +681,9 @@
     "CLM-0455-4.6-014": 1,
     "CLM-0455-4.6-015": 1
    },
-   "authored_hash": "d2cd6d6c7d3306ad20ce76ddf63f17782848c6ad92934815440846717452b0f0",
+   "authored_hash": "a684d0845c20acf4266a0ad9fb986bc2b4d6281eab8dc7b1af51ad16a5a86466",
+   "prior_hash": "ac1b90d7d7438e15757349c4da09f3e35990fab9d1d403288b7083619306ea3e",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "causes of economic growth"
    ]
@@ -685,7 +709,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "The table shows investment spending as a share of GDP and average yearly growth of real GDP over a decade for four economies. Economy A: investment 10% of GDP, growth 1% a year. Economy B: investment 18% of GDP, growth 3% a year. Economy C: investment 24% of GDP, growth 5% a year. Economy D: investment 32% of GDP, growth 4% a year. Explain what the data suggests about investment as a cause of economic growth.",
-   "canonical_answer": "What the data shows: the relationship runs upward - economies that invested a larger share of GDP tended to grow faster, with C investing 24% of GDP and growing 5% a year while A invested 10% and grew 1%. The comparison supports investment as a cause: B and C, with the larger investment shares, grew three to five times as fast as A, and the mechanism is that investment adds to the economy's capital, raising capacity and shifting the production possibility curve outward over the years. Why: more machinery, premises and infrastructure let workers produce more, so output rises from a bigger capacity. However, D is the exception: it invested the largest share, 32% of GDP, yet grew more slowly than C, at 4% against 5%, which suggests the relationship is not mechanical - the quality of the investment, the technology it carries and the other causes of growth matter too.",
+   "canonical_answer": "Economies that invested a larger share of GDP tended to grow faster: A invested 10% and grew 1% a year, while C invested 24% and grew 5%. Investment adds capital - machinery, premises, infrastructure - that lets workers produce more, raising capacity and shifting the production possibility curve outward. However, D is the exception: it invested the most, 32% of GDP, yet grew 4% against C's 5%, so the quality of investment and the other causes of growth matter too.",
    "marking_guidance": [
     "What the data shows: the relationship between investment share and growth rate must be stated across the four economies.",
     "Supporting evidence: the comparison must use the figures for at least two economies, such as A against C.",
@@ -708,7 +732,9 @@
     "CLM-0455-4.6-013": 1,
     "CLM-0455-4.6-014": 1
    },
-   "authored_hash": "2d1e30ec58f1398efa21688e69e7804a4a4fab927492340e31922b4bcb278d09",
+   "authored_hash": "b2d3fceab6ca507a77e4882d92bc21b6c2988fca72893759ff413fe09d7596bf",
+   "prior_hash": "2d1e30ec58f1398efa21688e69e7804a4a4fab927492340e31922b4bcb278d09",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "causes of economic growth"
    ]
@@ -734,7 +760,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Oshakati Textiles installs new looms and can now weave 5 000 metres of cloth a day where it wove 4 000 before, without taking on more staff. Using the figures, explain how investment by a firm can contribute to economic growth.",
-   "canonical_answer": "The figures: the firm's daily output rose from 4 000 metres to 5 000 metres, since 5 000 metres - 4 000 metres = 1 000 metres, and 1 000 / 4 000 = 0.25, a rise of 25% in what it can produce. Because the looms raise output per worker, the firm can fill larger orders without larger staff, and its added production counts toward the economy's real GDP directly. Where many firms invest as this one did, the same logic scales up: the economy's capacity rises, its production possibility curve shifts outward, and output grows year after year from the new equipment. Therefore one firm's investment adds to output now, and investment across firms adds to the capacity that sustains economic growth, which is why investment is counted among the main causes of growth.",
+   "canonical_answer": "Output rose from 4 000 to 5 000 metres a day: 5 000 - 4 000 = 1 000, and 1 000 / 4 000 = 0.25, a 25% rise with the same staff. Because the looms raise output per worker, the firm can fill larger orders, and its extra production adds directly to real GDP. Where many firms invest like this, the economy's capacity rises and its production possibility curve shifts outward. Therefore investment adds to output now and to the capacity that sustains growth later.",
    "marking_guidance": [
     "Context: the figures must be used - the rise from 4 000 to 5 000 metres and the 25% increase in what the firm can produce.",
     "Reasoning: the link from new looms to output per worker to real GDP must be given, because the figures alone explain nothing.",
@@ -756,7 +782,9 @@
     "CLM-0455-4.6-013": 1,
     "CLM-0455-4.6-014": 1
    },
-   "authored_hash": "140ee8537e2f8ebe00c4268073dc7646e5545e5b0adb38da1a34bececcb95739",
+   "authored_hash": "38d19c4fd385409e80cca9c90872632627e70ba6402f03924213fc9bd056f407",
+   "prior_hash": "140ee8537e2f8ebe00c4268073dc7646e5545e5b0adb38da1a34bececcb95739",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "causes of economic growth"
    ]
@@ -781,7 +809,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "A government builds a deep-water port and a set of training colleges, adding to the economy's capacity to produce. Analyse how these measures are likely to affect the economy's output over the next decade.",
-   "canonical_answer": "Starting point: the port and the colleges add capacity. Mechanism: because the port lowers the cost of moving goods to and from foreign markets, exporters gain sales abroad and importers pay less for inputs, and this causes firms to expand production; because the colleges send out trained workers, firms can fill more skilled roles, so output per worker rises. Consequence: the economy's maximum output rises, the production possibility curve shifts outward, and real GDP grows over the decade as the new capacity comes into use, with jobs created in construction first and in exporting industries afterwards. For whom: firms gain lower costs and skilled staff, workers gain jobs and better pay, consumers gain from the added output, and the government gains tax revenue from the larger economy while carrying the cost of building both.",
+   "canonical_answer": "The port and colleges add capacity. Because the port lowers the cost of moving goods to and from foreign markets, exporters sell more abroad and importers pay less for inputs, so firms expand production; because the colleges supply trained workers, firms fill more skilled roles and output per worker rises. As a result maximum output rises, the production possibility curve shifts outward and real GDP grows over the decade as the new capacity comes into use. Firms gain lower costs and skilled staff, workers gain jobs and better pay, consumers gain more output, and the government gains tax revenue while bearing the building cost.",
    "marking_guidance": [
     "Starting point: the initial change - the port and the colleges adding capacity - must be stated.",
     "Mechanism: because transport costs fall and skills rise, this causes firms to expand production.",
@@ -804,7 +832,9 @@
     "CLM-0455-4.6-013": 1,
     "CLM-0455-4.6-014": 1
    },
-   "authored_hash": "1c2868e03f0ceabb80a6d73916e046752d51cc3d2c01749b611e83eedd8b33a3",
+   "authored_hash": "3b0ae9dcb6732ff410533a72c2d4d217fbe3c8bd118694a3450e946b76b385da",
+   "prior_hash": "1c2868e03f0ceabb80a6d73916e046752d51cc3d2c01749b611e83eedd8b33a3",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "causes of economic growth"
    ]
@@ -830,7 +860,7 @@
    "mark_tariff": 4,
    "difficulty": 4,
    "prompt": "Explain the features of the main causes of economic growth.",
-   "canonical_answer": "The features split into a demand-side cause and capacity-side causes. Higher total demand: where an economy produces inside its production possibility curve, more spending by households, firms, the government or buyers abroad employs idle resources, and output moves up toward the curve. Growth of capacity: investment in new capital, better technology, and a larger or better-skilled workforce shift the curve outward, raising the maximum the economy can produce. Behind the capacity causes stand the quantity and quality of the factors of production: more land, labour and capital, and better-trained labour, each adds to what the economy can make. What the causes share: the demand-side cause raises output toward an unchanged limit, and the capacity-side causes raise the limit itself.",
+   "canonical_answer": "The causes fall into two groups. Where an economy produces inside its production possibility curve, higher total demand - more spending by households, firms, the government or buyers abroad - employs idle resources and moves output up toward the curve. Growth of capacity shifts the curve outward: investment in new capital, better technology, and more or better-skilled land, labour and capital raise the maximum the economy can produce. The first raises output toward an unchanged limit; the second raises the limit itself.",
    "marking_guidance": [
     "Features: what it includes - the causes named must cover the movement toward the curve and the outward shift of it, with the capacity causes made specific."
    ],
@@ -851,7 +881,9 @@
     "CLM-0455-4.6-014": 1,
     "CLM-0455-4.6-015": 1
    },
-   "authored_hash": "c01aa4da173caab7cf9a8a80cfa25d8eca61ba077a203684f606eb06bb220f57",
+   "authored_hash": "588953b12a77b093e0e0d350b23e5adeb08ce0f626e72d6695cb05a4d1a2a345",
+   "prior_hash": "c01aa4da173caab7cf9a8a80cfa25d8eca61ba077a203684f606eb06bb220f57",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "causes of economic growth"
    ]
@@ -919,7 +951,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "An economy's real GDP grows by 5% a year for five years, and the government spends the extra tax revenue on clinics and schools. Analyse the likely consequences of this growth for households and the government.",
-   "canonical_answer": "Starting point: real GDP grows by 5% a year, and tax revenue rises with it. Mechanism: because firms sell more, they take on workers and offer overtime, and this causes household incomes to rise; because the government's revenue grows with incomes and profits, it can fund clinics and schools without raising tax rates. Consequence: household incomes rise over the five years, unemployment tends to fall where the growth employs idle workers, and public services expand - and where the gains are shared out across households, average living standards tend to rise with output. For whom: households gain incomes and services, the government gains revenue and reaches its aims, firms gain sales, and the economy gains capacity where firms also invest their higher profits. The costs ride alongside: where demand presses on capacity, prices may rise, and expansion may impose costs on others, so the gains arrive unevenly.",
+   "canonical_answer": "Real GDP grows by 5% a year and tax revenue rises with it. Because firms sell more, they hire workers and offer overtime, so household incomes rise and unemployment tends to fall where idle workers are taken on; because revenue grows with incomes and profits, the government can fund clinics and schools without raising tax rates. Where the gains are shared out across households, average living standards tend to rise. But where demand presses on capacity, prices may rise, and expansion may impose costs such as pollution on others. Households gain incomes and services, firms gain sales, and the government gains revenue to meet its aims.",
    "marking_guidance": [
     "Starting point: the initial change - 5% yearly growth and the spending of the extra revenue - must be stated.",
     "Mechanism: because firms sell more and revenue grows with incomes, this causes rising household incomes and expanded services.",
@@ -942,7 +974,9 @@
     "CLM-0455-4.6-016": 1,
     "CLM-0455-4.6-017": 1
    },
-   "authored_hash": "4a99fd005dbe95ca3998954c6888bcf718e31d18f6da7e9d20d512e25879c40c",
+   "authored_hash": "2bfe54e4b0d024d5378be942a74f2b9d5789463e86fe303749f76874f47073b2",
+   "prior_hash": "4a99fd005dbe95ca3998954c6888bcf718e31d18f6da7e9d20d512e25879c40c",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "consequences of economic growth"
    ]
@@ -968,7 +1002,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Two economies grow in the same year. The first grows by 6%, and its growth comes from a 30% rise in coal output while the air in its mining towns worsens. The second grows by 2%, with no change in its air quality. Using the figures, explain why the consequences of growth may differ between economies.",
-   "canonical_answer": "The figures: the first economy grew three times as fast, 6% against 2%, but its growth rode on coal, and the 30% rise in coal output came with worse air in its mining towns, a cost imposed on the people who live there. Because the two economies grew from different sources, the consequences differ: the first gained income and jobs quickly, while its mining-town households also bore pollution they were not paid for; the second grew more slowly, without that particular cost and with less pressure on its capacity. Consequences also depend on where the gains go: in the first economy, households outside the coal towns may see little of the income growth while living with the cost of it. Therefore the source of growth, the costs it imposes on others and the distribution of its gains decide what growth means for the people of an economy, which is why the 6% and the 2% tell different stories.",
+   "canonical_answer": "The first economy grew three times as fast, 6% against 2%, but its growth came from a 30% rise in coal output that worsened the air in its mining towns, a cost imposed on residents who are not paid for it. The second grew more slowly without that cost. And households outside the coal towns may see little of the first economy's extra income. Therefore the source of growth, its costs to others and how its gains are distributed decide what growth means, so 6% need not beat 2%.",
    "marking_guidance": [
     "Context: the figures must be used - the 6% and 2% growth rates, the 30% rise in coal output and the worsening air.",
     "Reasoning: the link from the source of growth to its consequences must be given, because the rates alone explain nothing.",
@@ -990,7 +1024,9 @@
     "CLM-0455-4.6-017": 1,
     "CLM-0455-4.6-018": 1
    },
-   "authored_hash": "2612e64cbaab3ce07f5557e1c03845b3982089545b135c9ef118e77b6536180e",
+   "authored_hash": "f4b62426a8ac3de3dc9c0d5c97a598959cb1d328ee47a53757701c7ba321d28e",
+   "prior_hash": "968ba62d667d850f04adaa4d8084a1eb3b7144096994502ea2f071e77d582d74",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "consequences of economic growth"
    ]
@@ -1014,8 +1050,8 @@
    "command_word": "Define",
    "mark_tariff": 2,
    "difficulty": 4,
-   "prompt": "Define demand-side policy as a way of promoting economic growth.",
-   "canonical_answer": "Demand-side policy is the use of government spending, taxation and interest rates to raise total spending in the economy; as a growth policy it works where the economy has spare capacity, since the extra spending employs idle workers and machines and moves the economy toward its production possibility curve, raising real GDP without a change in capacity.",
+   "prompt": "Define demand-side policy.",
+   "canonical_answer": "Demand-side policy uses government spending, taxation and interest rates to raise total spending; it promotes growth where the economy has spare capacity, because the extra spending employs idle workers and machines and raises real GDP without changing capacity.",
    "marking_guidance": [
     "Precise definition: the meaning must name the tools - spending, taxes and interest rates - and the spare-capacity condition under which the policy raises output."
    ],
@@ -1035,7 +1071,9 @@
     "CLM-0455-4.6-019": 1,
     "CLM-0455-4.6-021": 1
    },
-   "authored_hash": "90c90d02cb845d6c70583312ac614c56ffbec2cb6332ef2b7ff94d5ace73bd79",
+   "authored_hash": "92afcade2cab6a1a5df9fcb96d89e7be75d659f0d0c179220274e955253ec191",
+   "prior_hash": "7d0da5050812af85e3317707cf6d64a198db84c8d6377747271ec99d343c10b9",
+   "repair_note": "Reviewer: removed syllabus-heading qualifiers from Define prompts, distinguished prompts duplicated across topics, and replaced the leaked 'for whom:' label in the essay plan",
    "objective_titles": [
     "policies to promote economic growth"
    ]
@@ -1059,7 +1097,7 @@
    "mark_tariff": 6,
    "difficulty": 4,
    "prompt": "The government funds technical colleges and expands the road from Windhoek to the port at Walvis Bay. Analyse the benefits of these policies for economic growth.",
-   "canonical_answer": "A first benefit is skills: college graduates raise output per worker, so firms can produce more with the same workforce, which leads to higher capacity and faster growth of real GDP. A second benefit is lower transport costs: a better road to the port lets firms move goods to foreign markets more cheaply, so exports become easier to sell abroad, and firms expand production to meet the sales. A third benefit is capacity that lasts: colleges and roads keep raising output for decades after the spending ends, so growth built on them tends to persist. For whom: firms gain skilled workers and cheaper logistics, workers gain employable skills and better pay, consumers gain from the added output, and the economy gains a production possibility curve shifted outward over the years the measures take to work.",
+   "canonical_answer": "One benefit is skills: graduates of the technical colleges raise output per worker, so firms produce more with the same workforce, which leads to higher capacity. A second is lower transport costs: a better road from Windhoek to Walvis Bay lets firms move goods to foreign markets more cheaply, so exports sell more easily and firms expand production. A third is lasting capacity: colleges and roads keep raising output for decades, so growth built on them tends to persist. Firms gain skilled workers and cheaper transport, workers gain skills and better pay, consumers gain more output, and the economy's production possibility curve shifts outward.",
    "marking_guidance": [
     "Benefit: each advantage must be stated as a benefit of the named policies.",
     "Because: the reasoning must link each measure to its effect - skills raise output per worker, and a cheaper road raises exports.",
@@ -1080,7 +1118,9 @@
    "claims_seen": {
     "CLM-0455-4.6-020": 1
    },
-   "authored_hash": "8ba4ff67a5e0d1c3cf8db8edc202494b633d680cee7d07bd156da64f6c4e5f9e",
+   "authored_hash": "e34d27d1310d830117574cdd3c2dbec355765cec7d5e376864f053b750a33028",
+   "prior_hash": "8ba4ff67a5e0d1c3cf8db8edc202494b633d680cee7d07bd156da64f6c4e5f9e",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "policies to promote economic growth"
    ]
@@ -1105,7 +1145,7 @@
    "mark_tariff": 6,
    "difficulty": 4,
    "prompt": "The programme of colleges and roads costs N$2 000 million a year, and its first new colleges open five years from now. Analyse the limitations of education and infrastructure spending as a policy to promote economic growth.",
-   "canonical_answer": "One limitation is delay: the first colleges open five years from now, so the capacity they create arrives long after the spending begins, and a government seeking faster growth this year gains little from them at first. A second limitation is cost: at N$2 000 million a year, the programme must be financed from taxes or borrowing, and money spent on it is not spent on clinics, pensions or debt relief now. A third limitation is delivery: a college teaches little where its teaching is poor, and a road earns little where it is badly built or poorly maintained, so the promised capacity depends on execution. For whom: taxpayers carry the cost now, households wait years for services that arrive slowly, and the government holds the political risk of spending much before results show.",
+   "canonical_answer": "One limitation is delay: the first colleges open in five years, so a government wanting faster growth this year gains little at first. A second is cost: the N$2 000 million a year must come from taxes or borrowing, so it is not available for clinics, pensions or repaying debt now. A third is delivery: poor teaching, or roads badly built and poorly maintained, add little capacity, because the gains depend on execution. Taxpayers bear the cost now, households wait years for the benefits, and the government carries the political risk of spending heavily before results show.",
    "marking_guidance": [
     "Limitation: each drawback must be stated as a limitation of the named spending.",
     "Because: the reasoning must say why each drawback arises - delay, the N$2 000 million a year cost, and delivery risk.",
@@ -1127,7 +1167,9 @@
     "CLM-0455-4.6-020": 1,
     "CLM-0455-4.6-022": 1
    },
-   "authored_hash": "e88e4baaffea088ccb585e1c19c74bac910c047b7efcaa4e2ed7f05d0cb70332",
+   "authored_hash": "1b0e29251667d0fe8dc6f87f3c1f3406b58ab2b2ad859f3287b311c099c16a82",
+   "prior_hash": "e88e4baaffea088ccb585e1c19c74bac910c047b7efcaa4e2ed7f05d0cb70332",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "policies to promote economic growth"
    ]
@@ -1154,7 +1196,7 @@
    "mark_tariff": 8,
    "difficulty": 5,
    "prompt": "One worker in eight in an economy is unemployed, and its factories run well below capacity. Discuss whether demand-side policies or supply-side policies are the more effective way for this economy to promote economic growth.",
-   "canonical_answer": "Why demand-side might: the argument for demand-side policies is fit and speed. With one worker in eight idle and factories below capacity, the economy sits well inside its production possibility curve, so extra spending from tax cuts, higher public spending or a lower interest rate meets idle resources and can lift real GDP within a year or two. Why it might not: the gains stop at the curve - demand-side measures use capacity the economy already has, and once the idle resources are employed, further spending tends to raise prices rather than output. Why supply-side might: the argument for supply-side policies is reach and permanence - education, training, infrastructure and better incentives raise capacity itself, shifting the curve outward, and the gains persist for decades; for an economy this far below capacity, though, they arrive slowly, and their first graduates take years. Judgement: on balance, demand-side policies are the more effective way for this economy to start growth, because its problem is unused capacity, not missing capacity. What settles it is the economy's position: it depends on how far the economy sits inside its curve - an economy producing at its boundary would need the supply-side route - and on the time horizon, since growth that must last decades rests in the end on capacity measures.",
+   "canonical_answer": "With one worker in eight unemployed and factories well below capacity, the economy sits inside its production possibility curve, so demand-side measures - tax cuts, higher public spending or a lower interest rate - meet idle resources and can raise real GDP within a year or two. Their weakness is that the gains stop at the curve: once idle resources are employed, further spending tends to raise prices rather than output. Supply-side measures such as education, training, infrastructure and better incentives raise capacity itself, shifting the curve outward with gains that last decades, but they arrive slowly, and this economy's problem is not missing capacity. On balance, demand-side policies are the more effective way to start growth here, because the problem is unused capacity. It depends on how far inside its curve the economy sits and on the time horizon: once it nears its boundary, lasting growth needs supply-side measures.",
    "marking_guidance": [
     "Judgement: the answer must say which route is more effective for this economy, and it depends must be answered by naming the condition.",
     "Why it might: the argument for demand-side measures - idle resources and fast effect - must be developed.",
@@ -1179,7 +1221,9 @@
     "CLM-0455-4.6-021": 1,
     "CLM-0455-4.6-022": 1
    },
-   "authored_hash": "5e409b89a097b678b4cb045adeb917485f55891298dab9e39b8c85eb5fbb4947",
+   "authored_hash": "2d6826ca0d5eb2e01a3a414c38bed9f30259d272c28b47c398877acaba000460",
+   "prior_hash": "5e409b89a097b678b4cb045adeb917485f55891298dab9e39b8c85eb5fbb4947",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "policies to promote economic growth"
    ]
@@ -1205,7 +1249,7 @@
    "mark_tariff": 4,
    "difficulty": 4,
    "prompt": "An economy has 15% of its workers unemployed and produces well below capacity. Its central bank cuts the policy interest rate from 6% to 3%. Using the figures, explain how this measure is likely to promote growth.",
-   "canonical_answer": "The figures: the interest rate halves, from 6% to 3%, in an economy where 15% of workers are unemployed and production runs well below capacity. The cut makes borrowing cheaper, so households are likely to bring forward purchases of homes and cars and firms are likely to fund expansion, because the cost of credit has fallen by half. The extra spending meets an economy with idle resources - the 15% of workers without jobs - so firms can raise production by hiring rather than by bidding for scarce workers, and real GDP moves up toward the production possibility curve. Therefore, in this economy the interest-rate cut is likely to raise output rather than prices, since the spare capacity gives the extra demand somewhere to go.",
+   "canonical_answer": "The interest rate halves, from 6% to 3%, so borrowing becomes cheaper: households are likely to bring forward purchases of homes and cars, and firms to fund expansion. With 15% of workers unemployed and production well below capacity, firms can meet the extra spending by hiring idle workers rather than bidding for scarce ones, so real GDP moves toward the production possibility curve. Therefore the cut is likely to raise output rather than prices, because the spare capacity gives the extra demand somewhere to go.",
    "marking_guidance": [
     "Context: the figures must be used - the cut from 6% to 3% and the 15% of workers unemployed.",
     "Reasoning: the link from cheaper credit to higher spending to hired idle workers must be given, because the figures alone explain nothing.",
@@ -1227,7 +1271,9 @@
     "CLM-0455-4.6-019": 1,
     "CLM-0455-4.6-021": 1
    },
-   "authored_hash": "d84b18e6f6ad6382edfa9cdf09dc50de28f6c8e0f9d6462707543fe8efa1be08",
+   "authored_hash": "b65170e366cc99807af2afd139fa13d80a7a686ab917b3fd628b41f7286c3c77",
+   "prior_hash": "d84b18e6f6ad6382edfa9cdf09dc50de28f6c8e0f9d6462707543fe8efa1be08",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "policies to promote economic growth"
    ]
@@ -1252,7 +1298,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "To speed up growth, a government cuts the rate of company tax from 30% to 20% and funds new engineering courses at its colleges. Analyse how these policies are likely to affect the economy's capacity and output.",
-   "canonical_answer": "Starting point: company tax falls from 30% to 20%, and new engineering courses open. Mechanism: because firms keep a larger share of each Namibian dollar of profit, more investment projects are worth funding, and this causes spending on machinery and premises to rise; because the courses add engineers, firms can fill skilled roles that raise output per worker. Consequence: capacity grows on both fronts, the production possibility curve shifts outward, and output rises over the years the new capital and skills come into use. For whom: firms gain bigger retained profits and skilled hires, engineering graduates gain well-paid work, consumers gain from added output, and the government gains growth while forgoing some of the tax it would otherwise have collected.",
+   "canonical_answer": "Company tax falls from 30% to 20% and new engineering courses open. Because firms keep more of each Namibian dollar of profit, more investment projects become worth funding, so spending on machinery and premises rises; because the courses add engineers, firms can fill skilled roles that raise output per worker. As a result capacity grows, the production possibility curve shifts outward and output rises over the years the new capital and skills come into use. Firms gain higher retained profits and skilled hires, graduates gain well-paid work, consumers gain more output, and the government gains growth while giving up some tax revenue.",
    "marking_guidance": [
     "Starting point: the initial change - the tax falling from 30% to 20% and the new courses - must be stated.",
     "Mechanism: because retained profit and skilled labour both become easier to obtain, this causes more investment and higher output per worker.",
@@ -1275,7 +1321,9 @@
     "CLM-0455-4.6-020": 1,
     "CLM-0455-4.6-022": 1
    },
-   "authored_hash": "e425be1a13754f0c06f851f42e06bf9903f616572c05bf277ff87a44e8393d30",
+   "authored_hash": "a0d8bc507e0125a2fb003dbff106b8a50eb9c0e307166b4790f6d30606bf0016",
+   "prior_hash": "e425be1a13754f0c06f851f42e06bf9903f616572c05bf277ff87a44e8393d30",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "policies to promote economic growth"
    ]
@@ -1300,7 +1348,7 @@
    "mark_tariff": 4,
    "difficulty": 5,
    "prompt": "Explain the features a policy needs in order to count as a macroeconomic policy for promoting economic growth.",
-   "canonical_answer": "The features are reach, tools and level. Reach: a macroeconomic policy acts on the whole economy - on total spending, on the economy's capacity, on the general level of prices - rather than on a single market, industry or firm. Tools: its instruments are the government's spending and taxation and the central bank's interest rate, alongside economy-wide measures such as national training programmes. Level of decision: it is set by the government or the central bank for the economy as a whole, and its effects are read in economy-wide figures such as real GDP. A measure that fails these tests - a subsidy to one bus company, a price control on one good - is a microeconomic policy whatever its merits.",
+   "canonical_answer": "A macroeconomic policy acts on the whole economy - total spending, capacity, the general price level - rather than on one market, industry or firm. Its tools are government spending and taxation, the central bank's interest rate, and economy-wide measures such as national training programmes. It is set by the government or central bank for the economy as a whole, and its effects show in economy-wide figures such as real GDP. A subsidy to one bus company therefore counts as a microeconomic policy.",
    "marking_guidance": [
     "Features: what it includes - the characteristics named must cover whole-economy reach, the macroeconomic tools and the level at which the policy is set, with a microeconomic contrast."
    ],
@@ -1320,7 +1368,9 @@
     "CLM-0455-4.6-019": 1,
     "CLM-0455-4.6-023": 1
    },
-   "authored_hash": "fcf0b85b25fb930eeed7ff0872a5f661c2fe1148c52da7654e98b657950d5c2d",
+   "authored_hash": "bd18bad8c2b5c238e902d1997c8784a69934673e04dd98395f89b3844dea3a6a",
+   "prior_hash": "fcf0b85b25fb930eeed7ff0872a5f661c2fe1148c52da7654e98b657950d5c2d",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "policies to promote economic growth"
    ]
@@ -1343,8 +1393,8 @@
    "command_word": "Explain",
    "mark_tariff": 4,
    "difficulty": 4,
-   "prompt": "A question asks for the causes of the recent increase in household spending. One learner answers: rising employment, higher wages and easier credit. A second answers: greater sales of furniture, more borrowing by families and more jobs in retail. Explain the confusion between the causes of the increase in household spending and its consequences, and state the test that tells them apart.",
-   "canonical_answer": "The confusion: the second learner gives consequences - greater furniture sales, more retail jobs, more household borrowing - where the causes were asked for. The boundary: causes sit before the event and produce it, such as rising employment, higher wages and easier credit; consequences sit after it and result from it, such as greater sales of furniture and more jobs in retail. The test: ask which way time runs - does the item help bring the increase about, or does the increase bring the item about? Applied here, rising employment raises household income and so leads the increase, while greater furniture sales follow it, so the first learner answered the question asked and the second answered a different one.",
+   "prompt": "A question asks for the causes of the recent increase in household spending. One learner answers: rising employment, higher wages and easier credit. A second answers: greater sales of furniture, higher profits for shops and more jobs in retail. Explain the confusion between the causes of the increase in household spending and its consequences, and state the test that tells them apart.",
+   "canonical_answer": "The second learner gives consequences where causes were asked for. Causes come before the increase and bring it about: rising employment, higher wages and easier credit. Consequences come after it and result from it: greater furniture sales, higher shop profits and more retail jobs. The test is which way events run: does the item bring the increase about, or does the increase bring the item about? So the first learner answered the question asked; the second answered a different one.",
    "marking_guidance": [
     "The confusion: what the two learners mix up must be named - consequences offered where causes were asked for.",
     "The boundary: the difference is the direction events run in - before the event and producing it, or after it and resulting from it.",
@@ -1365,9 +1415,11 @@
    "claims_seen": {
     "CLM-0455-4.6-012": 1
    },
-   "authored_hash": "80bd4cdf90bcec5dce3b3ed4273e878581665006406f1474a919addefdf0c33a",
+   "authored_hash": "0a4afcc03de6442baf730cd3ad9eda779678ea19980bdb24445adcd321597026",
    "misconception_entry": "consequences vs causes of the increase in household spending",
    "misconception_id": "MISCON-REGISTER-0455-4.6.3-consequences-vs-causes-spending",
+   "prior_hash": "80bd4cdf90bcec5dce3b3ed4273e878581665006406f1474a919addefdf0c33a",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "causes and consequences of recession"
    ]
@@ -1391,7 +1443,7 @@
    "mark_tariff": 4,
    "difficulty": 4,
    "prompt": "Asked why an economy fell into recession, a learner writes that unemployment rose and many firms made losses. Explain the confusion between the causes of a recession and its consequences, and state the test that tells them apart.",
-   "canonical_answer": "The confusion: the learner offers consequences of the recession - rising unemployment, firms' losses - as though they produced it. The boundary: causes bring the recession about, such as falling total demand, a credit squeeze or collapsing export sales; consequences follow from it, such as unemployment, lost household income and business failures. The test: place each item on the timeline - before output began to fall, which makes it a cause, or after, which makes it a consequence - and ask whether the item itself needs the recession to have happened first, since unemployment after the downturn is its result, not its origin.",
+   "canonical_answer": "The learner gives consequences of the recession - rising unemployment and firms' losses - as if they caused it. Causes come first and bring the recession about, such as falling total demand, a credit squeeze or collapsing export sales; consequences follow from it, such as unemployment, lost income and business failures. The test: does the item need the recession to have happened first? Unemployment that rose after output fell does, so it is a result, not a cause.",
    "marking_guidance": [
     "The confusion: what the learner mixes up must be named - consequences offered where causes were asked for.",
     "The boundary: the difference is the direction events run in - causes produce the downturn, consequences result from it.",
@@ -1412,9 +1464,11 @@
    "claims_seen": {
     "CLM-0455-4.6-012": 1
    },
-   "authored_hash": "50be615b4be976f36485824424c1f35963a4526bc691698c8a38382c499e6806",
+   "authored_hash": "4e5679054883af219fa6c496d017ebdad1a141c3838e3ba86d14919ee2a8fb79",
    "misconception_entry": "consequences of a recession vs causes",
    "misconception_id": "MISCON-REGISTER-0455-4.6.3-consequences-vs-causes-recession",
+   "prior_hash": "50be615b4be976f36485824424c1f35963a4526bc691698c8a38382c499e6806",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "causes and consequences of recession"
    ]
@@ -1438,7 +1492,7 @@
    "mark_tariff": 4,
    "difficulty": 4,
    "prompt": "A learner lists a cut in the policy interest rate, a subsidy paid to one bus company and a national minimum wage as macroeconomic policies. Explain the confusion between macroeconomic policies and microeconomic policies, and state the test that tells them apart.",
-   "canonical_answer": "The confusion: the learner treats measures that act on a single market or firm as though they acted on the whole economy. The boundary: a macroeconomic policy works on economy-wide totals - total spending, the economy's capacity, the general level of prices - and its instruments are government spending, taxation and the interest rate; a microeconomic policy works on one market, industry or firm, such as the subsidy to a single bus company. Here the interest-rate cut is macroeconomic, the subsidy is microeconomic, and the minimum wage, though set nationally, acts on the labour market, so it is usually treated as a microeconomic measure whose effects the whole economy then feels. The test: ask what the measure reaches - the whole economy's totals, or one market or firm.",
+   "canonical_answer": "The learner treats measures acting on one market or firm as if they acted on the whole economy. A macroeconomic policy works on economy-wide totals - total spending, capacity, the general price level - through government spending, taxation or the interest rate; a microeconomic policy works on one market, industry or firm. So the interest-rate cut is macroeconomic and the bus subsidy microeconomic, while the minimum wage, though national, acts on the labour market. The test: ask what the measure reaches - the whole economy's totals, or one market.",
    "marking_guidance": [
     "The confusion: what the learner mixes up must be named - measures acting on one market or firm treated as economy-wide.",
     "The boundary: the difference is the level acted on - economy-wide totals against a single market, industry or firm.",
@@ -1459,9 +1513,11 @@
    "claims_seen": {
     "CLM-0455-4.6-023": 1
    },
-   "authored_hash": "e3026397c5d5d9ef7c9fe1b48af4513f08dfb9e8f26462b91332f4db6f7599dd",
+   "authored_hash": "1410e4fcc8ebafeaf6c2535617c3d0ddf99d361ffdc60d5cd4627bf82671d46e",
    "misconception_entry": "macroeconomic policies vs microeconomic policies",
    "misconception_id": "MISCON-REGISTER-0455-4.6.6-macro-vs-micro",
+   "prior_hash": "e3026397c5d5d9ef7c9fe1b48af4513f08dfb9e8f26462b91332f4db6f7599dd",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "policies to promote economic growth"
    ]
@@ -1565,7 +1621,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "A report from the Windhoek Financial Review, 2026: \"Five years of expansion have lifted this economy's real GDP from N$125 000 million to N$140 000 million. Investment has climbed from 15% to 21% of GDP, and the population from 2.5 million to 2.8 million people. Ministers point to the growth record; households in Katutura ask why the average person feels no better off.\"\n\nTable 1 - the economy, 2021 and 2026\n  real GDP, 2021: N$125 000 million\n  real GDP, 2026: N$140 000 million\n  population, 2021: 2.5 million people\n  population, 2026: 2.8 million people\n  investment share of GDP, 2021: 15%\n  investment share of GDP, 2026: 21%\n\n(a) Calculate GDP per head in 2021. [1]\n(b) State the investment share of GDP in 2026. [1]\n(c) Identify from Table 1 the population in 2021 and in 2026. [2]\n(d) Explain why real GDP can rise while GDP per head stays unchanged. [4]\n(e) Analyse what the data suggests about economic growth in this economy between 2021 and 2026. [6]",
-   "canonical_answer": "(a) N$125 000 million / 2.5 million people = N$50 000 per head.\n(b) 21% of GDP.\n(c) 2.5 million people in 2021 and 2.8 million in 2026, from Table 1.\n(d) Real GDP and GDP per head answer different questions: real GDP counts total output, while GDP per head divides it among the population. Where population grows as fast as output, total production rises while the average per person stands still, because each year's extra output is matched by extra people to share it among. In this economy output rose by 12%, since N$140 000 million - N$125 000 million = N$15 000 million and N$15 000 million / N$125 000 million = 0.12, and the population rose by 12% as well, since 0.3 million / 2.5 million = 0.12. So the average stood at N$50 000 per head in both years, which is why households can feel no better off in the average even as the totals climb.\n(e) Expected relationship: growth driven by rising investment tends to raise total output, and between 2021 and 2026 the investment share rose from 15% to 21% of GDP while real GDP rose by 12%. Evidence: real GDP up from N$125 000 million to N$140 000 million, investment up by 6 percentage points of GDP, population up from 2.5 million to 2.8 million, GDP per head unchanged at N$50 000. Analysis: the rising investment share points to capacity growing, since investment adds to the economy's capital and shifts the production possibility curve outward as it does, which supports growth continuing in total output; but the population absorbed the gains, so the average household saw none of them in output per person, which matches the Katutura households' question. Exception: however, the data says nothing about how output is distributed - the average can stand still while some households gain and others lose - and nothing about the costs of the growth, such as price pressure where demand meets capacity. For whom: firms gained from the investment boom, the government gained revenue from the larger output, and households on average gained nothing in output per person.",
+   "canonical_answer": "(a) N$125 000 million / 2.5 million people = N$50 000 per head.\n(b) 21% of GDP.\n(c) 2.5 million people in 2021 and 2.8 million in 2026, from Table 1.\n(d) Real GDP and GDP per head answer different questions: real GDP counts total output, while GDP per head divides it among the population. Where population grows as fast as output, total production rises while the average per person stands still, because each year's extra output is matched by extra people to share it among. In this economy output rose by 12%, since N$140 000 million - N$125 000 million = N$15 000 million and N$15 000 million / N$125 000 million = 0.12, and the population rose by 12% as well, since 0.3 million / 2.5 million = 0.12. So the average stood at N$50 000 per head in both years, which is why households can feel no better off in the average even as the totals climb.\n(e) Growth driven by rising investment tends to raise total output, and between 2021 and 2026 the investment share rose by 6 percentage points, from 15% to 21% of GDP, while real GDP rose by 12%, from N$125 000 million to N$140 000 million. The rising investment share points to growing capacity, since investment adds to the economy's capital and shifts the production possibility curve outward, which supports growth in total output continuing. But the population rose from 2.5 million to 2.8 million, also by 12%, so GDP per head stayed at N$50 000 and the average person gained no extra output, which matches the Katutura households' question. However, the data says nothing about how output is distributed - the average can stand still while some households gain and others lose - or about the costs of the growth, such as price pressure where demand meets capacity. Firms gained from the investment boom and the government from revenue on a larger output, while households on average gained nothing in output per person.",
    "marking_guidance": [
     "Context: parts (a), (b) and (c) are read or calculated from the data; (d) and (e) must use the figures - the N$125 000 million to N$140 000 million rise, the 15% to 21% investment share and the 2.5 million to 2.8 million population.",
     "Reasoning: one mark per distinct linked statement; quoting a figure on its own is description, not analysis - the relationship must be stated and the reason given, so figure-quoting is refused as analysis.",
@@ -1598,7 +1654,9 @@
     "CLM-0455-4.6-017": 1,
     "CLM-0455-4.6-018": 1
    },
-   "authored_hash": "84ca643d77788ef0730a162e0f975635f7d9da3fd73851fe8b4ef4dcc466d467",
+   "authored_hash": "e569a748026643f8caa7b1278a0f66d7429d31b1919ba4cb7be1c94fb9e8367c",
+   "prior_hash": "84ca643d77788ef0730a162e0f975635f7d9da3fd73851fe8b4ef4dcc466d467",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "measurement of economic growth",
     "causes of economic growth",
@@ -1635,7 +1693,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "An economy has grown by 4% a year for five years, mostly on demand from abroad for its minerals, while investment in machinery and skills has lagged. One worker in ten is now without a job, down from one in seven five years ago.\n(a) Define economic growth. [2]\n(b) Explain two causes of economic growth. [4]\n(c) Analyse the likely consequences of this five-year growth for households and the government. [6]\n(d) Discuss whether economic growth should be the government's main macroeconomic aim. [8]",
-   "canonical_answer": "(a) Economic growth is the sustained increase in an economy's real output of goods and services over time, measured by the rise in real GDP.\n(b) One cause is a rise in total demand: where an economy produces inside its production possibility curve, more spending by households, firms or buyers abroad employs idle resources, so output moves up toward the curve. A second cause is growth of capacity: investment in new capital, better technology and more or better-trained workers raise what the economy can produce, shifting the curve outward.\n(c) Starting point: real GDP grew by 4% a year for five years, and unemployment fell from one worker in seven to one in ten. Mechanism: because firms sold more, they took on workers, so household incomes rose and unemployment fell; because incomes and profits rose, the government's tax revenue grew without higher rates, funding services. Consequence: households gained incomes and jobs, the government gained revenue, and where the gains were shared out average living standards tended to rise with output. However, with investment lagging, capacity grew more slowly than demand, so price pressure may build as the economy nears its boundary, and mining-led growth may impose costs on the towns that host it. For whom: workers gained jobs, firms gained sales, households gained incomes and services, and the government gained revenue to spend.\n(d) Why it might: growth serves the other aims - it employs workers, it raises the revenue that funds schools and clinics, and where its gains are shared out it tends to lift average living standards. Why it might not: growth is one aim among several - price stability, employment, the external position - and growth pressed too far may lift prices rather than output, impose costs on others, and leave the gains with a narrow group. A government that chases growth alone may also accept pollution and inequality it would not otherwise tolerate. Judgement: on balance, growth should stand among the government's chief aims, because so many of the others depend on it - revenue, jobs and the means of public services - but not the main aim on its own. It depends on the state of the economy: where output per person is rising and the gains are shared out, growth deserves first place; where it brings price rises and costs imposed on others, the balance of aims shifts. What settles it is whether the gains reach the households that need them and at what cost they come.",
+   "canonical_answer": "(a) Economic growth is the sustained increase in an economy's real output of goods and services over time, measured by the rise in real GDP.\n(b) One cause is a rise in total demand: where an economy produces inside its production possibility curve, more spending by households, firms or buyers abroad employs idle resources, so output moves up toward the curve. A second cause is growth of capacity: investment in new capital, better technology and more or better-trained workers raise what the economy can produce, shifting the curve outward.\n(c) Real GDP grew by 4% a year for five years, and unemployment fell from one worker in seven to one in ten. Because firms sold more, they took on workers, so household incomes rose and unemployment fell; because incomes and profits rose, the government's tax revenue grew without higher tax rates, funding more services. Where the gains were shared out, average living standards tended to rise with output. However, with investment lagging, capacity grew more slowly than demand, so price pressure may build as the economy nears its boundary, and mining-led growth may impose costs such as pollution on the towns that host it. Workers gained jobs, firms gained sales, households gained incomes and services, and the government gained revenue to spend.\n(d) Why it might: growth serves the other aims - it employs workers, it raises the revenue that funds schools and clinics, and where its gains are shared out it tends to lift average living standards. Why it might not: growth is one aim among several - price stability, employment, the external position - and growth pressed too far may lift prices rather than output, impose costs on others, and leave the gains with a narrow group. A government that chases growth alone may also accept pollution and inequality it would not otherwise tolerate. Judgement: on balance, growth should stand among the government's chief aims, because so many of the others depend on it - revenue, jobs and the means of public services - but not the main aim on its own. It depends on the state of the economy: where output per person is rising and the gains are shared out, growth deserves first place; where it brings price rises and costs imposed on others, the balance of aims shifts. What settles it is whether the gains reach the households that need them and at what cost they come.",
    "marking_guidance": [
     "Parts (a) to (d) carry a model answer each; (d) is level-marked over three bands.",
     "Context: (c) must use the figures given - the 4% yearly growth and the fall in unemployment from one worker in seven to one in ten.",
@@ -1667,7 +1725,9 @@
     "CLM-0455-4.6-019": 1,
     "CLM-0455-4.6-022": 1
    },
-   "authored_hash": "8aa2efa7ef15efb7e4c2c6134cd0d26ac32f0d0b5cb94acd9e50b35d60cfb063",
+   "authored_hash": "bc32940ec79d1a2068c6f2a9db5f93977e7bcfd10cd3ddf6fac6c648c1fe7ed8",
+   "prior_hash": "8aa2efa7ef15efb7e4c2c6134cd0d26ac32f0d0b5cb94acd9e50b35d60cfb063",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "definition of economic growth",
     "causes of economic growth",
@@ -1700,7 +1760,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "Plan an answer to: \"Discuss whether a government should use demand-side policies or supply-side policies to promote economic growth.\" Build the plan on the two routes to higher output. Do not write the essay; produce the plan.",
-   "canonical_answer": "Case for demand-side policies (speed where capacity is idle):\nChain 1: interest rate cut -> borrowing and spending rise -> idle workers hired -> real GDP climbs toward the production possibility curve -> output recovers quickly (for whom: households gain spending power, workers gain jobs, firms gain sales).\nCase for supply-side policies (capacity that lasts):\nChain 2: education and training funded -> output per worker rises -> the curve shifts outward -> output grows year after year without price pressure (for whom: trainees gain pay, firms gain skilled staff, the economy gains lasting capacity).\nChain 3: infrastructure built -> transport costs fall -> exports compete abroad -> production expands to meet the sales (for whom: exporters gain markets, consumers gain variety, the government gains revenue over time).\nCase against demand-side: where the economy produces at its boundary, extra spending tends to raise prices rather than output, and tax cuts or spending rises cost the budget.\nCase against supply-side: the measures take years to arrive, need sustained finance, and depend on the quality of delivery - a poorly taught course adds little capacity.\nJudgement: demand-side policies suit an economy inside its curve with a problem now; supply-side policies suit an economy needing growth that lasts, and the two often belong together. The condition the judgement depends on is the economy's position - how far inside its production possibility curve it sits - and the time horizon the government faces.",
+   "canonical_answer": "Case for demand-side policies (speed where capacity is idle):\nChain 1: interest rate cut -> borrowing and spending rise -> idle workers hired -> real GDP climbs toward the production possibility curve -> output recovers quickly (who gains: households gain spending power, workers gain jobs, firms gain sales).\nCase for supply-side policies (capacity that lasts):\nChain 2: education and training funded -> output per worker rises -> the curve shifts outward -> output grows year after year without price pressure (who gains: trainees gain pay, firms gain skilled staff, the economy gains lasting capacity).\nChain 3: infrastructure built -> transport costs fall -> exports compete abroad -> production expands to meet the sales (who gains: exporters gain markets, consumers gain variety, the government gains revenue over time).\nCase against demand-side: where the economy produces at its boundary, extra spending tends to raise prices rather than output, and tax cuts or spending rises cost the budget.\nCase against supply-side: the measures take years to arrive, need sustained finance, and depend on the quality of delivery - a poorly taught course adds little capacity.\nJudgement: demand-side policies suit an economy inside its curve with a problem now; supply-side policies suit an economy needing growth that lasts, and the two often belong together. The condition the judgement depends on is the economy's position - how far inside its production possibility curve it sits - and the time horizon the government faces.",
    "marking_guidance": [
     "A plan, not an essay: the chains and the stated judgement are what is assessed.",
     "Criterion: the decisive factor is the economy's position relative to its production possibility curve and the government's time horizon.",
@@ -1727,7 +1787,9 @@
     "CLM-0455-4.6-021": 1,
     "CLM-0455-4.6-022": 1
    },
-   "authored_hash": "d036e21fdb031577e508e06993ab559beadc72082e07e4708508785981874892",
+   "authored_hash": "c2c3db4ab98494418992054d41d5094c7dd01a78b1cb42de8f228950d3d67cab",
+   "prior_hash": "d036e21fdb031577e508e06993ab559beadc72082e07e4708508785981874892",
+   "repair_note": "Review fix 2026-10-13: flashcard answers trimmed for recall with label chains turned into prose; 'new equilibrium' replaced by 'new position' on the PPC diagram cards; 013 prompt now supplies the starting quantities its answer uses; 029 prompt distractor 'more borrowing by families' (arguably a cause) replaced; authoring labels removed from P02(e), P03(c), P04 and notes blocks.",
    "objective_titles": [
     "causes of economic growth",
     "policies to promote economic growth"

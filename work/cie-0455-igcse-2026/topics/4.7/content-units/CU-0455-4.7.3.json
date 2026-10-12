@@ -33,7 +33,7 @@
    "block_id": "4.7.3-b2",
    "block_type": "definition",
    "heading": "Two measures",
-   "text": "Two measures are used. The claimant count records the people registered as seeking work and claiming government support for the unemployed; it comes from benefit records, so it is quick and cheap to gather, and it tends to miss seekers who cannot claim or do not register, among them many informal workers. A labour force survey asks a sample of households about a fixed week: a person is counted unemployed who was without paid work, could start and had sought work recently. Germany runs its survey monthly; Namibia's labour force survey runs each year, and the survey tends to record more unemployed than the register because it reaches people the benefit records miss.",
+   "text": "Two measures are used. The claimant count records the people registered as seeking work and claiming government support for the unemployed; it comes from benefit records, so it is quick and cheap to gather, and it tends to miss seekers who cannot claim or do not register, among them many informal workers. A labour force survey asks a sample of households about a fixed week: a person is counted unemployed who was without paid work, could start and had sought work recently. Namibia, like Germany, runs a labour force survey, and the survey tends to record more unemployed than the register because it reaches people the benefit records miss.",
    "claim_ids": [
     "CLM-0455-4.7-010",
     "CLM-0455-4.7-011"
@@ -46,7 +46,9 @@
     "CLM-0455-4.7-010": 1,
     "CLM-0455-4.7-011": 1
    },
-   "authored_hash": "f6dc70d42eaab87adf190999bd06ad08c1b8b4905d5e117c255f69891bddbbea"
+   "authored_hash": "51a8d1ec2ba82f4dca7706ab8d35427f387f82bc27d37a85966606de7f12f964",
+   "prior_hash": "f6dc70d42eaab87adf190999bd06ad08c1b8b4905d5e117c255f69891bddbbea",
+   "repair_note": "Review fix: artificial Define prompts 013 and 016 reworded to Identify; real-sounding N$1.2 billion removed from 018; leaked register wording and authoring labels removed; Namibia survey frequency claim corrected; flashcard answers trimmed for recall."
   },
   {
    "block_id": "4.7.3-b3",

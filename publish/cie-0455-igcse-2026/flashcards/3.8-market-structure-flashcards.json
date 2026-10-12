@@ -24,7 +24,7 @@
    "mark_tariff": 2,
    "difficulty": 3,
    "prompt": "More than thirty stalls sell wood carvings at the Katutura curio market, buyers walk freely between them, and each stall charges close to the going price. Define a competitive market as the term applies to this curio market.",
-   "canonical_answer": "A competitive market is a market with a high number of buyers and sellers in which each seller is too small to influence the market price on its own: the price is set by demand and supply across the whole market, and a seller who charges noticeably above the going price tends to lose customers to rivals. Applied here: the curio market has many small stalls, buyers move freely between them, and the going price is the level the whole market's demand and supply set, so no single stall can lift it alone.",
+   "canonical_answer": "A competitive market has many buyers and sellers, and each seller is too small to influence the market price. Here, more than thirty stalls sell similar carvings and buyers move freely between them, so no single stall can raise the going price.",
    "marking_guidance": [
     "Reward the precise definition: a high number of sellers, each too small to influence the market price set by the whole market's demand and supply.",
     "The meaning must rest on the market's structure - many small sellers and free switching - not on any claim that prices in such markets are low by definition."
@@ -44,7 +44,9 @@
    "claims_seen": {
     "CLM-0455-3.8-001": 1
    },
-   "authored_hash": "74297d189f2367db8698ff2d7592b273e93a97f5265858ab70d458517c035691",
+   "authored_hash": "552d52ba0645a21682801512e5c9b15bf3bb659ce2065e11e5746298e4fe393c",
+   "prior_hash": "74297d189f2367db8698ff2d7592b273e93a97f5265858ab70d458517c035691",
+   "repair_note": "Review fix: rewrote the two 8-mark diagram slots as Discuss items that link cause to consequence in words, because the 3.8 syllabus excludes diagrams; trimmed flashcard answers to recall length; removed leaked authoring labels from model answers",
    "objective_titles": [
     "competitive markets"
    ]
@@ -69,14 +71,12 @@
    "command_word": "Discuss",
    "mark_tariff": 8,
    "difficulty": 3,
-   "prompt": "Braai-wood sellers at Swakopmund's open market sell 3 600 bundles a month at N$30 a bundle. Four new sellers set up stalls, and the market settles at 3 900 bundles a month at N$28 a bundle. Discuss how a demand-and-supply diagram of this market shows the effect of the new sellers entering, giving a verbal walk-through of the diagram: state what each axis is labelled with, where the original curves sit, the direction of the shift, the new position of the market, and what the finished diagram shows in words.",
-   "canonical_answer": "Walk through the diagram in words, element by element. First, the axes labelled: the price of a bundle, in N$, on the vertical axis, and the quantity of bundles a month on the horizontal axis. Second, the original curves drawn and labelled: the demand curve D, sloping downward, and the supply curve S1, sloping upward, crossing at the original equilibrium E1, at N$30 and 3 600 bundles a month. Third, the shift or movement, in the correct direction: four new sellers entering raises the number of sellers, so the supply curve shifts right, from S1 to S2, while the demand curve stays where it was, because nothing on the buying side changed. At the old price of N$30, sellers are now ready with more bundles than buyers take at that price, so the price comes under downward pressure, and as it falls the market slides down along D and out along S2. Fourth, the new equilibrium marked and labelled: E2, where D crosses S2, at N$28 and 3 900 bundles a month, since 3 900 - 3 600 = 300 more bundles a month. Fifth, what the diagram shows, in words: when new sellers enter a market of many small sellers, the quantity offered at each price rises and the market price tends to fall, here by N$2 a bundle, since N$30 - N$28 = N$2, and each seller at the market takes the new going price as given. The link the diagram draws is between entry and price: more sellers shift supply, and the consequence for buyers is a lower price and more stalls to choose between, for the sellers a thinner margin.",
+   "prompt": "Braai-wood sellers at Swakopmund's open market sell 3 600 bundles a month at N$30 a bundle. Four new sellers set up stalls, and the market settles at 3 900 bundles a month at N$28 a bundle. Discuss how the entry of the new sellers is linked to the change in price and quantity, and the likely consequences for buyers and for the sellers already trading.",
+   "canonical_answer": "The four new sellers add stalls, so more bundles are offered at each price, while buyers' wishes have not changed. At the old price of N$30, sellers now offer more bundles than buyers want, so stalls are likely to cut prices to sell their wood. Because buyers walk freely between stalls, a seller who stays at N$30 tends to lose customers to cheaper neighbours. The price falls by N$30 - N$28 = N$2, and at the lower price buyers take more, so sales rise by 3 900 - 3 600 = 300 bundles a month. Buyers gain a lower price and more stalls to choose from. Existing sellers get N$2 less a bundle and share the market with more stalls, so their profit per bundle is likely to narrow. How far this goes depends on whether selling braai-wood at N$28 still covers sellers' costs: if it does, more sellers may enter and the price may fall further; if not, some stalls may leave.",
    "marking_guidance": [
-    "The walk-through must open with the axes labelled - bundle price in N$ on the vertical axis, bundles a month on the horizontal - before anything else.",
-    "Reward the original curves drawn and labelled: D and S1 crossing at E1, at N$30 and 3 600 bundles, described before the change.",
-    "Check the shift or movement, in the correct direction: entry of new sellers shifts the supply curve right from S1 to S2, and the surplus of offered bundles at N$30 puts downward pressure on the price.",
-    "The new equilibrium marked and labelled - E2, where D crosses S2, at N$28 and 3 900 bundles a month - earns its mark, and what the diagram shows, in words, must close the walk-through.",
-    "The link between entry and the lower price carries the analysis marks, and the consequence for each party - buyers paying N$2 less a bundle and gaining more stalls, sellers facing a thinner margin - must be named."
+    "The link: the answer must connect the entry of four sellers to more bundles offered at each price, and explain how buyers switching freely between stalls puts downward pressure on the N$30 price.",
+    "The consequence: the N$2 fall to N$28 and the 300 extra bundles a month must be calculated, and the consequence named for each party - buyers paying less with more stalls to choose from, existing sellers facing a lower price and a thinner margin.",
+    "Discussion: an 8-mark answer reaches a view on how far the effect goes - whether N$28 still covers sellers' costs, so that entry continues or some stalls leave."
    ],
    "context": {
     "sector": null,
@@ -94,7 +94,9 @@
     "CLM-0455-3.8-001": 1,
     "CLM-0455-3.8-002": 1
    },
-   "authored_hash": "a1169595b577c44916ad1ad4c2e067220ae256994440d54bd6e65f174791dc0d",
+   "authored_hash": "7a01d19c8a961c0d1a857b3babd7ef8bcd0ac927f05e3da7f27010a8c784be75",
+   "prior_hash": "a1169595b577c44916ad1ad4c2e067220ae256994440d54bd6e65f174791dc0d",
+   "repair_note": "Review fix: rewrote the two 8-mark diagram slots as Discuss items that link cause to consequence in words, because the 3.8 syllabus excludes diagrams; trimmed flashcard answers to recall length; removed leaked authoring labels from model answers",
    "objective_titles": [
     "competitive markets"
    ]
@@ -120,7 +122,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Table 1 - two taxi ranks, 2026\nOshakati rank: 14 operators, average fare N$25 a trip\nOtavi rank: 3 operators, average fare N$35 a trip\nExplain what the figures suggest about the effect of the number of sellers on the price in these two taxi markets.",
-   "canonical_answer": "What the data shows: the relationship between the number of sellers and the average fare runs in the opposite direction - the rank with more operators posts the lower fare. Supporting evidence: the comparison across the two ranks shows fourteen operators at Oshakati charging N$25 a trip against three at Otavi charging N$35, a gap of N$10 a trip, since N$35 - N$25 = N$10. Why: an explanation of the relationship is that with fourteen operators each driver is too small to influence the fare, and a driver asking far above the going rate tends to watch passengers walk to the next taxi; with three operators, each one's pricing carries more weight, and passengers at that rank have fewer alternatives within reach. The exception: however, the two ranks differ in more than seller numbers - route distances, vehicle ages and fuel costs may explain part of the gap - so the figures suggest the effect of numbers rather than settle it.",
+   "canonical_answer": "The figures suggest that more sellers go with a lower price: Oshakati's rank has 14 operators and an average fare of N$25, while Otavi's has 3 operators and charges N$35, which is N$35 - N$25 = N$10 more. With many operators, each is too small to raise the fare alone, because passengers can move to the next taxi. With only three, each has more control and passengers have fewer choices. However, route lengths and costs may also differ, so the figures suggest the effect but do not prove it.",
    "marking_guidance": [
     "What the data shows - the inverse relationship between operator numbers and the average fare - must be stated first.",
     "Supporting evidence: the comparison across the two ranks, with the N$10 gap attached, must back the statement.",
@@ -143,7 +145,9 @@
     "CLM-0455-3.8-002": 1,
     "CLM-0455-3.8-003": 1
    },
-   "authored_hash": "98f4a1e6adf60f00588f796af806358e94959295e13e9f6aa34b1dc1ded0f387",
+   "authored_hash": "fecb677c35206f9fb480d243277883deccd99f6a79d684ac458ef5d778e969a7",
+   "prior_hash": "98f4a1e6adf60f00588f796af806358e94959295e13e9f6aa34b1dc1ded0f387",
+   "repair_note": "Review fix: rewrote the two 8-mark diagram slots as Discuss items that link cause to consequence in words, because the 3.8 syllabus excludes diagrams; trimmed flashcard answers to recall length; removed leaked authoring labels from model answers",
    "objective_titles": [
     "competitive markets"
    ]
@@ -169,7 +173,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Kaoko Juice sells bottled juice at the Opuwo open market, where four other juice sellers trade. The going price is N$12 a bottle, and Kaoko Juice fills about 900 bottles a month at that price. Its manager considers charging N$15 a bottle. Explain, using the context of this market, why Kaoko Juice is likely to lose sales if it lifts its price above the going level.",
-   "canonical_answer": "The context: the figures describe a market where five small sellers trade in a similar drink at a going price of N$12, with buyers at the open market walking freely between stalls. The reasoning: because each seller is small relative to the whole market, the price of N$12 is set by demand and supply across all the stalls together, not by any one of them; if Kaoko Juice charges N$15 while its rivals hold N$12, buyers who can save N$3 a bottle, since N$15 - N$12 = N$3, are likely to buy two stalls away, and this causes its monthly sales to fall below the 900 bottles. The conclusion: therefore Kaoko Juice is likely to keep its custom only near the going price, which means that in this market each seller is too small to influence the price and takes the market price as given.",
+   "canonical_answer": "Kaoko Juice is one of five small sellers of similar juice, and buyers move freely between stalls. The N$12 price is set by demand and supply across the whole market, not by one seller. If Kaoko charges N$15 while rivals charge N$12, buyers can save N$15 - N$12 = N$3 a bottle by going elsewhere, so its sales are likely to fall below 900 bottles a month. Therefore it can keep its customers only by charging close to the going price.",
    "marking_guidance": [
     "The context - five sellers, the N$12 going price, the free switching of buyers - must anchor the answer.",
     "Reasoning: because the price is set across the whole market, the link is the N$3 saving that switches buyers to rivals.",
@@ -191,7 +195,9 @@
     "CLM-0455-3.8-001": 1,
     "CLM-0455-3.8-002": 1
    },
-   "authored_hash": "d6a5dc5240099b135296fc6b2302915484ed0db1fd13d6ff812f7d7a38b5cc8d",
+   "authored_hash": "3b00b60809c1eba6ee3b5074dc0de2f133cc3e66cf38ea5b90a70abe41f7c30d",
+   "prior_hash": "d6a5dc5240099b135296fc6b2302915484ed0db1fd13d6ff812f7d7a38b5cc8d",
+   "repair_note": "Review fix: rewrote the two 8-mark diagram slots as Discuss items that link cause to consequence in words, because the 3.8 syllabus excludes diagrams; trimmed flashcard answers to recall length; removed leaked authoring labels from model answers",
    "objective_titles": [
     "competitive markets"
    ]
@@ -217,7 +223,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "Two new salons open at the Katutura hairdressing rank, where twelve salons trade at about N$60 a haircut, each carrying costs of about N$40 a cut. The going price drifts to about N$50. Analyse the consequences of the new sellers entering for clients, the twelve existing salons' owners, and the two new salons' owners.",
-   "canonical_answer": "Starting point: the initial change is two new salons entering a market of twelve, which raises the number of sellers to fourteen and the quantity of haircuts offered at each price. Mechanism: because clients walk freely between salons, the newcomers win trade by charging close to N$50, and this causes the going price to drift down from N$60 as existing salons match it rather than lose clients. Consequence for clients: a haircut that cost N$60 tends to cost N$50, saving N$10 a cut, since N$60 - N$50 = N$10, and clients who found N$60 too dear come back to the rank. Consequence for the twelve existing salons' owners: with costs of about N$40 a cut, profit narrows from about N$20 to about N$10 a cut, since N$60 - N$40 = N$20 and N$50 - N$40 = N$10, and a salon that holds out at N$60 tends to lose clients to the cheaper rivals. Consequence for the two new salons' owners: they fill the clients priced out at N$60, though at the narrower N$10 margin. For whom: the consumer gains the N$10 saving, the existing firms lose half their margin, and the newcomers trade volume against the same thin margin - the standard result of entry into a market of many small sellers.",
+   "canonical_answer": "Two new salons raise the number of sellers from twelve to fourteen, so more haircuts are offered at each price. Because clients move freely between salons, the newcomers attract trade by charging about N$50, and existing salons cut prices to keep clients, so the going price falls from N$60 to N$50. Clients save N$60 - N$50 = N$10 a cut, and some who found N$60 too dear return. Existing salons' profit per cut falls from N$60 - N$40 = N$20 to N$50 - N$40 = N$10. The new salons gain clients but earn the same thinner N$10 margin. So clients gain, while existing owners lose half their margin per cut.",
    "marking_guidance": [
     "Starting point: the initial change - two new salons entering a market of twelve - must open the analysis.",
     "Mechanism: because clients switch freely, this causes the going price to drift down from N$60 as salons match the newcomers.",
@@ -241,7 +247,9 @@
     "CLM-0455-3.8-003": 1,
     "CLM-0455-3.8-004": 1
    },
-   "authored_hash": "5cde54c3a28daeef44219991cad34acff9993cfd49916bb7ebfc4535b32f45be",
+   "authored_hash": "9476f7e6bc5b90c66e3df8b39bfe8c04fc1437f59d35a41f85665d287fe16bac",
+   "prior_hash": "5cde54c3a28daeef44219991cad34acff9993cfd49916bb7ebfc4535b32f45be",
+   "repair_note": "Review fix: rewrote the two 8-mark diagram slots as Discuss items that link cause to consequence in words, because the 3.8 syllabus excludes diagrams; trimmed flashcard answers to recall length; removed leaked authoring labels from model answers",
    "objective_titles": [
     "competitive markets"
    ]
@@ -266,7 +274,7 @@
    "mark_tariff": 4,
    "difficulty": 4,
    "prompt": "Thirty small furniture workshops trade in Windhoek's northern industrial area, each selling similar chairs close to the going price of N$950, and buyers drive freely between the workshops. New workshops may open on a small council registration fee. Explain the features that make this furniture market a competitive market.",
-   "canonical_answer": "Four features make this furniture market a competitive market. A high number of sellers: thirty workshops trade in the area, none large against the whole market. Small influence: each workshop is too small to lift the going price of N$950 alone, because buyers can drive to the next yard rather than pay more. Easy switching: buyers move freely between thirty alternatives, which is what disciplines each price. Low barriers to entry: a new workshop may open on a small council registration fee, and the entry of new sellers tends to hold the price near the level demand and supply set across the market.",
+   "canonical_answer": "There are many sellers: thirty workshops, none large compared with the whole market. Each is too small to raise the N$950 price on its own, because buyers can easily drive to another workshop. Buyers switch freely between thirty similar suppliers, which keeps prices in check. Entry is easy, since a new workshop needs only a small registration fee, and new entrants help keep the price near the level set by demand and supply across the market.",
    "marking_guidance": [
     "Features: the elements required are a high number of sellers, each too small to influence the market price, easy switching between sellers, and low barriers to entry - each explained in the market's own terms, not merely listed.",
     "What it includes: the going price of N$950 set across the whole market, not by any single workshop, is the fact that carries the second mark."
@@ -287,7 +295,9 @@
     "CLM-0455-3.8-001": 1,
     "CLM-0455-3.8-003": 1
    },
-   "authored_hash": "724137cd4eb778f7c577ce69b16d1a19d6bf6ee6b91fe649728b8aeafec14ab3",
+   "authored_hash": "b290685bd25b8cb36580b8e78da80f735ff5ef7e5163575e30e7a92a98658945",
+   "prior_hash": "724137cd4eb778f7c577ce69b16d1a19d6bf6ee6b91fe649728b8aeafec14ab3",
+   "repair_note": "Review fix: rewrote the two 8-mark diagram slots as Discuss items that link cause to consequence in words, because the 3.8 syllabus excludes diagrams; trimmed flashcard answers to recall length; removed leaked authoring labels from model answers",
    "objective_titles": [
     "competitive markets"
    ]
@@ -312,7 +322,7 @@
    "mark_tariff": 2,
    "difficulty": 3,
    "prompt": "The council of a riverside town has licensed one operator alone to run the ferry crossing at Katima Mulilo, and travellers who need the crossing have few other ways over the water. Define a monopoly as the term applies to this ferry market.",
-   "canonical_answer": "A monopoly is a market with a single dominant seller - in the extreme, the only supplier - protected by barriers to entry that keep new sellers out, so the seller sets its own price within what buyers will pay rather than taking a price set by many rivals. Applied here: the ferry market has one licensed operator, the licence is the barrier that keeps other operators out, and travellers who need the crossing have few alternatives, so the operator chooses the fare within what travellers will pay.",
+   "canonical_answer": "A monopoly is a market with a single dominant seller protected by barriers to entry, so it sets its own price within what buyers will pay. Here, one licensed operator runs the ferry, the licence keeps rivals out, and travellers have few alternatives.",
    "marking_guidance": [
     "Reward the precise definition: a single dominant seller behind barriers to entry, setting its own price within what buyers will pay.",
     "The meaning must rest on the market's structure - one protected seller and limited alternatives - not on the seller's size alone."
@@ -333,7 +343,9 @@
     "CLM-0455-3.8-005": 1,
     "CLM-0455-3.8-006": 1
    },
-   "authored_hash": "567090b7dcc76888e9597cd93bcae81ead73aaa318d1461830e0049edb19c72e",
+   "authored_hash": "3da285abe0f7e04e9ae99728cbc221df0240fdfb9e92d47ef929150f4d0e7b9f",
+   "prior_hash": "567090b7dcc76888e9597cd93bcae81ead73aaa318d1461830e0049edb19c72e",
+   "repair_note": "Review fix: rewrote the two 8-mark diagram slots as Discuss items that link cause to consequence in words, because the 3.8 syllabus excludes diagrams; trimmed flashcard answers to recall length; removed leaked authoring labels from model answers",
    "objective_titles": [
     "monopoly markets"
    ]
@@ -358,14 +370,12 @@
    "command_word": "Discuss",
    "mark_tariff": 8,
    "difficulty": 3,
-   "prompt": "The fuel station at Ruacana is the only station within 90 km. It lifts its price from N$22 to N$25 a litre, and its sales fall from 9 000 litres to 7 200 litres a month. Discuss how a diagram of the demand curve this station faces shows what happens when it raises its price, giving a verbal walk-through of the diagram: state what each axis is labelled with, where the original curve sits, whether the change is a shift or a movement and its direction, the station's new position on the curve, and what the finished diagram shows in words.",
-   "canonical_answer": "Walk through the diagram in words, element by element. First, the axes labelled: the price of fuel, in N$ a litre, on the vertical axis, and the quantity of litres sold a month on the horizontal axis. Second, the original curve drawn and labelled: the demand curve D facing the station - the whole area's demand, because the station is the single seller within reach - sloping downward, with the original position marked E1 at N$22 a litre and 9 000 litres a month. Third, the shift or movement, in the correct direction: this is a movement along the demand curve, not a shift - the area's demand has not changed; the station's own pricing choice has. The movement runs up and to the left along D, from E1 towards the new position, because at N$25 some drivers make fewer trips, share lifts or buy part of their fuel farther away. Fourth, the new equilibrium marked and labelled: E2, on the same demand curve, at N$25 and 7 200 litres a month, since 9 000 - 7 200 = 1 800 litres a month of sales are given up. Fifth, what the diagram shows, in words: the demand curve facing a dominant seller slopes downward, so the seller may choose its own price, but a higher price tends to cost it sales as buyers respond; the station exchanged 1 800 litres of monthly sales for the N$3-a-litre higher price, since N$25 - N$22 = N$3. The link the diagram draws is between the barriers that make the station the single seller and the price it can set within what buyers will pay; the consequence for buyers is the higher price on every litre they still buy, and for the station the smaller quantity it sells.",
+   "prompt": "The fuel station at Ruacana is the only station within 90 km. It raises its price from N$22 to N$25 a litre, and its sales fall from 9 000 litres to 7 200 litres a month. Discuss how the station's position as the single seller is linked to its ability to raise its price, and the consequences of the higher price for its customers and for the station.",
+   "canonical_answer": "The 90 km to the next station is a barrier to entry, so drivers in the area have few alternatives and the station can set its own price. It raised the price by N$25 - N$22 = N$3 a litre and kept most of its sales. Even so, sales fell by 9 000 - 7 200 = 1 800 litres a month, because some drivers make fewer trips, share lifts or buy fuel elsewhere when they can. Customers pay N$3 more on each litre they still buy, and those who cut trips lose some travel. For the station, monthly takings fall from N$22 x 9 000 = N$198 000 to N$25 x 7 200 = N$180 000, but it also buys 1 800 fewer litres from its supplier, so whether it gains depends on its cost per litre. A single seller can choose its price, but buyers still respond to it; the barrier means it loses some sales rather than most of them.",
    "marking_guidance": [
-    "The walk-through must open with the axes labelled - fuel price in N$ a litre on the vertical axis, litres a month on the horizontal - before anything else.",
-    "Reward the original curve drawn and labelled: the demand curve D sloping downward, with E1 at N$22 and 9 000 litres, described before the change.",
-    "Check the shift or movement, in the correct direction: a price rise by the seller is a movement up and to the left along D, not a shift, because the area's demand has not changed.",
-    "The new equilibrium marked and labelled - E2 on the same curve, at N$25 and 7 200 litres a month - earns its mark, and what the diagram shows, in words, must close the walk-through.",
-    "The link between the barriers behind the station's position and the price it sets carries the analysis marks, and the consequence for each party - buyers paying N$3 a litre more, the station selling 1 800 litres less - must be named."
+    "The link: the answer must connect the 90 km barrier and the lack of nearby alternatives to the station's ability to raise its price without losing most of its sales.",
+    "The consequence: the N$3 rise and the 1 800-litre fall must be calculated, with the consequence named for customers (paying more per litre, travelling less) and for the station (higher price, fewer litres sold, takings falling from N$198 000 to N$180 000).",
+    "Discussion: an 8-mark answer reaches a view - whether the station gains depends on its cost per litre, and a single seller still faces buyers who respond to its price."
    ],
    "context": {
     "sector": null,
@@ -383,7 +393,9 @@
     "CLM-0455-3.8-005": 1,
     "CLM-0455-3.8-008": 1
    },
-   "authored_hash": "6b1acf695893ee3928eafdda010cddedc1f555e07480e5e336940c83e4f92e60",
+   "authored_hash": "a08090ebfd276b3908f1bf48626168be773be229d99d7fa08afa299414d1e606",
+   "prior_hash": "6b1acf695893ee3928eafdda010cddedc1f555e07480e5e336940c83e4f92e60",
+   "repair_note": "Review fix: rewrote the two 8-mark diagram slots as Discuss items that link cause to consequence in words, because the 3.8 syllabus excludes diagrams; trimmed flashcard answers to recall length; removed leaked authoring labels from model answers",
    "objective_titles": [
     "monopoly markets"
    ]
@@ -409,7 +421,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Etosha Gate Lodge, the only lodge at its gate, records two seasons.\nSeason 1: room price N$900 a night, 2 520 room-nights sold\nSeason 2: room price N$1 200 a night, 1 960 room-nights sold\nExplain what the figures show about the demand the lodge faces as the single seller at the gate.",
-   "canonical_answer": "What the data shows: the relationship between the lodge's own price and the room-nights it sells is negative - the higher price goes with the smaller quantity. Supporting evidence: the comparison across the seasons shows the price rising from N$900 to N$1 200 a night while room-nights fall from 2 520 to 1 960, a fall of 560 room-nights, since 2 520 - 1 960 = 560. Why: an explanation of the relationship is that as the single seller at the gate the lodge faces the area's own downward-sloping demand curve - travellers who want to stay at the gate must book with it, and at the higher price some stay further away, stay for fewer nights or skip the trip. The exception: however, the two seasons may differ in holidays, wildlife sightings and overseas visitor numbers, so part of the fall may come from fewer travellers overall rather than the N$300 higher price alone, since N$1 200 - N$900 = N$300.",
+   "canonical_answer": "When the lodge raised its price from N$900 to N$1 200 a night, room-nights sold fell by 2 520 - 1 960 = 560. This shows it faces a downward-sloping demand curve: as the only lodge at the gate it can set its price, but at a higher price some travellers stay elsewhere, stay fewer nights or skip the trip. However, the seasons may differ in holidays, wildlife or visitor numbers, so part of the fall may not be caused by the N$1 200 - N$900 = N$300 rise.",
    "marking_guidance": [
     "What the data shows - the negative relationship between the lodge's price and the room-nights sold - must be stated first.",
     "Supporting evidence: the comparison across the two seasons, with the 560-room-night fall attached, must back the statement.",
@@ -432,7 +444,9 @@
     "CLM-0455-3.8-007": 1,
     "CLM-0455-3.8-008": 1
    },
-   "authored_hash": "98095932aac56b13ed6dda9345e1fbcabef6c45f9ae129a0d9b8006326a5d459",
+   "authored_hash": "fc97cd7a0c23257f4b45e2ab352a84e0a8bba83dbbc8e27720b4bd7517a82756",
+   "prior_hash": "98095932aac56b13ed6dda9345e1fbcabef6c45f9ae129a0d9b8006326a5d459",
+   "repair_note": "Review fix: rewrote the two 8-mark diagram slots as Discuss items that link cause to consequence in words, because the 3.8 syllabus excludes diagrams; trimmed flashcard answers to recall length; removed leaked authoring labels from model answers",
    "objective_titles": [
     "monopoly markets"
    ]
@@ -458,7 +472,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Otavi Water Works holds the district's single water licence, households cannot easily switch suppliers, and its monthly household charge is N$180. A survey estimates that several competing suppliers in the same district would tend to charge nearer N$140 a month. Explain, using the context of this market, why the works can hold its charge above that level.",
-   "canonical_answer": "The context: the figures describe a single licensed supplier charging N$180 a month against an estimated many-seller level of about N$140, a gap of N$40 a month, since N$180 - N$140 = N$40, in a district where households cannot easily switch. The reasoning: the licence and the cost of laying a second set of pipes are barriers that keep new suppliers out, and because households have few alternatives, the works keeps its custom even at the higher charge; the link is that the usual check on a price - buyers leaving for a cheaper rival - is missing here, and this causes the charge to sit above the level rivalry would tend to bring. The conclusion: therefore the works can hold its charge at N$180 because the barriers protect its position as the single seller, which is what separates this market from one of many small sellers.",
+   "canonical_answer": "Otavi Water Works has the only water licence, and households cannot easily switch suppliers. It charges N$180 a month, N$180 - N$140 = N$40 more than competing suppliers would be expected to charge. The licence, and the high cost of laying a second set of pipes, keep rivals out. Because households cannot leave for a cheaper supplier, the usual check on price is missing. Therefore the barriers protecting the single seller let the works hold its charge above the many-seller level.",
    "marking_guidance": [
     "The context - the single licence, the N$180 charge against the estimated N$140, households unable to switch - must anchor the answer.",
     "Reasoning: because the barriers keep rivals out, the link is the missing check of buyers leaving for a cheaper rival.",
@@ -480,7 +494,9 @@
     "CLM-0455-3.8-005": 1,
     "CLM-0455-3.8-007": 1
    },
-   "authored_hash": "d1a37ee46429d079ef999a6337eedde39317c2e18db0b5167f5a9522fcefde42",
+   "authored_hash": "9df1e318ab826eb1b0b54e1f7008ef00dad54ca3d5a8e989a9299ce74cc5fc19",
+   "prior_hash": "d1a37ee46429d079ef999a6337eedde39317c2e18db0b5167f5a9522fcefde42",
+   "repair_note": "Review fix: rewrote the two 8-mark diagram slots as Discuss items that link cause to consequence in words, because the 3.8 syllabus excludes diagrams; trimmed flashcard answers to recall length; removed leaked authoring labels from model answers",
    "objective_titles": [
     "monopoly markets"
    ]
@@ -506,7 +522,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "Four minibus operators ran the Gobabis station rank, with fares at N$15 a trip. The council now grants the rank's single operating licence to one operator, who raises the fare to N$22 a trip. Analyse the consequences of the single licence for commuters, the licence holder, and the three operators who lost their permits.",
-   "canonical_answer": "Starting point: the initial change is the council granting a single operating licence, which cuts the sellers on the rank from four to one and raises a barrier - the licence - against any operator who might return. Mechanism: because commuters at the rank cannot easily switch to another operator and newcomers are kept out, the holder no longer faces rivals matching its fare, and this causes the fare to rise from N$15 to N$22 a trip. Consequence for commuters: each trip costs N$7 more, since N$22 - N$15 = N$7, so commuters tend to make fewer trips, share rides or walk where they can. Consequence for the licence holder: the fare premium widens its profit on each trip, though it may carry fewer trips as some commuters respond. Consequence for the three operators who lost their permits: their income from the rank ends, and the barrier keeps them from re-entering on their own account. For whom: the gains land on the licence holder, and the higher fares and lost livelihoods land on the consumers who ride the route and the three former operators - the standard result when a market of many small sellers becomes a single protected seller.",
+   "canonical_answer": "The council's single licence cuts the number of operators from four to one and creates a barrier to entry. Because commuters cannot switch operators and newcomers are kept out, the licence holder no longer faces rivals, so it raises the fare from N$15 to N$22. Commuters pay N$22 - N$15 = N$7 more per trip, so some make fewer trips, share rides or walk. The licence holder earns more on each trip, although it may carry fewer passengers. The three former operators lose their income from the rank and cannot return. So the licence holder gains, while commuters and the former operators lose.",
    "marking_guidance": [
     "Starting point: the initial change - the council granting a single licence, cutting the sellers from four to one - must open the analysis.",
     "Mechanism: because switching is limited and newcomers are kept out, this causes the fare to rise from N$15 to N$22.",
@@ -530,7 +546,9 @@
     "CLM-0455-3.8-006": 1,
     "CLM-0455-3.8-007": 1
    },
-   "authored_hash": "0b952a916e1a9263c2fdc869ead02afd4511769ea7fa5f5421cb35a32291412f",
+   "authored_hash": "0622b110b6cb2977d05a8502eac33966e70bb1e7e64f135f0a23f166f491cf51",
+   "prior_hash": "0b952a916e1a9263c2fdc869ead02afd4511769ea7fa5f5421cb35a32291412f",
+   "repair_note": "Review fix: rewrote the two 8-mark diagram slots as Discuss items that link cause to consequence in words, because the 3.8 syllabus excludes diagrams; trimmed flashcard answers to recall length; removed leaked authoring labels from model answers",
    "objective_titles": [
     "monopoly markets"
    ]
@@ -555,7 +573,7 @@
    "mark_tariff": 4,
    "difficulty": 4,
    "prompt": "Oshakati Maize Mills is the district's single large mill; farmers within 60 km have their maize ground there, and building a second mill of that size is estimated at N$8 million, far more than a newcomer could recover quickly. Explain the features that make this milling market a monopoly.",
-   "canonical_answer": "Four features make the milling market a monopoly. A single dominant seller: Oshakati Maize Mills is the one mill within reach of the district's farmers, and in the extreme it is the area's only supplier of grinding services. Barriers to entry: the N$8 million cost of building a second mill is a barrier few newcomers could carry, and it keeps new mills out. Price-setting within what buyers will pay: the mill sets its own grinding fee, because farmers who cannot mill at home must accept it or travel beyond 60 km. Limited alternatives: farmers within reach cannot easily switch away, which is what lets the fee sit above the level a market of several mills would tend to bring.",
+   "canonical_answer": "Oshakati Maize Mills is the single dominant seller, the only large mill within reach of the district's farmers. Building a second mill would cost about N$8 million, a barrier that keeps most new mills out. The mill can set its own grinding fee within what farmers will pay, because those who cannot mill at home must pay it or travel more than 60 km. Farmers have few alternatives, which lets the fee stay above the level several competing mills would charge.",
    "marking_guidance": [
     "Features: the elements required are a single dominant seller, barriers to entry, price-setting within what buyers will pay, and limited alternatives - each explained in the mill's own terms, not merely listed.",
     "What it includes: the N$8 million set-up cost named as the barrier is the fact that carries the second mark."
@@ -576,7 +594,9 @@
     "CLM-0455-3.8-005": 1,
     "CLM-0455-3.8-006": 1
    },
-   "authored_hash": "985b918732473a72c3a2dd043a5b92d4186ce7a8c5d8d3aa7fae92fc597a0b20",
+   "authored_hash": "e6e003786f13461793322515246dd417346e77bf1a7f707c0e5d562c53ec96b0",
+   "prior_hash": "985b918732473a72c3a2dd043a5b92d4186ce7a8c5d8d3aa7fae92fc597a0b20",
+   "repair_note": "Review fix: rewrote the two 8-mark diagram slots as Discuss items that link cause to consequence in words, because the 3.8 syllabus excludes diagrams; trimmed flashcard answers to recall length; removed leaked authoring labels from model answers",
    "objective_titles": [
     "monopoly markets"
    ]
@@ -664,7 +684,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "A newspaper report from Otavi, March 2027: \"Otavi's bread now comes from a busier open market. Four bakeries traded at the market last year; seven trade this year, and the average loaf has fallen in price. The town's fuel comes from the single station at the crossroads, 80 km from the next forecourt.\"\n\nTable 1 - Otavi markets\n  bakeries trading last year: 4\n  bakeries trading this year: 7\n  average loaf price last year: N$15\n  average loaf price this year: N$12\n  crossroads station fuel price: N$25 a litre\n  fuel price 80 km away: N$22 a litre\n\n(a) Calculate the fall in the average loaf price between the two years. [1]\n(b) Calculate how many more bakeries trade this year than last year. [1]\n(c) Identify from Table 1 the fuel price households could find 80 km away. [2]\n(d) Explain why the changes in the bread market show a competitive market working for buyers. [4]\n(e) Analyse what the report suggests about the two markets for Otavi's households, using the data as evidence. [6]",
-   "canonical_answer": "(a) N$15 - N$12 = N$3.\n(b) 7 - 4 = 3 bakeries.\n(c) N$22 a litre, at the station 80 km away.\n(d) The changes show a competitive market at work: three new bakeries entered, so the number of sellers rose from four to seven; because buyers at the open market can switch freely between stalls, a dearer bakery tends to lose customers to a keener rival; this causes the average price to fall from N$15 to N$12 a loaf; and buyers gain both the N$3 lower price and the choice of seven stalls where four traded.\n(e) Expected relationship: the level of the price tracks the number of sellers - many sellers with switching buyers tend towards lower prices, while a single protected seller tends towards higher ones. Evidence: bread fell N$3 a loaf as bakeries rose from four to seven, while the single station at the crossroads charges N$25 a litre against N$22 80 km away. Analysis: in the bread market, the new sellers raise the quantity offered at each price and rivalry pulls the price down; in the fuel market, the distance to the next station is a barrier that keeps rivals out, so the station's price sits above the level households could find with a second station nearby. Exception: however, the fuel gap may partly reflect the transport cost of serving a remote crossroads, and the bread fall may owe something to a good flour season as well as to entry, so the data suggests rather than settles the two effects.",
+   "canonical_answer": "(a) N$15 - N$12 = N$3.\n(b) 7 - 4 = 3 bakeries.\n(c) N$22 a litre, at the station 80 km away.\n(d) The changes show a competitive market at work: three new bakeries entered, so the number of sellers rose from four to seven; because buyers at the open market can switch freely between stalls, a dearer bakery tends to lose customers to a keener rival; this causes the average price to fall from N$15 to N$12 a loaf; and buyers gain both the N$3 lower price and the choice of seven stalls where four traded.\n(e) The level of the price tends to track the number of sellers - many sellers with switching buyers tend towards lower prices, while a single protected seller tends towards higher ones - and the data fit this: bread fell N$3 a loaf as bakeries rose from four to seven, while the single station at the crossroads charges N$25 a litre against N$22 80 km away. In the bread market, the new sellers raise the quantity offered at each price and rivalry pulls the price down; in the fuel market, the distance to the next station is a barrier that keeps rivals out, so the station's price sits above the level households could find with a second station nearby. However, the fuel gap may partly reflect the transport cost of serving a remote crossroads, and the bread fall may owe something to a good flour season as well as to entry, so the data suggests rather than settles the two effects.",
    "marking_guidance": [
     "Parts (a), (b) and (c) are read from the data; the six-mark part must use the figures as evidence - the bakery numbers, the N$3 bread fall, the two fuel prices - not as analysis itself.",
     "One mark per distinct linked statement in (d): the entry of new sellers, the switching of buyers, the falling price and the wider choice each need their link made.",
@@ -697,7 +717,9 @@
     "CLM-0455-3.8-005": 1,
     "CLM-0455-3.8-006": 1
    },
-   "authored_hash": "8c9a9e063590c9d4f58825889219c2ac95500792d4c42565c83ffdbcb16bb28a",
+   "authored_hash": "4dc440b9e7d6b61794481a800c28215d5a59f09005ee23086b93a36b1bcc5df6",
+   "prior_hash": "8c9a9e063590c9d4f58825889219c2ac95500792d4c42565c83ffdbcb16bb28a",
+   "repair_note": "Review fix: rewrote the two 8-mark diagram slots as Discuss items that link cause to consequence in words, because the 3.8 syllabus excludes diagrams; trimmed flashcard answers to recall length; removed leaked authoring labels from model answers",
    "objective_titles": [
     "competitive markets",
     "monopoly markets"
@@ -730,7 +752,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "A town council is reviewing its two markets. At the open market, twelve vegetable sellers trade, and new sellers may rent a stall on payment of a small weekly fee. The town's bus service is run by one licensed company, and the licence keeps other operators off the rank.\n\n(a) Define a competitive market. [2]\n(b) Explain two features of the town's bus market that make it a monopoly. [4]\n(c) Analyse the effects on vegetable buyers and on the twelve existing sellers if three new sellers rent stalls. [6]\n(d) Discuss whether the council should keep the bus market with its single licensed operator as it is. [8]",
-   "canonical_answer": "(a) A competitive market is a market with a high number of buyers and sellers in which each seller is too small to influence the market price on its own: the price is set by demand and supply across the whole market, and a seller who charges noticeably above it tends to lose customers to rivals.\n(b) Feature one: a single dominant seller - one licensed company runs the buses, and in the extreme it is the town's only supplier of rank-based bus travel. Developed: because it alone holds the licence, the fare is its own choice rather than the outcome of rivalry. Feature two: barriers to entry - the licence is a legal barrier that keeps any other operator off the rank. Developed: because newcomers cannot enter, the company keeps its position even where its fare sits above the level a second operator might charge.\n(c) Starting point: the initial change is three new sellers renting stalls, which raises the number of sellers from twelve to fifteen and the quantity of vegetables offered at each price. Mechanism: because buyers can move freely between stalls and new sellers win trade by pricing keenly, the going price comes under downward pressure. Consequence for buyers: the price of vegetables tends to fall and the choice of stalls widens. Consequence for the twelve existing sellers: each faces a narrower margin as prices are pulled down, and a stall whose quality slips tends to lose buyers to a newcomer. For whom: the gains land on the buyers, and the squeezed margins on the existing sellers - the standard effect of entry into a market of many small sellers.\n(d) Why the council might keep it: a single operator may run a steadier timetable across quiet routes, because it plans the whole network rather than choosing the busiest roads; and where its scale lowers its cost per trip, part of the saving may reach the fare. Why it might not: with the licence keeping rivals out, the fare may sit above the level a second operator would charge, and the pressure to keep the service good is weaker when passengers cannot easily switch. Judgement: on balance the council is likely to serve passengers better by keeping a single licensed network, provided the fare is checked against the operator's costs - the condition the judgement depends on is whether any check on the fare exists, since with the barrier in place the operator prices within what passengers will pay rather than near what rivalry would bring.",
+   "canonical_answer": "(a) A competitive market is a market with a high number of buyers and sellers in which each seller is too small to influence the market price on its own: the price is set by demand and supply across the whole market, and a seller who charges noticeably above it tends to lose customers to rivals.\n(b) The first feature is a single dominant seller: one licensed company runs the buses, and in the extreme it is the town's only supplier of rank-based bus travel. Because it alone holds the licence, the fare is its own choice rather than the outcome of rivalry. The second feature is a barrier to entry: the licence is a legal barrier that keeps any other operator off the rank. Because newcomers cannot enter, the company keeps its position even where its fare sits above the level a second operator might charge.\n(c) Three new sellers renting stalls raise the number of sellers from twelve to fifteen and the quantity of vegetables offered at each price. Because buyers can move freely between stalls and new sellers win trade by pricing keenly, the going price comes under downward pressure. For buyers, the price of vegetables tends to fall and the choice of stalls widens. Each of the twelve existing sellers faces a narrower margin as prices are pulled down, and a stall whose quality slips tends to lose buyers to a newcomer. The gains land on the buyers, and the squeezed margins on the existing sellers - the standard effect of entry into a market of many small sellers.\n(d) Why the council might keep it: a single operator may run a steadier timetable across quiet routes, because it plans the whole network rather than choosing the busiest roads; and where its scale lowers its cost per trip, part of the saving may reach the fare. Why it might not: with the licence keeping rivals out, the fare may sit above the level a second operator would charge, and the pressure to keep the service good is weaker when passengers cannot easily switch. Judgement: on balance the council is likely to serve passengers better by keeping a single licensed network, provided the fare is checked against the operator's costs - the condition the judgement depends on is whether any check on the fare exists, since with the barrier in place the operator prices within what passengers will pay rather than near what rivalry would bring.",
    "marking_guidance": [
     "Every part carries a model answer; part (d) is level-marked over three bands.",
     "(a) rewards the precise definition: many sellers, each too small to influence the price set across the market.",
@@ -762,7 +784,9 @@
     "CLM-0455-3.8-006": 1,
     "CLM-0455-3.8-007": 1
    },
-   "authored_hash": "f652ac72b7b8d8794b90b9d86929e7e5c7544f83fbc11d1e230fa022008b39d7",
+   "authored_hash": "1c2e871c12c106ed1164bb9adfff7c413ca8440f6ef9231a16d2c6c13e659739",
+   "prior_hash": "f652ac72b7b8d8794b90b9d86929e7e5c7544f83fbc11d1e230fa022008b39d7",
+   "repair_note": "Review fix: rewrote the two 8-mark diagram slots as Discuss items that link cause to consequence in words, because the 3.8 syllabus excludes diagrams; trimmed flashcard answers to recall length; removed leaked authoring labels from model answers",
    "objective_titles": [
     "competitive markets",
     "monopoly markets"

@@ -15,6 +15,16 @@
    "from": "an AO1 share by item count above the 40 per cent subject target, as C-18 will report",
    "to": "the slot plan as generated",
    "why": "the work order's ao_mix_note states the AO1 count share is structural for this topic and must not be padded against; the marks-equivalent mix is the one the syllabus weights."
+  },
+  {
+   "from": "slot ITEM-0455-4.7-013-DEF: Define, 2 marks, on the syllabus heading 'consequences of unemployment'",
+   "to": "FEATURE, Identify, 2 marks, AO1, Remember: identify two consequences of unemployment for the economy as a whole",
+   "why": "review fix: a syllabus heading is not a term with a precise meaning, so a Define prompt on it models a question the paper does not set; Identify at 2 marks is an observed tariff for this objective."
+  },
+  {
+   "from": "slot ITEM-0455-4.7-016-DEF: Define, 2 marks, Understand, on the syllabus heading 'policies to reduce unemployment'",
+   "to": "FEATURE, Identify, 2 marks, AO1, Remember: identify the two kinds of policy to reduce unemployment with an example of each",
+   "why": "review fix: a syllabus heading is not a term with a precise meaning, so a Define prompt on it models a question the paper does not set; the Bloom level follows the FEATURE subtype."
   }
  ]
 }

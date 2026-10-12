@@ -54,7 +54,7 @@
    "block_id": "4.5.2-b3",
    "block_type": "analysis_chain",
    "heading": "Two measures traced",
-   "text": "Trace a tax cut: the rate of income tax falls from 24% to 18% for a Katutura worker earning N$84 000 a year. Take-home pay rises from N$84 000 - 0.24 x N$84 000 = N$63 840 to N$84 000 - 0.18 x N$84 000 = N$68 880 a year. The reward from an extra hour of work rises, so the worker is more likely to offer overtime, and firms, keeping more profit, may fund new equipment. Trace deregulation: cutting a Windhoek registration from 9 permits and 40 days to 3 permits and 10 days lowers the cost of starting up, so more new firms are likely to enter.",
+   "text": "Trace a tax cut: the rate of income tax falls from 24% to 18% for a Katutura worker earning N$84 000 a year. Take-home pay rises from N$84 000 - 0.24 x N$84 000 = N$63 840 to N$84 000 - 0.18 x N$84 000 = N$68 880 a year. The reward from an extra hour of work rises, so the worker is more likely to offer overtime, and firms, keeping more profit, may fund new equipment. Trace deregulation with invented figures: suppose opening a small bakery in Windhoek needs 9 permits and 40 days, and the government cuts this to 3 permits and 10 days. Starting up becomes cheaper and quicker, so more new firms are likely to enter.",
    "claim_ids": [
     "CLM-0455-4.5-006",
     "CLM-0455-4.5-004"
@@ -67,13 +67,15 @@
     "CLM-0455-4.5-006": 1,
     "CLM-0455-4.5-004": 1
    },
-   "authored_hash": "1d6350de277259d38c68fa4fd52f72be2ba5610368e8fe6fe56962a534b40838"
+   "authored_hash": "10dedd549f71b1b918467f5e1f55b3676a9e852dff4b91896a088e01660b2bc4",
+   "prior_hash": "1d6350de277259d38c68fa4fd52f72be2ba5610368e8fe6fe56962a534b40838",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; leaked authoring labels removed; 40-day registration figures marked as invented; fifth macroeconomic aim (distribution of income) added to claim 012 and unit 4.5.3; prompt 4.5-009 reworded."
   },
   {
    "block_id": "4.5.2-b4",
    "block_type": "evaluation",
    "heading": "Strength, drawback and a caution on privatisation",
-   "text": "Strength: measures such as training raise capacity at the root, and the gains persist for a working life, in Vietnam as in Namibia. Drawback: the measures act slowly, so a government facing a problem now tends to reach for other policies first; and the gains depend on execution, since a poorly taught course adds little and a tax cut may be saved rather than invested. On privatisation: a private owner tends to watch costs and customers more keenly, but where the state-owned firm had no rival, the new owner may simply inherit that same position, so the expected gains may go missing.",
+   "text": "The main strength is that measures such as training raise capacity at the root, and the gains persist for a working life, in Vietnam as in Namibia. The main drawback is speed: the measures act slowly, so a government facing a problem now tends to reach for other policies first. The gains also depend on execution, since a poorly taught course adds little and a tax cut may be saved rather than invested. Privatisation carries its own caution: a private owner tends to watch costs and customers more keenly, but where the state-owned firm had no rival, the new owner may simply inherit that same position, so the expected gains may go missing.",
    "claim_ids": [
     "CLM-0455-4.5-007",
     "CLM-0455-4.5-008"
@@ -87,7 +89,9 @@
     "CLM-0455-4.5-007": 1,
     "CLM-0455-4.5-008": 1
    },
-   "authored_hash": "9c88f57408991a21b41af6d78fd6b08fb1d801e64cb94c6d060ea8353a44df29"
+   "authored_hash": "bad8abeee0ec24b89ff035f3ef4ac65ba3079c983570a4b43820155dedd3ca78",
+   "prior_hash": "9c88f57408991a21b41af6d78fd6b08fb1d801e64cb94c6d060ea8353a44df29",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; leaked authoring labels removed; 40-day registration figures marked as invented; fifth macroeconomic aim (distribution of income) added to claim 012 and unit 4.5.3; prompt 4.5-009 reworded."
   },
   {
    "block_id": "4.5.2-b5",

@@ -68,7 +68,7 @@
    "mark_tariff": 2,
    "difficulty": 1,
    "prompt": "Identify two elements that make a policy a supply-side policy rather than a monetary or fiscal one.",
-   "canonical_answer": "One element is the lever: a supply-side measure acts on the economy's capacity to produce, while a monetary measure acts on the cost of borrowing and the stock of money, and a fiscal measure acts on government spending and taxation. A second element is the time horizon: supply-side measures build their gains over the long term, while the other families steer spending in the shorter term.",
+   "canonical_answer": "One element is the lever: supply-side measures raise the economy's capacity to produce, whereas monetary policy works through interest rates, the money supply and exchange rates, and fiscal policy through government spending and taxes. The other is time: supply-side gains build over years.",
    "marking_guidance": [
     "Elements: the two features named must separate supply-side policy from the other families - the lever it pulls and the horizon over which it works."
    ],
@@ -88,7 +88,9 @@
     "CLM-0455-4.5-001": 1,
     "CLM-0455-4.5-002": 1
    },
-   "authored_hash": "4717e152d35fafc76fcb53b3f39abc24c786d12dcf86451c35606ae4fd223679",
+   "authored_hash": "498b8af9cb338853a659520adc82f445994fd39998420651757006ac5413802f",
+   "prior_hash": "4717e152d35fafc76fcb53b3f39abc24c786d12dcf86451c35606ae4fd223679",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; leaked authoring labels removed; 40-day registration figures marked as invented; fifth macroeconomic aim (distribution of income) added to claim 012 and unit 4.5.3; prompt 4.5-009 reworded.",
    "objective_titles": [
     "definition of supply-side policy"
    ]
@@ -111,7 +113,7 @@
    "command_word": "Define",
    "mark_tariff": 2,
    "difficulty": 4,
-   "prompt": "Define privatisation as a supply-side policy measure.",
+   "prompt": "Define privatisation.",
    "canonical_answer": "Privatisation is the transfer of a business owned by the state into private hands, a supply-side measure expected to raise efficiency because a private owner tends to watch costs and customers more keenly than a state owner does.",
    "marking_guidance": [
     "Precise definition: the meaning must cover the transfer from state to private ownership and its supply-side purpose, a keener eye on costs and customers."
@@ -131,7 +133,9 @@
    "claims_seen": {
     "CLM-0455-4.5-004": 1
    },
-   "authored_hash": "02be22a8be6d44e6e15207a3700ac2c1aba69768d3415f6960f530aa11032a64",
+   "authored_hash": "2c45e30050cf015d6cf9e11ea4554bfc9493f7163866a7e02f47be300d63e574",
+   "prior_hash": "02be22a8be6d44e6e15207a3700ac2c1aba69768d3415f6960f530aa11032a64",
+   "repair_note": "Reviewer: removed syllabus-heading qualifiers from Define prompts, distinguished prompts duplicated across topics, and replaced the leaked 'for whom:' label in the essay plan",
    "objective_titles": [
     "supply-side policy measures"
    ]
@@ -157,7 +161,7 @@
    "mark_tariff": 6,
    "difficulty": 4,
    "prompt": "The Namibian government funds a training programme for young job seekers in Oshakati and cuts the time to register a new firm in the town. Analyse the benefits of these supply-side measures for the Namibian economy.",
-   "canonical_answer": "A first benefit is higher output per worker: trained job seekers bring skills, so firms can produce more with the same workforce, because training raises what each hour of work yields; this leads to more total output, so the economy grows from the supply side. A second benefit is lower barriers to entry: cutting registration from 40 days to 10 days lowers the cost of starting a firm, so more new firms are likely to open, and each new firm adds to capacity, jobs and choice for consumers. A third benefit is better matching in the labour market: trained and registered job seekers find work more easily, so fewer remain idle, which serves the employment aim. For whom: firms gain capacity and a wider pool of skilled workers, job seekers gain work and income, consumers gain from the output of new entrants, and the economy gains growth that persists after the programme ends.",
+   "canonical_answer": "Training raises output per worker: young job seekers in Oshakati gain skills, so firms can produce more with the same workforce and total output grows. Faster registration lowers the time and cost of starting a firm, so more new firms are likely to open, each adding capacity, jobs and choice. Trained job seekers also find work more easily, so fewer stay idle, which serves the employment aim. Firms gain skilled workers and capacity, job seekers gain work and income, consumers gain from the new firms' output, and the economy gains growth that lasts after the programme ends.",
    "marking_guidance": [
     "Benefit: each advantage must be stated as a benefit of the named supply-side measures.",
     "Because: the reasoning must link the measure to its effect - training raises what each hour yields, and lower registration costs lead to more entrants.",
@@ -180,7 +184,9 @@
     "CLM-0455-4.5-006": 1,
     "CLM-0455-4.5-004": 1
    },
-   "authored_hash": "98166937261bb4bd7622bb0a69a98c8d735f5fcae0f4712f025a03131d789b80",
+   "authored_hash": "f90dd64932ba78cbd6a7c156203bae6924745e0d3deb88ecf78f005cafc333f0",
+   "prior_hash": "98166937261bb4bd7622bb0a69a98c8d735f5fcae0f4712f025a03131d789b80",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; leaked authoring labels removed; 40-day registration figures marked as invented; fifth macroeconomic aim (distribution of income) added to claim 012 and unit 4.5.3; prompt 4.5-009 reworded.",
    "objective_titles": [
     "supply-side policy measures"
    ]
@@ -205,7 +211,7 @@
    "mark_tariff": 6,
    "difficulty": 4,
    "prompt": "A government privatises the state water utility and funds a large worker-training scheme. Analyse the limitations of these supply-side measures for the economy.",
-   "canonical_answer": "One limitation is delay: a training scheme takes years to raise output per worker, so it does little for a problem the economy faces this year, because the gains build up as each trainee finishes and gains experience. A second limitation is execution: a poorly taught course adds few skills, and trainees who migrate abroad may carry the benefit away, so the programme may spend public money for little local gain. A third limitation is the privatisation caveat: where the state water utility had no rival, the new private owner inherits that same position and faces no other seller to compete with, so the expected efficiency gains may go missing, and a private owner may also raise charges where households cannot switch suppliers. For whom: the government carries the cost now for gains that are slow and uncertain, unskilled workers still outside the scheme gain little at first, and water users may face higher charges without better service.",
+   "canonical_answer": "Training is slow: trainees take years to raise output per worker, so the scheme does little for this year's problems. Its gains also depend on delivery: a poorly taught course adds few skills, and trainees who emigrate take the benefit with them, so public money may buy little local gain. A water utility with no rival keeps that position after privatisation, so the new owner faces no competitor, the expected efficiency gains may not appear, and charges may rise because households cannot switch supplier. The government carries the cost now for slow, uncertain gains, workers outside the scheme gain little, and water users may pay more without better service.",
    "marking_guidance": [
     "Limitation: each drawback must be stated as a limitation of the named measures.",
     "Because: the reasoning must say why the drawback arises - training takes years, execution varies, and a private owner with no rival loses the spur of competition.",
@@ -227,7 +233,9 @@
     "CLM-0455-4.5-008": 1,
     "CLM-0455-4.5-007": 1
    },
-   "authored_hash": "a3b43b4cdf81d738aa949319364440de2b4ddd5478c092d92de84adc3701a15c",
+   "authored_hash": "353043bfcb46015700aff7f39d953615a61ec93e2c0c86fbf59414a8c19cfc69",
+   "prior_hash": "a3b43b4cdf81d738aa949319364440de2b4ddd5478c092d92de84adc3701a15c",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; leaked authoring labels removed; 40-day registration figures marked as invented; fifth macroeconomic aim (distribution of income) added to claim 012 and unit 4.5.3; prompt 4.5-009 reworded.",
    "objective_titles": [
     "supply-side policy measures"
    ]
@@ -254,7 +262,7 @@
    "mark_tariff": 8,
    "difficulty": 5,
    "prompt": "Discuss whether supply-side policy measures are the best way for a government to raise the economy's rate of growth.",
-   "canonical_answer": "Why it might: the argument for is that supply-side measures act on the root of growth, the economy's capacity to produce. Training raises output per worker, lower direct taxes sharpen the incentive to work and invest, and deregulation lowers the cost of entry, so each measure adds to what firms can produce, and the gains persist for years after the spending ends. Why it might not: the argument against is speed and certainty. The measures act slowly, so a government seeking growth this year gains little from them, and their gains depend on execution: a tax cut may be saved rather than invested, a poorly run course teaches little, and a privatised utility without a rival may keep its old costs, so money is spent without capacity rising. A second point against is the cost: lower direct taxes cut government revenue, which may force spending down, and training budgets compete with other claims on public money. Judgement: on balance supply-side measures are the best route to lasting growth, because growth in capacity is what growth is, whereas faster spending alone lifts output briefly. What settles it is the time the government has and the quality of its delivery: it depends on whether the government needs growth within the year, in which case other policies bear more of the load, and on whether its training and deregulation are carried out well, on which the gains wholly rest.",
+   "canonical_answer": "Supply-side measures may be the best way because they act on the source of growth, the economy's capacity to produce. Training raises output per worker, lower direct taxes strengthen the incentive to work and invest, and deregulation lowers the cost of entry, so capacity rises and the gains last after the spending ends. They may not be, because they act slowly and do little for growth this year, and their gains depend on delivery: a tax cut may be saved rather than invested, a poorly run course teaches little, and a privatised utility with no rival may keep its old costs. Lower direct taxes also cut government revenue, which may force public spending down. On balance, they are the best route to lasting growth, which rests on rising capacity, whereas extra spending lifts output for a while. It depends on how quickly the government needs growth and how well it delivers: if it needs growth within the year, fiscal and monetary policy must carry more of the load.",
    "marking_guidance": [
     "Judgement: the answer must reach a judgement, and it depends must be answered by naming the condition.",
     "Why it might: the argument for must be developed - measures act on capacity and their gains persist.",
@@ -279,7 +287,9 @@
     "CLM-0455-4.5-007": 1,
     "CLM-0455-4.5-008": 1
    },
-   "authored_hash": "589425987c78f281f1793e9b0d27c1d5d153181d04ccd53584576974f397bd8b",
+   "authored_hash": "0f4bf2f6ab7932ffbd1f186bc03264c30336613eab2bbffe2e5e5f712cd431c3",
+   "prior_hash": "5426e5b95834a80561940e2e788e5667c5b567b5fa2eb8c6a83c5026ea2c2178",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall to the word caps.",
    "objective_titles": [
     "supply-side policy measures"
    ]
@@ -305,7 +315,7 @@
    "mark_tariff": 4,
    "difficulty": 4,
    "prompt": "The Tjipuka household in Gobabis earns N$84 000 a year, and the rate of income tax falls from 24% to 18%. Using the figures, explain how the tax cut is likely to affect the household's incentive to work.",
-   "canonical_answer": "At 24% the household keeps N$84 000 - 0.24 x N$84 000 = N$63 840 a year. At 18% it keeps N$84 000 - 0.18 x N$84 000 = N$68 880 a year. The extra N$68 880 - N$63 840 = N$5 040 raises the reward from each extra hour of work, because a larger share of the wage now stays with the household. Because overtime and second jobs pay better after the cut, the household is likely to offer more hours of work rather than fewer. Therefore the figures mean the tax cut strengthens the household's incentive to work, since each hour now brings a bigger gain in take-home pay.",
+   "canonical_answer": "At 24% the household keeps N$84 000 - 0.24 x N$84 000 = N$63 840 a year; at 18% it keeps N$84 000 - 0.18 x N$84 000 = N$68 880, which is N$68 880 - N$63 840 = N$5 040 more. A larger share of each extra hour's pay now stays with the household, so overtime or a second job pays better than before. Therefore the tax cut is likely to strengthen the household's incentive to work more hours.",
    "marking_guidance": [
     "Context: the figures must be used - the 24% and 18% rates and the N$84 000 income.",
     "Reasoning: the link from the tax figures to the incentive to work must be given, because a quoted figure alone explains nothing.",
@@ -327,7 +337,9 @@
     "CLM-0455-4.5-006": 1,
     "CLM-0455-4.5-004": 1
    },
-   "authored_hash": "3bc58b2b6acaeef6f0c35ba1cb2057b2e40e7e7c8a75c3ae91e62db36523f42c",
+   "authored_hash": "a1fbec93e2f9f792e7b1477a1285adcf730187e7723823882911509b0ace595a",
+   "prior_hash": "3bc58b2b6acaeef6f0c35ba1cb2057b2e40e7e7c8a75c3ae91e62db36523f42c",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; leaked authoring labels removed; 40-day registration figures marked as invented; fifth macroeconomic aim (distribution of income) added to claim 012 and unit 4.5.3; prompt 4.5-009 reworded.",
    "objective_titles": [
     "supply-side policy measures"
    ]
@@ -352,7 +364,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "To raise the economy's capacity, the government cuts the rate of company tax from 30% to 20% and simplifies the permits needed to open a workshop. Analyse how these measures are likely to affect firms and output in the economy.",
-   "canonical_answer": "Starting point: company tax falls from 30% to 20%, and opening a workshop needs fewer permits. Mechanism: because firms keep a larger share of each Namibian dollar of profit, investment in new equipment pays back more of its cost, so firms such as Oshakati Textiles are likely to bring forward building and buying plans; and because permits cost less time and money, more people are likely to start firms at all. This causes the economy's capacity to rise on two fronts at once - existing firms produce more, and new firms begin producing. Consequence: total output grows, firms take on more workers to run the new capacity, and the extra production tends to ease pressure on prices where costs per unit fall. For whom: existing firms gain higher profits, new entrants gain a cheaper start, workers gain jobs, consumers gain from added output, and the government gains growth while losing some tax revenue, which it may need to make good elsewhere.",
+   "canonical_answer": "With company tax down from 30% to 20%, firms keep a larger share of each Namibian dollar of profit, so new equipment pays back sooner and firms are likely to bring investment forward. Fewer permits cut the time and money needed to open a workshop, so more people are likely to start firms. Capacity therefore rises on two fronts: existing firms produce more, and new firms begin producing. Total output grows, firms hire workers to run the new capacity, and lower costs per unit may ease pressure on prices. Firms gain profit, entrants a cheaper start, workers jobs and consumers more output, while the government gains growth but loses some tax revenue.",
    "marking_guidance": [
     "Starting point: the initial change - the tax falling from 30% to 20% and the permit simplification - must be stated.",
     "Mechanism: because the reward from investing rises and entry costs fall, this causes more investment and more new firms.",
@@ -375,7 +387,9 @@
     "CLM-0455-4.5-006": 1,
     "CLM-0455-4.5-005": 1
    },
-   "authored_hash": "681730007727de732cc6a965b64ae15f4e99375ae906a8fd05fefe3c85cff26c",
+   "authored_hash": "2c885f33f40d12ca9996eee21693b3906f84cb3103426d39d987754b304142cc",
+   "prior_hash": "681730007727de732cc6a965b64ae15f4e99375ae906a8fd05fefe3c85cff26c",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; leaked authoring labels removed; 40-day registration figures marked as invented; fifth macroeconomic aim (distribution of income) added to claim 012 and unit 4.5.3; prompt 4.5-009 reworded.",
    "objective_titles": [
     "supply-side policy measures"
    ]
@@ -398,8 +412,8 @@
    "command_word": "Define",
    "mark_tariff": 2,
    "difficulty": 3,
-   "prompt": "Define the macroeconomic aim of economic growth as it relates to supply-side policy.",
-   "canonical_answer": "Economic growth is the aim of raising the economy's total output over time; supply-side policy serves it by raising the economy's capacity to produce, so output can rise without needing more workers or machines simply being added.",
+   "prompt": "Define economic growth and state how supply-side policy serves it.",
+   "canonical_answer": "Economic growth is an increase in the economy's total output of goods and services over time. Supply-side policy serves it by raising the economy's capacity to produce, so output can keep rising.",
    "marking_guidance": [
     "Precise definition: the meaning must cover rising total output over time and the supply-side route to it, capacity rather than extra spending."
    ],
@@ -418,7 +432,9 @@
    "claims_seen": {
     "CLM-0455-4.5-009": 1
    },
-   "authored_hash": "34ded1e99b6ccbd6eaf833e6eb6c8c946ebc3b25118bd8d9199610480d963100",
+   "authored_hash": "bb88c0defcf90a97914c8cde87a2304e7b3aa63d2a96f30929c70df736be624f",
+   "prior_hash": "71594124c9c598186d5df06bb8209a95c0bf6dfff81c770da731895373491aa9",
+   "repair_note": "Reviewer: removed syllabus-heading qualifiers from Define prompts, distinguished prompts duplicated across topics, and replaced the leaked 'for whom:' label in the essay plan",
    "objective_titles": [
     "effects of supply-side policy measures on government macroeconomic aims"
    ]
@@ -444,7 +460,7 @@
    "mark_tariff": 6,
    "difficulty": 5,
    "prompt": "The government funds a nationwide welding course whose 200 trainees in Otavi each raise their output per worker by a fifth. Analyse how this supply-side measure is likely to affect the government's macroeconomic aims.",
-   "canonical_answer": "Starting point: 200 trainees raise output per worker by a fifth. Mechanism: because each trained worker produces more, firms can fill larger orders with the same workforce, and the revenue each worker brings in per hour rises; this causes total output to rise, so the growth aim gains. Because a worker who produces more is cheaper to employ per unit, firms tend to offer more hours and take on more trainees, so the employment aim gains. Where firms can quote lower prices from lower costs per unit, pressure on prices tends to ease, so price stability gains ground, and keener-priced work abroad may lift export sales, serving the external aim. Consequence: the aims of growth and employment move together here, while the cost falls on the budget now, and the gains build over the years the trainees work. For whom: trainees gain pay and steadier work, firms gain capacity, consumers gain from slower price rises, and the government gains on growth and employment while paying the course cost.",
+   "canonical_answer": "The 200 trainees each produce a fifth more, so firms can fill larger orders with the same workforce and total output rises, serving growth. A more productive worker costs less per unit of output, so firms tend to offer more hours and take on more trainees, serving employment. Where lower costs per unit let firms quote lower prices, pressure on prices eases, and cheaper exports may sell better abroad, serving price stability and the external aim. The course costs the budget now, while the gains build over the trainees' working years. Trainees gain pay and steadier work, firms gain capacity, consumers gain slower price rises, and the government gains on growth and employment.",
    "marking_guidance": [
     "Starting point: the initial change - 200 trainees raising output per worker by a fifth - must be stated.",
     "Mechanism: because each trained worker produces more, this causes higher total output and easier profitable employment.",
@@ -468,7 +484,9 @@
     "CLM-0455-4.5-010": 1,
     "CLM-0455-4.5-011": 1
    },
-   "authored_hash": "57a4350dc3af02586485909fa5e198c8ef1b6dab4bd221bad8402611fb3f1ba6",
+   "authored_hash": "d3deba25a624762822d91a948f11d791523d219bcc2fe579426d487a30900e9a",
+   "prior_hash": "57a4350dc3af02586485909fa5e198c8ef1b6dab4bd221bad8402611fb3f1ba6",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; leaked authoring labels removed; 40-day registration figures marked as invented; fifth macroeconomic aim (distribution of income) added to claim 012 and unit 4.5.3; prompt 4.5-009 reworded.",
    "objective_titles": [
     "effects of supply-side policy measures on government macroeconomic aims"
    ]
@@ -494,7 +512,7 @@
    "mark_tariff": 4,
    "difficulty": 3,
    "prompt": "Between 2024 and 2026, an economy's total output grew 2% a year with no training reform; a second economy, identical at the start, adopted a worker-training programme and grew 4% a year over the same years. Using the figures, explain why the training programme is likely to have served the aim of economic growth.",
-   "canonical_answer": "The figures show two identical economies growing at different rates: 2% a year without the programme and 4% a year with it. Because trained workers produce more in each hour worked, the second economy's firms could raise output without adding workers or machines, so its capacity to produce was higher, and the growth gap of 4% - 2% = 2 percentage points a year points to capacity as the source. Where capacity grows, total output grows year after year, which is what the growth aim asks for. Therefore the figures mean the training programme served the growth aim through the supply-side channel: it raised what each worker could produce, and output rose with it.",
+   "canonical_answer": "The economy with training grew 4% a year against 2% for an identical economy without it, a gap of 4 - 2 = 2 percentage points a year. Trained workers produce more each hour, so firms could raise output without adding workers or machines, and capacity grew faster. Because the two economies started identical, the training is the likely source of the gap. Therefore the programme is likely to have served the growth aim through the supply side.",
    "marking_guidance": [
     "Context: the figures must be used - the 2% and 4% growth rates of the two economies.",
     "Reasoning: the link from training to output per worker to total output must be given, because the aim is served through that chain.",
@@ -516,7 +534,9 @@
     "CLM-0455-4.5-009": 1,
     "CLM-0455-4.5-010": 1
    },
-   "authored_hash": "c99a37297fcb2ce7a759f9df0a033084c841ef8bb4954b1fa7ae9e827947aaa9",
+   "authored_hash": "7710434df5e1398e0a39dd7fbbe82b40f9a69c255d38ccde45693d53c7fc134f",
+   "prior_hash": "c99a37297fcb2ce7a759f9df0a033084c841ef8bb4954b1fa7ae9e827947aaa9",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; leaked authoring labels removed; 40-day registration figures marked as invented; fifth macroeconomic aim (distribution of income) added to claim 012 and unit 4.5.3; prompt 4.5-009 reworded.",
    "objective_titles": [
     "effects of supply-side policy measures on government macroeconomic aims"
    ]
@@ -542,7 +562,7 @@
    "mark_tariff": 4,
    "difficulty": 5,
    "prompt": "Explain the features of the main supply-side policy measures available to a government.",
-   "canonical_answer": "The features are the lever each measure pulls. Education and training works on skills: it raises what each worker can produce, so capacity rises through people. Labour market reform works on matching: simpler hiring rules let firms and job seekers find each other more easily. Lower direct taxes work on rewards: a larger share of each wage and profit stays with the earner, so work and investment pay better. Deregulation works on barriers: fewer permits and rules lower the cost of starting and running a firm. Improved incentives work on choices: benefits and tax rules are shaped so that working and investing compare well with not doing so. Privatisation works on ownership: a business passes from state hands to private owners, who tend to watch costs more keenly. What the features share: each measure raises capacity rather than steering this year's spending, and each builds its effect over years.",
+   "canonical_answer": "Education and training raise workers' skills and output per worker. Labour market reforms, such as simpler hiring rules, help firms and job seekers find each other. Lower direct taxes let earners keep more of each wage and profit, so work and investment pay better. Deregulation removes rules that raise costs or block entry. Improved incentives shape benefits and taxes so that working and investing pay. Privatisation moves state firms to private owners who tend to watch costs more keenly. All aim to raise capacity, with effects that build over years.",
    "marking_guidance": [
     "Features: what it includes - the six measures must each be named with the lever it pulls."
    ],
@@ -563,7 +583,9 @@
     "CLM-0455-4.5-005": 1,
     "CLM-0455-4.5-006": 1
    },
-   "authored_hash": "2ce40746c2f004dd423e8ac0b1f55dd26b7b6328ba8e27c712bf4fa27202ea64",
+   "authored_hash": "70d2bbafc92d5a51e72d8858d7cb3933cfd2faa1d2a63a464a439a32593ad1d2",
+   "prior_hash": "d5a83118ac9c26d70ff5d9b558e76f4820c9accbbf1609971ac5cf9e9271496e",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall to the word caps.",
    "objective_titles": [
     "supply-side policy measures"
    ]
@@ -589,7 +611,7 @@
    "mark_tariff": 4,
    "difficulty": 4,
    "prompt": "Explain the features of the way supply-side policy affects the government's macroeconomic aims.",
-   "canonical_answer": "The features are the channel and the pace. One channel: supply-side measures work on the aims through capacity, raising what the economy can produce, so growth gains from higher output per worker, employment gains from workers who are easier to employ profitably, and price stability gains where lower costs per unit ease pressure on prices. Broad but slow reach: the measures touch several aims at once, yet their gains build over years, so the aims they serve move gradually rather than at a stroke. Trade-offs: some measures serve one aim while straining another, since lower direct taxes sharpen incentives but cut government revenue, which may force public spending down. Unequal effects: skilled workers and the firms that hire them tend to gain first, while those outside the programmes wait, so the features include who gains and when.",
+   "canonical_answer": "Supply-side policy reaches the aims through one channel, capacity: higher output per worker serves growth, more productive workers are easier to employ, and lower costs per unit ease pressure on prices. It touches several aims at once, but slowly, because the gains build over years. It can serve one aim while straining another: lower direct taxes sharpen incentives but cut revenue, may force public spending down and may widen the gap between high and low incomes. Its gains are uneven, reaching skilled workers and their employers first.",
    "marking_guidance": [
     "Features: the characteristics named must include the capacity channel, the slow pace, the trade-off between aims, and the uneven spread of gains."
    ],
@@ -606,11 +628,13 @@
    "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-0455-4.5-012": 1,
+    "CLM-0455-4.5-012": 2,
     "CLM-0455-4.5-009": 1,
     "CLM-0455-4.5-010": 1
    },
-   "authored_hash": "0d37e28ad1f2728243884badfb679e30b93b365b3de866d8a0cfce7fb22e7125",
+   "authored_hash": "1baaca312bd409f31e22f682b05d8dee1f91c9bb76ba9d5a7294ee11bc57a920",
+   "prior_hash": "0d37e28ad1f2728243884badfb679e30b93b365b3de866d8a0cfce7fb22e7125",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; leaked authoring labels removed; 40-day registration figures marked as invented; fifth macroeconomic aim (distribution of income) added to claim 012 and unit 4.5.3; prompt 4.5-009 reworded.",
    "objective_titles": [
     "effects of supply-side policy measures on government macroeconomic aims"
    ]
@@ -644,7 +668,7 @@
    "mark_tariff": null,
    "difficulty": 3,
    "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. Supply-side policy is best defined as:\nA  the use of interest rates to steer borrowing\nB  government measures to raise the economy's capacity to produce\nC  changes in government spending and taxation\nD  rules limiting what firms may charge\n\n2. Which of these is a monetary policy measure rather than a supply-side one?\nA  a worker-training programme\nB  cutting the permits needed to open a firm\nC  a rise in the policy interest rate\nD  privatising a state airline\n\n3. A government cuts income tax. The most likely effect on incentives is that:\nA  workers keep more of each wage, so work is better rewarded\nB  workers keep less of each wage, so work pays worse\nC  firms face higher costs of entry\nD  the money supply grows more slowly\n\n4. Deregulation is a supply-side measure because it:\nA  raises the price of imported machines\nB  lowers the cost of starting and running a firm\nC  raises the policy interest rate\nD  raises welfare spending by the state\n\n5. A worker earning N$60 000 a year pays income tax at 20% in year 1 and 10% in year 2. The rise in take-home pay between the years is:\nA  N$1 000\nB  N$5 000\nC  N$6 000\nD  N$10 000\n\n6. Training lifts what each worker produces. The macroeconomic aim served most directly is:\nA  a fall in the exchange rate\nB  economic growth through higher capacity\nC  a fall in government revenue\nD  a rise in the money supply\n\n7. A limitation of supply-side measures is that:\nA  they raise capacity within days\nB  their effects build slowly, over years\nC  they lower the productive capacity of firms\nD  they raise the cost of starting a firm\n\n8. A state water utility with no rival is privatised. The expected efficiency gains:\nA  are certain to reach households at once\nB  may go missing, since the new owner faces no other seller to compete with\nC  come from a rise in the policy interest rate\nD  come from the state spending more on the utility",
-   "canonical_answer": "Key: 1 B, 2 C, 3 A, 4 B, 5 C, 6 B, 7 B, 8 B.\n1. B names capacity as the purpose (A is the monetary lever of topic 4.4, C the fiscal lever of topic 4.3, D a price control rather than a capacity measure).\n2. C works on the cost of borrowing, so it is monetary (A, B and D each raise capacity or lower barriers, so each is supply-side - the standard confusion the register flags between the two families).\n3. A traces the reward channel (B runs the channel backwards, C expects a tax cut to raise entry costs, D confuses a tax cut with a money-supply measure).\n4. B names the barrier lowered (A reverses the cost effect, C names the lever of monetary policy, D names a fiscal route).\n5. C applies the two rates: the tax of 0.20 x N$60 000 = N$12 000 in year 1 falls to a tax of 0.10 x N$60 000 = N$6 000 in year 2, so take-home pay rises by N$12 000 - N$6 000 = N$6 000 (A drops a zero, B takes one year's tax rather than the difference, D doubles the true figure).\n6. B traces capacity to growth (A expects a lower exchange rate from training, C expects a revenue gain from a measure that costs money, D confuses training with a money-supply measure).\n7. B names the slow build (A expects capacity to rise at once, C reverses the direction of the measure, D names a cost increase rather than a limitation of the measure).\n8. B names the missing competition that blunts the gain (A treats the gains as certain and instant, C and D name levers from other policy families).",
+   "canonical_answer": "Key: 1 B, 2 C, 3 A, 4 B, 5 C, 6 B, 7 B, 8 B.\n1. B names capacity as the purpose (A is the monetary lever of topic 4.4, C the fiscal lever of topic 4.3, D a price control rather than a capacity measure).\n2. C works on the cost of borrowing, so it is monetary (A, B and D each raise capacity or lower barriers, so each is supply-side - a common confusion between the two families).\n3. A traces the reward channel (B runs the channel backwards, C expects a tax cut to raise entry costs, D confuses a tax cut with a money-supply measure).\n4. B names the barrier lowered (A reverses the cost effect, C names the lever of monetary policy, D names a fiscal route).\n5. C applies the two rates: the tax of 0.20 x N$60 000 = N$12 000 in year 1 falls to a tax of 0.10 x N$60 000 = N$6 000 in year 2, so take-home pay rises by N$12 000 - N$6 000 = N$6 000 (A drops a zero, B takes one year's tax rather than the difference, D doubles the true figure).\n6. B traces capacity to growth (A expects a lower exchange rate from training, C expects a revenue gain from a measure that costs money, D confuses training with a money-supply measure).\n7. B names the slow build (A expects capacity to rise at once, C reverses the direction of the measure, D names a cost increase rather than a limitation of the measure).\n8. B names the missing competition that blunts the gain (A treats the gains as certain and instant, C and D name levers from other policy families).",
    "marking_guidance": [
     "Key: one mark per question, eight in total; the correct option is listed and each distractor is explained as the specific misunderstanding it catches.",
     "Each distractor traces to a named error: supply-side confused with monetary or fiscal measures, the incentive channel run backwards, the percentage misapplied, the capacity-to-growth chain cut short, and privatisation treated as gain without competition."
@@ -671,7 +695,9 @@
     "CLM-0455-4.5-009": 1,
     "CLM-0455-4.5-010": 1
    },
-   "authored_hash": "3c591062121ea31e2cc0f43bb139fba76fa8ed1324528ed2d5cccea3b6ce0c98",
+   "authored_hash": "d48a42aa44cf1bd96b63d3ccb0b5b81e6ff8c74e0b3a296f1959d24fc78e9b60",
+   "prior_hash": "3c591062121ea31e2cc0f43bb139fba76fa8ed1324528ed2d5cccea3b6ce0c98",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; leaked authoring labels removed; 40-day registration figures marked as invented; fifth macroeconomic aim (distribution of income) added to claim 012 and unit 4.5.3; prompt 4.5-009 reworded.",
    "objective_titles": [
     "definition of supply-side policy",
     "supply-side policy measures",
@@ -703,8 +729,8 @@
    "command_word": null,
    "mark_tariff": null,
    "difficulty": 5,
-   "prompt": "A report in the Windhoek Courier, 2026: \"Five years ago Namibia opened its Technical Skills Centres and cut the time to register a firm from 40 days to 12. This year the centres report 4 000 graduates, firms say trained staff produce a fifth more per hour, and new registrations in Oshakati have doubled. Yet output per head has barely moved, and the finance ministry notes the training budget now competes with clinics for money.\"\n\nTable 1 - Namibia, 2021 and 2026\n  days to register a firm, 2021: 40\n  days to register a firm, 2026: 12\n  graduates from Skills Centres by 2026: 4 000\n  output per trained worker per hour, 2026: 24 units\n  output per untrained worker per hour, 2026: 20 units\n  new firm registrations in Oshakati per year, 2021: 300\n  new firm registrations in Oshakati per year, 2026: 600\n\n(a) Calculate the rise in output per hour between an untrained and a trained worker. [1]\n(b) State the number of days needed to register a firm in 2021. [1]\n(c) Identify from Table 1 the number of new firm registrations in Oshakati in 2021 and in 2026. [2]\n(d) Explain why cutting registration days from 40 to 12 is likely to raise the economy's capacity to produce. [4]\n(e) Analyse what the data suggests about the effects of the supply-side measures on the government's macroeconomic aims between 2021 and 2026. [6]",
-   "canonical_answer": "(a) The rise is 24 - 20 = 4 units per hour.\n(b) 40 days.\n(c) 300 new registrations in 2021 and 600 in 2026 (from Table 1).\n(d) Cutting registration from 40 days to 12 days lowers the time and cost of starting a firm, so more people are likely to start one. Because each new firm brings workers and equipment into production, the economy's capacity rises with each entrant; the doubling of registrations in Oshakati, from 300 to 600 a year, shows the channel at work. Where more firms produce, total output can rise without existing firms needing more machines, so the measure adds capacity at the margin where it is cheapest to add.\n(e) Expected relationship: supply-side measures such as training and easier registration tend to raise capacity, serving growth and employment, while their costs fall on the budget now. Evidence: trained workers produce 24 units per hour where untrained workers produce 20, registrations doubled from 300 to 600, and 4 000 graduates entered the labour market. Analysis: the higher output per trained worker points to capacity rising where the training reached, which supports the growth and employment aims, since workers who produce more are easier to employ profitably; the doubled registrations point to capacity entering through new firms, which adds output and jobs. But output per head has barely moved, so the gains had not yet reached the whole economy when the report was written - the slow build the data reveals, since 4 000 graduates are few against the whole workforce. Exception: the finance ministry notes the training budget competes with clinics, so the price stability of public services and other aims are strained while the capacity gains build. For whom: graduates and new firm owners gain first, firms gain skilled staff, the government gains slowly on growth while paying now, and households outside the trained group wait.",
+   "prompt": "An invented report, written for practice, in the Windhoek Courier, 2026: \"Five years ago Namibia opened its Technical Skills Centres and cut the time to register a firm from 40 days to 12. This year the centres report 4 000 graduates, firms say trained staff produce a fifth more per hour, and new registrations in Oshakati have doubled. Yet output per head has barely moved, and the finance ministry notes the training budget now competes with clinics for money.\"\n\nTable 1 - Namibia, 2021 and 2026\n  days to register a firm, 2021: 40\n  days to register a firm, 2026: 12\n  graduates from Skills Centres by 2026: 4 000\n  output per trained worker per hour, 2026: 24 units\n  output per untrained worker per hour, 2026: 20 units\n  new firm registrations in Oshakati per year, 2021: 300\n  new firm registrations in Oshakati per year, 2026: 600\n\n(a) Calculate the rise in output per hour between an untrained and a trained worker. [1]\n(b) State the number of days needed to register a firm in 2021. [1]\n(c) Identify from Table 1 the number of new firm registrations in Oshakati in 2021 and in 2026. [2]\n(d) Explain why cutting registration days from 40 to 12 is likely to raise the economy's capacity to produce. [4]\n(e) Analyse what the data suggests about the effects of the supply-side measures on the government's macroeconomic aims between 2021 and 2026. [6]",
+   "canonical_answer": "(a) The rise is 24 - 20 = 4 units per hour.\n(b) 40 days.\n(c) 300 new registrations in 2021 and 600 in 2026 (from Table 1).\n(d) Cutting registration from 40 days to 12 days lowers the time and cost of starting a firm, so more people are likely to start one. Because each new firm brings workers and equipment into production, the economy's capacity rises with each entrant; the doubling of registrations in Oshakati, from 300 to 600 a year, shows the channel at work. Where more firms produce, total output can rise without existing firms needing more machines, so the measure adds capacity at the margin where it is cheapest to add.\n(e) Supply-side measures such as training and easier registration would be expected to raise capacity, serving growth and employment, while their costs fall on the budget now. The data fits this in part: trained workers produce 24 units per hour where untrained workers produce 20, registrations doubled from 300 to 600, and 4 000 graduates entered the labour market. The higher output per trained worker points to capacity rising where the training reached, which supports the growth and employment aims, since workers who produce more are easier to employ profitably; the doubled registrations point to capacity entering through new firms, adding output and jobs. Yet output per head has barely moved, so the gains had not reached the whole economy by 2026 - the slow build of supply-side policy, since 4 000 graduates are few against the whole workforce. The training budget also competes with clinics, so other public services may lose funding while the capacity gains build. Graduates and new firm owners gain first, firms gain skilled staff, the government gains slowly on growth while paying now, and households outside the trained group wait.",
    "marking_guidance": [
     "Context: parts (a), (b) and (c) are read or calculated from the data; (d) and (e) must use the figures - the 40 to 12 days, the 20 to 24 units per hour, the 300 to 600 registrations, the 4 000 graduates.",
     "Reasoning: one mark per distinct linked statement; quoting a figure on its own is description, not analysis - the relationship must be stated and the reason given.",
@@ -735,7 +761,9 @@
     "CLM-0455-4.5-009": 1,
     "CLM-0455-4.5-010": 1
    },
-   "authored_hash": "a899cb7e3863bca1a91e568849020f273ae40a9e3d524ca3f6dfdabcea96cde0",
+   "authored_hash": "a8a11ac02875f7698b248f94e32a308fc43f2aa172efac7820e1ea0dfe4790b3",
+   "prior_hash": "a899cb7e3863bca1a91e568849020f273ae40a9e3d524ca3f6dfdabcea96cde0",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; leaked authoring labels removed; 40-day registration figures marked as invented; fifth macroeconomic aim (distribution of income) added to claim 012 and unit 4.5.3; prompt 4.5-009 reworded.",
    "objective_titles": [
     "supply-side policy measures",
     "effects of supply-side policy measures on government macroeconomic aims"
@@ -768,8 +796,8 @@
    "command_word": null,
    "mark_tariff": null,
    "difficulty": 5,
-   "prompt": "Namibia has cut the time to register a firm from 40 days to 12, funds worker training through Technical Skills Centres, and is weighing a cut in the rate of income tax.\n(a) Define supply-side policy. [2]\n(b) Explain how lower direct taxes are likely to strengthen the incentive to work and invest. [4]\n(c) Analyse the likely effects of the training programme and the faster registration on the government's macroeconomic aims. [6]\n(d) Discuss whether a government should use supply-side policy measures to achieve its macroeconomic aims. [8]",
-   "canonical_answer": "(a) Supply-side policy is the use of government measures to raise the economy's capacity to produce, by making workers more productive, removing barriers that hold firms back, and strengthening the incentive to work, save and invest.\n(b) A lower rate of income tax leaves a larger share of each wage with the worker, so each extra hour worked pays more in take-home terms, and overtime or a second job compares better with leisure. A lower rate of company tax leaves a larger share of each profit with the firm, so a building or equipment project keeps more of its return, which makes more projects worth funding. Because both rewards rise at once, households tend to offer more work and firms tend to invest more, so the economy's capacity grows through the choices of the people taxed.\n(c) Starting point: 4 000 trained workers raise output per hour by a fifth, and registration falls from 40 days to 12. Mechanism: because trained workers produce more per hour, firms can raise output with the same workforce, so total output grows and the growth aim gains; and because workers who produce more are cheaper to employ per unit, firms tend to offer more hours, so the employment aim gains. Because registration is cheaper and quicker, more new firms enter - registrations in Oshakati doubled from 300 to 600 - adding further output and jobs, and where costs per unit fall across firms, pressure on prices eases, serving price stability. Consequence: several aims move together through one channel, capacity, but the gains build over years, so the aims move gradually. For whom: trainees and new firm owners gain first, firms gain skilled staff and leaner entry, consumers gain from added output, and the government gains on growth and employment while carrying the training budget now.\n(d) Why it might: supply-side measures act on the root of the aims, the economy's capacity, so growth and employment are served together and the gains persist after the spending ends; training, deregulation and tax cuts each add capacity through a different door. Why it might not: the measures act slowly, so they do little for an economy facing a problem this year, and their gains depend on delivery - a poorly taught course adds little, a tax cut may be saved rather than invested, and a privatised firm with no rival may keep its old costs. The measures also carry costs that touch other aims: lower direct taxes cut revenue, which may force public spending down and strain the services households rely on. Judgement: on balance a government should hold supply-side measures as the core of its approach to the aims, because capacity is what lasting growth rests on, while reaching for fiscal or monetary measures when the problem is immediate. What the judgement depends on is the time horizon and delivery: it depends on whether the government needs results within the year and whether its programmes are run well enough for the gains to arrive.",
+   "prompt": "In an invented scenario, Namibia has cut the time to register a firm from 40 days to 12, funds worker training through Technical Skills Centres, and is weighing a cut in the rate of income tax.\n(a) Define supply-side policy. [2]\n(b) Explain how lower direct taxes are likely to strengthen the incentive to work and invest. [4]\n(c) Analyse the likely effects of the training programme and the faster registration on the government's macroeconomic aims. [6]\n(d) Discuss whether a government should use supply-side policy measures to achieve its macroeconomic aims. [8]",
+   "canonical_answer": "(a) Supply-side policy is the use of government measures to raise the economy's capacity to produce, by making workers more productive, removing barriers that hold firms back, and strengthening the incentive to work, save and invest.\n(b) A lower rate of income tax leaves a larger share of each wage with the worker, so each extra hour worked pays more in take-home terms, and overtime or a second job compares better with leisure. A lower rate of company tax leaves a larger share of each profit with the firm, so a building or equipment project keeps more of its return, which makes more projects worth funding. Because both rewards rise at once, households tend to offer more work and firms tend to invest more, so the economy's capacity grows through the choices of the people taxed.\n(c) With 4 000 trained workers raising output per hour by a fifth, firms can raise output with the same workforce, so total output grows and the growth aim gains; and because workers who produce more are cheaper to employ per unit, firms tend to offer more hours, so the employment aim gains. Because registration falls from 40 days to 12, starting a firm is cheaper and quicker, so more new firms enter - registrations in Oshakati doubled from 300 to 600 - adding further output and jobs; where costs per unit fall across firms, pressure on prices eases, serving price stability. Several aims therefore move together through one channel, capacity, but the gains build over years, so the aims move gradually. Trainees and new firm owners gain first, firms gain skilled staff and cheaper entry, consumers gain from added output, and the government gains on growth and employment while carrying the training budget now.\n(d) A government should use supply-side measures because they act on the root of the aims, the economy's capacity, so growth and employment are served together and the gains persist after the spending ends; training, deregulation and tax cuts each add capacity in a different way. Against this, the measures act slowly, so they do little for an economy facing a problem this year, and their gains depend on delivery - a poorly taught course adds little, a tax cut may be saved rather than invested, and a privatised firm with no rival may keep its old costs. The measures also carry costs that touch other aims: lower direct taxes cut revenue, which may force public spending down and strain the services households rely on. On balance a government should hold supply-side measures as the core of its approach to the aims, because capacity is what lasting growth rests on, while reaching for fiscal or monetary measures when the problem is immediate. The judgement depends on the time horizon and on delivery: whether the government needs results within the year, and whether its programmes are run well enough for the gains to arrive.",
    "marking_guidance": [
     "Parts (a) to (d) carry a model answer each; (d) is level-marked over three bands.",
     "Context: (b) and (c) must use the figures given - the 40 to 12 days, the fifth rise in output per hour, the 300 to 600 registrations.",
@@ -800,7 +828,9 @@
     "CLM-0455-4.5-010": 1,
     "CLM-0455-4.5-011": 1
    },
-   "authored_hash": "b8b9576a0577f69a41fab562c960df70f877324c50c9a1f0b1ac2d8155dd805e",
+   "authored_hash": "5d3201379bb096e5d2c24857c9373925b922511c2fe5e3edda8fcf71d24549b6",
+   "prior_hash": "b8b9576a0577f69a41fab562c960df70f877324c50c9a1f0b1ac2d8155dd805e",
+   "repair_note": "Reviewer fix 2026-10-13: flashcard answers trimmed for recall; leaked authoring labels removed; 40-day registration figures marked as invented; fifth macroeconomic aim (distribution of income) added to claim 012 and unit 4.5.3; prompt 4.5-009 reworded.",
    "objective_titles": [
     "definition of supply-side policy",
     "supply-side policy measures",
@@ -832,7 +862,7 @@
    "mark_tariff": null,
    "difficulty": 5,
    "prompt": "Plan an answer to: \"Discuss whether supply-side policy measures are the most effective way for a government to achieve its macroeconomic aims.\" Build the plan from the measures and their effects on the aims. Do not write the essay; produce the plan.",
-   "canonical_answer": "Case for (the aims served at the root): supply-side measures act on capacity, the one channel that serves growth, employment and price stability together.\nChain 1: training funded -> output per worker rises -> firms produce more with the same workforce -> total output grows and workers are easier to employ profitably -> growth and employment aims gain (for whom: trainees gain pay, firms gain capacity, the government gains on two aims).\nChain 2: registration days cut -> starting a firm costs less -> more new firms enter -> output and jobs added, and lower costs per unit ease pressure on prices -> growth, employment and price stability gain together (for whom: new owners gain a start, consumers gain output, the economy gains leaner costs).\nCase against (slow, uncertain, costly): the measures act over years, and their gains rest on delivery.\nChain 3: tax cut enacted -> reward to work and investment rises -> but part of the gain is saved rather than invested -> capacity rises by less than hoped, while government revenue falls -> public spending may be cut, straining other aims (for whom: households keep more pay, the government loses revenue, service users may lose provision).\nCase against, second point: other routes exist - fiscal and monetary measures act on spending within months, so a government facing a problem now may need them first, and supply-side measures alone cannot answer a short-term shock.\nJudgement: supply-side measures tend to be the most effective way to achieve the aims over the long term, because capacity is the root the aims grow from and its gains persist. The condition the judgement depends on is the time horizon and delivery: it depends on whether the government needs the aims served within the year, in which case the faster families of policy carry more of the load, and on whether its programmes are run well enough for the promised gains to arrive.",
+   "canonical_answer": "Case for (the aims served at the root): supply-side measures act on capacity, the one channel that serves growth, employment and price stability together.\nChain 1: training funded -> output per worker rises -> firms produce more with the same workforce -> total output grows and workers are easier to employ profitably -> growth and employment aims gain (who is affected: trainees gain pay, firms gain capacity, the government gains on two aims).\nChain 2: registration days cut -> starting a firm costs less -> more new firms enter -> output and jobs added, and lower costs per unit ease pressure on prices -> growth, employment and price stability gain together (who is affected: new owners gain a start, consumers gain output, the economy gains leaner costs).\nCase against (slow, uncertain, costly): the measures act over years, and their gains rest on delivery.\nChain 3: tax cut enacted -> reward to work and investment rises -> but part of the gain is saved rather than invested -> capacity rises by less than hoped, while government revenue falls -> public spending may be cut, straining other aims (who is affected: households keep more pay, the government loses revenue, service users may lose provision).\nCase against, second point: other routes exist - fiscal and monetary measures act on spending within months, so a government facing a problem now may need them first, and supply-side measures alone cannot answer a short-term shock.\nJudgement: supply-side measures tend to be the most effective way to achieve the aims over the long term, because capacity is the root the aims grow from and its gains persist. The condition the judgement depends on is the time horizon and delivery: it depends on whether the government needs the aims served within the year, in which case the faster families of policy carry more of the load, and on whether its programmes are run well enough for the promised gains to arrive.",
    "marking_guidance": [
     "A plan, not an essay: the chains and the stated judgement are what is assessed.",
     "Criterion: the decisive factor is the time horizon the government faces and the quality of delivery.",
@@ -859,7 +889,9 @@
     "CLM-0455-4.5-009": 1,
     "CLM-0455-4.5-011": 1
    },
-   "authored_hash": "0686ce21b808f200058f8f1361482d853001dc3f0afeb3973b32eb06bf5c23a4",
+   "authored_hash": "5767aa7840ecb6c6ef9847a6e73634c6faafbd2c252c6fee1d79714684734860",
+   "prior_hash": "0686ce21b808f200058f8f1361482d853001dc3f0afeb3973b32eb06bf5c23a4",
+   "repair_note": "Reviewer: removed syllabus-heading qualifiers from Define prompts, distinguished prompts duplicated across topics, and replaced the leaked 'for whom:' label in the essay plan",
    "objective_titles": [
     "supply-side policy measures",
     "effects of supply-side policy measures on government macroeconomic aims"

@@ -52,7 +52,7 @@
    "block_id": "6.3.5-b3",
    "block_type": "worked_application",
    "heading": "Namibia's parity and the euro",
-   "text": "The Namibian dollar is pegged one-for-one with the South African rand: it has stood at one rand per Namibian dollar through years in which demand and supply for Namibian exports have swung, which is the behaviour of a fixed arrangement. A Windhoek importer paying a South African supplier knows in advance what each Namibian dollar will fetch, whatever the market behind it does. By contrast, Germany, Portugal and the Netherlands share the euro, whose rate against the US dollar moves with the market: the euro area floats against outside currencies, and its traders live with those movements.",
+   "text": "The Namibian dollar is pegged one-for-one with the South African rand: it has stood at one rand per Namibian dollar through years in which demand and supply for Namibian exports have swung, which is the behaviour of a fixed arrangement. A Windhoek importer paying a South African supplier knows in advance what each Namibian dollar will fetch, whatever the market behind it does. Pegged to the rand does not mean fixed against every currency: the rand floats, so the Namibian dollar rises and falls against the euro and the US dollar as the rand does. By contrast, Germany, Portugal and the Netherlands share the euro, whose rate against the US dollar moves with the market: the euro area floats against outside currencies, and its traders live with those movements.",
    "claim_ids": [
     "CLM-0455-6.3-020",
     "CLM-0455-6.3-017"
@@ -62,10 +62,12 @@
     "AO2"
    ],
    "claims_seen": {
-    "CLM-0455-6.3-020": 1,
+    "CLM-0455-6.3-020": 2,
     "CLM-0455-6.3-017": 1
    },
-   "authored_hash": "2a2b682b29151d55a72b5c7ca78e45802fa6eb921631c6dd0f52419b5b7482fa"
+   "authored_hash": "10d2d060f2e5f99cb95085edd3009a7fd89a5fc0333c1aef260f59de3f586c7a",
+   "prior_hash": "2a2b682b29151d55a72b5c7ca78e45802fa6eb921631c6dd0f52419b5b7482fa",
+   "repair_note": "Review fix: removed the floating/pegged contradiction - Namibia-specific demand and interest-rate shocks no longer move the N$ on its own (004, 006, 009 and notes 6.3.3-b3/b4 reframed around Zambia's floating kwacha; P02 causes moved to the rand, with the peg stated; P03(b) generalised); N$-euro moves now stated as moving with the rand (011, 012, P03, notes 6.3.4-b3, 6.3.5-b3, claim 020); P02/P03 labels removed; flashcard answers trimmed for recall"
   },
   {
    "block_id": "6.3.5-b4",

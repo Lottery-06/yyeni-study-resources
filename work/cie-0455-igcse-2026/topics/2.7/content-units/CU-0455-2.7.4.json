@@ -56,7 +56,7 @@
    "block_id": "2.7.4-b3",
    "block_type": "worked_calculation",
    "heading": "One price rise, two totals",
-   "text": "The inelastic case from section 2.7.2: the Ruacana minibus at N$40 carrying 500 passengers earned spending of N$20 000 a month, since 40 x 500 = 20000. At N$60 with 460 passengers, spending is N$27 600, since 60 x 460 = 27600 - up N$7 600, because the 8 per cent fall in passengers was smaller than the 50 per cent rise. The elastic case: Kaoko Juice at N$10 sold 200 bottles, spending N$2 000, since 10 x 200 = 2000; at N$12 with 150 bottles it is N$1 800, since 12 x 150 = 1800, a fall of N$200. On the diagram, each total is the rectangle under the demand curve at that point, height the price and base the quantity - the elastic or inelastic answer is which rectangle grows.",
+   "text": "The inelastic case from section 2.7.2: the Ruacana minibus at N$40 carrying 500 passengers earned spending of N$20 000 a month, since 40 x 500 = 20000. At N$60 with 460 passengers, spending is N$27 600, since 60 x 460 = 27600 - up N$7 600, because the 8 per cent fall in passengers was smaller than the 50 per cent rise. The elastic case: Kaoko Juice at N$10 sold 200 bottles, spending N$2 000, since 10 x 200 = 2000; at N$12 with 150 bottles it is N$1 800, since 12 x 150 = 1800, a fall of N$200. On the diagram, each total is the rectangle from the origin to that point on the curve, height the price and base the quantity: elasticity decides which rectangle is larger.",
    "claim_ids": [
     "CLM-0455-2.7-017",
     "CLM-0455-2.7-018",
@@ -72,9 +72,11 @@
     "CLM-0455-2.7-017": 1,
     "CLM-0455-2.7-018": 1,
     "CLM-0455-2.7-019": 1,
-    "CLM-0455-2.7-020": 1
+    "CLM-0455-2.7-020": 2
    },
-   "authored_hash": "c8b2596ee647af598c3406c30fc0e35723e144e044abccd175f9c2c21e2bbbaa"
+   "authored_hash": "f28abc1eda5f8d975caa537f114167b505cb613a4412265ddb1357ab7e68ada5",
+   "prior_hash": "c8b2596ee647af598c3406c30fc0e35723e144e044abccd175f9c2c21e2bbbaa",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length as plain prose; artificial Define prompts reworded to State; 002 given two distinct features; total-spending rectangle wording corrected (claim 020 r2); new equilibrium removed from single-curve diagrams; tax cross-reference corrected to 4.3; P01 Q2 distractor, P02(b) and leaked labels in P02(d)/P03(c) fixed; 014 prompt period count fixed."
   },
   {
    "block_id": "2.7.4-b4",
@@ -102,13 +104,15 @@
    "block_id": "2.7.4-b5",
    "block_type": "cross_link",
    "heading": "Connections",
-   "text": "The totals reuse section 2.7.2's calculations and are what a firm's price decision (2.7.5) and a government's tax decision (4.1) turn on.",
+   "text": "The totals reuse section 2.7.2's calculations and are what a firm's price decision (2.7.5) and a government's tax decision (topic 4.3) turn on.",
    "claim_ids": [],
    "context_tags": [],
    "assessment_objectives": [],
    "claims_seen": {},
-   "authored_hash": "db32bdd9c0cc85385ed9665c334d4e74ae4ec7e8969a69029d58ca64968a63c7"
+   "authored_hash": "166ca30b4702902abc5341e08dc87b6b5007964074ac191c329efcb55da04c83",
+   "prior_hash": "db32bdd9c0cc85385ed9665c334d4e74ae4ec7e8969a69029d58ca64968a63c7",
+   "repair_note": "Reviewer fix: flashcard answers trimmed to recall length as plain prose; artificial Define prompts reworded to State; 002 given two distinct features; total-spending rectangle wording corrected (claim 020 r2); new equilibrium removed from single-curve diagrams; tax cross-reference corrected to 4.3; P01 Q2 distractor, P02(b) and leaked labels in P02(d)/P03(c) fixed; 014 prompt period count fixed."
   }
  ],
- "word_count": 398
+ "word_count": 397
 }
