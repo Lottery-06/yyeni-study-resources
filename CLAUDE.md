@@ -1,6 +1,8 @@
 # YYeni Study Resources
 
-**Read `AGENTS.md` first.** It routes you to the one role brief you need and states the three rules
+**Working on a subject with a person? Read `TEAM-PLAYBOOK.md` first and follow it step by step.**
+
+**Then read `AGENTS.md`.** It routes you to the one role brief you need and states the three rules
 that apply to every agent working in this repository. This file carries only the web-acquisition
 toolkit notes below.
 

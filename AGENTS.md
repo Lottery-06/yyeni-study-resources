@@ -5,6 +5,8 @@ official syllabuses, past papers and examiner reports.
 
 **Read this file, then read exactly one role brief below. Do not read the others.**
 
+**Starting or continuing a subject with a person?** If someone asks you to create, plan, author, review or continue notes and flashcards for a subject, read `TEAM-PLAYBOOK.md` at the repository root first and follow it step by step. It sets the order of work, which role brief applies at each step, and where to stop for the person's answer. The role briefs below say how each step is done.
+
 Whoever started you should have told you your **role** and your **workspace**
 (`work/<qualification>/`). An author takes the whole subject and works through every topic in one
 run. If either is missing, ask before doing anything.
