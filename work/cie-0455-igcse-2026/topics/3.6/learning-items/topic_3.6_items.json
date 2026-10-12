@@ -1,0 +1,763 @@
+{
+ "dataset_id": "ITEMS-0455-IGCSE-3.6",
+ "topic_id": "3.6",
+ "items": [
+  {
+   "item_id": "ITEM-0455-3.6-001-DEF",
+   "objective_ids": [
+    "OBJ-0455-3.6.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.6-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Define the demand for a factor of production.",
+   "canonical_answer": "The demand for a factor of production is the quantity of a factor - land, labour, capital or enterprise - that firms are willing and able to employ at a given cost over a period of time.",
+   "marking_guidance": [
+    "Precise meaning: the definition must state that firms are willing and able to employ the factor, and should name the factors or carry the sense of cost and time period."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.6-001": 1
+   },
+   "authored_hash": "dd7c98908c40aa28751f27b71bb364b9136ba8cd0ad9ff578cbb30bfacf1725e"
+  },
+  {
+   "item_id": "ITEM-0455-3.6-002-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-3.6.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.6-002",
+    "CLM-0455-3.6-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "Kaoko Juice of Oshakati has won a contract to supply juice to 40 schools across the region, and expects to keep the contract for several years. Analyse the likely effects of the new contract on the firm's demand for factors of production, and on the people who supply them.",
+   "canonical_answer": "Starting point: the initial change is a large new order for juice that is likely to last. Mechanism: the demand for factors is derived from the demand for the product, so filling 40 schools' orders needs more fruit, more bottling staff and more delivery work than before; this causes the firm's demand for labour and for equipment to rise. Consequence: fruit-growers around Oshakati sell more mangoes, the firm is likely to take on workers for the season and perhaps buy a second bottling line, and wages are likely to be paid to households who did not have them. For whom: workers gain jobs and growers gain sales; the firm gains the revenue but carries the risk that the contract ends, in which case its factor demand falls back with it; the economy gains the spending the new wages circulate. Exception: if the firm already has spare staff and idle equipment, it can fill the orders without demanding more factors at first.",
+   "marking_guidance": [
+    "Starting point: the initial change - the new school contract - must be named.",
+    "Mechanism: the chain through derived demand must be spelled out, because factor demand moving with product demand is what causes the effects.",
+    "Consequence: the results must land on named parties, therefore each effect is attributed to the workers, growers, firm or economy it reaches.",
+    "For whom: credit effects for the worker, the firm, the grower or the economy as each is named."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.6-002": 1,
+    "CLM-0455-3.6-003": 1
+   },
+   "authored_hash": "2898fd0ef63f3154609d339013a9e1126d340cb18821b83556fb8de7c0c277bc"
+  },
+  {
+   "item_id": "ITEM-0455-3.6-003-APP",
+   "objective_ids": [
+    "OBJ-0455-3.6.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.6-002",
+    "CLM-0455-3.6-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "Katutura Uniforms makes school shirts. Two years of its records show: shirts sold 4 000 units then 6 000 units; machinists employed 25 workers then 22 workers; sewing machines in use 5 machines then 14 machines. Using the data, explain why the firm's demand for labour can fall even when the demand for its shirts rises.",
+   "canonical_answer": "The data show demand for the product rising: sales went from 4 000 to 6 000 shirts, a rise of 6 000 - 4 000 = 2 000 shirts. Derived demand alone would suggest more machinists, yet the number employed fell from 25 to 22 workers. The explanation is in the third row: machines in use rose from 5 to 14, so the firm met the extra orders with equipment rather than people - the cost of the labour factor relative to capital changed the choice. This means that a firm's demand for a factor moves not with product demand alone but with what it is cheapest to employ; therefore the demand for labour fell because capital took the extra work.",
+   "marking_guidance": [
+    "Context: the data - the 2 000 extra shirts, the fall from 25 to 22 workers, the rise from 5 to 14 machines - must be used.",
+    "Reasoning: the link between derived demand and the substitution of machines must be made, because that is why the two moved apart.",
+    "Conclusion: therefore the answer must state that factor demand depends on cost as well as on product demand."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.6-002": 1,
+    "CLM-0455-3.6-003": 1
+   },
+   "authored_hash": "e43cab0ee5d3f0c950def0b7fc84de3e46c82b61f16085be8a5b4f1694a00e27"
+  },
+  {
+   "item_id": "ITEM-0455-3.6-010-EVAL",
+   "objective_ids": [
+    "OBJ-0455-3.6.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.6-002",
+    "CLM-0455-3.6-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "EVAL",
+   "assessment_objectives": [
+    "AO3"
+   ],
+   "blooms_level": "Evaluate",
+   "blooms_level_basis": "subtype EVAL",
+   "command_word": "Discuss",
+   "mark_tariff": 8,
+   "difficulty": 5,
+   "prompt": "The demand for a firm's product has risen sharply. Discuss whether this rise is likely to lead to a rise in the firm's demand for workers.",
+   "canonical_answer": "Why it might: the demand for labour is derived from the demand for the product, so more orders tend to mean more work for someone to do. The argument for: a firm selling more usually needs more hands - picking, making, packing, delivering - and hiring spreads the work, so where the work cannot be done by the present staff, the demand for workers rises with sales. Why it might not: the extra output can come from other sources. Existing workers may work longer hours; productivity may rise after training, so fewer workers cover the same orders; and where wages are high relative to equipment, the firm may buy machines instead, as when a bottling plant adds a line run by a few machine-minders. Decisive condition: what settles it is how the firm chooses to meet the extra demand - whether the cheapest way to produce the added units is more labour, more effort from present staff or more capital - and how long the higher demand is expected to last, since a firm is hesitant to hire for a rise that may be temporary. Judgement: on balance, a sustained rise in product demand tends to raise a firm's demand for labour, but the size of the rise, and whether it happens at all, depends on the relative cost of workers against machines and on the room the firm has to raise productivity.",
+   "marking_guidance": [
+    "Judgement: the answer must reach a view and name what it depends on - the cost of labour against capital and how long the demand rise lasts.",
+    "Argument for: the derived-demand chain from more orders to more work must appear as why it might.",
+    "Argument against: why it might not - longer hours, higher productivity, machines taking the work - must be given equal weight.",
+    "Decisive: what settles the question - how the firm meets the extra output - must be named as the condition."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.6-002": 1,
+    "CLM-0455-3.6-003": 1
+   },
+   "authored_hash": "94430bdbb2c52e9ab6e41caded07b6aa05d9ff021104a243d192324a60b5c365"
+  },
+  {
+   "item_id": "ITEM-0455-3.6-011-FEATURE",
+   "objective_ids": [
+    "OBJ-0455-3.6.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.6-001",
+    "CLM-0455-3.6-002",
+    "CLM-0455-3.6-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype FEATURE",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 4,
+   "prompt": "Explain the features of the demand for factors of production.",
+   "canonical_answer": "The demand for factors of production includes four features. It is a demand by firms, not consumers: firms employ land, labour, capital and enterprise to produce output, and the willingness and ability to employ them at a given cost is what the demand consists of. It is derived: the demand for each factor comes from the demand for the goods and services it helps produce, so a juice firm hires fruit-handlers because schools buy juice. It moves with the product's market: when sales rise, factor demand tends to rise with them, and when sales fall it falls. It responds to the factor's cost: a higher wage tends to check hiring, and where equipment is cheaper per unit produced, the firm's demand shifts between factors.",
+   "marking_guidance": [
+    "Features: one mark per distinct feature named and explained - demanded by firms, derived from product demand, moving with the product's market, responsive to factor cost.",
+    "What it includes: the answer must present these as characteristics of factor demand, not as a list of the four factors themselves."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.6-001": 1,
+    "CLM-0455-3.6-002": 1,
+    "CLM-0455-3.6-004": 1
+   },
+   "authored_hash": "10555d820938efe2b795b61df48627b985744c6e830f65bdb235f2b76f51f81c"
+  },
+  {
+   "item_id": "ITEM-0455-3.6-004-DEF",
+   "objective_ids": [
+    "OBJ-0455-3.6.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.6-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Define capital-intensive production.",
+   "canonical_answer": "Capital-intensive production is production in which machinery and equipment carry out most of the work, so buying and running capital forms the greater share of the firm's costs.",
+   "marking_guidance": [
+    "Precise meaning: the definition must state that machinery carries out most of the work, with capital costs as the greater share of the firm's costs."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.6-005": 1
+   },
+   "authored_hash": "e0cb04dd78dc52d160fec8fde33967f0a5d315185578a78664a966782c949b87"
+  },
+  {
+   "item_id": "ITEM-0455-3.6-005-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-3.6.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.6-006",
+    "CLM-0455-3.6-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "Over two years, wages paid by garment firms in Katutura rose by a third while the cost of industrial sewing machines fell. Analyse the likely effects of these two changes on the production methods the garment firms choose, and on their workers.",
+   "canonical_answer": "Starting point: the initial changes are a sharp rise in the price of labour and a fall in the price of machinery. Mechanism: the two changes move the relative cost of the factors; this causes hand sewing to become dearer per garment, so firms have a reason to shift from labour-intensive towards capital-intensive production, taking on machines where the work can be mechanised. Consequence: some machinists are likely to lose their places as machines take the straight seams, though the firms that stay small - making one-off garments by hand - may keep their methods, since a machine suits long runs of identical work rather than varied orders. For whom: the workers who lose sewing work bear the cost; the firm gains lower cost per garment where it sells enough to justify the machine's price; consumers may gain cheaper garments; and workers who learn to run and maintain the machines gain a different, better-paid role. Whether the shift happens at each firm depends on its funds and its product.",
+   "marking_guidance": [
+    "Starting point: the initial changes - wages up, machine costs down - must both be named.",
+    "Mechanism: the chain through relative factor cost must be spelled out, because the cost comparison is what causes the shift of method.",
+    "Consequence: the results must land on named parties, therefore each effect is attributed to workers, firms or consumers.",
+    "For whom: credit effects for the worker, the firm, the consumer or the economy as each is named."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.6-006": 1,
+    "CLM-0455-3.6-007": 1
+   },
+   "authored_hash": "6b2804afd052e822a7daa2a452d86ca955dfa10308388567f1981353f920df06"
+  },
+  {
+   "item_id": "ITEM-0455-3.6-006-APP",
+   "objective_ids": [
+    "OBJ-0455-3.6.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.6-007",
+    "CLM-0455-3.6-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "Otjiwa Dairy near Gobabis pasteurises 500 litres of milk a day with 20 workers and hand pans, at a wage cost of N$4 000 a month per worker. A supplier offers a pasteurising machine that processes 500 litres a day with 4 workers, at a running and finance cost of N$12 000 a month. Using the figures, explain why the dairy is likely to consider switching to the machine, and what may hold it back.",
+   "canonical_answer": "The figures show the present method costing 20 workers at N$4 000 a month, which is 20 x N$4 000 = N$80 000 in wages. The machine route would cost 4 workers at N$4 000, which is N$16 000, plus N$12 000 for the machine, and N$16 000 + N$12 000 = N$28 000 a month. Because the same 500 litres could be processed for N$28 000 rather than N$80 000, the machine route is likely to cost the firm less per litre, which means that the dairy has a strong cost reason to consider the switch. What may hold it back: the figures cover monthly running and finance costs, and provided the dairy can raise the finance at all; if funds are short, the hand method may continue even at higher cost per litre, since N$80 000 of wages can be paid in small amounts as milk sells.",
+   "marking_guidance": [
+    "Context: the figures - 20 workers at N$4 000, the 4-worker machine at N$12 000 a month, the 500 litres - must be used.",
+    "Reasoning: the cost comparison must be worked and linked to the choice of method, because cost is what drives the switch.",
+    "Conclusion: therefore the answer names the monthly totals and the condition - whether the finance can be raised - that decides."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.6-007": 1,
+    "CLM-0455-3.6-006": 1
+   },
+   "authored_hash": "5c5d7f229a23aceef39086d003c1735f57667432995c9e4e8b3a625374346349"
+  },
+  {
+   "item_id": "ITEM-0455-3.6-012-FEATURE",
+   "objective_ids": [
+    "OBJ-0455-3.6.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.6-005",
+    "CLM-0455-3.6-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype FEATURE",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 4,
+   "prompt": "Explain the features of capital-intensive production.",
+   "canonical_answer": "Capital-intensive production has four features. Machinery carries out most of the work, with workers supervising, feeding and maintaining the equipment rather than making the product by hand. Capital costs form the greater share of the firm's costs: the price of machines and the cost of running them outweigh the wage bill. Output tends to be uniform, because a machine repeats the same operation, which suits long runs of a standard product such as bottled juice or milled flour. And the method needs fewer workers, whose skills differ - machine-minding and maintenance rather than hand craft - so the jobs it creates are concentrated on keeping equipment running.",
+   "marking_guidance": [
+    "Features: one mark per distinct feature named and explained - machines do most of the work, capital costs outweigh wages, uniform output, fewer workers with different skills.",
+    "Elements: the answer must present these as characteristics of the method, and not drift into arguing whether the method is better."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.6-005": 1,
+    "CLM-0455-3.6-006": 1
+   },
+   "authored_hash": "aff92646c8c7fa0544078caf7c1c77bd992ccc7071ef1bc6122973da3ffbaa94"
+  },
+  {
+   "item_id": "ITEM-0455-3.6-007-DEF",
+   "objective_ids": [
+    "OBJ-0455-3.6.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.6-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Define productivity.",
+   "canonical_answer": "Productivity is output per unit of a factor of production over a period of time; labour productivity is total output divided by the number of workers, measured for example in bottles per worker.",
+   "marking_guidance": [
+    "Precise meaning: the definition must state output per unit of a factor, and may name labour productivity as output per worker as the common measure."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.6-009": 1
+   },
+   "authored_hash": "5b12f9fcf3a90ae839020799494cae2f538247d30772d4da1ed030752f50e65b"
+  },
+  {
+   "item_id": "ITEM-0455-3.6-008-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-3.6.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.6-009",
+    "CLM-0455-3.6-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "After a training course at Kaoko Juice, the same 15 workers raised monthly output from 6 000 bottles to 7 500 bottles, with the wage bill unchanged. Analyse the likely effects of this rise in productivity on the firm, its workers and the consumers of its juice.",
+   "canonical_answer": "Starting point: the initial change is a rise in output per worker from 6 000 / 15 = 400 bottles per worker to 7 500 / 15 = 500 bottles per worker, wages unchanged. Mechanism: the same wage bill now covers more bottles; this causes cost per bottle to fall, because the monthly wage cost is spread over 7 500 bottles rather than 6 000. Consequence: the firm may cut its price to win school contracts, or hold the price and earn more on each bottle sold; the workers who trained have a case for sharing the gain through pay, since they produced the rise; and consumers gain a cheaper or better-supplied juice if the saving is passed on. For whom: the firm gains the margin or the market share, the workers gain both job security - a productive firm sells more and shrinks less - and a claim on the gain, and consumers gain through price or availability. Exception: if the firm keeps the whole saving and the market is flat, consumers may see no benefit at all, and if the training cost is recouped slowly the first-year gain is smaller.",
+   "marking_guidance": [
+    "Starting point: the initial change - productivity rising from 400 to 500 bottles per worker - must be calculated and named.",
+    "Mechanism: the chain from the unchanged wage bill over more bottles to lower cost per bottle must be spelled out, because that is what causes the effects.",
+    "Consequence: the results must land on named parties, therefore each effect is attributed to the firm, the workers or the consumers.",
+    "For whom: credit effects for the worker, the firm or the consumer as each is named."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.6-009": 1,
+    "CLM-0455-3.6-010": 1
+   },
+   "authored_hash": "0508ff09937635eaa009bb901977a90044c67a3b264b3de75f0dc0ea1d9d138e"
+  },
+  {
+   "item_id": "ITEM-0455-3.6-009-APP",
+   "objective_ids": [
+    "OBJ-0455-3.6.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.6-009",
+    "CLM-0455-3.6-008",
+    "CLM-0455-3.6-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "Two laundries serve Windhoek. Ehi Laundry washed 9 000 loads last year with 12 workers; Omuramba Laundry washed the same 9 000 loads with 18 workers. Using the figures, explain which laundry was more productive and what this suggests about the cost of washing a load at each.",
+   "canonical_answer": "The figures give output per worker: Ehi's productivity is 9 000 / 12 = 750 loads per worker, and Omuramba's is 9 000 / 18 = 500 loads per worker. The two laundries produced the same total, 9 000 loads, so they are equal in production; they differ in productivity, and Ehi was the more productive because each of its workers washed 750 loads against Omuramba's 500. Because wages are a cost of washing, spreading a wage bill over more loads per worker tends to give a lower cost per load: this means that Ehi's cost per load is likely to be lower, since it pays roughly 12 wage cheques where Omuramba pays 18 for the same output; therefore the more productive laundry is likely to be able to charge less per load or earn more on each one.",
+   "marking_guidance": [
+    "Context: the figures - 9 000 loads, 12 and 18 workers - must be used to compute the two productivities.",
+    "Reasoning: the link from output per worker to cost per load must be made, because the wage comparison is the mechanism.",
+    "Conclusion: therefore the answer names the more productive laundry and what that implies for its cost per load."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.6-009": 1,
+    "CLM-0455-3.6-008": 1,
+    "CLM-0455-3.6-011": 1
+   },
+   "authored_hash": "17fa7bc47552fb89ab2c4a29ff0c0bf00cffd8e9d6f66950b65c8b67f0e6a2c4"
+  },
+  {
+   "item_id": "ITEM-0455-3.6-P01",
+   "objective_ids": [
+    "OBJ-0455-3.6.1",
+    "OBJ-0455-3.6.2",
+    "OBJ-0455-3.6.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.6-001",
+    "CLM-0455-3.6-002",
+    "CLM-0455-3.6-003",
+    "CLM-0455-3.6-004",
+    "CLM-0455-3.6-005",
+    "CLM-0455-3.6-006",
+    "CLM-0455-3.6-007",
+    "CLM-0455-3.6-008",
+    "CLM-0455-3.6-009",
+    "CLM-0455-3.6-011"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "performance task type multiple_choice_set",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 3,
+   "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. The demand for a factor of production is best described as:\nA  the quantity of the factor that firms are willing and able to employ at a given cost\nB  the wish of consumers to buy finished goods\nC  the total output a firm produces in a period\nD  the price of the factor in the market\n\n2. The demand for labour is called a derived demand because:\nA  workers receive wages derived from profit\nB  it comes from the demand for the goods and services workers produce\nC  it is decided by the government\nD  it is derived from the number of machines a firm owns\n\n3. Consumers' demand for bottled juice rises. The juice firm's demand for factors of production is likely to:\nA  fall, because juice becomes scarce\nB  stay unchanged, since factors are fixed\nC  rise, because more inputs are needed to fill the orders\nD  become consumer demand\n\n4. Which firm is labour-intensive?\nA  a power station run by a large automated plant\nB  a workshop where twelve workers pack nuts by hand\nC  an oil refinery with two shifts of machine supervisors\nD  a bottling plant with a single automated line\n\n5. A firm replaces hand sorting with a sorting machine. The most likely reason is:\nA  the machine costs less per unit sorted than workers do\nB  the firm wants to employ more workers\nC  hand sorting produces more per worker\nD  the law requires machinery\n\n6. Productivity is best defined as:\nA  the total quantity a firm produces\nB  the sales revenue of a firm\nC  the number of workers a firm employs\nD  output per unit of a factor of production\n\n7. Two firms each produce 6 000 shirts a month. Firm X uses 150 workers; firm Y uses 300. It follows that:\nA  the firms have equal productivity\nB  X is the more productive firm\nC  Y is the more productive firm\nD  productivity cannot be compared without prices\n\n8. A firm's production rises while its productivity falls. This is possible because:\nA  production and productivity are the same thing\nB  the firm took on extra workers who added less output per worker\nC  output per worker moves with output, since the two rise together\nD  production cannot rise twice",
+   "canonical_answer": "Key: 1 A, 2 B, 3 C, 4 B, 5 A, 6 D, 7 B, 8 B.\n1. A states the definition - willingness and ability to employ at a given cost (A); B is the demand for goods, the wrong angle of the confusion the register records, C confuses factor demand with production, D confuses demand with price.\n2. Factor demand is derived from the product's market (B); A confuses the source of wages with the source of demand, C assigns the decision to government, D inverts the relationship between machines and labour demand.\n3. More orders tend to raise factor demand (C); A reverses the direction, B treats factors as fixed in supply rather than demanded, D confuses the two demands the register warns about - who is buying and for what.\n4. Workers carrying out most of the work defines the labour-intensive firm (B); A, C and D name capital-intensive settings where machines do most of the work.\n5. Firms switch factors on relative cost (A); B contradicts the effect on employment, C contradicts the reason - hand sorting was lower in output per worker, D invents a rule.\n6. Output per unit of a factor is the definition (D); A is the definition of production, the total the register records being confused with productivity, B is revenue not output, C is the denominator not the measure.\n7. Equal totals, unequal workers, so X produces more per worker (B); A treats equal production as equal productivity, which is the exact confusion the register records, C inverts the division, D adds a condition the units of output already settle.\n8. Production is a total and productivity a rate, so the total can rise while the rate falls when added workers contribute less per worker (B); A denies the distinction the question turns on, C is an unqualified universal the arithmetic disproves, D is a bare denial.",
+   "marking_guidance": [
+    "Key: one mark per question, eight in total; the correct option for each is listed and each distractor is explained as the specific misunderstanding it catches.",
+    "Every distractor traces to a named error: factor demand confused with the demand for goods or with production, labour-intensive confused with capital-intensive, productivity confused with production, and the derived-demand chain broken at a link."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.6-001": 1,
+    "CLM-0455-3.6-002": 1,
+    "CLM-0455-3.6-003": 1,
+    "CLM-0455-3.6-004": 1,
+    "CLM-0455-3.6-005": 1,
+    "CLM-0455-3.6-006": 1,
+    "CLM-0455-3.6-007": 1,
+    "CLM-0455-3.6-008": 1,
+    "CLM-0455-3.6-009": 1,
+    "CLM-0455-3.6-011": 1
+   },
+   "authored_hash": "83e4e4bc81ba3b51c455ba08783f86b3b3672cede83fe9318ddf42cd688871d5"
+  },
+  {
+   "item_id": "ITEM-0455-3.6-P02",
+   "objective_ids": [
+    "OBJ-0455-3.6.1",
+    "OBJ-0455-3.6.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.6-001",
+    "CLM-0455-3.6-002",
+    "CLM-0455-3.6-008",
+    "CLM-0455-3.6-009",
+    "CLM-0455-3.6-011"
+   ],
+   "item_type": "data_response",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type data_response",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "A newspaper report from Windhoek, 2026: \"Namib Signs, which paints and mounts shopfront signage, opened a second workshop this year after a boom in new retail openings. Its owner said: 'We took on four new painters, and the routing machine we bought does the lettering in half the time a brush ever did.' The firm's records are below.\"\n\nTable 1 - Namib Signs, two years compared\n  signs made and mounted: 2 400 signs last year, 3 600 signs this year\n  workers employed: 16 workers last year, 20 workers this year\n  routing machines in use: 2 machines last year, 5 machines this year\n\n(a) Calculate the rise in the number of signs made between the two years. [1]\n(b) Identify from Table 1 the number of workers and the number of routing machines, both for this year. [2]\n(c) Explain why the boom in retail openings is likely to raise the demand for factors of production at firms such as Namib Signs. [4]\n(d) Analyse, using the data, whether productivity at Namib Signs rose between the two years. [6]",
+   "canonical_answer": "(a) The rise is 3 600 - 2 400 = 1 200 signs.\n(b) This year the firm employed 20 workers and used 5 routing machines.\n(c) The demand for factors of production is derived from the demand for the product: each new shop that opens wants signage, so retailers' demand for signs rises first. Because Namib Signs expects more orders, it needs more painting labour to fill them, and the four new painters show the firm's demand for labour responding; the extra routing machines show the same response for capital, since lettering work that machines do well grows with the orders. The firm is willing and able to employ these factors because the higher sales bring in the revenue to pay for them. Therefore a boom in the market for a finished good tends to raise the derived demand for the factors that produce it.\n(d) Expected relationship: productivity is output per worker, so it rises when output grows faster than the number employed. Evidence from the data: signs rose from 2 400 to 3 600, a rise of half as much again, while workers rose from 16 to 20, a rise of a quarter. Productivity last year was 2 400 / 16 = 150 signs per worker; this year it is 3 600 / 20 = 180 signs per worker, a rise of 180 - 150 = 30 signs per worker, so the data show productivity rising. Analysis: output growing faster than employment is what raises output per worker, and the routing machines the owner mentions are part of the mechanism - equipment doing lettering in half the time spreads the same staffing over more signs, which lowers cost per sign and may let the firm price more keenly. Exception: the rise is not proof the workforce works harder - the machines may account for the whole gain - and a year of unusually strong retail openings may not be matched next year, in which case 20 workers may stand against fewer orders; productivity measured per worker can also mask how busy each machine is.",
+   "marking_guidance": [
+    "Context: parts (a) and (b) are read straight from the data; parts (c) and (d) must use the figures - the signs, the workers, the machines.",
+    "Reasoning: one mark per distinct linked statement in (c); naming a factor without the derived-demand link earns little.",
+    "Conclusion: part (d) runs expected relationship, supporting evidence from the data, analysis, and an exception; quoting figures alone is not analysis - each figure must carry the relationship it supports."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": [
+     "signs 2 400 then 3 600",
+     "workers 16 then 20",
+     "routing machines 2 then 5",
+     "four new painters taken on"
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.6-001": 1,
+    "CLM-0455-3.6-002": 1,
+    "CLM-0455-3.6-008": 1,
+    "CLM-0455-3.6-009": 1,
+    "CLM-0455-3.6-011": 1
+   },
+   "authored_hash": "cb1c157ac8779a7ebe4505df5b835bd3fc694966769c79305d6b735d449421aa"
+  },
+  {
+   "item_id": "ITEM-0455-3.6-P03",
+   "objective_ids": [
+    "OBJ-0455-3.6.2",
+    "OBJ-0455-3.6.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.6-005",
+    "CLM-0455-3.6-007",
+    "CLM-0455-3.6-008",
+    "CLM-0455-3.6-009",
+    "CLM-0455-3.6-010",
+    "CLM-0455-3.6-011"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type short_answer",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "A furniture workshop in Katutura makes hand-built chairs.\n(a) Define productivity. [2]\n(b) The workshop made 200 chairs last month with 10 workers. This month the same 10 workers made 260 chairs. Explain what happened to labour productivity, and to the cost of a chair. [4]\n(c) Analyse the likely effects on a firm and its workers of a rise in labour productivity. [6]\n(d) Discuss whether a firm that raises its production is therefore raising its productivity. [8]",
+   "canonical_answer": "(a) Productivity is output per unit of a factor of production over a period of time; labour productivity is total output divided by the number of workers, measured here in chairs per worker.\n(b) Last month's productivity was 200 / 10 = 20 chairs per worker; this month it is 260 / 10 = 26 chairs per worker, a rise of 26 - 20 = 6 chairs per worker. Production rose from 200 to 260 chairs with the same workforce, so each worker produced more. Because the wage bill covers 10 workers in both months, the same wage cost is spread over 260 chairs instead of 200, which means that the wage cost per chair tends to fall; therefore productivity rose and, with it, the workshop's cost per chair is likely to have fallen.\n(c) Starting point: the initial change is more output from each worker. Mechanism: the wage bill is spread over more units; this causes cost per unit to fall, so the firm earns more on each unit sold or can cut its price. Consequence: with a lower cost per chair the workshop can quote prices that win orders from bigger rivals, so its revenue and the case for keeping and hiring workers strengthen; the workers who produced the gain have a claim on it through pay, and their jobs are safer at a firm that sells more per wage cheques paid. For whom: the firm gains margin or market share, the workers gain security and a possible share of the gain, consumers gain lower prices or better supply where the saving is passed on. Exception: if the market for the product is not there, higher productivity may lead the firm to produce the same with fewer workers, in which case the gain and the job losses land on different people.\n(d) Why it might: production is the total produced and productivity is output per factor, and they can rise together - more orders, more workers, and each worker producing as much as before gives a bigger total at an unchanged rate. Why it might not: the two can move apart. A workshop can raise production by taking on extra workers whose added output per worker is below what its earlier workers achieved, so the total rises while output per worker falls; equally, a firm can keep production the same with fewer workers and so raise productivity without producing one more unit. Decisive condition: what settles the question is whether the workforce, machines or hours grew by less than output did - productivity rises where output grows faster than the factors used. Judgement: on balance, rising production is not on its own evidence of rising productivity; the two are linked where a firm grows output from its present factors, but where growth comes mainly from adding factors, productivity may rise a little, stay flat or fall, and the data on workers and output are what would settle it.",
+   "marking_guidance": [
+    "Parts (a) to (d) carry a model answer each; (d) is level-marked over three bands, with the top band examining why it might and why it might not and reaching a judgement.",
+    "Context: (b) must use the figures - 200 and 260 chairs, 10 workers; (c) must attribute each effect to the party it lands on - the firm, the workers, the consumers.",
+    "Reasoning: (c) one mark per distinct linked statement; an effect named without its consequence earns little.",
+    "Conclusion: (d) the judgement must name the condition it depends on - whether output grows faster than the factors employed."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": [
+     "200 chairs then 260 chairs",
+     "10 workers in both months"
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.6-005": 1,
+    "CLM-0455-3.6-007": 1,
+    "CLM-0455-3.6-008": 1,
+    "CLM-0455-3.6-009": 1,
+    "CLM-0455-3.6-010": 1,
+    "CLM-0455-3.6-011": 1
+   },
+   "authored_hash": "ea703be916b7fdb625457a87d1b7c535bf63f63b98a358903365caa48fe77acd"
+  },
+  {
+   "item_id": "ITEM-0455-3.6-P04",
+   "objective_ids": [
+    "OBJ-0455-3.6.2",
+    "OBJ-0455-3.6.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.6-005",
+    "CLM-0455-3.6-006",
+    "CLM-0455-3.6-007",
+    "CLM-0455-3.6-009",
+    "CLM-0455-3.6-010"
+   ],
+   "item_type": "essay_plan",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Evaluate",
+   "blooms_level_basis": "performance task type essay_plan",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "Plan an answer to: \"The best production method for a firm is the most capital-intensive one it can afford.\" Discuss. Do not write the essay; produce the plan.",
+   "canonical_answer": "Case for (go capital-intensive): machines tend to lower cost per unit where output is high and the product is standard.\nChain 1: a firm buys a machine -> the machine carries out most of the work with few staff -> wage cost is spread over more units -> cost per unit falls -> the firm can price more keenly or earn more per unit (for the firm, the consumer, the worker kept on).\nSecond point for: uniform output suits long runs of identical units, so a growing firm selling a standard product finds capital methods fit its market.\nCase against: capital costs must be paid before the first unit sells.\nChain 2: the firm borrows or pays cash for equipment -> demand falls or the contract ends -> the machine stands idle while wages would have flexed with orders -> fixed costs eat the margin and workers are not taken back (for the firm, the workers not hired).\nSecond point against: where output is small or varied - one-off craft work - hand methods cost less per unit than a machine used part-time, and labour-intensive work can grow or shrink with the order book.\nJudgement: which method is best depends on the condition of the firm's market and funds - the volume and variety of what it sells, and the finance it can raise. Where orders are large, long and standard, the capital-intensive method is likely to win; where orders are small, varied or uncertain, the labour-intensive method is likely to cost less per unit. The condition the judgement depends on is whether output is high and steady enough to spread the machine's cost - and the decisive evidence would be cost per unit under each method at the firm's actual volume.",
+   "marking_guidance": [
+    "A plan, not an essay: the case for, the case against, the chains and the judgement are what is assessed.",
+    "Criterion: the decisive factor is cost per unit at the firm's actual volume - not the method's label.",
+    "Counterargument: the case for must appear as chains with consequences, not just the case against.",
+    "Condition: the plan must end on what would change the judgement - whether output is high and steady enough to spread the capital cost."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.6-005": 1,
+    "CLM-0455-3.6-006": 1,
+    "CLM-0455-3.6-007": 1,
+    "CLM-0455-3.6-009": 1,
+    "CLM-0455-3.6-010": 1
+   },
+   "authored_hash": "42ff2d17112ae1e380a35559067ebc50628dc4521c92d5db4c17faf0e8ded407"
+  }
+ ]
+}

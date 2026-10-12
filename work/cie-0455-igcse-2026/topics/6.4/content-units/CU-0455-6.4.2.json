@@ -1,0 +1,127 @@
+{
+ "unit_id": "CU-0455-6.4.2",
+ "title": "Why deficits and surpluses arise",
+ "objective_ids": [
+  "OBJ-0455-6.4.2"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 282,
+  "target": 344,
+  "max": 405
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "6.4.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Explain reasons for a deficit or surplus, and distinguish the external balance from the government budget.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "7fc97cdfbc0df1205fc28f5678c74d43ddfe30572e8f658cb082c1855dd0b47e"
+  },
+  {
+   "block_id": "6.4.2-b2",
+   "block_type": "definition",
+   "heading": "The gap between receipts and payments",
+   "text": "A current account deficit means current-account payments exceed receipts during the period. A surplus means receipts exceed payments. An imbalance can result from changes in any of the four components, so a goods-trade explanation may be incomplete. Income paid to overseas investors or a change in remittances can alter the balance even when goods exports and imports stay unchanged.",
+   "claim_ids": [
+    "CLM-0455-6.4-005",
+    "CLM-0455-6.4-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.4-005": 1,
+    "CLM-0455-6.4-007": 1
+   },
+   "authored_hash": "3d03fe0906513503172c2bf7a80e8851cee33b105f209e423e7b50c998cd038e"
+  },
+  {
+   "block_id": "6.4.2-b3",
+   "block_type": "analysis_chain",
+   "heading": "Spending and competitiveness",
+   "text": "When domestic incomes rise, households and firms may spend more on imports. If imports rise while other flows stay unchanged, payments increase and the current account worsens. Higher demand abroad may instead increase export receipts. Better quality, reliable delivery and lower production costs can make exports more attractive to overseas buyers, but the effect depends on buyers responding and producers filling orders. Relatively high domestic inflation can weaken price competitiveness where it raises export prices compared with rivals. A rise in the world price of an essential imported input can increase payments where quantity demanded does not fall enough to offset the higher price.",
+   "claim_ids": [
+    "CLM-0455-6.4-006",
+    "CLM-0455-6.4-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.4-006": 1,
+    "CLM-0455-6.4-007": 1
+   },
+   "authored_hash": "7057ccf5a04a1c24d5b7e65b23ef70f779d3b76ce01300691c5f47478f39a051"
+  },
+  {
+   "block_id": "6.4.2-b4",
+   "block_type": "worked_application",
+   "heading": "Two possible sources of a change",
+   "text": "In an invented example, a Namibian economy starts with a balanced current account. Orders for dried fruit from Botswana and Portugal fall by N$12 million in a year, while its other receipts and payments stay unchanged. Export receipts fall, so it develops a N$12 million deficit. In a different year, imports of drought-related food rise by N$8 million while other flows stay unchanged; higher payments cause an N$8 million deficit. The first change comes from weaker overseas demand and the second from greater import needs. Naming the cause matters because stronger marketing cannot directly remove a domestic food shortage.",
+   "claim_ids": [
+    "CLM-0455-6.4-006",
+    "CLM-0455-6.4-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.4-006": 1,
+    "CLM-0455-6.4-007": 1
+   },
+   "authored_hash": "77234f359337b2737c393e68fec5ca902fbd761a90f14cff27507ec19f77d647"
+  },
+  {
+   "block_id": "6.4.2-b5",
+   "block_type": "misconception",
+   "heading": "The budget is a different balance",
+   "text": "The confusion is between the government budget and international transactions. A budget deficit compares government spending with government revenue; a current account deficit compares external current payments with receipts, and a surplus reverses that comparison. The test is to identify the flows. A government budget deficit and a current account surplus can coexist; one does not determine the other.",
+   "claim_ids": [
+    "CLM-0455-6.4-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.4-008": 1
+   },
+   "authored_hash": "b7bdcb31da22a4b21e351d6d410c61b206e000aca776e5676d134d8289294d22"
+  },
+  {
+   "block_id": "6.4.2-b6",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Topic 4.8 explains inflation, topic 6.2 explains competitiveness and trade, and topic 4.3 owns the government budget.",
+   "claim_ids": [
+    "CLM-0455-6.4-006",
+    "CLM-0455-6.4-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.4-006": 1,
+    "CLM-0455-6.4-008": 1
+   },
+   "authored_hash": "e85db49a18d0406d25e3ab2403f7adfa6760e3ef2a043c64e9b3c9792cd75bcc"
+  }
+ ],
+ "word_count": 354
+}

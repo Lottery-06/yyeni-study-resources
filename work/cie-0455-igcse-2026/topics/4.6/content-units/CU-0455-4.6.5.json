@@ -1,0 +1,108 @@
+{
+ "unit_id": "CU-0455-4.6.5",
+ "title": "The consequences of economic growth",
+ "objective_ids": [
+  "OBJ-0455-4.6.5"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 273,
+  "target": 333,
+  "max": 393
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "4.6.5-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Weigh what economic growth brings - its benefits and its costs - and see why the balance differs from one economy to another.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "80359ab5996064b5b9f4fb2ec7dc272c1b62dc3190c2dde92668edfac8ccbf57"
+  },
+  {
+   "block_id": "4.6.5-b2",
+   "block_type": "benefit",
+   "heading": "What growth tends to bring",
+   "text": "Where its gains are shared out, growth tends to raise household incomes, create jobs and lift the government's tax revenue, easing the financing of schools, clinics and roads. Average living standards tend to improve as output per person rises, provided the gains are distributed across households rather than held by a few. An economy with idle workers gains quickly from growth that employs them, since output rises without capacity having to be built first.",
+   "claim_ids": [
+    "CLM-0455-4.6-016"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.6-016": 1
+   },
+   "authored_hash": "4db83c7a5b16ae0fc021f1bdd22ec760eb5244e9215d1cdf78dc83a106a74bec"
+  },
+  {
+   "block_id": "4.6.5-b3",
+   "block_type": "limitation",
+   "heading": "The costs growth may carry",
+   "text": "Growth may carry costs. Where demand presses on capacity, prices rise rather than output. Expansion may impose costs on others: smoke, congestion and depleted resources are side effects that the people who enjoy the output do not pay for. Devoting resources to capital goods has an opportunity cost - consumer goods given up now so output can rise later - and where the gains from growth flow to a narrow group, inequality may widen even as output climbs.",
+   "claim_ids": [
+    "CLM-0455-4.6-017"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.6-017": 1
+   },
+   "authored_hash": "10e13a383deb8fd312df9ce66237e9de8c6fd0d884ac6726d371f42a25a59076"
+  },
+  {
+   "block_id": "4.6.5-b4",
+   "block_type": "evaluation",
+   "heading": "Different economies, different balances",
+   "text": "The balance of costs and benefits is not the same everywhere. A lower-income economy with idle resources may weigh the income gains of growth heavily and accept costs it cannot yet afford to prevent; a higher-income economy producing near capacity may find that extra demand brings mostly price rises, and may weigh the environmental costs more heavily. Brazil's fast-growing cities have shown both faces at once - incomes rising while congestion and air quality worsen - which is why the consequences of growth are weighed in the context of the economy that grows.",
+   "claim_ids": [
+    "CLM-0455-4.6-018",
+    "CLM-0455-4.6-016",
+    "CLM-0455-4.6-017"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.6-018": 1,
+    "CLM-0455-4.6-016": 1,
+    "CLM-0455-4.6-017": 1
+   },
+   "authored_hash": "2a508ae921dbd148c0a835823264a884c7fc61708089d20754bddb4e884d5ffa"
+  },
+  {
+   "block_id": "4.6.5-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The price pressure that growth can bring is the inflation of topic 4.8, and the shift from output to how life changes for people is the development of topic 5.1.",
+   "claim_ids": [
+    "CLM-0455-4.6-016"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.6-016": 1
+   },
+   "authored_hash": "698e2e0c73a4d901f02b7f6ae4bd9d450a653af580f0130ad78f8c391bf1f507"
+  }
+ ],
+ "word_count": 317
+}

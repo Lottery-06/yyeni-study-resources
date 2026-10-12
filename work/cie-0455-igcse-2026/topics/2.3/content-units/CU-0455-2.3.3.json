@@ -1,0 +1,105 @@
+{
+ "unit_id": "CU-0455-2.3.3",
+ "title": "From one buyer to the whole market",
+ "objective_ids": [
+  "OBJ-0455-2.3.3"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_concept",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 257,
+  "target": 313,
+  "max": 370
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.3.3-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Distinguish individual demand from market demand and build market demand by adding the quantities demanded by every consumer at each price.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "cead00cc14101eadbd6c921a42f112c74df5bc220cbbed8f7815b8d1e0db3a71"
+  },
+  {
+   "block_id": "2.3.3-b2",
+   "block_type": "definition",
+   "heading": "One buyer and all buyers",
+   "text": "Individual demand is the quantity of a good that one consumer is willing and able to buy at each price. Market demand is the quantity that all the consumers in the market together are willing and able to buy at each price. A single household in Oshakati may demand 4 litres of milk a week at N$10 a litre; the market for milk in Oshakati is the sum of every such household at that price.",
+   "claim_ids": [
+    "CLM-0455-2.3-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.3-008": 1
+   },
+   "authored_hash": "1c24a081a882eb2674553db97580d6932118ef8a9726d3fed9e39101710fc8a4"
+  },
+  {
+   "block_id": "2.3.3-b3",
+   "block_type": "worked_application",
+   "heading": "Adding the buyers at each price",
+   "text": "Work price by price. At N$10 a litre, household A demands 4 litres a week, household B demands 6 litres, and the rest of Oshakati's households together demand 90 litres. Market demand at N$10 is therefore 100 litres a week. Repeat at every other price and the market demand schedule is complete. In the Netherlands the same rule builds the demand for bicycles in Amsterdam from the demand of each commuter: one city, thousands of individual schedules, added at each price.",
+   "claim_ids": [
+    "CLM-0455-2.3-008",
+    "CLM-0455-2.3-009",
+    "CLM-0455-2.3-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.3-008": 1,
+    "CLM-0455-2.3-009": 1,
+    "CLM-0455-2.3-010": 1
+   },
+   "authored_hash": "e0bd1b00ed5e3c91eec0c334811cb0324f8b84e46af61ed83ebf8b77ec2236e7"
+  },
+  {
+   "block_id": "2.3.3-b4",
+   "block_type": "plain_explanation",
+   "heading": "Why the market curve is the one that matters",
+   "text": "Because market demand pools every buyer, it is usually larger and steadier than any individual demand: one household may stop buying altogether when its income falls, yet the market total may hold up when other households keep buying. This is why a firm planning production looks at market demand, not at any single customer.",
+   "claim_ids": [
+    "CLM-0455-2.3-008",
+    "CLM-0455-2.3-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.3-008": 1,
+    "CLM-0455-2.3-009": 1
+   },
+   "authored_hash": "4b3ffa2d7cceaa0711e356a946b1884a0efc956994ff2e24ff7ab4b11e83d20b"
+  },
+  {
+   "block_id": "2.3.3-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Market demand meets market supply in topic 2.5, where the two together set the market price; how strongly quantity responds to a price change is measured in topic 2.6.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "f661c2195032b118dc12734b1714f1befc18c4903c401763d0b52aead63d00e6"
+  }
+ ],
+ "word_count": 285
+}

@@ -1,0 +1,970 @@
+{
+ "dataset_id": "ITEMS-0455-IGCSE-6.3",
+ "topic_id": "6.3",
+ "items": [
+  {
+   "item_id": "ITEM-0455-6.3-001-DEF",
+   "objective_ids": [
+    "OBJ-0455-6.3.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.3-001",
+    "CLM-0455-6.3-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "A bank screen in Windhoek quotes N$18.50 per US$1. Define the foreign exchange rate.",
+   "canonical_answer": "The foreign exchange rate is the price of one currency expressed in terms of another: the number of units of one currency needed to buy one unit of the other. Applied to the quotation: the screen states the price of one US dollar in Namibian dollars, N$18.50, so the two currencies named are the US dollar and the Namibian dollar, and the price belongs to a moment, because the market behind it moves.",
+   "marking_guidance": [
+    "Precise definition: the meaning must name a price of one currency in terms of another, as the N$18.50 per US$1 quotation shows.",
+    "A number of Namibian dollars on its own is not a definition: the two currencies and the price relation between them carry the definition."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.3-001": 1,
+    "CLM-0455-6.3-002": 1
+   },
+   "authored_hash": "a8b970839201389010fbf2286bf1e30894bcca666e2343c6b0a2d5f9826fde1d"
+  },
+  {
+   "item_id": "ITEM-0455-6.3-002-FEATURE",
+   "objective_ids": [
+    "OBJ-0455-6.3.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.3-001",
+    "CLM-0455-6.3-002",
+    "CLM-0455-6.3-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype FEATURE",
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "Identify two features that a foreign exchange rate quotation carries.",
+   "canonical_answer": "One feature is that the quotation names two currencies: the one being priced and the one it is priced in, such as the US dollar and the Namibian dollar. A second feature is that it states a number of units: how many units of one currency one unit of the other costs, such as N$18.50 per US$1. A further acceptable feature is the moment the quotation belongs to, because the rate moves as the market behind it moves.",
+   "marking_guidance": [
+    "Features: the answer must name what a quotation includes - two named currencies, a number of units of one per unit of the other, and the moment it is quoted for.",
+    "Elements must be features of a rate quotation, not properties or uses of money, which belong to the topic on money."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.3-001": 1,
+    "CLM-0455-6.3-002": 1,
+    "CLM-0455-6.3-003": 1
+   },
+   "authored_hash": "a5621d893ccb059483b2eb9a77ea326fb5fbcdef59dd5d741a3af281cc2a5046"
+  },
+  {
+   "item_id": "ITEM-0455-6.3-003-DEF",
+   "objective_ids": [
+    "OBJ-0455-6.3.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.3-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "In the Windhoek market for US dollars, the quantity of dollars demanded matches the quantity offered at N$15 per US$1. Define the equilibrium foreign exchange rate.",
+   "canonical_answer": "The equilibrium foreign exchange rate is the rate at which the quantity of a currency demanded in the foreign exchange market equals the quantity of that currency supplied. At that rate, every unit of the currency offered finds a buyer and there is no pressure on the price to move, which is why the market in the prompt settles at N$15 per US$1.",
+   "marking_guidance": [
+    "Precise definition: the meaning must tie the rate to equal quantities demanded and supplied, not to any particular level such as N$15 per US$1."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.3-005": 1
+   },
+   "authored_hash": "b607a5fb812e68ee87f1433414a5ec820a2ec3e639a795e21d4ee072e8364395"
+  },
+  {
+   "item_id": "ITEM-0455-6.3-004-MECH",
+   "objective_ids": [
+    "OBJ-0455-6.3.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.3-005",
+    "CLM-0455-6.3-006",
+    "CLM-0455-6.3-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "subtype MECH",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 3,
+   "prompt": "Kaoko Juice of Opuwo has begun selling bottled juice to buyers in the Netherlands, who must pay in Namibian dollars. Analyse how this new export trade moves the foreign exchange market for the Namibian dollar.",
+   "canonical_answer": "The mechanism runs from the buyer to the currency market. Because the Dutch buyers must pay Kaoko Juice in Namibian dollars, they have to buy Namibian dollars, selling euros, and this adds to the demand for the Namibian dollar in the foreign exchange market. Because demand has risen while supply is little changed, the price of the Namibian dollar in euros tends to rise, so the currency tends to appreciate. Therefore the consequence for the trade is upward pressure on the rate: each Netherlands buyer now finds a Namibian dollar slightly dearer in euros, so a growing export sector tends to strengthen the home currency it is paid in.",
+   "marking_guidance": [
+    "Mechanism: the answer must show how the payment need of the Dutch buyers creates demand for the Namibian dollar, because a currency is demanded as the means of paying for the country's exports.",
+    "Consequence: the answer must close on what the extra demand does to the rate, so that the appreciation is stated as the result."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.3-005": 1,
+    "CLM-0455-6.3-006": 1,
+    "CLM-0455-6.3-008": 1
+   },
+   "authored_hash": "22de46a83d76ef4143cb288edd349b44b6ac595cfbf5abbdb33e87ab6792d029"
+  },
+  {
+   "item_id": "ITEM-0455-6.3-005-APP",
+   "objective_ids": [
+    "OBJ-0455-6.3.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.3-005",
+    "CLM-0455-6.3-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "This week in the Windhoek market for US dollars: at N$16 per US$1, importers want 4 million US dollars and sellers offer 6 million; at N$14 per US$1, importers want 7 million and sellers offer 3 million; at N$15 per US$1, both sides want 5 million. Using the figures, explain how the equilibrium foreign exchange rate is determined.",
+   "canonical_answer": "The figures show two out-of-balance prices and one balanced one. At N$16 per US$1, 6 million US dollars are offered while 4 million are wanted, so sellers who cannot all find buyers tend to accept a lower price and the price of the dollar tends to fall. At N$14 per US$1, importers want 7 million US dollars while sellers offer 3 million, so buyers tend to bid the price up. At N$15 per US$1 the quantity demanded equals the quantity supplied at 5 million US dollars, so no pressure remains in either direction. Therefore the equilibrium rate is N$15 per US$1: the one price at which the market clears.",
+   "marking_guidance": [
+    "Context: the figures must be used - the quantities offered and wanted at N$16, N$14 and N$15 per US$1.",
+    "Reasoning: the link from excess supply or excess demand to the direction of price pressure must be stated, because a quoted quantity on its own explains nothing.",
+    "Conclusion: therefore the answer must settle on the equilibrium rate and say why that price clears the market."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.3-005": 1,
+    "CLM-0455-6.3-008": 1
+   },
+   "authored_hash": "ba5b3a32415cc5ecc45ee1130675cd5d806b6d3952fdd5f413b78544892e470a"
+  },
+  {
+   "item_id": "ITEM-0455-6.3-006-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-6.3.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.3-006",
+    "CLM-0455-6.3-007",
+    "CLM-0455-6.3-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "After a travel fair in Munich, German holiday bookings at Etosha Gate Lodge rise sharply for the coming season. Analyse the likely chain of effects on the Namibian dollar's foreign exchange rate and on those the change touches.",
+   "canonical_answer": "Starting point: German tourists book Namibian holidays in larger numbers. Mechanism: because the tourists must pay the lodge in Namibian dollars, their bookings add to the demand for the Namibian dollar, and this causes the currency's price in euros to tend upward - an appreciation. Consequence: therefore each euro tends to buy fewer Namibian dollars, so the lodge is likely to see each euro booking convert into slightly fewer Namibian dollars, while Namibian importers gain, because each Namibian dollar buys more foreign currency. For whom: the lodge gains fuller bookings but slightly less Namibian revenue per euro; other Namibian exporters find their goods a little dearer abroad; travellers from Germany face a slightly dearer holiday; importers and consumers of imported goods in the economy gain a margin on foreign prices.",
+   "marking_guidance": [
+    "Starting point: the initial change - the rise in German bookings - must be stated.",
+    "Mechanism: because the tourists must obtain Namibian dollars to pay, this causes added demand for the currency and upward pressure on the rate.",
+    "Consequence: therefore the effects must be traced through to the lodge, other exporters, the travellers and importers.",
+    "For whom: the answer must name who gains and who loses - the lodge, other exporters, travellers, importers, consumers, the wider economy."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.3-006": 1,
+    "CLM-0455-6.3-007": 1,
+    "CLM-0455-6.3-008": 1
+   },
+   "authored_hash": "17fc8e9b29183de4ccfb7fed4e295bb40a22366cac84af5f90eaa1bf5a3d18d7"
+  },
+  {
+   "item_id": "ITEM-0455-6.3-016-EVAL",
+   "objective_ids": [
+    "OBJ-0455-6.3.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.3-005",
+    "CLM-0455-6.3-006",
+    "CLM-0455-6.3-008",
+    "CLM-0455-6.3-017",
+    "CLM-0455-6.3-018",
+    "CLM-0455-6.3-019",
+    "CLM-0455-6.3-020"
+   ],
+   "item_type": "flashcard",
+   "subtype": "EVAL",
+   "assessment_objectives": [
+    "AO3"
+   ],
+   "blooms_level": "Evaluate",
+   "blooms_level_basis": "subtype EVAL",
+   "command_word": "Discuss",
+   "mark_tariff": 8,
+   "difficulty": 5,
+   "prompt": "Discuss whether a government should leave its currency's foreign exchange rate to be determined by demand and supply in the foreign exchange market.",
+   "canonical_answer": "Why it might: leaving the rate to the market means it adjusts by itself to shifts in trade and investment - when export demand falls, the currency tends to ease and lends exporters a hand, without the government spending reserves it may not have. The market rate also reflects real conditions, because it gathers the demands of many buyers and sellers, so the economy's prices stay aligned with what its currency is worth abroad. Why it might not: a market rate can swing sharply on speculation and short-term fund movements, and a firm pricing next quarter's imports or a household remitting money then faces uncertainty a held rate would have prevented; a held rate gives traders the certainty to sign cross-border contracts. What settles it: it depends on the economy's trade exposure and the authority's reserves - an economy that trades heavily and holds large reserves may gain from holding its rate steady, while an economy with thin reserves may have little choice but to float. Judgement: on balance, leaving the rate to the market tends to serve most economies, because a held rate that runs out of reserves fails suddenly and the cost of that failure is larger than the cost of living with movement; the condition is that the foreign exchange market is deep enough for the rate to adjust in steps rather than lurches.",
+   "marking_guidance": [
+    "Judgement: the answer must reach a judgement and name the condition it depends on.",
+    "Why it might: the argument for market determination must be developed - self-adjustment and prices that reflect conditions.",
+    "Why it might not: the argument against must be developed - volatility and uncertainty for traders and households.",
+    "Decisive: what settles it - trade exposure, the size of reserves, and the depth of the market - must be named."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.3-005": 1,
+    "CLM-0455-6.3-006": 1,
+    "CLM-0455-6.3-008": 1,
+    "CLM-0455-6.3-017": 1,
+    "CLM-0455-6.3-018": 1,
+    "CLM-0455-6.3-019": 1,
+    "CLM-0455-6.3-020": 1
+   },
+   "authored_hash": "17aa289e53d970473003e38a6acf603be5a62e073409e7dd6766aee297479252"
+  },
+  {
+   "item_id": "ITEM-0455-6.3-007-DEF",
+   "objective_ids": [
+    "OBJ-0455-6.3.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.3-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A Windhoek trader buys US dollars today, expecting the Namibian dollar to buy fewer of them next month, and plans to sell the dollars back then. Define speculation in the foreign exchange market.",
+   "canonical_answer": "Speculation in the foreign exchange market is the buying or selling of a currency in the expectation that its exchange rate is about to move, with the aim of profiting from the move rather than from trading goods or services. Applied to the trader: buying US dollars now, ahead of the expected depreciation of the Namibian dollar, is speculation, because the profit would come from the rate movement itself.",
+   "marking_guidance": [
+    "Precise definition: the meaning must cover acting on an expectation of a rate movement for profit, as the trader's purchase of dollars today shows."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.3-012": 1
+   },
+   "authored_hash": "4b048cd9439b9407cfa8da3782c48b6c29693addb27c81eac6a051076d7ede2f"
+  },
+  {
+   "item_id": "ITEM-0455-6.3-008-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-6.3.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.3-009",
+    "CLM-0455-6.3-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "The central bank of a small open economy raises its rate of interest from 6% to 9% a year while rates abroad stay at 6%. Analyse the likely chain of effects on the economy's foreign exchange rate.",
+   "canonical_answer": "Starting point: the economy's rate of interest rises from 6% to 9% while foreign rates stand still. Mechanism: because deposits and bonds in the economy's currency now pay 3 percentage points more than similar assets abroad, funds are likely to flow in from savers who want the higher return, and this causes demand for the currency to rise. Consequence: therefore the currency tends to appreciate against other currencies, so each unit of it buys more foreign currency; a decrease in the rate of interest would run the chain in reverse. For whom: foreign savers gain the higher return; the government is likely to find foreign borrowing easier while the demand for its currency holds; exporters in the economy lose ground, because their goods become dearer abroad; and consumers gain as imports become cheaper in home currency.",
+   "marking_guidance": [
+    "Starting point: the initial change - the rate of interest rising from 6% to 9% - must be stated.",
+    "Mechanism: because the higher return attracts funds, this causes demand for the currency to rise, and the direction of the interest move and the direction of the rate move must correspond.",
+    "Consequence: therefore the appreciation, and its reversal under a decrease, must be traced through.",
+    "For whom: the consequences must be named for savers, the government, exporters and consumers."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.3-009": 1,
+    "CLM-0455-6.3-011": 1
+   },
+   "authored_hash": "f1ec76164aa7645c33b13a9945ef55c1463d8500e0b120dbfc821c1175611c64"
+  },
+  {
+   "item_id": "ITEM-0455-6.3-009-APP",
+   "objective_ids": [
+    "OBJ-0455-6.3.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.3-009",
+    "CLM-0455-6.3-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "Marula Foods of Otavi exports dried fruit to Portugal. A Germany-based discount retailer announces it will open ten outlets in Windhoek next year, converting an investment of N$120 million into Namibian dollars to build and stock them. Using the context, explain how this multinational's entry is likely to move the demand for the Namibian dollar and its foreign exchange rate.",
+   "canonical_answer": "The context is an investment of N$120 million arriving from abroad. Because the retailer must convert its funds into Namibian dollars to build and stock the outlets, the entry adds to the demand for the Namibian dollar in the foreign exchange market. This extra demand is likely to push the price of the Namibian dollar up against other currencies, so the currency is likely to appreciate, which means each Namibian dollar buys more foreign currency. Therefore the multinational's entry tends to strengthen the host currency through the funds it converts, just as its departure would remove that demand.",
+   "marking_guidance": [
+    "Context: the N$120 million investment and its conversion into Namibian dollars must be used.",
+    "Reasoning: the link from the conversion to currency demand must be given, because the entry moves the market through the funds it changes.",
+    "Conclusion: therefore the answer must close on the direction of the rate movement."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.3-009": 1,
+    "CLM-0455-6.3-012": 1
+   },
+   "authored_hash": "8fd98c9ecd25e3b2f211a70eb7cbec856cd84894669beb0d84676c0d38f4aae4"
+  },
+  {
+   "item_id": "ITEM-0455-6.3-010-DEF",
+   "objective_ids": [
+    "OBJ-0455-6.3.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.3-014"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Oshakati Textiles wants to know how strongly its customers will respond if the price of imported cloth rises. Define price elasticity of demand as it applies to spending on imports.",
+   "canonical_answer": "Price elasticity of demand measures how strongly the quantity demanded responds to a change in price: the percentage change in quantity demanded that follows a percentage change in price. As it applies to spending on imports, it says whether a rise in the home price of imports cuts the quantity demanded by more or by less than the price rose, which decides whether spending on imports rises or falls after the price change.",
+   "marking_guidance": [
+    "Precise definition: the meaning must relate the percentage change in quantity demanded to the percentage change in price, and connect it to whether import spending rises or falls."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.3-014": 1
+   },
+   "authored_hash": "1f985f37f5055c0d0137c33c6763b885aeee8d8f51716d2a15b00077d3ccdafd"
+  },
+  {
+   "item_id": "ITEM-0455-6.3-011-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-6.3.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.3-013",
+    "CLM-0455-6.3-014",
+    "CLM-0455-6.3-015",
+    "CLM-0455-6.3-016"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "The Namibian dollar depreciates against the euro, moving from N$19 per euro to N$21 per euro while quoted prices stay unchanged. Analyse the likely effects on export and import prices and on spending on exports and imports.",
+   "canonical_answer": "Starting point: the Namibian dollar depreciates, from N$19 to N$21 per euro, with no quoted price changing. Mechanism: because each euro now costs more Namibian dollars, a drum of imported dye priced at 20 euros rises from 20 x 19 = N$380 to 20 x 21 = N$420, and a crate of exports priced N$399 falls for a Portuguese buyer from 21.00 euros to 19.00 euros - this causes imports to become dearer at home and exports cheaper abroad. Consequence: therefore spending moves as the price elasticity of demand decides: where demand for Namibian exports is price-elastic, quantities rise enough for export earnings to grow, and where demand for imports is price-inelastic, import spending rises because buyers keep buying at the higher price; the trade balance tends to improve only where demand for exports and imports is price-elastic enough to respond and where supply can respond to the larger orders. For whom: exporters gain cheaper prices abroad and possibly larger orders; importers such as the textile firm face higher costs; consumers pay more for imported goods; and the economy's trade position depends on which response outweighs the other.",
+   "marking_guidance": [
+    "Starting point: the initial change - the rate moving from N$19 to N$21 per euro - must be stated.",
+    "Mechanism: because conversion prices shift with the rate, this causes the home price of imports and the foreign price of exports to move in the stated directions.",
+    "Consequence: therefore the effect on export and import spending must be traced through price elasticity of demand, and any claim about the trade balance or the current account must carry the condition - demand for exports and imports being elastic enough to respond and supply being able to respond.",
+    "For whom: the consequences must be named for exporters, importers, consumers and the economy."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.3-013": 1,
+    "CLM-0455-6.3-014": 1,
+    "CLM-0455-6.3-015": 2,
+    "CLM-0455-6.3-016": 1
+   },
+   "authored_hash": "b282b5b335e2933d7ac9bb458e81d80285ccb9aa82d403dbb3c508b73d1ddc8f",
+   "prior_hash": "7d92144d6c3a30814d661d98b20dccbe70b907add343996b39b36cd9ffc98ef8",
+   "repair_note": "Planner audit 2026-10-06: removed the named Marshall-Lerner condition (beyond the 0455 syllabus; the condition is kept in plain words) and corrected cross-references to topics 2.7 (PED) and 6.4 (current account)."
+  },
+  {
+   "item_id": "ITEM-0455-6.3-012-APP",
+   "objective_ids": [
+    "OBJ-0455-6.3.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.3-013",
+    "CLM-0455-6.3-016"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "Oshakati Textiles buys a drum of imported dye priced at 20 euros. The Namibian dollar then appreciates against the euro, from N$21 per euro to N$19 per euro. Using the figures, explain how the appreciation is likely to affect the firm's costs and its sales in the home market.",
+   "canonical_answer": "The figures give the cost of one drum before and after. Before the appreciation, the drum costs 20 x 21 = N$420; after it, the same drum costs 20 x 19 = N$380, so the firm's cost per drum falls by 420 - 380 = N$40. Because its imported input is now cheaper, the firm is likely to enjoy a lower cost per metre of cloth, which means it can hold its home prices down or widen its margin. In the home market the appreciation also makes imported cloth itself cheaper for rival sellers, so the firm is likely to face keener price competition at home; therefore the appreciation helps the firm's costs while pressing on its home sales.",
+   "marking_guidance": [
+    "Context: the figures must be used - the drum priced at 20 euros when one euro costs N$21 and then N$19, and the N$40 fall.",
+    "Reasoning: the link from the cheaper input to the firm's costs, and from cheaper rival imports to its home sales, must be given, because the appreciation works on both.",
+    "Conclusion: therefore the answer must weigh the cost gain against the competition the appreciation brings."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.3-013": 1,
+    "CLM-0455-6.3-016": 1
+   },
+   "authored_hash": "4e09213ac6e150aa30edf2c6294921366cef812467bec9b3426aa96b6863241f"
+  },
+  {
+   "item_id": "ITEM-0455-6.3-013-DEF",
+   "objective_ids": [
+    "OBJ-0455-6.3.5"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.3-017"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Some governments let the market set their currency's price; others hold it at a chosen level. Define a floating exchange rate.",
+   "canonical_answer": "A floating exchange rate is a rate determined by the demand for and the supply of the currency in the foreign exchange market, which moves whenever either side of the market shifts, with the government holding it at no particular level. A country that floats lets the rate find its own price, as the price of any good finds its level in a market.",
+   "marking_guidance": [
+    "Precise definition: the meaning must name market determination - demand and supply setting the rate - and the absence of a held level, which is what separates a float from a fixed system."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.3-017": 1
+   },
+   "authored_hash": "a1cd0048765de136d4ebdb1a582f39ebd4a452c93bdd6b59759e884129c7b8ac"
+  },
+  {
+   "item_id": "ITEM-0455-6.3-014-DIST",
+   "objective_ids": [
+    "OBJ-0455-6.3.5"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.3-017",
+    "CLM-0455-6.3-018"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "subtype DIST",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 2,
+   "prompt": "Explain the difference between a floating and a fixed foreign exchange rate system, and state the test that tells them apart.",
+   "canonical_answer": "The boundary between the two systems is who sets the rate. In a floating system, the rate is determined by demand and supply in the foreign exchange market, and it moves whenever either side of the market shifts, whereas in a fixed system the monetary authority announces a level and holds the rate there, buying and selling the currency from its reserves to do so. The systems differ in who sets the rate, not in the currencies involved. The test: watch what happens to the rate when export demand shifts - a rate that moves with market conditions floats, and a rate that stays at its announced level is being held fixed, which is how to tell which system applies.",
+   "marking_guidance": [
+    "Boundary: the difference named must be who sets the rate - the market, whereas in a fixed system the authority sets and holds the level.",
+    "Test: the answer must give how to tell which applies - the rate's behaviour when demand shifts: a held level means fixed, a moving rate means floating."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.3-017": 1,
+    "CLM-0455-6.3-018": 1
+   },
+   "authored_hash": "bc38fb99157d6d7240015c8f9981fb1661e709cbe6f0844e882bef1c05820cca"
+  },
+  {
+   "item_id": "ITEM-0455-6.3-015-APP",
+   "objective_ids": [
+    "OBJ-0455-6.3.5"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.3-017",
+    "CLM-0455-6.3-019",
+    "CLM-0455-6.3-020"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 2,
+   "prompt": "The Namibian dollar has stood at one South African rand per N$1 for years while world demand for Namibian exports has swung up and down. Using this economy's arrangement, explain what traders gain from the fixed rate compared with a rate that floats.",
+   "canonical_answer": "This economy holds its currency at one rand per Namibian dollar, whatever the market behind it does. Because the level is held, a Katutura shop importing from South Africa knows in advance what each Namibian dollar will fetch - one rand today and one rand next quarter - so it can price contracts across the border without fear of the conversion moving. A floating rate, by contrast, would move with export demand: when demand for Namibian exports fell, the currency would tend to ease and each rand of import cost would take more Namibian dollars. Therefore the fixed arrangement gives traders certainty of conversion prices, which is the gain the arrangement offers against the movement a float brings.",
+   "marking_guidance": [
+    "Context: this economy's arrangement - the Namibian dollar held at one rand - must be used.",
+    "Reasoning: the link from the held level to certainty of conversion prices must be given, because that is what the arrangement offers against a moving rate.",
+    "Conclusion: therefore the answer must close on what traders gain from the fixed rate and what movement it avoids."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.3-017": 1,
+    "CLM-0455-6.3-019": 1,
+    "CLM-0455-6.3-020": 1
+   },
+   "authored_hash": "98b68ea412c30546ab2f47fd380adcd830a17db750c0544f4619388051c637d5"
+  },
+  {
+   "item_id": "ITEM-0455-6.3-P01",
+   "objective_ids": [
+    "OBJ-0455-6.3.1",
+    "OBJ-0455-6.3.2",
+    "OBJ-0455-6.3.3",
+    "OBJ-0455-6.3.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.3-001",
+    "CLM-0455-6.3-002",
+    "CLM-0455-6.3-005",
+    "CLM-0455-6.3-006",
+    "CLM-0455-6.3-007",
+    "CLM-0455-6.3-009",
+    "CLM-0455-6.3-011",
+    "CLM-0455-6.3-012",
+    "CLM-0455-6.3-013",
+    "CLM-0455-6.3-014"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "performance task type multiple_choice_set",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 3,
+   "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. The foreign exchange rate of a currency is:\nA  a property of money such as its portability\nB  the price of one currency expressed in terms of another\nC  the rate of interest banks charge on loans\nD  the rate at which prices rise over a year\n\n2. At the equilibrium foreign exchange rate:\nA  the quantity of the currency demanded equals the quantity supplied\nB  exports equal imports in value\nC  the government sets the level by law\nD  no further trading takes place\n\n3. Demand for a country's exports rises, other influences unchanged. The demand for its currency and its exchange rate are likely to:\nA  demand rises and the rate rises\nB  demand rises and the rate falls\nC  demand falls and the rate rises\nD  both stay unchanged\n\n4. A country raises its rate of interest above rates abroad. Its currency is likely to:\nA  depreciate\nB  appreciate\nC  stay unchanged whatever happens to demand\nD  be withdrawn from trading\n\n5. A machine part costs US$2 000 and the rate is N$18.50 per US$1. The Namibian cost is:\nA  N$3 700\nB  N$18 500\nC  N$37 000\nD  N$370 000\n\n6. A currency depreciates. The home-currency price of imports is likely to:\nA  rise, because each unit of foreign currency costs more\nB  fall, because imports become cheaper to buy\nC  stay unchanged, because foreign sellers keep their prices\nD  fall, because exporters cut their prices to match\n\n7. Speculation in the foreign exchange market is:\nA  buying a currency expecting its rate to move, to profit from the move\nB  exchanging currency to pay for imports\nC  the government holding the rate at a set level\nD  saving in a foreign bank account for safety\n\n8. A country's currency depreciates. Spending on imports in home currency is most likely to fall where:\nA  demand for imports is price-elastic\nB  demand for imports is price-inelastic\nC  imports have no close substitutes\nD  the depreciation is small",
+   "canonical_answer": "Key: 1 B, 2 A, 3 A, 4 B, 5 C, 6 A, 7 A, 8 A.\n1. B is the definition; A confuses the rate with a characteristic of money, C with the rate of interest, D with the rate of inflation.\n2. A is the equilibrium condition; B confuses market clearing with the trade balance, C confuses a market rate with a government decision, D imagines trading stopping at equilibrium.\n3. A traces the chain: buyers of the exports need the currency; B runs the rate the wrong way round, C runs demand the wrong way, D drops the link between trade and currency demand.\n4. B is the direction funds flow: a higher return attracts funds and adds demand; A reverses the chain, C ignores the demand a higher return adds, D confuses a rate move with a trading suspension.\n5. C applies the rate: 2 000 x 18.50 = N$37 000; A drops a zero from the true figure, B quotes the rate as a cost, D adds a zero.\n6. A names the conversion: dearer foreign currency raises home prices; B reverses the conversion, C forgets the conversion step, D confuses exporters' pricing with import prices.\n7. A is the definition of speculation: acting on an expected move for profit; B is an ordinary trade payment, C describes a fixed system, D is saving, which lacks the expectation of a rate move.\n8. A is the condition: quantities must fall enough to outweigh the higher prices; B keeps spending rising because buyers keep buying, C does the same, D makes the price effect small without reversing its direction.",
+   "marking_guidance": [
+    "Key: one mark per question, eight in total; the correct option is listed and each distractor is explained as the specific misunderstanding it catches.",
+    "Each distractor traces to a named error: the rate confused with the characteristics of money or with other rates, the equilibrium condition confused with the trade balance, the direction of a demand or interest chain run backwards, a conversion misapplied, and the role of elasticity in spending confused."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.3-001": 1,
+    "CLM-0455-6.3-002": 1,
+    "CLM-0455-6.3-005": 1,
+    "CLM-0455-6.3-006": 1,
+    "CLM-0455-6.3-007": 1,
+    "CLM-0455-6.3-009": 1,
+    "CLM-0455-6.3-011": 1,
+    "CLM-0455-6.3-012": 1,
+    "CLM-0455-6.3-013": 1,
+    "CLM-0455-6.3-014": 1
+   },
+   "authored_hash": "16cb15e4e5994b98cd2b5d9c16d846a5f50df1878b68c1eab1d6c25188f11e8c"
+  },
+  {
+   "item_id": "ITEM-0455-6.3-P02",
+   "objective_ids": [
+    "OBJ-0455-6.3.1",
+    "OBJ-0455-6.3.3",
+    "OBJ-0455-6.3.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.3-002",
+    "CLM-0455-6.3-004",
+    "CLM-0455-6.3-010",
+    "CLM-0455-6.3-011",
+    "CLM-0455-6.3-013",
+    "CLM-0455-6.3-014",
+    "CLM-0455-6.3-015",
+    "CLM-0455-6.3-016"
+   ],
+   "item_type": "data_response",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type data_response",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "A report from Walvis Bay, June 2026: \"Walvis Bay Boat Works has imported its marine engines from Europe since it opened. In January one euro cost N$19; by June one euro cost N$21, and the shipyard's quarterly engine bill of 200 000 euros had grown in Namibian dollars. Dried-fish exporters in Swakopmund report their orders from Portugal are down 12%, and in May the central bank cut its rate of interest from 5.5% to 4.0%.\"\n\nTable 1 - the Namibian dollar and the euro, 2026\n  N$ per euro, January: 19\n  N$ per euro, June: 21\n  Boat Works engine bill per quarter: 200 000 euros\n  dried-fish export orders from Portugal: down 12% by June\n  central bank rate of interest: 5.5% in January, 4.0% in June\n\n(a) Calculate the rise in the Namibian-dollar cost of the shipyard's quarterly engine bill between January and June. [1]\n(b) State the central bank's rate of interest in June. [1]\n(c) Identify from Table 1 one cause of the change in the Namibian dollar's rate against the euro. [2]\n(d) Explain why the cause you identified moved the rate in the direction shown. [4]\n(e) Analyse what the June figures suggest for the shipyard, the Swakopmund exporters and Namibian households, using the data as evidence. [6]",
+   "canonical_answer": "(a) January cost: 200 000 x 19 = N$3 800 000. June cost: 200 000 x 21 = N$4 200 000. The rise is 4 200 000 - 3 800 000 = N$400 000.\n(b) 4.0%.\n(c) Either the 12% fall in export orders from Portugal or the cut in the central bank's rate of interest from 5.5% to 4.0%; both are changes on the demand side of the currency market.\n(d) Take the export orders: because Portuguese buyers need fewer Namibian dollars to pay for Namibian dried fish, the demand for the Namibian dollar in the foreign exchange market falls. With less demand against little-changed supply, the price of the Namibian dollar in euros tends to fall, so one euro costs more Namibian dollars - the depreciation the table shows from N$19 to N$21 per euro. The interest-rate cut works the same way: deposits in Namibian dollars pay less than before relative to assets abroad, so funds tend to leave and demand falls further.\n(e) Expected relationship: a depreciation raises the home price of imports and lowers the foreign price of exports, with the spending effects decided by price elasticity of demand. Evidence: the shipyard's bill rose by N$400 000 a quarter, from N$3 800 000 to N$4 200 000, while its euro price stood unchanged at 200 000 euros. Analysis: for the shipyard, dearer engines mean higher costs, which it is likely to pass on in its prices or absorb in its margins, and it may search for home suppliers; for the Swakopmund exporters, the depreciation lowers the euro price of their dried fish, so a Portuguese buyer now pays fewer euros for the same Namibian-dollar price, which may lift the quantities ordered where demand is price-elastic enough to respond; for households, imported goods tend to cost more, so budgets feel the shift where imports loom large in the shopping basket. Exception: however, where demand for Namibian exports is price-inelastic, or home supply cannot expand to fill larger orders, the export gain may fail to arrive and the trade balance may not improve - whether demand for exports and imports is elastic enough to respond and whether supply can respond decides. For whom: the shipyard pays more, the exporters may gain orders, the households face dearer imports, and the economy's trade position depends on which response outweighs the other.",
+   "marking_guidance": [
+    "Context: parts (a), (b) and (c) are read or calculated from the data; (d) and (e) must use the figures - the N$19 to N$21 rate, the 200 000-euro bill, the 12% fall in orders, the 5.5% to 4.0% cut.",
+    "Reasoning: one mark per distinct linked statement; quoting a figure on its own is description, not analysis - the relationship must be stated and the reason given.",
+    "Conclusion: part (e) runs expected relationship, then evidence, then analysis, then an exception, and names for whom the effects land - the shipyard, the exporters, the households, the economy.",
+    "Refusal: an answer that lists figures without linking them earns at most the evidence marks, since figure-quoting is refused as analysis."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": [
+     "one euro cost N$19 in January and N$21 in June",
+     "Boat Works engine bill 200 000 euros per quarter",
+     "dried-fish export orders from Portugal down 12% by June",
+     "central bank rate of interest 5.5% in January and 4.0% in June"
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.3-002": 1,
+    "CLM-0455-6.3-004": 1,
+    "CLM-0455-6.3-010": 1,
+    "CLM-0455-6.3-011": 1,
+    "CLM-0455-6.3-013": 1,
+    "CLM-0455-6.3-014": 1,
+    "CLM-0455-6.3-015": 2,
+    "CLM-0455-6.3-016": 1
+   },
+   "authored_hash": "bbdb0a71217b778f7650ab2c9b73a6d86ec98fc51eca9017b1c4662d5d59fb79",
+   "prior_hash": "a9a27ee44767645bd990428049cf75ca3c69fd5fa716c93de025af82e47f3131",
+   "repair_note": "Planner audit 2026-10-06: removed the named Marshall-Lerner condition (beyond the 0455 syllabus; the condition is kept in plain words) and corrected cross-references to topics 2.7 (PED) and 6.4 (current account)."
+  },
+  {
+   "item_id": "ITEM-0455-6.3-P03",
+   "objective_ids": [
+    "OBJ-0455-6.3.1",
+    "OBJ-0455-6.3.3",
+    "OBJ-0455-6.3.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.3-001",
+    "CLM-0455-6.3-004",
+    "CLM-0455-6.3-010",
+    "CLM-0455-6.3-013",
+    "CLM-0455-6.3-014",
+    "CLM-0455-6.3-015",
+    "CLM-0455-6.3-016"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type short_answer",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "Namibia's exporters sell to Europe and Namibian shops import from Europe. Over 2026 the Namibian dollar's rate against the euro moved from N$19 per euro to N$21 per euro.\n(a) Define the foreign exchange rate. [2]\n(b) Explain how a fall in overseas demand for Namibian exports is likely to affect the foreign exchange rate of the Namibian dollar. [4]\n(c) Analyse the effects of the Namibian dollar's depreciation against the euro on export and import prices and on spending on exports and imports. [6]\n(d) Discuss whether an appreciating currency benefits an economy. [8]",
+   "canonical_answer": "(a) The foreign exchange rate is the price of one currency expressed in terms of another: the number of units of one currency needed to buy one unit of the other, such as N$21 per euro.\n(b) Because foreign buyers need the Namibian dollar to pay for Namibian exports, a fall in overseas demand removes some of that demand from the foreign exchange market. With demand lower and supply little changed, the price of the Namibian dollar in euros tends to fall, so the currency depreciates and each Namibian dollar buys fewer euros. The mechanism is the market of topic 2.5: fewer buyers of the goods means fewer buyers of the currency needed to pay for them.\n(c) Starting point: the Namibian dollar depreciates from N$19 to N$21 per euro, with quoted prices unchanged. Mechanism: because each euro now costs more Namibian dollars, an import priced at 20 euros costs 20 x 19 = N$380 before and 20 x 21 = N$420 after, so imports become dearer at home; a crate of exports priced N$399 costs a Portuguese buyer 21.00 euros before and 19.00 euros after, so exports become cheaper abroad. Consequence: therefore spending moves as the price elasticity of demand decides - where demand for exports is price-elastic, quantities rise enough for export earnings to grow; where demand for imports is price-inelastic, import spending rises because buyers keep buying at the dearer price. Where demand for exports and imports is elastic enough to respond, and supply is able to respond, the depreciation tends to improve the trade balance; where it fails, dearer imports outweigh the export gain. For whom: exporters may gain orders abroad, importers and consumers face higher prices at home, foreign buyers gain cheaper Namibian goods, and the economy's trade position turns on which response is larger.\n(d) Why it might: an appreciating currency makes imports cheaper in home currency, so consumers pay less for imported goods and firms pay less for imported inputs such as fuel and machinery, which can hold costs and prices down; each Namibian dollar also buys more abroad, so travel and study abroad cost less. Why it might not: the same movement makes exports dearer in foreign currency, so exporters may lose orders and shed workers, and the pressure lands on the sectors the economy leans on; cheaper imports may also undercut home producers selling in the home market, so jobs in firms that face import competition suffer. Judgement: on balance, whether an appreciating currency benefits an economy depends on the price elasticity of demand for its exports and imports and on how heavily households depend on imports: where imports loom large in household budgets and exports are price-inelastic, the gains spread widely, and where exports are price-elastic, the job losses may outweigh the cheaper imports. The condition settles it: the balance of the economy's trade and how responsive its buyers are.",
+   "marking_guidance": [
+    "Parts (a) to (d) each carry a model answer; part (d) is level-marked over three bands, with the top band examining why it might and why it might not and reaching a judgement.",
+    "Context: parts (b) and (c) must use the rate movement given - the fall in overseas demand and the move from N$19 to N$21 per euro.",
+    "Reasoning: one mark per distinct linked statement, tracing each chain from its starting point to the group it lands on.",
+    "Conclusion: part (d) must name the condition the judgement depends on - the elasticity of demand for exports and imports and the economy's trade pattern."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": [
+     "the Namibian dollar moved from N$19 to N$21 per euro over 2026"
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.3-001": 1,
+    "CLM-0455-6.3-004": 1,
+    "CLM-0455-6.3-010": 1,
+    "CLM-0455-6.3-013": 1,
+    "CLM-0455-6.3-014": 1,
+    "CLM-0455-6.3-015": 2,
+    "CLM-0455-6.3-016": 1
+   },
+   "authored_hash": "c93183d3f2a3ddb8fa9d39c3dc99f43c0041776276f16a702658937c96ece88a",
+   "prior_hash": "0b19d684ba1c7e1e1c772ca99be1304daeed811262ae6a2c460f0453cadec88f",
+   "repair_note": "Planner audit 2026-10-06: removed the named Marshall-Lerner condition (beyond the 0455 syllabus; the condition is kept in plain words) and corrected cross-references to topics 2.7 (PED) and 6.4 (current account)."
+  },
+  {
+   "item_id": "ITEM-0455-6.3-P04",
+   "objective_ids": [
+    "OBJ-0455-6.3.2",
+    "OBJ-0455-6.3.5"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.3-008",
+    "CLM-0455-6.3-017",
+    "CLM-0455-6.3-018",
+    "CLM-0455-6.3-019",
+    "CLM-0455-6.3-020"
+   ],
+   "item_type": "essay_plan",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Evaluate",
+   "blooms_level_basis": "performance task type essay_plan",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "Plan an answer to: \"Discuss whether a government should hold its foreign exchange rate fixed rather than let it float.\" Build the plan from the way each system sets the rate and what each does to traders, reserves and prices. Do not write the essay; produce the plan.",
+   "canonical_answer": "Case for holding the rate fixed (certainty and steadier prices):\nChain 1: rate held at an announced level -> traders know future conversion prices -> firms sign cross-border contracts more willingly -> trade and investment flow more steadily (for whom: importers and exporters gain predictability; the government gains steadier trade).\nChain 2: a held level anchors import prices -> episodes of a suddenly dearer currency are avoided -> pressure on home prices from import costs is weaker (for whom: consumers face steadier prices; the central bank's task is lighter).\nCase against (cost and misalignment):\nChain 3: export demand falls -> the market pushes the rate down -> the authority must buy its own currency with reserves to hold the level -> reserves drain, and where they run out the level fails suddenly (for whom: the government loses reserves; exporters keep uncompetitive prices until the failure).\nChain 4: the held level drifts from what trade flows justify -> imports stay artificially cheap and exports stay dear -> resources shift toward imports and away from export sectors (for whom: home producers lose ground; consumers gain in the short run).\nJudgement: on balance, a government with thin reserves and shifting trade flows serves its traders better by letting the rate float, because a fixed rate the authority cannot defend fails abruptly and the failure costs more than the movement it prevented; a government with deep reserves and steady flows may gain from fixing. The condition the judgement depends on: the size of the reserves the authority can commit, and how steady the economy's trade flows are.",
+   "marking_guidance": [
+    "A plan, not an essay: the chains and the stated judgement are what is assessed.",
+    "Criterion: the decisive factor is the authority's reserves and the steadiness of trade flows.",
+    "Counterargument: the case against fixing must appear - reserve drain and a level drifting from market conditions.",
+    "Condition: the plan must end on what would change the judgement - reserves and the steadiness of trade flows.",
+    "For whom: each chain names who gains and who loses - traders, consumers, producers, the government."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.3-008": 1,
+    "CLM-0455-6.3-017": 1,
+    "CLM-0455-6.3-018": 1,
+    "CLM-0455-6.3-019": 1,
+    "CLM-0455-6.3-020": 1
+   },
+   "authored_hash": "ee0db3e4f080b747acb6a7859516686930b94d9b5a97a3d30254649cdb3f146e"
+  }
+ ]
+}

@@ -1,0 +1,173 @@
+{
+ "ledger_id": "CLM-LEDGER-0455-IGCSE-2.5",
+ "claims": [
+  {
+   "claim_id": "CLM-0455-2.5-001",
+   "objective_ids": [
+    "OBJ-0455-2.5.1"
+   ],
+   "text": "Market equilibrium is the position of a market in which the quantity demanded equals the quantity supplied; the price at which the two are equal is the equilibrium price, and the quantity bought and sold at that price is the equilibrium quantity.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.5-002",
+   "objective_ids": [
+    "OBJ-0455-2.5.1"
+   ],
+   "text": "At the equilibrium price the market clears: buyers take the quantity sellers offer, no stock is left unsold and no would-be buyer goes without, so the price tends to stay where it is until demand or supply changes.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.5-003",
+   "objective_ids": [
+    "OBJ-0455-2.5.1"
+   ],
+   "text": "The equilibrium is found by reading a demand schedule against a supply schedule, price by price, until the two quantities match, or on a diagram by marking where the demand curve crosses the supply curve, with price on the vertical axis and quantity on the horizontal.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.5-004",
+   "objective_ids": [
+    "OBJ-0455-2.5.1"
+   ],
+   "text": "A change in demand or supply carries the market to a new equilibrium: a rise in demand tends to raise the equilibrium price and the equilibrium quantity, while a rise in supply tends to raise the equilibrium quantity and lower the equilibrium price.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.5-005",
+   "objective_ids": [
+    "OBJ-0455-2.5.2"
+   ],
+   "text": "Market disequilibrium is a position of a market in which the quantity demanded does not equal the quantity supplied at the prevailing price, which happens where the price sits above or below its equilibrium level.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.5-006",
+   "objective_ids": [
+    "OBJ-0455-2.5.2"
+   ],
+   "text": "A surplus exists where the price sits above its equilibrium level, so the quantity supplied exceeds the quantity demanded, and a shortage exists where the price sits below it, so the quantity demanded exceeds the quantity supplied.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.5-007",
+   "objective_ids": [
+    "OBJ-0455-2.5.2"
+   ],
+   "text": "Out of equilibrium the price comes under pressure: a surplus tends to push the price down as sellers cut prices to clear unsold stock, and a shortage tends to push the price up as buyers who miss out offer more, so the market tends to move back towards equilibrium.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.5-008",
+   "objective_ids": [
+    "OBJ-0455-2.5.2"
+   ],
+   "text": "At the Swakopmund weekend market the equilibrium price of a woven basket is N$45; when a trader holds the price at N$60, the quantity demanded is 60 baskets and the quantity offered is 90, a surplus of 30 baskets, since 90 - 60 = 30 baskets.",
+   "claim_type": "synthetic_example",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  }
+ ]
+}

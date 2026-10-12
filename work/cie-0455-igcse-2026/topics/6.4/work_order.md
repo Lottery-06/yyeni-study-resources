@@ -2,14 +2,14 @@
 
 *build/make_work_order.py — regenerate, never edit*
 
-4 assessable objectives · 33 planned items · 4 content units
+4 assessable objectives · 22 planned items · 4 content units
 
 ## Planned AO mix by item count (reported, not targeted)
 
 | AO | planned | item-count target |
 |---|---:|---:|
-| AO1 | 61% | 40% |
-| AO2 | 36% | 40% |
+| AO1 | 52% | 40% |
+| AO2 | 43% | 40% |
 | AO3 | 4% | 20% |
 
 ## Planned AO mix in marks-equivalent — the measure the syllabus uses
@@ -17,12 +17,12 @@
 | AO | planned | syllabus weight |
 |---|---:|---:|
 | AO1 | 36% | 40% |
-| AO2 | 46% | 40% |
+| AO2 | 47% | 40% |
 | AO3 | 17% | 20% |
 
-198 marks-equivalent of practice in this topic.
+125 marks-equivalent of practice in this topic.
 
-> The syllabus states its AO weights as a share of MARKS, so planned_ao_mix_by_marks is the one that answers "does this resource match the exam". It values each card at the tariff of the question it models, split across the AOs the card declares, and values each performance task at the marks of the paper part it models. The count-based mix below is reported only because it is what a reader expects to see; do not balance against it. AO shares by ITEM COUNT: Every objective needs one recall anchor, so AO1 has a structural floor of about 14% in this topic (4 objectives against 28 slots) and cannot reach the 40% target by count however many other cards are added - padding the bank to chase it makes the resource worse. The framework already measures the AO4 share in practice time rather than by count for the same reason. Treat AO1 above target as expected, and AO2/AO3/AO4 below target as the thing worth fixing.
+> The syllabus states its AO weights as a share of MARKS, so planned_ao_mix_by_marks is the one that answers "does this resource match the exam". It values each card at the tariff of the question it models, split across the AOs the card declares, and values each performance task at the marks of the paper part it models. The count-based mix below is reported only because it is what a reader expects to see; do not balance against it. AO shares by ITEM COUNT: Every objective needs one recall anchor, so AO1 has a structural floor of about 17% in this topic (4 objectives against 23 slots) and cannot reach the 40% target by count however many other cards are added - padding the bank to chase it makes the resource worse. The framework already measures the AO4 share in practice time rather than by count for the same reason. Treat AO1 above target as expected, and AO2/AO3/AO4 below target as the thing worth fixing.
 
 ## Content units
 
@@ -44,40 +44,29 @@
 |---|---|---|---|---|---:|---|
 | `001-DEF` | structure | DEF | AO1 | Define | 2 | instructs with Define, which this objective carries |
 | `002-CALC` | structure | CALC | AO1 | Calculate | 1 | instructs with Calculate, which this objective carries |
-| `003-INTERP` | structure | INTERP | AO2 | Explain | 4 | instructs with Explain, which this objective carries |
-| `004-APP` | structure | APP | AO2 | Explain | 4 | instructs with Explain, which this objective carries |
-| `020-FEATURE` | structure | FEATURE | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
-| `024-MISCON` | structure | MISCON | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
-| `028-DIST` | structure | DIST | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
+| `003-INTERP` | structure | INTERP | AO1/AO2 | Explain | 4 | instructs with Explain, which this objective carries |
+| `004-APP` | structure | APP | AO1/AO2 | Explain | 4 | instructs with Explain, which this objective carries |
 | `005-DEF` | causes of current account deficit and surplus | DEF | AO1 | Define | 2 | instructs with Define, which this objective carries |
 | `006-CHAIN` | causes of current account deficit and surplus | CHAIN | AO2 | Analyse | 6 | instructs with Analyse, which this objective carries |
-| `007-APP` | causes of current account deficit and surplus | APP | AO2 | Explain | 4 | instructs with Explain, which this objective carries |
+| `007-APP` | causes of current account deficit and surplus | APP | AO1/AO2 | Explain | 4 | instructs with Explain, which this objective carries |
 | `018-FEATURE` | causes of current account deficit and surplus | FEATURE | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
-| `022-MISCON` | causes of current account deficit and surplus | MISCON | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
-| `026-DIST` | causes of current account deficit and surplus | DIST | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
 | `008-DEF` | consequences of current account deficit and surplus | DEF | AO1 | Define | 2 | instructs with Define, which this objective carries |
 | `009-CHAIN` | consequences of current account deficit and surplus | CHAIN | AO2 | Analyse | 6 | instructs with Analyse, which this objective carries |
-| `010-APP` | consequences of current account deficit and surplus | APP | AO2 | Explain | 4 | instructs with Explain, which this objective carries |
-| `019-FEATURE` | consequences of current account deficit and surplus | FEATURE | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
-| `023-MISCON` | consequences of current account deficit and surplus | MISCON | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
-| `027-DIST` | consequences of current account deficit and surplus | DIST | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
+| `010-APP` | consequences of current account deficit and surplus | APP | AO1/AO2 | Explain | 4 | instructs with Explain, which this objective carries |
 | `011-DEF` | policies to achieve balance of payments stability | DEF | AO1 | Define | 2 | instructs with Define, which this objective carries |
 | `012-BEN` | policies to achieve balance of payments stability | BEN | AO2 | Analyse | 6 | instructs with Analyse, which this objective carries |
 | `013-LIM` | policies to achieve balance of payments stability | LIM | AO2 | Analyse | 6 | instructs with Analyse, which this objective carries |
 | `014-EVAL` | policies to achieve balance of payments stability | EVAL | AO3 | Discuss | 8 | instructs with Discuss, which this objective carries |
-| `015-APP` | policies to achieve balance of payments stability | APP | AO2 | Explain | 4 | instructs with Explain, which this objective carries |
+| `015-APP` | policies to achieve balance of payments stability | APP | AO1/AO2 | Explain | 4 | instructs with Explain, which this objective carries |
 | `016-CHAIN` | policies to achieve balance of payments stability | CHAIN | AO2 | Analyse | 6 | instructs with Analyse, which this objective carries |
 | `017-FEATURE` | policies to achieve balance of payments stability | FEATURE | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
-| `021-MISCON` | policies to achieve balance of payments stability | MISCON | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
-| `025-DIST` | policies to achieve balance of payments stability | DIST | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
 
 ## Performance tasks
 
-- **multiple_choice_set** — A set of 8 four-option multiple-choice questions on this topic, one mark each, every distractor explained on the back. This models the qualification’s multiple-choice paper, which carries 30 of its 120 marks — 30% of the whole examination.
-- **short_answer** — A lender/manager-style question requiring several linked points
-- **data_response** — A short case with figures, answered under AO2 and AO4
-- **essay_plan** — A planned 12-mark evaluation, structured not written out
-- **case_analysis** — An unfamiliar business, analysed then judged
+- **multiple_choice_set** — A set of 8 four-option multiple-choice questions on this topic in the style of Paper 1, one mark each, every distractor explained on the back as the specific misunderstanding it catches.
+- **data_response** — A Paper 2 Section A-style data-response question on this topic (14 marks): an original short economic news extract with a table or figures, with parts of 1 mark each (two Calculate from the data), 2 marks (Identify or State), 4 marks (Explain), and 6 marks (Analyse, using the data as evidence: expected relationship, evidence, analysis, exception). The guidance marks one point per distinct linked statement and refuses figure-quoting as analysis.
+- **short_answer** — A Paper 2 Section B-style structured question on this topic (20 marks): (a) Define, 2 marks; (b) Explain, 4 marks; (c) Analyse, 6 marks; (d) Discuss, 8 marks, level-marked over three bands with the top band examining both sides (why it might, why it might not) and reaching a judgement. Model answer and guidance for every part.
+- **essay_plan** — A plan for an 8-mark Discuss question on this topic: the case for, the case against, each point developed into a chain, and the judgement with the condition it depends on. Not written out in full.
 
 ## Excluded from this topic
 

@@ -1,0 +1,108 @@
+{
+ "unit_id": "CU-0455-1.2.2",
+ "title": "Mobility of the factors",
+ "objective_ids": [
+  "OBJ-0455-1.2.2"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 293,
+  "target": 356,
+  "max": 420
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "1.2.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define mobility of a factor of production, and analyse what makes labour mobile or immobile between occupations and between places.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {},
+   "authored_hash": "cca0935e2e4c0406874a8ee370ac356cb56fac653b4d9dddf702a5409c838666"
+  },
+  {
+   "block_id": "1.2.2-b2",
+   "block_type": "definition",
+   "heading": "What mobility means",
+   "text": "Mobility of a factor of production is the ease with which it moves between one use and another, called occupational mobility, or between one place and another, called geographical mobility. A mobile factor can be shifted to where it is valued most; an immobile one stays where it is. A cutting machine that works steel one week and aluminium the next is occupationally mobile. A borehole cannot be moved from Otavi to Walvis Bay, so land tends to be the least mobile of the factors, and much of a country's capital is bolted to its site. People are capable of moving, which is why mobility is discussed with labour at the centre.",
+   "claim_ids": [
+    "CLM-0455-1.2-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.2-004": 1
+   },
+   "authored_hash": "75e7cdc7f9d73c96bf8020ff259a680d122c830535636bcca073e8b4b2fac5ce"
+  },
+  {
+   "block_id": "1.2.2-b3",
+   "block_type": "analysis_chain",
+   "heading": "Why a worker stays put",
+   "text": "Take a fish-cutter at Walvis Bay whose cannery closes. The jobs that remain are in hospitality and at the new fuel depot. For the depot job she must retrain, because her knife skills do not transfer to maintenance - that is a question of occupational mobility. If the depot posts sit inland, she must also relocate - a question of geographical mobility. Retraining takes months and costs money she may not have while unemployed; moving house means leaving family, a language community and a children's school. Barriers like these are what hold labour in place. The result is a town where workers queue for too few jobs while vacancies sit unfilled a few hundred kilometres away, and the wage the depot offers has to rise before enough workers clear the barriers.",
+   "claim_ids": [
+    "CLM-0455-1.2-005",
+    "CLM-0455-1.2-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2",
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.2-005": 1,
+    "CLM-0455-1.2-004": 1
+   },
+   "authored_hash": "b42abf0dfce5d0405dc811618caeef919e6e521280803a97354d6d1205544481"
+  },
+  {
+   "block_id": "1.2.2-b4",
+   "block_type": "example",
+   "heading": "The Ruhr coal mines",
+   "text": "A case outside Africa makes the same point. When the last deep coal mines of Germany's Ruhr region closed, some miners retrained as installers of solar panels and heating systems and found work in other towns; others stayed in the mining settlements, because their skills were specific to the pits and their families were rooted there. The ones who retrained changed occupation; the ones who moved city changed geography; the ones who did neither stayed without work although jobs existed elsewhere in the country.",
+   "claim_ids": [
+    "CLM-0455-1.2-005",
+    "CLM-0455-1.2-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.2-005": 1,
+    "CLM-0455-1.2-006": 1
+   },
+   "authored_hash": "7244a046830f1c7fedc9939174433f18c2de155667b6cefec813cc77b11bbba8"
+  },
+  {
+   "block_id": "1.2.2-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Where labour cannot move, unemployment persists in one place while vacancies sit in another, which topic 2.5 measures; and the wage differences that attract mobile workers are the labour-market prices of topic 2.2.",
+   "claim_ids": [
+    "CLM-0455-1.2-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.2-005": 1
+   },
+   "authored_hash": "9d61f6ce8f75ebd1ea94d342f4f507139b42650d7340e11d4ca473a168b1885b"
+  }
+ ],
+ "word_count": 397
+}

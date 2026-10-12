@@ -1,0 +1,105 @@
+{
+ "unit_id": "CU-0455-4.8.5",
+ "title": "Policies to control inflation and deflation",
+ "objective_ids": [
+  "OBJ-0455-4.8.5"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_policy_evaluation",
+ "depth_tier": 4,
+ "word_budget": {
+  "min": 250,
+  "target": 305,
+  "max": 360
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "4.8.5-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Set out the range of policies against inflation and deflation, and weigh how effective each is likely to be.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "6633302dce608db87ab24a03a920fa4123bb8cc710bd71301a43378127553101"
+  },
+  {
+   "block_id": "4.8.5-b2",
+   "block_type": "plain_explanation",
+   "heading": "The range of policies",
+   "text": "Against inflation a government and its central bank hold three routes. Monetary policy: raising interest rates makes borrowing dearer and saving better rewarded, slowing the growth of total spending. Fiscal policy: cutting government spending or raising taxes removes spending from the economy directly. Supply-side measures that raise capacity or ease input costs - infrastructure, training, cheaper logistics - work on cost pressure where spending restraint cannot. Against deflation the routes run in reverse: interest rates are cut and government spending climbs, aimed at restarting total spending before the chains of the last section take hold.",
+   "claim_ids": [
+    "CLM-0455-4.8-017"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.8-017": 1
+   },
+   "authored_hash": "32ebca9f77291adf274dfa0908ddf351540ec1f485781472d540db1f96fcecde"
+  },
+  {
+   "block_id": "4.8.5-b3",
+   "block_type": "analysis_chain",
+   "heading": "A rate rise against demand-pull pressure",
+   "text": "Starting point: the central bank lifts its policy rate from 5% to 9% against a 6% yearly climb in prices driven by fast credit growth. Mechanism: loans become dearer, so households borrow less and firms postpone loan-financed expansion, and saving is better rewarded, so the economy's whole outlay grows more slowly. Consequence: with sellers no longer able to count on buyers bidding against each other, the demand-pull pressure eases. For whom: consumers face gentler price moves, savers gain income, while borrowers meet dearer credit and weaker sales while the policy works.",
+   "claim_ids": [
+    "CLM-0455-4.8-018"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.8-018": 1
+   },
+   "authored_hash": "6e5b43e676a258f800584d8a3dea719576ce3e9aee896f30b982d2c995890d79"
+  },
+  {
+   "block_id": "4.8.5-b4",
+   "block_type": "evaluation",
+   "heading": "How effective each route is",
+   "text": "Effectiveness depends on the cause of the climb. Where outlay runs ahead of capacity, the rate rise is well aimed and works through the whole banking system at once. Where costs push prices up - a fuel rise, a poor harvest - dearer borrowing squeezes output and jobs without touching the cause, and supply-side measures or waiting out the input price do more. The effects also arrive with a delay, and deflation is harder still: households expecting lower prices may keep postponing even with cheap credit, where confidence is low. Each route trades against other aims - slower growth and fewer jobs while prices come down, or higher public borrowing where the government spends against deflation.",
+   "claim_ids": [
+    "CLM-0455-4.8-019",
+    "CLM-0455-4.8-020"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.8-019": 1,
+    "CLM-0455-4.8-020": 1
+   },
+   "authored_hash": "3ac721f58123bdebc50aa811945369c83e9ba7025e23890eef2653e9ca3aaf2d"
+  },
+  {
+   "block_id": "4.8.5-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The interest-rate route is topic 4.4, the spending-and-taxation route topic 4.3, and both serve the aims of topic 4.1.",
+   "claim_ids": [
+    "CLM-0455-4.8-017"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.8-017": 1
+   },
+   "authored_hash": "53c6bd45a6df44ac704a7af7362e57f508c99c117e2af84774dfb1f9d5d089f7"
+  }
+ ],
+ "word_count": 360
+}

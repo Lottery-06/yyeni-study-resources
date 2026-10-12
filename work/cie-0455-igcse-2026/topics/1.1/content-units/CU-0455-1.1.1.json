@@ -1,0 +1,87 @@
+{
+ "unit_id": "CU-0455-1.1.1",
+ "title": "Finite resources, unlimited wants",
+ "objective_ids": [
+  "OBJ-0455-1.1.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_definition",
+ "depth_tier": 1,
+ "word_budget": {
+  "min": 285,
+  "target": 347,
+  "max": 410
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "1.1.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Explain the nature of the economic problem: finite resources against unlimited wants, and why it forces choice on consumers, workers, producers and governments.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "f9abc0418401c76a40271d8ce195dfc7fbcf30800c368ce20e04c9a4a4df0580"
+  },
+  {
+   "block_id": "1.1.1-b2",
+   "block_type": "definition",
+   "heading": "The problem every economy shares",
+   "text": "Wants are unlimited. A household in Katutura wants food, school fees, airtime and a fridge this month; the money is not there for all of them. A government wants clinics in every settlement, tarmac on every road and pensions paid; the tax revenue cannot stretch to all three at once. The resources available - money, time, labour, land, machines - are finite. Because wants outrun resources, choices must be made about what to use them on and what to leave undone. That situation is the economic problem, and every economy faces it, rich or poor. In Germany, a wealthy country, the same problem appears in a different dress: the health service cannot fund every new drug and every extra ward in the same year, so it too must choose.",
+   "claim_ids": [
+    "CLM-0455-1.1-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.1-001": 1
+   },
+   "authored_hash": "20e1d272130d1cc7e3e9b8e42d3bde9db5f8ebb60ee6e3db1421c078290b16f2"
+  },
+  {
+   "block_id": "1.1.1-b3",
+   "block_type": "plain_explanation",
+   "heading": "The same problem at every level",
+   "text": "The economic problem is not only a problem of the poor. A consumer with N$500 must choose between transport and a textbook. A worker with one free Saturday must choose between overtime and family. A producer with one factory line must choose between juice bottles and cider bottles. A government with a fixed budget must choose between a new dam and new classrooms. In each case the resource is finite, the wants placed on it are unlimited, and a choice with a cost attached follows. This is why the economic problem is the starting point of the whole subject: every later topic is about how a society answers the question the problem forces - what to produce, how, and for whom.",
+   "claim_ids": [
+    "CLM-0455-1.1-001",
+    "CLM-0455-1.1-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.1-001": 1,
+    "CLM-0455-1.1-002": 1
+   },
+   "authored_hash": "4de146768a2699c9beb59a6ab2ffdd0bcd67bba3097a390d8d9de7e16596b2cb"
+  },
+  {
+   "block_id": "1.1.1-b4",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Because choice is forced, every choice has an opportunity cost, which topic 1.3 develops; and because resources are finite, an economy cannot have more of everything at once, which the production possibility curve of topic 1.4 shows as a boundary.",
+   "claim_ids": [
+    "CLM-0455-1.1-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.1-001": 1
+   },
+   "authored_hash": "6d4eb3f40f9b7405d7893d07ad66a6cc009362655e2510a63da06fc361629dc7"
+  }
+ ],
+ "word_count": 329
+}

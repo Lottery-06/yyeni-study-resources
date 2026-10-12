@@ -1,0 +1,104 @@
+{
+ "unit_id": "CU-0455-1.4.1",
+ "title": "What the curve shows",
+ "objective_ids": [
+  "OBJ-0455-1.4.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_diagram",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 250,
+  "target": 305,
+  "max": 360
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "1.4.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define the production possibility curve, state the assumptions it is drawn under, and explain the shape it takes.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "f066b9b0f2230a7f3f7450d31404c73a48c0136fbbb901c118d3c9fad7b1479d"
+  },
+  {
+   "block_id": "1.4.1-b2",
+   "block_type": "definition",
+   "heading": "The boundary of the possible",
+   "text": "A production possibility curve (PPC) is a boundary showing the maximum combinations of two goods an economy can produce in a given period when its resources are employed fully and efficiently. Picture an economy that makes canned fish at Walvis Bay and maize meal at Otavi. Send every worker and every boat to fish and it lands one end of the boundary, say 30 000 tonnes of fish and no maize meal; send every worker to the mill and it lands the other end, 60 000 tonnes of maize meal and no fish. The PPC joins the maximum combinations between those two ends.",
+   "claim_ids": [
+    "CLM-0455-1.4-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.4-001": 1
+   },
+   "authored_hash": "224b346062279768eaea32431b828f194adb879197e22cc13fd59466b52f5ae8"
+  },
+  {
+   "block_id": "1.4.1-b3",
+   "block_type": "plain_explanation",
+   "heading": "The assumptions beneath the drawing",
+   "text": "The curve is drawn for a given state of resources and technology: the stock of workers, boats, looms and land, and the know-how worked into them, are held unchanged for the period the curve covers. Two goods are shown because a flat drawing cannot carry more than two axes; real economies make thousands of goods, so a PPC for Japan groups everything into two bundles - vehicles at one axis and all other output at the other - and the boundary between them shows the same trade-off.",
+   "claim_ids": [
+    "CLM-0455-1.4-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.4-002": 1
+   },
+   "authored_hash": "af766a46ce6abe8d3071ab5ca423334688cee8d51481305abda04cb59b7b511f"
+  },
+  {
+   "block_id": "1.4.1-b4",
+   "block_type": "analysis_chain",
+   "heading": "Why it slopes down and bows out",
+   "text": "The boundary slopes downward from left to right because resources are scarce: producing one more tonne of maize meal means pulling workers and tins off the fish line, so fish output falls, and that sacrifice is the opportunity cost of the maize. The curve tends to bow outward because resources are not equally suited to both uses: the first cooks moved from the cannery to the mill cost little fish, because they were poor at canning; the last ones cost a great deal. The trade-off grows as a move along the boundary continues.",
+   "claim_ids": [
+    "CLM-0455-1.4-003",
+    "CLM-0455-1.4-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.4-003": 1,
+    "CLM-0455-1.4-004": 1
+   },
+   "authored_hash": "bbac27cb408b6f8f3050725a879bcac815f5a95f91a1e19cc57f78b4db9127b2"
+  },
+  {
+   "block_id": "1.4.1-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The sacrifice measured along the boundary is the opportunity cost of topic 1.3 made visible; where an economy can sit relative to the boundary - under it, on it or beyond it - is the next section.",
+   "claim_ids": [
+    "CLM-0455-1.4-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.4-003": 1
+   },
+   "authored_hash": "54262fcf02972e97f153d6fa799fae8ffa243ef6e5ba565ade4862cc4445ce22"
+  }
+ ],
+ "word_count": 360
+}

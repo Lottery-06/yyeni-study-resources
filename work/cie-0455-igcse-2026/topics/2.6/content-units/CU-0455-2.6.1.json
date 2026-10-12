@@ -1,0 +1,103 @@
+{
+ "unit_id": "CU-0455-2.6.1",
+ "title": "Why market prices change",
+ "objective_ids": [
+  "OBJ-0455-2.6.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 250,
+  "target": 305,
+  "max": 360
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.6.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Explain the causes of price changes: how a change in a market condition shifts demand or supply, how the shift moves a market to a new equilibrium price, and how to tell a cause from a consequence.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "90942ce6a57b651c406e38b9ec3f3a9a87d73b2cc071a2b83f89b418ffff1c24"
+  },
+  {
+   "block_id": "2.6.1-b2",
+   "block_type": "definition",
+   "heading": "Equilibrium price and what moves it",
+   "text": "The equilibrium price is the price at which the quantity consumers are willing and able to buy equals the quantity sellers are willing and able to offer, so the market clears. At the Otavi milk depot, N$10 a litre clears the market when the 900 litres offered each week match the 900 litres taken. The causes of price changes are changes in market conditions: a change in a condition of demand, such as incomes or tastes, shifts the demand curve; a change in a condition of supply, such as input costs or the weather, shifts the supply curve. Once a curve shifts, the old price no longer clears.",
+   "claim_ids": [
+    "CLM-0455-2.6-001",
+    "CLM-0455-2.6-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.6-001": 1,
+    "CLM-0455-2.6-002": 1
+   },
+   "authored_hash": "977ab8a8dd7686f6a989b4fa048c18bf3705ee9a943e075fbb0dec4bdbfe0a01"
+  },
+  {
+   "block_id": "2.6.1-b3",
+   "block_type": "worked_application",
+   "heading": "A flood at the Oshakati market",
+   "text": "Floods destroy the vegetable gardens around Oshakati, so growers bring fewer bags to the weekend market at each price: the supply curve shifts left. At the old price of N$20 a bag, buyers want more bags than growers offer, so the price is bid up until, at N$26, the quantity demanded matches the smaller quantity supplied. The weather caused the rise; the rise is its consequence. A bakery in Munich lives the same chain when a poor wheat harvest makes flour dearer.",
+   "claim_ids": [
+    "CLM-0455-2.6-002",
+    "CLM-0455-2.6-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.6-002": 1,
+    "CLM-0455-2.6-004": 1
+   },
+   "authored_hash": "ac7f7cb58af2807ca0bb8ac5af51c7cd33db9361f6975eab303177c5b22af075"
+  },
+  {
+   "block_id": "2.6.1-b4",
+   "block_type": "comparison",
+   "heading": "Cause or consequence?",
+   "text": "The confusion learners make: naming the price change as its own cause. The boundary: a change in the good's own price moves the market along unchanged curves, and is what a shift has already caused; a change in a market condition shifts a whole curve, and is what causes the price to change. The test: ask which side moved first. The flood cut the harvest, supply shifted left, and the price followed - not the other way round.",
+   "claim_ids": [
+    "CLM-0455-2.6-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.6-003": 1
+   },
+   "authored_hash": "625b31eec50661c0604b49f1d3fc382a672cc468056e66e304cd8c14b4ebb035"
+  },
+  {
+   "block_id": "2.6.1-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Demand is built in topic 2.3 and supply in topic 2.4; the equilibrium the two set together is found in topic 2.5. Topic 2.7 then asks how strongly buyers respond to a new price.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "5eae464e3c992c92f075afd811e216bf7a82381b78723d2301424d351dfb7ef9"
+  }
+ ],
+ "word_count": 359
+}

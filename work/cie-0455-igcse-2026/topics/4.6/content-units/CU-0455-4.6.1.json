@@ -1,0 +1,106 @@
+{
+ "unit_id": "CU-0455-4.6.1",
+ "title": "What economic growth means",
+ "objective_ids": [
+  "OBJ-0455-4.6.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_definition",
+ "depth_tier": 1,
+ "word_budget": {
+  "min": 273,
+  "target": 333,
+  "max": 393
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "4.6.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define economic growth, tell it apart from a one-off rise in output, and place it beside the ideas it is often mixed up with.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "2a0fad6f6e6edb44b9c170de555fc1c3cc1482df03fea8f2a7c9661af1bb5c35"
+  },
+  {
+   "block_id": "4.6.1-b2",
+   "block_type": "definition",
+   "heading": "The definition and its boundary",
+   "text": "Economic growth is the sustained increase in an economy's real output of goods and services over time, measured by the rise in real Gross Domestic Product. Each word carries weight. Sustained means the rise runs across years, not a single quarter. Real means the rise is stripped of price changes, so output that looks bigger because prices rose does not count. Output means what the economy produces: goods such as steel and maize alongside services such as banking and tourism. The boundary matters too: a return to a previous peak after a downturn is a recovery, and growth means going beyond what the economy produced before.",
+   "claim_ids": [
+    "CLM-0455-4.6-001",
+    "CLM-0455-4.6-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.6-001": 1,
+    "CLM-0455-4.6-002": 1
+   },
+   "authored_hash": "2e5345cbb8b98a676e414a1340b1b6e37f3028aa99e5dbb41412dbbfe298c290"
+  },
+  {
+   "block_id": "4.6.1-b3",
+   "block_type": "example",
+   "heading": "Two economies over a decade",
+   "text": "Take two economies over a decade. In one, lodges round Etosha, farms and workshops each add a little output in most years, and the region's real GDP climbs from N$1 000 million to N$1 200 million over ten years; that sustained climb is growth. In the other, a single mine opens, output jumps for two years and slips back; that one-off rise is not growth, because growth asks what happened over years, not what one lucky year did. Vietnam's rise from a mostly farming economy to an industrial one shows the same idea outside southern Africa: it was the decade of climbing output, not any single year, that growth names.",
+   "claim_ids": [
+    "CLM-0455-4.6-001",
+    "CLM-0455-4.6-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.6-001": 1,
+    "CLM-0455-4.6-002": 1
+   },
+   "authored_hash": "8f2acef754e1f3a23a752505d7a3fd5c1dce91f7fad44ea024820232d17bcb34"
+  },
+  {
+   "block_id": "4.6.1-b4",
+   "block_type": "comparison",
+   "heading": "Growth is not development",
+   "text": "Economic growth is about output; economic development, taught in topic 5.1, is about how life changes for people - health, education, what people can afford. Growth tends to help development along, since a bigger output gives more to spend on schools and clinics, yet the two are told apart by what they measure, and one can move without the other.",
+   "claim_ids": [
+    "CLM-0455-4.6-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.6-003": 1
+   },
+   "authored_hash": "9a09e3f1d71d937db7f73d96720351e558212adc64b8e82847ab760faae64eba"
+  },
+  {
+   "block_id": "4.6.1-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The production possibility curve of topic 1.4 is the picture on which growth is drawn, the macroeconomic aims of topic 4.2 name growth as one of the government's targets, and topic 5.1 takes the story from output to development.",
+   "claim_ids": [
+    "CLM-0455-4.6-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.6-003": 1
+   },
+   "authored_hash": "2519a4e6afbf230f8892b7dc12d94d27eeaf039193d2f5332d7b9c824a4332ae"
+  }
+ ],
+ "word_count": 358
+}

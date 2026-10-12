@@ -1,0 +1,595 @@
+{
+ "ledger_id": "CLM-LEDGER-0455-IGCSE-2.7",
+ "claims": [
+  {
+   "claim_id": "CLM-0455-2.7-001",
+   "objective_ids": [
+    "OBJ-0455-2.7.1"
+   ],
+   "text": "Price elasticity of demand (PED) measures how strongly the quantity demanded of a good responds to a change in its own price.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-002",
+   "objective_ids": [
+    "OBJ-0455-2.7.2"
+   ],
+   "text": "PED is calculated as the percentage change in quantity demanded divided by the percentage change in price.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-003",
+   "objective_ids": [
+    "OBJ-0455-2.7.2"
+   ],
+   "text": "PED is stated as an absolute value: the negative sign that the law of demand produces is dropped by convention, so PED is compared with 1 without the sign.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-004",
+   "objective_ids": [
+    "OBJ-0455-2.7.2"
+   ],
+   "text": "Demand is price-elastic when its PED value is greater than 1: quantity demanded changes by a larger percentage than price changed.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-005",
+   "objective_ids": [
+    "OBJ-0455-2.7.2"
+   ],
+   "text": "Demand is price-inelastic when its PED value lies between 0 and 1: quantity demanded changes by a smaller percentage than price changed.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-006",
+   "objective_ids": [
+    "OBJ-0455-2.7.2"
+   ],
+   "text": "The responsiveness shown by a demand curve is read from its slope in relation to the axes: a curve drawn steeply against the price axis suggests a given price change moves quantity demanded little, while a flatter curve suggests quantity demanded moves far for the same price change.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-007",
+   "objective_ids": [
+    "OBJ-0455-2.7.2"
+   ],
+   "text": "The whole quantity range matters when classifying elasticity: the same demand curve can hold a stretch where demand is elastic and another where it is inelastic.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-008",
+   "objective_ids": [
+    "OBJ-0455-2.7.2"
+   ],
+   "text": "On a demand curve drawn as a straight line, demand tends to be elastic at high prices and small quantities and inelastic at low prices and large quantities.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-009",
+   "objective_ids": [
+    "OBJ-0455-2.7.2"
+   ],
+   "text": "In a demand diagram, elasticity is seen by comparing how far the point moves along the quantity axis against how far it moves along the price axis.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-010",
+   "objective_ids": [
+    "OBJ-0455-2.7.3"
+   ],
+   "text": "The main determinants of PED are the availability and closeness of substitute goods, the proportion of income the purchase takes, whether the good is a necessity or a luxury, the width of the market defined, and the length of time since the price changed.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-011",
+   "objective_ids": [
+    "OBJ-0455-2.7.3"
+   ],
+   "text": "Demand for a good with close substitutes that are easy to switch to tends to be price-elastic, because a price rise pushes buyers towards the substitute.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-012",
+   "objective_ids": [
+    "OBJ-0455-2.7.3"
+   ],
+   "text": "Demand for a good that takes a small share of a consumer's income tends to be price-inelastic, because even a sizeable percentage price rise changes the household budget little.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-013",
+   "objective_ids": [
+    "OBJ-0455-2.7.3"
+   ],
+   "text": "Demand for a necessity tends to be price-inelastic, while demand for a luxury tends to be price-elastic, because a necessity is bought even at a higher price while a luxury can be postponed or dropped.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-014",
+   "objective_ids": [
+    "OBJ-0455-2.7.3"
+   ],
+   "text": "A narrowly defined market tends to have more elastic demand than a widely defined one, because a narrow market is the one whose substitutes sit next door.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-015",
+   "objective_ids": [
+    "OBJ-0455-2.7.3"
+   ],
+   "text": "Demand tends to become more responsive to a price change as the time since the change lengthens, because habits, contracts and information adjust slowly.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-016",
+   "objective_ids": [
+    "OBJ-0455-2.7.3",
+    "OBJ-0455-2.7.1"
+   ],
+   "text": "What the elasticity figure measures is sometimes confused with what makes it that size: the calculation of PED is arithmetic on two percentage changes, while the determinants are the features of the product and its market that explain the figure.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-017",
+   "objective_ids": [
+    "OBJ-0455-2.7.4"
+   ],
+   "text": "Total spending by consumers on a good, which equals the seller's revenue from it, is calculated as the price multiplied by the quantity sold.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-018",
+   "objective_ids": [
+    "OBJ-0455-2.7.4"
+   ],
+   "text": "Where demand is price-inelastic, a price rise tends to raise total spending on the good, because quantity demanded falls by a smaller percentage than the price rose.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-019",
+   "objective_ids": [
+    "OBJ-0455-2.7.4"
+   ],
+   "text": "Where demand is price-elastic, a price rise tends to lower total spending on the good, because quantity demanded falls by a larger percentage than the price rose; the mirror rule, that a price rise raises spending, holds only where demand is price-inelastic.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-020",
+   "objective_ids": [
+    "OBJ-0455-2.7.4"
+   ],
+   "text": "In a demand diagram, total spending at a price is read as the rectangle under the demand curve at that point: its height is the price and its base is the quantity demanded, so a price movement changes spending according to how the rectangle's area responds.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-021",
+   "objective_ids": [
+    "OBJ-0455-2.7.4"
+   ],
+   "text": "Revenue and profit are different quantities: revenue is all the money coming in from sales, while profit is what remains after the costs of production are paid, so a revenue change alone settles nothing about profit.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-022",
+   "objective_ids": [
+    "OBJ-0455-2.7.4"
+   ],
+   "text": "Spending on one product is not the same as total demand in an economy: the elasticity in this topic is the responsiveness of buyers of one good, examined one market at a time.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-023",
+   "objective_ids": [
+    "OBJ-0455-2.7.4"
+   ],
+   "text": "Comparing a total with an average is a different calculation: total spending is price times quantity over the whole market, while an average figure divides a total by a count, and the two must not be exchanged.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-024",
+   "objective_ids": [
+    "OBJ-0455-2.7.5"
+   ],
+   "text": "A producer deciding the price of its product is likely to weigh PED because the effect of a price change on its revenue depends on whether demand for the product is elastic or inelastic.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-025",
+   "objective_ids": [
+    "OBJ-0455-2.7.5"
+   ],
+   "text": "A government choosing an indirect tax is likely to weigh PED, because a tax tends to raise more revenue where demand is price-inelastic, since quantity demanded falls little when the tax pushes the price up.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-026",
+   "objective_ids": [
+    "OBJ-0455-2.7.5"
+   ],
+   "text": "Where a government wants a tax to change behaviour rather than to raise money, it is likely to pick goods whose demand is price-elastic, because the quantity bought responds to the price rise the tax causes.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-027",
+   "objective_ids": [
+    "OBJ-0455-2.7.5"
+   ],
+   "text": "PED is usually estimated from past market data, so decisions that lean on it carry the risk that the elasticity measured yesterday drifts as substitutes, incomes and tastes change.",
+   "claim_type": "evaluative",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.7-028",
+   "objective_ids": [
+    "OBJ-0455-2.7.5",
+    "OBJ-0455-2.7.1"
+   ],
+   "text": "Price elasticity of demand is sometimes confused with price elasticity of supply: the demand version measures how buyers respond to a price change, while the supply version, taught in topic 2.8, measures how sellers respond.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  }
+ ]
+}

@@ -2,7 +2,7 @@
  "contract_id": "CONTRACT-0455-6.3",
  "topic_id": "6.3",
  "topic_title": "Foreign exchange rates",
- "unit": "Unit 6 — International trade and globalisation",
+ "unit": "Unit 6 \u2014 International trade and globalisation",
  "qualification": "cie-0455-igcse-2026",
  "standard_version": "0.2.0-draft",
  "generated_at": "2026-09-29T07:34:10Z",
@@ -136,7 +136,7 @@
    "min": 1410,
    "max": 2030
   },
-  "item_budget": 28,
+  "item_budget": 20,
   "excluded_constructs": [
    {
     "construct": "a market-failure diagram",
@@ -171,20 +171,20 @@
   ],
   "excluded_constructs_stated_by_syllabus": [],
   "adjacent_topics": [
-   "Demand — taught in topic 2.3",
-   "Supply — taught in topic 2.4",
-   "Price determination — taught in topic 2.5",
-   "Price changes — taught in topic 2.6"
+   "Demand \u2014 taught in topic 2.3",
+   "Supply \u2014 taught in topic 2.4",
+   "Price determination \u2014 taught in topic 2.5",
+   "Price changes \u2014 taught in topic 2.6"
   ],
-  "excluded_constructs_source": "excluded_constructs are the limits the syllabus states anywhere in the subject, each as the pattern C-11 scans learner-facing text for (curriculum/scope-scan.json): the sentence is Cambridge’s, the pattern is our judgement of what teaching past it looks like, and any match fails the topic. adjacent_topics are not scanned: they name subject matter a neighbouring topic owns. Naming one in passing is fine and often necessary; teaching it here is scope creep."
+  "excluded_constructs_source": "excluded_constructs are the limits the syllabus states anywhere in the subject, each as the pattern C-11 scans learner-facing text for (curriculum/scope-scan.json): the sentence is Cambridge\u2019s, the pattern is our judgement of what teaching past it looks like, and any match fails the topic. adjacent_topics are not scanned: they name subject matter a neighbouring topic owns. Naming one in passing is fine and often necessary; teaching it here is scope creep."
  },
  "required_outputs": {
   "claim_ledger": true,
   "content_units": 5,
-  "learning_items": 28,
+  "learning_items": 20,
   "notes": true
  },
  "misconceptions": "curriculum/misconceptions.json (filter on topic_id \"6.3\")",
  "subtype_waivers": [],
- "item_budget_note": "Set from the generated work order, which is the operative plan. The exposure estimate that seeded it was 28."
+ "item_budget_note": "Set from the generated work order, which is the operative plan. The exposure estimate that seeded it was 20."
 }

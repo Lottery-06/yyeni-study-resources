@@ -1,0 +1,98 @@
+{
+ "unit_id": "CU-0455-4.3.5",
+ "title": "What makes a tax good",
+ "objective_ids": [
+  "OBJ-0455-4.3.5"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_concept",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 274,
+  "target": 334,
+  "max": 395
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "4.3.5-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "State the principles a tax system is judged against, and read them off a working system.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "d7f9e15a4a75fb842dcf2c4f5c9292acf6f08bd4789804afddb722442f0f2bf1"
+  },
+  {
+   "block_id": "4.3.5-b2",
+   "block_type": "plain_explanation",
+   "heading": "The four principles",
+   "text": "Adam Smith's principles still frame the judgement. Equity: those with a greater ability to pay bear a larger share. Certainty: the payer knows what is due, when it is due, and how it is to be paid. Convenience: payment falls due where and when it is easy to pay. Economy: the tax costs little to collect relative to what it raises. Each principle is a standard the system is held to, not a description of any one tax.",
+   "claim_ids": [
+    "CLM-0455-4.3-018",
+    "CLM-0455-4.3-019"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.3-018": 1,
+    "CLM-0455-4.3-019": 1
+   },
+   "authored_hash": "7293ce3b1e5a66b12d70bd5e0dc20616ecacf153437f62d5fa512e0c6188ebae"
+  },
+  {
+   "block_id": "4.3.5-b3",
+   "block_type": "worked_application",
+   "heading": "The principles in a payslip",
+   "text": "Pay-as-you-earn income tax shows three of them at once. A machinist at Oshakati Textiles has income tax taken from each month's wage by the employer and passed to the revenue authority: nothing further is owed later, no journey to a tax office - convenience; the rates and bands were published before the year began - certainty; the employer's payroll collects it with little extra cost - economy. In Japan, salary withholding works the same way, and for the same reasons.",
+   "claim_ids": [
+    "CLM-0455-4.3-020"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.3-020": 1
+   },
+   "authored_hash": "0b99f5a3ff76e3c078520bbe74fec3627882b32494646d93ec683f274b776097"
+  },
+  {
+   "block_id": "4.3.5-b4",
+   "block_type": "evaluation",
+   "heading": "Where the principles pull apart",
+   "text": "A market levy that takes the same N$20 from every trader in Katutura whatever her takings scores well on economy - one collector, one round - and badly on equity, since N$20 from a thin day is a heavier share than from a good one. The principles pull against one another, and a tax system trades among them: simplicity bought at the price of fairness is a choice, not an accident.",
+   "claim_ids": [
+    "CLM-0455-4.3-019"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO3"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.3-019": 1
+   },
+   "authored_hash": "f13b65af14190ef412db4c52e8191d6b4e3a5422f30af40d1a11ba26eef41641"
+  },
+  {
+   "block_id": "4.3.5-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The fairness aimed at here returns in topic 4.2 as the redistribution the tax system serves; the households whose wages are taxed are those of topic 3.2.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [],
+   "claims_seen": {},
+   "authored_hash": "001a5573c1bbd6a00e3f53795fea9495efcd4a8a297f5aa590282eacefab7a40"
+  }
+ ],
+ "word_count": 290
+}

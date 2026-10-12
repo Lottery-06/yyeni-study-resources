@@ -1,0 +1,488 @@
+{
+ "ledger_id": "CLM-LEDGER-0455-IGCSE-4.6",
+ "claims": [
+  {
+   "claim_id": "CLM-0455-4.6-001",
+   "objective_ids": [
+    "OBJ-0455-4.6.1"
+   ],
+   "text": "Economic growth is the sustained increase in an economy's real output of goods and services over time, measured by the rise in real Gross Domestic Product.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.6-002",
+   "objective_ids": [
+    "OBJ-0455-4.6.1"
+   ],
+   "text": "Growth asks what happens over years, not quarters: a one-off rise in output in a single year, such as the opening of one mine, is not growth, and a return to a previous peak after a downturn is a recovery rather than growth.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.6-003",
+   "objective_ids": [
+    "OBJ-0455-4.6.1"
+   ],
+   "text": "Economic growth is about total output, whereas economic development, taught in topic 5.1, is about how life changes for people; growth tends to help development along, since a bigger output gives more to spend on schools and clinics, yet the two are told apart by what they measure.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.6-004",
+   "objective_ids": [
+    "OBJ-0455-4.6.2"
+   ],
+   "text": "Real Gross Domestic Product is the value of all the final goods and services an economy produces in a year, measured at constant prices so that price rises alone cannot make output seem larger; nominal GDP is the same yearly production valued at current prices.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.6-005",
+   "objective_ids": [
+    "OBJ-0455-4.6.2"
+   ],
+   "text": "The annual rate of economic growth is measured by the formula: growth rate = (real GDP in the later year - real GDP in the earlier year) / real GDP in the earlier year x 100, which gives a percentage.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.6-006",
+   "objective_ids": [
+    "OBJ-0455-4.6.2"
+   ],
+   "text": "GDP per head is real GDP divided by the population; it states the average output per person and is the figure used to compare average living standards between economies or across years.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.6-007",
+   "objective_ids": [
+    "OBJ-0455-4.6.2"
+   ],
+   "text": "Total real GDP may rise while GDP per head stands still where population grows as fast as output, and because GDP per head is an average it may hide how output is shared among households.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.6-008",
+   "objective_ids": [
+    "OBJ-0455-4.6.3"
+   ],
+   "text": "A recession is a period in which an economy's real GDP falls for two successive quarters or longer, so total output is contracting rather than growing.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.6-009",
+   "objective_ids": [
+    "OBJ-0455-4.6.3"
+   ],
+   "text": "A recession may be caused by a fall in total demand - households cutting spending, firms delaying investment, export orders dropping - or by events that squeeze credit and raise costs, and the fall feeds itself as laid-off workers spend less.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.6-010",
+   "objective_ids": [
+    "OBJ-0455-4.6.3"
+   ],
+   "text": "In a recession the economy moves to a point inside its production possibility curve: workers and machines stand idle, so the economy produces below its capacity while the curve itself, which shows what it could produce, stays where it was.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.6-011",
+   "objective_ids": [
+    "OBJ-0455-4.6.3"
+   ],
+   "text": "The consequences of a recession tend to include rising unemployment, falling household incomes, business failures, lower investment, less tax revenue for the government and higher spending on benefits.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.6-012",
+   "objective_ids": [
+    "OBJ-0455-4.6.3"
+   ],
+   "text": "The causes and the consequences of a recession are told apart by the direction events run in: causes come before the downturn and produce it, such as falling demand or a credit squeeze, while consequences follow from it, such as unemployment and business failures; the test is to ask whether the item itself needs the recession to have happened first.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.6-013",
+   "objective_ids": [
+    "OBJ-0455-4.6.4"
+   ],
+   "text": "Where an economy produces inside its production possibility curve, a rise in total demand employs idle workers and machines, so the economy moves toward the curve and real GDP rises without the economy's capacity changing.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.6-014",
+   "objective_ids": [
+    "OBJ-0455-4.6.4"
+   ],
+   "text": "A rise in the economy's capacity shifts the production possibility curve outward, and its causes are investment in new capital, improvements in technology, and a larger or better-skilled supply of the factors of production.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.6-015",
+   "objective_ids": [
+    "OBJ-0455-4.6.4"
+   ],
+   "text": "The movement toward the curve and the outward shift of the curve are different events: the first uses capacity the economy already had, while the second creates capacity it did not have; the test is to ask what happened to the maximum possible output.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.6-016",
+   "objective_ids": [
+    "OBJ-0455-4.6.5"
+   ],
+   "text": "Where its gains are shared out across households, economic growth tends to raise incomes, create jobs and lift government tax revenue, easing the financing of public services, and average living standards tend to rise with output per person provided the gains are distributed rather than held by a few.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.6-017",
+   "objective_ids": [
+    "OBJ-0455-4.6.5"
+   ],
+   "text": "Economic growth may carry costs: demand pressing on capacity may push prices up, expansion may impose costs on others such as pollution and depleted resources, and devoting resources to capital goods has an opportunity cost in consumer goods given up now.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.6-018",
+   "objective_ids": [
+    "OBJ-0455-4.6.5"
+   ],
+   "text": "The balance of growth's costs and benefits differs between economies: an economy with idle resources gains quickly from growth that employs them, an economy producing near capacity may see mostly price pressure, and a lower-income economy may weigh income gains more heavily than the costs imposed on others, while a higher-income economy may weigh those costs more heavily.",
+   "claim_type": "evaluative",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.6-019",
+   "objective_ids": [
+    "OBJ-0455-4.6.6"
+   ],
+   "text": "Policies to promote economic growth are macroeconomic policies, measures that act on the whole economy rather than on a single market or firm; they include demand-side measures that raise total spending and supply-side measures that raise capacity.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.6-020",
+   "objective_ids": [
+    "OBJ-0455-4.6.6"
+   ],
+   "text": "Supply-side measures promote growth by raising the economy's capacity: education and training raise the skills of workers, infrastructure lowers the cost of moving goods, and incentives such as lower direct taxes strengthen the reward from work and investment, so the production possibility curve tends to shift outward over the years they take to work.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.6-021",
+   "objective_ids": [
+    "OBJ-0455-4.6.6"
+   ],
+   "text": "Demand-side measures promote growth where the economy has spare capacity: higher public spending, tax cuts or a lower interest rate raise total spending, idle resources are employed and the economy moves toward its production possibility curve; where the economy already produces at capacity, extra spending tends to raise prices rather than output.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.6-022",
+   "objective_ids": [
+    "OBJ-0455-4.6.6"
+   ],
+   "text": "How well a growth policy works depends on where the economy stands: with idle resources, demand-side measures can lift output within a year or two, while an economy producing at its boundary needs capacity-raising measures that arrive slowly and need sustained finance and good delivery.",
+   "claim_type": "evaluative",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.6-023",
+   "objective_ids": [
+    "OBJ-0455-4.6.6"
+   ],
+   "text": "Macroeconomic policies and microeconomic policies are told apart by the level they act on: a macroeconomic policy works on economy-wide totals such as total spending, capacity and the general level of prices, while a microeconomic policy works on a single market, industry or firm; the test is to ask what the measure reaches - the whole economy, or one part of it.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "unit_id": "CU-0455-6.3.1",
+ "title": "The price of one money in terms of another",
+ "objective_ids": [
+  "OBJ-0455-6.3.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_definition",
+ "depth_tier": 1,
+ "word_budget": {
+  "min": 282,
+  "target": 344,
+  "max": 406
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "6.3.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define the foreign exchange rate, read a quotation in either direction, and keep the term separate from the characteristics and the functions of money.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "b4c6d305539bbe44cc2f96096451fdd70496526548b96dc5042a9859bde4e73b"
+  },
+  {
+   "block_id": "6.3.1-b2",
+   "block_type": "definition",
+   "heading": "The definition",
+   "text": "The foreign exchange rate is the price of one currency expressed in terms of another: the number of units of one currency needed to buy one unit of the other. A bank screen in Windhoek quoting N$18.50 per US$1 states that one US dollar costs 18.50 Namibian dollars. A quotation names two currencies and a direction: the same rate read the other way round states how many US dollars one Namibian dollar buys, and the two readings are reciprocals of each other. A quotation also belongs to a moment, because the price moves as the market behind it moves.",
+   "claim_ids": [
+    "CLM-0455-6.3-001",
+    "CLM-0455-6.3-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.3-001": 1,
+    "CLM-0455-6.3-002": 1
+   },
+   "authored_hash": "a9d3abb70a0ffd74be335a949f6993e5c804a5c56ab847fc97cc06e1a0716115"
+  },
+  {
+   "block_id": "6.3.1-b3",
+   "block_type": "worked_application",
+   "heading": "One rate, two price tags",
+   "text": "Follow the rate into two price tags. A Katutura electronics shop imports a music system priced US$400: at N$18.50 per US$1 the shop pays 400 x 18.50 = N$7 400, so the home price of an import depends on the rate as well as on the foreign price. In the other direction, a German buyer of Namibian dried fruit converts the Namibian-dollar price into euros with the same rate, so one quoted price reaches two currencies through the exchange rate. When the rate moves, both price tags change although neither seller changed the quoted price.",
+   "claim_ids": [
+    "CLM-0455-6.3-001",
+    "CLM-0455-6.3-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.3-001": 1,
+    "CLM-0455-6.3-004": 1
+   },
+   "authored_hash": "bebdc201a4257254eead65ab6c1de7c835594c70b8828e66e8c1b9d24a641884"
+  },
+  {
+   "block_id": "6.3.1-b4",
+   "block_type": "misconception",
+   "heading": "Not a characteristic, not a function",
+   "text": "Answers on this objective sometimes offer the characteristics of money - durable, portable, acceptable - or its functions - a medium of exchange, a store of value. The boundary: a characteristic is a property money has, a function is a use money serves, and the exchange rate is a price between two currencies, how much of one the other buys. The test: ask whether the statement names a price between two currencies or a property or a use of money itself; the first is an exchange rate, the second and third belong to the topic on money.",
+   "claim_ids": [
+    "CLM-0455-6.3-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.3-003": 1
+   },
+   "authored_hash": "e5cd99d8395b916278e6d265e331170de78b86d7fd2e9315c0674ec69f969cb7"
+  },
+  {
+   "block_id": "6.3.1-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "A foreign exchange rate is a price, and prices come from demand and supply - the demand of topic 2.3 and the supply of topic 2.4 meet to determine a price in topic 2.5. The trade and payment flows that create currency demand belong to topics 6.1 and 6.2.",
+   "claim_ids": [
+    "CLM-0455-6.3-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.3-002": 1
+   },
+   "authored_hash": "5090d1e40ef3d474ea48da05379876d94154b7a5982d93294d30e73bf7fc3ecd"
+  }
+ ],
+ "word_count": 382
+}

@@ -1,0 +1,102 @@
+{
+ "unit_id": "CU-0455-3.7.1",
+ "title": "What production costs are",
+ "objective_ids": [
+  "OBJ-0455-3.7.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_definition",
+ "depth_tier": 1,
+ "word_budget": {
+  "min": 264,
+  "target": 322,
+  "max": 380
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "3.7.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define the costs of production, and sort a firm's payments into fixed costs and variable costs.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "4b7707ff67e7cebb4ed6f2197974c7ab5df800220ee963f44c1c1ca81e8d73a8"
+  },
+  {
+   "block_id": "3.7.1-b2",
+   "block_type": "definition",
+   "heading": "The payments the firm itself makes",
+   "text": "The costs of production are the payments a firm makes for the inputs it uses in producing its output, and its total cost is the sum of its fixed costs and its variable costs. A bakery in Otjiwarongo pays rent for its shop, wages to its bakers, and the flour, yeast and electricity its ovens consume; added up over a month, these payments are the firm's costs of production. A fish cannery at Walvis Bay makes the same kinds of payment for premises, people and materials. What matters at this level is that each cost is a payment the firm itself makes.",
+   "claim_ids": [
+    "CLM-0455-3.7-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.7-001": 1
+   },
+   "authored_hash": "c66557515adb8bfbc3b7985bd5fe244538d12fbd67ee6837094288cafa7ae246"
+  },
+  {
+   "block_id": "3.7.1-b3",
+   "block_type": "components",
+   "heading": "Fixed and variable costs",
+   "text": "Costs divide by how they respond to output. A fixed cost does not change with the level of output: rent, insurance and the lease on a printing press are paid at the same figure whether the firm makes one unit or one thousand. A variable cost changes in step with output: the vinyl and ink that Namib Signs burns, the fruit that Kaoko Juice bottles and the hours its casual pickers work rise and fall with the units made. A motor-parts maker in Germany faces the same split - its plant lease in Stuttgart is fixed, while its steel deliveries move with production.",
+   "claim_ids": [
+    "CLM-0455-3.7-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.7-002": 1
+   },
+   "authored_hash": "97198f7f3d6d5aaf5cadb976cd099681a3f4fdd0ec0b3c755cc61ac6c7ea838b"
+  },
+  {
+   "block_id": "3.7.1-b4",
+   "block_type": "misconception",
+   "heading": "The firm's costs and costs imposed on others",
+   "text": "Two ideas are often run together here: the firm's own costs of production, and costs imposed on people outside the firm. The firm's production costs are the payments it makes itself. External costs are the costs its activity imposes on others with no payment - a dairy whose wastewater fouls a river imposes a cost it does not pay. Social costs are the whole cost to society: the firm's own production costs together with the costs imposed on others. The test is who makes the payment.",
+   "claim_ids": [
+    "CLM-0455-3.7-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.7-003": 1
+   },
+   "authored_hash": "5032ffaeaf0492a2df5228f4eac36ec59c944b80592116cba77b5ad125ad37ac"
+  },
+  {
+   "block_id": "3.7.1-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The inputs behind these payments are the factors of production of topic 1.2; what the firm earns against them is revenue, from section 3.7.3; and how a firm judges its performance once costs and revenue are known is section 3.7.5.",
+   "claim_ids": [
+    "CLM-0455-3.7-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.7-001": 1
+   },
+   "authored_hash": "cf5b24563f4e0209bfdf20db36ce360bac0a29da04a46f1b32aaa855b3350b04"
+  }
+ ],
+ "word_count": 370
+}

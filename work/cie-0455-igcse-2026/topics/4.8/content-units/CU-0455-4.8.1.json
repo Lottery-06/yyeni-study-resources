@@ -1,0 +1,89 @@
+{
+ "unit_id": "CU-0455-4.8.1",
+ "title": "What inflation and deflation mean",
+ "objective_ids": [
+  "OBJ-0455-4.8.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_definition",
+ "depth_tier": 1,
+ "word_budget": {
+  "min": 250,
+  "target": 305,
+  "max": 360
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "4.8.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define inflation, define deflation, and tell a change in the general price level from a change in one price.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "4ab0e6575de5fd04cc50fe2ddf925de8e12894f32da4ff13a459a6200260dc27"
+  },
+  {
+   "block_id": "4.8.1-b2",
+   "block_type": "definition",
+   "heading": "Two directions of the general price level",
+   "text": "Inflation is a sustained rise in the general price level of an economy over a period, usually a year: prices on average rise, and a unit of money buys fewer goods than before. Deflation is the mirror image: a sustained fall in the general price level over a period, where prices on average fall and a unit of money buys more. Both are statements about the general level - the cost of the whole basket of goods and services a typical household buys - and neither describes a single good. A steady 4% yearly rise in prices and the long period of gently falling prices Japan lived through are the two directions of the same measurement.",
+   "claim_ids": [
+    "CLM-0455-4.8-001",
+    "CLM-0455-4.8-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.8-001": 1,
+    "CLM-0455-4.8-002": 1
+   },
+   "authored_hash": "0795475a55d20c57c850860283b92fb44f395cc30ac2bb61e56fef6ef3338a30"
+  },
+  {
+   "block_id": "4.8.1-b3",
+   "block_type": "misconception",
+   "heading": "A rise in one price is not inflation",
+   "text": "The boundary: a single price can rise while the general level is steady, because other prices may hold or fall. Bread becoming dearer at a Katutura market stall after a poor wheat harvest is a rise in one price; it becomes inflation where the rise spreads until the whole basket costs more than before. The test: ask what happened to the general price level, not to one good. A second boundary learners cross: a slower rise in prices is not deflation. Where prices rise 4% a year and then 2% a year, the general level is still rising, more slowly; deflation needs the level itself to fall, as when a price index falls from 120.0 to 117.6 - the level has fallen, not merely its rate of rise.",
+   "claim_ids": [
+    "CLM-0455-4.8-003",
+    "CLM-0455-4.8-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.8-003": 1,
+    "CLM-0455-4.8-004": 1
+   },
+   "authored_hash": "bf213c08c7ff775473e06297608a8b20c13a42d2c7e9826639724861f25afb1f"
+  },
+  {
+   "block_id": "4.8.1-b4",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The value of money is what these definitions turn on: the money supply is built in topic 4.4 and the price stability aim in topic 4.1. The index that measures the general level is built in the next section.",
+   "claim_ids": [
+    "CLM-0455-4.8-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.8-001": 1
+   },
+   "authored_hash": "ac295f4c3d547791ad746ce542d976e5c943d7aae786dd37bebb84721b58a94b"
+  }
+ ],
+ "word_count": 322
+}

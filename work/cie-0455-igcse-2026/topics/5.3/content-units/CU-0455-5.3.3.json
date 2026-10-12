@@ -1,0 +1,122 @@
+{
+ "unit_id": "CU-0455-5.3.3",
+ "title": "The effects of changes in population size and structure",
+ "objective_ids": [
+  "OBJ-0455-5.3.3"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 300,
+  "target": 365,
+  "max": 430
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "5.3.3-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define optimum population, analyse what happens as population size and structure change, and read the shape of a population from its pyramid.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "636527f2b79356c05569e60ad29b1c2dd6c5e1aa3abf2b1464ac2ea7419eb9da"
+  },
+  {
+   "block_id": "5.3.3-b2",
+   "block_type": "definition",
+   "heading": "Optimum population",
+   "text": "The optimum population is the size of population that, with a country's existing resources and technology, gives the highest output per person. Below it, too few workers make full use of the land and equipment available, so output per person sits lower than it could. Above it, extra people stretch resources and capital thin, so output per person falls. The optimum is not fixed: better technology, more equipment or new resources move it, so a country can grow into a population that once seemed too large.",
+   "claim_ids": [
+    "CLM-0455-5.3-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.3-009": 1
+   },
+   "authored_hash": "4fed8130755b13ac2829d8da3fc14762575c026049c6e8ba90a775628b052a28"
+  },
+  {
+   "block_id": "5.3.3-b3",
+   "block_type": "analysis_chain",
+   "heading": "When the population grows",
+   "text": "A rising population changes what a country needs. More children mean more school places: a fast-growing district may need new classrooms at Oshakati while the taxpayers who fund them rise more slowly. In time the extra children reach working age, and where jobs exist the labour supply grows, which can raise the economy's output. Where jobs, water or land do not keep pace, the arrivals count as dependants rather than earners, and output per person tends to fall. Brazil's cities grew this quickly: industry expanded, but housing and services lagged behind the arrivals.",
+   "claim_ids": [
+    "CLM-0455-5.3-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.3-010": 1
+   },
+   "authored_hash": "d5d4dfc9596dce43031817cd93e4a9ea0b2c7a0c5caa19ee27e18c8d1a04b44e"
+  },
+  {
+   "block_id": "5.3.3-b4",
+   "block_type": "plain_explanation",
+   "heading": "When the population ages and shifts",
+   "text": "A population can change in structure rather than size. Where the birth rate falls and life expectancy lengthens, the share of older people rises, as in Japan: the workforce shrinks relative to the retired, pension and health costs borne by the government and by workers climb, and firms face labour shortages. Where the share under 15 is large, schooling is paid for first and the taxes those children pay come much later. Gender distribution matters too: where men migrate alone for mining work, some regions hold more women of working age, shifting who supports households.",
+   "claim_ids": [
+    "CLM-0455-5.3-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.3-011": 1
+   },
+   "authored_hash": "f1f1aa4c6f2231ba8332a9cce19e30264c83e873324678ccdd86faf8049efd15"
+  },
+  {
+   "block_id": "5.3.3-b5",
+   "block_type": "interpretation",
+   "heading": "Reading a population pyramid",
+   "text": "A population pyramid sets the number or share of males and females at each age side by side, rising up the age groups. A wide base relative to the top indicates high birth rates and a young population. A narrow base with a broad upper section indicates low birth rates, longer lives and an ageing population. Reading it answers two questions: how fast the next generation of workers replaces the current one, and how heavy the dependent groups at the top and bottom are relative to the working ages between them.",
+   "claim_ids": [
+    "CLM-0455-5.3-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.3-012": 1
+   },
+   "authored_hash": "21c847c42ad80ed2b9333cb9bfd072a8fc58c156a768756f1b84d25134b066db"
+  },
+  {
+   "block_id": "5.3.3-b6",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Output per person here is the living standard of topic 5.1; workforce changes feed the growth measurement of topic 4.6.",
+   "claim_ids": [
+    "CLM-0455-5.3-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.3-010": 1
+   },
+   "authored_hash": "675566447b0a2d97760e0f47a9ccf5d0fd105a5a9698b894fee1091c6f03ae4b"
+  }
+ ],
+ "word_count": 428
+}

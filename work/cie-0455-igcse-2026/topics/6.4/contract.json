@@ -137,7 +137,7 @@
    "min": 1130,
    "max": 1620
   },
-  "item_budget": 33,
+  "item_budget": 22,
   "excluded_constructs": [
    {
     "construct": "a market-failure diagram",
@@ -177,10 +177,10 @@
  "required_outputs": {
   "claim_ledger": true,
   "content_units": 4,
-  "learning_items": 33,
+  "learning_items": 22,
   "notes": true
  },
  "misconceptions": "curriculum/misconceptions.json (filter on topic_id \"6.4\")",
  "subtype_waivers": [],
- "item_budget_note": "Set from the generated work order, which is the operative plan. The exposure estimate that seeded it was 33."
+ "item_budget_note": "Set from the generated work order, which is the operative plan. The exposure estimate that seeded it was 22."
 }

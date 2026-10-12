@@ -1,0 +1,105 @@
+{
+ "unit_id": "CU-0455-2.5.1",
+ "title": "Where demand meets supply",
+ "objective_ids": [
+  "OBJ-0455-2.5.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_diagram",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 290,
+  "target": 352,
+  "max": 415
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.5.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define market equilibrium, find the equilibrium price and quantity from a schedule or a diagram, and trace how a change in demand or supply carries a market to a new equilibrium.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "acd33eb8f4312edd2da78d8aa3f60271c58a5e6cc47f2f3b56a7eca206156be8"
+  },
+  {
+   "block_id": "2.5.1-b2",
+   "block_type": "definition",
+   "heading": "Equilibrium, defined",
+   "text": "Market equilibrium is the position of a market in which the quantity demanded equals the quantity supplied. The price at which the two match is the equilibrium price, and the quantity bought and sold there is the equilibrium quantity. At the Opuwo market, Kaoko Juice finds that at N$10 a bottle buyers are willing and able to take 100 bottles a week and sellers are willing and able to offer 100: the market clears - no bottles left over, no buyer walking away - so N$10 is the equilibrium price and 100 bottles the equilibrium quantity.",
+   "claim_ids": [
+    "CLM-0455-2.5-001",
+    "CLM-0455-2.5-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.5-001": 1,
+    "CLM-0455-2.5-002": 1
+   },
+   "authored_hash": "c8346a11bd4436aeac6358b22af58313417fd40107d90e46509d1c47dcfbf393"
+  },
+  {
+   "block_id": "2.5.1-b3",
+   "block_type": "worked_application",
+   "heading": "Finding the equilibrium from the schedules",
+   "text": "Work price by price. Kaoko Juice's demand schedule: at N$8 a bottle, 120 bottles a week are demanded; at N$10, 100; at N$12, 80. Its supply schedule: at N$8, 80 are offered; at N$10, 100; at N$12, 120. At N$8 buyers want 40 more than sellers offer, and at N$12 sellers offer 40 more than buyers take, so the match sits at N$10, where both sides stand at 100 bottles. On a diagram, price goes on the vertical axis and bottles a week on the horizontal; the demand curve slopes down, the supply curve slopes up, and their crossing point marks the equilibrium: N$10 and 100 bottles.",
+   "claim_ids": [
+    "CLM-0455-2.5-001",
+    "CLM-0455-2.5-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.5-001": 1,
+    "CLM-0455-2.5-003": 1
+   },
+   "authored_hash": "e7f2e03aff6f0c0cba89fee1376b5cdbc0ffe40c3e840f442dbb502b75dc69c1"
+  },
+  {
+   "block_id": "2.5.1-b4",
+   "block_type": "analysis_chain",
+   "heading": "A shift carries the market to a new equilibrium",
+   "text": "A good marula season raises the supply of juice: at each price, sellers now offer 40 more bottles. At the old price of N$10 the market no longer clears, because sellers offer 140 bottles while buyers still take 100, a surplus of 40 bottles, since 140 - 100 = 40 bottles. Because the stock sits unsold, sellers cut the price; as it slides, the quantity demanded rises along the demand curve while the quantity offered eases along the new supply curve, and the market settles where the two match again: N$8 and 120 bottles. A rise in supply has carried the equilibrium to a lower price and a larger quantity - the same steps a bicycle dealer in Vietnam runs through when clearing a big delivery with a price cut.",
+   "claim_ids": [
+    "CLM-0455-2.5-002",
+    "CLM-0455-2.5-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.5-002": 1,
+    "CLM-0455-2.5-004": 1
+   },
+   "authored_hash": "78daa98aa7fab30f3cc64675349b81d6ea1da6d48b2f6ba54c2dbf6f2b7886bf"
+  },
+  {
+   "block_id": "2.5.1-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The two sides that meet here were built in topic 2.3, demand, and topic 2.4, supply; how strongly each side responds to price is measured in topic 2.6.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "a81307e101aa77e564e289bd46323c4cbe9f6507fbc6a77ed834352f2cf942ec"
+  }
+ ],
+ "word_count": 414
+}

@@ -1,0 +1,122 @@
+{
+ "unit_id": "CU-0455-3.6.1",
+ "title": "The demand for factors of production",
+ "objective_ids": [
+  "OBJ-0455-3.6.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 283,
+  "target": 344,
+  "max": 406
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "3.6.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Explain what the demand for a factor of production is, where it comes from, and what makes it rise or fall.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "025da5cc517a1bc3490582b0d1fbe793270b9676bfa50afc7699cae602c210f8"
+  },
+  {
+   "block_id": "3.6.1-b2",
+   "block_type": "definition",
+   "heading": "What firms ask for when they hire",
+   "text": "The demand for a factor of production is the quantity of a factor - land, labour, capital or enterprise, the four factors introduced in topic 1.2 - that firms are willing and able to employ at a given cost over a period of time. Otjiwa Dairy near Gobabis demands milkers, drivers and refrigeration tanks because it expects to sell dairy products; a cheese maker in the Netherlands demands cheesemakers and ageing cellars for the same reason.",
+   "claim_ids": [
+    "CLM-0455-3.6-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.6-001": 1
+   },
+   "authored_hash": "c29fe8e77ebc220757d013ce7a1d7ff2b37baa41468b231a64d7f17b4fbd4823"
+  },
+  {
+   "block_id": "3.6.1-b3",
+   "block_type": "analysis_chain",
+   "heading": "Derived demand: where it comes from",
+   "text": "Factor demand is a derived demand: firms want workers and machines for the sake of the goods those inputs produce, not for the inputs themselves. When Kaoko Juice of Oshakati wins a contract to supply schools, its need for fruit-handlers and bottling staff rises with it; when a lodge near Etosha loses visitors, it takes on fewer guides. The chain runs: consumers demand more juice -> the firm needs more inputs to fill the orders -> its demand for labour rises.",
+   "claim_ids": [
+    "CLM-0455-3.6-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.6-002": 1
+   },
+   "authored_hash": "cd09208890ecf81118d5bd73b34dffc0989b117c6a714dd4133fd2f3016815f0"
+  },
+  {
+   "block_id": "3.6.1-b4",
+   "block_type": "plain_explanation",
+   "heading": "What shifts it",
+   "text": "Three influences move a firm's factor demand. Demand for the product: a stronger market for the good tends to raise the firm's demand for the factors that make it. The cost of the factor: a higher wage tends to make a firm cautious about hiring, and where equipment can do the work at lower cost per unit, the firm may employ fewer workers and more capital. Productivity: where each worker produces more, fewer workers may cover the same orders, though a busy firm may still take people on.",
+   "claim_ids": [
+    "CLM-0455-3.6-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.6-003": 1
+   },
+   "authored_hash": "7e3dd445f7d0eb72398b84693f469ae8efa808b7fb4bceb48cd9ce49ea1f2d73"
+  },
+  {
+   "block_id": "3.6.1-b5",
+   "block_type": "misconception",
+   "heading": "Two different demands",
+   "text": "Examiners record learners treating the demand for factors as if it behaved like the demand for goods. The boundary: consumers demand goods for the satisfaction they give; firms demand factors to produce output that others buy. The test is to ask who is buying and for what - a household buying juice is demanding a good, whereas the juice firm hiring fruit-handlers is demanding a factor. The driver differs too: a consumer's demand moves with tastes, incomes and price, while a firm's factor demand moves with the demand for its product.",
+   "claim_ids": [
+    "CLM-0455-3.6-004",
+    "CLM-0455-3.6-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.6-004": 1,
+    "CLM-0455-3.6-002": 1
+   },
+   "authored_hash": "6ff11d5bf95225c0ee06f14d7bea9af928c78821bcd53743106e5c3c0e5d82b9"
+  },
+  {
+   "block_id": "3.6.1-b6",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The factors themselves are classified in topic 1.2, and the demand schedules behind markets are read in topic 2.3.",
+   "claim_ids": [
+    "CLM-0455-3.6-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.6-001": 1
+   },
+   "authored_hash": "4d14d92e0119222f1ec87c4281e7e62fde5deb48b2b3bedf358696827d8dbd1b"
+  }
+ ],
+ "word_count": 400
+}

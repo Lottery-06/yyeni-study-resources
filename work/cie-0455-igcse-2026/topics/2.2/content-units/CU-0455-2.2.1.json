@@ -1,0 +1,121 @@
+{
+ "unit_id": "CU-0455-2.2.1",
+ "title": "How a market system works",
+ "objective_ids": [
+  "OBJ-0455-2.2.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_mechanism",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 280,
+  "target": 341,
+  "max": 403
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.2.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Explain how a market system works through buyers, sellers, market equilibrium and market disequilibrium.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "bbfeebfe9ef8b054b5b56e92d7898cac8026d75bfecbd7ee1dcf85ede9954e0a"
+  },
+  {
+   "block_id": "2.2.1-b2",
+   "block_type": "definition",
+   "heading": "Buyers, sellers and prices",
+   "text": "A market system is a way of organising an economy in which buyers and sellers interact in markets, and the prices emerging from that interaction decide how scarce resources are allocated. No official tells the fisherman at Walvis Bay how many kob to land; the buyers' price does that. A Tokyo shopper choosing between two rice brands does the work a planner would otherwise do.",
+   "claim_ids": [
+    "CLM-0455-2.2-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.2-001": 1
+   },
+   "authored_hash": "927a4b4b5f937f77e87a92c87500bab09e52127ddc5a53efda33fbff6f0e5b10"
+  },
+  {
+   "block_id": "2.2.1-b3",
+   "block_type": "worked_application",
+   "heading": "Equilibrium and disequilibrium at Otavi",
+   "text": "At the weekend maize market at Otavi, sellers bring 300 bags and buyers want 300 at N$95 a bag: planned buying equals planned selling, so N$95 is the market equilibrium price. At N$70, buyers plan 380 bags but sellers bring 240, so 140 planned purchases go unsatisfied: a shortage, which is market disequilibrium. At N$120, sellers bring 340 bags but buyers plan 260, leaving 80 unsold: a surplus.",
+   "claim_ids": [
+    "CLM-0455-2.2-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.2-002": 1
+   },
+   "authored_hash": "3d83de32f228bc901dbd9dac643792076a9c3dd36542dbb6db0d4163e4c41b18"
+  },
+  {
+   "block_id": "2.2.1-b4",
+   "block_type": "misconception",
+   "heading": "Minimum price or maximum price?",
+   "text": "Learners often mix up a minimum price with a maximum price because both are official limits on a price. The boundary is where each sits against equilibrium. A minimum price is a floor set above it, so at N$120 in the Otavi example a surplus tends to sit on the market; a maximum price is a ceiling set below it, so at N$70 a shortage tends to appear. The test: which side of equilibrium the limit sits on - above it, sellers cannot sell all they planned; below it, buyers cannot buy all they planned.",
+   "claim_ids": [
+    "CLM-0455-2.2-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.2-003": 1
+   },
+   "authored_hash": "42efeb5408481a4fc7bf379ca43d2db6aaf0aa661f9b36c1e00a70203d89eff0"
+  },
+  {
+   "block_id": "2.2.1-b5",
+   "block_type": "evaluation",
+   "heading": "How well does the market system allocate?",
+   "text": "A market system tends to direct resources towards the goods buyers want most: a good scarce relative to wants fetches a higher price, and the higher price rewards those who supply it. Yet the system may direct resources poorly. Where buyers cannot be charged for a good - clean air over Walvis Bay - no price rewards provision, so the market tends to under-provide it; and where a price ignores costs imposed on others, a factory that dirties water may expand even where the harm outweighs its output. Its success therefore depends on whether a price exists that carries the good's full cost.",
+   "claim_ids": [
+    "CLM-0455-2.2-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO3"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.2-004": 1
+   },
+   "authored_hash": "7aeacbc4347383a914f2ae1e3f9f784dfe6a2fa08f0eb638669a52aad25bb1b0"
+  },
+  {
+   "block_id": "2.2.1-b6",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Opportunity cost (topic 1.3) explains the choice every market forces; the three allocation questions follow in section 2.2.2 below; when a market allocates badly is picked up in topic 2.10.",
+   "claim_ids": [
+    "CLM-0455-2.2-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.2-001": 1
+   },
+   "authored_hash": "63cb8103d72c0eec24b1765daffd67e926c1eb27835f7ff2790b359cce36b5aa"
+  }
+ ],
+ "word_count": 401
+}

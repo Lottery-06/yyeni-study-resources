@@ -1,0 +1,92 @@
+{
+ "unit_id": "CU-0455-4.5.1",
+ "title": "What supply-side policy means",
+ "objective_ids": [
+  "OBJ-0455-4.5.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_definition",
+ "depth_tier": 1,
+ "word_budget": {
+  "min": 270,
+  "target": 328,
+  "max": 386
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "4.5.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define supply-side policy and place it beside the other kinds of policy the government holds.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "3a5cf2b2389404ce340102259f27d30cb0715cbfedfd9f18ef64e5b92257a02d"
+  },
+  {
+   "block_id": "4.5.1-b2",
+   "block_type": "definition",
+   "heading": "The definition and its boundary",
+   "text": "Supply-side policy is the use of government measures to raise the economy's capacity to produce, by making workers more productive, removing barriers that hold firms back, and strengthening the incentive to work, save and invest. The name carries the meaning: these measures act on the supply side, the side of the economy that makes goods and services. The boundary with the other families matters, because a question naming one family expects measures from it. Monetary policy, topic 4.4, works on the cost of borrowing and the stock of money. Fiscal policy, topic 4.3, works on government spending and taxation to steer total spending. Supply-side policy pulls a different lever: it does not steer this year's spending, it raises what the economy can produce in the years ahead.",
+   "claim_ids": [
+    "CLM-0455-4.5-001",
+    "CLM-0455-4.5-002",
+    "CLM-0455-4.5-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.5-001": 1,
+    "CLM-0455-4.5-002": 1,
+    "CLM-0455-4.5-003": 1
+   },
+   "authored_hash": "56f1b017d4453374b5298e30dec77a385fcfe152d1ab5d4fc1a87f752ed5d6b9"
+  },
+  {
+   "block_id": "4.5.1-b3",
+   "block_type": "worked_application",
+   "heading": "One measure traced through a firm",
+   "text": "Take a supply-side measure in action. Kaoko Juice in Opuwo finds that many job applicants cannot read batch instructions, so it can hire 40 workers yet uses fewer of them on skilled tasks. A government training programme for school leavers changes this: output per trained worker rises from 200 bottles a day to 240 bottles a day, so 40 workers now produce 40 x 240 = 9 600 bottles a day where they produced 40 x 200 = 8 000 before. The firm's capacity to produce has risen with no new machines, which is the lever supply-side policy pulls. In the Netherlands, Germany and Portugal the same lever shows in apprenticeship systems that pair school with workplaces.",
+   "claim_ids": [
+    "CLM-0455-4.5-001",
+    "CLM-0455-4.5-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.5-001": 1,
+    "CLM-0455-4.5-003": 1
+   },
+   "authored_hash": "fc11b82db04557f0d5c8057da3a94960c09323499ce2338c277069089fbfc3ce"
+  },
+  {
+   "block_id": "4.5.1-b4",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The macroeconomic aims that supply-side policy serves are defined in topic 4.2 and the role of government in topic 4.1; fiscal policy in topic 4.3 and monetary policy in topic 4.4 sit beside it in the same unit.",
+   "claim_ids": [
+    "CLM-0455-4.5-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.5-002": 1
+   },
+   "authored_hash": "0fb4279495908fc12a42778de31104d81b7fa0c9f8b95e144d692c77045c2a01"
+  }
+ ],
+ "word_count": 313
+}

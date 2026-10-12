@@ -1,0 +1,90 @@
+{
+ "unit_id": "CU-0455-1.1.2",
+ "title": "Economic and free goods",
+ "objective_ids": [
+  "OBJ-0455-1.1.2"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_comparison",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 285,
+  "target": 347,
+  "max": 410
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "1.1.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define an economic good and a free good, and use the test that tells them apart in a context.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "e6d92f188bd614376170e480e4b3844c3289c310ed3199ae62383cdcbb415735"
+  },
+  {
+   "block_id": "1.1.2-b2",
+   "block_type": "definition",
+   "heading": "What makes a good economic or free",
+   "text": "An economic good is scarce relative to wants: there is not enough for everyone who wants it at a zero price, so obtaining it requires a sacrifice, and a price is normally charged to ration it. A free good is the opposite: supply exceeds wants at a zero price, so it commands no price and no sacrifice is involved in taking it. Sunshine in the Namib is close to a free good - no one rations it and no one sells it. A 5 000-litre tanker of borehole water delivered to Windhoek is an economic good, because supplying it costs labour, fuel and pumps, and the N$180 charged is what rations the scarce delivery capacity.",
+   "claim_ids": [
+    "CLM-0455-1.1-003",
+    "CLM-0455-1.1-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.1-003": 1,
+    "CLM-0455-1.1-004": 1
+   },
+   "authored_hash": "7b707a0d9170f2ef514c174d399da81c698d25778878bf3f7752fa8776a88a83"
+  },
+  {
+   "block_id": "1.1.2-b3",
+   "block_type": "worked_application",
+   "heading": "The test in use",
+   "text": "The test that separates them is whether a price has to be paid. Apply it to two goods a beach cafe in Lisbon sees: the seawater outside its door, and the bottled seawater spray it sells to kitchens at 14 euros a bottle. The sea itself is a free good - pumping it costs almost nothing and there is more than anyone wants. The bottled spray is an economic good - labour, bottles, labels and delivery make each one scarce relative to wants, so a price is charged. Note the nuance: the same substance can be a free good in one form and an economic good in another, because scarcity is a relationship between supply and wants, not a property of the substance. Ocean water for a Norwegian fishing village would be a free good in exactly the same way.",
+   "claim_ids": [
+    "CLM-0455-1.1-005",
+    "CLM-0455-1.1-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.1-005": 1,
+    "CLM-0455-1.1-003": 1
+   },
+   "authored_hash": "4ca92562e3912d3c3bec760c5de5b57081889b7cf936ef9e6c82cec3bea491e5"
+  },
+  {
+   "block_id": "1.1.2-b4",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Free goods are not the same as public goods, which topic 2.10 meets as a reason markets under-provide; and the sacrifice involved in an economic good is the opportunity cost of topic 1.3.",
+   "claim_ids": [
+    "CLM-0455-1.1-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.1-004": 1
+   },
+   "authored_hash": "7fe3031ed7ba6ed7e75a94decc3e33753203141316fd94ccc5750756b32b6056"
+  }
+ ],
+ "word_count": 323
+}

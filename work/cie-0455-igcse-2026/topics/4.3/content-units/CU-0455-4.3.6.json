@@ -1,0 +1,98 @@
+{
+ "unit_id": "CU-0455-4.3.6",
+ "title": "What taxation does",
+ "objective_ids": [
+  "OBJ-0455-4.3.6"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 274,
+  "target": 334,
+  "max": 395
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "4.3.6-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Follow the impacts of taxation through households, firms and markets, and read a worked case with figures.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "963b3d8679ff411b4e0793a3696900bab25185269bf624ced886f9f06798f724"
+  },
+  {
+   "block_id": "4.3.6-b2",
+   "block_type": "analysis_chain",
+   "heading": "Through disposable income",
+   "text": "A higher income tax takes more from each pay packet, so disposable income - what households have left to spend or save once deductions are made - falls. Because household spending tends to follow disposable income, shops and services tend to see fewer sales; where the rise is steep, some workers put in fewer hours or move income out of sight into untaxed work, weakening the very revenue the rise sought.",
+   "claim_ids": [
+    "CLM-0455-4.3-021"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.3-021": 1
+   },
+   "authored_hash": "c95e71e8d31224c9d9fb43eec0cee2266180b40f01099ab4de13d676496a5cd1"
+  },
+  {
+   "block_id": "4.3.6-b3",
+   "block_type": "analysis_chain",
+   "heading": "Through prices",
+   "text": "An indirect tax added at the point of sale raises the price buyers face, and the quantity demanded tends to fall. Work invented figures through: fuel duty of N$3 a litre adds N$150 to a 50-litre tank, since 3 x 50 = 150; a Swakopmund tour operator filling daily faces about N$3 300 across a 22-day month. As fares rise to cover the duty, some passengers travel less - the tax steers buying away from fuel while raising revenue for the treasury.",
+   "claim_ids": [
+    "CLM-0455-4.3-022",
+    "CLM-0455-4.3-024"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.3-022": 1,
+    "CLM-0455-4.3-024": 1
+   },
+   "authored_hash": "74f9f3461b86c408d1a630402283cb9dbc949d703e7bdf5a07638754a350d09c"
+  },
+  {
+   "block_id": "4.3.6-b4",
+   "block_type": "limitation",
+   "heading": "The limits of taxation",
+   "text": "Taxes change choices, and that is their limit. Set high, a duty tends to push buying into untaxed channels - cross-border trips where neighbours levy less, informal stalls, undeclared cash work - so the quantity falls by less than forecast and the revenue raised falls short of it. Near Portugal's border, drivers cross into Spain for cheaper fuel: an invented illustration of a standard pattern, and the reason forecasts of duty revenue are written with care.",
+   "claim_ids": [
+    "CLM-0455-4.3-023"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.3-023": 1
+   },
+   "authored_hash": "6814a17c97d3aa687df47f99963587bc10c97dad03d910431fd2f3b25fca4457"
+  },
+  {
+   "block_id": "4.3.6-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The demand behaviour traced here was built in topic 2.3, and the market prices it moves belong to topic 2.5.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [],
+   "claims_seen": {},
+   "authored_hash": "f5bcd596695958e55908dd79634e76d2ccf9593e063fa219646a272d07d4bf99"
+  }
+ ],
+ "word_count": 280
+}

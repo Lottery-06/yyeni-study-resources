@@ -1,0 +1,83 @@
+{
+ "unit_id": "CU-0455-2.8.1",
+ "title": "What elasticity of supply measures",
+ "objective_ids": [
+  "OBJ-0455-2.8.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_definition",
+ "depth_tier": 1,
+ "word_budget": {
+  "min": 252,
+  "target": 307,
+  "max": 362
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.8.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define price elasticity of supply, carry the formula it is built on, and tell it apart from the demand-side elasticity of topic 2.7.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "05bc0dcbb17a0449bca76d1a6d2da73e09883c8c2066acaed17bedfd810d9766"
+  },
+  {
+   "block_id": "2.8.1-b2",
+   "block_type": "definition",
+   "heading": "Supply's own measure",
+   "text": "Price elasticity of supply (PES) measures how strongly the quantity sellers are willing and able to offer responds when the price of the good changes. It is calculated as the percentage change in quantity supplied divided by the percentage change in price. A milk depot in Otavi that offered 900 litres a week at N$10 a litre and 1 080 litres at N$11 shows the measure at work: the growers' response to the higher price is what PES puts a number on. Because the measure divides one percentage by another, the figure carries no units - it compares responses, not amounts.",
+   "claim_ids": [
+    "CLM-0455-2.8-001",
+    "CLM-0455-2.8-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.8-001": 1,
+    "CLM-0455-2.8-002": 1
+   },
+   "authored_hash": "fe6ca6c00a79d259f17e021ff0f498b126ddb620423103b3e62ffd8382b69bfa"
+  },
+  {
+   "block_id": "2.8.1-b3",
+   "block_type": "comparison",
+   "heading": "Supply's side, not demand's",
+   "text": "PES is the supply-side twin of price elasticity of demand (PED), and the two are confused because their formulas share the same shape. The boundary: PED measures buyers - how the quantity consumers are willing and able to take responds to a price change - while PES measures sellers - how the quantity offered responds. The test: ask whose behaviour the question is about. When the world price of cork rises, how much more cork Portuguese growers bring to market in Portugal is a supply question; how much less the buyers in Porto take is a demand question. Settle the term once, then: PES tracks the seller's side of the market.",
+   "claim_ids": [
+    "CLM-0455-2.8-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.8-003": 1
+   },
+   "authored_hash": "b990706d0dc09966f28de955f75186e4b2a21461b912588d2f4f5ba8595a998f"
+  },
+  {
+   "block_id": "2.8.1-b4",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Demand was built in topic 2.3 and supply in topic 2.4, and the two meet at equilibrium in topic 2.5. Topic 2.6 traced how a shift moves a market to a new price, and topic 2.7 measured how strongly buyers respond to that new price; this topic asks the same of sellers.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "4d3f999027ec6f4e3f8917b857fcca3a1dd2797e4ffc95d2245fde5fdc1ea611"
+  }
+ ],
+ "word_count": 299
+}

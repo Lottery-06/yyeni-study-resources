@@ -1,0 +1,111 @@
+{
+ "unit_id": "CU-0455-6.3.5",
+ "title": "Floating and fixed systems",
+ "objective_ids": [
+  "OBJ-0455-6.3.5"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_comparison",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 282,
+  "target": 344,
+  "max": 406
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "6.3.5-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define the floating and the fixed system, give the test that tells them apart, and weigh what each offers a trading economy.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "604150015f90374eff9c14a1eaca62968178a9f28ec24022d4421c037770602b"
+  },
+  {
+   "block_id": "6.3.5-b2",
+   "block_type": "comparison",
+   "heading": "Two ways to set a rate",
+   "text": "A floating exchange rate is determined by demand and supply in the foreign exchange market: the authority holds it at no level, and it moves whenever either side of the market shifts. A fixed exchange rate is held by the monetary authority at a chosen level: the authority stands ready to buy and sell the currency from its reserves to keep the rate there. The boundary is who sets the rate - the market or the authority. The test: watch what happens when export demand shifts; a rate that moves with market conditions floats, and a rate that stays at its announced level is being held fixed.",
+   "claim_ids": [
+    "CLM-0455-6.3-017",
+    "CLM-0455-6.3-018"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.3-017": 1,
+    "CLM-0455-6.3-018": 1
+   },
+   "authored_hash": "ffda99df2e9eb931a14f4f495c1256ba5bdf9859a3e45f95c3b4d30a34ef9512"
+  },
+  {
+   "block_id": "6.3.5-b3",
+   "block_type": "worked_application",
+   "heading": "Namibia's parity and the euro",
+   "text": "The Namibian dollar is pegged one-for-one with the South African rand: it has stood at one rand per Namibian dollar through years in which demand and supply for Namibian exports have swung, which is the behaviour of a fixed arrangement. A Windhoek importer paying a South African supplier knows in advance what each Namibian dollar will fetch, whatever the market behind it does. By contrast, Germany, Portugal and the Netherlands share the euro, whose rate against the US dollar moves with the market: the euro area floats against outside currencies, and its traders live with those movements.",
+   "claim_ids": [
+    "CLM-0455-6.3-020",
+    "CLM-0455-6.3-017"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.3-020": 1,
+    "CLM-0455-6.3-017": 1
+   },
+   "authored_hash": "2a2b682b29151d55a72b5c7ca78e45802fa6eb921631c6dd0f52419b5b7482fa"
+  },
+  {
+   "block_id": "6.3.5-b4",
+   "block_type": "evaluation",
+   "heading": "What each system offers",
+   "text": "A floating rate adjusts by itself: when export demand falls, the currency tends to ease, which lends exporters a hand without the authority spending anything, but the rate can swing sharply, and a trader pricing next quarter's order faces that uncertainty. A fixed rate gives traders certainty about conversion prices, which helps firms commit to contracts across borders, but holding the level costs reserves, and a rate held out of line with market conditions may keep imports cheap or exports dear for longer than the market would allow. Which system serves an economy better tends to depend on how much the economy trades, how large its reserves are, and how steady its trade flows are.",
+   "claim_ids": [
+    "CLM-0455-6.3-019",
+    "CLM-0455-6.3-018"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.3-019": 1,
+    "CLM-0455-6.3-018": 1
+   },
+   "authored_hash": "5d78fca70788cbd60c47a1d74acb9dba472737353d3a7147d9b3d6843dd5c0f0"
+  },
+  {
+   "block_id": "6.3.5-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The demand and supply that a floating rate answers are those of topics 2.3 and 2.4, and the payments a fixed rate shelters are those of topic 6.4; the interest rates that move a floating rate belong to topic 4.4.",
+   "claim_ids": [
+    "CLM-0455-6.3-017"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.3-017": 1
+   },
+   "authored_hash": "ff734b372a6b4be79e2b59517f3836d9c7c6c8ff81aae6e668775ab0731ffcf9",
+   "prior_hash": "4c4a4a59ac70987c6577bba37ac425f4cb9a26c6a2357b38427f5bf5c0e16abf",
+   "repair_note": "Planner audit 2026-10-06: removed the named Marshall-Lerner condition (beyond the 0455 syllabus; the condition is kept in plain words) and corrected cross-references to topics 2.7 (PED) and 6.4 (current account)."
+  }
+ ],
+ "word_count": 401
+}

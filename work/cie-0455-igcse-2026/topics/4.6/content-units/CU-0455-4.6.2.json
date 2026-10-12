@@ -1,0 +1,105 @@
+{
+ "unit_id": "CU-0455-4.6.2",
+ "title": "Measuring growth: real GDP and GDP per head",
+ "objective_ids": [
+  "OBJ-0455-4.6.2"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_quantitative",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 273,
+  "target": 333,
+  "max": 393
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "4.6.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Set out how economic growth is measured, distinguish real GDP from nominal GDP, and use GDP per head to compare economies.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "806fc39c257ce9c22aad6325825d70cd1aad30919dddd92ca31cbbb9d09ac499"
+  },
+  {
+   "block_id": "4.6.2-b2",
+   "block_type": "definition",
+   "heading": "Real GDP and nominal GDP",
+   "text": "Real Gross Domestic Product is the value of all the final goods and services an economy produces in a year, measured at constant prices - the prices of a base year - so that price rises alone cannot make output seem larger. Nominal GDP is the same yearly production valued at current prices. The two part company whenever prices move: an economy whose prices doubled while its production stood still would show a nominal GDP twice as large and a real GDP unchanged, so real GDP is the measure of growth.",
+   "claim_ids": [
+    "CLM-0455-4.6-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.6-004": 1
+   },
+   "authored_hash": "81ff70a15351b894d1326456c9bb1c34d1f8455d97e1d841bd7347d9779ef4ac"
+  },
+  {
+   "block_id": "4.6.2-b3",
+   "block_type": "worked_calculation",
+   "heading": "The growth-rate formula, worked",
+   "text": "Growth is measured as a percentage rate. The formula: growth rate = (real GDP in the later year - real GDP in the earlier year) / real GDP in the earlier year x 100. Work it with invented figures. An economy produces N$50 000 million of real GDP in 2025 and N$52 500 million in 2026. The rise is N$52 500 million - N$50 000 million = N$2 500 million. Divided by the earlier year, N$2 500 million / N$50 000 million = 0.05, and 0.05 x 100 = 5, so the economy grew by 5% that year.",
+   "claim_ids": [
+    "CLM-0455-4.6-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.6-005": 1
+   },
+   "authored_hash": "872b543ba0cf269f4c15886503355245e2e43d3b3e4f1b2d26e7f43e91e32775"
+  },
+  {
+   "block_id": "4.6.2-b4",
+   "block_type": "interpretation",
+   "heading": "GDP per head",
+   "text": "Total real GDP can mislead when populations differ. GDP per head is real GDP divided by the population, and it states the average output per person, the figure used to compare average living standards between economies or across years. Where population grows as fast as output, total real GDP rises while GDP per head stands still, and new output is absorbed by new people. GDP per head is an average, so it may hide how output is shared: a rising average can sit beside households whose incomes did not move.",
+   "claim_ids": [
+    "CLM-0455-4.6-006",
+    "CLM-0455-4.6-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.6-006": 1,
+    "CLM-0455-4.6-007": 1
+   },
+   "authored_hash": "79621d515fb132a126d485e5f23e5b69d2455fbfaad6e0d30add05ea7cdf1d28"
+  },
+  {
+   "block_id": "4.6.2-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The price rises that real GDP strips out are the inflation of topic 4.8, and the living standards that GDP per head is used to compare lead into the development measures of topic 5.1.",
+   "claim_ids": [
+    "CLM-0455-4.6-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.6-006": 1
+   },
+   "authored_hash": "f7749a8cd2c240b6eab88d22125ae9e2390ddf48d8507ba624ceea3f7c6de539"
+  }
+ ],
+ "word_count": 351
+}

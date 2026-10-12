@@ -1,0 +1,103 @@
+{
+ "unit_id": "CU-0455-2.3.1",
+ "title": "What demand means",
+ "objective_ids": [
+  "OBJ-0455-2.3.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_diagram",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 257,
+  "target": 313,
+  "max": 370
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.3.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define demand as the quantity of a good that consumers are willing and able to buy at a given price over a period of time, and separate demand from a mere want and from supply.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "07d675596d29df63e8a93f6ca638288d69982c7254f4d224d108db394693f7ce"
+  },
+  {
+   "block_id": "2.3.1-b2",
+   "block_type": "definition",
+   "heading": "Demand, defined",
+   "text": "Demand is the quantity of a good that consumers are willing and able to buy at a given price over a period of time. At the Opuwo market, buyers may take 200 bottles of Kaoko Juice in a week at N$10 a bottle: that figure, at that price, over that week, is the quantity demanded. Willingness on its own is not enough. A student who wants a bottle but has N$4 to spend wants the juice yet cannot pay, so that want stays outside demand. Demand backed by the ability to pay is called effective demand.",
+   "claim_ids": [
+    "CLM-0455-2.3-001",
+    "CLM-0455-2.3-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.3-001": 1,
+    "CLM-0455-2.3-002": 1
+   },
+   "authored_hash": "00ec52eb3c747205520c161f5a5e429917c3fda66ae4caf279a8a91a03a79a77"
+  },
+  {
+   "block_id": "2.3.1-b3",
+   "block_type": "worked_application",
+   "heading": "Willing and able in practice",
+   "text": "Test the definition against three buyers at the juice stall when a bottle costs N$10. Buyer A has N$12 and wants the juice: willing and able, so A demands a bottle. Buyer B has N$12 but prefers the water next door: able, yet not willing, so B adds nothing to demand. Buyer C wants the juice but has N$6: willing, yet not able, so C adds nothing either. A stall in Ho Chi Minh City in Vietnam sorts its buyers the same way: a tourist with the money but no wish adds nothing, and a student who cannot meet the day's price adds nothing either.",
+   "claim_ids": [
+    "CLM-0455-2.3-001",
+    "CLM-0455-2.3-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.3-001": 1,
+    "CLM-0455-2.3-002": 1
+   },
+   "authored_hash": "adcba96f9008d8866486e498a6747967512e749027f5a48bf6180fa07c575a5d"
+  },
+  {
+   "block_id": "2.3.1-b4",
+   "block_type": "misconception",
+   "heading": "Demand is not supply",
+   "text": "The confusion learners make: demand and supply are mixed up, because both are quantities and both appear as curves in the same diagram. The boundary: demand is the buying side, the quantities buyers are willing and able to take at each price; supply, developed in topic 2.4, is the selling side, the quantities producers are willing and able to offer. The test: ask which side of the market the quantity belongs to. When demand rises, buyers take more at each price; when supply rises, sellers offer more at each price.",
+   "claim_ids": [
+    "CLM-0455-2.3-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.3-003": 1
+   },
+   "authored_hash": "95c0c041fc806ca18cc59d84d756a71642578493e4880abeb21ceb271a970745"
+  },
+  {
+   "block_id": "2.3.1-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Every act of demand is a choice with an opportunity cost, which topic 1.3 develops; the selling side of the market follows in topic 2.4.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "51f5f1294fc2bfd08aa897ba3d16722e6e8a3a723837b0336d5b93626b0484a7"
+  }
+ ],
+ "word_count": 367
+}

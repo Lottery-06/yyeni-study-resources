@@ -1,0 +1,92 @@
+{
+ "unit_id": "CU-0455-2.1.2",
+ "title": "Macroeconomics: the economy as a whole",
+ "objective_ids": [
+  "OBJ-0455-2.1.2"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_comparison",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 260,
+  "target": 317,
+  "max": 375
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.1.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define macroeconomics, name its economy-wide measures, and tell a macroeconomic question from a microeconomic one.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "f8dba5f4867d15523a940beea20a9a76ec643927d6faa63594b3c60b14bbfe5a"
+  },
+  {
+   "block_id": "2.1.2-b2",
+   "block_type": "definition",
+   "heading": "The wide view: totals and averages",
+   "text": "Macroeconomics is the study of the economy as a whole. Instead of the price of one litre of milk, it examines the general level of prices across the country; instead of the output of one cannery, the total output of goods and services; instead of one firm's jobs, total employment and the share of the workforce without jobs. Its questions are the ones a finance ministry faces each year: how fast total output grew, at what rate consumer prices are rising, how many of those seeking work found none. Japan's long struggle to lift prices in the 2010s and Brazil's battle with rapid price rises in the 1990s were macroeconomic stories, reported as national conditions rather than the fortunes of any single firm.",
+   "claim_ids": [
+    "CLM-0455-2.1-004",
+    "CLM-0455-2.1-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.1-004": 1,
+    "CLM-0455-2.1-005": 1
+   },
+   "authored_hash": "bfe18eb99d97055c0331a499447881ef8a60d2191b7fc3882ebc3974f3d73fa3"
+  },
+  {
+   "block_id": "2.1.2-b3",
+   "block_type": "worked_application",
+   "heading": "One average built from thousands of prices",
+   "text": "Suppose consumer prices across Namibia rose by 4.2% in one year and by 6.1% the next. Each figure is an average across thousands of markets, and that averaging is what makes the question macroeconomic: no single carton of pilchards at N$45 explains it, and no single firm can fix it. The policy responses act on the economy as a whole: the central bank's interest-rate decision and the finance ministry's budget steer totals, not one market's price. Yet the 6.1% was built from thousands of small pricing decisions like one dairy raising its litre from N$12 to N$14, which is the bridge between the two halves of the subject: the wide view is assembled from the close-ups.",
+   "claim_ids": [
+    "CLM-0455-2.1-005",
+    "CLM-0455-2.1-007",
+    "CLM-0455-2.1-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.1-005": 1,
+    "CLM-0455-2.1-007": 1,
+    "CLM-0455-2.1-006": 1
+   },
+   "authored_hash": "e7e62715897530b1496a1d21ce23801e14d76ce600a5b17c71ec885e7c5cd2a9"
+  },
+  {
+   "block_id": "2.1.2-b4",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The government-policy topics of Unit 4, such as fiscal policy in topic 4.3, are macroeconomics in action, because their tools act on totals: spending, taxation and borrowing across the economy.",
+   "claim_ids": [
+    "CLM-0455-2.1-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.1-004": 1
+   },
+   "authored_hash": "b3793f4c8b80c95eaff1e1494d9ce21c55f2f439f8d0b725c9333a144a1aead7"
+  }
+ ],
+ "word_count": 302
+}

@@ -1,0 +1,33 @@
+{
+ "topic_id": "6.4",
+ "deviations": [
+  {
+   "from": "P02 describes a 14-mark task but its four listed tariffs (1, 2, 4, 6) total 13.",
+   "to": "Two Calculate parts of one mark each, then Identify 2, Explain 4 and Analyse 6, totalling 14.",
+   "why": "A second component-to-total calculation practises the structure objective and reaches the declared total using an observed Calculate tariff rather than an unobserved one-mark State tariff."
+  },
+  {
+   "from": "The misconception register requests two MISCON cards, while the work order includes no MISCON slots.",
+   "to": "Both budget/current-account discriminations appear in CU-0455-6.4.2, claim 008, planned cards 005 and 007, and multiple-choice questions 3 and 6.",
+   "why": "Keeping the 22-item plan avoids adding unplanned cards; each discrimination explicitly names the confusion, boundary and test, following the 6.3 precedent."
+  },
+  {
+   "from": "The glossary senses for budget deficit and current account surplus remain null.",
+   "to": "Definitions are settled in this topic's claim ledger and used consistently throughout its notes and items; the curriculum is unchanged.",
+   "why": "The user prohibits curriculum edits, so the external versus government-flow boundary is stated locally without mutating planner-owned glossary data."
+  }
+ ],
+ "scope_calls": [
+  "All worked figures, countries' economic situations and business examples are explicitly invented; no current national statistics are asserted.",
+  "The spare-capacity, floating-rate and other-currency-flow assumptions are stated where needed; a deficit is not treated as proof of recession or a surplus as proof of growth.",
+  "Depreciation is taught with the profile's Marshall-Lerner and supply-response conditions; the named condition is explained qualitatively rather than extended into additional theory."
+ ],
+ "plan_issues": [
+  "Historical 33-item topic and 932-item subject counts are superseded by the amended work orders.",
+  "P02's stated part tariffs add to 13 rather than its declared 14 marks.",
+  "AUTHOR.md requests qa_status on blocks, but the content-unit block schema forbids it. Blocks retain the 6.3 exemplar field set; review_required is on their enclosing unit and on every item."
+ ],
+ "out_of_lane_findings": [
+  "The 6.3 exemplar links price elasticity of demand to topic 2.6 and the current account to 6.2. Those topics are 2.7 and 6.4 respectively; earlier topics are unchanged as instructed."
+ ]
+}

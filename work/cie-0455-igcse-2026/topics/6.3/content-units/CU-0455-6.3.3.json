@@ -1,0 +1,126 @@
+{
+ "unit_id": "CU-0455-6.3.3",
+ "title": "Why the rate moves",
+ "objective_ids": [
+  "OBJ-0455-6.3.3"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 282,
+  "target": 344,
+  "max": 406
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "6.3.3-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "State the four causes of foreign exchange rate fluctuations, trace each through to the rate, and keep a level apart from a change.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "8295533777a3e8899c879e799c0aea8dd1edf648faec1b854f2c30347a4c0142"
+  },
+  {
+   "block_id": "6.3.3-b2",
+   "block_type": "components",
+   "heading": "Four causes",
+   "text": "Four causes drive most fluctuations. Changes in the demand for exports and imports: foreign buyers must obtain the currency to pay for the goods, so trade volumes move the currency market. Changes in the rate of interest: deposits pay better or worse than abroad, and funds tend to follow the better return. Speculation: traders act on expectations of where the rate is heading. Entry or departure of a multinational corporation: investment flows move demand for the host currency.",
+   "claim_ids": [
+    "CLM-0455-6.3-009",
+    "CLM-0455-6.3-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.3-009": 1,
+    "CLM-0455-6.3-010": 1
+   },
+   "authored_hash": "56521be627c21ff211a40b461fe0d3a52a628b9e75aca25b4a66c7a814c63079"
+  },
+  {
+   "block_id": "6.3.3-b3",
+   "block_type": "analysis_chain",
+   "heading": "Two causes traced",
+   "text": "Trace a rise in overseas demand: a German tour operator books Etosha Gate Lodge and must pay in Namibian dollars; because the operator buys Namibian dollars to pay, demand for the currency rises, tending to push its price in euros up - an appreciation. Trace an interest change: the central bank raises its rate of interest from 6% to 9% with rates abroad unchanged; because deposits in Namibian dollars now pay more, funds are likely to flow in and demand rises with them. A decrease in the rate of interest runs the chain in reverse.",
+   "claim_ids": [
+    "CLM-0455-6.3-010",
+    "CLM-0455-6.3-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.3-010": 1,
+    "CLM-0455-6.3-011": 1
+   },
+   "authored_hash": "263537768cb1fd9c5c398af303ff4258d4948225cdb17783aaa407e5c51f4fbc"
+  },
+  {
+   "block_id": "6.3.3-b4",
+   "block_type": "plain_explanation",
+   "heading": "Speculation and multinationals",
+   "text": "Speculation acts on expectations: a trader expecting the Namibian dollar to strengthen buys it now, adding present demand and tending to push the rate the way guessed; an expected fall adds present supply instead. A multinational's entry works like an investment flow: a Germany-based retailer opening outlets in Windhoek converts foreign funds into Namibian dollars, and its departure removes that demand.",
+   "claim_ids": [
+    "CLM-0455-6.3-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.3-012": 1
+   },
+   "authored_hash": "10633f527a3a9bba5a90fb5acf906874cc0369b3f79065d7662d5f1497f6b4f2"
+  },
+  {
+   "block_id": "6.3.3-b5",
+   "block_type": "misconception",
+   "heading": "Levels and changes",
+   "text": "Two slips appear often. One treats an increase and a decrease in the rate of interest as if both moved the exchange rate the same way; the direction must be carried through the chain. The other writes a low inflation rate where a fall in the rate of inflation is meant: a low inflation rate is a level, prices rising slowly, whereas a fall in the rate of inflation is a change, prices rising more slowly than before. The test: does the sentence name a level or a change, and does the cause push currency demand the way the answer claims?",
+   "claim_ids": [
+    "CLM-0455-6.3-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.3-011": 1
+   },
+   "authored_hash": "278bf2d4bf936e5c5b26abd72870e22020fbcbe6850bb0b20fffbf0db14d0010"
+  },
+  {
+   "block_id": "6.3.3-b6",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The trade flows behind these causes belong to topic 6.1, the payments they create to topic 6.4, and the price changes they set off at home to topic 2.6.",
+   "claim_ids": [
+    "CLM-0455-6.3-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.3-009": 1
+   },
+   "authored_hash": "d25619e8e993be03471805c5c23ec2ebb29ce2dfaae38b8d3a08a007ff2be0e9",
+   "prior_hash": "5efade7c4a8735754d079d2b500199e4f5f784b24ee8ef5ecfa9a2bcbcc5bb91",
+   "repair_note": "Planner audit 2026-10-06: removed the named Marshall-Lerner condition (beyond the 0455 syllabus; the condition is kept in plain words) and corrected cross-references to topics 2.7 (PED) and 6.4 (current account)."
+  }
+ ],
+ "word_count": 403
+}

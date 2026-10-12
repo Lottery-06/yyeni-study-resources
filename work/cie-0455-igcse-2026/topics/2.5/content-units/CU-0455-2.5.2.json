@@ -1,0 +1,126 @@
+{
+ "unit_id": "CU-0455-2.5.2",
+ "title": "When the market does not clear",
+ "objective_ids": [
+  "OBJ-0455-2.5.2"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_diagram",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 290,
+  "target": 352,
+  "max": 415
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.5.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define market disequilibrium, distinguish a surplus from a shortage, and trace how unsold stock or unmet buyers moves a market back towards equilibrium.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "7f9bbcadedbb4861b72e06ae5f7b0f073f2561c219ec0f3782c5352441de6312"
+  },
+  {
+   "block_id": "2.5.2-b2",
+   "block_type": "definition",
+   "heading": "Disequilibrium, surplus and shortage",
+   "text": "Market disequilibrium is a position of a market in which the quantity demanded does not equal the quantity supplied at the prevailing price: the price sits above or below its equilibrium level. Above it, sellers offer more than buyers take - a surplus. Below it, buyers want more than sellers offer - a shortage. In Swakopmund, jam clears at N$30 a jar; held at N$40, jars demanded fall to 120 while jars offered rise to 180 - a surplus of 60 jars, since 180 - 120 = 60 jars.",
+   "claim_ids": [
+    "CLM-0455-2.5-005",
+    "CLM-0455-2.5-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.5-005": 1,
+    "CLM-0455-2.5-006": 1
+   },
+   "authored_hash": "a9c04400778c2b2fda353e78c6ee20817575925ea8dc5f8d7b2816ae6ac68a90"
+  },
+  {
+   "block_id": "2.5.2-b3",
+   "block_type": "worked_application",
+   "heading": "Measuring the gap at a price",
+   "text": "The gap belongs to its price. The Swakopmund jam schedule: at N$20 a jar, 190 jars are demanded and 90 offered - a shortage of 100 jars, since 190 - 90 = 100 jars; at N$30, 150 and 150, no gap; at N$40, the surplus again. The woven-basket stall nearby shows the same working: with the equilibrium at N$45, a trader holding N$60 faces 60 baskets demanded and 90 offered, a surplus of 30 baskets, since 90 - 60 = 30 baskets. A noodle bar in Ho Chi Minh City pricing its bowls low shows the reverse: a queue, a shortage at work.",
+   "claim_ids": [
+    "CLM-0455-2.5-006",
+    "CLM-0455-2.5-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.5-006": 1,
+    "CLM-0455-2.5-008": 1
+   },
+   "authored_hash": "45abca9d457bc2bd3c8c172713bf9231d9022f61b38a2c9b89825edc496f39a0"
+  },
+  {
+   "block_id": "2.5.2-b4",
+   "block_type": "analysis_chain",
+   "heading": "How the pressure closes the gap",
+   "text": "Take the shortage at N$20. Because buyers miss out, some of them are likely to offer more, and the price is bid up; as it rises, the quantity demanded eases along the demand curve while the quantity supplied stretches along the supply curve, and the gap narrows until the market is back at N$30 and 150 jars. A surplus works in reverse: unsold jars earn nothing, so the trader is likely to cut the price until the shelf empties. The pressure runs one way - a surplus presses the price down, a shortage presses it up - and the market tends back towards equilibrium.",
+   "claim_ids": [
+    "CLM-0455-2.5-006",
+    "CLM-0455-2.5-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.5-006": 1,
+    "CLM-0455-2.5-007": 1
+   },
+   "authored_hash": "5b56693d49ec70e5ead4ea5c03481ee1fff52108785680277b0e14fd703e98a6"
+  },
+  {
+   "block_id": "2.5.2-b5",
+   "block_type": "comparison",
+   "heading": "The test that tells them apart",
+   "text": "The test is two readings: where the price sits against the equilibrium level, and which quantity exceeds which. Price above equilibrium, quantity supplied the larger - a surplus. Price below equilibrium, quantity demanded the larger - a shortage. The figures at the stated price settle it.",
+   "claim_ids": [
+    "CLM-0455-2.5-005",
+    "CLM-0455-2.5-006",
+    "CLM-0455-2.5-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.5-005": 1,
+    "CLM-0455-2.5-006": 1,
+    "CLM-0455-2.5-008": 1
+   },
+   "authored_hash": "eadb2ea149291dc3f454341a9491d1e37f61aafd76ad6f20c3e10150e48c30ac"
+  },
+  {
+   "block_id": "2.5.2-b6",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The curves that cross to set the equilibrium were drawn in topics 2.3 and 2.4; the gaps here are the market between equilibria.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "16ccf20cd216549de9d61453e8cf8f5b9929e95cc24ca7d67544b7c8f429bc92"
+  }
+ ],
+ "word_count": 415
+}

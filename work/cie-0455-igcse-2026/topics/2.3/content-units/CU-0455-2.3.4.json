@@ -1,0 +1,120 @@
+{
+ "unit_id": "CU-0455-2.3.4",
+ "title": "The conditions of demand",
+ "objective_ids": [
+  "OBJ-0455-2.3.4"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_diagram",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 257,
+  "target": 313,
+  "max": 370
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.3.4-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Identify the conditions of demand, explain how a change in each shifts the demand curve, and apply the test separating a shift from a movement along the curve.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "b4aaa7a6da0828022fb7fde6f38ef669ea6bffe414f6b974186920adaa673081"
+  },
+  {
+   "block_id": "2.3.4-b2",
+   "block_type": "components",
+   "heading": "What shifts the curve",
+   "text": "The conditions of demand are the influences other than the good's own price: consumers' incomes; the prices of related goods; tastes and preferences; expectations of future prices; and the number of consumers. A change in a condition shifts the whole demand curve - a rise in demand to the right, meaning more is bought at every price, a fall in demand to the left.",
+   "claim_ids": [
+    "CLM-0455-2.3-011",
+    "CLM-0455-2.3-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.3-011": 1,
+    "CLM-0455-2.3-012": 1
+   },
+   "authored_hash": "1b42c5146e4b025d395c449014df08f13c1bd3c72db4bc16cc998361761e9e28"
+  },
+  {
+   "block_id": "2.3.4-b3",
+   "block_type": "worked_application",
+   "heading": "A shift worked through",
+   "text": "A travel magazine names the Etosha area the region's top destination, and tastes turn towards holidays there. At N$900 a night, Etosha Gate Lodge faced demand for 40 rooms a weekend; after the article, the same N$900 brings demand for 60 rooms. The demand curve has shifted to the right: at every price, more rooms are wanted. The room price has not changed, so this is a shift of demand, not a movement along an unchanged curve.",
+   "claim_ids": [
+    "CLM-0455-2.3-012",
+    "CLM-0455-2.3-014"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.3-012": 1,
+    "CLM-0455-2.3-014": 1
+   },
+   "authored_hash": "fa9ef7a238a5378ac03f9df2345d43c4801f724ce09127669aac656b2e49def5"
+  },
+  {
+   "block_id": "2.3.4-b4",
+   "block_type": "comparison",
+   "heading": "Substitutes and complements",
+   "text": "Related goods work in two opposite ways. Substitutes replace one another: when the price of Oshakati Textiles' school shirts rises, parents tend to switch towards shirts imported from Vietnam, and demand for the imported shirts rises. Complements are used together: petrol and a trip to the coast are consumed as one outing, so a rise in the price of petrol tends to lower demand for weekends at Swakopmund. A bakery in Portugal sees the same with its custard tarts and the pastries next door.",
+   "claim_ids": [
+    "CLM-0455-2.3-013"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.3-013": 1
+   },
+   "authored_hash": "18329cffb62be2304f1b342471a25550c37f3ba9f2f0af9d8823030cd7d3af48"
+  },
+  {
+   "block_id": "2.3.4-b5",
+   "block_type": "analysis_chain",
+   "heading": "Movement or shift?",
+   "text": "The test is whether the good's own price changed. A cut in the price of juice slides buyers down an unchanged demand curve - a movement. A rise in consumers' incomes, with the price unchanged, moves the whole curve to the right - a shift. Mixing the two up reverses cause and effect: a shift of demand changes the market price; a price change moves the market along the curve.",
+   "claim_ids": [
+    "CLM-0455-2.3-014"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.3-014": 1
+   },
+   "authored_hash": "6c011fc762b677980027d393bb95403bfc4df58ea38cdd0bc0dfa3d7424c8dfa"
+  },
+  {
+   "block_id": "2.3.4-b6",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "A shift of demand changes the market price once supply is drawn in, which is topic 2.5's work; how strongly quantity responds to price is topic 2.6.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "1bd2ee1a923a347d3ba6061ae283012aaf46ca317d2c6597e03660052f034310"
+  }
+ ],
+ "word_count": 369
+}

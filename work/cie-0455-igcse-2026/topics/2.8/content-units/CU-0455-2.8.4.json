@@ -1,0 +1,102 @@
+{
+ "unit_id": "CU-0455-2.8.4",
+ "title": "Why the measure matters",
+ "objective_ids": [
+  "OBJ-0455-2.8.4"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_concept",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 252,
+  "target": 307,
+  "max": 362
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.8.4-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Explain what PES means for the decisions of producers, consumers and governments, and judge whose position an elastic or inelastic supply serves.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "21dd68e1befb7ef4d1a9a36a6554c437b36714afa0d324bd1bc45ee85157e15b"
+  },
+  {
+   "block_id": "2.8.4-b2",
+   "block_type": "plain_explanation",
+   "heading": "For producers",
+   "text": "Producers read the measure as a forecast of their own reach. A firm with elastic supply can usually turn a price rise or a demand rise into extra sales, because it can raise output with what it holds - capacity, stocks, quick inputs. A firm with inelastic supply may take a higher price on the same output, yet it cannot meet the extra orders a boom brings, so queues, turned-away customers and rivals' goods fill the space it cannot.",
+   "claim_ids": [
+    "CLM-0455-2.8-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.8-011": 1
+   },
+   "authored_hash": "5d206b3d551113adfd5d33184b17dbed5eeafde28578ed2c5288abf1df6ba3c7"
+  },
+  {
+   "block_id": "2.8.4-b3",
+   "block_type": "stakeholder_effect",
+   "heading": "For consumers and governments",
+   "text": "Consumers feel the measure as price swings. Where supply is inelastic - housing in a growing town, fresh produce after a bad season - a rise in demand tends to land on price, so buyers pay for the shortage rather than see it filled. Governments feel it as a limit on policy: a subsidy or a higher guaranteed price tends to call out extra output where supply can respond, so a government hoping for more food or more housing needs producers elastic enough to answer, and where they are not, it may lean on stocks or imports instead. Flower auctions in the Netherlands show the reward of the opposite case: growers with glasshouses and same-day logistics answer a price rise within days, so demand swings are met with stems rather than with price spikes.",
+   "claim_ids": [
+    "CLM-0455-2.8-012",
+    "CLM-0455-2.8-013"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.8-012": 1,
+    "CLM-0455-2.8-013": 1
+   },
+   "authored_hash": "1e5008a36facb86a791e2f2116496d145102638d422f2de1355d010a7c194496"
+  },
+  {
+   "block_id": "2.8.4-b4",
+   "block_type": "summary",
+   "heading": "Elastic is not automatically better",
+   "text": "Whether elastic supply is the good case depends on the party. Consumers of a good in rising demand usually gain when supply is elastic - extra output, gentler prices - while sellers of a good in fixed supply may gain more from inelasticity, since the shortage lands on the price they receive. The measure itself is neutral; the judgement belongs to whoever holds the stake.",
+   "claim_ids": [
+    "CLM-0455-2.8-014"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO3"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.8-014": 1
+   },
+   "authored_hash": "538d3624131599e58e57e28dc807343a07686783251d5ac278dffcb308cd3b1b"
+  },
+  {
+   "block_id": "2.8.4-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The allocation this question belongs to runs back through topic 2.2's markets and forward to topic 4.1, where governments choose their tools; the supply responses those tools rely on are what this topic measured.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "0cdc655583accef43c3a1f7fb2b9f084c7c2b9191ea74500551bc8bb25b3ffb6"
+  }
+ ],
+ "word_count": 350
+}

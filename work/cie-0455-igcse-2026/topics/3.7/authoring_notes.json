@@ -1,0 +1,25 @@
+{
+ "topic_id": "3.7",
+ "deviations": [
+  {
+   "from": "subtype DIAGRAM on slot ITEM-0455-3.7-004-DIAGRAM",
+   "to": "subtype SYNTH with the same assessment_objectives [AO2, AO3] and Bloom Apply",
+   "why": "the v0.2.0 learning-items schema has no DIAGRAM subtype; the marking guidance still names the DIAGRAM answer parts (axes labelled, original curves drawn and labelled, the shift or movement in the correct direction, new equilibrium marked and labelled, what the diagram shows in words), the answer is a precise verbal walk-through of a cost diagram showing how a rise in output moves the firm's averages, and the prompt avoids the words chart and graph because this subject declares no chart model and C-35 and C-41 would otherwise demand a rendered depiction."
+  },
+  {
+   "from": "no slot for the misconceptions register entry on OBJ-0455-3.7.1 (external vs social costs)",
+   "to": "ITEM-0455-3.7-017-MISCON added beyond the 16 item slots",
+   "why": "the register how-to-use gives every entry one MISCON card on the objective it attaches to, so the entry is practised as a discrimination card rather than folded away."
+  },
+  {
+   "from": "P02 brief states 14 marks while its named parts (1 Calculate, 2 Identify, 4 Explain, 6 Analyse) sum to 13",
+   "to": "two 1-mark Calculate parts, (a) and (b), so the parts total 14 marks",
+   "why": "the brief 14-mark total is kept without breaking the stated part tariffs."
+  },
+  {
+   "from": "contract counts set by the build",
+   "to": "21 learning items (16 slots + 1 MISCON card + 4 performance tasks), 5 content units",
+   "why": "contract counts are recomputed from the build by the emitter, per the finish routine."
+  }
+ ]
+}

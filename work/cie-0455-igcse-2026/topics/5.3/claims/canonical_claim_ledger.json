@@ -1,0 +1,257 @@
+{
+ "ledger_id": "CLM-LEDGER-0455-IGCSE-5.3",
+ "claims": [
+  {
+   "claim_id": "CLM-0455-5.3-001",
+   "objective_ids": [
+    "OBJ-0455-5.3.1"
+   ],
+   "text": "Population growth is the change in the number of people living in a country over a period, driven by the birth rate, the death rate and net migration.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-5.3-002",
+   "objective_ids": [
+    "OBJ-0455-5.3.1"
+   ],
+   "text": "The birth rate is the number of live births per 1000 people in a country in a year; the death rate is the number of deaths per 1000 people in a country in a year.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-5.3-003",
+   "objective_ids": [
+    "OBJ-0455-5.3.1"
+   ],
+   "text": "Net migration is the balance of immigration, people moving into a country to live, minus emigration, people moving out to live elsewhere, reported as a figure per 1000 people per year.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-5.3-004",
+   "objective_ids": [
+    "OBJ-0455-5.3.1"
+   ],
+   "text": "Natural increase is the birth rate minus the death rate; overall population growth is natural increase plus net migration.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-5.3-005",
+   "objective_ids": [
+    "OBJ-0455-5.3.2"
+   ],
+   "text": "Birth rates tend to be higher in low-income countries, where children often contribute to household income early and access to family planning and schooling for girls is more limited, and tend to be lower in high-income countries such as Germany or Japan, where raising and educating children costs more and families tend to be small.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-5.3-006",
+   "objective_ids": [
+    "OBJ-0455-5.3.2"
+   ],
+   "text": "Death rates tend to be higher, and life expectancy, the average number of years a newborn would live if the year's pattern of deaths continued, tends to be shorter, in low-income countries where health care, clean water and secure food are harder to obtain; as incomes and health services improve, death rates fall and life expectancy lengthens.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-5.3-007",
+   "objective_ids": [
+    "OBJ-0455-5.3.2"
+   ],
+   "text": "Net migration differs between countries because people tend to move towards work, wages and safety and away from conflict and drought, so countries with plentiful jobs draw immigrants while troubled regions send emigrants abroad.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-5.3-008",
+   "objective_ids": [
+    "OBJ-0455-5.3.2"
+   ],
+   "text": "Two pairs of terms that get confused in answers on this objective: the birth rate, which counts live births per 1000 people in a year, is a different measure from the infant mortality rate, which counts deaths of babies under one year old per 1000 live births in a year; and an interest rate, the price a borrower pays a lender for borrowed money, is a different thing from a tax rate, the compulsory share of income or spending taken by the government - and neither interest rates nor tax rates directly drive population growth, which turns on the birth rate, the death rate and net migration.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-5.3-009",
+   "objective_ids": [
+    "OBJ-0455-5.3.3"
+   ],
+   "text": "The optimum population is the size of population that, with a country's existing resources and technology, gives the highest output per person; below it, adding people tends to raise output per person, and above it, adding people tends to lower it.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-5.3-010",
+   "objective_ids": [
+    "OBJ-0455-5.3.3"
+   ],
+   "text": "An increase in population size tends to raise demand for schooling, health care, housing and food, expands the future labour supply where jobs exist, and tends to lower output per person where jobs, land and capital do not keep pace.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-5.3-011",
+   "objective_ids": [
+    "OBJ-0455-5.3.3"
+   ],
+   "text": "A falling birth rate and longer life expectancy tend to raise the share of older people, which shrinks the workforce relative to the retired, raises pension and health spending borne by the government and by workers, and can leave firms short of labour, as in Japan; a large share under 15 means heavy school spending first, and a skewed gender distribution shifts who supports households.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-5.3-012",
+   "objective_ids": [
+    "OBJ-0455-5.3.3"
+   ],
+   "text": "A population pyramid shows the number or share of males and females at each age side by side: a wide base relative to the top indicates high birth rates and a young population, while a narrow base with a broad upper section indicates low birth rates and an ageing population.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "unit_id": "CU-0455-2.4.3",
+ "title": "From one producer to the market",
+ "objective_ids": [
+  "OBJ-0455-2.4.3"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_concept",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 250,
+  "target": 305,
+  "max": 360
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.4.3-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Build market supply by adding the supplies of individual producers together, price by price.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "28171739ac561911ddabe8b368ce4c99208c3d7195acfe3489e1740270dc2cc1"
+  },
+  {
+   "block_id": "2.4.3-b2",
+   "block_type": "definition",
+   "heading": "One seller, then all of them",
+   "text": "Individual supply is the quantity of a good that one producer is willing and able to offer for sale at each price. Market supply is the quantity that all the producers in a market together are willing and able to offer at that price. Bread in Katutura comes from many small bakeries: one bakery's daily offering is individual supply; the loaves all Katutura's bakeries offer together make up the market's supply.",
+   "claim_ids": [
+    "CLM-0455-2.4-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.4-008": 1
+   },
+   "authored_hash": "2a5c7a2dac57d93d17c972c3e604920049c12ea89a5253a3f4feadb29c2d2cbc"
+  },
+  {
+   "block_id": "2.4.3-b3",
+   "block_type": "worked_application",
+   "heading": "Adding the schedules",
+   "text": "Oshakati Textiles weaves cloth for the northern market. At N$25 a metre it offers 400 metres a week. A second weaver offers 600 metres a week at the same price, and every other producer together offers 1 500 metres. Market supply at N$25 is found by adding across producers at that price: 400 + 600 = 1 000 metres, and 1 000 + 1 500 = 2 500 metres a week. The same addition is done at each other price, and the market supply curve is the horizontal sum of the individual curves. A weaving firm in Kyoto in Japan books its metres into its own market's total the same way.",
+   "claim_ids": [
+    "CLM-0455-2.4-009",
+    "CLM-0455-2.4-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.4-009": 1,
+    "CLM-0455-2.4-010": 1
+   },
+   "authored_hash": "242f2d1271d27d10c1e7c3a7a008bdca9fe227b64f7e598e9f1eb104c86b0c69"
+  },
+  {
+   "block_id": "2.4.3-b4",
+   "block_type": "plain_explanation",
+   "heading": "Why adding is the whole method",
+   "text": "Market supply counts what every seller in the market offers at a price, so the market figure at each price is the sum of the individual figures at that same price. Adding price by price matters: adding one producer's quantities across different prices answers a different question. A new firm entering the market adds its offering at each price, so the market supply curve tends to sit further right than before.",
+   "claim_ids": [
+    "CLM-0455-2.4-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.4-009": 1
+   },
+   "authored_hash": "ea615e07d0aed16332c3df470b537278b2662baf3165c942081ca18e59cd599c"
+  },
+  {
+   "block_id": "2.4.3-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Topic 2.3 built market demand by adding individual buyers; this topic does the same for sellers, and topic 2.5 needs both totals to set the price.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "7e3b4d60a87ec344e679282363b6d66afc89a47ad19e89ad2df42f1264b86395"
+  }
+ ],
+ "word_count": 313
+}

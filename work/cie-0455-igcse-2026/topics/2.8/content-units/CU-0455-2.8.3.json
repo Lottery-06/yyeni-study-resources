@@ -1,0 +1,104 @@
+{
+ "unit_id": "CU-0455-2.8.3",
+ "title": "What makes supply elastic or inelastic",
+ "objective_ids": [
+  "OBJ-0455-2.8.3"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 4,
+ "word_budget": {
+  "min": 252,
+  "target": 307,
+  "max": 362
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.8.3-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Name the determinants of PES, work through how each one shapes the seller's response, and analyse what a difference in conditions means for a market.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "8dfa78f8a505e8f9194e77eb3583974e9a01ccd868c71d4c25e444267482bafe"
+  },
+  {
+   "block_id": "2.8.3-b2",
+   "block_type": "components",
+   "heading": "Four influences",
+   "text": "The determinants usually named are spare capacity - whether the seller has room to raise output without new equipment; the level of stocks - whether finished goods sit in a store ready to sell; the ease of switching production or finding extra inputs - whether workers, materials and machines can be brought in quickly; and the length of the period - how much time the seller has to respond.",
+   "claim_ids": [
+    "CLM-0455-2.8-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.8-007": 1
+   },
+   "authored_hash": "9e047e1859b73955126af07f291b7122bc8efdfbb35a2c75552e89ba76577b8e"
+  },
+  {
+   "block_id": "2.8.3-b3",
+   "block_type": "analysis_chain",
+   "heading": "How the influences work",
+   "text": "Spare capacity works on costs: a seller with an idle kiln or an idle third of a milling line can raise output using what it already pays for, so the quantity offered follows a rising price quickly - elastic supply. Stocks work on time: a seller with goods in store can meet a price rise this week, while a seller with empty stores must first produce, which delays the response. Both mechanisms fail at full capacity: kilns already firing flat out and yards already empty leave the seller able to change the price but not the quantity, which is the inelastic case.",
+   "claim_ids": [
+    "CLM-0455-2.8-007",
+    "CLM-0455-2.8-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.8-007": 1,
+    "CLM-0455-2.8-008": 1
+   },
+   "authored_hash": "527fd9196eda695c4d0e8549154540d88b1ff1465943e02495f107e135523c59"
+  },
+  {
+   "block_id": "2.8.3-b4",
+   "block_type": "worked_application",
+   "heading": "A season of mahangu",
+   "text": "Time works through the season. A mahangu grower near Oshakati who sees grain dearer in January cannot offer more grain that season, since the harvest was planted months before - the grower's supply is inelastic within the season. Across seasons the same grower can plant more fields, so supply tends to become more elastic as the period lengthens. A Japanese electronics factory shows the other side of the same rule: with parts arriving weekly and lines that run extra shifts, its supply responds within weeks, and over a year it can order new machines - the period sets the ceiling on every other determinant.",
+   "claim_ids": [
+    "CLM-0455-2.8-009",
+    "CLM-0455-2.8-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.8-009": 1,
+    "CLM-0455-2.8-010": 1
+   },
+   "authored_hash": "fadc50e90e2031505ad5cd3c44bc7f180ab48f8533957e264a815af1edcb7eb2"
+  },
+  {
+   "block_id": "2.8.3-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Topic 2.4 built the supply curve these conditions sit behind, and topic 2.6 showed a shift moving the price. What the shift does to quantity is what this topic measured, and what the responses mean for buyers, sellers and governments is next.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "04221a00433d6f90e6856527d3c3d39ab770379ec24942818443d313990e657e"
+  }
+ ],
+ "word_count": 357
+}

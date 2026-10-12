@@ -1,0 +1,118 @@
+{
+ "unit_id": "CU-0455-2.4.4",
+ "title": "The conditions of supply",
+ "objective_ids": [
+  "OBJ-0455-2.4.4"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_diagram",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 250,
+  "target": 305,
+  "max": 360
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.4.4-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Identify the conditions of supply, and show how a change in one shifts the supply curve.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "34be6444355f0946f99803cc6bd24ae906c89cf5add087fd4c94aef0b87da6da"
+  },
+  {
+   "block_id": "2.4.4-b2",
+   "block_type": "definition",
+   "heading": "The conditions of supply",
+   "text": "The conditions of supply are the influences on supply other than the good's own price. The list to know: the costs of the inputs used to make the good; the technology of production; indirect taxes on the good and subsidies for producing it; the prices of other goods the producer could make instead; the weather, for farm and fishing goods; and the number of sellers. The good's own price stays off the list, because it moves the market along the curve.",
+   "claim_ids": [
+    "CLM-0455-2.4-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.4-011": 1
+   },
+   "authored_hash": "b779144b039d25aea0dc5a0069030ef7f7616bb42fea28f967c1ba672a771cfd"
+  },
+  {
+   "block_id": "2.4.4-b3",
+   "block_type": "analysis_chain",
+   "heading": "A cost fall shifts the curve",
+   "text": "Start with a condition: the price of vinyl falls for Namib Signs, a sign-painting firm in Windhoek, while its price per sign stays at N$150. Because printing becomes cheaper at each price, this causes the firm to offer more signs at N$150 - 60 a month instead of 40. The whole supply curve shifts right: an increase in supply, meaning more is offered at every price. A rise in an input cost would shift it left: a decrease in supply.",
+   "claim_ids": [
+    "CLM-0455-2.4-012",
+    "CLM-0455-2.4-014"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.4-012": 1,
+    "CLM-0455-2.4-014": 1
+   },
+   "authored_hash": "7c92ed0d662f309ed5848cdef70bf13dddd6d9a97cc765675a638fa6f1822c66"
+  },
+  {
+   "block_id": "2.4.4-b4",
+   "block_type": "worked_application",
+   "heading": "Weather on the harvest",
+   "text": "The weather is a condition of supply for farm goods. Good rains round Otavi raise the maize offered at each price; drought shrinks it, shifting the curve left. Rice farmers in Vietnam watch the same condition: a strong Mekong delta harvest shifts their market's supply curve right, a weak one left. In each case the good's own price has not changed - the whole relationship between price and quantity has.",
+   "claim_ids": [
+    "CLM-0455-2.4-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.4-012": 1
+   },
+   "authored_hash": "63ddd070ee75264bfe735376184591084215a10635c37581af078b4b6646b4e3"
+  },
+  {
+   "block_id": "2.4.4-b5",
+   "block_type": "misconception",
+   "heading": "Movement or shift",
+   "text": "The confusion learners make: a price change and a condition change are both written as \"supply changed\". The boundary: the good's own price moves the market along the curve; a condition of supply, with the price unchanged, shifts the whole curve. The test: whether the good's own price changed. Where it did, the diagram shows an extension or a contraction along the curve; where it did not, a shift.",
+   "claim_ids": [
+    "CLM-0455-2.4-013"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.4-013": 1
+   },
+   "authored_hash": "18cd613fc92de6c8c06703dbe5dece24826ee77d6c587789209b1a3fbbd290d6"
+  },
+  {
+   "block_id": "2.4.4-b6",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Topic 2.5 traces what these shifts do to the market price, and topic 2.6 asks how strongly quantity supplied responds to price.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "527c0df288e941e58cad8172851d3559aecc8a6a4b7da21fbca13edd08cf7957"
+  }
+ ],
+ "word_count": 360
+}

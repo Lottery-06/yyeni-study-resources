@@ -1,0 +1,114 @@
+{
+ "unit_id": "CU-0455-2.7.4",
+ "title": "PED, total spending and revenue",
+ "objective_ids": [
+  "OBJ-0455-2.7.4"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_diagram",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 278,
+  "target": 338,
+  "max": 398
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.7.4-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Relate PED to total spending on a product and to the seller's revenue: multiply price by quantity, see how the total moves under elastic and inelastic demand, and keep revenue and profit apart.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {},
+   "authored_hash": "3687f74a15560a1ddae529a75f65c176a69ce7068da15ef826e10cf94f767834"
+  },
+  {
+   "block_id": "2.7.4-b2",
+   "block_type": "formula",
+   "heading": "Spending, revenue, and the two rules",
+   "text": "Total spending by consumers on a good equals the price multiplied by the quantity sold - the seller's revenue from the good. Elasticity decides which way the total moves when price moves. Where demand is price-inelastic, a price rise tends to raise total spending, because quantity demanded falls by a smaller percentage than the price rose, so the bigger price wins. Where demand is price-elastic, the same rise tends to lower it, because quantity demanded falls by a larger percentage, so the lost customers win. A price cut runs the rules in mirror.",
+   "claim_ids": [
+    "CLM-0455-2.7-017",
+    "CLM-0455-2.7-018",
+    "CLM-0455-2.7-019"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.7-017": 1,
+    "CLM-0455-2.7-018": 1,
+    "CLM-0455-2.7-019": 1
+   },
+   "authored_hash": "73fbaaecd879851f12e0fbc49d22c4d506a7add26b420feac5bcf14bf712b1b2"
+  },
+  {
+   "block_id": "2.7.4-b3",
+   "block_type": "worked_calculation",
+   "heading": "One price rise, two totals",
+   "text": "The inelastic case from section 2.7.2: the Ruacana minibus at N$40 carrying 500 passengers earned spending of N$20 000 a month, since 40 x 500 = 20000. At N$60 with 460 passengers, spending is N$27 600, since 60 x 460 = 27600 - up N$7 600, because the 8 per cent fall in passengers was smaller than the 50 per cent rise. The elastic case: Kaoko Juice at N$10 sold 200 bottles, spending N$2 000, since 10 x 200 = 2000; at N$12 with 150 bottles it is N$1 800, since 12 x 150 = 1800, a fall of N$200. On the diagram, each total is the rectangle under the demand curve at that point, height the price and base the quantity - the elastic or inelastic answer is which rectangle grows.",
+   "claim_ids": [
+    "CLM-0455-2.7-017",
+    "CLM-0455-2.7-018",
+    "CLM-0455-2.7-019",
+    "CLM-0455-2.7-020"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.7-017": 1,
+    "CLM-0455-2.7-018": 1,
+    "CLM-0455-2.7-019": 1,
+    "CLM-0455-2.7-020": 1
+   },
+   "authored_hash": "c8b2596ee647af598c3406c30fc0e35723e144e044abccd175f9c2c21e2bbbaa"
+  },
+  {
+   "block_id": "2.7.4-b4",
+   "block_type": "misconception",
+   "heading": "Revenue is not profit, and one market is not the whole economy",
+   "text": "Two confusions travel here. Revenue against profit: revenue is the money coming in from sales, profit what remains after the costs of production are paid, so a revenue rise settles nothing about profit until costs are known. One product against total demand: this elasticity is the responsiveness of buyers of one good, one market at a time. A total is not an average: total spending is price times quantity, an average divides a total by a count. The test for each: name what the figure adds up, and over what.",
+   "claim_ids": [
+    "CLM-0455-2.7-021",
+    "CLM-0455-2.7-022",
+    "CLM-0455-2.7-023"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.7-021": 1,
+    "CLM-0455-2.7-022": 1,
+    "CLM-0455-2.7-023": 1
+   },
+   "authored_hash": "39e4cb8528707dffedd6b562868f5b5a0bc891b2c0af0f580bc9bc32e98f0322"
+  },
+  {
+   "block_id": "2.7.4-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The totals reuse section 2.7.2's calculations and are what a firm's price decision (2.7.5) and a government's tax decision (4.1) turn on.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [],
+   "claims_seen": {},
+   "authored_hash": "db32bdd9c0cc85385ed9665c334d4e74ae4ec7e8969a69029d58ca64968a63c7"
+  }
+ ],
+ "word_count": 398
+}

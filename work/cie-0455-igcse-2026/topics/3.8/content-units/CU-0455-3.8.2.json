@@ -1,0 +1,104 @@
+{
+ "unit_id": "CU-0455-3.8.2",
+ "title": "Markets with a single dominant seller",
+ "objective_ids": [
+  "OBJ-0455-3.8.2"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_diagram",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 290,
+  "target": 352,
+  "max": 415
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "3.8.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section asks you to do",
+   "text": "Define a monopoly, name its characteristics, and weigh its advantages and disadvantages for buyers and for the seller.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {},
+   "authored_hash": "38a7a88ec143ab7b5f7b807e25413c05283ae0cf768ad6021cce14c70c19958b"
+  },
+  {
+   "block_id": "3.8.2-b2",
+   "block_type": "definition",
+   "heading": "What a monopoly is",
+   "text": "A monopoly is a market with a single dominant seller - in the extreme, the only supplier - protected by barriers to entry that keep new sellers out. The barriers take several forms: a government licence, control of a key input, the high cost of setting up, or an established position buyers already trust. Because buyers who want the good have few alternatives within reach, the seller sets its own price within what buyers will pay, rather than taking a price set by many rivals. The ferry at Katima Mulilo under its single licence shows the shape, as does the one rail line into a Brazilian mining town.",
+   "claim_ids": [
+    "CLM-0455-3.8-005",
+    "CLM-0455-3.8-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.8-005": 1,
+    "CLM-0455-3.8-006": 1
+   },
+   "authored_hash": "af5920ab41e33fb883311c3dbcc86a7e0a99b386d7c80a852be2c93b68cf83aa"
+  },
+  {
+   "block_id": "3.8.2-b3",
+   "block_type": "worked_application",
+   "heading": "The fuel station at Ruacana",
+   "text": "The fuel station at Ruacana is the only station within 90 km, and the distance is its barrier. When it lifts its price from N$22 to N$25 a litre, its monthly sales fall from 9 000 litres to 7 200 litres, a loss of 1 800 litres, since 9 000 - 7 200 = 1 800: the demand curve it faces is the whole area's demand curve, sloping downward, so a higher price tends to cost it sales. Because no rival can open within reach, the price may sit above the level a second station would tend to charge, and buyers pay it for the litres they still buy.",
+   "claim_ids": [
+    "CLM-0455-3.8-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.8-008": 1
+   },
+   "authored_hash": "48bfcb856bcb47cad71cdfe477dab6e168386f71feff5d48ed5d1db5a3dc115c"
+  },
+  {
+   "block_id": "3.8.2-b4",
+   "block_type": "evaluation",
+   "heading": "Advantages and disadvantages",
+   "text": "A single dominant seller cuts both ways. Where its large scale lowers its cost per unit, part of the saving may reach buyers through a lower price, and a single supplier may build a network - pipes, lines, tracks - that many small sellers could not fund separately, keeping supply steadier. Against that, the barriers may let the price sit above the many-seller level and hold output and choice back; the pressure to keep quality up is weaker where customers cannot easily switch; and profit may stay high precisely because newcomers are kept out. The gains tend to land on the seller; the higher prices and thinner choice land on buyers.",
+   "claim_ids": [
+    "CLM-0455-3.8-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.8-007": 1
+   },
+   "authored_hash": "19998ef52e6ccddc8ec777e4c0e12bd2181419310dfab60570ad0476921d0b3c"
+  },
+  {
+   "block_id": "3.8.2-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The abuse of monopoly power appears again as a cause of market failure in topic 2.10; the equilibrium price a single seller avoids is the one demand and supply set in topic 2.5; the firms behind both markets are classified in topic 3.5.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {},
+   "authored_hash": "756330a311fbfa6c6ee940cce7346dd21a4e2ec7c4b221236df0a1d3cfa32869"
+  }
+ ],
+ "word_count": 409
+}

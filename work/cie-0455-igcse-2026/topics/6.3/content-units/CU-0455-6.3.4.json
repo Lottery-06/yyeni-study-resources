@@ -1,0 +1,112 @@
+{
+ "unit_id": "CU-0455-6.3.4",
+ "title": "What a move in the rate does",
+ "objective_ids": [
+  "OBJ-0455-6.3.4"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 282,
+  "target": 344,
+  "max": 406
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "6.3.4-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Trace the effect of an appreciation or a depreciation on export and import prices, and from there to spending on exports and imports, with the price elasticity of demand deciding the size of the response.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "a0da6684057bacdf0dac0435cf84887f7787fbd9690369e6ffa2ab1b72c54212"
+  },
+  {
+   "block_id": "6.3.4-b2",
+   "block_type": "plain_explanation",
+   "heading": "Prices first",
+   "text": "The first consequence of a rate movement lands on prices. A depreciation of the Namibian dollar means each unit of foreign currency costs more Namibian dollars, so imported goods and inputs tend to cost more at home even though the foreign seller has not changed the quoted price, and a given Namibian-dollar export price converts into fewer foreign-currency units, so exports tend to become cheaper abroad. An appreciation works in the opposite direction on both sides: imports cheaper at home, exports dearer abroad. Exporters, importers and consumers feel the change before anything else in the economy does.",
+   "claim_ids": [
+    "CLM-0455-6.3-013",
+    "CLM-0455-6.3-016"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.3-013": 1,
+    "CLM-0455-6.3-016": 1
+   },
+   "authored_hash": "15e73826506b9a8dac5c658d59cb33a730cb703d42566813521bd116a843c2c2"
+  },
+  {
+   "block_id": "6.3.4-b3",
+   "block_type": "worked_application",
+   "heading": "The figures for one depreciation",
+   "text": "Let the Namibian dollar depreciate against the euro from N$19 per euro to N$21 per euro. A drum of imported dye priced 20 euros costs Oshakati Textiles 20 x 19 = N$380 before the move and 20 x 21 = N$420 after it. In the other direction, a crate of dried fruit priced N$399 costs a Portuguese buyer 21.00 euros before and 19.00 euros after. Neither seller changed a quoted price; the rate alone moved both price tags. Households buying imported goods face the same shift the textile firm faces on its inputs.",
+   "claim_ids": [
+    "CLM-0455-6.3-013",
+    "CLM-0455-6.3-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.3-013": 1,
+    "CLM-0455-6.3-004": 1
+   },
+   "authored_hash": "c93fac42211a75ceaba94e54419a6603b98a51dcbf002a3e37f5a5931e9869de"
+  },
+  {
+   "block_id": "6.3.4-b4",
+   "block_type": "analysis_chain",
+   "heading": "From prices to spending",
+   "text": "Whether spending moves with prices depends on the price elasticity of demand, met in topic 2.7. Where demand for the exports is price-elastic, the cheaper foreign price brings a large enough rise in quantities to raise export earnings. Where demand for imports is price-inelastic, as with engines that have no close home substitute, the dearer imports raise import spending rather than reduce it. The trade balance therefore tends to improve after a depreciation where the demand for exports and imports is price-elastic enough to respond and where supply in the economy can respond to the larger orders. Where these conditions fail, dearer imports can outweigh the export gain.",
+   "claim_ids": [
+    "CLM-0455-6.3-014",
+    "CLM-0455-6.3-015"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.3-014": 1,
+    "CLM-0455-6.3-015": 2
+   },
+   "authored_hash": "561d1b0bd0cd789d2daf9dd90ccf2aac46174393c1ceae9c2e6d334f98206ff6",
+   "prior_hash": "08fa4a5e6db0818445753cf548cb0ddb7985b4d0a2977718281eb2db65549b3e",
+   "repair_note": "Planner audit 2026-10-06: removed the named Marshall-Lerner condition (beyond the 0455 syllabus; the condition is kept in plain words) and corrected cross-references to topics 2.7 (PED) and 6.4 (current account)."
+  },
+  {
+   "block_id": "6.3.4-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Price elasticity of demand belongs to topic 2.7 and the working of price changes to topic 2.6, and the current account that balances these payments against each other is the subject of topic 6.4.",
+   "claim_ids": [
+    "CLM-0455-6.3-015"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.3-015": 2
+   },
+   "authored_hash": "7718862903586bd0a1a7218d517fa07183161a24fe90b67d2534004ce3732aaa",
+   "prior_hash": "f6f2906f7975f81705c787d54adc6706fbbf52ed154e4e41432ca08b4acc8656",
+   "repair_note": "Planner audit 2026-10-06: removed the named Marshall-Lerner condition (beyond the 0455 syllabus; the condition is kept in plain words) and corrected cross-references to topics 2.7 (PED) and 6.4 (current account)."
+  }
+ ],
+ "word_count": 386
+}

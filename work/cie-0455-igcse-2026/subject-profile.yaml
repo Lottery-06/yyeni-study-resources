@@ -3,27 +3,18 @@ version: 0.1.0-draft
 status: draft
 subject_name: Economics
 language_variant: British English
-purpose: >-
-  The answer shapes, register and prohibitions that make 0455 output look like 0455
-  output. Everything here is derived from 84 mark schemes and 17 examiner reports,
-  not from a house style.
-
+purpose: The answer shapes, register and prohibitions that make 0455 output look like 0455 output. Everything here
+  is derived from 84 mark schemes and 17 examiner reports, not from a house style.
 depth_model:
   1: recall a definition or a named item
   2: apply a concept to a stated situation
   3: analyse a cause through to its consequence for a named economic agent
   4: evaluate two sides and reach a supported judgement
-
 terminology_rules:
-- Use the syllabus's own term, not a near neighbour. The mark schemes refuse GDP per
-  head where GDP is asked for, and refuse a synonym where a syllabus term is specific.
-- >-
-    Name the economic agent every consequence lands on: consumer, worker, producer,
-    firm, government, or the economy.
-- A diagram is described in words as well as drawn. A diagram alone earns nothing
-  where a written point is required.
-
-# The marking guidance on every card must name every part of its subtype's structure.
+- Use the syllabus's own term, not a near neighbour. The mark schemes refuse GDP per head where GDP is asked for,
+  and refuse a synonym where a syllabus term is specific.
+- 'Name the economic agent every consequence lands on: consumer, worker, producer, firm, government, or the economy.'
+- A diagram is described in words as well as drawn. A diagram alone earns nothing where a written point is required.
 answer_structures:
   DEF:
   - meaning|precise|definition
@@ -85,44 +76,160 @@ answer_structures:
   SYNTH:
   - the link|how the two connect
   - the consequence
-
 variant_register:
-- currency: >-
-    N$ and Namibian contexts where a country example is needed, with at least one
-    southern African and one non-African example per unit so the examples are not
-    parochial.
-- data: >-
-    Figures are invented for teaching and labelled as such; real published statistics
-    are used only where they are stable and cited.
-
-# A conclusion that holds only under conditions carries those conditions EVERY time
-# it appears, not only in the claim. RS-43.
+- currency: N$ and Namibian contexts where a country example is needed, with at least one southern African and one
+    non-African example per unit so the examples are not parochial.
+- data: Figures are invented for teaching and labelled as such; real published statistics are used only where they
+    are stable and cited.
 conditioned_mechanisms:
-- A price rise raises total revenue only where demand is price-inelastic.
-- A depreciation improves the current account only where the Marshall-Lerner condition
-  holds and supply can respond; state the condition, not just the result.
-- An increase in government spending raises output only where there is spare capacity.
-- A minimum wage raises unemployment only where it is set above the market wage and
-  demand for that labour is elastic.
-- Economic growth raises living standards only where the gains are distributed and not
-  offset by external costs.
-
+- mechanism_id: CM-0455-PRICE-REVENUE
+  name: A price rise raises total revenue
+  rationale: A price rise raises total revenue only where demand is price-inelastic. Taught as an unconditional
+    rule it produces answers that claim a firm can always raise revenue by raising price.
+  asserted_when:
+  - '\bprice (?:rise|increase|rises|increases|is raised)\b'
+  - '\btotal (?:revenue|spending)\b'
+  - '\b(rises|increase[sd]?|falls?|higher|lower)\b'
+  required_conditions:
+  - name: demand being price-inelastic for the product
+    any_of:
+    - '\bprice[- ]inelastic\b'
+    - '\binelastic\b'
+    - '\belasticity (?:less|below|under) (?:than )?1\b'
+    - '\bPED (?:less|of below|below|under) (?:than )?1\b'
+    - '\bless than 1\b'
+- mechanism_id: CM-0455-DEPRECIATION-CURRENT-ACCOUNT
+  name: A depreciation improves the current account
+  rationale: A depreciation improves the current account only where demand for exports and imports is
+    price-elastic enough to respond and supply can respond; state the condition, not just the result. Teach the
+    condition in plain words; the named Marshall-Lerner condition is beyond the 0455 syllabus (amended 6 October
+    2026, planner).
+  asserted_when:
+  - '\bdepreciat\w*\b'
+  - '\bcurrent account\b'
+  - '\b(improve[sd]?|improves|worsen[sd]?|better|weaker|stronger)\b'
+  required_conditions:
+  - name: demand for exports and imports being elastic enough to respond, and supply being able to respond
+    any_of:
+    - '\bMarshall[- ]Lerner\b'
+    - '\bsum of (?:the )?(?:price )?elasticit\w+ (?:of|exceeds|is greater)\b'
+    - '\bdemand for (?:both|the) exports? (?:and|plus) (?:imports?|import demand)\b'
+    - '\belastic enough to respond\b'
+    - '\bsupply can respond\b'
+- mechanism_id: CM-0455-GOVSPEND-OUTPUT
+  name: An increase in government spending raises output
+  rationale: An increase in government spending raises output only where there is spare capacity. Without the
+    condition it teaches that spending can always expand output.
+  asserted_when:
+  - '\bgovernment spending\b'
+  - '\b(raises|increase[sd]?|raises|expands?|boosts?)\b'
+  - '\b(output|production|GDP|real GDP)\b'
+  required_conditions:
+  - name: spare capacity existing in the economy
+    any_of:
+    - '\bspare capacity\b'
+    - '\bunemployed resources\b'
+    - '\bslack in the economy\b'
+    - '\bbelow full (?:employment|capacity)\b'
+- mechanism_id: CM-0455-MINWAGE-UNEMPLOYMENT
+  name: A minimum wage raises unemployment
+  rationale: A minimum wage raises unemployment only where it is set above the market wage and demand for that
+    labour is elastic. The condition decides the conclusion, so it travels with every assertion.
+  asserted_when:
+  - '\bminimum wage\b'
+  - '\b(raises|increase[sd]?|causes?|creates?)\b'
+  - '\bunemployment\b'
+  required_conditions:
+  - name: the wage being set above the market wage
+    any_of:
+    - '\babove the market wage\b'
+    - '\babove the equilibrium wage\b'
+    - '\bset above\b'
+    - '\bhigher than the market\b'
+  - name: demand for that labour being elastic
+    any_of:
+    - '\bdemand for (?:that |the )?labour is elastic\b'
+    - '\belastic demand for labour\b'
+    - '\blabour demand is elastic\b'
+- mechanism_id: CM-0455-GROWTH-LIVING-STANDARDS
+  name: Economic growth raises living standards
+  rationale: Economic growth raises living standards only where the gains are distributed and not offset by
+    external costs. Without the condition it teaches that growth always benefits everyone.
+  asserted_when:
+  - '\beconomic growth\b'
+  - '\b(raises|improves|increase[sd]?|boosts?)\b'
+  - '\bliving standards\b'
+  required_conditions:
+  - name: the gains being distributed and not offset by external costs
+    any_of:
+    - '\bdistribut\w+\b'
+    - '\bshared (?:out|among|between|widely)\b'
+    - '\bnot offset by\b'
+    - '\bexternal cost\b'
+    - '\bexternalit\w+\b'
 prohibited_patterns:
-- >-
-    Unqualified universals - always, never, every, only - unless the statement is
-    definitional, legal or arithmetic.
+- Unqualified universals - always, never, every, only - unless the statement is definitional, legal or arithmetic.
 - Claiming what examiners reward, what carries most marks, or what a paper contains.
-- Quoting figures from data as if quoting were analysis. State the relationship, then
-  give the reason.
+- Quoting figures from data as if quoting were analysis. State the relationship, then give the reason.
 - A diagram presented without the written point it is supposed to make.
-- Treating a cause as a consequence or the reverse. The examiner reports name this
-  repeatedly; every cause/effect card states which direction it runs in.
+- Treating a cause as a consequence or the reverse. The examiner reports name this repeatedly; every cause/effect
+  card states which direction it runs in.
 - Restating a point in different words and counting it as a second point.
-
 glossary_homonyms:
-- >-
-    Production and productivity are different quantities; say which one is meant.
+- Production and productivity are different quantities; say which one is meant.
 - a free good and a public good are different things.
 - market failure and business failure are different things.
 - characteristics of money and functions of money are different lists.
 - a budget deficit and a current account deficit are different balances.
+slot_plan:
+  note: 'CR-006. The performance tasks for this subject, read by build/make_work_order.py; every other slot rule
+    keeps its default. The defaults were written for a business subject (a lender-style question, an AO4 data case,
+    an unfamiliar business) and weighted the practice towards AO2. These model the 0455 papers instead: Paper 1
+    is multiple choice (AO1 50, AO2 50); Paper 2 is a compulsory data-response question and three structured questions
+    of 20 marks (AO1 35, AO2 35, AO3 30), syllabus page 11. Tariff shapes are from the corpus analysis. AO by subtype
+    follows the command word each card models (corpus analysis, section 1): Explain, at 4 marks, is judged AO1/AO2,
+    so APP and INTERP cards worded Explain carry both and WHY carries AO1; a diagram card worded Discuss at 8 marks
+    is analysis and evaluation, AO2/AO3.'
+  performance_tasks:
+  - item_type: multiple_choice_set
+    brief: A set of {n} four-option multiple-choice questions on this topic in the style of Paper 1, one mark each,
+      every distractor explained on the back as the specific misunderstanding it catches.
+  - item_type: data_response
+    brief: 'A Paper 2 Section A-style data-response question on this topic (14 marks): an original short economic
+      news extract with a table or figures, with parts of 1 mark each (two Calculate from the data), 2 marks (Identify or
+      State), 4 marks (Explain), and 6 marks (Analyse, using the data as evidence: expected relationship, evidence,
+      analysis, exception). The guidance marks one point per distinct linked statement and refuses figure-quoting
+      as analysis.'
+    ao_split:
+      AO1: 5
+      AO2: 6
+      AO3: 3
+  - item_type: short_answer
+    brief: 'A Paper 2 Section B-style structured question on this topic (20 marks): (a) Define, 2 marks; (b) Explain,
+      4 marks; (c) Analyse, 6 marks; (d) Discuss, 8 marks, level-marked over three bands with the top band examining
+      both sides (why it might, why it might not) and reaching a judgement. Model answer and guidance for every
+      part.'
+    ao_split:
+      AO1: 7
+      AO2: 7
+      AO3: 6
+  - item_type: essay_plan
+    brief: 'A plan for an 8-mark Discuss question on this topic: the case for, the case against, each point developed
+      into a chain, and the judgement with the condition it depends on. Not written out in full.'
+    ao_split:
+      AO1: 2
+      AO2: 2
+      AO3: 4
+  ao_by_objective_type:
+    '*':
+      APP:
+      - AO1
+      - AO2
+      INTERP:
+      - AO1
+      - AO2
+      WHY:
+      - AO1
+      DIAGRAM:
+      - AO2
+      - AO3

@@ -2,27 +2,27 @@
 
 *build/make_work_order.py — regenerate, never edit*
 
-2 assessable objectives · 21 planned items · 2 content units
+2 assessable objectives · 16 planned items · 2 content units
 
 ## Planned AO mix by item count (reported, not targeted)
 
 | AO | planned | item-count target |
 |---|---:|---:|
-| AO1 | 50% | 40% |
-| AO2 | 50% | 40% |
-| AO3 | 0% | 20% |
+| AO1 | 44% | 40% |
+| AO2 | 44% | 40% |
+| AO3 | 11% | 20% |
 
 ## Planned AO mix in marks-equivalent — the measure the syllabus uses
 
 | AO | planned | syllabus weight |
 |---|---:|---:|
-| AO1 | 28% | 40% |
-| AO2 | 55% | 40% |
-| AO3 | 17% | 20% |
+| AO1 | 36% | 40% |
+| AO2 | 44% | 40% |
+| AO3 | 20% | 20% |
 
-155 marks-equivalent of practice in this topic.
+106 marks-equivalent of practice in this topic.
 
-> The syllabus states its AO weights as a share of MARKS, so planned_ao_mix_by_marks is the one that answers "does this resource match the exam". It values each card at the tariff of the question it models, split across the AOs the card declares, and values each performance task at the marks of the paper part it models. The count-based mix below is reported only because it is what a reader expects to see; do not balance against it. AO shares by ITEM COUNT: Every objective needs one recall anchor, so AO1 has a structural floor of about 12% in this topic (2 objectives against 16 slots) and cannot reach the 40% target by count however many other cards are added - padding the bank to chase it makes the resource worse. The framework already measures the AO4 share in practice time rather than by count for the same reason. Treat AO1 above target as expected, and AO2/AO3/AO4 below target as the thing worth fixing.
+> The syllabus states its AO weights as a share of MARKS, so planned_ao_mix_by_marks is the one that answers "does this resource match the exam". It values each card at the tariff of the question it models, split across the AOs the card declares, and values each performance task at the marks of the paper part it models. The count-based mix below is reported only because it is what a reader expects to see; do not balance against it. AO shares by ITEM COUNT: Every objective needs one recall anchor, so AO1 has a structural floor of about 11% in this topic (2 objectives against 18 slots) and cannot reach the 40% target by count however many other cards are added - padding the bank to chase it makes the resource worse. The framework already measures the AO4 share in practice time rather than by count for the same reason. Treat AO1 above target as expected, and AO2/AO3/AO4 below target as the thing worth fixing.
 
 ## Content units
 
@@ -37,29 +37,24 @@
 | Slot | Objective | Subtype | AO | Command word | Tariff | Why |
 |---|---|---|---|---|---:|---|
 | `001-DEF` | market equilibrium | DEF | AO1 | Define | 2 | instructs with Define, which this objective carries |
-| `002-DIAGRAM` | market equilibrium | DIAGRAM | AO2 | Discuss | 8 | instructs with Discuss, the shape this subtype needs |
-| `003-INTERP` | market equilibrium | INTERP | AO2 | Explain | 4 | instructs with Explain, which this objective carries |
-| `004-APP` | market equilibrium | APP | AO2 | Explain | 4 | instructs with Explain, which this objective carries |
+| `002-DIAGRAM` | market equilibrium | DIAGRAM | AO2/AO3 | Discuss | 8 | instructs with Discuss, the shape this subtype needs |
+| `003-INTERP` | market equilibrium | INTERP | AO1/AO2 | Explain | 4 | instructs with Explain, which this objective carries |
+| `004-APP` | market equilibrium | APP | AO1/AO2 | Explain | 4 | instructs with Explain, which this objective carries |
 | `005-CHAIN` | market equilibrium | CHAIN | AO2 | Analyse | 6 | instructs with Analyse, which this objective carries |
 | `011-FEATURE` | market equilibrium | FEATURE | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
-| `013-MISCON` | market equilibrium | MISCON | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
-| `015-DIST` | market equilibrium | DIST | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
 | `006-DEF` | market disequilibrium | DEF | AO1 | Define | 2 | instructs with Define, which this objective carries |
-| `007-DIAGRAM` | market disequilibrium | DIAGRAM | AO2 | Discuss | 8 | instructs with Discuss, the shape this subtype needs |
-| `008-INTERP` | market disequilibrium | INTERP | AO2 | Explain | 4 | instructs with Explain, which this objective carries |
-| `009-APP` | market disequilibrium | APP | AO2 | Explain | 4 | instructs with Explain, which this objective carries |
+| `007-DIAGRAM` | market disequilibrium | DIAGRAM | AO2/AO3 | Discuss | 8 | instructs with Discuss, the shape this subtype needs |
+| `008-INTERP` | market disequilibrium | INTERP | AO1/AO2 | Explain | 4 | instructs with Explain, which this objective carries |
+| `009-APP` | market disequilibrium | APP | AO1/AO2 | Explain | 4 | instructs with Explain, which this objective carries |
 | `010-CHAIN` | market disequilibrium | CHAIN | AO2 | Analyse | 6 | instructs with Analyse, which this objective carries |
 | `012-FEATURE` | market disequilibrium | FEATURE | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
-| `014-MISCON` | market disequilibrium | MISCON | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
-| `016-DIST` | market disequilibrium | DIST | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
 
 ## Performance tasks
 
-- **multiple_choice_set** — A set of 8 four-option multiple-choice questions on this topic, one mark each, every distractor explained on the back. This models the qualification’s multiple-choice paper, which carries 30 of its 120 marks — 30% of the whole examination.
-- **short_answer** — A lender/manager-style question requiring several linked points
-- **data_response** — A short case with figures, answered under AO2 and AO4
-- **essay_plan** — A planned 12-mark evaluation, structured not written out
-- **case_analysis** — An unfamiliar business, analysed then judged
+- **multiple_choice_set** — A set of 8 four-option multiple-choice questions on this topic in the style of Paper 1, one mark each, every distractor explained on the back as the specific misunderstanding it catches.
+- **data_response** — A Paper 2 Section A-style data-response question on this topic (14 marks): an original short economic news extract with a table or figures, with parts of 1 mark each (two Calculate from the data), 2 marks (Identify or State), 4 marks (Explain), and 6 marks (Analyse, using the data as evidence: expected relationship, evidence, analysis, exception). The guidance marks one point per distinct linked statement and refuses figure-quoting as analysis.
+- **short_answer** — A Paper 2 Section B-style structured question on this topic (20 marks): (a) Define, 2 marks; (b) Explain, 4 marks; (c) Analyse, 6 marks; (d) Discuss, 8 marks, level-marked over three bands with the top band examining both sides (why it might, why it might not) and reaching a judgement. Model answer and guidance for every part.
+- **essay_plan** — A plan for an 8-mark Discuss question on this topic: the case for, the case against, each point developed into a chain, and the judgement with the condition it depends on. Not written out in full.
 
 ## Excluded from this topic
 

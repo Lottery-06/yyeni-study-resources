@@ -1,0 +1,127 @@
+{
+ "unit_id": "CU-0455-6.4.3",
+ "title": "Consequences for the economy",
+ "objective_ids": [
+  "OBJ-0455-6.4.3"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 282,
+  "target": 344,
+  "max": 405
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "6.4.3-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Trace effects on GDP, employment, inflation and the exchange rate, while explaining why the cause of the balance matters.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "da07478e2de281e3f21aedd2c48b47b39c2939b5155e8fcf992d18b39d78c90f"
+  },
+  {
+   "block_id": "6.4.3-b2",
+   "block_type": "plain_explanation",
+   "heading": "Output and jobs",
+   "text": "A deficit caused by consumers switching from home goods to imports can weaken domestic sales. Firms may cut production and employment, reducing domestic GDP. A surplus driven by stronger export orders can raise GDP and employment where firms have capacity to expand. A surplus caused by a recession reducing imports has a different meaning: it can accompany falling output and jobs. The sign of the balance alone does not reveal the condition of the economy.",
+   "claim_ids": [
+    "CLM-0455-6.4-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.4-010": 1
+   },
+   "authored_hash": "99cc0f77b58dc3798fd99f59fab4d3162a8783dc44f2929bc707ec7fa86ff350"
+  },
+  {
+   "block_id": "6.4.3-b3",
+   "block_type": "analysis_chain",
+   "heading": "Currency and prices",
+   "text": "Where the currency floats, extra import payments relative to export receipts can increase sales of home currency for foreign currency, putting downward pressure on its exchange rate, other currency flows unchanged. If depreciation follows, imported fuel and materials become dearer in home currency, which may raise firms' costs and consumer prices. Stronger export receipts can create upward currency pressure instead; appreciation may reduce import-price pressure but also weaken exporters' competitiveness. Investment flows can offset these pressures. With a fixed rate, the monetary authority may use foreign exchange reserves to support the currency. These reserves are foreign-currency assets available for external payments or currency-market intervention.",
+   "claim_ids": [
+    "CLM-0455-6.4-009",
+    "CLM-0455-6.4-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.4-009": 1,
+    "CLM-0455-6.4-011": 1
+   },
+   "authored_hash": "b7b4bc094a977afaf3e7ce470e26093c0e18cad7b056ff8331208cb43c651a2d"
+  },
+  {
+   "block_id": "6.4.3-b4",
+   "block_type": "worked_application",
+   "heading": "What was imported?",
+   "text": "Compare two invented situations. Namibian buyers switch N$20 million of annual purchases from local furniture to South African furniture while other flows stay unchanged. The resulting deficit is associated with lost orders for domestic firms, which may cut jobs. In another situation, a Namibian food processor imports N$20 million of equipment from Japan. Its initial import payment worsens the current account, but if the equipment raises productive capacity and future exports, output and jobs may rise later. The second deficit therefore need not indicate declining competitiveness. If it is financed by overseas borrowing, future interest payments may worsen primary income; the benefit depends on the equipment earning enough to meet those costs.",
+   "claim_ids": [
+    "CLM-0455-6.4-010",
+    "CLM-0455-6.4-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.4-010": 1,
+    "CLM-0455-6.4-012": 1
+   },
+   "authored_hash": "922912ea0b5b58933586b6311d46e05f0fbb7075e63ef7ed1fc9c9efa629f68d"
+  },
+  {
+   "block_id": "6.4.3-b5",
+   "block_type": "evaluation",
+   "heading": "A sustainable position",
+   "text": "Persistent deficits can require borrowing, asset sales or reserve use; reserves cannot support repeated payments indefinitely. A large surplus can also reflect households being unable to afford imports. Judge the source, duration and financing of the imbalance before deciding whether it threatens living standards.",
+   "claim_ids": [
+    "CLM-0455-6.4-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.4-012": 1
+   },
+   "authored_hash": "8569bd49ff9c3ce5f0e58f3c13f9b66556380937c1b36c5295937d7bccd67d10"
+  },
+  {
+   "block_id": "6.4.3-b6",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "These consequences connect to growth in topic 4.6, employment in 4.7, inflation in 4.8 and exchange rates in 6.3.",
+   "claim_ids": [
+    "CLM-0455-6.4-010",
+    "CLM-0455-6.4-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.4-010": 1,
+    "CLM-0455-6.4-011": 1
+   },
+   "authored_hash": "d8ebe40766271ea4718309bf195f99eb03b072e2770e5489b85eb4090e2df660"
+  }
+ ],
+ "word_count": 373
+}

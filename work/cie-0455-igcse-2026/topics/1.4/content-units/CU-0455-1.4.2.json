@@ -1,0 +1,106 @@
+{
+ "unit_id": "CU-0455-1.4.2",
+ "title": "Under, on and beyond",
+ "objective_ids": [
+  "OBJ-0455-1.4.2"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_diagram",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 250,
+  "target": 305,
+  "max": 360
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "1.4.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "State what a point under, a point on and a point beyond a production possibility curve each show, and read an economy position from figures.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "c13a32565e04985d9e4bba25a17d023f2ea19c35b411a9e43d639d79d8a6096f"
+  },
+  {
+   "block_id": "1.4.2-b2",
+   "block_type": "plain_explanation",
+   "heading": "Three locations, three meanings",
+   "text": "A point on the boundary shows resources fully and efficiently employed: output sits at a maximum for that combination. A point under the boundary, inside it, shows resources idle or used in the wrong place: output of one good, or of both, could be higher without a sacrifice. A point beyond the boundary cannot be produced with the current resources and technology; it stays out of reach until the boundary itself shifts outward. Location is a fact, not a verdict: an economy inside its PPC during a seasonal pause is not failing, it is waiting for the harvest.",
+   "claim_ids": [
+    "CLM-0455-1.4-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.4-005": 1
+   },
+   "authored_hash": "6748311be91e572257a326de2810e2512b49d69d26bd3df80a985eaa0380891f"
+  },
+  {
+   "block_id": "1.4.2-b3",
+   "block_type": "worked_application",
+   "heading": "A worked reading",
+   "text": "A co-operative in Katima Mulilo weaves reed mats and carves fish baskets. With its 12 members it could make up to 60 reed mats or 30 fish baskets a month; 40 reed mats together with 22 fish baskets is one combination on its boundary. In March it made 40 reed mats and 12 fish baskets, with four members away and a loom idle. At the same 40 reed mats, 12 fish baskets sits below the 22 the boundary allows, so March lies inside the boundary: both outputs could have been higher had the same people and loom been at work.",
+   "claim_ids": [
+    "CLM-0455-1.4-005",
+    "CLM-0455-1.4-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.4-005": 1,
+    "CLM-0455-1.4-006": 1
+   },
+   "authored_hash": "46d9b090f0d1d30eb14fc5ffa1053f6d09f7e7833cf9d6a4a69b87b45f7f4bea"
+  },
+  {
+   "block_id": "1.4.2-b4",
+   "block_type": "analysis_chain",
+   "heading": "From idle to employed",
+   "text": "When resources are idle, moving toward the boundary costs nothing in the other good: the four members returning raise mats and baskets together, since the co-operative starts inside its PPC. That is why unemployment of any resource shows up as an interior point. Once the boundary is reached, further gains in one good come at a cost in the other, and the interior free lunch ends. The Netherlands pumps land from the sea to move its whole boundary outward, and a point beyond reach today becomes reachable once the boundary has moved.",
+   "claim_ids": [
+    "CLM-0455-1.4-006",
+    "CLM-0455-1.4-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.4-006": 1,
+    "CLM-0455-1.4-007": 1
+   },
+   "authored_hash": "6b2de51b3439049b6dbcfdd88659438a444c5b8a899fb3a42ce7752b25930f4d"
+  },
+  {
+   "block_id": "1.4.2-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The boundary comes from the previous section; what it costs to slide along it is topic 1.4.3, and what moves the whole boundary is topic 1.4.4.",
+   "claim_ids": [
+    "CLM-0455-1.4-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.4-007": 1
+   },
+   "authored_hash": "dc460e089b4a7c764835da34089430f0c5e8b0df8af321e283505ccfdaa5580f"
+  }
+ ],
+ "word_count": 357
+}

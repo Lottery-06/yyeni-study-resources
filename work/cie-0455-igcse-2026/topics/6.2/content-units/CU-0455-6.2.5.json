@@ -1,0 +1,103 @@
+{
+ "unit_id": "CU-0455-6.2.5",
+ "title": "Why governments protect",
+ "objective_ids": [
+  "OBJ-0455-6.2.5"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 288,
+  "target": 350,
+  "max": 413
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "6.2.5-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section asks you to do",
+   "text": "State the reasons governments give for protection, and analyse how each reason runs from the barrier to its consequence.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {},
+   "authored_hash": "8a5afd708d1128fbb42c4bb5633c34d0c3fcd3322f512ee15cddb05821d4c7d3"
+  },
+  {
+   "block_id": "6.2.5-b2",
+   "block_type": "plain_explanation",
+   "heading": "Four reasons",
+   "text": "Governments give four reasons for protection. The infant industry: a new domestic industry, not yet big enough to produce at the low cost per unit of established rivals, is sheltered until it grows towards that scale. The declining industry: an industry losing ground to cheaper imports is sheltered so the decline is slower, giving workers and equipment time to move. The strategic industry: food, fuel or defence goods are kept going at home so that conflict or shortage abroad cannot cut off the supply. Dumping: where an exporter sells below its cost of production or below its home price to drive rivals out, protection may be used to stop the home market being taken that way.",
+   "claim_ids": [
+    "CLM-0455-6.2-015"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.2-015": 1
+   },
+   "authored_hash": "dbc8f89f013e1c9596f08cc43a0ec15718226dc644be111b368ce58f99c02c34"
+  },
+  {
+   "block_id": "6.2.5-b3",
+   "block_type": "analysis_chain",
+   "heading": "The infant-industry chain",
+   "text": "The infant-industry argument runs as a chain. A new industry starts small, so its cost per unit tends to sit above established foreign rivals. Protection - a tariff or a quota - raises the import price or caps the import quantity, so home firms keep sales while they grow. As output grows, the cost per unit tends to fall with scale. Where the industry matures, the protection is withdrawn and the industry stands on its own. The caution travels with the argument: where the industry never matures, consumers keep paying the cost of a shelter that has stopped being temporary.",
+   "claim_ids": [
+    "CLM-0455-6.2-016"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.2-016": 1
+   },
+   "authored_hash": "8e2416482177876754fd038e149843f3c37c42d8bec0151a729dc9849e2d5bf1"
+  },
+  {
+   "block_id": "6.2.5-b4",
+   "block_type": "analysis_chain",
+   "heading": "Dumping, and the other two",
+   "text": "The dumping chain runs the same way from a different start. An exporter sells below cost to win the market; home producers lose sales and may close; a tariff or quota raises the dumped price, so home producers keep their market and their workers keep their jobs. The strategic and declining reasons skip the scale argument: their case rests on security in the first and a slower, managed exit in the second, and each is judged by whether the shelter serves that purpose or settles into permanence.",
+   "claim_ids": [
+    "CLM-0455-6.2-017",
+    "CLM-0455-6.2-015"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.2-017": 1,
+    "CLM-0455-6.2-015": 1
+   },
+   "authored_hash": "2ee5cc380b882ee81756894f826d6fbcb839a6e8d376ae9738c5b9782acf3a24"
+  },
+  {
+   "block_id": "6.2.5-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "What these barriers then do to prices, output and jobs at home and abroad is the subject of the next section; the benefits of free trade they give up are those of section 6.2.3.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {},
+   "authored_hash": "6cc2a79cb8d144c60edf34540221d3d0f7d765c0d161411a1d4facb7bdf3b2fa"
+  }
+ ],
+ "word_count": 374
+}

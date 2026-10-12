@@ -1,0 +1,122 @@
+{
+ "unit_id": "CU-0455-2.4.2",
+ "title": "Price and quantity supplied",
+ "objective_ids": [
+  "OBJ-0455-2.4.2"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_diagram",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 250,
+  "target": 305,
+  "max": 360
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.4.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Show the positive relationship between price and quantity supplied, and separate an extension from a contraction in supply.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "70b661c0607a43791b7bb02e17750374faa3e9d783e781f458ff2c0d6729412f"
+  },
+  {
+   "block_id": "2.4.2-b2",
+   "block_type": "definition",
+   "heading": "A positive relationship",
+   "text": "When the price of a good rises, the quantity supplied tends to rise; when the price falls, the quantity supplied tends to fall. This positive relationship holds where nothing else changes: a higher price tends to make producing the good more worthwhile, so sellers offer more; a lower price leaves some production not worth the effort. The supply schedule writes the quantities down price by price, and the curve slopes upward, price on the vertical axis, quantity on the horizontal.",
+   "claim_ids": [
+    "CLM-0455-2.4-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.4-005": 1
+   },
+   "authored_hash": "cfe3932fc70ac2e67fb236a21c15e2ad59a6a3706fec213193c13dac9320e7f5"
+  },
+  {
+   "block_id": "2.4.2-b3",
+   "block_type": "worked_application",
+   "heading": "Reading the schedule",
+   "text": "Kaoko Juice bottles juice in Opuwo: at N$8 a bottle it offers 600 bottles a week, at N$12 it offers 900. Moving along the curve between the two points is an extension in supply - from 600 to 900 bottles a week, since 900 - 600 = 300 bottles - brought about by the price alone. A juice stall in Sao Paulo in Brazil books the same upward direction.",
+   "claim_ids": [
+    "CLM-0455-2.4-005",
+    "CLM-0455-2.4-007",
+    "CLM-0455-2.4-015"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.4-005": 1,
+    "CLM-0455-2.4-007": 1,
+    "CLM-0455-2.4-015": 1
+   },
+   "authored_hash": "aa393b9eac1f42a9cf2354ea8b57ce74e9b0c3dfd2e84cf98b3410c2fb6eaefe"
+  },
+  {
+   "block_id": "2.4.2-b4",
+   "block_type": "analysis_chain",
+   "heading": "A movement, not a shift",
+   "text": "When the good's own price changes, the market moves along the supply curve. Raise the price from N$8 to N$12 and the market slides up the same curve from 600 to 900 bottles, because each bottle is more worth producing at the higher price. Nothing outside the price has changed, so the curve stays put: quantity supplied, a point on the curve, has changed; supply, the whole relationship, has not. The upward slide is an extension in supply; a slide down is a contraction.",
+   "claim_ids": [
+    "CLM-0455-2.4-006",
+    "CLM-0455-2.4-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.4-006": 1,
+    "CLM-0455-2.4-007": 1
+   },
+   "authored_hash": "3576065a9e625d9c7d06c205bf56556c3dd0b5c9ee027da2c70f739dbfbd7fa2"
+  },
+  {
+   "block_id": "2.4.2-b5",
+   "block_type": "misconception",
+   "heading": "Quantity supplied is not supply",
+   "text": "The confusion learners make: \"supply increased\" is written when the price rose and the market merely moved along the curve. The boundary: supply is the whole relationship between price and quantity; quantity supplied is the single amount offered at one price. The test: what changed - the good's own price, a movement along the curve; a condition beyond the price, a shift.",
+   "claim_ids": [
+    "CLM-0455-2.4-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.4-006": 1
+   },
+   "authored_hash": "dfcfd83b25737b4f0992e005bedc4a8ab35580fc405377c7a9027b5a4148ef15"
+  },
+  {
+   "block_id": "2.4.2-b6",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The demand curve of topic 2.3 moves along its curve the same way when price changes; topic 2.5 brings both together to find the market price.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "77b1c5be3bba91556c718ba447a27bc3ab8b740915f0f4f54bb2bf61e83647ce"
+  }
+ ],
+ "word_count": 360
+}

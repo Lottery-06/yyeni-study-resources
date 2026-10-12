@@ -1,0 +1,108 @@
+{
+ "unit_id": "CU-0455-4.6.4",
+ "title": "The causes of economic growth",
+ "objective_ids": [
+  "OBJ-0455-4.6.4"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_diagram",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 273,
+  "target": 333,
+  "max": 393
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "4.6.4-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Tell apart the two ways output rises - a movement toward the production possibility curve and an outward shift of it - and trace the causes of each.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "bbdb82f659fe6ca79b6223ff608aaab1fdf7a71302c48918ae4433c4919e9308"
+  },
+  {
+   "block_id": "4.6.4-b2",
+   "block_type": "plain_explanation",
+   "heading": "Two routes to higher output",
+   "text": "Output rises in two ways, and the causes differ. Where the economy sits inside its production possibility curve, with workers idle and machines standing unused, a rise in total demand - more spending by households, firms, the government or buyers abroad - puts the idle resources to work, and the economy moves toward the curve: real GDP rises and the utilisation of resources rises with it, though capacity is unchanged. Where the economy already produces at the curve, output grows where capacity grows: investment in new capital, better technology, and more or better-trained workers shift the whole curve outward, and with it the maximum the economy can produce.",
+   "claim_ids": [
+    "CLM-0455-4.6-013",
+    "CLM-0455-4.6-014",
+    "CLM-0455-4.6-015"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.6-013": 1,
+    "CLM-0455-4.6-014": 1,
+    "CLM-0455-4.6-015": 1
+   },
+   "authored_hash": "41830abfb11829da447b8b8d6c29e7e4da7636317a4390a0743283162475a095"
+  },
+  {
+   "block_id": "4.6.4-b3",
+   "block_type": "analysis_chain",
+   "heading": "The movement toward the curve",
+   "text": "Trace the demand route. Starting point: total spending rises in an economy with spare capacity. Mechanism: because firms see more customers, they raise production, take on idle workers and run machines longer; this causes real GDP to climb as unemployed resources are put to use. Consequence: the economy moves from its point inside the curve to a point on it, and output reaches what its existing capacity allows. The limit: once at the boundary, further spending has no idle resources to employ and tends to raise prices instead.",
+   "claim_ids": [
+    "CLM-0455-4.6-013"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.6-013": 1
+   },
+   "authored_hash": "055331b667a25537856de70ada82326d83f70ccc7d651da89064407a9d6e665b"
+  },
+  {
+   "block_id": "4.6.4-b4",
+   "block_type": "worked_application",
+   "heading": "The outward shift, worked",
+   "text": "Trace the capacity route with a firm. Marula Foods opens a second cannery in Gobabis and trains its staff on new equipment: the town can now process more fruit with the same number of pickers, and its maximum output has risen. What one firm does, investment does for the economy: new machines, better technology and trained workers raise the most the economy can produce, so the curve itself shifts outward. Vietnam's industrial expansion carried the same logic at national scale: year after year of new factories and rising skills moved the country's boundary outward.",
+   "claim_ids": [
+    "CLM-0455-4.6-014",
+    "CLM-0455-4.6-015"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.6-014": 1,
+    "CLM-0455-4.6-015": 1
+   },
+   "authored_hash": "d91be7b7d791381f6929457f3cc1cbaf444d832f10e54be41bb73e526e66b703"
+  },
+  {
+   "block_id": "4.6.4-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Movements and shifts of the production possibility curve are built in topic 1.4, the factors of production whose quantity and quality drive the shift are the subject of topic 1.2, and the demand behind the movement is analysed in topic 2.3.",
+   "claim_ids": [
+    "CLM-0455-4.6-013"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.6-013": 1
+   },
+   "authored_hash": "9fcb57337b29b7b5d96b4e57abab2ab03d83db210107e395532fda6d1b09b9d5"
+  }
+ ],
+ "word_count": 378
+}

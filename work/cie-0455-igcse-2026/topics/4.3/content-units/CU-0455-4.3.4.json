@@ -1,0 +1,130 @@
+{
+ "unit_id": "CU-0455-4.3.4",
+ "title": "Sorting taxes",
+ "objective_ids": [
+  "OBJ-0455-4.3.4"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_classification",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 274,
+  "target": 334,
+  "max": 395
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "4.3.4-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Sort taxes into direct and indirect, and by the share of income each takes: progressive, regressive, proportional.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "915adf95a1d21f6e2579b65379cae8fbc3ae37078bf432eb8cacb8a6d089026f"
+  },
+  {
+   "block_id": "4.3.4-b2",
+   "block_type": "comparison",
+   "heading": "Direct and indirect",
+   "text": "Direct taxes fall on income or profit and are paid over by the taxed party itself: income tax withheld from wages at Oshakati Textiles, company tax on Marula Foods' profits. Indirect taxes fall on spending and are collected by traders: value-added tax added to a bill in a Gobabis shop, excise duty on fuel in Germany, each collected from buyers and remitted. What settles the sorting is what the charge is levied on and who hands it over.",
+   "claim_ids": [
+    "CLM-0455-4.3-013"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.3-013": 1
+   },
+   "authored_hash": "f9ff245f6954dfda94f8a6f0cc0f0d85ea4979f667d44fdd8eac13485b959f2f"
+  },
+  {
+   "block_id": "4.3.4-b3",
+   "block_type": "plain_explanation",
+   "heading": "By the share of income",
+   "text": "A progressive tax takes a rising share of income as income rises; a regressive tax takes a larger share of a low income than of a high one; a proportional tax takes the same share of every income. The share of income, not the amount paid, is what the classification turns on.",
+   "claim_ids": [
+    "CLM-0455-4.3-014"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.3-014": 1
+   },
+   "authored_hash": "8371e31a6eac95a87e4333aef853acc47624a75da97cab54676df90dd3a1dd2f"
+  },
+  {
+   "block_id": "4.3.4-b4",
+   "block_type": "worked_application",
+   "heading": "The shares worked out",
+   "text": "Work invented figures through: a worker paying N$1 500 of income tax on a N$10 000 wage pays 15 per cent of it, a manager paying N$6 000 on N$30 000 pays 20 per cent - the share rises with income, so the income tax is progressive. Value-added tax at a flat 15 per cent takes the same N$15 from a N$100 basket whatever the buyer earns, but a poorer household spends a larger part of its income on such baskets, so the tax takes a larger share of that household's income - regressive in effect.",
+   "claim_ids": [
+    "CLM-0455-4.3-015"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.3-015": 1
+   },
+   "authored_hash": "334cfbdd052b525611eef0965a1aafe0f4aaae8523cad2f4ea1fc5ae6c97e2c3"
+  },
+  {
+   "block_id": "4.3.4-b5",
+   "block_type": "misconception",
+   "heading": "A consequence is not a cause",
+   "text": "The confusion: after a tax rises, learners write the effects that follow as though they produced the change. The boundary: the tax change is the cause; what follows - lower disposable income, dearer goods, changed buying - is its consequence. The test: ask which way the direction of events runs.",
+   "claim_ids": [
+    "CLM-0455-4.3-016"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.3-016": 1
+   },
+   "authored_hash": "2bd1ae86d000ab03b661fba1f132f5a41a5f5717d75c29e419fd95f88b5d2bc8"
+  },
+  {
+   "block_id": "4.3.4-b6",
+   "block_type": "misconception",
+   "heading": "Interest rates are not taxes",
+   "text": "The confusion: asked about a tax measure, learners reach for the interest rate. The boundary: an interest rate is the price paid for borrowing money; a tax is a compulsory levy on income or spending. The test: ask who sets the charge and what it falls on.",
+   "claim_ids": [
+    "CLM-0455-4.3-017"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.3-017": 1
+   },
+   "authored_hash": "97a39dd9eb13c147a96b0a626ccde5c41fb1ae6701ffdf720c83ed1ce79d5371"
+  },
+  {
+   "block_id": "4.3.4-b7",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The demand behaviour these taxes set in motion was built in topic 2.3, and the price changes they cause follow topic 2.5.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [],
+   "claims_seen": {},
+   "authored_hash": "140ba4473ca8555e299e55c1a56e87132da6d7d6ece16442007109bdf717a1bc"
+  }
+ ],
+ "word_count": 390
+}

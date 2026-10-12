@@ -1,0 +1,633 @@
+{
+ "dataset_id": "ITEMS-0455-IGCSE-2.6",
+ "topic_id": "2.6",
+ "items": [
+  {
+   "item_id": "ITEM-0455-2.6-001-DEF",
+   "objective_ids": [
+    "OBJ-0455-2.6.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.6-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "At the Otavi milk depot, farmers offer 900 litres a week and households buy 900 litres a week at N$10 a litre, and the depot sells out at that price. Define equilibrium price as the term applies to this milk market.",
+   "canonical_answer": "The equilibrium price is the price at which the quantity consumers are willing and able to buy equals the quantity sellers are willing and able to offer, so the market clears with neither unsold stock nor unsatisfied buyers. For this market, N$10 a litre is the equilibrium price: at N$10, the 900 litres offered equals the 900 litres taken, and a price change would mean a move away from that clearing point to a new one.",
+   "marking_guidance": [
+    "Reward the precise definition: the price at which quantity demanded equals quantity supplied, so the market clears.",
+    "The meaning must tie the definition to this market at N$10 and 900 litres; a definition of demand or of supply alone earns nothing."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.6-001": 1
+   },
+   "authored_hash": "627e4c8cf6c3a8debcb5181bc13178cb5d6c77c616a4c89ce630c188bfecf92b"
+  },
+  {
+   "item_id": "ITEM-0455-2.6-002-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-2.6.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.6-002",
+    "CLM-0455-2.6-003",
+    "CLM-0455-2.6-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "Floods destroy the vegetable gardens around Oshakati. At the weekend market the price of a bag of vegetables rises from N$20 to N$26, and the quantity sold falls from 300 to 240 bags a week. Analyse how this market condition caused the price change, and what the change meant for shoppers, the market traders and the growers.",
+   "canonical_answer": "Starting point: the initial change is a market condition - the floods that cut the harvest - not anything on the price side. Mechanism: because the condition of supply changed, this causes the supply curve of vegetables to shift left, so at the old price of N$20 buyers want more bags than growers now offer, and the price rises until, at N$26, the quantity demanded matches the smaller quantity supplied; sales fall from 300 to 240 bags a week, a fall of 60 bags, since 300 - 240 = 60 bags. Consequence for shoppers: those who stay in the market pay N$6 more a bag and take fewer bags, and households on tight budgets may drop out of the market altogether. Consequence for the market traders: each bag earns more, yet 60 fewer bags a week pass their stalls, so their week's takings depend on which effect is larger. Consequence for the growers: the flood, not the price, is what hurt them - they receive a higher price for a much smaller harvest. For whom the effects land: shoppers lose through dearer bags, traders trade price against volume, and growers lose most, because the cause landed on their gardens.",
+   "marking_guidance": [
+    "Starting point: the initial change - the floods, a market condition - must be named first, and an answer that says the price rise caused the supply to fall has the mechanism backwards.",
+    "Mechanism: because the condition of supply changed, this causes a leftward shift of supply and a movement along the demand curve to the new price at N$26.",
+    "Consequence: therefore trace the effect through to the quantity sold - the 60 fewer bags a week are the evidence - and to each named party.",
+    "For whom: name for whom each consequence lands - the shopper, the trader, the grower."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.6-002": 1,
+    "CLM-0455-2.6-003": 1,
+    "CLM-0455-2.6-004": 1
+   },
+   "authored_hash": "631639850b5cb3d26672a5ad50821ef3e3b2e06fda97f420fe1e81fdf0bfa110"
+  },
+  {
+   "item_id": "ITEM-0455-2.6-003-APP",
+   "objective_ids": [
+    "OBJ-0455-2.6.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.6-002",
+    "CLM-0455-2.6-003",
+    "CLM-0455-2.6-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "The price of a loaf at an Otjiwarongo bakery rose from N$10 to N$13 over a month in which the wheat harvest failed and flour bills rose, while the town's incomes stayed as they were. Explain what caused this price change and how the market for bread moved.",
+   "canonical_answer": "The context: the price of a loaf rose from N$10 to N$13, a rise of N$3 since 13 - 10 = N$3, and the extract names one change in the town - the failed wheat harvest, which raised the bakery's flour bills - while incomes stayed as they were. The reasoning: because input costs are a condition of supply, this causes the supply of bread to shift left, and at the old price of N$10 buyers now want more loaves than the bakery offers; the price rises until the quantity demanded matches the smaller quantity supplied. The conclusion: therefore the cause of this price change was a change in a market condition on the supply side - the failed harvest - and the rise to N$13 is the market finding its new equilibrium price, not a decision by the bakery.",
+   "marking_guidance": [
+    "The context - the N$3 rise from N$10 to N$13 beside the failed harvest - must anchor the answer, and the figures are the evidence.",
+    "Reasoning: because input costs are a condition of supply, the link runs from the condition to a leftward shift of supply and on to the new price; an answer that blames the bakery's own choice has no mechanism.",
+    "Conclusion: therefore state the cause as the changed market condition and the new price as the market clearing again."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.6-002": 1,
+    "CLM-0455-2.6-003": 1,
+    "CLM-0455-2.6-004": 1
+   },
+   "authored_hash": "42e53c42a541ee4ad824792fe3b23df5cace1f46638cb99690df9b537f78f322"
+  },
+  {
+   "item_id": "ITEM-0455-2.6-009-FEATURE",
+   "objective_ids": [
+    "OBJ-0455-2.6.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.6-002",
+    "CLM-0455-2.6-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype FEATURE",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 4,
+   "prompt": "A market's price changes from one month to the next. Explain the features the causes of such price changes have in common.",
+   "canonical_answer": "The causes of price changes share four features. They sit behind the curves, not on them: each is a condition of demand, such as incomes, tastes or the prices of related goods, or a condition of supply, such as input costs, technology, the number of sellers or the weather. They shift whole curves: a change in a market condition moves the demand curve or the supply curve itself, rather than sliding the market along it. They move the market to a new equilibrium: once a curve shifts, the old price no longer clears the market, and price and quantity settle where the curves now cross. And they exclude the good's own price: a change in the own price moves the market along unchanged curves and is part of the consequence, so the test of a cause is which side moved first.",
+   "marking_guidance": [
+    "Reward the characteristics: conditions behind the curves, whole-curve shifts, a new equilibrium, and the good's own price excluded - and what each feature includes.",
+    "One mark per feature, up to four: each must say what the feature involves, not just name it."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.6-002": 1,
+    "CLM-0455-2.6-003": 1
+   },
+   "authored_hash": "080914eccfa43a69c7da25626a3b4dea752d53416ca5e3d6b9cbef6757157a57"
+  },
+  {
+   "item_id": "ITEM-0455-2.6-004-DEF",
+   "objective_ids": [
+    "OBJ-0455-2.6.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.6-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "At the Walvis Bay weekend market, fresh fish sells at N$40 a kilo and 300 kilos change hands each weekend. Define the equilibrium quantity of this market as the term applies to these sales.",
+   "canonical_answer": "The equilibrium quantity is the quantity actually bought and sold at the equilibrium price over a period of time - the market's sales. For this market it is 300 kilos of fish a weekend: at N$40 a kilo, the quantity buyers take matches the quantity sellers offer, so 300 kilos is the quantity traded. A consequence of a price change shows itself as a change in this figure together with the change in price.",
+   "marking_guidance": [
+    "Reward the precise definition: the quantity bought and sold at the equilibrium price, over a period of time.",
+    "The meaning must pin the term to the 300 kilos traded at N$40; a definition of quantity demanded alone earns nothing."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.6-007": 1
+   },
+   "authored_hash": "5ddb038069a9310f83a78a8cd784c7f4eed7f446aaa9e69801b60006c320e4fb"
+  },
+  {
+   "item_id": "ITEM-0455-2.6-005-DIAGRAM",
+   "objective_ids": [
+    "OBJ-0455-2.6.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.6-005",
+    "CLM-0455-2.6-007",
+    "CLM-0455-2.6-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "SYNTH",
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype SYNTH",
+   "command_word": "Discuss",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "A new mine opens near Otavi and hundreds of wage-earning workers move to the town. At the old price of N$10 a litre, households now want 1 050 litres of Otjiwa Dairy's milk a week against the 900 litres offered, and the market settles at N$12 a litre with 1 000 litres a week sold. Discuss how a demand-and-supply diagram of this milk market shows the consequences of the new mine, giving a verbal walk-through of every part of the diagram and what it shows.",
+   "canonical_answer": "Walk through the diagram in words, element by element. First, the axes labelled: the price of milk in N$ a litre on the vertical axis, and the quantity in litres a week on the horizontal axis. Second, the original curves drawn and labelled: the demand curve D1 and the supply curve S, crossing at the original equilibrium, marked E1 at N$10 a litre and 900 litres a week. Third, the shift or movement, in the correct direction: the mine's new workers raise consumers' incomes, a condition of demand, so the whole demand curve shifts right from D1 to D2 - a shift, not a movement along, because the milk's own price has not changed - while the supply curve stays where it was. Fourth, the new equilibrium marked and labelled: where D2 crosses S, marked E2 at N$12 a litre and 1 000 litres a week, the price at which the quantity households are willing and able to buy matches the quantity farmers are willing to offer. Fifth, what the diagram shows, in words: the consequence of the new mine is a higher price, up N$2 since 12 - 10 = N$2, and higher sales, up 100 litres since 1 000 - 900 = 100 litres, with the shortage of 150 litres a week at the old price - since 1 050 - 900 = 150 litres - closing as the price adjusts. The link between the mine and the diagram is the income condition shifting demand, and the consequence is that consumers pay more for milk while sellers usually sell more litres at the higher price.",
+   "marking_guidance": [
+    "The walk-through must name the axes labelled - price and quantity, each with its units - before anything else.",
+    "Reward the original curves drawn and labelled: D1 and S crossing at E1, at N$10 a litre and 900 litres, before the change is described.",
+    "Check the shift or movement, in the correct direction: a rise in incomes is a rightward shift of demand from D1 to D2, with supply unchanged - not a movement along the curve.",
+    "The new equilibrium marked and labelled at E2, at N$12 and 1 000 litres, and what the diagram shows, in words - a higher price and higher sales - close the walk-through.",
+    "The link between the mine and the shifted curve, and the consequence - N$2 more a litre and 100 more litres sold - carry the analysis marks."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.6-005": 1,
+    "CLM-0455-2.6-007": 1,
+    "CLM-0455-2.6-008": 1
+   },
+   "authored_hash": "1ce887ae18f71b24345b5671b90657ef763ae56ef746d6a6d689902c3be8a16e"
+  },
+  {
+   "item_id": "ITEM-0455-2.6-006-INTERP",
+   "objective_ids": [
+    "OBJ-0455-2.6.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.6-006",
+    "CLM-0455-2.6-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype INTERP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "A stallholder at the Swakopmund Saturday market records two months for her fried fish packs. Month 1: price N$25 a pack, 400 packs sold. Month 2: price N$30 a pack, 260 packs sold, after news that the morning catch off the coast fell sharply. Explain what these figures show about the consequences of the catch falling.",
+   "canonical_answer": "What the data shows: the relationship is a fall in supply working through the market - the price of a pack rose from N$25 to N$30 while the quantity sold fell from 400 to 260 packs, so the market moved up its demand curve to a new equilibrium. Supporting evidence: the comparison across the two months shows 140 fewer packs sold, since 400 - 260 = 140 packs, beside the sharp fall in the catch. Why: with fewer fish landing, the stall offers fewer packs at each price, so at the old N$25 buyers wanted more packs than she had, and the price rose until the quantity demanded met the smaller quantity supplied; buyers who would not pay N$30 stepped away, which is the fall in quantity demanded along the curve. The exception to weigh: the figures cover two months, and other conditions - tourist numbers, weekends, weather - may have moved with them; but with the catch named as the change, the readings fit a leftward shift of supply, raising the price and lowering sales.",
+   "marking_guidance": [
+    "What the data shows - the price up and the sales down together - must be stated first, with supporting evidence taken as a comparison of the two months.",
+    "The exception earns a mark: however, two months cannot rule out other conditions moving - tourist numbers or weather.",
+    "The why - an explanation of the relationship, through the smaller catch shifting supply and the higher price cutting quantity demanded - is the core mark; quoting the prices alone is not interpretation."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.6-006": 1,
+    "CLM-0455-2.6-007": 1
+   },
+   "authored_hash": "cebbfc9341a665ada417e5502d02b47c110aff204c5215d7a93ce96506829426"
+  },
+  {
+   "item_id": "ITEM-0455-2.6-007-APP",
+   "objective_ids": [
+    "OBJ-0455-2.6.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.6-006",
+    "CLM-0455-2.6-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "The world oil price rises, and the pump price of petrol in Windhoek climbs from N$22 to N$25 a litre. Explain, for this market, what the price change means for the quantity of petrol sold, for the commuter and for the taxi operator.",
+   "canonical_answer": "The context: the pump price rose from N$22 to N$25 a litre, a rise of N$3 since 25 - 22 = N$3, because an input cost behind the supply of petrol changed on the world market. The reasoning: because the oil price is a cost of supply, this shifts the supply of petrol left and raises the equilibrium price, and the market then moves along its demand curve to a smaller quantity sold, as some journeys are cut, shared or shifted to buses. The taxi operator faces dearer fuel and may pass part of the rise on in fares, where passengers are still willing to pay them. The conclusion: therefore the consequence of this price change is a lower quantity of petrol sold at the new price, and it means different things for each party - the commuter pays more per litre or travels less, while the operator's costs rise before any fare does, since fare changes usually lag fuel changes.",
+   "marking_guidance": [
+    "The context - the N$3 rise from N$22 to N$25 - must anchor the answer, and the figures are the evidence.",
+    "Reasoning: because an input cost shifted supply left, the link runs through the higher price to a movement along the demand curve, with each party traced.",
+    "Conclusion: therefore state what the consequence is for the quantity sold, and what the change means for the commuter and for the taxi operator."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.6-006": 1,
+    "CLM-0455-2.6-007": 1
+   },
+   "authored_hash": "b68c23c09894e078e0cc4a6eb51a411587b4c609b93a635031259c4e82ae801d"
+  },
+  {
+   "item_id": "ITEM-0455-2.6-008-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-2.6.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.6-006",
+    "CLM-0455-2.6-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "Good rains end a drought across the south, and the tomato harvest around Mariental comes in at double the usual size. At the Windhoek wholesale market the price of a crate falls from N$180 to N$120, and the quantity sold rises from 500 to 650 crates a week. Analyse the consequences of this price change for Windhoek households, the market traders and the tomato farmers.",
+   "canonical_answer": "Starting point: the initial change is a market condition - the rains behind the doubled harvest - which shifted the supply of tomatoes right and cut the price from N$180 to N$120 a crate. Mechanism: because supply shifted right, this causes the equilibrium price to fall and the quantity sold to rise, from 500 to 650 crates a week, an extra 150 crates since 650 - 500 = 150 crates; the market has slid down its demand curve, as households respond to the lower price by taking more. Consequence for households: each crate costs N$60 less, since 180 - 120 = N$60, so more tomatoes reach more tables for the same shopping money. Consequence for the market traders: they earn less on each crate yet usually handle a larger number of crates, so their week depends on how far the extra volume offsets the lower margin. Consequence for the tomato farmers: a doubled harvest sells at N$120 where a normal one fetched N$180, so a full store may bring in less money than a smaller one did, and growers with bills to pay may feel the fall hardest. For whom the effects land: households usually gain, traders trade margin for volume, and farmers may lose income even while producing more.",
+   "marking_guidance": [
+    "Starting point: the initial change - the rains and the rightward shift of supply - must be named first, and an answer that starts from the price fall has the chain backwards.",
+    "Mechanism: because supply shifted right, this causes the price to fall and the quantity sold to rise, sliding the market down its demand curve.",
+    "Consequence: therefore each party - the households, the traders, the farmers - needs its own traced outcome; the extra 150 crates a week are the evidence.",
+    "For whom: name for whom each consequence lands - the household, the trader, the farmer - including the weaker position a bigger harvest may leave the farmer in."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.6-006": 1,
+    "CLM-0455-2.6-007": 1
+   },
+   "authored_hash": "cd8972172c85f4264022eab07022ca20317bef7a8130748d9d9619507113c3f9"
+  },
+  {
+   "item_id": "ITEM-0455-2.6-P01",
+   "objective_ids": [
+    "OBJ-0455-2.6.1",
+    "OBJ-0455-2.6.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.6-001",
+    "CLM-0455-2.6-002",
+    "CLM-0455-2.6-003",
+    "CLM-0455-2.6-005",
+    "CLM-0455-2.6-006",
+    "CLM-0455-2.6-007"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "performance task type multiple_choice_set",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 3,
+   "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. The equilibrium price of a good is the price at which:\nA  the quantity demanded equals the quantity supplied, so the market clears\nB  sellers take in their largest possible takings\nC  the government fixes the market price\nD  consumers buy as much as their money allows\n\n2. Which is a cause of a price change in a market?\nA  the good's own price rising\nB  a change in a market condition, such as incomes or input costs\nC  a rise in the quantity sold\nD  the arrival of a new equilibrium price\n\n3. The price of a good rises after consumers' incomes rise. The cause of the price rise is:\nA  the price rise itself\nB  a fall in supply\nC  the income rise, which shifted the demand curve right\nD  the higher quantity sold\n\n4. Demand shifts right with supply unchanged. The market usually moves to:\nA  a higher price and a larger quantity sold\nB  a higher price and a smaller quantity sold\nC  a lower price and a larger quantity sold\nD  a lower price and a smaller quantity sold\n\n5. Supply shifts right with demand unchanged. The equilibrium price tends to:\nA  rise, and sales tend to fall\nB  fall, and sales tend to rise\nC  rise, and sales tend to rise\nD  fall, and sales tend to fall\n\n6. The equilibrium quantity of a market is:\nA  the quantity sellers offer at the highest price\nB  the quantity consumers wish they could buy\nC  the largest quantity ever traded in the market\nD  the quantity bought and sold at the equilibrium price, over a period of time\n\n7. On a demand-and-supply diagram showing a fall in supply, the new equilibrium is found:\nA  where the old curves crossed\nB  on the vertical axis alone\nC  at the old price with the new quantity\nD  where the shifted supply curve crosses the unchanged demand curve\n\n8. After floods cut the vegetable harvest, shoppers at the market usually find:\nA  lower prices and larger quantities\nB  higher prices and larger quantities\nC  higher prices and smaller quantities\nD  unchanged prices and unchanged quantities",
+   "canonical_answer": "Key: 1 A, 2 B, 3 C, 4 A, 5 B, 6 D, 7 D, 8 C.\n1. A is the definition - quantities demanded and supplied equal, the market cleared. B confuses the clearing price with takings, which can rise or fall at equilibrium; C confuses a market price with an administered one; D confuses equilibrium with affordability, which is about demand, not clearing.\n2. B: a condition of demand or supply shifts a curve and causes the price to change. A has the direction backwards - the own price moving is the consequence of a shift; C is an outcome, not an influence; D is the result being named as the cause.\n3. C: the income rise shifted demand right, and the price followed. A names the consequence as the cause; B invents a supply change the question does not state; D confuses the effect on sales with the cause of the price.\n4. A: demand shifting right tends to raise both the price and the quantity sold. B and C each get one direction wrong; D reverses both, which is what a leftward demand shift would do.\n5. B: supply shifting right tends to lower the price and raise the quantity sold. A and C each reverse one direction; D describes a leftward demand shift, not a rightward supply shift.\n6. D: the equilibrium quantity is traded at the equilibrium price over a period. A picks a point chosen by sellers alone; B counts wants without the ability to pay; C confuses the regular market with a one-off record.\n7. D: after a shift, the new crossing of the shifted curve with the unchanged one is the new equilibrium. A holds onto the old position; B abandons quantity altogether; C keeps the old price, which the shift has usually undone.\n8. C: a leftward supply shift tends to raise the price and lower the quantity sold. A describes a bumper harvest; B pairs a higher price with more goods, which a supply fall does not usually allow; D ignores the shift the question states.",
+   "marking_guidance": [
+    "Key: one mark per question, eight in total; the correct option for each is listed and every distractor is explained as the specific misunderstanding it catches.",
+    "Each distractor traces to a named error: clearing confused with takings, a consequence confused with a cause, the four shift directions confused with one another, and the new crossing of the shifted curve confused with the old equilibrium."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.6-001": 1,
+    "CLM-0455-2.6-002": 1,
+    "CLM-0455-2.6-003": 1,
+    "CLM-0455-2.6-005": 1,
+    "CLM-0455-2.6-006": 1,
+    "CLM-0455-2.6-007": 1
+   },
+   "authored_hash": "4234f8f2f93d5e708d35801e56a9c4138fbbc2d41fd3ffbc02cc3e89085c2e56"
+  },
+  {
+   "item_id": "ITEM-0455-2.6-P02",
+   "objective_ids": [
+    "OBJ-0455-2.6.1",
+    "OBJ-0455-2.6.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.6-002",
+    "CLM-0455-2.6-004",
+    "CLM-0455-2.6-005",
+    "CLM-0455-2.6-006",
+    "CLM-0455-2.6-007"
+   ],
+   "item_type": "data_response",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type data_response",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "A radio report from Oshakati, April 2026: \"Two dry seasons have hit the north. Mahangu sacks at the Oshakati market went for N$120 last April and N$160 this April, and traders moved 2 000 sacks this month against 2 600 a year ago. The canned-beans stall next door did better: at an unchanged N$18 a can, it sold 1 400 cans against 900 last year. A miller in Gobabis adds that transport costs rose 10% over the year.\"\n\nTable 1 - Oshakati market, April this year against April last year\n  price of a mahangu sack: N$120 last year, N$160 this year\n  sacks sold: 2 600 last year, 2 000 this year\n  price of a canned bean can: N$18 in both years\n  cans sold: 900 last year, 1 400 this year\n  rainfall over the growing season: normal last year, well below normal this year\n  transport costs: unchanged last year, up 10% this year\n\n(a) Calculate the fall in the number of sacks sold. [1]\n(b) Identify from Table 1 one condition of supply for mahangu that changed over the year. [2]\n(c) Explain why the canned-beans stall sold more cans at an unchanged price. [4]\n(d) Analyse what the figures suggest about next April for the mahangu growers, the market traders and the canned-beans trader. [6]",
+   "canonical_answer": "(a) 2 600 - 2 000 = 600 sacks.\n(b) Either the rainfall, well below normal over the growing season - a weather condition - or the 10% rise in transport costs, an input cost of getting sacks to market. Both are conditions of supply: influences that shift the supply curve.\n(c) Mahangu rose from N$120 to N$160 a sack, so canned beans became relatively cheaper beside the staple. Beans and meal stand in as substitutes, so households switching away from dearer meal shifted the demand curve for canned beans to the right: at each price, more cans were demanded. The stall held its posted price at N$18, so the whole shift showed up as extra sales, from 900 to 1 400 cans a month, an extra 500 cans since 1 400 - 900 = 500 cans.\n(d) Expected relationship: where the dry conditions and the dearer transport persist, the supply of mahangu stays low, its price stays high and sales stay below their old level. Evidence: the price moved from N$120 to N$160 a sack while sacks sold fell from 2 600 to 2 000, with rainfall well below normal and transport costs up 10%. Analysis: growers receive a higher price per sack yet sell 600 fewer sacks, since 2 600 - 2 000 = 600 sacks, so the income a grower takes home depends on which effect is larger; traders handle fewer sacks and their margins turn on the same balance; the canned-beans trader may keep gaining as households substitute beans for dearer meal, provided the mahangu price stays high. Exception: however, a normal rainy season next year could shift supply right again and pull the price back down - and the bean stall's gain may fade with it, since its cans sell as a substitute for meal whose own price may fall.",
+   "marking_guidance": [
+    "Parts (a) and (b) are read from the data; the six-mark part must use the figures as evidence - the 600-sack fall, the N$40 price rise, the rainfall, the 10% transport rise - not as analysis itself.",
+    "One mark per distinct linked statement in (c): substitution towards the relatively cheaper good, shifting bean demand right, is the mechanism that carries the marks.",
+    "Part (d) is marked on expected relationship, then evidence, then analysis, then an exception; quoting figures without the relationship they support earns nothing.",
+    "For whom: consequences must be named for the growers, the market traders and the canned-beans trader."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": [
+     "mahangu price last year N$120",
+     "mahangu price this year N$160",
+     "sacks sold last year 2 600",
+     "sacks sold this year 2 000",
+     "canned-bean price N$18 in both years",
+     "cans sold last year 900",
+     "cans sold this year 1 400",
+     "transport costs up 10%"
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.6-002": 1,
+    "CLM-0455-2.6-004": 1,
+    "CLM-0455-2.6-005": 1,
+    "CLM-0455-2.6-006": 1,
+    "CLM-0455-2.6-007": 1
+   },
+   "authored_hash": "0212c7166f525e43e78538b44b09d2f58ee0bc50aeff14baf72c990a3416dd0b"
+  },
+  {
+   "item_id": "ITEM-0455-2.6-P03",
+   "objective_ids": [
+    "OBJ-0455-2.6.1",
+    "OBJ-0455-2.6.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.6-001",
+    "CLM-0455-2.6-002",
+    "CLM-0455-2.6-003",
+    "CLM-0455-2.6-006",
+    "CLM-0455-2.6-007"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type short_answer",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "The market for fresh fish at a coastal weekend market. Answer all parts.\n\n(a) Define equilibrium price. [2]\n(b) Explain how a change in a market condition causes the price of a good to change. [4]\n(c) A storm closes the harbour at Luderitz for three weekends. The price of a kilo of fresh fish rises from N$40 to N$55, and the quantity sold falls from 300 to 210 kilos a weekend. Analyse what this price change means for the shoppers, the stallholders and the fishing crews. [6]\n(d) Discuss whether a rise in a market's price leaves its consumers worse off. [8]",
+   "canonical_answer": "(a) The equilibrium price is the price at which the quantity consumers are willing and able to buy equals the quantity sellers are willing and able to offer, so the market clears.\n(b) A market condition is an influence behind the curves: a condition of demand, such as incomes or tastes, or a condition of supply, such as input costs or the weather. When one changes, the whole demand or supply curve shifts. At the old price the market no longer clears - a rightward shift of demand leaves buyers wanting more than sellers offer, and the price rises until the quantities match again, while a rightward shift of supply does the reverse and lowers the price. The price change is the consequence of the shift, and the test of the cause is which side moved first.\n(c) Starting point: the storm is a market condition that cut the catch, shifting the supply of fish left. Mechanism: because fewer kilos reach the stalls at each price, this causes the price to rise from N$40 to N$55 and the quantity sold to fall from 300 to 210 kilos a weekend, a fall of 90 kilos since 300 - 210 = 90 kilos; the market climbs its demand curve. Consequence for the shoppers: each kilo costs N$15 more, since 55 - 40 = N$15, and households buy less fish or switch to other foods. Consequence for the stallholders: fewer kilos cross their stalls, so their takings depend on whether the higher price offsets the 90 fewer kilos. Consequence for the fishing crews: their boats sit out the storm weekends, and a higher price at the stalls reaches them slowly while they cannot land a catch at all. For whom the effects land: shoppers pay more for less, stallholders trade price against volume, and the crews lose working days to the weather itself.\n(d) The case that consumers lose: a higher price takes more of a household's income for each unit, and as the market slides up its demand curve the quantity bought tends to fall, so consumers in that market end up with less of the good and less to spend elsewhere. Where the rise comes from a fall in supply, nothing has been added to set against the loss. The case that consumers may not lose: where the rise rides a rightward shift of demand driven by rising incomes, the same households are earning more even as they pay more, so their overall position may improve; and where the rise comes from a fall in supply, the higher price is what keeps the good available to those who value it most, where a held-down price would leave empty stalls. Judgement: whether consumers are worse off depends on which side shifted and on whether their incomes move with prices - a supply-driven rise in a staple usually squeezes them, and a demand-driven rise on the back of higher earnings usually does not.",
+   "marking_guidance": [
+    "Every part carries a model answer; part (d) is level-marked over three bands.",
+    "(a) rewards the precise definition: the price at which quantity demanded equals quantity supplied, so the market clears.",
+    "(b) one mark per distinct point: the condition, the shift, the market failing to clear at the old price, and the move to the new equilibrium, each with the link made.",
+    "(c) one mark per distinct linked statement from the starting point - the storm cutting the catch - through the mechanism, a leftward shift of supply, to the consequence for the shoppers, the stallholders and the crews.",
+    "(d) Level 3 examines why it might - the squeeze on quantity and on income - and why it might not - a demand-driven rise on rising incomes, or a supply-driven rise that keeps the good available - and reaches a judgement naming the condition: which side shifted, and whether incomes move with prices; Level 2 develops one side; Level 1 asserts."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": [
+     "fish price rose from N$40 to N$55 a kilo",
+     "quantity sold fell from 300 to 210 kilos a weekend",
+     "storm closed the harbour for three weekends"
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.6-001": 1,
+    "CLM-0455-2.6-002": 1,
+    "CLM-0455-2.6-003": 1,
+    "CLM-0455-2.6-006": 1,
+    "CLM-0455-2.6-007": 1
+   },
+   "authored_hash": "2f8526078747528f852fa2c22bf3bae69bb2c7053b191d28bd10951725770e3e"
+  },
+  {
+   "item_id": "ITEM-0455-2.6-P04",
+   "objective_ids": [
+    "OBJ-0455-2.6.1",
+    "OBJ-0455-2.6.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.6-002",
+    "CLM-0455-2.6-006",
+    "CLM-0455-2.6-007"
+   ],
+   "item_type": "essay_plan",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Evaluate",
+   "blooms_level_basis": "performance task type essay_plan",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "Plan an answer to: \"Good rains promise a bumper mahangu harvest across the north, and the price of a sack at the Oshakati market is expected to fall. Discuss whether the expected price fall is good news for the town.\" Do not write the essay; produce the plan.",
+   "canonical_answer": "Case for (the households): a lower price lets households afford more meal, and those on tight budgets gain the most.\nChain 1: rains come -> the harvest rises -> supply shifts right -> the price falls -> the quantity sold rises -> households eat better for less (for the consumer).\nCase against, first point (the growers): every sack earns less, and the extra sacks sold may not make up the difference, so the income from a bigger crop may fall in a good year.\nChain 2: the price falls -> each sack earns less -> growers' income may fall unless volume rises far enough -> spending in the farm shops and hiring at harvest time may ease (for the farmer, the farm worker).\nCase against, second point (next season): a price that stays low may discourage some growers from planting, so future harvests may shrink and the price may swing back up.\nChain 3: the price stays low -> planting looks less rewarding -> next season's harvest is smaller -> supply shifts left -> the price rises again (for the future consumer, the grower).\nJudgement: the fall is good news for the town's households, and may be bad news for its growers; the town usually gains overall where the crop is larger, provided the growers keep an income that sustains planting. The condition the judgement depends on: how far the extra quantity sold offsets the lower price for growers, and whether the low price persists into next season's planting decisions.",
+   "marking_guidance": [
+    "A plan, not an essay: the structure with the stated judgement is what is assessed.",
+    "The plan must carry the case for and the case against, each developed as a chain from condition to consequence, and name the parties - the consumer, the farmer, the farm worker.",
+    "The judgement must be decisive and name the condition it depends on: the rise in quantity sold offsetting the lower price, and the price's effect on next season's planting.",
+    "What settles it: whom the price fall lands on - households gain in the market, growers take the lower price, and the town's overall position turns on the volume offset."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.6-002": 1,
+    "CLM-0455-2.6-006": 1,
+    "CLM-0455-2.6-007": 1
+   },
+   "authored_hash": "067e4875ad8362dd43a002d9a736c10423b9caab59bd862a35625dc0e34ba06d"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "unit_id": "CU-0455-3.3.2",
+ "title": "How the wage is determined",
+ "objective_ids": [
+  "OBJ-0455-3.3.2"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 287,
+  "target": 349,
+  "max": 412
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "3.3.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section asks you to do",
+   "text": "Explain how the demand for workers and the supply of available workers set the wage in an occupation, and trace what happens in one town when an employer expands.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "a139464aeff55464811201840aab3cf45afeb60a715c9a257a89d287e0e72d30"
+  },
+  {
+   "block_id": "3.3.2-b2",
+   "block_type": "definition",
+   "heading": "The wage as the price of work",
+   "text": "A wage is the pay a worker receives for a period of work, quoted in N$ an hour or N$ a month. It is determined in the market for that work: employers demand workers to produce goods and services, workers supply their time and skill, and the wage settles where the number of workers sought matches the number offering to work. Because each occupation and each town has its own pool of workers, the balance - and so the wage - differs from job to job and from place to place.",
+   "claim_ids": [
+    "CLM-0455-3.3-004",
+    "CLM-0455-3.3-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.3-004": 1,
+    "CLM-0455-3.3-006": 1
+   },
+   "authored_hash": "70e94fa0f4dee9c7687cea041008a87edf0e0ec8e811957718d4ecd3f7f62d8b"
+  },
+  {
+   "block_id": "3.3.2-b3",
+   "block_type": "analysis_chain",
+   "heading": "Shortage bids up, surplus presses down",
+   "text": "Where a new mine near Karibib seeks more trained workers than the town holds at the going wage, employers are likely to bid the wage up to attract and keep staff, because each vacancy left unfilled costs them output. Where a firm closes a production line, more workers offer themselves than employers seek, and pay stalls or falls as job-seekers outnumber posts. A rise in demand for a firm's product works the same way: the firm seeks more workers, and the competition among employers for a limited number of trained people pushes the wage up.",
+   "claim_ids": [
+    "CLM-0455-3.3-005",
+    "CLM-0455-3.3-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.3-005": 1,
+    "CLM-0455-3.3-007": 1
+   },
+   "authored_hash": "4e8d65c48d2f08aed04902c47e7689eaaa4e132d60720763c92860fd8fcfa448"
+  },
+  {
+   "block_id": "3.3.2-b4",
+   "block_type": "worked_application",
+   "heading": "A packing line in Gobabis",
+   "text": "Marula Foods in Gobabis packed fruit with 40 workers at N$5 200 a month. A new pulp contract called for 55 packers; the firm raised the wage to N$6 100, and 15 workers arrived from nearby farms within the month. The extra posts number 55 - 40 = 15 workers, and at the new wage the number sought matched the number offering. In the Netherlands the same balance sets the wage for trained flower sorters at the Aalsmeer auctions: in the weeks before holidays each auction house needs its orders packed at once, and the houses bid up the sorting wage for as long as the rush lasts.",
+   "claim_ids": [
+    "CLM-0455-3.3-005",
+    "CLM-0455-3.3-006",
+    "CLM-0455-3.3-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.3-005": 1,
+    "CLM-0455-3.3-006": 1,
+    "CLM-0455-3.3-007": 1
+   },
+   "authored_hash": "2ba7341ce71c8b1f6b90e8f83eb7aaf57488791a1d153d2ac1d417d1b23d701d"
+  },
+  {
+   "block_id": "3.3.2-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The demand for workers comes from the product demand examined in topic 2.3 and from the firms of topic 3.5; the supply of workers depends on the occupational choices of this topic and on training decisions; and the government's role in funding training belongs to topic 4.1.",
+   "claim_ids": [
+    "CLM-0455-3.3-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.3-004": 1
+   },
+   "authored_hash": "04b14dd9eb99c20ab59687cc89225378c607a4d5ac3d30fe9319582afa15552f"
+  }
+ ],
+ "word_count": 396
+}

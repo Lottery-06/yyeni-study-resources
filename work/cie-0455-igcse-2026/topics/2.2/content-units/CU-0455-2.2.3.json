@@ -1,0 +1,103 @@
+{
+ "unit_id": "CU-0455-2.2.3",
+ "title": "The price mechanism answers",
+ "objective_ids": [
+  "OBJ-0455-2.2.3"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_mechanism",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 280,
+  "target": 341,
+  "max": 403
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.2.3-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Explain how the price mechanism provides answers to the three key allocation questions, acting as a signal and an incentive.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "e03a8ff8022c60ca056c0cbb86086909f738f01339cc81a6da490a092bdbf9d9"
+  },
+  {
+   "block_id": "2.2.3-b2",
+   "block_type": "definition",
+   "heading": "Signals and incentives",
+   "text": "The price mechanism is the way changing prices act as signals of scarcity and as incentives, moving resources between competing uses without any central planner directing them. A price that rises tells buyers the good has become scarcer relative to wants and tells producers that expanding output is more rewarding than before. A price that falls sends the opposite message on both sides. In the Netherlands, the nightly flower auctions at Aalsmeer move millions of stems between growers and buyers across Europe, and no official decides the split: the auction prices do, because each grower reads them and chooses what to plant next season.",
+   "claim_ids": [
+    "CLM-0455-2.2-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.2-008": 1
+   },
+   "authored_hash": "df457659e240ce997d77bc16282ff00c872201d85c8df25f3aa5f54c61708695"
+  },
+  {
+   "block_id": "2.2.3-b3",
+   "block_type": "worked_application",
+   "heading": "A shortage of tomatoes in Oshakati",
+   "text": "Suppose tomato blight cuts the Oshakati supply while the town keeps growing. The market price moves from N$15 a kilogram to N$26. That higher price is a signal: it announces that tomatoes are scarcer relative to wants than before. It is also an incentive: growers around Oshakati now earn N$26 a kilogram instead of N$15, so more of them plant tomatoes, and some consumers switch to cabbage at N$9 a kilogram while the price is high. The rise of N$26 - N$15 = N$11 a kilogram is small next to the whole economy, yet it shifts land, water and labour towards tomatoes and shifts some buyers away - which is how a market answers a scarcity problem without being told to.",
+   "claim_ids": [
+    "CLM-0455-2.2-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.2-009": 1
+   },
+   "authored_hash": "c971b6550c5b3a3faab4b871877e913f8b725fc2965007c4830216b85459f560"
+  },
+  {
+   "block_id": "2.2.3-b4",
+   "block_type": "analysis_chain",
+   "heading": "How prices answer the three questions",
+   "text": "The price mechanism answers the three allocation decisions. What to produce: goods whose prices and profits are rising attract resources, so the economy tends to produce more of what buyers are revealing they want. How to produce it: dearer labour relative to machines pushes producers towards the cheaper method for the same output. For whom to produce it: output flows towards the buyers able and willing to pay, so income decides whom the market serves. Each answer is steering, not commanding: prices lean on millions of separate decisions, and the sum of those decisions is the allocation.",
+   "claim_ids": [
+    "CLM-0455-2.2-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.2-010": 1
+   },
+   "authored_hash": "f0b970516b9ac55ae3d0a586630c479139411cfac789fe3c1c7cb19413d42e1a"
+  },
+  {
+   "block_id": "2.2.3-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The equilibrium that prices move around is taught in section 2.2.1 above; the supply and demand curves behind that equilibrium are the subject of topic 2.3; and the goods prices cannot charge for are met in topic 2.10.",
+   "claim_ids": [
+    "CLM-0455-2.2-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.2-008": 1
+   },
+   "authored_hash": "3c6ff9291b21133e3f976c4357ab88284af2f6d25caf94146d51733a6242d6a4"
+  }
+ ],
+ "word_count": 400
+}

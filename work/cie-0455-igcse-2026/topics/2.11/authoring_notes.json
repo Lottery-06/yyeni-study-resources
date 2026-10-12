@@ -1,0 +1,25 @@
+{
+ "topic_id": "2.11",
+ "deviations": [
+  {
+   "from": "subtype DIAGRAM on slot ITEM-0455-2.11-004-DIAGRAM",
+   "to": "subtype SYNTH with the same assessment_objectives [AO2, AO3] and Bloom Apply",
+   "why": "the item schema has no DIAGRAM subtype; this subject renders no charts, so the card is a precise verbal walk-through of axes, original curves, the shift direction, the new equilibrium and what the diagram shows in words - no rendered chart exists in this subject to declare"
+  },
+  {
+   "from": "P02 brief states 14 marks while its named parts (1 Calculate, 2 Identify, 4 Explain, 6 Analyse) sum to 13",
+   "to": "two 1-mark Calculate parts, (a) and (b), so the parts total 14 marks",
+   "why": "the brief 14-mark total is kept without breaking the stated part tariffs"
+  },
+  {
+   "from": "contract counts set by the build",
+   "to": "13 learning items (9 slots + 4 performance tasks), 2 content units",
+   "why": "contract counts are recomputed from the build by the emitter, per the finish routine"
+  },
+  {
+   "from": "no misconceptions register entry carries topic_id 2.11",
+   "to": "no MISCON card added beyond the 9 slots",
+   "why": "the register holds no 2.11 entry, so there is no examiner-evidenced confusion to discriminate"
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "unit_id": "CU-0455-2.11.2",
+ "title": "When government steps into a market",
+ "objective_ids": [
+  "OBJ-0455-2.11.2"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_diagram",
+ "depth_tier": 4,
+ "word_budget": {
+  "min": 315,
+  "target": 382,
+  "max": 450
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.11.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define government intervention, set out its measures, and weigh how effective they are.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "04b661c540b7c5233d0f10451eb099bbc2c2ad61f81ac3d574acb3398b7d66d6"
+  },
+  {
+   "block_id": "2.11.2-b2",
+   "block_type": "definition",
+   "heading": "Action to change a market outcome",
+   "text": "Government intervention to address market failure is deliberate action by a government to change the outcome a market reaches on its own, taken because that outcome is judged to waste resources or leave needs unmet. Its tools are price limits, indirect taxes, subsidies, regulation, privatisation, nationalisation and direct provision.",
+   "claim_ids": [
+    "CLM-0455-2.11-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.11-005": 1
+   },
+   "authored_hash": "a840754f2394b2c3417aa93e9182abcdfd6f4e188f5443b7f45f9e2bf51d4397"
+  },
+  {
+   "block_id": "2.11.2-b3",
+   "block_type": "analysis_chain",
+   "heading": "Price limits and their side-effects",
+   "text": "A maximum price holds a market price below where it would settle; a minimum price holds it above. Take bread held at N$8 against a N$10 market price: buyers want more, bakers offer less, and a shortage appears, with queues and empty shelves. A beef minimum of N$54 against a N$45 market price runs the other way: farmers offer more, buyers take less, and a surplus builds that someone must store or buy. Brazil has long used minimum prices for farm crops to hold up farm incomes - the surplus side-effect is why such schemes come with government purchase.",
+   "claim_ids": [
+    "CLM-0455-2.11-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.11-006": 1
+   },
+   "authored_hash": "2c046a86a8b14dbdc236e28952bd7912bbc7f5e8c05af1b3c1a5114c28194306"
+  },
+  {
+   "block_id": "2.11.2-b4",
+   "block_type": "worked_application",
+   "heading": "A tax on the diagram, in words",
+   "text": "Picture the sugary drink market as a demand curve sloping down and a supply curve sloping up, price in N$ per litre on one axis, quantity in litres per week on the other, crossing at N$10 and 4 000 litres. An indirect tax of N$2 a litre raises supply costs, so supply shifts left and upward to a curve labelled S1; demand does not move. The new crossing sits at N$11 with 3 500 litres: consumers pay N$1 more a litre, sellers keep N$9 after the tax, and government collects N$2 x 3 500 = N$7 000 a week. The vertical gap between S and S1 is the N$2 tax; because supply slopes upward, the price rises by less than the tax. A subsidy is the diagram in reverse: paying millers N$5 a bag shifts supply right, tending to a lower price with more bags traded.",
+   "claim_ids": [
+    "CLM-0455-2.11-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.11-007": 1
+   },
+   "authored_hash": "87ed464df2666fa9f591d799672ca247f8f45d8232e7e9d7d4750ff0ca2d8892",
+   "prior_hash": "d08b7268375852877af5d55920af2e2000ae0b275ea1ff5849feadf57e215ae0",
+   "repair_note": "Planner audit 2026-10-06 (diagram build): figures corrected so the drawn diagram is consistent - a point on a bowed curve, or an indirect tax on an upward-sloping supply curve raising price by less than the tax."
+  },
+  {
+   "block_id": "2.11.2-b5",
+   "block_type": "components",
+   "heading": "Rules, ownership and direct supply",
+   "text": "Beyond prices, taxes and subsidies, government can act on rules and ownership. Regulation sets binding rules firms must follow, such as taxi safety checks. Direct provision has the government supply the good itself, as with state clinics and schools. Privatisation moves a state firm into private hands, nationalisation the reverse - they change who decides, not just the price.",
+   "claim_ids": [
+    "CLM-0455-2.11-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.11-008": 1
+   },
+   "authored_hash": "00f5d869557c392106bdcb48d58c36677e8762a79941ced1d836534d7ba77eb2"
+  },
+  {
+   "block_id": "2.11.2-b6",
+   "block_type": "evaluation",
+   "heading": "How well intervention works",
+   "text": "Effectiveness is a matter of fit, information and cost. A measure that fits the failure tends to move the outcome towards what the community wants; where government misreads the market, or where policing a rule costs more than it gains, the measure may fall short - a cap below cost may thin the service instead of protecting the buyer.",
+   "claim_ids": [
+    "CLM-0455-2.11-005",
+    "CLM-0455-2.11-006",
+    "CLM-0455-2.11-007",
+    "CLM-0455-2.11-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO3"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.11-005": 1,
+    "CLM-0455-2.11-006": 1,
+    "CLM-0455-2.11-007": 1,
+    "CLM-0455-2.11-008": 1
+   },
+   "authored_hash": "746ccaf9cfc22f0b42ab4414e4c27f79dd8022a706ce27b9e59fbfa4fed5e8a0"
+  },
+  {
+   "block_id": "2.11.2-b7",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Market drawbacks that justify intervention are taught in topic 2.10, the market system in 2.9, the government wider aims in 4.1.",
+   "claim_ids": [
+    "CLM-0455-2.11-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.11-005": 1
+   },
+   "authored_hash": "645ec90badd6a2495505d64bd1d33a3920f93e0c176f82c5fccb74d503bccad5"
+  }
+ ],
+ "word_count": 449
+}

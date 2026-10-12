@@ -2,27 +2,27 @@
 
 *build/make_work_order.py — regenerate, never edit*
 
-4 assessable objectives · 38 planned items · 4 content units
+4 assessable objectives · 28 planned items · 4 content units
 
 ## Planned AO mix by item count (reported, not targeted)
 
 | AO | planned | item-count target |
 |---|---:|---:|
-| AO1 | 48% | 40% |
-| AO2 | 48% | 40% |
-| AO3 | 3% | 20% |
+| AO1 | 44% | 40% |
+| AO2 | 44% | 40% |
+| AO3 | 11% | 20% |
 
 ## Planned AO mix in marks-equivalent — the measure the syllabus uses
 
 | AO | planned | syllabus weight |
 |---|---:|---:|
-| AO1 | 30% | 40% |
-| AO2 | 55% | 40% |
-| AO3 | 14% | 20% |
+| AO1 | 36% | 40% |
+| AO2 | 46% | 40% |
+| AO3 | 18% | 20% |
 
-235 marks-equivalent of practice in this topic.
+162 marks-equivalent of practice in this topic.
 
-> The syllabus states its AO weights as a share of MARKS, so planned_ao_mix_by_marks is the one that answers "does this resource match the exam". It values each card at the tariff of the question it models, split across the AOs the card declares, and values each performance task at the marks of the paper part it models. The count-based mix below is reported only because it is what a reader expects to see; do not balance against it. AO shares by ITEM COUNT: Every objective needs one recall anchor, so AO1 has a structural floor of about 12% in this topic (4 objectives against 33 slots) and cannot reach the 40% target by count however many other cards are added - padding the bank to chase it makes the resource worse. The framework already measures the AO4 share in practice time rather than by count for the same reason. Treat AO1 above target as expected, and AO2/AO3/AO4 below target as the thing worth fixing.
+> The syllabus states its AO weights as a share of MARKS, so planned_ao_mix_by_marks is the one that answers "does this resource match the exam". It values each card at the tariff of the question it models, split across the AOs the card declares, and values each performance task at the marks of the paper part it models. The count-based mix below is reported only because it is what a reader expects to see; do not balance against it. AO shares by ITEM COUNT: Every objective needs one recall anchor, so AO1 has a structural floor of about 11% in this topic (4 objectives against 36 slots) and cannot reach the 40% target by count however many other cards are added - padding the bank to chase it makes the resource worse. The framework already measures the AO4 share in practice time rather than by count for the same reason. Treat AO1 above target as expected, and AO2/AO3/AO4 below target as the thing worth fixing.
 
 ## Content units
 
@@ -43,46 +43,36 @@
 | Slot | Objective | Subtype | AO | Command word | Tariff | Why |
 |---|---|---|---|---|---:|---|
 | `001-DEF` | definition of PPC | DEF | AO1 | Define | 2 | instructs with Define, which this objective carries |
-| `002-DIAGRAM` | definition of PPC | DIAGRAM | AO2 | Discuss | 8 | instructs with Discuss, the shape this subtype needs |
-| `003-INTERP` | definition of PPC | INTERP | AO2 | Explain | 4 | instructs with Explain, which this objective carries |
-| `004-APP` | definition of PPC | APP | AO2 | Explain | 4 | instructs with Explain, which this objective carries |
+| `002-DIAGRAM` | definition of PPC | DIAGRAM | AO2/AO3 | Discuss | 8 | instructs with Discuss, the shape this subtype needs |
+| `003-INTERP` | definition of PPC | INTERP | AO1/AO2 | Explain | 4 | instructs with Explain, which this objective carries |
+| `004-APP` | definition of PPC | APP | AO1/AO2 | Explain | 4 | instructs with Explain, which this objective carries |
 | `005-CHAIN` | definition of PPC | CHAIN | AO2 | Analyse | 6 | instructs with Analyse, which this objective carries |
-| `021-EVAL` | definition of PPC | EVAL | AO3 | Discuss | 8 | added to reach the framework AO3 target of 20% |
-| `022-FEATURE` | definition of PPC | FEATURE | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
-| `026-MISCON` | definition of PPC | MISCON | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
-| `030-DIST` | definition of PPC | DIST | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
+| `021-FEATURE` | definition of PPC | FEATURE | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
 | `006-DEF` | points under, on and beyond a PPC | DEF | AO1 | Define | 2 | instructs with Define, which this objective carries |
-| `007-DIAGRAM` | points under, on and beyond a PPC | DIAGRAM | AO2 | Discuss | 8 | instructs with Discuss, the shape this subtype needs |
-| `008-INTERP` | points under, on and beyond a PPC | INTERP | AO2 | Explain | 4 | instructs with Explain, which this objective carries |
-| `009-APP` | points under, on and beyond a PPC | APP | AO2 | Explain | 4 | instructs with Explain, which this objective carries |
+| `007-DIAGRAM` | points under, on and beyond a PPC | DIAGRAM | AO2/AO3 | Discuss | 8 | instructs with Discuss, the shape this subtype needs |
+| `008-INTERP` | points under, on and beyond a PPC | INTERP | AO1/AO2 | Explain | 4 | instructs with Explain, which this objective carries |
+| `009-APP` | points under, on and beyond a PPC | APP | AO1/AO2 | Explain | 4 | instructs with Explain, which this objective carries |
 | `010-CHAIN` | points under, on and beyond a PPC | CHAIN | AO2 | Analyse | 6 | instructs with Analyse, which this objective carries |
-| `023-FEATURE` | points under, on and beyond a PPC | FEATURE | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
-| `027-MISCON` | points under, on and beyond a PPC | MISCON | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
-| `031-DIST` | points under, on and beyond a PPC | DIST | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
+| `022-FEATURE` | points under, on and beyond a PPC | FEATURE | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
 | `011-DEF` | movements along a PPC | DEF | AO1 | Define | 2 | instructs with Define, which this objective carries |
-| `012-DIAGRAM` | movements along a PPC | DIAGRAM | AO2 | Discuss | 8 | instructs with Discuss, the shape this subtype needs |
-| `013-INTERP` | movements along a PPC | INTERP | AO2 | Explain | 4 | instructs with Explain, which this objective carries |
-| `014-APP` | movements along a PPC | APP | AO2 | Explain | 4 | instructs with Explain, which this objective carries |
+| `012-DIAGRAM` | movements along a PPC | DIAGRAM | AO2/AO3 | Discuss | 8 | instructs with Discuss, the shape this subtype needs |
+| `013-INTERP` | movements along a PPC | INTERP | AO1/AO2 | Explain | 4 | instructs with Explain, which this objective carries |
+| `014-APP` | movements along a PPC | APP | AO1/AO2 | Explain | 4 | instructs with Explain, which this objective carries |
 | `015-CHAIN` | movements along a PPC | CHAIN | AO2 | Analyse | 6 | instructs with Analyse, which this objective carries |
-| `024-FEATURE` | movements along a PPC | FEATURE | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
-| `028-MISCON` | movements along a PPC | MISCON | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
-| `032-DIST` | movements along a PPC | DIST | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
+| `023-FEATURE` | movements along a PPC | FEATURE | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
 | `016-DEF` | shifts in a PPC | DEF | AO1 | Define | 2 | instructs with Define, which this objective carries |
-| `017-DIAGRAM` | shifts in a PPC | DIAGRAM | AO2 | Discuss | 8 | instructs with Discuss, the shape this subtype needs |
-| `018-INTERP` | shifts in a PPC | INTERP | AO2 | Explain | 4 | instructs with Explain, which this objective carries |
-| `019-APP` | shifts in a PPC | APP | AO2 | Explain | 4 | instructs with Explain, which this objective carries |
+| `017-DIAGRAM` | shifts in a PPC | DIAGRAM | AO2/AO3 | Discuss | 8 | instructs with Discuss, the shape this subtype needs |
+| `018-INTERP` | shifts in a PPC | INTERP | AO1/AO2 | Explain | 4 | instructs with Explain, which this objective carries |
+| `019-APP` | shifts in a PPC | APP | AO1/AO2 | Explain | 4 | instructs with Explain, which this objective carries |
 | `020-CHAIN` | shifts in a PPC | CHAIN | AO2 | Analyse | 6 | instructs with Analyse, which this objective carries |
-| `025-FEATURE` | shifts in a PPC | FEATURE | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
-| `029-MISCON` | shifts in a PPC | MISCON | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
-| `033-DIST` | shifts in a PPC | DIST | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
+| `024-FEATURE` | shifts in a PPC | FEATURE | AO1 | Explain | 4 | added to reach the framework AO1 target of 40% |
 
 ## Performance tasks
 
-- **multiple_choice_set** — A set of 8 four-option multiple-choice questions on this topic, one mark each, every distractor explained on the back. This models the qualification’s multiple-choice paper, which carries 30 of its 120 marks — 30% of the whole examination.
-- **short_answer** — A lender/manager-style question requiring several linked points
-- **data_response** — A short case with figures, answered under AO2 and AO4
-- **essay_plan** — A planned 12-mark evaluation, structured not written out
-- **case_analysis** — An unfamiliar business, analysed then judged
+- **multiple_choice_set** — A set of 8 four-option multiple-choice questions on this topic in the style of Paper 1, one mark each, every distractor explained on the back as the specific misunderstanding it catches.
+- **data_response** — A Paper 2 Section A-style data-response question on this topic (14 marks): an original short economic news extract with a table or figures, with parts of 1 mark each (two Calculate from the data), 2 marks (Identify or State), 4 marks (Explain), and 6 marks (Analyse, using the data as evidence: expected relationship, evidence, analysis, exception). The guidance marks one point per distinct linked statement and refuses figure-quoting as analysis.
+- **short_answer** — A Paper 2 Section B-style structured question on this topic (20 marks): (a) Define, 2 marks; (b) Explain, 4 marks; (c) Analyse, 6 marks; (d) Discuss, 8 marks, level-marked over three bands with the top band examining both sides (why it might, why it might not) and reaching a judgement. Model answer and guidance for every part.
+- **essay_plan** — A plan for an 8-mark Discuss question on this topic: the case for, the case against, each point developed into a chain, and the judgement with the condition it depends on. Not written out in full.
 
 ## Excluded from this topic
 

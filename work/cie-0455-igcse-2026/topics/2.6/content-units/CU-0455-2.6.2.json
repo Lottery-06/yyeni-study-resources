@@ -1,0 +1,106 @@
+{
+ "unit_id": "CU-0455-2.6.2",
+ "title": "What a price change does",
+ "objective_ids": [
+  "OBJ-0455-2.6.2"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_diagram",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 250,
+  "target": 305,
+  "max": 360
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.6.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "State the consequences of a price change for the new equilibrium price and the quantity sold in each direction a curve can shift, read those consequences from a demand-and-supply diagram described in words, and name the parties they land on.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "0b5fa101d3ed24870fda5902a7ee650754c68e100ab1357152ab1fa4a27f6bf2"
+  },
+  {
+   "block_id": "2.6.2-b2",
+   "block_type": "components",
+   "heading": "Four shifts, four consequences",
+   "text": "The consequences of a price change are read as a pair: the new equilibrium price, and the new equilibrium quantity - the quantity bought and sold at that price over a period, the market's sales. Where demand shifts right and supply holds, both tend to rise: consumers pay more and sellers sell more. Where demand shifts left, both tend to fall. Where supply shifts right, the price tends to fall while sales tend to rise; where supply shifts left, the price tends to rise while sales tend to fall.",
+   "claim_ids": [
+    "CLM-0455-2.6-005",
+    "CLM-0455-2.6-006",
+    "CLM-0455-2.6-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.6-005": 1,
+    "CLM-0455-2.6-006": 1,
+    "CLM-0455-2.6-007": 1
+   },
+   "authored_hash": "2ce7b512134ad0980b9785b1a0bb8f0e0c42356f40594d8546e0087f7ed0af89"
+  },
+  {
+   "block_id": "2.6.2-b3",
+   "block_type": "worked_application",
+   "heading": "A bumper harvest at Gobabis",
+   "text": "Good rains swell the cabbage harvest around Gobabis: the supply curve shifts right, and at the old price of N$15 a head there are more cabbages than buyers take. The price falls to N$10 a head, and sales rise from 400 to 520 heads a week, since 520 - 400 = 120 heads. Households pay less for each head, and traders usually sell more heads at the lower price. Rice traders near Can Tho in Vietnam see the same after a strong Mekong harvest.",
+   "claim_ids": [
+    "CLM-0455-2.6-006",
+    "CLM-0455-2.6-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.6-006": 1,
+    "CLM-0455-2.6-007": 1
+   },
+   "authored_hash": "fee6dd005c7b42f974b854dfcf0c5811a1ddb44255fb9020b519f3a6b40351d9"
+  },
+  {
+   "block_id": "2.6.2-b4",
+   "block_type": "interpretation",
+   "heading": "Reading the consequence off the diagram",
+   "text": "A demand-and-supply diagram shows the story in words. Put the price of the good on the vertical axis and the quantity on the horizontal axis. Draw and label the original demand curve D1 and supply curve S1, crossing at the original equilibrium. When a market condition changes, shift the curve whose condition moved, in the correct direction, and hold the other still. The new crossing, marked and labelled, is the new equilibrium: read off the new price and the quantity sold, and state in words what the diagram shows - which way the price and the sales moved, and on whom it landed.",
+   "claim_ids": [
+    "CLM-0455-2.6-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.6-008": 1
+   },
+   "authored_hash": "980ebbe801133703894c89a027055f7a6ea5c13cb69d86802eb08e81763cf594"
+  },
+  {
+   "block_id": "2.6.2-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "How strongly sales respond to a new price is measured in topics 2.7 and 2.8; the equilibrium the shifts settle at is topic 2.5's.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "2c807eb772a54f80d3fd0398f92c3b99acb9d8c5a9abea896c894309109bac13"
+  }
+ ],
+ "word_count": 360
+}

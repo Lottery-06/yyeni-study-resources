@@ -2,7 +2,7 @@
  "contract_id": "CONTRACT-0455-2.10",
  "topic_id": "2.10",
  "topic_title": "Market failure",
- "unit": "Unit 2 — The allocation of resources",
+ "unit": "Unit 2 \u2014 The allocation of resources",
  "qualification": "cie-0455-igcse-2026",
  "standard_version": "0.2.0-draft",
  "generated_at": "2026-09-29T07:34:10Z",
@@ -133,7 +133,7 @@
    "min": 930,
    "max": 1330
   },
-  "item_budget": 21,
+  "item_budget": 14,
   "excluded_constructs": [
    {
     "construct": "a market-failure diagram",
@@ -170,18 +170,18 @@
    "Demand and supply diagrams relating to market failure are not required."
   ],
   "adjacent_topics": [
-   "Demand — taught in topic 2.3 (same unit)",
-   "Supply — taught in topic 2.4 (same unit)"
+   "Demand \u2014 taught in topic 2.3 (same unit)",
+   "Supply \u2014 taught in topic 2.4 (same unit)"
   ],
-  "excluded_constructs_source": "excluded_constructs are the limits the syllabus states anywhere in the subject, each as the pattern C-11 scans learner-facing text for (curriculum/scope-scan.json): the sentence is Cambridge’s, the pattern is our judgement of what teaching past it looks like, and any match fails the topic. adjacent_topics are not scanned: they name subject matter a neighbouring topic owns. Naming one in passing is fine and often necessary; teaching it here is scope creep."
+  "excluded_constructs_source": "excluded_constructs are the limits the syllabus states anywhere in the subject, each as the pattern C-11 scans learner-facing text for (curriculum/scope-scan.json): the sentence is Cambridge\u2019s, the pattern is our judgement of what teaching past it looks like, and any match fails the topic. adjacent_topics are not scanned: they name subject matter a neighbouring topic owns. Naming one in passing is fine and often necessary; teaching it here is scope creep."
  },
  "required_outputs": {
   "claim_ledger": true,
   "content_units": 3,
-  "learning_items": 21,
+  "learning_items": 14,
   "notes": true
  },
  "misconceptions": "curriculum/misconceptions.json (filter on topic_id \"2.10\")",
  "subtype_waivers": [],
- "item_budget_note": "Set from the generated work order, which is the operative plan. The exposure estimate that seeded it was 21."
+ "item_budget_note": "Set from the generated work order, which is the operative plan. The exposure estimate that seeded it was 14."
 }

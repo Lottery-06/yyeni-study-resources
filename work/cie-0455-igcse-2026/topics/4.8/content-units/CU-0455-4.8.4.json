@@ -1,0 +1,121 @@
+{
+ "unit_id": "CU-0455-4.8.4",
+ "title": "The consequences of inflation and deflation",
+ "objective_ids": [
+  "OBJ-0455-4.8.4"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 250,
+  "target": 305,
+  "max": 360
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "4.8.4-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Trace what inflation and deflation mean for consumers, workers, savers, lenders, firms and the economy.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "e1dacec4030c796eee846ab830b1d635fdff4ba7d28275f8903131a60192874d"
+  },
+  {
+   "block_id": "4.8.4-b2",
+   "block_type": "stakeholder_effect",
+   "heading": "Who gains and who loses from inflation",
+   "text": "Inflation moves buying power between people: savers holding money lose, because the same sum buys less as prices climb; lenders repaid in fixed money sums tend to lose where the interest does not make up the climb, while borrowers gain the mirror image - a debt fixed in money is repaid in goods worth less than the sum lent. Workers on fixed money wages tend to lose until pay catches up, and firms are caught both ways: dearer inputs, yet prices they can set.",
+   "claim_ids": [
+    "CLM-0455-4.8-013"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.8-013": 1
+   },
+   "authored_hash": "80021568c86db2922b8b834255df721c762b0eea3d90bbd0f5e13159498aba6a"
+  },
+  {
+   "block_id": "4.8.4-b3",
+   "block_type": "analysis_chain",
+   "heading": "Inflation through the wider economy",
+   "text": "Where inflation is high or unexpected, its consequences run beyond redistribution. Firms cannot predict input costs or set prices with confidence, so investment waits, and wage bargaining turns into a chase: prices climb, wages follow, costs climb again. Exports tend to become dearer against rivals' goods where domestic prices climb faster than trading partners' prices - the current account of topic 6.2.",
+   "claim_ids": [
+    "CLM-0455-4.8-014"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.8-014": 1
+   },
+   "authored_hash": "3076a801b36351b283a65a929bf2b886a20a030afdb0139a75c3420b18b91e87"
+  },
+  {
+   "block_id": "4.8.4-b4",
+   "block_type": "analysis_chain",
+   "heading": "Deflation's chains",
+   "text": "A falling general price level chains into the real economy. Chain one: buyers expect lower prices later, so they postpone purchases; firms see sales fall, cut output and lay off workers; the workers who lose income spend less, so prices fall again. Chain two: debts are fixed in money, and each unit of money now buys more, so the real burden of each loan grows as the price level falls - households and firms cut spending to service debts, deepening the fall.",
+   "claim_ids": [
+    "CLM-0455-4.8-015"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.8-015": 1
+   },
+   "authored_hash": "524ab93bfa6dd4ff4775fbcfdbd7f9e9afb416df2e54e50967f3eba483e72de5"
+  },
+  {
+   "block_id": "4.8.4-b5",
+   "block_type": "evaluation",
+   "heading": "Which is harder to manage",
+   "text": "A low, steady rise in the general price level tends to be easier to manage than falling prices: wages and debts adjust more smoothly where the price level edges up gently, and the chains above stay quiet. Deflation, where it takes hold, risks the self-feeding spiral of postponed spending - the reason the price stability aim of topic 4.1 is set at a low, steady rise rather than zero.",
+   "claim_ids": [
+    "CLM-0455-4.8-016"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.8-016": 1
+   },
+   "authored_hash": "aa4aa7bb21e75f7272fd53c9871bcd0db0ed6998ab113cf86ffec8b32ddfa7d7"
+  },
+  {
+   "block_id": "4.8.4-b6",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "These consequences are what the policies of the next section are chosen to avoid, and the export prices among them belong with topic 6.2.",
+   "claim_ids": [
+    "CLM-0455-4.8-014"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.8-014": 1
+   },
+   "authored_hash": "f7387d997df14cf511b21f06c93ce2cde5035af56b06a42aa17cf652b0f43167"
+  }
+ ],
+ "word_count": 360
+}

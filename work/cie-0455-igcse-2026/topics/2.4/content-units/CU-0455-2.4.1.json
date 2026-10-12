@@ -1,0 +1,103 @@
+{
+ "unit_id": "CU-0455-2.4.1",
+ "title": "What supply means",
+ "objective_ids": [
+  "OBJ-0455-2.4.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_diagram",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 250,
+  "target": 305,
+  "max": 360
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.4.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "State what supply means, show it as a supply schedule and curve, and tell supply apart from demand.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "4232f4a11beb8706b9867c865ea87ea8603ca36f12d9c3e92a4c49f88302e9e3"
+  },
+  {
+   "block_id": "2.4.1-b2",
+   "block_type": "definition",
+   "heading": "The definition of supply",
+   "text": "Supply is the quantity of a good that producers are willing and able to offer for sale at a given price over a period of time. Two parts must both hold. The producer must be willing to sell at that price, and able to offer the good: with stock, capacity or the right to sell it. A fisher in Walvis Bay who would like to sell horse mackerel at N$20 a kilogram but has no catch that week is not supplying at that price; a wish to sell without the ability to offer stays outside supply.",
+   "claim_ids": [
+    "CLM-0455-2.4-001",
+    "CLM-0455-2.4-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.4-001": 1,
+    "CLM-0455-2.4-002": 1
+   },
+   "authored_hash": "5227baf162db1c3a3831cc49f510b0decc597cb437d80a899a7028b4c0c8c340"
+  },
+  {
+   "block_id": "2.4.1-b3",
+   "block_type": "worked_application",
+   "heading": "From schedule to curve",
+   "text": "A producer that writes down the quantity it would offer at each price has drawn up a supply schedule. Marula Foods of Gobabis dries marula fruit for shops across Namibia: at N$20 a packet it offers 300 packets a month, at N$30 it offers 450 packets, at N$40 it offers 600 packets. Drawn as a diagram, the price per packet goes on the vertical axis and the packets a month on the horizontal, and the supply curve slopes upward through the three points. A rose grower in the Netherlands books the same upward relationship for bunches sold at auction. The curve as a whole is supply itself, not any single point on it.",
+   "claim_ids": [
+    "CLM-0455-2.4-001",
+    "CLM-0455-2.4-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.4-001": 1,
+    "CLM-0455-2.4-004": 1
+   },
+   "authored_hash": "c05b472bfd883a20579dcc683e045f0020d5ae143d41ad5f994554647fd0f80c"
+  },
+  {
+   "block_id": "2.4.1-b4",
+   "block_type": "misconception",
+   "heading": "Sellers or buyers",
+   "text": "The confusion learners make: supply and demand are mixed up, because both describe a quantity at a price. The boundary: supply belongs to the sellers - the quantity producers are willing and able to offer - while demand, from topic 2.3, belongs to the buyers - the quantity consumers are willing and able to buy. The test: ask whose decision sets the quantity. Where a firm chooses how much to put on its shelf, the quantity is supply; where a household chooses how much to take home, it is demand.",
+   "claim_ids": [
+    "CLM-0455-2.4-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.4-003": 1
+   },
+   "authored_hash": "e2c52cb15f487b483f8316c0926eb93d5efe4f3e7017f6c4ff88bcf93448ec84"
+  },
+  {
+   "block_id": "2.4.1-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Topic 2.3 drew the buying half of the market; this topic draws the selling half, and topic 2.5 brings the two together to fix the market price.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "f6c312e6fdc4b7172d887bec943adf047c1ca4066f177666ced392f2941f4463"
+  }
+ ],
+ "word_count": 360
+}

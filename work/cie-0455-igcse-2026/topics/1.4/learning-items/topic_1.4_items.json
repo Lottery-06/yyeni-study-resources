@@ -1,0 +1,1361 @@
+{
+ "dataset_id": "ITEMS-0455-IGCSE-1.4",
+ "topic_id": "1.4",
+ "items": [
+  {
+   "item_id": "ITEM-0455-1.4-001-DEF",
+   "objective_ids": [
+    "OBJ-0455-1.4.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Define the production possibility curve (PPC).",
+   "canonical_answer": "A production possibility curve is a boundary showing the maximum combinations of two goods an economy can produce in a given period when its resources are employed fully and efficiently. Two creditable elements: the boundary of maximum combinations of two goods, and the condition of full and efficient use of resources.",
+   "marking_guidance": [
+    "Precise meaning: the definition must give the precise meaning of the term, and each creditable element of it is worth one mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-001": 1
+   },
+   "authored_hash": "c6a502752e6c4816624ab5fe343b8983f90b98c449bcc81d5079b82b6e320262"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-002-DIAGRAM",
+   "objective_ids": [
+    "OBJ-0455-1.4.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-001",
+    "CLM-0455-1.4-003",
+    "CLM-0455-1.4-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "SYNTH",
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype SYNTH",
+   "command_word": "Discuss",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "An economy produces two goods: canned fish processed at Walvis Bay and maize meal milled at Otavi. Its planners decide to shift workers and tins from the mills into the canneries. Discuss how a production possibility curve for this economy is drawn and then used to show the change: set out what each axis is labelled with, where the original curve sits, the direction of the move along it, the point the economy ends at, and what the finished diagram shows in words.",
+   "canonical_answer": "Begin with the axes: label the vertical axis maize meal, in tonnes per year, and the horizontal axis canned fish, in tonnes per year. Draw the original curve as one boundary bowed outward from the vertical intercept (60 000 tonnes of maize meal with no fish) to the horizontal intercept (30 000 tonnes of fish with no maize meal), and label it PPC1. Mark the starting combination on the boundary, 40 000 tonnes of maize meal with 20 000 tonnes of fish, and label it A. The change is a movement along the curve in the correct direction: slide down the same boundary toward the fish axis, to B, 25 000 tonnes of maize meal with 25 000 tonnes of fish, keeping B on PPC1. Mark and label B as the finishing combination, the new equilibrium marked and labelled completing the move. What the diagram shows, in words: the economy reallocated resources from mills to canneries. Fish rose from 20 000 to 25 000 tonnes, since 25 000 - 20 000 = 5 000 tonnes of fish were gained, and maize meal fell from 40 000 to 25 000 tonnes, since 40 000 - 25 000 = 15 000 tonnes were given up, so the 15 000 tonnes of maize meal is the opportunity cost of the 5 000 tonnes of fish. The boundary itself has not moved, so capacity is unchanged and the choice alone changed.",
+   "marking_guidance": [
+    "Axes labelled: each axis named with its good and its unit; the two goods are the measures here, and money or price axes belong to other diagrams and earn nothing.",
+    "Original curves drawn and labelled: the single boundary drawn bowed outward between the intercepts and labelled PPC1 before any change is marked.",
+    "The shift or movement, in the correct direction: here a movement along the curve from A down the boundary toward the fish axis, since capacity is unchanged.",
+    "New equilibrium marked and labelled: the finishing combination B marked and named on the same curve.",
+    "What the diagram shows, in words: the reallocation from maize meal to fish, with the opportunity cost stated in tonnes.",
+    "The link: the definition supplies the boundary, and the consequence is the sacrificed maize measured on it."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-001": 1,
+    "CLM-0455-1.4-003": 1,
+    "CLM-0455-1.4-004": 1
+   },
+   "authored_hash": "9ccfa503ccb50ec314745ec1d250191bdd7eb6cb623c55f210a84740b0dc0f84",
+   "prior_hash": "6a55775e4770d4d92235b4bb91232fa762b29927d0af8ee44c2abef3f08f7e28",
+   "repair_note": "Planner audit 2026-10-06 (diagram build): figures corrected so the drawn diagram is consistent - a point on a bowed curve, or an indirect tax on an upward-sloping supply curve raising price by less than the tax."
+  },
+  {
+   "item_id": "ITEM-0455-1.4-003-INTERP",
+   "objective_ids": [
+    "OBJ-0455-1.4.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-001",
+    "CLM-0455-1.4-003",
+    "CLM-0455-1.4-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype INTERP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "A class in Windhoek lists what their two-good economy could produce in a year, at full and efficient use: P, no fish and 60 tonnes of maize; Q, 10 tonnes of fish and 55 tonnes of maize; R, 20 tonnes of fish and 45 tonnes of maize; S, 30 tonnes of fish and 30 tonnes of maize; T, 40 tonnes of fish and no maize. Explain what the data shows about the relationship between the two outputs.",
+   "canonical_answer": "What the data shows is a negative relationship between fish and maize: as the fish figure rises from 0 to 40 tonnes, the maize figure falls from 60 tonnes to 0 tonnes. Supporting evidence by comparison: from P to Q, 10 tonnes of fish costs 5 tonnes of maize; from S to T, 10 tonnes of fish costs 30 tonnes of maize, so the sacrifice grows with each step. The explanation of the relationship is scarcity: the same workers, boats and ploughs cannot be in both industries at once, so gaining one output means withdrawing resources from the other, and the resources least suited to fishing are moved first, which is why the sacrifice grows. However, the figures are boundary maximums at full use: in a year with idle boats the economy could fall short of every combination listed, so the table is a boundary of what is possible, not a forecast of what happens.",
+   "marking_guidance": [
+    "What the data shows: the relationship between the two outputs must be stated before anything else.",
+    "Supporting evidence: a comparison of two rows or steps in the data, with their figures.",
+    "Exception: an answer that notes where the reading does not go further (boundary maximums, unrecorded output, a point inside rather than on the curve) earns the however mark.",
+    "Why: the explanation of the relationship - scarce resources shared between the two goods, with the least-suited resources moved first."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-001": 1,
+    "CLM-0455-1.4-003": 1,
+    "CLM-0455-1.4-004": 1
+   },
+   "authored_hash": "9839ba94ddb59b5283bfcb323805f49d0cc75ec8f3feee9f07ba49ddeb244233"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-004-APP",
+   "objective_ids": [
+    "OBJ-0455-1.4.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-001",
+    "CLM-0455-1.4-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "Etosha Gate Lodge has 18 staff on fixed shifts and splits them between guided drives and the laundry. With every member guiding it runs 90 drives a month; with every member in laundry it turns around 360 laundry loads a month; mixed teams give the combinations between. Using the figures, explain why the lodge month is a production possibility curve in miniature and what the boundary means for the lodge.",
+   "canonical_answer": "The figures give the two ends of a boundary drawn from the same 18 staff: 90 guided drives a month at one end and 360 laundry loads a month at the other. Because the staff are finite, every drive run this month means laundry waiting, and every load turned around keeps a guide off the vehicle; the mixed months between the ends trade the two outputs against each other. That is what a PPC is at firm level: a boundary of maximum trade-offs between two outputs from a fixed stock of resources, drawn for a given state of staff and equipment. The lodge month is therefore a point on or inside that boundary, and the boundary tells the manager what any extra drives must cost in laundry loads.",
+   "marking_guidance": [
+    "Context: the figures in the prompt must be used - no answer without them.",
+    "Reasoning: the link from the figures to the concept must be written out, because figures stated without the link earn nothing.",
+    "Conclusion: therefore the answer ends by saying what the figures show about the boundary."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-001": 1,
+    "CLM-0455-1.4-002": 1
+   },
+   "authored_hash": "f3788b9d8ef7b7f4dd2241ce61685de48e767b21ea57bf33ebb513fae1aee771"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-005-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-1.4.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-001",
+    "CLM-0455-1.4-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "Oshakati Textiles employs 40 machinists on two lines, school shirts and work dresses. A flu season leaves 6 of the 40 off work for a month while the factory keeps its order book open. Analyse the consequences for the firm position relative to its production possibility boundary, and for its customers and its workers.",
+   "canonical_answer": "Starting point: when 6 of the 40 machinists are off sick, the workers present fall short of full staffing, so output drops below what the boundary shows as possible. Mechanism: because fewer hands run the same machines, output of school shirts and of work dresses falls together; this causes the factory to slide from a point on its boundary to a point inside it, since the boundary is drawn for all 40 at work, under a given state of resources. Consequence: therefore the firm produces less of both goods than its resources could have yielded, and the shortfall is a matter of use, not of capacity - the boundary did not move, the firm moved inside it. For whom: customers wait longer for deliveries of both lines, the 34 present face overtime pressure, and the firm revenue for the month falls with its output.",
+   "marking_guidance": [
+    "Starting point: the initial change must be stated, as a when or an if.",
+    "Mechanism: the causal link must be written out, because this causes that, step by step.",
+    "Consequence: therefore the results are traced to output, employment or capacity.",
+    "For whom: each consequence is named for the consumer, the worker, the firm or the economy it lands on."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-001": 1,
+    "CLM-0455-1.4-002": 1
+   },
+   "authored_hash": "8c2e14034389cf51c22ef66391a2fc6898b45f9f383d9664178daea5588c3d8d"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-021-FEATURE",
+   "objective_ids": [
+    "OBJ-0455-1.4.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-001",
+    "CLM-0455-1.4-002",
+    "CLM-0455-1.4-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype FEATURE",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 4,
+   "prompt": "A study card lists what a set-out PPC must contain. Explain the features a learner should name when drawing a production possibility curve for an economy.",
+   "canonical_answer": "A set-out PPC carries four features. Each axis is labelled with one of the two goods and its unit of measurement - tonnes, litres or units per period - because the boundary is drawn in the two goods, not in money. The boundary slopes downward from the vertical intercept to the horizontal intercept, showing that at full use more of one good means less of the other. The boundary tends to bow outward, showing a sacrifice that grows as a move along it continues, because resources are not equally suited to the two uses. Points are marked as combinations: a point named on the boundary shows a maximum combination, and where a point sits relative to the boundary carries the meaning of the drawing.",
+   "marking_guidance": [
+    "Features: the elements required are named in the answer, and one mark is earned per feature developed with what it shows."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-001": 1,
+    "CLM-0455-1.4-002": 1,
+    "CLM-0455-1.4-003": 1
+   },
+   "authored_hash": "db6e28356d5f5e9c8ae6db95c9ddc1ffd884cc5d192a9e14258a3f7617d575b9"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-006-DEF",
+   "objective_ids": [
+    "OBJ-0455-1.4.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A news headline says an economy \"is producing inside its PPC\". Define what is meant by a point under, a point on and a point beyond a PPC.",
+   "canonical_answer": "A point under a PPC lies inside the boundary and shows resources idle or misused, so output could be higher. A point on the PPC lies on the boundary and shows resources fully and efficiently employed, so output is at a maximum for that combination. A point beyond the PPC lies outside the boundary and shows an output the current resources and technology cannot produce.",
+   "marking_guidance": [
+    "Precise meaning: the definition must give the precise meaning of the term, and each creditable element of it is worth one mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-005": 1
+   },
+   "authored_hash": "fde157de6ba22be2a0b365519da90bf99a2fcdc611f87209fe4ecef9dc513989"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-007-DIAGRAM",
+   "objective_ids": [
+    "OBJ-0455-1.4.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-005",
+    "CLM-0455-1.4-006",
+    "CLM-0455-1.4-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "SYNTH",
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype SYNTH",
+   "command_word": "Discuss",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "An island economy farms rice and catches shrimp, and wants a picture that separates the combinations it can reach from those it cannot, with 14% of its boats idle this season. Discuss how a production possibility curve is drawn for the island and used to place three points - one at full use, one with the idle boats, and one the island hopes for but cannot yet reach: state the axes, the original curve, where each point sits relative to it, the point the island lands at once its boats work, and what the diagram shows in words.",
+   "canonical_answer": "Label the vertical axis rice, in tonnes per season, and the horizontal axis shrimp, in tonnes per season. Draw the original curve as one boundary bowed outward between the intercepts - all resources in the paddies at one end, all in the boats at the other - and label it PPC1. Mark three points against it. Point Y on the boundary, 50 tonnes of rice with 20 tonnes of shrimp, is full and efficient use: the island maximum combination. Point X under the boundary, 40 tonnes of rice with 14 tonnes of shrimp, both below the reachable combination of 50 tonnes with 20 tonnes, is where the island stands with 14% of its boats idle: resources unused, so the point sits inside. Point Z beyond the boundary, 60 tonnes of rice with 25 tonnes of shrimp, above every reachable combination, is what the island cannot yet produce. The direction that matters runs from X toward the boundary: returning the idle boats moves the island from inside toward the curve, and once the boats work, the new equilibrium marked and labelled is the point on the boundary at or near Y. What the diagram shows, in words: the boundary separates what the island can reach from what it cannot, and the idle boats place the island inside it, from where both goods could rise together without sacrifice.",
+   "marking_guidance": [
+    "Axes labelled: each axis named with its good and its unit; rice on one axis, shrimp on the other.",
+    "Original curves drawn and labelled: the single boundary drawn bowed outward and labelled PPC1 before the points are marked.",
+    "The shift or movement, in the correct direction: here no slide along the boundary occurs - the economy moves from inside toward the boundary, which is a change of location, not a movement along the curve.",
+    "New equilibrium marked and labelled: the point reached on the boundary once the idle boats are back at work.",
+    "What the diagram shows, in words: the boundary separating reachable from unreachable combinations, and the interior point showing unused boats.",
+    "The link: the boundary tells where a point may sit, and the consequence of idle boats is the interior location."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-005": 1,
+    "CLM-0455-1.4-006": 1,
+    "CLM-0455-1.4-007": 1
+   },
+   "authored_hash": "f52fb24a07c9bdff6d2053dd427115f486ab009b24961c56ae60ab59b2f31418"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-008-INTERP",
+   "objective_ids": [
+    "OBJ-0455-1.4.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-005",
+    "CLM-0455-1.4-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype INTERP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "An island economy records two boundary combinations it could reach at full and efficient use: K, 12 000 tonnes of rice and 6 000 tonnes of shrimp, and L, 5 000 tonnes of rice and 11 000 tonnes of shrimp. Last season it actually produced 10 000 tonnes of rice and 5 000 tonnes of shrimp. Explain what the data shows about where the economy produced, and why.",
+   "canonical_answer": "What the data shows is an economy producing inside its boundary. Supporting evidence by comparison: at combination K the island could have had 12 000 tonnes of rice and 6 000 tonnes of shrimp, and last season figures of 10 000 tonnes of rice and 5 000 tonnes of shrimp sit below K on both goods. The relationship: an output below a reachable combination on both goods places the season inside the production possibility boundary, so some resources were idle or used in the wrong place. Why: boats tied up at the jetty or crews working in the wrong harbour leave the economy short of what its resources allow, and inside the boundary one or both goods could rise without sacrifice. However, part of the shortfall may be recording rather than idleness: rice kept by households for home use tends to go uncounted, so the true point may sit closer to the boundary than the table suggests.",
+   "marking_guidance": [
+    "What the data shows: the relationship between the two outputs must be stated before anything else.",
+    "Supporting evidence: a comparison of two rows or steps in the data, with their figures.",
+    "Exception: an answer that notes where the reading does not go further (boundary maximums, unrecorded output, a point inside rather than on the curve) earns the however mark.",
+    "Why: the explanation of the relationship - scarce resources shared between the two goods, with the least-suited resources moved first."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-005": 1,
+    "CLM-0455-1.4-006": 1
+   },
+   "authored_hash": "9aeb09488cf5554e751adc141fb12340f70a56577b769abaaef9ed1c7cd6d192"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-009-APP",
+   "objective_ids": [
+    "OBJ-0455-1.4.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-005",
+    "CLM-0455-1.4-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "A Katima Mulilo co-operative with 12 members could make up to 60 reed mats or 30 fish baskets a month at full stretch, with the combinations between, including 40 reed mats together with 22 fish baskets. In March it recorded 40 reed mats and 12 fish baskets. Using the figures, explain where March sits relative to the co-operative boundary and what that location shows.",
+   "canonical_answer": "The figures place March inside the co-operative boundary. The boundary includes the combination of 40 reed mats together with 22 fish baskets a month at full stretch; March delivered the same 40 reed mats but 12 fish baskets, which is below the boundary on baskets at an unchanged output of mats. Because the 12 members are the co-operative whole resource, falling below a reachable combination on one good while the other is unchanged shows resources idle or misused - members absent and a loom standing idle. The location therefore means the co-operative could raise baskets toward 22 without cutting mats, which is what producing inside a PPC shows: spare capacity rather than a limit.",
+   "marking_guidance": [
+    "Context: the figures in the prompt must be used - no answer without them.",
+    "Reasoning: the link from the figures to the concept must be written out, because figures stated without the link earn nothing.",
+    "Conclusion: therefore the answer ends by saying what the figures show about the boundary."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-005": 1,
+    "CLM-0455-1.4-006": 1
+   },
+   "authored_hash": "277d950eb189bec09b3d9523df52d47c7c736eeca9eab6bf397963c9e44ff916"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-010-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-1.4.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-005",
+    "CLM-0455-1.4-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "An economy has been producing well inside its boundary, with boats in harbour and graduates without posts. Its government opens a training and placement scheme that is likely to move idle workers into the two industries, because the scheme pays firms to hire and train. Analyse the consequences for the economy position relative to its PPC and for consumers, workers and the government.",
+   "canonical_answer": "Starting point: the economy begins inside its PPC, with boats idle and graduates without posts, so output sits below what its resources allow. Initial change: the scheme moves idle workers into the two industries, because it pays firms to hire and train. Mechanism: because idle workers start producing, output rises in one or both goods with no sacrifice of the other; this causes the economy to move from its interior point toward the boundary, which is a change of location, not a shift of the curve. Consequence: therefore consumers obtain more goods, workers earn wages in place of waiting, and the government collects more tax revenue as activity rises. For whom: consumers, workers and the government each gain, provided the posts created match the training given - trained deckhands placed in flour mills gain little, and an economy that reaches its boundary gains no further output without sacrifice in the other good.",
+   "marking_guidance": [
+    "Starting point: the initial change must be stated, as a when or an if.",
+    "Mechanism: the causal link must be written out, because this causes that, step by step.",
+    "Consequence: therefore the results are traced to output, employment or capacity.",
+    "For whom: each consequence is named for the consumer, the worker, the firm or the economy it lands on."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-005": 1,
+    "CLM-0455-1.4-006": 1
+   },
+   "authored_hash": "8f46992f6c5ca5d4b5d6c1ddf04921fe4b18815b656ae20cdcc756c968dded34"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-022-FEATURE",
+   "objective_ids": [
+    "OBJ-0455-1.4.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-005",
+    "CLM-0455-1.4-006",
+    "CLM-0455-1.4-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype FEATURE",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 4,
+   "prompt": "An economics club in Swakopmund argues about a picture of an economy PPC with three dots marked on it. Explain the features that distinguish where each dot sits - under the boundary, on it, or beyond it - and what each location shows.",
+   "canonical_answer": "A point on the boundary shows resources fully and efficiently employed: the combination is a maximum, and gaining one good there means giving up the other. A point under the boundary shows resources idle or misused: output of one good, or both, could rise without sacrifice, because the economy starts inside rather than on its PPC. A point beyond the boundary shows an output the current resources and technology cannot reach; it may become reachable after the boundary itself shifts outward through growth of capacity. The feature that distinguishes them is the comparison that places a point: against a reachable combination, a point below it on one or both goods is inside, a point equal to it is on, and a point above every reachable combination is beyond.",
+   "marking_guidance": [
+    "Features: the elements required are named in the answer, and one mark is earned per feature developed with what it shows."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-005": 1,
+    "CLM-0455-1.4-006": 1,
+    "CLM-0455-1.4-007": 1
+   },
+   "authored_hash": "bb09c6045ddce5cc3a38dee7f3e876807411908fc656b07edd571e029ad8ed7e"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-011-DEF",
+   "objective_ids": [
+    "OBJ-0455-1.4.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Define a movement along a production possibility curve.",
+   "canonical_answer": "A movement along a PPC is a reallocation of resources between the two goods while the economy stays on the boundary: more of one good and less of the other, with the boundary itself unchanged. The quantity of the good given up is the opportunity cost of the movement.",
+   "marking_guidance": [
+    "Precise meaning: the definition must give the precise meaning of the term, and each creditable element of it is worth one mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-008": 1
+   },
+   "authored_hash": "559f0593fd1499fc2aa756cc274ec04e5d1757d9915e0b9b6f9688e1b43fc277"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-012-DIAGRAM",
+   "objective_ids": [
+    "OBJ-0455-1.4.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-008",
+    "CLM-0455-1.4-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "SYNTH",
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype SYNTH",
+   "command_word": "Discuss",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "Portugal planners consider shifting workers and presses from wine bottling into machine-tool works, with the country capacity for both goods unchanged this year. Discuss how a production possibility curve shows the change: state the axes to label, the original curve, the movement along it in the correct direction, the point the economy is marked at when the move ends, and what the diagram shows in words.",
+   "canonical_answer": "Label the vertical axis bottled wine, in million litres a year, and the horizontal axis machine tools, in units per year. Draw the original curve bowed outward between the intercepts and label it PPC1. Mark A on the boundary, 35 million litres of wine with 12 000 machine tools. The change is a movement along the curve in the correct direction: slide down the same boundary toward the machine-tool axis, to B, 20 million litres of wine with 18 000 machine tools, staying on PPC1 throughout. Mark and label B as the new equilibrium, the finishing combination the economy is marked at. What the diagram shows, in words: Portugal reallocated workers and presses from bottling to tool-making. Machine tools rose by 18 000 - 12 000 = 6 000 units, and wine fell by 35 - 20 = 15 million litres, so the 15 million litres of wine is the opportunity cost of the 6 000 machine tools. The boundary has not moved - the capacity to make either good is as before - and that fixed boundary is what tells the reader the change is a movement along the curve, not a shift of it.",
+   "marking_guidance": [
+    "Axes labelled: bottled wine in million litres on one axis, machine tools in units on the other.",
+    "Original curves drawn and labelled: the single boundary drawn bowed outward and labelled PPC1 before the move is marked.",
+    "The shift or movement, in the correct direction: a movement along the curve from A toward the machine-tool axis, on the same boundary throughout.",
+    "New equilibrium marked and labelled: the finishing combination B marked and named on PPC1.",
+    "What the diagram shows, in words: the reallocation from wine to machine tools, with the opportunity cost stated in million litres.",
+    "The link: the fixed boundary carries the reallocation, and the consequence is the wine given up for the tools gained."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-008": 1,
+    "CLM-0455-1.4-009": 1
+   },
+   "authored_hash": "db6b1a4eff6b3a88684f5850a8b6e25776784813e5dbe0590eb50715cfdf9833"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-013-INTERP",
+   "objective_ids": [
+    "OBJ-0455-1.4.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-009",
+    "CLM-0455-1.4-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype INTERP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "A highland economy sits at X on its boundary with 35 tonnes of wool and 15 tonnes of coffee, and considers Y, also on the boundary, with 25 tonnes of wool and 27 tonnes of coffee. Explain what the data shows about the cost of moving from X to Y.",
+   "canonical_answer": "What the data shows is a movement along the boundary carrying an opportunity cost in wool. Supporting evidence by comparison: the move gains 27 - 15 = 12 tonnes of coffee and gives up 35 - 25 = 10 tonnes of wool, so the 10 tonnes of wool is the cost of the 12 tonnes of coffee. The relationship is negative along the curve: more coffee means less wool, because the same pastures and hands cannot serve both. Why: as the move continues, the resources least suited to coffee - the shepherds and the high pasture - are given up last, so each further tonne of wool would cost more coffee than the tonne before, which is why the boundary bows outward. However, X and Y are boundary points at full and efficient use: in a poor season the economy could fall inside the curve, and a move that starts from an interior point gains coffee without giving up wool until the boundary is reached.",
+   "marking_guidance": [
+    "What the data shows: the relationship between the two outputs must be stated before anything else.",
+    "Supporting evidence: a comparison of two rows or steps in the data, with their figures.",
+    "Exception: an answer that notes where the reading does not go further (boundary maximums, unrecorded output, a point inside rather than on the curve) earns the however mark.",
+    "Why: the explanation of the relationship - scarce resources shared between the two goods, with the least-suited resources moved first."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-009": 1,
+    "CLM-0455-1.4-004": 1
+   },
+   "authored_hash": "25d652058b56dfd0882012d8c427e89eb3dfd547b1e45abbc0427c4de871fc2c"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-014-APP",
+   "objective_ids": [
+    "OBJ-0455-1.4.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-008",
+    "CLM-0455-1.4-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "Oshakati Textiles runs two lines from the same 40 machinists: school shirts and work dresses. This month it moved from combination A, 800 school shirts and 300 work dresses, to combination B, 500 school shirts and 520 work dresses, both on its boundary. Using the figures, explain what the move shows and what it cost.",
+   "canonical_answer": "The figures show a movement along the boundary, not a shift of it. Both A and B sit on the boundary, so capacity is unchanged; what changed is the combination chosen. The move from A to B gains 520 - 300 = 220 work dresses and gives up 800 - 500 = 300 school shirts, so the 300 school shirts are the opportunity cost of the 220 work dresses. Because the same 40 machinists run both lines, hands and machines moved from shirts to dresses; the boundary itself has not moved, so the factory can still reach combination A whenever it chooses. The figures therefore show reallocation with sacrifice, which is what a movement along a PPC means: more of one good bought with less of the other at unchanged capacity.",
+   "marking_guidance": [
+    "Context: the figures in the prompt must be used - no answer without them.",
+    "Reasoning: the link from the figures to the concept must be written out, because figures stated without the link earn nothing.",
+    "Conclusion: therefore the answer ends by saying what the figures show about the boundary."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-008": 1,
+    "CLM-0455-1.4-009": 1
+   },
+   "authored_hash": "690de42ddac299d5913486871402f55819c451ae54b600ecb5fa4a2346bc637b"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-015-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-1.4.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-009",
+    "CLM-0455-1.4-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "A country on its production possibility boundary chooses, over a decade, to slide from a wine-heavy combination toward machine tools, cutting wine output year by year. Analyse the consequences of that movement along the curve for consumers, for workers in the two industries, and for the economy future capacity.",
+   "canonical_answer": "Starting point: the country sits on its boundary at a wine-heavy combination and moves along the boundary toward machine tools. Mechanism: because resources are shifted from vineyards and bottling halls into tool works, wine output falls year by year while machine-tool output rises; this causes the opportunity cost of the move to grow, because the workers least suited to tool-making are reassigned last, so each further batch of tools costs more wine than the batch before. Consequence: therefore consumers face less wine now and more machines, vineyard workers lose posts or retrain for tool works, and tool workers gain jobs and wages. For whom: the cost lands on today consumers of wine and vineyard workers, while the return lands on machine workers and on future consumers, provided the machines are kept running - capital goods raise what the economy can produce in the years after the slide, which is a matter for the boundary itself rather than the point chosen on it.",
+   "marking_guidance": [
+    "Starting point: the initial change must be stated, as a when or an if.",
+    "Mechanism: the causal link must be written out, because this causes that, step by step.",
+    "Consequence: therefore the results are traced to output, employment or capacity.",
+    "For whom: each consequence is named for the consumer, the worker, the firm or the economy it lands on."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-009": 1,
+    "CLM-0455-1.4-010": 1
+   },
+   "authored_hash": "c55cff6db61be66a7f879a641d42dc7f02ffd1bfd5ae59c7fbe890e15572eb94"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-023-FEATURE",
+   "objective_ids": [
+    "OBJ-0455-1.4.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-008",
+    "CLM-0455-1.4-009",
+    "CLM-0455-1.4-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype FEATURE",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 4,
+   "prompt": "A teacher asks a class to state what changes and what stays fixed when an economy slides along its PPC. Explain the features of a movement along a production possibility curve.",
+   "canonical_answer": "A movement along a PPC carries four features. It runs from one point on the boundary to another point on the same boundary, in the direction of the good being expanded, toward that good axis. One output rises while the other falls, because resources are shifted between the two goods. The boundary itself stays fixed: the maximum possible output of the two together is unchanged, which is what separates a slide from a shift. The movement carries its opportunity cost, the quantity of the good given up for the quantity gained, and that cost tends to rise as the movement continues toward the axis.",
+   "marking_guidance": [
+    "Features: the elements required are named in the answer, and one mark is earned per feature developed with what it shows."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-008": 1,
+    "CLM-0455-1.4-009": 1,
+    "CLM-0455-1.4-010": 1
+   },
+   "authored_hash": "3a84bfec83c5b850acabf2b41520f59a6546b9d877cda53a1113dab6d93bfca7"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-025-MISCON",
+   "objective_ids": [
+    "OBJ-0455-1.4.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-011",
+    "CLM-0455-1.4-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "subtype MISCON",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 4,
+   "prompt": "Two learners argue about a country that has just built new engineering workshops and trained 5 000 extra technicians. One says the economy \"has moved along its PPC\"; the other says it \"has shifted its PPC\". Explain the confusion between a movement along a PPC and a shift of a PPC, and state the test that tells them apart.",
+   "canonical_answer": "The confusion: the two learners mix up a change in the combination chosen with a change in what the economy can produce - the same mix-up that leads people to treat a slide along a curve as though the curve itself had moved. The boundary between the ideas: a movement along a PPC keeps the same boundary and swaps one good for the other, with the maximum possible output unchanged; a shift of a PPC moves the boundary itself, so the maximum possible output rises with an outward shift or falls with an inward one. Here the workshops and technicians raise what the economy can produce, so the boundary has moved: it is a shift, outward. The test: ask what happened to the maximum possible output of both goods together. Where the maximum is unchanged and the chosen combination alone has changed, it is a movement along the curve; where the maximum itself has changed, it is a shift of the curve.",
+   "marking_guidance": [
+    "The confusion: what learners mix up must be named - a change in the combination chosen mistaken for a change in capacity.",
+    "The boundary between the ideas: a movement along keeps the maximum unchanged; a shift moves the maximum itself.",
+    "The test: ask what happened to the maximum possible output of both goods together - unchanged means a movement along the curve, changed means a shift of it."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-011": 1,
+    "CLM-0455-1.4-010": 1
+   },
+   "authored_hash": "4bf691056a8dbb0097e1b00e83ef9861a00a4f662298fe3cb8c52df0cf5b9d96",
+   "misconception_entry": "movement along a demand curve vs shift of demand",
+   "misconception_id": "MISCON-REGISTER-0455-1.4.3-movement-vs-shift"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-016-DEF",
+   "objective_ids": [
+    "OBJ-0455-1.4.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "After a drought ruins grazing land, a region can produce less beef and less milk than before. Define a shift of a production possibility curve.",
+   "canonical_answer": "A shift of a PPC moves the whole boundary rather than a point sliding along it. An outward shift shows the economy productive capacity growing, so more of at least one good can be produced than before; an inward shift, as the drought example suggests, shows capacity shrinking, so the maximum of both goods falls.",
+   "marking_guidance": [
+    "Precise meaning: the definition must give the precise meaning of the term, and each creditable element of it is worth one mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-012": 1
+   },
+   "authored_hash": "32a8b78ad1120421bd38fd7f1d84e01227502238124e6ea9668218fba7b0eda5"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-017-DIAGRAM",
+   "objective_ids": [
+    "OBJ-0455-1.4.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-012",
+    "CLM-0455-1.4-013",
+    "CLM-0455-1.4-014"
+   ],
+   "item_type": "flashcard",
+   "subtype": "SYNTH",
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype SYNTH",
+   "command_word": "Discuss",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "Brazil opens technical colleges that raise the productivity of its engineers and machine operators within a decade, adding skills without adding farmland. Discuss how a production possibility curve shows what the colleges did to the country productive capacity: name the axes, the original curve, the direction the curve moves, where the new curve sits relative to the old one, the point the economy can now be marked at, and what the diagram shows in words.",
+   "canonical_answer": "Label the vertical axis soyabeans, in million tonnes a year, and the horizontal axis aircraft, in units per year. Draw the original curve bowed outward between 100 million tonnes of soyabeans at one end and 40 aircraft at the other, and label it PPC1. The change is a shift of the curve in the correct direction: outward, away from the origin, to a second curve PPC2 drawn beyond PPC1 at every point, reaching 120 million tonnes of soyabeans at one end and 52 aircraft at the other - a gain of 120 - 100 = 20 million tonnes of soyabeans and 52 - 40 = 12 aircraft at the two ends. The new equilibrium marked and labelled sits on PPC2 - for instance 39 aircraft with 80 million tonnes of soyabeans, a combination the old boundary could not reach. What the diagram shows, in words: the colleges raised the productivity of workers, so the country productive capacity grew and the whole boundary relocated outward; a point once beyond PPC1 now sits on or inside PPC2. The boundary itself moved, and no point slid along the old curve - which is how growth of capacity is told apart from a change of choice.",
+   "marking_guidance": [
+    "Axes labelled: soyabeans in million tonnes on one axis, aircraft in units per year on the other.",
+    "Original curves drawn and labelled: the first boundary drawn bowed outward and labelled PPC1 before the shift is drawn.",
+    "The shift or movement, in the correct direction: the whole curve shifts outward, away from the origin, to PPC2 - no slide along PPC1 is drawn.",
+    "New equilibrium marked and labelled: a combination on PPC2, beyond the old boundary, marked and named.",
+    "What the diagram shows, in words: capacity growth through skills, with once-unreachable combinations now reachable.",
+    "The link: skills raised what workers produce, and the consequence is the boundary relocating outward rather than a point moving along it."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-012": 1,
+    "CLM-0455-1.4-013": 1,
+    "CLM-0455-1.4-014": 1
+   },
+   "authored_hash": "fa2c46d32aba29ac6554d2749a7f54d478a898fb76493625b6e52805d6f88b73",
+   "prior_hash": "ae48037c58b542c6a801d52bebe34edae5f3845402f8b7375e7aabf4949ec373",
+   "repair_note": "Planner audit 2026-10-06 (diagram build): figures corrected so the drawn diagram is consistent - a point on a bowed curve, or an indirect tax on an upward-sloping supply curve raising price by less than the tax."
+  },
+  {
+   "item_id": "ITEM-0455-1.4-018-INTERP",
+   "objective_ids": [
+    "OBJ-0455-1.4.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-012",
+    "CLM-0455-1.4-014"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype INTERP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "A country maximum outputs were measured in 2019 and again in 2026. In 2019 its production boundary reached 8 000 buses a year or 200 000 tonnes of wheat a year at the two ends; in 2026 the same measurement found 9 600 buses a year or 200 000 tonnes of wheat a year. Explain what the data shows about what happened to the country productive capacity.",
+   "canonical_answer": "What the data shows is a boundary that has shifted outward at its bus end: the relationship between the two maximums changed between the measurements. Supporting evidence by comparison: the bus maximum rose from 8 000 to 9 600 buses a year, an increase of 9 600 - 8 000 = 1 600 buses, while the wheat maximum stood still at 200 000 tonnes. The explanation of the relationship is that the country gained capacity in bus building - more workshops, better-trained fitters - without gaining farmland or seed, so the wheat end did not move and the boundary pivoted outward around it. Where the boundary pivots rather than moving out everywhere, combinations rich in wheat gain little: a farmer maximum stays close to what it was. However, the shift says nothing about what the country actually produced: an economy can sit inside a grown boundary, so the 2026 measurement is about capacity, not output.",
+   "marking_guidance": [
+    "What the data shows: the relationship between the two outputs must be stated before anything else.",
+    "Supporting evidence: a comparison of two rows or steps in the data, with their figures.",
+    "Exception: an answer that notes where the reading does not go further (boundary maximums, unrecorded output, a point inside rather than on the curve) earns the however mark.",
+    "Why: the explanation of the relationship - scarce resources shared between the two goods, with the least-suited resources moved first."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-012": 1,
+    "CLM-0455-1.4-014": 1
+   },
+   "authored_hash": "e6215577b0a22f54386286dd393813318aee5dd47f1936faccf20c180d4c52a5"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-019-APP",
+   "objective_ids": [
+    "OBJ-0455-1.4.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-012",
+    "CLM-0455-1.4-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "A Katutura printing co-operative sent its 9 members on a weekend course in press maintenance. Before the course its boundary ran to 4 500 posters a day or 1 800 banners a day; after the course the same members and presses can reach 5 400 posters a day or 2 160 banners a day. Using the figures, explain what happened to the co-operative boundary and what that change shows.",
+   "canonical_answer": "The figures show the whole boundary shifting outward. Before the course the maximums were 4 500 posters a day or 1 800 banners a day; after it, the same 9 members and presses reach 5 400 posters or 2 160 banners. The gains at the two ends are 5 400 - 4 500 = 900 more posters and 2 160 - 1 800 = 360 more banners, so more of both goods can be produced than before, which is what an outward shift shows: growth of capacity. Because the course raised the skill of the members rather than adding members, the cause is productivity, and the boundary moved rather than the chosen point sliding along it. Therefore a combination that lay beyond the old boundary, such as 5 000 posters with 1 000 banners, may now sit inside the new one.",
+   "marking_guidance": [
+    "Context: the figures in the prompt must be used - no answer without them.",
+    "Reasoning: the link from the figures to the concept must be written out, because figures stated without the link earn nothing.",
+    "Conclusion: therefore the answer ends by saying what the figures show about the boundary."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-012": 1,
+    "CLM-0455-1.4-013": 1
+   },
+   "authored_hash": "a1592a063c17cdb82fa4f6085dacc61e244f547c3b8b2b568c13aace8a235f28"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-020-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-1.4.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-013",
+    "CLM-0455-1.4-015"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "A flood destroys a third of the fishing boats and two processing halls of a lakeside economy. Analyse the consequences for the economy production possibility boundary and for its consumers, its fish workers and its government budget.",
+   "canonical_answer": "Starting point: a flood destroys a third of the boats and two halls, so the economy stock of capital falls. Mechanism: because boats and halls are gone, the maximum fish output falls at every combination of fish and the other good; this causes the boundary itself to shift inward, which is a change of capacity, not a slide along the old curve. Consequence: therefore consumers face less fish, fish workers lose crew and processing posts, and the government faces rebuilding costs that are likely to crowd other aims out of the budget, because replacing boats and halls takes money that was planned for schools and roads. For whom: the losses land on consumers, who face less fish, on fish workers, who face fewer posts, and on the wider economy, whose maximum output has shrunk; how fast the boundary recovers depends on how quickly the capital is replaced, since an economy inside a shrunken boundary can still move toward it by using what remains.",
+   "marking_guidance": [
+    "Starting point: the initial change must be stated, as a when or an if.",
+    "Mechanism: the causal link must be written out, because this causes that, step by step.",
+    "Consequence: therefore the results are traced to output, employment or capacity.",
+    "For whom: each consequence is named for the consumer, the worker, the firm or the economy it lands on."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-013": 1,
+    "CLM-0455-1.4-015": 1
+   },
+   "authored_hash": "cd1c1620aadc61c52699bffc899e7d742b784900c40b682c7d60eede42a96acd"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-024-FEATURE",
+   "objective_ids": [
+    "OBJ-0455-1.4.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-012",
+    "CLM-0455-1.4-013",
+    "CLM-0455-1.4-014"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype FEATURE",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 4,
+   "prompt": "A news report says a country \"capacity to produce has grown for a fifth straight year\". Explain the features of a shift of a production possibility curve that such a report would be shown by.",
+   "canonical_answer": "A shift of a PPC carries these features. The whole boundary moves, rather than a point sliding along it: every maximum combination relocates outward or inward together. An outward shift shows growth of productive capacity, so more of at least one good can be produced than before, and it tends to come from more resources, better-trained workers or improved technology; an inward shift shows capacity shrinking, as after resources are destroyed. A point that lay beyond the old boundary may sit on or inside the new one, which is how a shift is recognised: the reachable set itself changed, not the combination chosen on an unchanged curve.",
+   "marking_guidance": [
+    "Features: the elements required are named in the answer, and one mark is earned per feature developed with what it shows."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-012": 1,
+    "CLM-0455-1.4-013": 1,
+    "CLM-0455-1.4-014": 1
+   },
+   "authored_hash": "eea204a14c4a96cec9e1cc8bf5d0a3ef8a0e8ebde406325bdcac73cc0ac9db84"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-P01",
+   "objective_ids": [
+    "OBJ-0455-1.4.1",
+    "OBJ-0455-1.4.2",
+    "OBJ-0455-1.4.3",
+    "OBJ-0455-1.4.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-001",
+    "CLM-0455-1.4-005",
+    "CLM-0455-1.4-008",
+    "CLM-0455-1.4-009",
+    "CLM-0455-1.4-011",
+    "CLM-0455-1.4-012"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "performance task type multiple_choice_set",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 3,
+   "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. A production possibility curve shows:\nA  the combinations of two goods an economy actually consumes\nB  the maximum combinations of two goods an economy can produce with resources fully employed\nC  the prices of two goods over a year\nD  the profits of the two largest firms\n\n2. The PPC slopes downward from left to right because:\nA  resources are scarce, so more of one good means less of the other\nB  consumers prefer variety\nC  prices fall as output rises\nD  governments tax the second good\n\n3. A point inside the boundary shows:\nA  resources idle or misused\nB  resources fully employed\nC  an output beyond reach\nD  a shift of the boundary\n\n4. A point beyond the boundary shows:\nA  full employment of resources\nB  idle resources\nC  an output the current resources and technology cannot reach\nD  a fall in capacity\n\n5. Moving from one point on the boundary to another point on the same boundary shows:\nA  growth of capacity\nB  a reallocation between the two goods, with an opportunity cost\nC  idle resources coming into use\nD  a fall in the maximum output\n\n6. The opportunity cost of moving along the boundary toward good X is:\nA  the money spent on good X\nB  the amount of the other good given up\nC  the change in the price of good X\nD  the number of workers who move\n\n7. An outward shift of the whole boundary shows:\nA  the economy chose a different combination\nB  growth of the economy productive capacity\nC  unemployment of resources\nD  a movement along the boundary\n\n8. Which is most likely to shift an economy PPC outward?\nA  a decision to produce more of one good and less of the other\nB  a rise in unemployment\nC  training that raises the skills of workers\nD  a bad harvest",
+   "canonical_answer": "Key: 1 B, 2 A, 3 A, 4 C, 5 B, 6 B, 7 B, 8 C.\n1. B is the definition, a boundary of maximum combinations at full use; A confuses what is consumed with what can be produced, C confuses the boundary with a price record, D confuses an economy curve with firm accounts.\n2. A gives the mechanism, scarce resources shared between the goods; B, C and D each invent a cause that does not force the two outputs to trade off.\n3. A: inside means idle or misused resources; B reads an interior point as a boundary point, C reverses inside and beyond, D mistakes a location for a change in the boundary.\n4. C: beyond is unattainable at present; A and B swap the meanings of the three locations, D confuses an unattainable point with a fall in the boundary.\n5. B: the same boundary, a new combination, a sacrifice; A mistakes a slide for a shift, C applies to a start inside the boundary, D reverses the direction of the change.\n6. B: the cost is the other good given up, in its own units; A and C bring money and price into a curve measured in goods, D counts the means rather than the cost.\n7. B: the whole curve moving outward is capacity growth; A and D read a shift as a slide, C confuses a location with a change in the boundary.\n8. C: skills raise what resources can produce, moving the boundary; A is a movement along the boundary, B pushes the economy inside it, D is a fall in output, not in capacity.",
+   "marking_guidance": [
+    "Key: one mark per question; the correct option for each question is listed and every distractor is explained as the specific misunderstanding it catches.",
+    "Distractors that merely restate the question catch nothing; each wrong option traces to a named error - a location read as a shift, a slide read as a shift, capacity read as choice, consumption read as production."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-001": 1,
+    "CLM-0455-1.4-005": 1,
+    "CLM-0455-1.4-008": 1,
+    "CLM-0455-1.4-009": 1,
+    "CLM-0455-1.4-011": 1,
+    "CLM-0455-1.4-012": 1
+   },
+   "authored_hash": "89ec7c2e4abb85b352eed08c43aaa70d7ea25cc616325b1b55aae97e70c3bbb5"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-P02",
+   "objective_ids": [
+    "OBJ-0455-1.4.2",
+    "OBJ-0455-1.4.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-005",
+    "CLM-0455-1.4-006",
+    "CLM-0455-1.4-007",
+    "CLM-0455-1.4-012",
+    "CLM-0455-1.4-013",
+    "CLM-0455-1.4-014"
+   ],
+   "item_type": "data_response",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type data_response",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "A survey of the Kavango East regional economy, 2026. The region grows mahangu, a pearl millet, and farms tilapia in ponds. Engineers mapped what the region could reach in a normal season at full and efficient use: all resources in the fields gives 6 000 tonnes of mahangu with no tilapia; all in the ponds gives 1 000 tonnes of tilapia with no mahangu; a surveyed mixed combination reaches 3 600 tonnes of mahangu together with 600 tonnes of tilapia. Last season the region actually produced 3 600 tonnes of mahangu and 450 tonnes of tilapia, with pond gates standing idle. From March, a new irrigation scheme is expected to lift the mahangu maximum to 7 500 tonnes, with the tilapia maximum unchanged.\n\nTable 1 - Kavango East, normal-season boundary and last season\n  all fields: 6 000 tonnes of mahangu, no tilapia\n  surveyed mix: 3 600 tonnes of mahangu, 600 tonnes of tilapia\n  all ponds: no mahangu, 1 000 tonnes of tilapia\n  actual last season: 3 600 tonnes of mahangu, 450 tonnes of tilapia\n  after irrigation: 7 500 tonnes of mahangu maximum, 1 000 tonnes of tilapia maximum\n\n(a) The surveyed mix and last season had the same mahangu output. Calculate the shortfall in tilapia output against the surveyed mix. [1]\n(b) Calculate actual mahangu output as a share of the all-fields maximum. [1]\n(c) Identify the two goods the region produces. [2]\n(d) Explain what the figures show about how fully the region used its resources last season. [4]\n(e) Analyse what the irrigation scheme is likely to change for the region boundary and for its farmers and fish workers. [6]",
+   "canonical_answer": "(a) 600 - 450 = 150 tonnes of tilapia.\n(b) 3 600 / 6 000 = 0.60, which is 60% of the all-fields maximum.\n(c) Mahangu, a pearl millet [1], and farmed tilapia [1].\n(d) The figures show the region produced inside its boundary last season. At the surveyed mix, 3 600 tonnes of mahangu goes with 600 tonnes of tilapia; last season delivered the same 3 600 tonnes of mahangu with 450 tonnes of tilapia, short by 150 tonnes on one good at an unchanged other. An output below a reachable combination on one good, holding the other, places the season inside the boundary, so the pond resources behind the idle gates were not fully used. Because the region is inside, tilapia could rise toward 600 tonnes without any mahangu being given up, which is what producing inside a boundary shows: spare capacity rather than a limit.\n(e) Expected relationship: the irrigation scheme raises the mahangu maximum, so the region boundary shifts outward at the mahangu end - a shift of the curve, not a movement along it. Evidence from the data: the mahangu maximum rises from 6 000 to 7 500 tonnes, a gain of 1 500 tonnes, while the tilapia maximum stays at 1 000 tonnes, so the boundary pivots outward around the tilapia end. Analysis: with the boundary further out, combinations of mahangu and tilapia once beyond reach become reachable; farmers can plant more mahangu from the same willingness to work, and the region actual point can rise toward the new boundary. The consequence for farmers is more possible output and income; for fish workers the change in what is possible is small, though their own maximum of 1 000 tonnes was already under-used last season at 450 tonnes, so their room to grow lies inside the old boundary. Exception: where water rights, seed or labour limit planting, the extra maximum may not turn into extra output, and the shift says nothing about use - a region can sit inside a grown boundary exactly as before.",
+   "marking_guidance": [
+    "Parts: (a) and (b) are 1 mark each and must be exact calculations from Table 1; (c) is 2 marks, 1 per good; (d) is 4 marks, one per distinct linked statement; (e) is 6 marks.",
+    "(e) must run the expected relationship, then evidence from the data, then analysis, then an exception; quoting a figure from Table 1 is evidence, not analysis - a figure without the linked statement it supports earns nothing in (e).",
+    "For whom: consequences in (e) are named for farmers, for fish workers and for the region."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": [
+     "boundary mix 3 600 tonnes mahangu with 600 tonnes tilapia",
+     "actual 3 600 tonnes mahangu, 450 tonnes tilapia",
+     "after irrigation 7 500 tonnes mahangu maximum, 1 000 tonnes tilapia maximum"
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-005": 1,
+    "CLM-0455-1.4-006": 1,
+    "CLM-0455-1.4-007": 1,
+    "CLM-0455-1.4-012": 1,
+    "CLM-0455-1.4-013": 1,
+    "CLM-0455-1.4-014": 1
+   },
+   "authored_hash": "8be3a0926622ff12c00ed8db80755e19c5b92f68f5e7eda8b3790c3f1c22e051"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-P03",
+   "objective_ids": [
+    "OBJ-0455-1.4.1",
+    "OBJ-0455-1.4.2",
+    "OBJ-0455-1.4.3",
+    "OBJ-0455-1.4.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-001",
+    "CLM-0455-1.4-004",
+    "CLM-0455-1.4-005",
+    "CLM-0455-1.4-008",
+    "CLM-0455-1.4-009",
+    "CLM-0455-1.4-012",
+    "CLM-0455-1.4-013"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type short_answer",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "An economy produces machinery and grain.\n(a) Define its production possibility curve. [2]\n(b) Explain what a point inside, a point on and a point beyond the curve each show. [4]\n(c) Analyse the consequences for consumers and workers of the economy moving along its curve from a grain-heavy combination to a machinery-heavy combination. [6]\n(d) Discuss whether the economy should choose a machinery-heavy point on its curve now. [8]",
+   "canonical_answer": "(a) A production possibility curve is a boundary showing the maximum combinations of two goods - here machinery and grain - that the economy can produce in a given period when its resources are employed fully and efficiently. Two creditable elements: the boundary of maximum combinations, and the condition of full and efficient use.\n(b) A point on the curve shows resources fully and efficiently employed, so output is at a maximum for that combination of machinery and grain. A point inside the curve shows resources idle or misused, so output of machinery or grain, or both, could be higher without sacrifice. A point beyond the curve shows an output the current resources and technology cannot produce; it becomes reachable if the boundary shifts outward through growth of capacity. Placing a point is a comparison against a reachable combination: below it on one or both goods is inside, equal to it is on, above every reachable combination is beyond.\n(c) Starting point: the economy sits on its boundary at a grain-heavy combination and moves along the boundary toward machinery. Mechanism: because resources shift from farms to machine works, grain output falls and machinery rises; the opportunity cost of the machinery grows as the move continues, because the farmers least productive at grain give up little grain first, so each later machine costs more grain than the one before. Consequence: consumers face less grain now, so food costs rise or imports must fill the gap; farm workers lose posts or retrain for machine works, and machine workers gain posts and wages. For whom: the cost lands on today consumers and farm workers, while the return lands on machine workers and on future consumers, provided the machinery is kept running - machines make machines, so the economy future capacity tends to rise with the machine stock, which is a change to the boundary itself in the years after the move.\n(d) Why it might: a machinery-heavy point builds the capital that makes later production easier, so the boundary tends to shift outward in the years that follow and consumers later enjoy more of both goods; machine workers gain skilled, better-paid posts, and the economy imports less machinery. Why it might not: the grain given up now is food, and consumers face higher food costs or shortages in the present; where grain cannot be imported, the cost lands on households directly, and the rising opportunity cost means each extra machine costs more grain than the last. Judgement: on balance the machinery-heavy point is worth choosing where the population can be fed meanwhile - through imports, stocks or rising farm productivity - and that is the condition the judgement depends on. Where food security is fragile, the grain-heavy point comes first, and the move toward machinery waits a season.",
+   "marking_guidance": [
+    "Parts: (a) 2 marks for two creditable elements of the definition; (b) 4 marks, one per distinct linked statement; (c) 6 marks, one per distinct linked statement with its reason carried; (d) 8 marks, level-marked over three bands.",
+    "Bands for (d): Level 3 (top) examines why it might and why it might not, then reaches a judgement naming the condition it depends on; Level 2 develops one side or asserts a judgement without the condition; Level 1 offers fragments of either side.",
+    "For whom: (c) must name the consumer and the worker at each step, and (d) must land its costs and returns on named parties."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-001": 1,
+    "CLM-0455-1.4-004": 1,
+    "CLM-0455-1.4-005": 1,
+    "CLM-0455-1.4-008": 1,
+    "CLM-0455-1.4-009": 1,
+    "CLM-0455-1.4-012": 1,
+    "CLM-0455-1.4-013": 1
+   },
+   "authored_hash": "9c781669cd76c666d080dd597a18b794cea7396d922471096fe66d0812c0e4a3"
+  },
+  {
+   "item_id": "ITEM-0455-1.4-P04",
+   "objective_ids": [
+    "OBJ-0455-1.4.3",
+    "OBJ-0455-1.4.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-1.4-009",
+    "CLM-0455-1.4-010",
+    "CLM-0455-1.4-012",
+    "CLM-0455-1.4-013",
+    "CLM-0455-1.4-015"
+   ],
+   "item_type": "essay_plan",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Evaluate",
+   "blooms_level_basis": "performance task type essay_plan",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "Plan an answer to: \"A coastal economy spends heavily on new fishing academies and boatyards. Discuss whether this shifts the economy production possibility curve outward.\" Do not write the essay; produce the plan.",
+   "canonical_answer": "Case for (the boundary shifts outward):\nPoint 1: boatyards add capital and academies add skills, and both raise what the economy can produce, which is what an outward shift means. Chain: academies open, crews trained, more fish caught per boat per season, the fish maximum rises, the boundary moves outward (for fishers, for consumers).\nPoint 2: the skills transfer beyond the fleet. Chain: navigators and engineers trained for the sea take some posts in harbours and repairs, harbour output rises, the other end of the boundary rises a little too (for workers, for firms).\nCase against (the boundary may not shift):\nPoint 1: resources spent on academies and yards are taken from today fishing, so the economy first slides along its current boundary - a cost now, not a capacity gain. Chain: yards built, workers and materials diverted, present fish output falls, the economy sits at a point further along the same curve (for today consumers and fishers).\nPoint 2: the new capacity lasts where it is kept. Chain: trained crews leave for other coasts, boats decay without maintenance, the maximum falls back, the boundary drifts inward (for the economy, for consumers).\nJudgement: the academies and boatyards are likely to shift the boundary outward over time, and the condition the judgement depends on is whether the trained crews stay and the fleet is kept seaworthy; without that condition the spending buys a slide along the old curve and a decayed fleet, and the boundary ends where it began.",
+   "marking_guidance": [
+    "A plan, not an essay: the case for, the case against, each point as a chain, and the judgement with the condition it depends on.",
+    "Each chain states its starting point, its mechanism and the consequence for a named party - consumer, worker, firm or economy.",
+    "The judgement must settle on the condition: what would have to hold for the shift to be real and lasting."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-1.4-009": 1,
+    "CLM-0455-1.4-010": 1,
+    "CLM-0455-1.4-012": 1,
+    "CLM-0455-1.4-013": 1,
+    "CLM-0455-1.4-015": 1
+   },
+   "authored_hash": "f2efa63704db79809156e4eb538483150005bd3889bb3c26a895e3450c6c4862"
+  }
+ ]
+}

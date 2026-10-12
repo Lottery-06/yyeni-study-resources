@@ -1,0 +1,96 @@
+{
+ "unit_id": "CU-0455-5.2.1",
+ "title": "Absolute and relative poverty",
+ "objective_ids": [
+  "OBJ-0455-5.2.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_definition",
+ "depth_tier": 1,
+ "word_budget": {
+  "min": 280,
+  "target": 341,
+  "max": 403
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "5.2.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define absolute poverty and relative poverty, and keep the two lines apart.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "30103df909765c10727e19f9d989b4aceb404d2f49a716f940819e1132a772e1"
+  },
+  {
+   "block_id": "5.2.1-b2",
+   "block_type": "definition",
+   "heading": "The two definitions and the boundary between them",
+   "text": "Absolute poverty is a lack of income so severe that a household cannot meet its basic needs - enough food, clean water, shelter and clothing. It is judged against a fixed poverty line: an income per person below that line means absolute poverty. The line is fixed in real terms, so a household either falls below it or clears it, whatever the rest of society earns.\n\nRelative poverty is different in kind: a household whose income is well below the average for its own society, so it is shut out of the living standards most people around it take for granted. It is judged against a moving line, usually a set share of average income, so the line rises as the society grows richer. The test that tells the two apart is the line each is measured against: fixed basic needs for absolute poverty, the incomes of others for relative poverty. A household can therefore clear the absolute line and still sit below the relative one. Germany shows the point: a rich country with little absolute poverty still records relative poverty, since some incomes sit far below its high average.",
+   "claim_ids": [
+    "CLM-0455-5.2-001",
+    "CLM-0455-5.2-002",
+    "CLM-0455-5.2-003",
+    "CLM-0455-5.2-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.2-001": 1,
+    "CLM-0455-5.2-002": 1,
+    "CLM-0455-5.2-003": 1,
+    "CLM-0455-5.2-004": 1
+   },
+   "authored_hash": "2f14def45290dafb3c91685d56eb0b6dfddcb028304e8bb3b34444b430c9e28b"
+  },
+  {
+   "block_id": "5.2.1-b3",
+   "block_type": "worked_application",
+   "heading": "One household against both lines",
+   "text": "The Amunyela household in Katutura has four members and an income of N$2 400 a month. Income per person is N$2 400 / 4 = N$600 a month. Suppose the absolute poverty line is N$700 per person: at N$600 the household is in absolute poverty. Suppose average income per person is N$2 000 and the relative line is 60% of it: 0.60 x N$2 000 = N$1 200 per person, so the household sits far below that line too.\n\nNow the earner's pay rises to N$4 000 a month. Income per person becomes N$4 000 / 4 = N$1 000, which clears the absolute line of N$700. It remains below the relative line of N$1 200, so the household has escaped absolute poverty yet stays in relative poverty - the two lines tell different stories about the same household, so a question names the line it means.",
+   "claim_ids": [
+    "CLM-0455-5.2-001",
+    "CLM-0455-5.2-002",
+    "CLM-0455-5.2-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.2-001": 1,
+    "CLM-0455-5.2-002": 1,
+    "CLM-0455-5.2-003": 1
+   },
+   "authored_hash": "e4e5593cd061bd02f263453f9bc5535ebac0a563dfdfac0109652a35ab601aba"
+  },
+  {
+   "block_id": "5.2.1-b4",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The living standards behind these lines are measured in topic 5.1, the causes that push a household below them come next in this topic, and the unemployment behind the clearest cases is taught in topic 4.7.",
+   "claim_ids": [
+    "CLM-0455-5.2-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.2-003": 1
+   },
+   "authored_hash": "47c3c13c6ebafb876c195a6cf51090552814654a0e5add0bcfdc1e39d76ec1d5"
+  }
+ ],
+ "word_count": 403
+}

@@ -1,0 +1,15 @@
+{
+ "topic_id": "2.2",
+ "deviations": [
+  {
+   "from": "MISCON slot ITEM-0455-2.2-017-MISCON carries objective OBJ-0455-2.2.1",
+   "to": "misconceptions.json entry \"minimum vs maximum price\" is registered under OBJ-0455-2.2.3",
+   "why": "The work order is the operative plan, so the card carries the slot's objective (2.2.1, where equilibrium, disequilibrium and price limits sit in this topic) and the misconception_entry \"minimum vs maximum price\" from the register. The discrimination is taught within 2.2.1's scope."
+  },
+  {
+   "from": "subtype DIAGRAM on any 2.2 slot",
+   "to": "n/a - topic 2.2 has no DIAGRAM slot",
+   "why": "no deviation in this topic; placeholder removed"
+  }
+ ]
+}

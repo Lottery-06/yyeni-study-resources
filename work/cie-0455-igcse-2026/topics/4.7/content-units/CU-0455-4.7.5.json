@@ -1,0 +1,110 @@
+{
+ "unit_id": "CU-0455-4.7.5",
+ "title": "Consequences of unemployment",
+ "objective_ids": [
+  "OBJ-0455-4.7.5"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 283,
+  "target": 344,
+  "max": 406
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "4.7.5-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Trace what unemployment does to the individual, to firms and to the economy as a whole, and keep consequences separate from causes.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "db49a687490ce6cd178246e0b3702cac688620adcbcf338e9390a1d8ab9e6bd6"
+  },
+  {
+   "block_id": "4.7.5-b2",
+   "block_type": "analysis_chain",
+   "heading": "Individual, firms, economy",
+   "text": "Start with the individual: a jobless welder in Walvis Bay loses the wage that paid for food, school fees and rent, so household income falls and poverty risk rises, and skills fade while work is missed. The effect spreads to firms: households without wages spend less, so shopkeepers and suppliers sell less, and even firms untouched by the layoffs meet weaker demand. For the economy as a whole, output is lost - the goods and services the jobless could have produced go unmade - tax revenue falls while spending on support rises, and skills fading over long spells lower what the economy can produce. One job loss travels: worker to household to high street to treasury, which is why the chain is worth tracing in that order.",
+   "claim_ids": [
+    "CLM-0455-4.7-018",
+    "CLM-0455-4.7-019",
+    "CLM-0455-4.7-020"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.7-018": 1,
+    "CLM-0455-4.7-019": 1,
+    "CLM-0455-4.7-020": 1
+   },
+   "authored_hash": "ce1c34f0e8f5c1a92328695bdba99e801c6c35a452d1e3b396721c343df94404"
+  },
+  {
+   "block_id": "4.7.5-b3",
+   "block_type": "worked_application",
+   "heading": "A town that lost its mill",
+   "text": "Work it through in one place. Katima Mulilo's sawmill closes and 300 workers lose their pay. Their households cut spending at once, so the town's shops and taxi drivers sell less that same month, and the haulier and fuel station that served the mill lose its orders too. The regional government collects less in tax while support claims rise. In Brazil, whole industrial districts have lived this sequence when plants closed, and the towns that recovered were the ones whose workers could retrain or move. The chain has a direction: the closure caused the unemployment, and the falling spending, lost output and strained budget are what the unemployment then produced.",
+   "claim_ids": [
+    "CLM-0455-4.7-018",
+    "CLM-0455-4.7-019",
+    "CLM-0455-4.7-020"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.7-018": 1,
+    "CLM-0455-4.7-019": 1,
+    "CLM-0455-4.7-020": 1
+   },
+   "authored_hash": "59faa93249e79c27f8191b0b0dae9e79de69d5d13a8c203f075783d7cb53f0d4"
+  },
+  {
+   "block_id": "4.7.5-b4",
+   "block_type": "misconception",
+   "heading": "Causes given where consequences were asked",
+   "text": "The register records a cause-versus-consequence mix-up: answers about unemployment's consequences sometimes list what produced the unemployment instead. The direction matters. A cause runs toward unemployment - a fall in spending, a closure, a new machine; a consequence runs away from it - lost income, weaker sales, lost output. The test: for each event named, ask which way the arrow points. An answer about consequences names what follows the job losses; an answer about causes names what came before them, and the two must not be swapped.",
+   "claim_ids": [
+    "CLM-0455-4.7-021"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.7-021": 1
+   },
+   "authored_hash": "67a82f6f398e4c19a79e31d3c8a6106e7b4600a629151e8bb26d869c8a8ce87e"
+  },
+  {
+   "block_id": "4.7.5-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The budget strain unemployment causes touches the budget of topic 4.3, the falling spending is steered by the policies of topics 4.3 and 4.4, and the lost output is the growth aim of topic 4.2.",
+   "claim_ids": [
+    "CLM-0455-4.7-020"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.7-020": 1
+   },
+   "authored_hash": "c81b708dd87d40ae7e2d4600954326b32becaa809000306f140b1e3e49c7b6ce"
+  }
+ ],
+ "word_count": 400
+}

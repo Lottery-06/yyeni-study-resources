@@ -1,0 +1,106 @@
+{
+ "unit_id": "CU-0455-3.3.3",
+ "title": "Why earnings differ",
+ "objective_ids": [
+  "OBJ-0455-3.3.3"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_diagram",
+ "depth_tier": 4,
+ "word_budget": {
+  "min": 287,
+  "target": 349,
+  "max": 412
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "3.3.3-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section asks you to do",
+   "text": "Explain why earnings differ between occupations, read the pattern in earnings figures, and describe in words the market forces behind a difference in pay.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "8d4a5f241b129f09eef2c1000a03d02ab1d948ef8df4e3c3b5b5f75c5e46d365"
+  },
+  {
+   "block_id": "3.3.3-b2",
+   "block_type": "plain_explanation",
+   "heading": "The reasons behind a pay gap",
+   "text": "Earnings - the pay a worker receives over a period, including overtime and bonuses - differ because occupations differ. Skill and qualifications: a chartered accountant's work demands years of study. Scarcity: where few people hold what employers need, pay rises. Experience and responsibility: a mine shift supervisor answers for others and earns more than a new hire. Risk and conditions: a long-haul driver earns more than a pump attendant with a similar training period, because the job takes the driver from home for days at a stretch and employers must pay enough to keep people in it. Productivity and the balance of demand and supply in the occupation set the rest, and where a small number of large employers fix pay scales, their scales hold earnings down.",
+   "claim_ids": [
+    "CLM-0455-3.3-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.3-008": 1
+   },
+   "authored_hash": "651c53f51fdc6eb6ca03dfebb1fc77561c0d88a596b2b77fb0cabc0dbce371b1"
+  },
+  {
+   "block_id": "3.3.3-b3",
+   "block_type": "worked_application",
+   "heading": "Reading the gaps",
+   "text": "A 2026 survey of average monthly earnings in Namibia found a petrol-station attendant on N$4 800, a school teacher with ten years in the job on N$14 200, and a chartered accountant on N$38 000. The accountant earns N$38 000 - N$4 800 = N$33 200 more than the attendant. Qualifying takes years of study and fees, few complete it, and employers compete for those who do. The teacher also holds a degree, yet many qualified teachers apply for posts against pay scales set by a small number of large employers, so the scarcity premium is missing. In Brazil, certified welders in the Rio Grande shipyards earn well above general welders for the same reason: certification is scarce, and the yards bid for it.",
+   "claim_ids": [
+    "CLM-0455-3.3-008",
+    "CLM-0455-3.3-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.3-008": 1,
+    "CLM-0455-3.3-009": 1
+   },
+   "authored_hash": "3c3a07d54ec123df37dbf744b80e1c8790c31ae654eb680aaf2d084a428a9d2f"
+  },
+  {
+   "block_id": "3.3.3-b4",
+   "block_type": "plain_explanation",
+   "heading": "The forces behind a difference, drawn in words",
+   "text": "Picture the market for certified water engineers. The vertical axis measures the monthly wage in N$; the horizontal axis measures the number of certified engineers. At a low wage few engineers offer their services and employers seek many, so the number sought exceeds the number offered; at a high wage the reverse holds. The two lines cross at the wage where the numbers match. When new water-treatment projects raise the demand for engineers, the demand line moves outward: at the old wage employers now seek more engineers than the region holds, so the wage is bid up until the numbers match again at a higher wage, with more engineers at work. Over the years that follow, the higher wage draws students into training, the supply line moves outward too, and the premium narrows - provided employers' demand has stopped growing faster than the new supply.",
+   "claim_ids": [
+    "CLM-0455-3.3-010",
+    "CLM-0455-3.3-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.3-010": 1,
+    "CLM-0455-3.3-011": 1
+   },
+   "authored_hash": "024c30517e8451b73959859099c66027f72abb9bcd4930bad309d42b2d590970"
+  },
+  {
+   "block_id": "3.3.3-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The scarcity that lifts some earnings begins in the training choices of this topic; the demand behind a rising wage traces back to product demand in topic 2.3; the employers doing the bidding are the firms of topic 3.5; and persistent pay gaps are one focus of the government's role in topic 4.1.",
+   "claim_ids": [
+    "CLM-0455-3.3-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.3-009": 1
+   },
+   "authored_hash": "e1264db5cfe3ae3c03a8df3128808bfc73e5c0e025752d0bf477843a68c292e8"
+  }
+ ],
+ "word_count": 498
+}

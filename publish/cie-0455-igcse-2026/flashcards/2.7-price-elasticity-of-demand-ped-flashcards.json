@@ -1,0 +1,1245 @@
+{
+ "topic_number": "2.7",
+ "topic_title": "Price elasticity of demand (PED)",
+ "topic": "2.7 Price elasticity of demand (PED)",
+ "qualification": "Cambridge IGCSE Economics 0455 (syllabus v2, examined 2026)",
+ "item_count": 24,
+ "items": [
+  {
+   "item_id": "ITEM-0455-2.7-001-DEF",
+   "objective_ids": [
+    "OBJ-0455-2.7.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.7-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "Define price elasticity of demand.",
+   "canonical_answer": "Price elasticity of demand measures how strongly the quantity demanded of a good responds to a change in its own price.",
+   "marking_guidance": [
+    "The precise meaning must be present: the responsiveness of quantity demanded to a change in the good's own price.",
+    "One mark for the measure named on the right quantities; one mark for tying it to the good's own price rather than to any other influence on demand."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.7-001": 1
+   },
+   "authored_hash": "43a3d97843f15992f29de3ee881d68cdb9bded2a7be7e7b1a8a4ef731d193245",
+   "objective_titles": [
+    "definition of PED"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.7-002-FEATURE",
+   "objective_ids": [
+    "OBJ-0455-2.7.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.7-001",
+    "CLM-0455-2.7-028"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype FEATURE",
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "Identify two features of price elasticity of demand that distinguish it from price elasticity of supply.",
+   "canonical_answer": "First, PED measures the buying side of the market: it records how quantity demanded changes when the good's own price changes. Second, its twin measure records the selling side - price elasticity of supply, taught in topic 2.8, tracks how quantity supplied responds - so a second feature of PED is that its quantity is demanded by buyers, not offered by sellers. Both features follow from the measure itself: it is a responsiveness of buyers to the price of the good they buy.",
+   "marking_guidance": [
+    "Reward the features stated: a responsiveness of quantity demanded, to a change in the good's own price, on the buying side of the market - and the contrast with the supply-side twin is the second feature.",
+    "What it includes on each side: demanded by buyers against offered by sellers; own price against any other influence."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.7-001": 1,
+    "CLM-0455-2.7-028": 1
+   },
+   "authored_hash": "c04733759696364f4f55676ae7f5d4ac5d36c933e252fa0d5f608e45d3c4350c",
+   "objective_titles": [
+    "definition of PED"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.7-003-DEF",
+   "objective_ids": [
+    "OBJ-0455-2.7.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.7-002",
+    "CLM-0455-2.7-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Define price elasticity of demand as a calculation.",
+   "canonical_answer": "Price elasticity of demand is calculated as the percentage change in quantity demanded divided by the percentage change in price, with the result stated as an absolute value because the two changes move in opposite directions under the law of demand.",
+   "marking_guidance": [
+    "The precise meaning of the calculation: percentage change in quantity demanded over percentage change in price.",
+    "A full definition names both percentage changes and the division between them; the sign convention is worth noting but the division is the definition."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.7-002": 1,
+    "CLM-0455-2.7-003": 1
+   },
+   "authored_hash": "d898f8d9b3e02afb2ec1f3ca271a45a973061423a5da3c49c1abad9a697add9f",
+   "objective_titles": [
+    "calculation of PED"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.7-004-DIAGRAM",
+   "objective_ids": [
+    "OBJ-0455-2.7.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.7-006",
+    "CLM-0455-2.7-007",
+    "CLM-0455-2.7-008",
+    "CLM-0455-2.7-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "SYNTH",
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype SYNTH",
+   "command_word": "Discuss",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "Kaoko Juice sells 200 bottles a week in Opuwo at N$10 a bottle, and its demand is price-elastic. Discuss how a demand diagram of this market shows the elasticity, giving a verbal walk-through of every part of the diagram and what it shows.",
+   "canonical_answer": "Walk through the diagram in words, element by element. First, the axes labelled: price of the juice, in N$ per bottle, on the vertical axis, and quantity demanded, in bottles a week, on the horizontal axis. Second, the original curves drawn and labelled: a demand curve D for the juice, sloping downward from left to right, drawn flatter against the axes - a given price move is shown stretching quantity demanded far along the horizontal axis, which is the picture of elastic demand; the point at N$10 and 200 bottles is marked on it. Third, the shift or movement, in the correct direction: a price rise to N$12 is a movement up along the unchanged demand curve, because the good's own price is what changed - not a shift of D. Fourth, the new equilibrium marked and labelled: the new point at N$12, at a quantity demanded smaller than 200 bottles, where the buyers who remain are those still willing and able to pay the higher price. Fifth, what the diagram shows, in words: the movement up the curve sends quantity demanded a long way left for a short climb in price, and that is elasticity seen on the picture - the horizontal move is large next to the vertical one. The link is between the elasticity figure and its drawn form, and the consequence is for the seller: with elastic demand, the lost bottles tend to outweigh the higher price, so revenue falls rather than rises.",
+   "marking_guidance": [
+    "The walk-through must name the axes labelled - price and quantity, each with its units - before anything else.",
+    "Reward the original curves drawn and labelled: the demand curve in place at N$10 and 200 bottles before the change is described, drawn to show a flat, responsive shape.",
+    "Check the shift or movement, in the correct direction: a change in the good's own price is a movement up an unchanged demand curve, not a shift of it.",
+    "The new equilibrium marked and labelled at the new price and its smaller quantity earns its mark, and what the diagram shows, in words, must close the walk-through.",
+    "The link between the elasticity figure and its drawn form, and the consequence for the seller's revenue - lost bottles outweighing the higher price - carry the analysis marks."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.7-006": 1,
+    "CLM-0455-2.7-007": 1,
+    "CLM-0455-2.7-008": 1,
+    "CLM-0455-2.7-009": 1
+   },
+   "authored_hash": "9eb6c183c3c1d44ae1a0388111a9cb5d800a08e046c344e47c4137ba883ba7e0",
+   "objective_titles": [
+    "calculation of PED"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.7-005-INTERP",
+   "objective_ids": [
+    "OBJ-0455-2.7.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.7-004",
+    "CLM-0455-2.7-005",
+    "CLM-0455-2.7-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype INTERP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "A stall in Walvis Bay tested its fresh-bread prices over four weeks, changing nothing else. At N$8 a loaf it sold 300 loaves; at N$9, 270 loaves; at N$10, 240 loaves; at N$11, 200 loaves. The stall also computed PED for each price step: 0.80, then 1.00, then 1.67. Explain what these figures show about the demand for the bread.",
+   "canonical_answer": "What the data shows: the relationship between price and responsiveness is itself changing - demand moves from inelastic, at 0.80, through the unit point at 1.00, to elastic, at 1.67, as the price climbs. Supporting evidence: the comparison across the steps shows the same N$1 rise cutting 30 loaves, then 30 again, then 40, while as a percentage of a shrinking quantity the response grows - 10.0 per cent, then 11.1 per cent, then 16.7 per cent - so the elasticity figure climbs with the price. Why: at high prices and small quantities, the buyers still in the market are near the edge of willingness to pay, so a further rise pushes more of them out - the elastic stretch. At low prices and large quantities, bread is a cheap, everyday purchase and the remaining buyers respond little - the inelastic stretch. The exception to note: however, the 1.00 at N$10 is a boundary, not a stable fact - figures near 1 sit on the borderline, and a small change in the market tips the classification either way, so the stall should read the two ends of its table, not the middle, as the reliable signal.",
+   "marking_guidance": [
+    "What the data shows - elasticity rising as price rises along the same demand curve - must be stated first, with supporting evidence taken as a comparison across the three steps.",
+    "The exception or limit earns a mark: however, the unit point at 1.00 is a borderline, not a settled classification.",
+    "The why - an explanation of the relationship, through buyers near the edge of willingness to pay at high prices - is worth as much as the reading; quoting the elasticity figures alone earns nothing."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.7-004": 1,
+    "CLM-0455-2.7-005": 1,
+    "CLM-0455-2.7-008": 1
+   },
+   "authored_hash": "92fbcbb5dd93998c273075773435846e70892c23c684a3df46616e4315f16549",
+   "objective_titles": [
+    "calculation of PED"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.7-006-APP",
+   "objective_ids": [
+    "OBJ-0455-2.7.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.7-002",
+    "CLM-0455-2.7-003",
+    "CLM-0455-2.7-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "Etosha Gate Lodge raised its guided-drive price from N$150 a seat to N$180, and seats filled fell from 120 a week to 90. Using these figures, explain how the lodge should calculate and classify the elasticity of demand for its drives.",
+   "canonical_answer": "From the context, the percentage change in quantity demanded comes first: 30 seats, since 120 - 90 = 30, as a percentage of the original 120 gives 25 per cent. The percentage change in price: N$30, since 180 - 150 = 30, as a percentage of the original N$150 gives 20 per cent. PED is 25 / 20 = 1.25, stated as an absolute value because the law of demand makes the raw answer negative. The classification follows the comparison with 1: because 1.25 is greater than 1, demand for the drives at these prices is price-elastic. The reasoning that makes this useful to the lodge is the link between the classification and the direction of its revenue: quantity demanded fell by a larger percentage than the price rose, which means that the seats the lodge lost outweigh the extra N$30 per seat, so total revenue from the drives tends to fall after this rise. Therefore, if the lodge wants revenue rather than exclusivity, the figures say this rise went the wrong way.",
+   "marking_guidance": [
+    "The context - the two percentage changes from the lodge's own figures - must be worked, not assumed: reasoning earns the marks because the percentages, not the raw counts, are what the formula divides.",
+    "The link from the classification to the revenue consequence - lost seats outweighing the higher price - must be made explicitly.",
+    "The conclusion - therefore the rise tends to lower revenue, given elastic demand - means that the answer is complete only with the classification stated as elastic."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.7-002": 1,
+    "CLM-0455-2.7-003": 1,
+    "CLM-0455-2.7-004": 1
+   },
+   "authored_hash": "1e6bbbf8b5d0ddde4288368bb4a2b0f2145d9330441a1507e2ae90c27c92a5db",
+   "objective_titles": [
+    "calculation of PED"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.7-007-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-2.7.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.7-002",
+    "CLM-0455-2.7-004",
+    "CLM-0455-2.7-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "A bus operator in Katima Mulilo computes the PED for its monthly ticket as 0.4 after a fare rise. Analyse what happens inside this market from the fare rise to the operator's revenue, naming who gains and who bears the cost.",
+   "canonical_answer": "Starting point: the initial change is a rise in the fare, the good's own price, and the operator has measured that quantity demanded responds by less, in percentage terms, than the fare rose - 0.4 is an inelastic figure. The mechanism: because demand is price-inelastic, this causes the percentage fall in passengers to stay smaller than the percentage rise in the fare, so when the operator multiplies the higher fare by the remaining passengers, total revenue rises. This works through the buyers' side of the market: regular commuters in Katima Mulilo have few other ways to cross the town each day, so most of them pay the higher fare, and the money moves from their household budgets to the operator's revenue. The consequence, therefore, is a transfer rather than a shrinkage: the operator gains revenue, and the consumers - the commuters who keep riding - bear the cost through higher weekly spending. The result for whom: for the firm, revenue rises; for the consumer who keeps buying, spending on the same journeys rises; and for the economy of the town, spending on transport now crowds a little more of other spending out of household budgets.",
+   "marking_guidance": [
+    "The starting point - the fare rise with an inelastic 0.4 - must open the chain, when the change is named as one in the good's own price.",
+    "The mechanism - the percentage fall in quantity demanded staying smaller than the percentage rise - is the link that earns the middle marks, because that is what makes the total rise.",
+    "The consequence - revenue rising for the firm - must be stated, and the transfer from consumer budgets to the operator named.",
+    "For whom: the consumer who keeps riding, the firm whose revenue rises, and the town households whose other spending is crowded - at least two parties named for full marks."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.7-002": 1,
+    "CLM-0455-2.7-004": 1,
+    "CLM-0455-2.7-005": 1
+   },
+   "authored_hash": "e7a5895647592ee313813dd897ef7301032406adbaa82baf35a98b258b3061a4",
+   "objective_titles": [
+    "calculation of PED"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.7-008-DEF",
+   "objective_ids": [
+    "OBJ-0455-2.7.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.7-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "Define the determinants of price elasticity of demand.",
+   "canonical_answer": "The determinants of PED are the features of a product and its market that decide how responsive buyers are to a price change: the availability and closeness of substitute goods, the proportion of income the purchase takes, whether the good is a necessity or a luxury, the width of the market defined, and the length of time since the price changed.",
+   "marking_guidance": [
+    "The precise meaning: the market features that make demand more or less responsive to a price change.",
+    "Both marks need the list shaped as causes of responsiveness - substitutes, income share, necessity against luxury, market width, time - with any three of the five named for full credit."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.7-010": 1
+   },
+   "authored_hash": "7eabe3f5e3dfc82208d7dc2a76d42437ef7d00cdd83e5a7a72d60860bc521d01",
+   "objective_titles": [
+    "determinants of PED"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.7-009-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-2.7.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.7-011",
+    "CLM-0455-2.7-015"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "A new supermarket opens beside a long-established bakery in Oshakati, stocking packaged bread at a lower price. Analyse how this change works through the determinants of PED to the bakery's sales, naming who gains and who loses.",
+   "canonical_answer": "Starting point: the initial change is a new close substitute arriving beside the bakery's product, at a lower price. The mechanism: because the availability and closeness of substitutes is a main determinant of PED, this causes the demand for the bakery's own bread to become more price-elastic than it was - buyers who once had nowhere else to turn can now cross to the supermarket shelf. The consequence for the bakery: therefore, when the bakery next raises its price, the percentage fall in its quantity demanded tends to be larger than before, so a price rise that used to carry its revenue upward now tends to shrink it. The consequence for whom: the consumer gains - a close substitute at a lower price widens the choice and holds the bakery's price down; the bakery loses pricing power, and its workers may feel the squeeze if the owner responds by cutting hours; the supermarket gains the custom that crosses the road. The time determinant sharpens the loss: in the first weeks, habit keeps some buyers at the bakery and demand looks less responsive, but as months pass and habits adjust, the responsiveness tends to grow, so the bakery's position weakens further unless it differentiates its bread.",
+   "marking_guidance": [
+    "The starting point - the substitute arriving - must open the chain, when the determinant named is substitutes.",
+    "The mechanism - demand becoming more elastic because the substitute sits beside the product - is the link that earns the middle marks, because elasticity is the channel between the shelf and the price.",
+    "The consequence - the bakery's price rises now tending to shrink revenue - must be stated.",
+    "For whom: the consumer, the bakery, its workers and the supermarket - at least two parties named, with the direction of the gain or loss stated for each."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.7-011": 1,
+    "CLM-0455-2.7-015": 1
+   },
+   "authored_hash": "d0866bf5a0ec7dfbe24013a6a69c54920a1a5a3781f55ab1f8b62b20f084142b",
+   "objective_titles": [
+    "determinants of PED"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.7-010-APP",
+   "objective_ids": [
+    "OBJ-0455-2.7.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.7-012",
+    "CLM-0455-2.7-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 4,
+   "prompt": "A trader in the Katutura market sells matches at N$2 a box and also, from the same stall, handmade leather jackets at N$900. Explain, using the determinants of PED, why the elasticity of demand for these two goods is likely to differ.",
+   "canonical_answer": "From the context, the two goods take very different shares of a buyer's income, and that determinant separates them. The matches at N$2 take a tiny slice of a household's weekly budget, so even a large percentage rise in their price changes the bill little: demand tends to be price-inelastic. The reasoning runs the same way through necessity: matches are a small everyday necessity, bought whatever the price that week, which pushes the same way - inelastic. The jackets at N$900 are the opposite case: the purchase takes a large share of income, and it is a luxury that can be postponed until payday or dropped altogether, so demand tends to be price-elastic. The link is the determinant, not the good: for the trader this means that raising the match price tends to raise the stall's revenue from matches, because quantity demanded falls little; whereas the same move on the jackets tends to lose revenue, because buyers wait or walk to the next stall. Therefore the stall's two price tags answer to two different elasticities, and the trader who treats them alike is pricing one of the two wrongly.",
+   "marking_guidance": [
+    "The context - the N$2 against the N$900, the everyday necessity against the postponable luxury - is the data the reasoning must rest on.",
+    "Reasoning: because income share and necessity push towards inelastic demand for matches and towards elastic demand for jackets, with the because made explicit at each step.",
+    "The conclusion - therefore the trader's two goods carry different elasticities and the same pricing move works opposite ways on them - means that the answer must land on the contrast, not on each good separately."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.7-012": 1,
+    "CLM-0455-2.7-013": 1
+   },
+   "authored_hash": "9f684c97e68daa9ef4c00e48de3cd204343a8a6abef3f0a12234726296baa5e5",
+   "objective_titles": [
+    "determinants of PED"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.7-011-EVAL",
+   "objective_ids": [
+    "OBJ-0455-2.7.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.7-010",
+    "CLM-0455-2.7-011",
+    "CLM-0455-2.7-013",
+    "CLM-0455-2.7-015"
+   ],
+   "item_type": "flashcard",
+   "subtype": "EVAL",
+   "assessment_objectives": [
+    "AO3"
+   ],
+   "blooms_level": "Evaluate",
+   "blooms_level_basis": "subtype EVAL",
+   "command_word": "Discuss",
+   "mark_tariff": 8,
+   "difficulty": 5,
+   "prompt": "A seller claims: \"My product has no close substitutes, so my demand is inelastic, so I should raise my price.\" Discuss whether the seller's reasoning holds.",
+   "canonical_answer": "Judgement, on balance: the seller's first step is sound but the conclusion does not follow automatically, because it depends on the other determinants and on how the seller reads them. Why it might: with no close substitutes, demand tends to be price-inelastic, and where demand is inelastic a price rise tends to raise total revenue, since the percentage fall in quantity demanded stays smaller than the percentage rise in price - the argument for the rise is real. Why it might not: three gaps sit in the reasoning. The other determinants may push the other way - a product that takes a large share of income, or behaves as a luxury, may carry elastic demand even without substitutes; the substitute finding may not last - substitutes arrive with time, so the elasticity measured today tends to grow more responsive as buyers adjust; and even genuinely inelastic demand does not license unlimited rises, because each rise moves the market along its curve towards the elastic stretch that straight-line demand curves tend to hold at higher prices. What settles it: the decisive test is the seller's own measured PED across the range of prices actually being considered - if the figure at the new price stays below 1, the rise tends to pay; if it crosses 1, revenue turns the other way. The condition it depends on: the demand being inelastic at the new price, not just at the current one.",
+   "marking_guidance": [
+    "The judgement must come with its condition: demand being inelastic at the new price, not merely at the current one.",
+    "Why it might: the substitutes determinant giving inelastic demand, and inelastic demand making a rise pay - the argument for.",
+    "Why it might not: the other determinants, the arrival of substitutes over time, and the elastic stretch at higher prices - the argument against, at least two developed.",
+    "What settles it: the decisive test - the measured PED at the new price - named as the check that ends the argument."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.7-010": 1,
+    "CLM-0455-2.7-011": 1,
+    "CLM-0455-2.7-013": 1,
+    "CLM-0455-2.7-015": 1
+   },
+   "authored_hash": "93630e09353aefdcdbe62ecd25d80cda1f12f81a0ce51725e18d6fc604e7f078",
+   "objective_titles": [
+    "determinants of PED"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.7-020-FEATURE",
+   "objective_ids": [
+    "OBJ-0455-2.7.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.7-010",
+    "CLM-0455-2.7-011",
+    "CLM-0455-2.7-012",
+    "CLM-0455-2.7-013",
+    "CLM-0455-2.7-014",
+    "CLM-0455-2.7-015"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "subtype FEATURE",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 5,
+   "prompt": "Explain the features of a good whose demand is price-inelastic, and what each feature does to keep buyers buying.",
+   "canonical_answer": "A good with price-inelastic demand shows features that each hold buyers in the market when the price moves. Few or distant substitutes: because the buyer cannot easily switch, a price rise finds them still at the counter - the demand for clinic medicine in Gobabis behaves this way. A small share of income: because the purchase costs little against the household budget, even a sharp percentage rise changes weekly spending by almost nothing - matches at N$2 a box. A necessity rather than a luxury: because the good is needed rather than enjoyed, it is bought at the higher price - bread and basic transport, the everyday cases in Katutura. A wide market definition: because the market counts \"food\" rather than \"one brand of bread\", the substitutes that sit beside one loaf are outside the measure, and the wide market reads more inelastic than the narrow one. A short time since the price change: because habits and contracts hold, demand looks least responsive in the weeks right after a rise. Each feature does the same thing - it removes a way for the buyer to leave - and what each of them includes is the buyer who stays and pays the higher price.",
+   "marking_guidance": [
+    "Reward the features: few substitutes, small income share, necessity, wide market definition, short time - what it includes for each is the mechanism that keeps buyers buying.",
+    "One mark per feature with its mechanism, up to four; naming the feature alone, without what it does to the buyer, is recall rather than explanation."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.7-010": 1,
+    "CLM-0455-2.7-011": 1,
+    "CLM-0455-2.7-012": 1,
+    "CLM-0455-2.7-013": 1,
+    "CLM-0455-2.7-014": 1,
+    "CLM-0455-2.7-015": 1
+   },
+   "authored_hash": "9a69376148c6ee27e149c7c4a979f98fd659c0f1c715308c0f80cc6225f22529",
+   "objective_titles": [
+    "determinants of PED"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.7-012-DEF",
+   "objective_ids": [
+    "OBJ-0455-2.7.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.7-017"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Define total spending on a product and state its link to the seller's revenue.",
+   "canonical_answer": "Total spending by consumers on a product is the price multiplied by the quantity sold; the same figure is the seller's revenue from that product, because every dollar spent by buyers is a dollar received by the seller.",
+   "marking_guidance": [
+    "The precise meaning: price times quantity, stated as the consumers' spending and identified with the seller's revenue.",
+    "Both marks need the multiplication named as the definition and the two sides of the same transaction - spending by buyers, revenue by seller - identified as one figure."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.7-017": 1
+   },
+   "authored_hash": "ad72bcad2197ba51a46f2637fd50a7eda63c7ce2d4e7e1d029755cef0ecc51fd",
+   "objective_titles": [
+    "PED and total spending on a product/ revenue"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.7-013-DIAGRAM",
+   "objective_ids": [
+    "OBJ-0455-2.7.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.7-017",
+    "CLM-0455-2.7-018",
+    "CLM-0455-2.7-019",
+    "CLM-0455-2.7-020"
+   ],
+   "item_type": "flashcard",
+   "subtype": "SYNTH",
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype SYNTH",
+   "command_word": "Discuss",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "A rice trader in Windhoek faces price-inelastic demand for its sacks of rice. The trader raises the price from N$100 a sack to N$110, and quantity demanded falls only slightly. Discuss how a demand diagram of this market shows what happens to total spending, giving a verbal walk-through of every part of the diagram and what it shows.",
+   "canonical_answer": "Walk through the diagram in words, element by element. First, the axes labelled: price of rice, in N$ per sack, on the vertical axis, and quantity demanded, in sacks a week, on the horizontal axis. Second, the original curves drawn and labelled: a demand curve D for the rice, sloping downward from left to right, drawn steeply against the axes - a given price move barely stretches quantity demanded along the horizontal axis, which is the picture of inelastic demand; the point at N$100 is marked on it. Third, the shift or movement, in the correct direction: the rise to N$110 is a movement up along the unchanged demand curve, because the good's own price is what changed - not a shift of D. Fourth, the new equilibrium marked and labelled: the new point at N$110, at a quantity demanded only slightly smaller - with inelastic demand, the percentage fall in sacks stays below the 10.0 per cent price rise. Fifth, what the diagram shows, in words: total spending at each point is the rectangle under the demand curve there - height is the price, base is the quantity demanded - and moving up the curve trades a taller rectangle for a slightly narrower one. With inelastic demand the height grows by a larger percentage than the base shrinks, so the new rectangle has the bigger area: total spending, and with it the trader's revenue, rises. The link is between the elasticity classification and the area under the curve, and the consequence is for the seller: an inelastic market is one where raising price tends to raise revenue, provided the demand stays inelastic over the range of the rise.",
+   "marking_guidance": [
+    "The walk-through must name the axes labelled - price and quantity, each with its units - before anything else.",
+    "Reward the original curves drawn and labelled: the demand curve in place at N$100 before the change is described, drawn to show a steep, unresponsive shape.",
+    "Check the shift or movement, in the correct direction: a rise in the good's own price is a movement up an unchanged demand curve, not a shift of it.",
+    "The new equilibrium marked and labelled at N$110 and its slightly smaller quantity earns its mark, and what the diagram shows, in words, must close the walk-through.",
+    "The link between the rectangle areas under the curve and the consequence for the trader's revenue - the taller rectangle winning with inelastic demand, provided demand stays inelastic over the range - carry the analysis marks."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.7-017": 1,
+    "CLM-0455-2.7-018": 1,
+    "CLM-0455-2.7-019": 1,
+    "CLM-0455-2.7-020": 1
+   },
+   "authored_hash": "83b8b41ef0a1e4fd6f712b71471cc5ec01b694a9f004c9a74f4b929a489da792",
+   "objective_titles": [
+    "PED and total spending on a product/ revenue"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.7-014-INTERP",
+   "objective_ids": [
+    "OBJ-0455-2.7.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.7-017",
+    "CLM-0455-2.7-018",
+    "CLM-0455-2.7-019"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype INTERP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "A cinema in Swakopmund tested its ticket prices across three seasons, changing nothing else. At N$30, weekly spending on tickets was N$36 000; at N$40, it was N$44 000; at N$50, it was N$45 000; at N$60, it was N$42 000. Explain what these totals show about the elasticity of demand for cinema seats and why the pattern is not a straight line.",
+   "canonical_answer": "What the data shows: the relationship between price and total spending reverses as the price climbs - spending rises from N$36 000 to N$44 000 between N$30 and N$40, rises again more weakly to N$45 000 at N$50, then falls to N$42 000 at N$60. Supporting evidence: the comparison across the four prices shows the total responding positively at first and negatively at the end - an elastic stretch cannot hide in the middle, because the N$50 total sits almost level with N$44 000, the flat ground where the percentage changes roughly cancel. Why: where a price rise raises total spending, quantity demanded fell by a smaller percentage than the price rose, which is inelastic demand - the N$30 to N$40 range, where cheap tickets make an evening out a small, habitual purchase. Where a rise lowers spending, quantity demanded fell by a larger percentage - the elastic N$50 to N$60 range, where the buyers left are the ones nearest the edge of willingness to pay. The exception to note: however, the totals alone do not give the elasticity at any single price - two totals bracket the change between them, so the cinema knows the direction each step moved in, except that the true classification at N$50, near the peak of the totals, is a borderline where a small market change tips the answer either way.",
+   "marking_guidance": [
+    "What the data shows - spending rising with price at the low end and falling at the top - must be stated first, with supporting evidence taken as a comparison across the four totals.",
+    "The exception or limit earns a mark: however, the peak near N$50 is borderline ground where the classification tips either way.",
+    "The why - inelastic at the cheap end, elastic at the dear end, through the size of the percentage fall in quantity demanded - is worth as much as the reading; quoting the totals alone earns nothing."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.7-017": 1,
+    "CLM-0455-2.7-018": 1,
+    "CLM-0455-2.7-019": 1
+   },
+   "authored_hash": "39606fd9bcf489d43122a239a9fa484d00923388ed23a6e4a258f9e3c7cb08da",
+   "objective_titles": [
+    "PED and total spending on a product/ revenue"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.7-015-APP",
+   "objective_ids": [
+    "OBJ-0455-2.7.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.7-017",
+    "CLM-0455-2.7-018",
+    "CLM-0455-2.7-019"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "Marula Foods sells dried marula snack packs in Oshakati at N$15 each and takes N$9 000 a week. A rival launches a similar pack at N$12, and Marula Foods' demand becomes price-elastic. Using these figures, explain what would happen to Marula Foods' weekly revenue if it raised its price to N$18, and why.",
+   "canonical_answer": "From the context, Marula Foods currently sells 600 packs a week, since 9000 / 15 = 600. If it raises the price to N$18 with demand price-elastic, the percentage fall in packs sold tends to be larger than the 20.0 per cent price rise. The reasoning: with elastic demand, the buyers who leave - those closest to switching to the rival's N$12 pack - outweigh the extra N$3 charged to those who stay, because quantity demanded moves further in percentage terms than the price did. That means the revenue calculation moves against the rise: a rise that keeps even as few as 500 packs - a 16.7 per cent fall - already gives N$9 000, since 18 x 500 = 9000, the same total as before, so any fall larger than that, which elastic demand makes likely, takes revenue below N$9 000. Therefore the figures say the rise is the wrong move for revenue: with elastic demand, Marula Foods tends to lose revenue by raising its price, and holding or cutting price is what the elasticity points to - provided the demand stays elastic, which the rival's N$12 pack makes likely while it sits on the shelf.",
+   "marking_guidance": [
+    "The context - 600 packs at N$9 000, and the rival's N$12 pack - is the data the reasoning must rest on.",
+    "Reasoning: because the percentage fall in quantity demanded outweighs the percentage rise in price under elastic demand, with the because made explicit.",
+    "The conclusion - therefore the rise tends to lower revenue below N$9 000 - means that the answer is complete only with the direction stated and tied to the elastic classification."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.7-017": 1,
+    "CLM-0455-2.7-018": 1,
+    "CLM-0455-2.7-019": 1
+   },
+   "authored_hash": "09ef40bde236fdb584026d2b418a98d4b46f539ed221f4e5df789b8799b4ef1e",
+   "objective_titles": [
+    "PED and total spending on a product/ revenue"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.7-016-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-2.7.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.7-017",
+    "CLM-0455-2.7-018"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "A water utility serving Windhoek households raises its basic charge, and the demand for its water is price-inelastic. Analyse what follows for the utility's revenue and for the households, naming who gains and who bears the cost.",
+   "canonical_answer": "Starting point: the initial change is a rise in the price of water, and the utility knows its demand is price-inelastic - quantity demanded falls by a smaller percentage than the price rose. The mechanism: because households use water for washing, cooking and drinking with no close substitute at hand, this causes the percentage fall in consumption to stay small, so when the utility multiplies the higher charge by the near-unchanged quantity, total revenue rises. This works through the household budget: families cannot easily buy less of a necessity, so most of them pay the higher charge, and the money moves from household budgets into the utility's revenue. The consequence, therefore, is a transfer rather than a shrinkage: the utility gains revenue, and the consumer - the households that keep buying - bear the cost through higher monthly bills. The result for whom: for the firm, revenue rises; for the consumer, spending on the same water rises and squeezes other household spending; for the wider economy, the extra payment works like a tax on everyday life, falling hardest on the households with the least to spare, and it is partly this reliability that makes governments willing to tax inelastic goods in topic 4.1.",
+   "marking_guidance": [
+    "The starting point - the charge rise with inelastic demand - must open the chain, when the change is named as one in the price.",
+    "The mechanism - the small percentage fall in quantity demanded against the larger percentage rise in price - is the link that earns the middle marks, because that is what makes the total rise.",
+    "The consequence - revenue rising for the utility, spending rising for the household - must be stated as a transfer.",
+    "For whom: the firm, the households whose budgets are squeezed, and the wider economy - at least two parties named, with the direction stated for each."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.7-017": 1,
+    "CLM-0455-2.7-018": 1
+   },
+   "authored_hash": "17f4d813e236e914ffc5c081f5a57b08714bfe835af8ebd32fb6c660bc48dcad",
+   "objective_titles": [
+    "PED and total spending on a product/ revenue"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.7-017-DEF",
+   "objective_ids": [
+    "OBJ-0455-2.7.5"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.7-024"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Define the significance of price elasticity of demand for decision making.",
+   "canonical_answer": "The significance of PED for decision making is that the effect of a price change on revenue depends on the elasticity, so producers setting prices and governments choosing taxes are likely to weigh PED before they act.",
+   "marking_guidance": [
+    "The precise meaning: elasticity deciding the revenue effect of a price change, which is why price-setters and tax-setters weigh it.",
+    "Both marks need the dependency named - the effect of a price change depends on elasticity - and at least one decision-maker, a producer or a government, identified as the one who weighs it."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.7-024": 1
+   },
+   "authored_hash": "fa111f84c6a38866f5f3a3a58b4e8f525d19535469fac14203e7bbe2dd3d5bd9",
+   "objective_titles": [
+    "significance of PED"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.7-018-WHY",
+   "objective_ids": [
+    "OBJ-0455-2.7.5"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.7-025",
+    "CLM-0455-2.7-026"
+   ],
+   "item_type": "flashcard",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "subtype WHY",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 2,
+   "prompt": "Explain why a government choosing an indirect tax is likely to place it on goods whose demand is price-inelastic, and why the same reasoning points elsewhere when the purpose is to change behaviour.",
+   "canonical_answer": "The reason a government is likely to tax goods with price-inelastic demand is revenue: an indirect tax raises the price, and where demand is inelastic, quantity demanded falls by a smaller percentage than the price rose, so the tax keeps collecting on almost every unit sold - the payments keep flowing to the government because buyers of a necessity with no close substitute keep buying it. The purpose, however, decides the choice: where the aim is to raise money, inelastic goods are the reliable base, which is why fuel carries tax in so many countries. Where the purpose is to change behaviour - to shrink the quantity bought rather than to fund the budget - the same reasoning points to elastic goods, because there a tax-induced price rise sends quantity demanded down by a larger percentage, so the change the government wants actually happens.",
+   "marking_guidance": [
+    "Reward the reason: inelastic demand keeps quantity demanded close to unchanged, so the tax raises money on almost every unit - with the because made explicit.",
+    "The purpose of each choice must be named: revenue points at inelastic goods, behaviour change at elastic goods, and one mark sits on that contrast."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.7-025": 1,
+    "CLM-0455-2.7-026": 1
+   },
+   "authored_hash": "88d929e28f729e82ed8cdb9c1938f086f65cbdfd3d9f4c14b70da3459b2c0ea6",
+   "objective_titles": [
+    "significance of PED"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.7-019-APP",
+   "objective_ids": [
+    "OBJ-0455-2.7.5"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.7-024",
+    "CLM-0455-2.7-027"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 2,
+   "prompt": "A lodge near the Etosha gate measures the demand for its off-season rooms as price-elastic. Using this measurement, explain how the lodge should set its off-season price, and what risk the measurement carries.",
+   "canonical_answer": "From the context, elastic demand means the percentage change in quantity demanded is larger than the percentage change in price, so the lodge's reasoning runs from that classification: because demand for its off-season rooms is elastic, a price rise tends to lower its revenue - the rooms it loses outweigh the extra charge - and a price cut tends to raise it, since the extra guests more than make up the cheaper rate. Therefore the measurement says the off-season price should sit low: cutting the price towards what guests at that time of year are willing to pay is the move that fills rooms and raises revenue. The risk the measurement carries is that PED is estimated from past market data: the figure was measured in one off-season, and if a new lodge opens near the gate or travel habits change, the demand may grow more elastic than the old figure says, so the cut that was calculated to raise revenue may stop working - the condition the whole answer rests on is the demand staying elastic through the off-season.",
+   "marking_guidance": [
+    "The context - the measured elastic demand and the off-season setting - is the data the reasoning must rest on.",
+    "Reasoning: because demand is elastic, a cut tends to raise revenue through the extra guests outweighing the cheaper rate - with the because made explicit.",
+    "The conclusion - therefore a low off-season price - and the risk that the past measurement may drift, means that the answer must carry both the decision and the condition it rests on."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.7-024": 1,
+    "CLM-0455-2.7-027": 1
+   },
+   "authored_hash": "5447e489fc5eb8af87c972fdecbc308637552090a20cb387bb7cb8c9ccd949ed",
+   "objective_titles": [
+    "significance of PED"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.7-P01",
+   "objective_ids": [
+    "OBJ-0455-2.7.1",
+    "OBJ-0455-2.7.2",
+    "OBJ-0455-2.7.3",
+    "OBJ-0455-2.7.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.7-001",
+    "CLM-0455-2.7-002",
+    "CLM-0455-2.7-004",
+    "CLM-0455-2.7-005",
+    "CLM-0455-2.7-010",
+    "CLM-0455-2.7-011",
+    "CLM-0455-2.7-017",
+    "CLM-0455-2.7-018",
+    "CLM-0455-2.7-019"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "performance task type multiple_choice_set",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 3,
+   "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. Which best defines price elasticity of demand?\nA  the change in quantity demanded when any influence on demand changes\nB  the responsiveness of quantity demanded to a change in the good's own price\nC  the responsiveness of quantity supplied to a change in price\nD  the total amount consumers spend on a good at one price\n\n2. A price rises from N$8 to N$10 and quantity demanded falls from 150 to 120 units. PED is:\nA  0.80\nB  1.25\nC  0.75\nD  30.0\n\n3. Demand is price-inelastic when:\nA  PED is greater than 1\nB  quantity demanded changes by a larger percentage than price\nC  PED lies between 0 and 1\nD  the demand curve is flatter than the supply curve\n\n4. A good with several close substitutes on the same shelf tends to have:\nA  elastic demand, because buyers can switch when the price rises\nB  inelastic demand, because buyers stay loyal to the good\nC  unit elasticity at every price\nD  no measurable elasticity\n\n5. Total spending on a good equals:\nA  price plus quantity\nB  price multiplied by quantity sold\nC  price divided by quantity\nD  quantity demanded at the average price\n\n6. Where demand is price-inelastic, a rise in the good's price tends to:\nA  lower total spending, because buyers leave the market in large numbers\nB  raise total spending, because quantity demanded falls by a smaller percentage than the price rose\nC  leave total spending unchanged\nD  raise total spending only where the good is a luxury\n\n7. Which purchase is likely to carry the most price-inelastic demand?\nA  a specific brand of bottled water beside five others\nB  a week's medicine from the only clinic pharmacy in Gobabis\nC  a luxury holiday at a lodge near Etosha\nD  a restaurant dinner that can be skipped this week\n\n8. A seller raises price and revenue falls. The most specific conclusion is that:\nA  demand is price-elastic\nB  the seller's costs must have risen\nC  demand was price-inelastic, but not enough\nD  the supply of the good fell",
+   "canonical_answer": "Key: 1 B, 2 A, 3 C, 4 A, 5 B, 6 B, 7 B, 8 A.\n1. B is the definition - responsiveness of quantity demanded to the good's own price. A lets any influence count, which is the shift of demand from topic 2.3, not elasticity; C is the supply-side twin from topic 2.8; D is total spending, a level, not a responsiveness.\n2. A: the percentage fall in quantity demanded is 20.0 per cent, since 30 / 150 x 100 = 20, and the percentage rise in price is 25.0 per cent, since 2 / 8 x 100 = 25, so PED is 20 / 25 = 0.80. B divides the other way round, price over quantity; C subtracts instead of dividing percentages; D is the raw change in units, not a percentage comparison.\n3. C is the classification: PED between 0 and 1 means quantity demanded moves less, in percentage terms, than price. A reverses the classification; B describes elastic demand; D compares shapes across curves that belong to different sides of the market.\n4. A: close substitutes give buyers a way out, so demand tends to be elastic. B holds only where buyers cannot switch, the opposite case; C mistakes a single stretch for the whole curve; D assumes elasticity cannot be measured, when the whole topic is its measurement.\n5. B is the formula: price times quantity sold, which is also the seller's revenue. A adds quantities that already live in different units; C divides the wrong way; D describes a point on a curve, not a total.\n6. B: with inelastic demand the percentage fall in quantity demanded is smaller, so the higher price wins on the multiplication. A describes elastic demand; C is the borderline unit case, not the general inelastic one; D gets the determinant backwards - luxuries lean elastic, not inelastic.\n7. B: clinic medicine is a necessity with no substitute at hand, the most inelastic of the four. A has the closest substitutes, so it leans elastic; C and D are luxuries or postponables, which lean elastic.\n8. A: revenue falling after a rise is the signature of elastic demand - the percentage fall in quantity demanded outweighed the percentage rise in price. B brings in costs, which affect profit rather than revenue; C is a contradiction, since inelastic demand is exactly the case where the rise pays; D is a supply-side story about the seller, not the buyers whose behaviour the revenue fall records.",
+   "marking_guidance": [
+    "Key: one mark per question, eight in total; the correct option for each is listed and every distractor is explained as the specific misunderstanding it catches.",
+    "Each distractor traces to a named error: the shift of demand confused with elasticity, the percentage division taken upside down, the classification reversed, substitutes held to build loyalty, total spending mistaken for a level, the wrong determinant named, and a revenue fall read as a cost story."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.7-001": 1,
+    "CLM-0455-2.7-002": 1,
+    "CLM-0455-2.7-004": 1,
+    "CLM-0455-2.7-005": 1,
+    "CLM-0455-2.7-010": 1,
+    "CLM-0455-2.7-011": 1,
+    "CLM-0455-2.7-017": 1,
+    "CLM-0455-2.7-018": 1,
+    "CLM-0455-2.7-019": 1
+   },
+   "authored_hash": "3fdfa33b707f5dc7885c15b8a7d68273f382acb34f4069001c7ecb96028691b1",
+   "objective_titles": [
+    "definition of PED",
+    "calculation of PED",
+    "determinants of PED",
+    "PED and total spending on a product/ revenue"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.7-P02",
+   "objective_ids": [
+    "OBJ-0455-2.7.2",
+    "OBJ-0455-2.7.4",
+    "OBJ-0455-2.7.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.7-002",
+    "CLM-0455-2.7-010",
+    "CLM-0455-2.7-013",
+    "CLM-0455-2.7-017",
+    "CLM-0455-2.7-018",
+    "CLM-0455-2.7-019",
+    "CLM-0455-2.7-011"
+   ],
+   "item_type": "data_response",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type data_response",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "A newspaper report from Windhoek, October 2026: \"Rooibos tea from a single Windhoek trader was the market's quiet winner this winter. The trader sold 800 packets in March at N$25 each; by July, after a poor harvest, the price stood at N$35 and sales were 720 packets. Shoppers told this paper the tea is the one warm drink their households will not give up. A manager at the trader said a bottled iced-tea alternative had just arrived on the next shelf at N$18.\"\n\nTable 1 - Windhoek rooibos packets\n  price per packet: N$25 in March, N$35 in July\n  packets sold: 800 in March, 720 in July\n  substitutes on the shelf: none in March, one bottled alternative at N$18 in July\n  shoppers' view: a drink their households will not give up\n\n(a) Calculate the percentage change in the price of a packet between March and July. [1]\n(b) Identify from Table 1 one determinant of the demand for rooibos packets that changed between March and July. [2]\n(c) Explain whether the demand for rooibos packets is price-elastic or price-inelastic over these prices, using the figures. [4]\n(d) Analyse what the figures suggest will happen to the trader's revenue if the poor harvest pushes the price higher still, using the data as evidence. Consider at least one reason why the outcome may differ from what the figures suggest. [6]",
+   "canonical_answer": "(a) 40.0 per cent, since 10 / 25 x 100 = 40.\n(b) The arrival of the bottled iced-tea alternative at N$18 on the next shelf - the substitutes determinant changed, from no substitutes to one close substitute. The shoppers' stated unwillingness to give the tea up points the same way through the necessity determinant, but the arrival on the shelf is the change the table records.\n(c) The percentage fall in quantity demanded was 10.0 per cent, since 80 / 800 x 100 = 10, against the 40.0 per cent price rise, so PED is 10 / 40 = 0.25. Because 0.25 lies between 0 and 1, demand for the packets over these prices is price-inelastic: quantity demanded moved far less, in percentage terms, than the price did. The figures fit the table's determinants - a drink households treat as a necessity, with no substitute on the shelf in March - and the revenue movement confirms the classification: total spending rose from N$20 000, since 25 x 800 = 20000, to N$25 200, since 35 x 720 = 25200, the direction an inelastic market produces when price rises.\n(d) Expected relationship: with demand inelastic over the range measured, a further price rise tends to raise the trader's revenue again, since the percentage fall in packets is likely to stay below the percentage rise in price. Evidence: the 0.25 figure and the revenue rise from N$20 000 to N$25 200 already recorded, with shoppers calling the tea a drink their households will not give up. Analysis: however, the figure was measured over a market with no substitute, and Table 1 records that a bottled alternative at N$18 has just arrived on the next shelf - the substitutes determinant changing tends to make demand more elastic than 0.25 says, so the next rise works on a different market from the last. The time determinant points the same way: responsiveness tends to grow as shoppers adjust to the alternative. Exception: if the bottled iced tea proves a poor match for hot rooibos in winter, the substitute stays distant and demand may stay inelastic enough for the rise to keep paying - the outcome depends on how close buyers judge the alternative, which the March figures cannot show.",
+   "marking_guidance": [
+    "Parts (a) and (b) are read from the data; the six-mark part must use the figures as evidence - the 40.0 per cent rise, the 10.0 per cent fall, the 0.25, the two revenue totals - not as analysis itself.",
+    "One mark per distinct linked statement in (c): the two percentage changes, the division, the classification, and the revenue confirmation each earn only when the link to the next is made.",
+    "Part (d) is marked on expected relationship, then evidence, then analysis, then an exception; quoting figures without the relationship they support earns nothing.",
+    "For whom: consequences must be named for the trader, whose revenue is at stake, and the shoppers, whose weekly spending on the tea rises with the price."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": [
+     "price N$25 to N$35, packets 800 to 720",
+     "substitute: none in March, one at N$18 in July",
+     "shoppers call the tea a necessity"
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.7-002": 1,
+    "CLM-0455-2.7-010": 1,
+    "CLM-0455-2.7-013": 1,
+    "CLM-0455-2.7-017": 1,
+    "CLM-0455-2.7-018": 1,
+    "CLM-0455-2.7-019": 1,
+    "CLM-0455-2.7-011": 1
+   },
+   "authored_hash": "629281ec9510c017d5836143d611d9866c80619d5b57200869d9041dff20fd36",
+   "objective_titles": [
+    "calculation of PED",
+    "PED and total spending on a product/ revenue",
+    "determinants of PED"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.7-P03",
+   "objective_ids": [
+    "OBJ-0455-2.7.1",
+    "OBJ-0455-2.7.2",
+    "OBJ-0455-2.7.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.7-001",
+    "CLM-0455-2.7-002",
+    "CLM-0455-2.7-010",
+    "CLM-0455-2.7-011",
+    "CLM-0455-2.7-012",
+    "CLM-0455-2.7-017",
+    "CLM-0455-2.7-018",
+    "CLM-0455-2.7-019",
+    "CLM-0455-2.7-021"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type short_answer",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "A charcoal trader supplies households in Otavi. Answer all parts.\n\n(a) Define price elasticity of demand. [2]\n(b) Explain how the availability of substitutes and the share of income a purchase takes determine the elasticity of demand for a good. [4]\n(c) The trader sells 500 bags of charcoal a month at N$60 a bag. It raises the price to N$66 and sells 475 bags. The town's electricity supplier, meanwhile, cut its price last year and the charcoal trader lost 25 bags a month of sales at the old price. Analyse what these figures mean for the trader's revenue and for the households of Otavi. [6]\n(d) Discuss whether a seller with price-inelastic demand should keep raising its price. [8]",
+   "canonical_answer": "(a) Price elasticity of demand measures how strongly the quantity demanded of a good responds to a change in its own price.\n(b) Substitutes: where close alternatives are easy to switch to, a price rise tends to push buyers towards them, so demand tends to be price-elastic; with no close substitute, buyers have no way out and demand tends to be inelastic. Share of income: a purchase that takes a small slice of the household budget tends to carry inelastic demand, because even a large percentage price rise changes weekly spending little, while a purchase that takes a large slice - and can be postponed - tends to carry elastic demand. Each determinant works the same way: it decides how easily the buyer can leave the good behind when its price rises.\n(c) Starting point: the initial change is the trader's own price rise from N$60 to N$66, a 10.0 per cent rise, since 6 / 60 x 100 = 10, with quantity demanded falling from 500 to 475 bags, a 5.0 per cent fall, since 25 / 500 x 100 = 5. PED is 5 / 10 = 0.5, so demand for charcoal at these prices is price-inelastic. The mechanism: because the percentage fall in bags stays below the percentage rise in price, this causes total revenue to rise, from N$30 000, since 60 x 500 = 30000, to N$31 350, since 66 x 475 = 31350. The consequence for whom: for the firm, revenue rises by N$1 350, since 31350 - 30000 = 1350; for the consumer, the households that keep buying pay more for the same warmth, so their other spending is squeezed. The electricity cut is the exception that proves the determinant: electricity is a substitute for charcoal in cooking and heating, so its cheaper price pulled 25 bags a month of demand away at the old price - the substitute working on the demand curve, topic 2.3's shift, underneath the elasticity the trader measured.\n(d) Why it might: with inelastic demand, each rise tends to raise revenue, since the percentage fall in quantity demanded stays smaller than the percentage rise in price - the Otavi figures, where a 10.0 per cent rise cost only 5.0 per cent of bags, show exactly that. The rise is therefore tempting, and for a seller facing inelastic demand it pays, in revenue terms, each time the figure holds. Why it might not: three limits bound the policy. First, elasticity moves along the curve - demand curves tend to hold elastic stretches at higher prices, so rises that pay at N$66 may stop paying further up, and each rise travels towards the stretch where buyers respond sharply. Second, the determinants drift - the electricity cut shows substitutes arriving and changing the market, and responsiveness grows with time as households adjust, so today's inelastic figure may be elastic by the next rise. Third, revenue is not profit: rising revenue settles nothing about profit until costs are known, and a seller with rising costs may find the extra revenue absorbed before it becomes profit. Judgement: on balance the seller should not read inelastic demand as a licence for unlimited rises, because the policy pays only while the figure holds, and each rise both tests and erodes it. The condition it depends on: the measured PED at the new price staying below 1 - the seller that checks the figure each time may keep rising for a while; the seller that raises blindly stops being an inelastic seller exactly when its market finds a substitute.",
+   "marking_guidance": [
+    "Every part carries a model answer; part (d) is level-marked over three bands.",
+    "(a) rewards the precise definition: responsiveness of quantity demanded to a change in the good's own price.",
+    "(b) one mark per distinct determinant with its mechanism: substitutes through the way out, income share through the size of the sacrifice - each with the link made.",
+    "(c) one mark per distinct linked statement from the starting point - the two percentage changes and the 0.5 - through the mechanism, the revenue rise from N$30 000 to N$31 350, to the consequence for the trader and the households, with the electricity cut read as the substitute shifting demand beneath the elasticity.",
+    "(d) Level 3 examines why it might - each rise paying while the figure holds - and why it might not - elasticity moving along the curve, determinants drifting, revenue not being profit - and reaches a judgement naming the condition it depends on: the PED at the new price staying below 1. Level 2 develops one side; Level 1 asserts."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": [
+     "charcoal: 500 bags at N$60, then 475 at N$66",
+     "electricity price cut last year cost 25 bags a month at the old price"
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.7-001": 1,
+    "CLM-0455-2.7-002": 1,
+    "CLM-0455-2.7-010": 1,
+    "CLM-0455-2.7-011": 1,
+    "CLM-0455-2.7-012": 1,
+    "CLM-0455-2.7-017": 1,
+    "CLM-0455-2.7-018": 1,
+    "CLM-0455-2.7-019": 1,
+    "CLM-0455-2.7-021": 1
+   },
+   "authored_hash": "5dc992f907900a66ab8b3fe9e59cda8b44f9f74cf7ac3ba8abdd5a240b99266c",
+   "objective_titles": [
+    "definition of PED",
+    "calculation of PED",
+    "PED and total spending on a product/ revenue"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.7-P04",
+   "objective_ids": [
+    "OBJ-0455-2.7.3",
+    "OBJ-0455-2.7.5"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.7-010",
+    "CLM-0455-2.7-011",
+    "CLM-0455-2.7-013",
+    "CLM-0455-2.7-024",
+    "CLM-0455-2.7-025",
+    "CLM-0455-2.7-027"
+   ],
+   "item_type": "essay_plan",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Evaluate",
+   "blooms_level_basis": "performance task type essay_plan",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "Plan an answer to: \"The government of a country is considering a new indirect tax on sugary drinks. Discuss whether the tax is likely to meet both of its aims: raising revenue and reducing consumption.\" Do not write the essay; produce the plan.",
+   "canonical_answer": "Case for the tax meeting its aims: the two aims sit on the same determinant. Sugary drinks are a small-share, everyday purchase for many households, so demand tends to be price-inelastic - which serves the revenue aim, because quantity demanded falls little when the tax pushes the price up and the tax keeps collecting on almost every bottle sold.\nChain 1: tax raises the price -> with inelastic demand, the percentage fall in bottles stays below the percentage rise in price -> revenue flows to the government -> the aim of raising money is met (for the government, the consumer who keeps buying).\nSecond case for: where households treat the drinks as a habit with no ready substitute, the inelastic figure holds both at once, and the revenue aim is met reliably.\nCase against, first point: the aims pull against each other through elasticity. A good whose demand is inelastic is a poor target for behaviour change - the same small percentage fall in quantity demanded that makes the revenue reliable makes the consumption reduction barely material, so one of the two aims fails whenever the other succeeds.\nChain 2: demand is inelastic -> tax raises price -> quantity demanded falls by a small percentage -> revenue aim met -> consumption aim largely missed (the aim of reducing consumption is unmet).\nCase against, second point: the determinants drift with time. Substitutes arrive - untaxed squashes, water bottles, cross-border shopping - and responsiveness grows as households adjust, so the inelastic figure the plan was built on tends to erode, pushing the tax towards elastic ground where revenue falls away even as consumption finally responds.\nJudgement: on balance the tax is likely to meet the revenue aim first and the consumption aim later, if at all - the two aims succeed in the order elasticity allows. The condition it depends on: how elastic demand for sugary drinks proves over time and across substitutes - what settles it is the measured PED of the taxed drinks, checked after the substitutes have had time to arrive.",
+   "marking_guidance": [
+    "A plan, not an essay: the structure with the stated judgement is what is assessed.",
+    "The plan must carry the case for and the case against, each developed as a chain from tax through elasticity to the aim affected, and name the parties - the government, the consumer, the households whose budgets carry the tax.",
+    "The judgement must be decisive and name the condition it depends on: the measured PED over time.",
+    "What settles it: whether demand for the taxed drinks proves elastic or inelastic once substitutes arrive - the same figure answers both aims, in opposite directions."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.7-010": 1,
+    "CLM-0455-2.7-011": 1,
+    "CLM-0455-2.7-013": 1,
+    "CLM-0455-2.7-024": 1,
+    "CLM-0455-2.7-025": 1,
+    "CLM-0455-2.7-027": 1
+   },
+   "authored_hash": "5cdabb946616de96fafce2d3203bd49162d89381fb5ce9539fc3049167f3de29",
+   "objective_titles": [
+    "determinants of PED",
+    "significance of PED"
+   ]
+  }
+ ]
+}

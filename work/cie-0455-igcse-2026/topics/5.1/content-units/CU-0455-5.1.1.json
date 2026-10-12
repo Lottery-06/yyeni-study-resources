@@ -1,0 +1,113 @@
+{
+ "unit_id": "CU-0455-5.1.1",
+ "title": "Measuring living standards",
+ "objective_ids": [
+  "OBJ-0455-5.1.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_quantitative",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 285,
+  "target": 347,
+  "max": 410
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "5.1.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define living standards, set out the indicators that measure them, and see why one money figure alone may mislead.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "5c1035da6b780c62905591410f6de25e73852718560018282f2d813bd23f2ac9"
+  },
+  {
+   "block_id": "5.1.1-b2",
+   "block_type": "definition",
+   "heading": "Living standards and the indicators that measure them",
+   "text": "Living standards are the level of material well-being of a person or a household: how well the household is housed, fed, clothed, schooled and cared for, together with the security of that level. The starting measure is Gross Domestic Product - the total value of the goods and services produced in a country in a given period - but for living standards the figure to use is GDP per head, that total divided by the population: it shows the average output available per person, so countries of different sizes compare.\n\nThe indicators that complete the picture: income per person; health measures such as life expectancy and infant mortality; education measures such as mean years of schooling and literacy; and access to basic services such as clean water and electricity. Together they capture what GDP per head alone may miss, and they travel in company: where output per person rises, health and schooling tend to rise with it.",
+   "claim_ids": [
+    "CLM-0455-5.1-001",
+    "CLM-0455-5.1-002",
+    "CLM-0455-5.1-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.1-001": 1,
+    "CLM-0455-5.1-002": 1,
+    "CLM-0455-5.1-003": 1
+   },
+   "authored_hash": "89a0c7715c03b32a7add30e93c35bb6ffcd9db51602d9371aa07438d2272918c"
+  },
+  {
+   "block_id": "5.1.1-b3",
+   "block_type": "worked_application",
+   "heading": "Reading the figures for two countries",
+   "text": "Namibia records GDP of N$150 billion and a population of 2.5 million: GDP per head is N$150 000m / 2.5m, which is N$60 000 a year. Vietnam, as a non-African example, records GDP of US$300 billion with 100 million people: GDP per head is US$3 000 a year, and at N$20 to US$1 that is N$60 000 as well, so the averages match. The other indicators: life expectancy 74 years in Vietnam against 60 in Namibia, household electricity 99% against about half. One figure is a doorway, not a verdict: the same GDP per head stands while health and access separate the two, because GDP per head is an average that may hide how income is shared.",
+   "claim_ids": [
+    "CLM-0455-5.1-002",
+    "CLM-0455-5.1-003",
+    "CLM-0455-5.1-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.1-002": 1,
+    "CLM-0455-5.1-003": 1,
+    "CLM-0455-5.1-004": 1
+   },
+   "authored_hash": "0f5b30d09a33da95d772bcbc68b630fff9bbd2428840c53a42ded26557464b9e"
+  },
+  {
+   "block_id": "5.1.1-b4",
+   "block_type": "limitation",
+   "heading": "What GDP per head may hide",
+   "text": "GDP per head is an average, so where income is spread unevenly the typical household may earn well below it: a mean of N$60 000 can stand beside a majority earning a fraction of that. Output may also include goods that change living standards little, so the health and access indicators travel further than the money figure.",
+   "claim_ids": [
+    "CLM-0455-5.1-004",
+    "CLM-0455-5.1-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.1-004": 1,
+    "CLM-0455-5.1-003": 1
+   },
+   "authored_hash": "73dc228822b3b6da4f8d16914a017f4a5fbb6cf6d597f33f686e45ed38dda661"
+  },
+  {
+   "block_id": "5.1.1-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The national income behind these figures is built in topic 4.1, price changes that distort comparisons belong to topic 4.2, and the sharing of income follows here.",
+   "claim_ids": [
+    "CLM-0455-5.1-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.1-004": 1
+   },
+   "authored_hash": "bd9445ee375b31ba1d1c4ca383f0f9f0674219e164f920135ff6dc6649e5f859"
+  }
+ ],
+ "word_count": 402
+}

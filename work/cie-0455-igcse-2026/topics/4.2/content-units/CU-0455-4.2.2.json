@@ -1,0 +1,107 @@
+{
+ "unit_id": "CU-0455-4.2.2",
+ "title": "Conflicts between the aims",
+ "objective_ids": [
+  "OBJ-0455-4.2.2"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_comparison",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 300,
+  "target": 365,
+  "max": 430
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "4.2.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define a conflict between macroeconomic aims, trace how it arises, and keep a possible cause apart from its consequence.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "445cc80b477b57e51bab1fc321974e7e0f6925927e423a68663cd04fa709ecbf"
+  },
+  {
+   "block_id": "4.2.2-b2",
+   "block_type": "plain_explanation",
+   "heading": "What a conflict of aims is",
+   "text": "A conflict between macroeconomic aims is a situation in which the conditions that serve one aim make another harder to achieve, so pushing towards one destination means moving away from another at the same time. The clearest case runs through how much the whole economy spends. When spending rises quickly across the economy, firms take on more workers and unemployment tends to fall, which serves the jobs aim. Where workplaces are near full, the same pressure tends to push prices up, straining the inflation aim, and part of the extra spending goes abroad on imports, widening a current account deficit. Chasing the growth aim hard in these conditions tends to pull the other aims out of reach.",
+   "claim_ids": [
+    "CLM-0455-4.2-005",
+    "CLM-0455-4.2-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.2-005": 1,
+    "CLM-0455-4.2-006": 1
+   },
+   "authored_hash": "e447b4a1e116da7c793af825bbd8732fd7c046797edb4d0e796e77a41f332dbf"
+  },
+  {
+   "block_id": "4.2.2-b3",
+   "block_type": "worked_application",
+   "heading": "A conflict in numbers",
+   "text": "One year spending across an economy grows fast. Its unemployment rate falls from 16.0% to 13.5%, which moves it towards the jobs aim. Its inflation rate rises from 3.8% to 6.9%, which moves it away from the inflation aim. Spending on imports grows by 9.0% while export earnings grow by 4.0%, so the current account moves towards a bigger deficit. Brazil's boom years showed the same shape: quick growth and low unemployment at first, then faster price rises and strain on the country's external accounts. The government reading these faces a ranking decision: easing the pressure on prices would mean cooling the spending that created the jobs.",
+   "claim_ids": [
+    "CLM-0455-4.2-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.2-006": 1
+   },
+   "authored_hash": "afe2ae8cc38595f400cc09dff0a792ae6ece5e02c8a0f90695fd31c90b9061da"
+  },
+  {
+   "block_id": "4.2.2-b4",
+   "block_type": "misconception",
+   "heading": "Cause or consequence?",
+   "text": "The register of common errors records learners labelling a possible cause as a consequence, or the reverse, when a question asks about conflicts between aims. The boundary runs along the direction of the arrow: a quick rise in spending across the economy can be a cause of faster rises in prices; faster rises in prices are the consequence of it. The test is to ask whether the named item sets the change in motion or follows from it. If a figure or event starts the process, it is a cause; if it results from the process, it is a consequence. A learner who writes that price rises cause spending to grow has reversed a relationship that runs the other way in this analysis.",
+   "claim_ids": [
+    "CLM-0455-4.2-008",
+    "CLM-0455-4.2-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.2-008": 1,
+    "CLM-0455-4.2-006": 1
+   },
+   "authored_hash": "e0b93bdedea08d5467248149889f1c6b66292bec50c66ae83ac3214128d0e7a9"
+  },
+  {
+   "block_id": "4.2.2-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Aims can move together where growth comes from rising productivity rather than spending pressure; the tools a government uses to steer between its aims are examined in topic 4.3, and the aims connect forward to growth in topic 4.6 and jobs in topic 4.7.",
+   "claim_ids": [
+    "CLM-0455-4.2-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.2-007": 1
+   },
+   "authored_hash": "e024094e223453799e8cbe09c2181a499ec6ce853df3bf6d763fd602c6828570"
+  }
+ ],
+ "word_count": 428
+}

@@ -1,0 +1,111 @@
+{
+ "unit_id": "CU-0455-3.2.1",
+ "title": "What shapes a household's spending, saving and borrowing",
+ "objective_ids": [
+  "OBJ-0455-3.2.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 330,
+  "target": 400,
+  "max": 470
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "3.2.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Explain the influences on spending, saving and borrowing - income, the rate of interest and confidence - and why these decisions differ between households and over time.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "703c34a69e5829ba6d46cef59eea5da37fadff875fcefd06807c9c9dcf0d924f"
+  },
+  {
+   "block_id": "3.2.1-b2",
+   "block_type": "definition",
+   "heading": "The three decisions and the income being split",
+   "text": "Spending means using income to buy goods and services now. Saving means the part of disposable income that is not spent, kept to use later. Borrowing means bringing future spending forward: a loan or a credit account supplies the money today, repaid with interest. The income being split is disposable income - what is left after taxes on income are paid, plus any transfer payments such as a pension that the household receives. Each month a household divides this income between spending now, saving for later, and repaying what it borrowed.",
+   "claim_ids": [
+    "CLM-0455-3.2-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.2-001": 1
+   },
+   "authored_hash": "c9736d73ff04b3232c89bed064e9e7c803675d0b23db1b0233d83d442c8d8df1"
+  },
+  {
+   "block_id": "3.2.1-b3",
+   "block_type": "analysis_chain",
+   "heading": "How the three influences work",
+   "text": "Income sets what there is to divide: a household in Katutura earning N$4 000 a month spends it on food, transport and school fees with little left over, while a manager in Windhoek earning N$25 000 usually spends a smaller share and saves the rest, because spending on necessities grows more slowly than income. The rate of interest sets the price of moving spending across time - it is what a lender charges for a loan and what a bank pays on a deposit, not a tax on income. At 3% each N$100 in a deposit earns N$3 a year; at 8% it earns N$8, so a higher rate raises the reward for saving and the cost of borrowing at once, pulling the two decisions in opposite directions. Confidence sets how safe the future feels: a household that expects its jobs and pay to continue spends freely and borrows readily, whereas a household that fears redundancy postpones the big purchases and saves as a precaution.",
+   "claim_ids": [
+    "CLM-0455-3.2-002",
+    "CLM-0455-3.2-003",
+    "CLM-0455-3.2-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.2-002": 1,
+    "CLM-0455-3.2-003": 1,
+    "CLM-0455-3.2-004": 1
+   },
+   "authored_hash": "0b3b84dd0517b1ac54b408c6c66c8b69ae950dfd0fa594bbf730b1324379e86b"
+  },
+  {
+   "block_id": "3.2.1-b4",
+   "block_type": "worked_application",
+   "heading": "Two years in one household",
+   "text": "In 2024 the Nangolo household in Oshakati earned N$6 000 a month and saved N$250. By 2026 pay had risen to N$7 500, interest on savings had risen from 4% to 9%, and the brewery where the second earner works had announced shift cuts, so the household saved N$1 125, which is 15% of income. Each influence did its own work: the pay rise left income to spare; the rate of 9% turned each N$100 saved into N$9 a year; and the shift-cut notice pushed the household toward precautionary saving. In Germany the same mechanics run: a household in Hamburg that expects a factory to close also saves more, even at a low deposit rate, because confidence can outweigh the reward.",
+   "claim_ids": [
+    "CLM-0455-3.2-002",
+    "CLM-0455-3.2-003",
+    "CLM-0455-3.2-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.2-002": 1,
+    "CLM-0455-3.2-003": 1,
+    "CLM-0455-3.2-004": 1
+   },
+   "authored_hash": "271d693b8b2d4ce9805f14b609643944334a80c4e54624812c4ae1f1a3cae531"
+  },
+  {
+   "block_id": "3.2.1-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The deposits households save become the funds banks lend on, which topic 3.1 develops; the income a household divides comes from wages and jobs, which topic 3.3 examines; and household spending adds up to the market demand of topic 2.3.",
+   "claim_ids": [
+    "CLM-0455-3.2-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.2-003": 1
+   },
+   "authored_hash": "39f093244b42a58defb55383e7e60da4b6a92c7bdfd7c9806c307ebafc808968"
+  }
+ ],
+ "word_count": 467
+}

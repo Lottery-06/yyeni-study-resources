@@ -1,0 +1,1150 @@
+{
+ "dataset_id": "ITEMS-0455-IGCSE-2.3",
+ "topic_id": "2.3",
+ "items": [
+  {
+   "item_id": "ITEM-0455-2.3-001-DEF",
+   "objective_ids": [
+    "OBJ-0455-2.3.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.3-001",
+    "CLM-0455-2.3-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Kaoko Juice sells bottled marula juice at the Opuwo market. Define demand as the term applies to the buyers of this juice.",
+   "canonical_answer": "Demand is the quantity of a good that consumers are willing and able to buy at a given price over a period of time. Applied to this market: demand for the juice is the quantity of bottles that buyers at the market are willing and able to buy at each price, over a week. The definition has four parts - willingness to buy, ability to pay, a given price, and a period of time - and the quantity is not pinned down without all four.",
+   "marking_guidance": [
+    "Reward the precise definition of demand: willingness and ability to buy, at a given price, over a period of time.",
+    "The meaning must tie the quantity to a price and a time period; a bare number of bottles is not a definition of demand."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.3-001": 1,
+    "CLM-0455-2.3-002": 1
+   },
+   "authored_hash": "39844980e851a28d843ba36f229661d279bd14248540465afab214aed923c906"
+  },
+  {
+   "item_id": "ITEM-0455-2.3-002-DIAGRAM",
+   "objective_ids": [
+    "OBJ-0455-2.3.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.3-001",
+    "CLM-0455-2.3-002",
+    "CLM-0455-2.3-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "SYNTH",
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype SYNTH",
+   "command_word": "Discuss",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "Otjiwa Dairy sells yoghurt in Otavi at N$12 a tub and sells 300 tubs a week. A plentiful milk season lets it cut the price to N$10 a tub, and sales rise to 380 tubs a week. Discuss how a demand diagram of this market shows what demand means, giving a verbal walk-through of every part of the diagram and what it shows.",
+   "canonical_answer": "Walk through the diagram in words, element by element. First, the axes labelled: price of yoghurt, in N$ per tub, on the vertical axis, and quantity, in tubs a week, on the horizontal axis. Second, the original curves drawn and labelled: a demand curve D for yoghurt, sloping downward from left to right, showing that a lower price brings a larger quantity demanded; the market's supply curve may be drawn in faintly, since it belongs to topic 2.4, to mark where the two sides meet. Third, the shift or movement, in the correct direction: the price cut is a movement along the demand curve, not a shift - from the point at N$12 and 300 tubs down the curve to the point at N$10 and 380 tubs, because the good's own price is what changed. Fourth, the new equilibrium marked and labelled: the point at N$10 and 380 tubs, where the quantity buyers are willing and able to take at the new price meets what the dairy offers. Fifth, what the diagram shows, in words: at every point along D the buyers of Otavi show effective demand - willingness and ability to pay - at that price, so the curve is the definition of demand drawn as a relationship; the movement along it shows quantity demanded responding to price while demand itself is unchanged. The link between the two is that the diagram joins the definition of demand to a picture of the market, and the consequence is that 80 more tubs a week are bought, since 380 - 300 = 80 tubs, because consumers who could not afford N$12 can afford N$10.",
+   "marking_guidance": [
+    "The walk-through must name the axes labelled - price and quantity, each with its units - before anything else.",
+    "Reward the original curves drawn and labelled: the demand curve in place at N$12 and 300 tubs before the change is described.",
+    "Check the shift or movement, in the correct direction: a fall in the good's own price is a movement down an unchanged demand curve, not a shift of it.",
+    "The new equilibrium marked and labelled at the new price and quantity earns its mark, and what the diagram shows, in words, must close the walk-through.",
+    "The link between the definition and its drawn form, and the consequence for buyers - 80 more tubs a week - carry the analysis marks."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.3-001": 1,
+    "CLM-0455-2.3-002": 1,
+    "CLM-0455-2.3-006": 1
+   },
+   "authored_hash": "8bf3e36fa8628cb888be4452af29d31fe56bc08387a4724f124ba527cd10dd76"
+  },
+  {
+   "item_id": "ITEM-0455-2.3-003-INTERP",
+   "objective_ids": [
+    "OBJ-0455-2.3.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.3-001",
+    "CLM-0455-2.3-002",
+    "CLM-0455-2.3-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype INTERP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "A corner cafe in Katutura records four quiet weeks, changing nothing but its bread price. Week 1: N$10 a loaf, 40 loaves bought. Week 2: N$12 a loaf, 32 loaves. Week 3: N$14 a loaf, 26 loaves. Week 4: N$16 a loaf, 20 loaves. Explain what these figures show about the demand for bread at the cafe.",
+   "canonical_answer": "What the data shows: the relationship between the cafe's bread price and the quantity demanded is inverse - each time the price rises, fewer loaves are bought, and no week breaks the pattern. Supporting evidence: the comparison across the four weeks shows the quantity demanded falling from 40 loaves at N$10 to 20 loaves at N$16. Why: at a higher price some customers are no longer able to pay for a loaf, and others switch to other foods, so both willingness and ability thin out as the price climbs. The exception to note: the figures are quantities demanded at single prices - points on a demand schedule - so they show demand as a relationship rather than a change in demand; and the response is uneven across the range, with the same N$2 rise costing 8 loaves at the bottom of the range and 6 loaves at the top.",
+   "marking_guidance": [
+    "What the data shows - the inverse relationship between price and quantity demanded - must be stated first, with supporting evidence taken as a comparison across the four weeks.",
+    "The exception or limit earns a mark: however, the figures are single prices and single quantities, and the response to price is uneven - 8 loaves on the first N$2 rise, 6 loaves on the last.",
+    "The why - an explanation of the relationship, through ability to pay and switching - is worth as much as the reading; quoting the prices alone earns nothing."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.3-001": 1,
+    "CLM-0455-2.3-002": 1,
+    "CLM-0455-2.3-004": 1
+   },
+   "authored_hash": "fd8b291f50b5d043bfbe153c2f9f160be0c43256e9ffc9dbe70646b150ac5e75"
+  },
+  {
+   "item_id": "ITEM-0455-2.3-004-APP",
+   "objective_ids": [
+    "OBJ-0455-2.3.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.3-001",
+    "CLM-0455-2.3-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "Marula Foods sells 240 jars of marula jam a month in Swakopmund at N$35 a jar. A student there wants a jar at N$35 but has N$20 to spend this month. A pensioner could pay N$35 but prefers the shop's own apricot jam at N$18. Explain, using the definition of demand, why the 240 jars sold show demand while the student and the pensioner each fail one part of it.",
+   "canonical_answer": "The context: 240 jars a month are actually bought at N$35, so 240 jars is the quantity demanded at that price in that period - the buyers are both willing and able. The student is willing but not able: N$20 does not cover the N$35 price, so that want stays outside demand. The pensioner is able but not willing: at N$35 the money is there, but the preference points to the apricot jam, so no demand for the marula jar arises from the pensioner either. The reasoning links the two halves of the definition: willingness and ability must be present together at the stated price, over the stated period. The conclusion, therefore, is that demand at N$35 a jar comes from consumers who pass both tests, and the 240 jars measure exactly that group.",
+   "marking_guidance": [
+    "The context - the 240 jars at N$35 - must anchor the answer, and the figures used are the jam's price and the two consumers' positions.",
+    "Reasoning: each consumer must be tested against both halves of the definition, because willingness and ability are separate conditions.",
+    "Conclusion: therefore state what demand at N$35 is - the buyers passing both tests - and what that means for the 240 jars."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.3-001": 1,
+    "CLM-0455-2.3-002": 1
+   },
+   "authored_hash": "49befac0ed4965751a342763402569cb2ec6bad77704f6eef148dc1a42c61a37"
+  },
+  {
+   "item_id": "ITEM-0455-2.3-005-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-2.3.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.3-001",
+    "CLM-0455-2.3-002",
+    "CLM-0455-2.3-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "A bus operator in Windhoek cuts the fare on its Katutura route from N$12 to N$9 a trip. Trips on the route rise from 2 400 to 3 100 a week. Analyse the consequences of the fare cut for the consumers, the operator's workers and the rival minibus operators on the same route, using the concept of demand.",
+   "canonical_answer": "Starting point: the initial change is a fall in the good's own price - the fare - from N$12 to N$9. Mechanism: because the trip is cheaper, more commuters are both willing and able to pay, so the quantity demanded rises from 2 400 to 3 100 trips a week; this is a movement along the demand curve for trips, not a shift, because the fare is the price of the good itself. Consequence for consumers: 700 more trips a week are taken, since 3 100 - 2 400 = 700 trips, so more commuters travel and those on tight budgets gain access to the route. Consequence for the operator's workers: more trips usually mean more driving hours, so the firm may take on extra drivers or shift duties. Consequence for the rival operators: passengers attracted by N$9 may leave their minibuses, and they may respond by cutting fares or re-routing. For whom the effects land: consumers gain cheaper travel, the operator's workers gain hours, and the rival firms lose passengers until they respond.",
+   "marking_guidance": [
+    "Starting point: the initial change - the fare cut from N$12 to N$9 - must be named, and if the answer says the curve shifted, the mechanism mark is lost.",
+    "Mechanism: because the good's own price changed, this causes a movement along the demand curve to a larger quantity demanded.",
+    "Consequence: therefore trace the effect through to consumers, the operator's workers and the rival firms, each named - 700 more trips a week is the evidence.",
+    "For whom: the answer must say for whom each consequence lands - the consumer, the operator's worker, the rival firm."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.3-001": 1,
+    "CLM-0455-2.3-002": 1,
+    "CLM-0455-2.3-006": 1
+   },
+   "authored_hash": "21e2f5ac68f4fb5ca0ab3d93e2ef0a48668ac598b0ee365166074fe56c6ca0e1"
+  },
+  {
+   "item_id": "ITEM-0455-2.3-019-FEATURE",
+   "objective_ids": [
+    "OBJ-0455-2.3.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.3-001",
+    "CLM-0455-2.3-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype FEATURE",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 4,
+   "prompt": "A textbook defines demand in a single sentence. Explain the characteristics a complete definition of demand must contain, and why each part is needed.",
+   "canonical_answer": "A complete definition of demand has four characteristics. Willingness to buy: without the desire for the good there is nothing to count, so a definition that starts with the quantity must carry the willingness with it. Ability to pay: willingness alone is not demand, because a consumer who cannot pay stays outside the market, which is why demand is called effective. A given price: the quantity demanded depends on the price, so the definition must pin the quantity to a price - 40 bottles at N$10 says something that 40 bottles alone does not. A period of time: quantities are rates, bought over a week or a month, so a number without a period has no meaning. The good itself must be named too, because demand is defined for one product at a time.",
+   "marking_guidance": [
+    "Reward the elements: willingness, ability to pay, a given price, a period of time - and what it includes for each, the reason the definition breaks without it.",
+    "One mark per characteristic, up to four: each part of the definition with its purpose."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.3-001": 1,
+    "CLM-0455-2.3-002": 1
+   },
+   "authored_hash": "f405c202f3dc1ee99b62cb81db0e4112c93edbfd8d5826e63e522e092ab53df6"
+  },
+  {
+   "item_id": "ITEM-0455-2.3-006-DEF",
+   "objective_ids": [
+    "OBJ-0455-2.3.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.3-004",
+    "CLM-0455-2.3-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Namib Signs sells printed banners in Windhoek. Each week it lists one price and records the number of banners bought at that price. Define quantity demanded as the term applies to these banner sales.",
+   "canonical_answer": "Quantity demanded is the specific amount of a good that consumers are willing and able to buy at one particular price over a period of time. For the banner sales, it is the number of banners bought in a week at the listed price - a single figure at a single price. It differs from demand, which is the whole relationship: the full set of quantities demanded at every price the firm might charge.",
+   "marking_guidance": [
+    "Reward the precise definition: the amount consumers are willing and able to buy at one particular price over a period of time.",
+    "The meaning must tie the quantity to a single price; a definition of demand instead of quantity demanded earns nothing."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.3-004": 1,
+    "CLM-0455-2.3-006": 1
+   },
+   "authored_hash": "f3c481e94f56e8548c95be5b61060a4b3d83613fcf559658760bab731c7e9c3d"
+  },
+  {
+   "item_id": "ITEM-0455-2.3-007-DIAGRAM",
+   "objective_ids": [
+    "OBJ-0455-2.3.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.3-004",
+    "CLM-0455-2.3-005",
+    "CLM-0455-2.3-006",
+    "CLM-0455-2.3-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "SYNTH",
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype SYNTH",
+   "command_word": "Discuss",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "A poor marula harvest pushes Kaoko Juice to raise the price of a bottle in Opuwo from N$10 to N$14. The quantity demanded falls from 500 bottles a week to 380 bottles a week. Discuss how a demand diagram of the juice market shows the effect of this price rise, giving a verbal walk-through of every part of the diagram and what it shows.",
+   "canonical_answer": "Walk through the diagram in words, element by element. The axes labelled first: the price of a bottle, in N$, on the vertical axis, and the quantity of bottles a week on the horizontal axis. The original curves drawn and labelled: the demand curve D, sloping downward from left to right, fixed through the starting point at N$10 and 500 bottles. The shift or movement, in the correct direction: the price rise sends the market up along the same demand curve - up and to the left - from N$10 and 500 bottles to N$14 and 380 bottles; the curve does not shift, because the change came from the good's own price, and quantity demanded, a point on the curve, is what changed. The new equilibrium marked and labelled: the point at N$14 and 380 bottles, where the quantity buyers are now willing and able to take meets the smaller quantity the poor harvest allows the firm to offer. What the diagram shows, in words: at every price along D, Opuwo's buyers reveal how much they are willing and able to pay for, and the climb up the curve shows the inverse relationship - a higher price, a smaller quantity demanded, 120 fewer bottles a week, since 500 - 380 = 120 bottles. The link between the good's price and its quantity demanded is the whole curve, and the consequence of the movement is fewer bottles sold and fewer buyers served at the higher price.",
+   "marking_guidance": [
+    "The walk-through must begin with the axes labelled - price in N$ on the vertical axis, quantity in bottles a week on the horizontal.",
+    "The original curves drawn and labelled come next: demand in place at N$10 and 500 bottles before the change is described.",
+    "The shift or movement, in the correct direction: a rise in the good's own price is a movement up the same demand curve, not a shift of it.",
+    "The new equilibrium marked and labelled at N$14 and 380 bottles, and what the diagram shows, in words - the inverse relationship - close the walk-through.",
+    "The link between the good's price and its quantity demanded, and the consequence - 120 fewer bottles a week - carry the analysis marks."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.3-004": 1,
+    "CLM-0455-2.3-005": 1,
+    "CLM-0455-2.3-006": 1,
+    "CLM-0455-2.3-007": 1
+   },
+   "authored_hash": "a48c34645d45e8f96cfc63426041c34c9c28e116c632f1ee874e800971b2c1a3"
+  },
+  {
+   "item_id": "ITEM-0455-2.3-008-INTERP",
+   "objective_ids": [
+    "OBJ-0455-2.3.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.3-004",
+    "CLM-0455-2.3-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype INTERP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "A weekend craft market in Windhoek tries two prices for the same woven baskets over two quiet weekends, with the same sellers and the same shoppers about. At N$60 a basket, 90 baskets are sold; at N$45 a basket, 130 baskets are sold. Explain what these figures show about the relationship between the price of a basket and the quantity demanded.",
+   "canonical_answer": "What the data shows: the relationship is inverse - the lower price of N$45 goes with the larger quantity of 130 baskets, and the higher price of N$60 with the smaller quantity of 90. Supporting evidence: the comparison across the two weekends shows 40 more baskets sold at the N$15 lower price, since 130 - 90 = 40 baskets. Why: at N$60 some shoppers are unwilling to spend that much and others are unable, so they go home without a basket; at N$45 enough of them return, because both the willingness and the ability to pay rise as the price falls. The exception to weigh: with two prices and two quiet weekends, the figures show a movement along an unchanged demand curve - quantity demanded changing - rather than a change in demand itself, and two observations cannot rule out small shifts in the crowd between the weekends.",
+   "marking_guidance": [
+    "What the data shows - the inverse relationship between price and quantity demanded - stated first, with the supporting evidence as a comparison of the two weekends.",
+    "The exception or caution earns a mark: however, two observations show a movement along the curve, and other influences between weekends cannot be ruled out.",
+    "The why - the explanation of the relationship, through willingness and ability - is worth as much as the reading; quoting the prices is not interpretation."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.3-004": 1,
+    "CLM-0455-2.3-006": 1
+   },
+   "authored_hash": "c8ee3432fa61ad9529dbc8d8a2f4c095d2ab193c3ae5b22b77d267ebbeef3e12"
+  },
+  {
+   "item_id": "ITEM-0455-2.3-009-APP",
+   "objective_ids": [
+    "OBJ-0455-2.3.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.3-004",
+    "CLM-0455-2.3-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "Oshakati Textiles raises the price of a school shirt from N$85 to N$105. The quantity demanded at its Oshakati shop falls from 220 shirts a month to 150 shirts. Explain, for this market, what happened to demand for the shirts and what happened to quantity demanded, using the figures.",
+   "canonical_answer": "The context: the change came from the shirt's own price, rising from N$85 to N$105. The reasoning: because the own price changed, the market moved along the demand curve - quantity demanded fell from 220 shirts to 150 shirts a month, a fall of 70 shirts, since 220 - 150 = 70 shirts. Demand itself - the whole relationship between price and quantity - has not shifted, because no condition of demand is reported to have changed: buyers' incomes, tastes and the prices of other shirts are as they were. The conclusion: therefore demand for the shirts is unchanged, and it is quantity demanded that fell, as buyers who cannot or will not pay N$105 step back; those buyers are still part of the demand for shirts at lower prices.",
+   "marking_guidance": [
+    "The context - a change in the good's own price - must anchor the answer, and the figures are the evidence.",
+    "Reasoning: because the own price changed, the link is a movement along an unchanged demand curve, not a shift of it.",
+    "Conclusion: therefore the answer must separate demand from quantity demanded - demand unchanged, quantity demanded down 70 shirts a month."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.3-004": 1,
+    "CLM-0455-2.3-006": 1
+   },
+   "authored_hash": "d592a1300a692c945581d7b1589645f6f5a364bbb73603534f0800ffb6910aa7"
+  },
+  {
+   "item_id": "ITEM-0455-2.3-010-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-2.3.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.3-004",
+    "CLM-0455-2.3-006",
+    "CLM-0455-2.3-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "A poor catch pushes the price of fresh fish at the Oshakati weekend market from N$40 to N$55 a kilo, and the quantity demanded falls from 300 kilos to 210 kilos a week. Analyse the consequences of this price rise for the shoppers at the market, the fish sellers and the traders in chicken next door, using the relationship between price and quantity demanded.",
+   "canonical_answer": "Starting point: the initial change is a rise in the good's own price, from N$40 to N$55 a kilo, with the quantity demanded falling from 300 kilos to 210 kilos a week. Mechanism: because the price is higher, some shoppers are no longer able to pay N$55 and others are no longer willing, so the market moves up along an unchanged demand curve, and 90 kilos a week fewer are sold, since 300 - 210 = 90 kilos. Consequence for shoppers: households buy less fish, and those that still buy pay more for each kilo; some shoppers shift towards chicken. Consequence for the fish sellers: each kilo earns more, but 90 fewer kilos a week leave the stall, so the weekend's takings depend on which effect is bigger. Consequence for the chicken traders: demand for their good tends to rise as shoppers substitute away from fish, so their stalls usually get busier. For whom: shoppers lose fish or money, fish sellers trade price against volume, and chicken traders gain from the switch.",
+   "marking_guidance": [
+    "Starting point: the initial change - the price rise from N$40 to N$55 - must be named first, with the quantities attached.",
+    "Mechanism: because the good's own price rose, this causes a movement along the demand curve, not a shift of it.",
+    "Consequence: therefore each group - the shoppers, the fish sellers, the chicken traders - needs its own traced outcome; 90 kilos a week is the evidence.",
+    "For whom: name for whom each consequence lands - the shopper, the fish seller, the rival trader."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.3-004": 1,
+    "CLM-0455-2.3-006": 1,
+    "CLM-0455-2.3-013": 1
+   },
+   "authored_hash": "f7b4ebc3df63900e20363971cd5741f68077a6628fcf28946766b63afc2521d9"
+  },
+  {
+   "item_id": "ITEM-0455-2.3-020-FEATURE",
+   "objective_ids": [
+    "OBJ-0455-2.3.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.3-004",
+    "CLM-0455-2.3-005",
+    "CLM-0455-2.3-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype FEATURE",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 4,
+   "prompt": "A demand curve is drawn for a good. Explain the features of the curve and what each feature tells the reader.",
+   "canonical_answer": "A demand curve has four features. Its axes: the price of the good on the vertical axis and the quantity on the horizontal axis, each labelled with its units - and this labelling is what lets the reader move from one point to the next without reversing the story. Its slope: downward from left to right, which tells the reader that a lower price tends to go with a larger quantity demanded. Its position: the whole curve sits where the conditions of demand have put it, so the reader can see the quantity demanded at each possible price, not just today's. Its points: each single point is a quantity demanded at one price - the curve as a whole is demand, and the reader moves along it when the good's own price changes.",
+   "marking_guidance": [
+    "Reward the characteristics: the two labelled axes, the downward slope, the position of the whole curve, and the reading of a single point - what it includes for each.",
+    "One mark per feature, up to four: each must say what the feature tells the reader, not just name it."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.3-004": 1,
+    "CLM-0455-2.3-005": 1,
+    "CLM-0455-2.3-007": 1
+   },
+   "authored_hash": "765e568ee918f63858deca30ae232580eb02fe9f3e51a23ebfc2d3cb2da6651e"
+  },
+  {
+   "item_id": "ITEM-0455-2.3-011-DEF",
+   "objective_ids": [
+    "OBJ-0455-2.3.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.3-008",
+    "CLM-0455-2.3-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Milk is sold to households across Oshakati. Define individual demand and market demand for this milk.",
+   "canonical_answer": "Individual demand is the quantity of milk that one household is willing and able to buy at each price, over a period of time. Market demand is the quantity of milk that all the households in Oshakati together are willing and able to buy at each price. The second is built from the first by adding every household's quantity demanded at each price, price by price.",
+   "marking_guidance": [
+    "Reward the precise definitions of both terms: one consumer's quantity at each price, then all consumers together at each price.",
+    "The meaning of market demand must be the sum across consumers at each price, not the sum of one household's quantities across prices."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.3-008": 1,
+    "CLM-0455-2.3-009": 1
+   },
+   "authored_hash": "60c27e58cc31510788c63c4e7e7f7818d9ccd549264955aa5344501629d2f685"
+  },
+  {
+   "item_id": "ITEM-0455-2.3-012-WHY",
+   "objective_ids": [
+    "OBJ-0455-2.3.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.3-008",
+    "CLM-0455-2.3-009",
+    "CLM-0455-2.3-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "subtype WHY",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 2,
+   "prompt": "A milk depot in Oshakati wants to know the demand for milk in the whole town. Explain why the depot must add the quantities demanded by separate households at each price, rather than in any other way.",
+   "canonical_answer": "The reason is that demand is defined at a price: individual demand tells the depot how much one household buys at N$10 a litre, and another household's demand tells it how much a second household buys at that same N$10. The market quantity at N$10 - the total the town is likely to take at that price - is reached by adding across households at that one price. Adding a single household's quantities across different prices would answer a different question: how much that one household buys as the price varies. Because each household's demand is a relationship between price and quantity, the market relationship has to be built price by price, holding the price fixed while the households are added.",
+   "marking_guidance": [
+    "Reward the reason: quantities demanded are defined at a price, so the addition runs across consumers at one price, not across prices for one consumer.",
+    "The purpose - the market quantity the depot can expect at each price - should be named, because it explains why the sum is taken at each price."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.3-008": 1,
+    "CLM-0455-2.3-009": 1,
+    "CLM-0455-2.3-010": 1
+   },
+   "authored_hash": "4f2e0c769d1bb2bbefb52a6eda318f1b389e636ac215fe6cedbbd1906daaf24d"
+  },
+  {
+   "item_id": "ITEM-0455-2.3-013-APP",
+   "objective_ids": [
+    "OBJ-0455-2.3.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.3-008",
+    "CLM-0455-2.3-009",
+    "CLM-0455-2.3-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 2,
+   "prompt": "At N$10 a litre, the Tshikuwi household buys 4 litres of milk a week in Oshakati, the Angula household buys 6 litres, and the remaining households of the town together buy 90 litres. In a trial week at N$8 a litre, the Tshikuwi household bought 5 litres, the Angula household 7 litres, and the rest of the town 111 litres. Explain what the depot can work out about market demand in Oshakati from these figures.",
+   "canonical_answer": "The context: at N$10 a litre the two named households together buy 4 + 6 = 10 litres a week, and adding the rest of the town gives 10 + 90 = 100 litres a week of market demand. At N$8, the same working gives 5 + 7 = 12 litres, then 12 + 111 = 123 litres a week. The reasoning: because market demand is built by adding every household's quantity at one price, the depot now holds two points on the town's market demand schedule - 100 litres at N$10 and 123 litres at N$8 - and every named household bought more at the lower price, so each individual demand slopes downward as well. The conclusion: therefore the market demand curve for milk in Oshakati slopes downward through these two points, and the depot can expect a larger quantity demanded at N$8 than at N$10.",
+   "marking_guidance": [
+    "The context - the figures at both prices - must be used, and the working shown step by step.",
+    "Reasoning: because market demand adds households at each single price, the link from the household figures to the market schedule must be made explicit.",
+    "Conclusion: therefore the town's market demand at N$10 and at N$8, and the direction of the curve through them, must be stated."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.3-008": 1,
+    "CLM-0455-2.3-009": 1,
+    "CLM-0455-2.3-010": 1
+   },
+   "authored_hash": "49ce0ec9ae35035aa056117d371f0228868d3467da065fa5e57f8cf8df29249c"
+  },
+  {
+   "item_id": "ITEM-0455-2.3-014-DEF",
+   "objective_ids": [
+    "OBJ-0455-2.3.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.3-011",
+    "CLM-0455-2.3-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A firm's price has not changed, yet the quantity it sells each week has changed. Define the conditions of demand, the influences that could explain this.",
+   "canonical_answer": "The conditions of demand are the influences on demand other than the good's own price: consumers' incomes; the prices of related goods, substitutes and complements; consumers' tastes and preferences; expectations of future prices; and the number of consumers in the market. A change in a condition shifts the whole demand curve, so that at an unchanged price a different quantity is bought - which is what the firm has seen.",
+   "marking_guidance": [
+    "Reward the precise definition: the influences other than the good's own price, with at least three named - income, related goods' prices, tastes, expectations, the number of consumers.",
+    "The meaning must leave the good's own price out; a definition that includes it earns nothing."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.3-011": 1,
+    "CLM-0455-2.3-012": 1
+   },
+   "authored_hash": "c0ee3d9e199ee923d235df16d1b9b6e02bef4e59d0b26ef7748a128b345b2cae"
+  },
+  {
+   "item_id": "ITEM-0455-2.3-015-DIAGRAM",
+   "objective_ids": [
+    "OBJ-0455-2.3.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.3-011",
+    "CLM-0455-2.3-012",
+    "CLM-0455-2.3-014"
+   ],
+   "item_type": "flashcard",
+   "subtype": "SYNTH",
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype SYNTH",
+   "command_word": "Discuss",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "A travel magazine names the Etosha area the region's top destination. At N$900 a night, Etosha Gate Lodge faced demand for 40 rooms a weekend; after the article, the same N$900 price brings demand for 60 rooms. Discuss how a demand diagram for lodge rooms shows what changed, giving a verbal walk-through of every part of the diagram and what it shows.",
+   "canonical_answer": "Walk through the diagram in words, element by element. The axes labelled: the price of a room, in N$ a night, on the vertical axis, and the quantity of rooms a weekend on the horizontal axis. The original curves drawn and labelled: the demand curve D1 as it stood before the article, sloping downward through the point at N$900 and 40 rooms. The shift or movement, in the correct direction: this is a shift of the whole curve to the right, from D1 to a new curve D2, because a condition of demand - tastes, sharpened by the magazine's praise - changed while the room price did not; at every price more rooms are demanded, and at the unchanged N$900 the quantity demanded rises from 40 to 60 rooms. No movement along the curve is part of the story, because the price has not moved. The new equilibrium marked and labelled: where D2 crosses the market's supply of rooms, at a price above N$900 and a quantity above 40 rooms - the room price rises with demand, a mechanism topic 2.5 develops. What the diagram shows, in words: demand for rooms has risen - 20 more rooms demanded at the same price, since 60 - 40 = 20 rooms - so the increase came from the condition that changed, not from the price. The link between the condition and the curve is the shift, and the consequence is a larger quantity demanded at every price, with upward pressure on room prices.",
+   "marking_guidance": [
+    "The walk-through must name the axes labelled - room price in N$ on the vertical axis, rooms a weekend on the horizontal.",
+    "The original curves drawn and labelled: D1 in place at N$900 and 40 rooms before the change.",
+    "The shift or movement, in the correct direction: a change in tastes with price unchanged is a rightward shift of the demand curve, not a movement along it.",
+    "The new equilibrium marked and labelled where the new curve crosses the supply of rooms, and what the diagram shows, in words - demand itself has risen.",
+    "The link between the condition that changed and the shift, and the consequence - more rooms demanded at every price - carry the analysis marks."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.3-011": 1,
+    "CLM-0455-2.3-012": 1,
+    "CLM-0455-2.3-014": 1
+   },
+   "authored_hash": "926c63c68912ac25fc32c958ddbe1a6ee78f1d9ac05a8e402c7c347793d2fd9c"
+  },
+  {
+   "item_id": "ITEM-0455-2.3-016-INTERP",
+   "objective_ids": [
+    "OBJ-0455-2.3.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.3-012",
+    "CLM-0455-2.3-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype INTERP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "A stall at the Walvis Bay Friday market records two months for its fried fish packs. Month 1: price N$25 a pack, 400 packs sold, no rival stall nearby. Month 2: a rival opens selling similar packs at N$18; the stall keeps its price at N$25 and sells 340 packs. Explain what the figures suggest about the demand for the stall's packs.",
+   "canonical_answer": "What the data shows: at an unchanged price of N$25, the quantity sold falls from 400 packs to 340, so the relationship that changed is not the stall's own price but a condition of demand. Supporting evidence: the comparison between the months is the rival's arrival at N$18 - a cheaper substitute - beside the stall's unchanged N$25, with 60 fewer packs sold, since 400 - 340 = 60 packs. Why: substitutes replace one another in use, so the opening of a cheaper rival tends to shift the demand curve for the stall's packs to the left - at every price, some customers have carried their willingness across to the rival. The exception to weigh: other conditions may also have changed between the months - weather, incomes, Friday crowds - and two observations cannot separate the rival's effect from those; but with the stall's own price constant, the figures point to a fall in demand rather than a fall in quantity demanded.",
+   "marking_guidance": [
+    "What the data shows - the stall's own price unchanged, quantity down - must be read first, with supporting evidence taken as the comparison of the two months.",
+    "The exception or alternative explanation earns a mark: however, two months cannot separate the rival's effect from other changing conditions.",
+    "The why - an explanation of the relationship, through substitutes shifting demand to the left - is the core mark; stating the numbers alone is not."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.3-012": 1,
+    "CLM-0455-2.3-013": 1
+   },
+   "authored_hash": "f7f341b2564403af7027bb054762237a3a589aa94453058c3dcec9e9b1f385e2"
+  },
+  {
+   "item_id": "ITEM-0455-2.3-017-APP",
+   "objective_ids": [
+    "OBJ-0455-2.3.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.3-011",
+    "CLM-0455-2.3-012",
+    "CLM-0455-2.3-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "Kaoko Juice keeps the price of a bottle at N$10 all year. Incomes in Opuwo rise by 6% over the same year, and its weekly sales rise from 300 bottles to 390 bottles. Explain, for this market, what most likely changed and how the demand diagram would look different by the end of the year.",
+   "canonical_answer": "The context: the good's own price is fixed at N$10, and the quantity sold rises from 300 to 390 bottles a week. The reasoning: because the own price has not moved, the market cannot have travelled along its demand curve; the change must be a shift, and the condition that changed is consumers' incomes, up 6%, since higher incomes tend to raise the ability to pay at each price. The data of the diagram by year end: the demand curve has shifted to the right, so that at the unchanged N$10 the quantity demanded is 390 bottles a week instead of 300, an increase of 90 bottles, since 390 - 300 = 90 bottles. The conclusion: therefore demand for the juice rose over the year - a shift of the whole curve - and quantity demanded rose with it at the fixed price, because the movement came from a condition of demand, not from price.",
+   "marking_guidance": [
+    "The context - a fixed own price and rising sales - must anchor the answer; the figures are the evidence.",
+    "Reasoning: because price is constant, the link is a shift of the demand curve caused by the income change, a condition of demand.",
+    "Conclusion: therefore state that demand rose - the curve to the right, 90 more bottles at the unchanged N$10 - and what that means: quantity demanded rose at the fixed price."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.3-011": 1,
+    "CLM-0455-2.3-012": 1,
+    "CLM-0455-2.3-013": 1
+   },
+   "authored_hash": "abc96a13aba4ae1b7103d8efbb95a6719e8574e9c4cf7c17185f7406d0cfeefe"
+  },
+  {
+   "item_id": "ITEM-0455-2.3-018-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-2.3.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.3-011",
+    "CLM-0455-2.3-012",
+    "CLM-0455-2.3-014"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "A heat wave settles on Windhoek for a month. At the unchanged price of N$6 a bottle, the quantity of bottled water demanded at a Katutura supermarket rises from 500 to 800 bottles a week, and the supermarket orders more fridge space. Analyse the consequences for the supermarket's customers, its suppliers and the rival sellers of cold drinks, using the conditions of demand.",
+   "canonical_answer": "Starting point: the initial change is a condition of demand - tastes and the wish for cold drinks in a heat wave - with the good's own price fixed at N$6. Mechanism: because a condition of demand changed while the price did not, the whole demand curve for bottled water shifts to the right, and this causes the quantity demanded at N$6 to rise from 500 to 800 bottles a week, an increase of 300 bottles, since 800 - 500 = 300 bottles. Consequence for customers: more bottles are on the shelves and the extra fridge space makes them easier to find; if the wave goes on, shoppers may face a higher price as the market tightens, a mechanism topic 2.5 takes up. Consequence for suppliers: the supermarket orders more stock, so its suppliers receive larger weekly orders and run their bottling lines harder. Consequence for the rival sellers of cold drinks: demand for their goods tends to shift right too, since the heat raises the taste for anything cold. For whom the effects land: customers gain supply but risk higher prices, suppliers gain orders, and the rivals share the same rising demand.",
+   "marking_guidance": [
+    "Starting point: the initial change - a condition of demand, the heat wave, with the price fixed - must be named first.",
+    "Mechanism: because a condition changed and the price did not, this causes a rightward shift of the demand curve, raising quantity demanded at the unchanged price.",
+    "Consequence: therefore trace each named party - the customers, the suppliers, the rival sellers - through to its outcome; 300 bottles a week is the evidence.",
+    "For whom: the consumer, the supplier and the rival firm must each be named as the party each consequence lands on."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.3-011": 1,
+    "CLM-0455-2.3-012": 1,
+    "CLM-0455-2.3-014": 1
+   },
+   "authored_hash": "ee76e47fdf0eaba21ce63c8adebcbe509f9219460e13bdd8501cf09f67f517a1"
+  },
+  {
+   "item_id": "ITEM-0455-2.3-P01",
+   "objective_ids": [
+    "OBJ-0455-2.3.1",
+    "OBJ-0455-2.3.2",
+    "OBJ-0455-2.3.3",
+    "OBJ-0455-2.3.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.3-001",
+    "CLM-0455-2.3-002",
+    "CLM-0455-2.3-004",
+    "CLM-0455-2.3-006",
+    "CLM-0455-2.3-008",
+    "CLM-0455-2.3-009",
+    "CLM-0455-2.3-011",
+    "CLM-0455-2.3-013"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "performance task type multiple_choice_set",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 3,
+   "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. Which best defines demand?\nA  the amount consumers want, whether or not they can pay\nB  the quantity consumers are willing and able to buy at a given price over a period of time\nC  the quantity sellers are willing and able to offer at each price\nD  the amount bought at any price over any length of time\n\n2. A learner in Windhoek wants a N$35 jar of jam but has N$20 to spend. The learner's want:\nA  is demand, because willingness is what counts\nB  is not demand, because the ability to pay is missing\nC  is supply, because money is offered for the jar\nD  becomes demand once the shop sells out of jars\n\n3. As the price of a good falls, the quantity demanded tends to:\nA  rise, because more consumers can pay and more are willing\nB  fall, because cheaper goods lose their appeal\nC  stay constant, because demand is a fixed number\nD  turn into a shift of the demand curve\n\n4. On a demand diagram, price and quantity are placed:\nA  price on the horizontal axis, quantity on the vertical\nB  price on the vertical axis, quantity on the horizontal\nC  price and quantity together on one axis\nD  wherever suits the person drawing it\n\n5. The price of a good changes. The demand diagram shows:\nA  a shift of the whole curve to the right\nB  a movement along the curve\nC  a shift of the whole curve to the left\nD  no change of any kind\n\n6. Market demand at N$10 a litre is found by:\nA  adding every consumer's quantity demanded at N$10\nB  adding one consumer's quantities across all the prices\nC  taking the largest individual demand as the market total\nD  averaging the individual demands at N$10\n\n7. The price of good X rises and demand for good Y rises with it. X and Y are most likely:\nA  complements\nB  substitutes\nC  unrelated goods\nD  the same good under two names\n\n8. Which is a condition of demand?\nA  the good's own price\nB  consumers' incomes\nC  the cost of producing the good\nD  the quantity sold last week",
+   "canonical_answer": "Key: 1 B, 2 B, 3 A, 4 B, 5 B, 6 A, 7 B, 8 B.\n1. B is the definition - willing and able, at a price, over time. A counts a want as demand and misses the ability to pay; C describes supply, the selling side; D drops the price and the period that pin the quantity down.\n2. B: willingness without the ability to pay is a want, not demand. A lets willingness stand alone; C mistakes the buying side for the selling side; D confuses demand with a sell-out, which is about quantity available.\n3. A is the inverse relationship at work. B inverts the relationship; C treats demand as a single fixed number rather than a relationship; D confuses a change in quantity demanded with a change in demand.\n4. B is the labelling that makes the downward slope readable. A is the exact mix-up of price and quantity on the axes; C and D leave the diagram unreadable.\n5. B: the good's own price moves the market along the curve. A and C confuse a movement with a shift, which is caused by a condition of demand; D denies the change the question states.\n6. A adds across consumers at one price, which is what market demand means. B adds across prices for one consumer, a different question; C drops the smaller buyers; D averages instead of adding, understating the market.\n7. B: substitutes - a dearer one pushes buyers towards the other. A reverses the relationship, since complements are used together and a dearer complement lowers demand for its partner; C ignores the linkage the question states; D mistakes two related goods for one good.\n8. B: income is an influence other than the good's own price, so it shifts the curve. A is the price that moves the market along the curve; C belongs to the supply side; D is an outcome of demand, not an influence on it.",
+   "marking_guidance": [
+    "Key: one mark per question, eight in total; the correct option for each is listed and every distractor is explained as the specific misunderstanding it catches.",
+    "Each distractor traces to a named error: a want counted as demand, supply confused with demand, movement confused with shift, addition across prices confused with addition across consumers, substitutes confused with complements, and an outcome confused with a condition."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.3-001": 1,
+    "CLM-0455-2.3-002": 1,
+    "CLM-0455-2.3-004": 1,
+    "CLM-0455-2.3-006": 1,
+    "CLM-0455-2.3-008": 1,
+    "CLM-0455-2.3-009": 1,
+    "CLM-0455-2.3-011": 1,
+    "CLM-0455-2.3-013": 1
+   },
+   "authored_hash": "0b3ca2c71e33956859cf77ea8403acc0558a4c9e0e8f42ba6ef583cd20c49b1a"
+  },
+  {
+   "item_id": "ITEM-0455-2.3-P02",
+   "objective_ids": [
+    "OBJ-0455-2.3.2",
+    "OBJ-0455-2.3.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.3-004",
+    "CLM-0455-2.3-006",
+    "CLM-0455-2.3-011",
+    "CLM-0455-2.3-012"
+   ],
+   "item_type": "data_response",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type data_response",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "A radio report from Windhoek, October 2026: \"Reconditioned bicycles are the Okuryangavo market's fastest trade. Traders sold 1 500 bicycles last year at N$450 each; this year the price is N$520 and they have sold 1 800. The traders credit the city's new commuter cycle lane and pay rises at the timber yards. An importer warns that a N$30 levy on each imported frame arrives next year.\"\n\nTable 1 - Okuryangavo bicycles\n  price per bicycle: N$450 last year, N$520 this year\n  bicycles sold: 1 500 last year, 1 800 this year\n  commuter cycle lane: closed last year, open this year\n  timber yard pay: unchanged last year, up 6% this year\n  levy on imported frames: none this year, N$30 next year\n\n(a) Calculate the rise in the number of bicycles sold. [1]\n(b) Identify from Table 1 one condition of demand for bicycles that changed between the two years. [2]\n(c) Explain why the quantity of bicycles sold rose even though the price rose. [4]\n(d) Analyse what the figures suggest about the market for bicycles next year, for the traders, their customers and the importers. [6]",
+   "canonical_answer": "(a) 1 800 - 1 500 = 300 bicycles.\n(b) Either the opening of the commuter cycle lane (tastes and preferences turning towards cycling) or the 6% rise in timber yard pay (consumers' incomes). Both are conditions of demand: influences other than the bicycle's own price.\n(c) A higher price with a higher quantity sold cannot come from a movement along an unchanged demand curve, because along the curve a higher price means a smaller quantity demanded. What fits the figures is a rightward shift of the demand curve: a condition of demand changed - incomes rose and the cycle lane opened - so at every price, including N$520, more bicycles were demanded. The price and the sales rose together because the shift moved the whole curve across the year; the price rise is what the market did as demand rose, not what drove the extra sales.\n(d) Expected relationship: demand has shifted right, so more is sold even at higher prices. Evidence: 1 800 bicycles sold at N$520 this year against 1 500 at N$450 last year, with the cycle lane open and timber yard pay up 6%. Analysis: for the traders, more customers at every price means larger orders and busier stalls; for customers, the N$70 higher price - since 520 - 450 = N$70 - takes back part of the gain, and buyers on tight budgets may switch to walking or the bus. Next year the N$30 levy raises the cost of imported frames, so the market price may rise again; along the shifted demand curve a higher price tends to reduce the quantity demanded, so traders may sell fewer even while demand is higher. Exception: however, if yard pay keeps rising, the demand curve may shift right again and offset the levy's price effect; and the cycle-lane boost may fade as the lane stops being news.",
+   "marking_guidance": [
+    "Parts (a) and (b) are read from the data; the six-mark part must use the figures as evidence - the 300-bicycle rise, the N$70 price rise, the 6% pay rise, the lane - not as analysis itself.",
+    "One mark per distinct linked statement in (c): the shift of demand against the movement along the curve is the distinction that carries the marks.",
+    "Part (d) is marked on expected relationship, then evidence, then analysis, then an exception; quoting figures without the relationship they support earns nothing.",
+    "For whom: consequences must be named for the traders, the customers and the importers, and the levy treated with its direction - the cost of frames rising - and its likely effect on the market price."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": [
+     "bicycles sold last year 1 500",
+     "price last year N$450",
+     "bicycles sold this year 1 800",
+     "price this year N$520",
+     "timber yard pay up 6%",
+     "levy on imported frames N$30 next year"
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.3-004": 1,
+    "CLM-0455-2.3-006": 1,
+    "CLM-0455-2.3-011": 1,
+    "CLM-0455-2.3-012": 1
+   },
+   "authored_hash": "d525b4cc5d5ae0ff43a0d5c6b3e82e93bcbd1a25d198b1e8fbda251f0234d8dc"
+  },
+  {
+   "item_id": "ITEM-0455-2.3-P03",
+   "objective_ids": [
+    "OBJ-0455-2.3.1",
+    "OBJ-0455-2.3.2",
+    "OBJ-0455-2.3.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.3-001",
+    "CLM-0455-2.3-002",
+    "CLM-0455-2.3-004",
+    "CLM-0455-2.3-006",
+    "CLM-0455-2.3-011",
+    "CLM-0455-2.3-012"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type short_answer",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "Oshakati households buy milk from one depot. Answer all parts.\n\n(a) Define demand. [2]\n(b) Explain the difference between demand and quantity demanded. [4]\n(c) At an unchanged price of N$10 a litre, the depot's weekly sales rise from 1 000 to 1 300 litres as incomes in Oshakati rise. Analyse what this change means for the depot and its customers. [6]\n(d) Discuss whether a shop can increase the amount consumers buy merely by cutting its prices. [8]",
+   "canonical_answer": "(a) Demand is the quantity of a good that consumers are willing and able to buy at a given price over a period of time.\n(b) Demand is the whole relationship between price and quantity: the full set of quantities consumers are willing and able to buy at each price. Quantity demanded is the single amount bought at one particular price. When the good's own price changes, quantity demanded changes and the market moves along the demand curve, while demand - the relationship - stays as it was. When a condition of demand changes, the whole curve shifts, and quantity demanded changes at an unchanged price. The test is whether the good's own price changed.\n(c) Starting point: the initial change is a condition of demand - consumers' incomes - with the price fixed at N$10. Mechanism: because a condition changed while the price did not, the demand curve for milk shifts to the right, and this causes the quantity demanded at N$10 to rise from 1 000 to 1 300 litres a week, an increase of 300 litres, since 1 300 - 1 000 = 300 litres. Consequence for the depot: it sells 300 more litres a week at the same price, so it orders more stock from its suppliers and may need more chilling capacity and staff hours. Consequence for customers: more milk is bought at an unchanged price, so households that could not afford milk every week at N$10 are not the explanation - rather, higher incomes let more of them pay. Exception: if the depot responds later by raising the price, quantity demanded will tend to ease along the new curve; and some households may switch to other goods as their incomes rise, so the shift is not uniform across the town.\n(d) The case for: the relationship between price and quantity demanded is inverse, so a lower price tends to raise the quantity demanded - a movement along an unchanged demand curve - and more consumers are both willing and able to buy, so the shop sells more. The case against: a price cut changes quantity demanded, not demand; if a condition of demand is moving the curve against the shop - tastes turning away, a cheaper substitute arriving, incomes falling - then sales may still fall despite the cut, because the whole curve is shifting left while the price slides down it. A shop in a town where a rival undercuts it may find its cut merely matches the market rather than expands it. Judgement: a price cut raises the amount sold provided the demand curve itself is not shifting against the shop; whether that holds depends on the good and on what is happening to incomes, tastes and rivals' prices - the conditions of demand - while the cut is in force.",
+   "marking_guidance": [
+    "Every part carries a model answer; part (d) is level-marked over three bands.",
+    "(a) rewards the precise definition: willing and able, at a given price, over a period of time.",
+    "(b) one mark per distinct point: the whole relationship against the single amount at one price, a movement along against a shift, each with the link made.",
+    "(c) one mark per distinct linked statement from the starting point - the income rise at an unchanged price - through the mechanism, a shift of the demand curve, to the consequence for the depot and its customers.",
+    "(d) Level 3 examines why it might - the inverse relationship - and why it might not - a shifting curve against the shop - and reaches a judgement naming the condition it depends on; Level 2 develops one side; Level 1 asserts."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": [
+     "price fixed at N$10 a litre",
+     "sales rose from 1 000 to 1 300 litres a week",
+     "incomes rose"
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.3-001": 1,
+    "CLM-0455-2.3-002": 1,
+    "CLM-0455-2.3-004": 1,
+    "CLM-0455-2.3-006": 1,
+    "CLM-0455-2.3-011": 1,
+    "CLM-0455-2.3-012": 1
+   },
+   "authored_hash": "d3efde8275b3827f34293c75ab288fe931a9cc749ef3f10d53b03e43179deef3"
+  },
+  {
+   "item_id": "ITEM-0455-2.3-P04",
+   "objective_ids": [
+    "OBJ-0455-2.3.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.3-011",
+    "CLM-0455-2.3-012",
+    "CLM-0455-2.3-013"
+   ],
+   "item_type": "essay_plan",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Evaluate",
+   "blooms_level_basis": "performance task type essay_plan",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "Plan an answer to: \"Incomes across Windhoek are rising. Discuss whether firms in the city should expect to sell more next year without changing their prices.\" Do not write the essay; produce the plan.",
+   "canonical_answer": "Case for: income is a condition of demand, so rising incomes tend to shift the demand curve to the right; at an unchanged price, quantity demanded rises, and firms sell more without touching price.\nChain 1: incomes rise -> ability to pay rises at each price -> demand curve shifts right -> at the fixed price, quantity demanded rises -> sales rise (for the firm, the consumer).\nCase against, first point: not every good gains. As incomes rise, some consumers switch towards dearer alternatives, so a budget firm's demand may shift left even as the city earns more.\nChain 2: incomes rise -> some consumers switch to premium alternatives -> demand for the budget good falls at each price -> curve shifts left -> sales fall at the unchanged price (for the budget firm).\nCase against, second point: other conditions may offset the income rise - tastes can move against the product, and a rival's price cut can pull demand away.\nChain 3: rival cuts price -> the rival's good becomes relatively cheaper -> demand for this firm's good shifts left -> the income gain is offset (for the firm, its customers).\nJudgement: firms should expect more sales where their demand rises with income and no other condition moves against them. The condition the judgement depends on: the type of good, and what happens to rival prices and tastes over the year.",
+   "marking_guidance": [
+    "A plan, not an essay: the structure with the stated judgement is what is assessed.",
+    "The plan must carry the case for and the case against, each developed as a chain from condition to consequence, and name the parties - the firm, the consumer.",
+    "The judgement must be decisive and name the condition it depends on: the type of good, and the behaviour of rivals and tastes.",
+    "What settles it: whether the firm's own demand curve rises with the city's incomes - the decisive test is which way its own curve shifts."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.3-011": 1,
+    "CLM-0455-2.3-012": 1,
+    "CLM-0455-2.3-013": 1
+   },
+   "authored_hash": "ae83f67cbf7fd66b3e1df3c19e8c7eb742ac97825e547058d5887090b0c8b5ad"
+  }
+ ]
+}

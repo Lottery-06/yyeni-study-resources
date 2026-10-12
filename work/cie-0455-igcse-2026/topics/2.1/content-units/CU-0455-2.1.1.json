@@ -1,0 +1,90 @@
+{
+ "unit_id": "CU-0455-2.1.1",
+ "title": "Microeconomics: the study of individual choices",
+ "objective_ids": [
+  "OBJ-0455-2.1.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_concept",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 260,
+  "target": 317,
+  "max": 375
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.1.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define microeconomics and recognise the kinds of question it asks: the choices of individual households, firms and particular markets.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "13a2bea9fdf45dd843ebc399cc791f173e3d53e5cf06a7a1f707cad9150b3933"
+  },
+  {
+   "block_id": "2.1.1-b2",
+   "block_type": "definition",
+   "heading": "The small pieces, one at a time",
+   "text": "Microeconomics is the study of economic choices at the level of the individual unit: one household, one firm, one market. It asks how a household in Katutura divides a N$3 200 monthly income between rent, food and transport, how Otjiwa Dairy sets the price of a litre of milk, and how many guides Etosha Gate Lodge employs in peak season. The thread running through these questions is that each concerns a single decision-maker or a single market: the price of one good, the output of one firm, the jobs of one workplace. A coffee farmer in Vietnam deciding whether to plant two more hectares faces the same kind of question: her farm, her budget, her market. Microeconomics looks at the small pieces of the economy one piece at a time.",
+   "claim_ids": [
+    "CLM-0455-2.1-001",
+    "CLM-0455-2.1-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.1-001": 1,
+    "CLM-0455-2.1-002": 1
+   },
+   "authored_hash": "90b39fb4e3b168adccee3b2b83af7d87046c745a1651b1f0bb2abb52f30c2227"
+  },
+  {
+   "block_id": "2.1.1-b3",
+   "block_type": "worked_application",
+   "heading": "One firm's price, one firm's question",
+   "text": "Kaoko Juice bottles 4 000 bottles a month in Opuwo and sells each at N$12. It weighs raising the price to N$14, expecting to sell 3 600 bottles a month at the higher price. This is a microeconomic decision because it belongs to one firm selling in one market: the objects of study are the firm's price, the firm's quantity and the firm's 9 workers. A macroeconomist leaves this bottle aside and studies the economy as a whole instead: the general level of prices across the country, the total output of goods and services, and total employment. Same economy, different lens: the close-up on one unit versus the wide view of the totals.",
+   "claim_ids": [
+    "CLM-0455-2.1-003",
+    "CLM-0455-2.1-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.1-003": 1,
+    "CLM-0455-2.1-001": 1
+   },
+   "authored_hash": "6926e3cb037144ce6747fbdbd38381c40cb1c4837a9b07af00add44adb520116"
+  },
+  {
+   "block_id": "2.1.1-b4",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The demand and supply analysis of topic 2.2 is microeconomics at work, because it prices a single market; the cost analysis of topic 3.7 stays micro too, following one firm's books.",
+   "claim_ids": [
+    "CLM-0455-2.1-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.1-001": 1
+   },
+   "authored_hash": "44ec385c4cc53a2fb2866aadca84bbaf0acec9bbe6decc5c28fb03e4c8718527"
+  }
+ ],
+ "word_count": 311
+}

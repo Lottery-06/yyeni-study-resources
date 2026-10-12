@@ -1,0 +1,419 @@
+{
+ "topic_number": "3.2",
+ "topic_title": "Households",
+ "topic": "3.2 Households",
+ "qualification": "Cambridge IGCSE Economics 0455 (syllabus v2, examined 2026)",
+ "item_count": 8,
+ "items": [
+  {
+   "item_id": "ITEM-0455-3.2-001-DEF",
+   "objective_ids": [
+    "OBJ-0455-3.2.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.2-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Define disposable income.",
+   "canonical_answer": "Disposable income is the income a household has left to spend or to save after taxes on income have been paid, plus any transfer payments such as a pension that it receives.",
+   "marking_guidance": [
+    "Precise meaning: the definition must state the two elements - income left after taxes on income are paid, and transfer payments received added to it - since that is the measure a household can actually spend or save."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.2-001": 1
+   },
+   "authored_hash": "65df38ed0a992a4fb33a17c8e5fe654f800ca900a05808de153e62b1bebdce19",
+   "objective_titles": [
+    "the influences on spending, saving and borrowing"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-3.2-002-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-3.2.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.2-003",
+    "CLM-0455-3.2-002",
+    "CLM-0455-3.2-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "Across Namibia the rate of interest paid on savings and charged on loans rises from 4% to 7%. Analyse the likely effects of this rise on how households spend, save and borrow.",
+   "canonical_answer": "Starting point: the rate of interest rises from 4% to 7%, so each N$100 in a savings deposit now earns N$7 a year where it earned N$4. Mechanism: because the reward for postponing consumption has risen, income moved out of spending earns more, so households tend to shift money from current spending into deposits; and because the cost of a loan has risen at the same time, a household planning to buy a fridge on credit faces dearer repayments and is likely to postpone the purchase. Consequences: households with savings - often older households or households with income to spare - earn more income from their deposits, so their spending power grows; borrower households face higher repayments, so their spending on other goods falls; and firms selling goods usually bought on credit, such as furniture, are likely to see fewer orders and may cut the hours of their workers. For whom: the gain lands on households with deposits, while the cost lands on households with debts and on the firms and workers who sell to them, so the same rise helps one household and hurts its neighbour.",
+   "marking_guidance": [
+    "Starting point: the initial change - the interest rate rising from 4% to 7% - must be stated.",
+    "Mechanism: because the reward for saving rises and the cost of borrowing rises, this causes the shift in each of the three decisions.",
+    "Consequence: therefore the results for spending, saving and borrowing must each be traced through to a named effect.",
+    "For whom: the consequences for savers, borrowers and the firms selling to households must be named, since the same rise moves different households in different directions."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.2-003": 1,
+    "CLM-0455-3.2-002": 1,
+    "CLM-0455-3.2-004": 1
+   },
+   "authored_hash": "46f13c1222f35cbe73b5304dda06e5f3876409429835ce4b8fa4c1625282324c",
+   "objective_titles": [
+    "the influences on spending, saving and borrowing"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-3.2-003-APP",
+   "objective_ids": [
+    "OBJ-0455-3.2.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.2-002",
+    "CLM-0455-3.2-003",
+    "CLM-0455-3.2-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "In 2025 the Amukoto household in Oshakati earned N$5 100 a month, saved N$300 of it, and the interest paid on savings was 3%. In 2026 pay has risen to N$6 000, saving has risen to N$900, savings interest is 6%, and the town's meat factory has announced possible job cuts. Using the figures, explain why the household's saving rose from N$300 to N$900 a month.",
+   "canonical_answer": "The figures show each influence at work. Income: monthly pay rose from N$5 100 to N$6 000, and where income is higher a household can save a larger share, so part of the extra pay went to saving rather than spending. The rate of interest: the return on savings rose from 3% to 6%, so each N$100 saved now earns N$6 a year where it earned N$3, which raises the reward for postponing consumption. Confidence: the announced job cuts at the meat factory put the household's income at risk, so saving more is a precaution against a fall in income. Therefore the rise in saving to N$900, which is 15% of income, means that the three influences pushed the same way at once: income to spare, a doubled reward, and fear for the future.",
+   "marking_guidance": [
+    "Context: the data must be used - the N$5 100 to N$6 000 pay rise, the 3% to 6% interest rate, the N$300 to N$900 saving and the announced job cuts.",
+    "Reasoning: the link from each figure to saving must be given, because a figure quoted without its influence earns nothing.",
+    "Conclusion: therefore the answer must close on what the figures together mean for the household's saving."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.2-002": 1,
+    "CLM-0455-3.2-003": 1,
+    "CLM-0455-3.2-004": 1
+   },
+   "authored_hash": "e18c440a1d445960bef7f620b872f6e7f6d690f033de094357e877d8e9e54b41",
+   "objective_titles": [
+    "the influences on spending, saving and borrowing"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-3.2-004-FEATURE",
+   "objective_ids": [
+    "OBJ-0455-3.2.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.2-002",
+    "CLM-0455-3.2-003",
+    "CLM-0455-3.2-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype FEATURE",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 4,
+   "prompt": "Explain the main influences on a household's decisions to spend, to save and to borrow.",
+   "canonical_answer": "The main influences are income, the rate of interest and confidence. Income: a household with a higher income can meet its necessities and still have income left, so it tends to spend more and to save a larger share, whereas a low income leaves little to save after necessities. The rate of interest: a higher rate raises what a bank pays on deposits and raises the cost of a loan at once, so saving becomes more attractive and borrowing dearer, and spending on items bought on credit tends to fall. Confidence: a household that expects its jobs and pay to be secure tends to spend freely now and to borrow readily, whereas a household that fears job losses tends to cut spending, save as a precaution and avoid new borrowing.",
+   "marking_guidance": [
+    "Features: what it includes - the three influences (income, the rate of interest, confidence), each stated with its characteristic effect on spending, saving or borrowing."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.2-002": 1,
+    "CLM-0455-3.2-003": 1,
+    "CLM-0455-3.2-004": 1
+   },
+   "authored_hash": "4b59b3f65d8cb93fb646449dd549bce1d3204cdca6bdf3326d181e02a574acb9",
+   "objective_titles": [
+    "the influences on spending, saving and borrowing"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-3.2-P01",
+   "objective_ids": [
+    "OBJ-0455-3.2.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.2-001",
+    "CLM-0455-3.2-002",
+    "CLM-0455-3.2-003",
+    "CLM-0455-3.2-004"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "performance task type multiple_choice_set",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 3,
+   "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. Disposable income is best defined as:\nA  the income a household receives before taxes are paid\nB  the total spending of a household in a year\nC  the income a household has left to spend or save after taxes on income, plus transfer payments received\nD  the money a household borrows from a bank\n\n2. A household's income rises. Spending on necessities is likely to:\nA  fall because income rose\nB  take a smaller share of the new income, freeing income to save\nC  rise by exactly the same proportion as income\nD  turn into a transfer payment\n\n3. The rate of interest rises from 5% to 8%. The yearly interest a household earns on N$10 000 of savings:\nA  falls from N$500 to N$300\nB  rises from N$500 to N$800\nC  is set by the household's tax rate\nD  stays at N$500 because the amount saved does not change\n\n4. Which household is most likely to save the largest share of its income?\nA  a low-income household spending most of its income on necessities\nB  a household repaying a large loan\nC  a household that spends income equal to whatever it earns\nD  a high-income household with its necessities comfortably covered\n\n5. Why do households tend to save more when they fear unemployment?\nA  to build a fund they can spend if income falls\nB  because banks are required to take their money\nC  because saving reduces the taxes they pay\nD  because unemployment raises interest rates\n\n6. A rise in the rate of interest is likely to:\nA  raise the cost of repaying a loan\nB  lower the reward from a savings deposit\nC  raise the taxes paid on income\nD  make credit purchases cheaper\n\n7. Confidence in job security falls in a mining town. Spending on big purchases such as furniture is likely to:\nA  rise as households spend while they still can\nB  be postponed until the future looks safer\nC  stay unchanged because confidence has no effect on decisions\nD  be replaced by extra borrowing\n\n8. Between 2024 and 2026 a household's saving rose from N$100 to N$450 a month while its income rose from N$4 000 to N$6 000. Which statement best explains the change?\nA  saving rose because income rose, giving the household more to spare\nB  saving rose because the government required it\nC  saving cannot change over time for the same household\nD  the figures show spending, not saving",
+   "canonical_answer": "Key: 1 C, 2 B, 3 B, 4 D, 5 A, 6 A, 7 B, 8 A.\n1. C is the definition (income after taxes on income, plus transfer payments); A forgets that taxes come off and transfers come in, B confuses income with spending, D confuses borrowing with income.\n2. Necessities take a smaller share as income rises (B); A runs the mechanism the wrong way, C treats necessity spending as moving in step with income when it grows more slowly, D confuses a spending pattern with a transfer payment.\n3. At 8% the deposit earns N$800 a year (B); A reverses the direction, C confuses the interest rate with the tax rate, D forgets that interest is a percentage so the amount moves with the rate.\n4. A high income leaves income beyond necessities to save (D); A has little income to spare, B has income already committed to repayments, C describes a household that saves nothing whatever it earns.\n5. Fear of unemployment raises saving as a precaution against falling income (A); B invents a rule about banks, C confuses saving with a tax change, D confuses a household decision with a market-wide rate.\n6. Borrowing costs more at a higher rate (A); B runs the reward the wrong way, C confuses interest with tax, D reverses the cost of credit.\n7. Falling confidence postpones big purchases (B); A and D both run the mechanism the wrong way - fear cuts spending rather than raising it, and lenders become dearer not cheaper to it - and C denies that confidence influences decisions at all.\n8. Rising income explains rising saving over time (A); B invents a government rule, C denies the over-time change the objective teaches, D misreads what the figures measure.",
+   "marking_guidance": [
+    "Key: one mark per question, eight in total; the correct option for each is listed and each distractor is explained as the specific misunderstanding it catches.",
+    "Every distractor traces to a named error: income confused with spending or borrowing, interest confused with tax, the reward and the cost of borrowing run in the wrong direction, an influence denied."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.2-001": 1,
+    "CLM-0455-3.2-002": 1,
+    "CLM-0455-3.2-003": 1,
+    "CLM-0455-3.2-004": 1
+   },
+   "authored_hash": "f726481692c7ee0498d835d79ce7947bed0e48d5f2592d7a274a44349e3d3e46",
+   "objective_titles": [
+    "the influences on spending, saving and borrowing"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-3.2-P02",
+   "objective_ids": [
+    "OBJ-0455-3.2.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.2-002",
+    "CLM-0455-3.2-003",
+    "CLM-0455-3.2-004"
+   ],
+   "item_type": "data_response",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type data_response",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "A report in the Windhoek Courier, 2026: \"Two years ago households in Windhoek saved 9% of their income. This year the share has reached 14%. Wages have risen strongly, savings accounts now pay 7% where they paid 3%, and the two gold mines have placed 800 jobs under review. Credit-card borrowing per household has fallen.\"\n\nTable 1 - Windhoek households\n  average monthly income, 2024: N$8 000\n  average monthly income, 2026: N$9 600\n  share of income saved, 2024: 9%\n  share of income saved, 2026: 14%\n  rate of interest on savings, 2024: 3%\n  rate of interest on savings, 2026: 7%\n  average credit-card balance per household, 2024: N$450\n  average credit-card balance per household, 2026: N$310\n\n(a) Calculate the average amount saved per household each month in 2026. [1]\n(b) Identify from Table 1 the rate of interest on savings in 2024 and in 2026. [2]\n(c) Explain why the rise in the interest rate is likely to have encouraged saving in Windhoek households. [4]\n(d) Analyse what the data suggests about the influences on household spending and borrowing in Windhoek between 2024 and 2026. [6]",
+   "canonical_answer": "(a) The share saved is 14% of monthly income, so 0.14 x N$9 600 = N$1 344 per household each month.\n(b) The rate of interest on savings was 3% in 2024 and 7% in 2026 (from Table 1).\n(c) A deposit now pays 7% where it paid 3%, so the reward for postponing consumption has more than doubled - each N$100 saved now earns N$7 a year where it earned N$3. Because the return on deposits is higher, income moved out of spending earns more, so households tend to shift money from consumption into savings. At the same time, borrowing at the higher rate is dearer, so households carrying credit-card balances have a further reason to spend less and clear them, which the falling balance in the table reflects. A household that saves therefore builds its fund faster than before, which encourages households that saved little to begin.\n(d) Expected relationship: higher income and a higher interest rate tend to raise the share saved and to reduce borrowing, so the data should show saving up and borrowing down. Evidence: the saving share rose from 9% to 14% while monthly income rose from N$8 000 to N$9 600, and the average credit-card balance fell from N$450 to N$310. Analysis: the income rise gave households income beyond necessities, so the share available to save grew; the interest rise raised the reward for saving and the cost of carrying a balance, so borrowing fell and balances were paid down; and the 800 mining jobs under review lowered confidence, which pushes households toward precautionary saving - so three influences moved the same way at once, and the data cannot separate their effects. Exception: where a household's income did not rise with the average, its saving share may have risen out of fear alone, or its spending may have fallen because income fell, which the averages hide. For whom: savers gain interest income; borrower households gain from clearing balances; households at risk from the job review gain a fund but lose current spending.",
+   "marking_guidance": [
+    "Context: parts (a) and (b) are read from the data; (c) and (d) must use the figures - the 9% to 14% saving share, the 3% to 7% interest rate, the N$450 to N$310 credit-card balance.",
+    "Reasoning: one mark per distinct linked statement; quoting a figure on its own is description, not analysis - the relationship must be stated and the reason given.",
+    "Conclusion: part (d) must run expected relationship, then evidence, then analysis, then an exception.",
+    "For whom: consequences must be named for savers, borrower households and households at risk from the job review."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": [
+     "saving share 9% in 2024 and 14% in 2026",
+     "monthly income N$8 000 in 2024 and N$9 600 in 2026",
+     "interest on savings 3% in 2024 and 7% in 2026",
+     "credit-card balance N$450 in 2024 and N$310 in 2026",
+     "800 mining jobs under review in 2026"
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.2-002": 1,
+    "CLM-0455-3.2-003": 1,
+    "CLM-0455-3.2-004": 1
+   },
+   "authored_hash": "5201774a1d8452f6c6e1374d9c67a897c5f87429d9ec8e23d5ccda121f5c6a1c",
+   "objective_titles": [
+    "the influences on spending, saving and borrowing"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-3.2-P03",
+   "objective_ids": [
+    "OBJ-0455-3.2.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.2-001",
+    "CLM-0455-3.2-002",
+    "CLM-0455-3.2-003",
+    "CLM-0455-3.2-004"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type short_answer",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "A survey in 2026 found that households in Otavi saved 6% of income while households in Swakopmund saved 15%, and the rate of interest paid on savings was 4% in both towns.\n(a) Define disposable income. [2]\n(b) Explain why saving may differ between Otavi and Swakopmund even though the interest rate is the same in both. [4]\n(c) Analyse the likely effects on household spending in Otavi of an announcement that the town's copper smelter is reviewing 300 jobs. [6]\n(d) Discuss whether a household should reduce its spending to save more when it fears losing its income. [8]",
+   "canonical_answer": "(a) Disposable income is the income a household has left to spend or to save after taxes on income have been paid, plus any transfer payments such as a pension that it receives.\n(b) The interest rate is the same in both towns, so the difference must come from elsewhere. Income: where Swakopmund households earn more on average, necessities take a smaller share of their income, so more is left to save, whereas Otavi households on lower incomes spend a larger share on necessities and save less. Confidence: where households feel their jobs are secure they spend freely and save less, whereas households that expect job losses save as a precaution, so the town facing more uncertainty may show the higher saving share even at the same interest rate. Access to credit may also differ between the towns, which changes how much spending is brought forward through borrowing rather than saved for.\n(c) Starting point: the smelter places 300 jobs under review, so confidence in Otavi falls. Mechanism: because households fear losing their income, they move spending out of current consumption and into precautionary saving; big purchases bought on credit, such as furniture, are the first to be postponed because committing to repayments feels risky. Consequences: spending in Otavi shops falls, so firms selling to households lose revenue and are likely to cut the hours or jobs of their workers; those workers then have less income, so the fall in spending spreads further. For whom: households at the smelter carry the risk of income loss, households and shops across the town feel weaker sales, and retail workers face shorter hours. Where a household has no income to spare, it cannot raise saving at all - its spending simply falls.\n(d) Why it might: fear of losing income makes saving urgent. A household with a fund can keep buying food and paying rent while income is gone, and it avoids borrowing at a cost it could not meet, so cutting non-essential spending to build a fund protects the household's essentials later. Why it might not: cutting spending lowers the household's living standards now, and where the feared job loss does not happen, the postponed purchases were given up for nothing; where the household already carries a loan, directing spare income to repaying it usually protects it better than a deposit earning a lower rate. Judgement: on balance a household with little saved should reduce non-essential spending to build a fund, because the cost of being without income is severe. The condition the judgement depends on is the size of the household's existing savings and its fixed commitments: where a fund already exists, the case for cutting spending weakens.",
+   "marking_guidance": [
+    "Parts (a) to (d) carry a model answer each; (d) is level-marked over three bands.",
+    "Context: (b) must use the two towns' figures - the 6% and 15% saving shares against the same 4% interest rate.",
+    "Reasoning: (c) one mark per distinct linked statement; the chain from the announcement to named parties must be traced.",
+    "Conclusion: (d) the top band examines why it might and why it might not, reaches a judgement, and names the condition the judgement depends on - the household's existing savings and its fixed commitments."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": [
+     "Otavi saving share 6%",
+     "Swakopmund saving share 15%",
+     "interest on savings 4% in both towns",
+     "300 smelter jobs under review in Otavi"
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.2-001": 1,
+    "CLM-0455-3.2-002": 1,
+    "CLM-0455-3.2-003": 1,
+    "CLM-0455-3.2-004": 1
+   },
+   "authored_hash": "52440c054b7e554d602ed0d8aa43caca020b1f9a9613f5ed2498864568b8d496",
+   "objective_titles": [
+    "the influences on spending, saving and borrowing"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-3.2-P04",
+   "objective_ids": [
+    "OBJ-0455-3.2.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.2-002",
+    "CLM-0455-3.2-003",
+    "CLM-0455-3.2-004"
+   ],
+   "item_type": "essay_plan",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Evaluate",
+   "blooms_level_basis": "performance task type essay_plan",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "Plan an answer to: \"Discuss whether a rise in the rate of interest raises household saving.\" Use the influences on saving in your plan. Do not write the essay; produce the plan.",
+   "canonical_answer": "Case for (the reward rises): the interest rate is the reward for postponing consumption, so a higher rate pays a household more for each N$100 it leaves in a deposit.\nChain 1: rate rises -> reward on deposits rises -> spending now costs more in income given up -> households shift income from spending to saving (for whom: savers gain income; firms selling to households may face weaker sales).\nCase against (the reward is part of a bigger picture): the same rise makes borrowing dearer, so a household carrying a loan is likely better off repaying it faster than saving, because the interest charged on a loan usually exceeds the interest paid on a deposit.\nChain 2: rate rises -> loan repayments cost more -> spare income goes to clearing debt -> saving in deposits may not rise even though the rate did (for whom: borrowers gain freedom from debt; banks collect more interest).\nCase against, second point: confidence can outweigh the reward - a household certain of its income may spend freely at a high rate, and a household in fear of job loss saves at a low rate for protection, so the rate may not be the decisive influence in either state.\nJudgement: a rise in the rate tends to raise household saving where confidence is steady and households hold no costly debt; the condition the judgement depends on is the state of confidence and each household's debt position - where fear or debt dominates, the higher reward may not move saving.",
+   "marking_guidance": [
+    "A plan, not an essay: the chains and the stated judgement are what is assessed.",
+    "Criterion: the decisive factor is whether confidence and debt outweigh the reward for saving.",
+    "Counterargument: the case against must appear - dearer borrowing and the role of confidence.",
+    "Condition: the plan must end on what would change the judgement - the state of confidence and the household's debt position.",
+    "For whom: each chain names who gains and who loses - savers, borrowers, firms, banks."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.2-002": 1,
+    "CLM-0455-3.2-003": 1,
+    "CLM-0455-3.2-004": 1
+   },
+   "authored_hash": "35bf770db4e85d69054d588f7db28fe0866fd268d7269feda9e98f036b26b485",
+   "objective_titles": [
+    "the influences on spending, saving and borrowing"
+   ]
+  }
+ ]
+}

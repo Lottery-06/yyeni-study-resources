@@ -1,0 +1,15 @@
+{
+ "topic_id": "1.2",
+ "deviations": [
+  {
+   "from": "MISCON slot for the 1.2 misconception register entry",
+   "to": "no MISCON slot exists in the 1.2 work order (8 slots, none MISCON-typed)",
+   "why": "the land-vs-capital discrimination was carried instead by the CU-0455-1.2.1 misconception block, claim CLM-0455-1.2-003 and MCQ question 3 of P01, which names origin rather than money paid as the test"
+  },
+  {
+   "from": "on-disk register entry for 1.2 reads \"stages of production vs sectors of production\"",
+   "to": "land vs capital discrimination used, per the commissioning instruction",
+   "why": "the commission named land vs capital as the 1.2 register entry (the glossary also flags land/capital as confused terms); the stages-vs-sectors boundary was left out because the 1.2 work order carries no slot for it and the syllabus text for 1.2 centres on definitions, mobility, quantity and quality"
+  }
+ ]
+}

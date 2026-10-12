@@ -1,0 +1,25 @@
+{
+ "topic_id": "1.4",
+ "deviations": [
+  {
+   "from": "subtype DIAGRAM on slots 002, 007, 012, 017",
+   "to": "subtype SYNTH with the same assessment_objectives [AO2, AO3] and Bloom Apply",
+   "why": "the item schema has no DIAGRAM subtype; the subject teaches PPC diagrams verbally, so each card is a precise verbal walk-through of axes, original curve, movement or shift direction, the new marked point, and what the diagram shows in words - no chart is rendered in this subject"
+  },
+  {
+   "from": "no slot for the misconceptions register entry on OBJ-0455-1.4.3",
+   "to": "ITEM-0455-1.4-025-MISCON added beyond the 24 slots",
+   "why": "the register carries one 1.4 entry (a movement along a curve vs a shift), and the register how-to-use gives every entry one MISCON card on the objective it attaches to"
+  },
+  {
+   "from": "P02 brief states 14 marks while its named parts (1 Calculate, 2 Identify, 4 Explain, 6 Analyse) sum to 13",
+   "to": "two 1-mark Calculate parts, (a) and (b), so the parts total 14 marks",
+   "why": "the brief 14-mark total is kept without breaking the stated part tariffs"
+  },
+  {
+   "from": "contract counts set by the build",
+   "to": "29 learning items (24 slots + 1 MISCON card + 4 performance tasks), 4 content units",
+   "why": "contract counts are recomputed from the build by the emitter, per the finish routine"
+  }
+ ]
+}

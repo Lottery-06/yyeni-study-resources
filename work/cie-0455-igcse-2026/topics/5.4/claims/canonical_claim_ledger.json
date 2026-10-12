@@ -1,0 +1,89 @@
+{
+ "ledger_id": "CLM-LEDGER-0455-IGCSE-5.4",
+ "claims": [
+  {
+   "claim_id": "CLM-0455-5.4-001",
+   "objective_ids": [
+    "OBJ-0455-5.4.1"
+   ],
+   "text": "Economic development is the sustained improvement in a country's living standards, judged by income per head together with indicators of wellbeing: life expectancy at birth, adult literacy, and the share of households with clean water, electricity and schooling.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-5.4-002",
+   "objective_ids": [
+    "OBJ-0455-5.4.1"
+   ],
+   "text": "GDP per head divides a country's total output for the year by its population, so it measures average income; two countries with the same total output can sit far apart in output per head where their populations differ, which is why comparisons of development use GDP per head rather than total output.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-5.4-003",
+   "objective_ids": [
+    "OBJ-0455-5.4.1"
+   ],
+   "text": "GDP per head on its own does not settle a country's level of development: it is an average that may sit high while many households stay poor, and it does not record health, education or access to services, so two countries with close GDP per head may still rank differently on the wider indicators.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-5.4-004",
+   "objective_ids": [
+    "OBJ-0455-5.4.1"
+   ],
+   "text": "Low income per head tends to hold back its own improvement: where incomes are low, households spend most of their income on necessities and governments collect little tax revenue, so spending on schooling, healthcare and clean water tends to be small, and the workers this produces tend to raise output per head slowly in turn.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  }
+ ]
+}

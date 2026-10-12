@@ -1,0 +1,567 @@
+{
+ "dataset_id": "ITEMS-0455-IGCSE-6.1",
+ "topic_id": "6.1",
+ "items": [
+  {
+   "item_id": "ITEM-0455-6.1-001-DEF",
+   "objective_ids": [
+    "OBJ-0455-6.1.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.1-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Define specialisation at a national level.",
+   "canonical_answer": "Specialisation at a national level is where a country concentrates its resources on producing a narrow range of goods and services, and trades the surplus for the other goods its people want.",
+   "marking_guidance": [
+    "Precise definition: the meaning must name both parts - the concentration of the country's resources on a narrow range of goods and services, and the trade of the surplus for the other goods its people want."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.1-001": 1
+   },
+   "authored_hash": "c6622142dae12071370f898eee73016939f6ef99ab59cd14410c985f55210317"
+  },
+  {
+   "item_id": "ITEM-0455-6.1-002-MECH",
+   "objective_ids": [
+    "OBJ-0455-6.1.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.1-002",
+    "CLM-0455-6.1-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "subtype MECH",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 3,
+   "prompt": "Namibia's coast holds rich fishing grounds and a deep-water port at Walvis Bay, while its dry inland areas carry wide cattle ranches. Analyse the mechanism by which a country's resources lead it to specialise in particular goods.",
+   "canonical_answer": "The mechanism runs from resource to cost to trade. Because the fishing grounds and the port sit together at Walvis Bay, fish can be landed and processed with less handling, so the cost per carton tends to fall; because the dry inland areas grow strong grazing, cattle ranching needs less bought feed per animal. This causes resources to move towards the uses where they produce most: workers, boats and equipment gather in fish processing at the coast, and land and labour gather in ranching inland, so the country produces a large output of a narrow range of goods. The consequence is that each sector's output rises and its cost per unit tends to fall, so that the surplus can be traded for goods the country does not make, and consumers tend to gain a wider range than home production alone would give them.",
+   "marking_guidance": [
+    "Mechanism: the answer must trace how a resource the country holds in strength leads to a lower cost per unit, because the resource lowers the inputs needed per unit.",
+    "Consequence: the answer must follow the mechanism to its result - resources move towards the strongest uses, output rises and the surplus is traded - so that the chain ends with the gains to consumers."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.1-002": 1,
+    "CLM-0455-6.1-003": 1
+   },
+   "authored_hash": "d82fe9e62f12e26295e3c549d25c80334c396d6354133c0ab704ae181d4004d6"
+  },
+  {
+   "item_id": "ITEM-0455-6.1-003-APP",
+   "objective_ids": [
+    "OBJ-0455-6.1.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.1-004",
+    "CLM-0455-6.1-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "An extract from a trade report: \"Namibia's fish-processing plants pack 160 cartons a worker a day. Before the sector concentrated at the coast, scattered plants packed 70 cartons a worker. Vietnam's highland farmers harvest 2.4 tonnes of coffee a hectare where lowland farms harvest 1.5 tonnes.\" Using the figures, explain why these two countries have specialised in these products.",
+   "canonical_answer": "The figures show output per worker and per hectare higher where production follows the country's strongest resources: 160 cartons a worker at the coast against 70 before, and 2.4 tonnes a hectare on the highlands against 1.5. Because the coastal plants produce more than twice as much per worker, their cost per carton tends to sit below what scattered plants could reach, which means that concentrating production at the coast pays. Because the highlands yield more coffee per hectare, Vietnam's land produces most as coffee rather than as the lowland crops. Therefore each country has specialised where its resources raise output per worker or per hectare, which is what makes the specialisation worth the cost of trading for the rest.",
+   "marking_guidance": [
+    "Context: the figures must be used - the 160 against 70 cartons a worker and the 2.4 against 1.5 tonnes a hectare.",
+    "Reasoning: the link from the figures to the cost per unit must be given, because output per worker or per hectare is what makes the stronger resource cheaper to produce with.",
+    "Conclusion: therefore the answer must close on why each country specialised where it did."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.1-004": 1,
+    "CLM-0455-6.1-003": 1
+   },
+   "authored_hash": "e6e15ab71647aaf1be0428364ffe6d4e129dc0ed3c68056e65e0811167e646d2"
+  },
+  {
+   "item_id": "ITEM-0455-6.1-004-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-6.1.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.1-003",
+    "CLM-0455-6.1-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "A new deep-water quay opens at Walvis Bay, and fish-processing firms in the town take on 800 extra workers as the country shifts more of its resources into fish processing. Analyse how this shift towards specialisation is likely to affect workers, firms and the economy.",
+   "canonical_answer": "Starting point: the quay opens and 800 workers join fish processing. Mechanism: because larger ships can now land bigger catches, the processing firms' cost per carton tends to fall, and this causes the firms to expand output and take on more labour; workers moving into the sector repeat a narrower range of tasks, so their output per worker tends to rise. Consequence: the firms' export sales tend to grow as the surplus is traded, wages in the town tend to rise where the sector competes for workers, and the economy gains export revenue - while the industries the workers left, such as inland agriculture, see their labour supply thin. For whom: fish-processing firms gain scale and revenue, the 800 workers gain steadier work at the coast, consumers abroad gain cheaper processed fish, and the economy gains export revenue while the sectors losing workers feel the pull of the shift.",
+   "marking_guidance": [
+    "Starting point: the initial change - the quay opening and 800 workers joining - must be stated.",
+    "Mechanism: because larger catches lower the cost per carton, this causes expansion in output and employment.",
+    "Consequence: therefore the results for output, wages, export sales and the industries losing workers must be traced.",
+    "For whom: the effects on firms, workers, consumers and the economy must each be named."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.1-003": 1,
+    "CLM-0455-6.1-002": 1
+   },
+   "authored_hash": "267d3a8565acc761ed5fd82e1567fa599062bc9887a8451c80ba5f1e893ee796"
+  },
+  {
+   "item_id": "ITEM-0455-6.1-005-DEF",
+   "objective_ids": [
+    "OBJ-0455-6.1.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.1-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Define over-dependence as a disadvantage of specialisation at a national level.",
+   "canonical_answer": "Over-dependence is where a country's export revenue rests to a large extent on a narrow range of specialised products, so that a fall in the world price of one product tends to cut the country's earnings from abroad sharply.",
+   "marking_guidance": [
+    "Precise definition: the meaning must name the concentration of export revenue on a narrow range of products, since over-dependence is the exposure that follows from concentrating."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.1-006": 1
+   },
+   "authored_hash": "67dcdb4394a7f20167b1e90e41831db21c4143990cf5805164d40b5af57c325d"
+  },
+  {
+   "item_id": "ITEM-0455-6.1-006-WHY",
+   "objective_ids": [
+    "OBJ-0455-6.1.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.1-005",
+    "CLM-0455-6.1-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "subtype WHY",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 2,
+   "prompt": "Explain why specialisation at a national level tends to lower the prices consumers pay for the goods they buy.",
+   "canonical_answer": "The reason is the cost per unit. Where a country produces where its resources are strongest, output per worker tends to rise, so the cost of producing each unit tends to fall; because home producers face lower costs, the prices they charge tend to sit lower. The goods the country does not make arrive through trade from countries that produce them under the same advantage, so their prices tend to sit below home production outside the country's strengths. That is why consumers tend to gain both lower prices and a wider range of goods.",
+   "marking_guidance": [
+    "Reason: the answer must give the cause of the lower prices - cost per unit falling where production follows the country's strongest resources - because the price follows the cost."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.1-005": 1,
+    "CLM-0455-6.1-003": 1
+   },
+   "authored_hash": "977209a4017f79f68ef48bbe5abe5fc220507dc9a77fb32b6655c85207e0b9e8"
+  },
+  {
+   "item_id": "ITEM-0455-6.1-007-APP",
+   "objective_ids": [
+    "OBJ-0455-6.1.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.1-005",
+    "CLM-0455-6.1-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 2,
+   "prompt": "An extract: \"Etosha Gate Lodge and the other lodges round the park now earn N$120 million a year from visitors, most of them from outside southern Africa. The lodges employ 4 of every 5 tourism workers in the region, and when visitor numbers fell by a tenth in a slow year, regional tourism revenue fell by N$12 million.\" Using the figures, explain the advantages and the disadvantages this specialisation brings the region.",
+   "canonical_answer": "The figures show the two sides of the specialisation. The advantage: the lodges earn N$120 million a year from visitors, most from abroad, so the region gains export revenue it would not otherwise have, and because the lodges employ 4 of every 5 tourism workers, the specialised sector carries the region's tourism employment. The disadvantage: because visitor numbers can fall - they fell by a tenth in a slow year, taking N$12 million from revenue - the region's income rests on a narrow base, so a change in visitors' plans cuts earnings and jobs together. Therefore the region gains a large income and a large exposure from the same specialisation: the revenue is high while visitors come, and the workers in the sector are the ones who feel a slow year first.",
+   "marking_guidance": [
+    "Context: the figures must be used - the N$120 million a year, the 4 of every 5 tourism workers, the N$12 million fall.",
+    "Reasoning: the link from the figures to the advantage and the disadvantage must be given, because revenue and employment are what the specialisation carries.",
+    "Conclusion: therefore the answer must close on both sides - the income gained and the exposure carried."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.1-005": 1,
+    "CLM-0455-6.1-006": 1
+   },
+   "authored_hash": "18ae4326588d9855f3c6ccd2b8f7bb0bad3905f93be0e46708e91e997108d17e"
+  },
+  {
+   "item_id": "ITEM-0455-6.1-008-MISCON",
+   "objective_ids": [
+    "OBJ-0455-6.1.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.1-008",
+    "CLM-0455-6.1-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "subtype MISCON",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 4,
+   "prompt": "A question asks about the advantages of specialisation for the economy whose extract describes fish exports earning N$4 200 million a year at Walvis Bay. One learner writes: \"Specialisation raises output, lets firms produce on a larger scale, and gives consumers cheaper goods.\" Explain the confusion this learner has made between the advantages of specialisation in general and the advantages in the context of the information provided, and state the test that tells the two apart.",
+   "canonical_answer": "The confusion: the learner answers the general question - what specialisation tends to do anywhere - instead of the question set in the extract's context, so the figures and the country in front of them go unused. The boundary between the two: the general advantages are the tendencies that hold where a country specialises, and they sit in the notes; the contextual advantages are what those tendencies mean for this economy - here, what N$4 200 million of fish exports and the jobs at Walvis Bay give the Namibian economy that it would not otherwise have. The test: how to tell them apart is to check whether each point uses something the extract states - a figure, a product, a place. Where a point could be written under any question about specialisation, it is a general advantage and needs the extract's evidence before it answers this one.",
+   "marking_guidance": [
+    "The confusion: what learners mix up - answering the general question while the extract sits unused - must be named.",
+    "The boundary: the difference between the tendencies that hold in general and what they mean for this economy must be stated.",
+    "The test: how to tell them apart - whether each point uses something the extract states - must be given."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.1-008": 1,
+    "CLM-0455-6.1-005": 1
+   },
+   "authored_hash": "0b919f7d3c2b64c59afd8ef1b55d8491dd3152210b7ccc2423957b1c97174fce",
+   "misconception_entry": "advantages of specialisation in general vs in the context of the information provided"
+  },
+  {
+   "item_id": "ITEM-0455-6.1-P01",
+   "objective_ids": [
+    "OBJ-0455-6.1.1",
+    "OBJ-0455-6.1.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.1-001",
+    "CLM-0455-6.1-002",
+    "CLM-0455-6.1-003",
+    "CLM-0455-6.1-005",
+    "CLM-0455-6.1-006",
+    "CLM-0455-6.1-008"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "performance task type multiple_choice_set",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 3,
+   "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. Specialisation at a national level is where a country:\nA  produces a wide range of goods for itself without trading\nB  concentrates its resources on a narrow range of goods and services\nC  cuts itself off from trade with other countries\nD  lets the government choose what each firm produces\n\n2. The broad basis for a country specialising in a product is:\nA  superior resource allocation or cheaper production methods\nB  a law that requires the output to be made\nC  the size of the country's population\nD  the country's military strength\n\n3. A fish-processing plant at a deep-water port tends to have a lower cost per carton because:\nA  fish are dearer at ports than inland\nB  the catch is landed and processed with less handling\nC  port workers are paid less than others\nD  the sea supplies the packaging\n\n4. Specialisation tends to raise output per worker because:\nA  workers repeat a narrower range of tasks and gain speed\nB  workers are paid more per hour\nC  the country stops importing goods\nD  the workers' wages rise at once\n\n5. Consumers tend to gain from their country's specialisation through:\nA  fewer goods on the shelves\nB  lower prices and a wider variety of goods\nC  higher taxes on home production\nD  longer queues at the ports\n\n6. A country earns N$3 000 million a year from exports, and 60% of it comes from one product. The revenue from that product is:\nA  N$900 million\nB  N$1 500 million\nC  N$1 800 million\nD  N$2 400 million\n\n7. Over-dependence is a disadvantage of specialisation because:\nA  export revenue rests on a narrow range of products, so a world price fall cuts earnings\nB  specialised workers earn too much\nC  trade makes the ports busier\nD  consumers buy fewer goods overall\n\n8. A question gives an extract about one country's fish exports. An answer that lists the advantages of specialisation in general, without using the extract:\nA  answers the question fully\nB  answers a different question from the one asked\nC  shows the advantages are wrong\nD  shows the extract is false",
+   "canonical_answer": "Key: 1 B, 2 A, 3 B, 4 A, 5 B, 6 C, 7 A, 8 B.\n1. B names the concentration on a narrow range (A is self-sufficiency rather than specialisation, C is a country cutting itself off from trade, D is a command method rather than a market one).\n2. A is the syllabus's basis - resources and the cost per unit (B mistakes a rule for a reason, C and D name influences that do not decide the matter).\n3. B traces the handling saved (A expects dearer fish to lower costs, C assumes port work is paid less, D invents free packaging).\n4. A names the repetition that builds speed (B reverses cause and effect, C treats specialising as ending imports, D expects change at once).\n5. B names the price and variety gains (A reverses the variety effect, C names no route from specialisation to taxes, D is a congestion story the figures do not support).\n6. C applies the share: 0.60 x N$3 000 million = N$1 800 million (A drops a digit, B takes half the revenue, D takes 80% rather than 60%).\n7. A links the narrow base to the exposure (B is a pay story, C names a busy port rather than a cost, D reverses the variety gain).\n8. B names the wrong question answered (A treats general points as a full answer, C and D go beyond what an unused extract can show).",
+   "marking_guidance": [
+    "Key: one mark per question, eight in total; the correct option is listed and each distractor is explained as the specific misunderstanding it catches.",
+    "Each distractor traces to a named error: self-sufficiency taken for specialisation, the cost mechanism run backwards, the variety effect reversed, the percentage misapplied, and general advantages offered where the extract's advantages are asked for."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.1-001": 1,
+    "CLM-0455-6.1-002": 1,
+    "CLM-0455-6.1-003": 1,
+    "CLM-0455-6.1-005": 1,
+    "CLM-0455-6.1-006": 1,
+    "CLM-0455-6.1-008": 1
+   },
+   "authored_hash": "45db31867b69f20af60f5af7875da17f3fea3b3f9f07761243461893284d6ebd"
+  },
+  {
+   "item_id": "ITEM-0455-6.1-P02",
+   "objective_ids": [
+    "OBJ-0455-6.1.1",
+    "OBJ-0455-6.1.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.1-003",
+    "CLM-0455-6.1-005",
+    "CLM-0455-6.1-006",
+    "CLM-0455-6.1-007"
+   ],
+   "item_type": "data_response",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type data_response",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "A report in the Windhoek Courier, 2026: \"Kaokoveld Coffee Co-operative, formed by 300 smallholders round Ruacana, now grows coffee on the highland terraces and sells the harvest to buyers in Germany. Ten years ago the same farms grew maize for the local market. The co-operative's coffee now earns N$18 million a year, where the maize earned N$6 million. Yet last year a frost in Brazil pushed the world coffee price up, and the co-operative banked N$24 million; the year before, a bumper Brazilian harvest had pushed the price down and earnings fell to N$12 million.\"\n\nTable 1 - Kaokoveld Co-operative\n  coffee revenue, year 1: N$12 million\n  coffee revenue, year 2: N$24 million\n  smallholders in the co-operative: 300\n  maize revenue ten years ago: N$6 million\n\n(a) Calculate the rise in the co-operative's revenue from coffee between year 1 and year 2. [1]\n(b) State the number of smallholders in the co-operative. [1]\n(c) Identify from Table 1 the co-operative's coffee revenue in year 1 and in year 2. [2]\n(d) Explain why switching from maize to coffee is likely to have raised the smallholders' incomes. [4]\n(e) Analyse what the data suggests about the advantages and disadvantages the co-operative's specialisation brings to its members and the economy. [6]",
+   "canonical_answer": "(a) The rise is N$24 million - N$12 million = N$12 million.\n(b) 300 smallholders.\n(c) N$12 million in year 1 and N$24 million in year 2 (from Table 1).\n(d) Coffee now earns the co-operative N$18 million a year in a normal season, where maize earned N$6 million, so revenue has grown threefold on the same land. Because the highland terraces suit coffee, the cost per bag tends to sit below what the same land produced as maize, and the German buyers pay prices the local maize market did not offer. Higher revenue on similar land means the smallholders' incomes tend to rise, and the 300 members share them.\n(e) Expected relationship: specialisation tends to raise incomes where the specialised crop suits the land and finds better-paying buyers, while exposing the growers to the world price of a single crop. Evidence: coffee earns N$18 million in a normal year against N$6 million from maize, revenue reached N$24 million in year 2 and fell to N$12 million in year 1, and the 300 smallholders now depend on one crop for their income. Analysis: the advantage is the higher income - three times maize's revenue in a normal year - and the mechanism is the terraces suiting coffee and the German buyers paying more; the disadvantage is the exposure the two years show. Revenue fell from N$24 million to N$12 million between the years, a difference of N$24 million - N$12 million = N$12 million, caused by a Brazilian harvest the growers cannot control, so members' incomes swing with a world price they do not set. Exception: the price swings both ways - the frost year banked the co-operative its best revenue, N$24 million - so the exposure cuts both ways and the members gain where the price rises. For whom: the 300 members gain higher average incomes, the buyers in Germany gain a supply they cannot grow at home, and the economy gains export revenue while carrying members whose income swings.",
+   "marking_guidance": [
+    "Context: parts (a), (b) and (c) are read or calculated from the data; (d) and (e) must use the figures - the N$12 million, N$24 million, N$18 million against N$6 million, the 300 smallholders.",
+    "Reasoning: one mark per distinct linked statement; quoting a figure on its own is refused as analysis, since the relationship must be stated and the reason given.",
+    "Conclusion: part (e) must run expected relationship, then evidence, then analysis, then an exception, and name for whom the effects land.",
+    "Refusal: an answer that lists figures without linking them earns the evidence marks at most, since figure-quoting is not analysis."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": [
+     "coffee revenue N$12 million in year 1 and N$24 million in year 2",
+     "normal-year coffee revenue N$18 million against maize N$6 million",
+     "300 smallholders in the co-operative"
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.1-003": 1,
+    "CLM-0455-6.1-005": 1,
+    "CLM-0455-6.1-006": 1,
+    "CLM-0455-6.1-007": 1
+   },
+   "authored_hash": "10af8e0aeef9a8e5d3ac29339a3ff8654e3d08d5a63c034812e218e3baf381a4"
+  },
+  {
+   "item_id": "ITEM-0455-6.1-P03",
+   "objective_ids": [
+    "OBJ-0455-6.1.1",
+    "OBJ-0455-6.1.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.1-001",
+    "CLM-0455-6.1-003",
+    "CLM-0455-6.1-005",
+    "CLM-0455-6.1-006",
+    "CLM-0455-6.1-007"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type short_answer",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "Namibia has concentrated more of its resources on fish processing at Walvis Bay and on tourism round Etosha, and sells the surplus abroad.\n(a) Define what is meant by specialisation at a national level. [2]\n(b) Explain why specialisation tends to lower the cost per unit of what a country produces. [4]\n(c) Analyse how the shift of resources into fish processing and tourism is likely to affect consumers, firms and the economy. [6]\n(d) Discuss whether the advantages of specialisation at a national level are likely to outweigh the disadvantages. [8]",
+   "canonical_answer": "(a) Specialisation at a national level is where a country concentrates its resources on producing a narrow range of goods and services and trades the surplus for the other goods its people want.\n(b) Where a country produces where its resources are strongest, workers repeat a narrower range of tasks, so the time and materials spent per unit tend to fall; output per worker rises, and because the inputs needed per unit fall, the cost of each unit tends to fall with them. The goods bought from other countries, produced under the same advantage there, also tend to cost less than home production outside the country's strengths, so both home goods and traded goods tend to grow cheaper.\n(c) Starting point: more resources move into fish processing at Walvis Bay and tourism round Etosha. Mechanism: because the coast and the park are the country's strongest resources, output per worker in each sector tends to rise, and this causes the cost per unit and per visit to tend to fall; the surplus is sold abroad, bringing in export revenue. Consequence: consumers gain cheaper fish and a wider range of imported goods bought with the revenue, firms in the two sectors gain larger scale and sales, and the economy gains export revenue and jobs - while the industries the resources left see their labour and capital thin. For whom: processing and lodge firms gain scale, workers in the sectors gain steadier jobs, consumers gain in price and variety, and the economy gains export revenue while carrying the regions whose industries shrank.\n(d) Why it might: the advantages are the income and the price effects. Producing where resources are strongest tends to raise output per worker, so costs per unit and prices tend to fall; export revenue buys the goods the country does not make, so consumers gain variety as well as price, and the specialised sectors carry jobs and skills. Why it might not: the disadvantages are exposure and narrowness. Where export revenue rests on a few products, a world price fall cuts earnings sharply, and workers in the specialised sectors are the ones who feel it; the resources drawn into the specialised sectors are not available to others, and regions left behind by the shift tend to see their industries thin. Judgement: on balance the advantages tend to outweigh the disadvantages where the country keeps a spread of exports and can move resources between sectors, because the gains are steady income and cheaper goods while the losses arrive in the bad years a spread can absorb. What settles it is the spread of the exports and the ease of moving resources: it depends on whether a price fall in one product is a large or a small share of the whole, and on whether workers and equipment can shift to other work.",
+   "marking_guidance": [
+    "Parts (a) to (d) carry a model answer each; (d) is level-marked over three bands.",
+    "Reasoning: (c) one mark per distinct linked statement, tracing the chain from the shift to each party named.",
+    "Conclusion: (d) the top band examines why it might and why it might not, reaches a judgement, and names the condition the judgement depends on - the spread of exports and the ease of moving resources."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": [
+     "resources shifting into fish processing at Walvis Bay and tourism round Etosha"
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.1-001": 1,
+    "CLM-0455-6.1-003": 1,
+    "CLM-0455-6.1-005": 1,
+    "CLM-0455-6.1-006": 1,
+    "CLM-0455-6.1-007": 1
+   },
+   "authored_hash": "42072af03a0a510e917cfac0283f8877632ad86f51e06769ba2290d7934eeddf"
+  },
+  {
+   "item_id": "ITEM-0455-6.1-P04",
+   "objective_ids": [
+    "OBJ-0455-6.1.1",
+    "OBJ-0455-6.1.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.1-003",
+    "CLM-0455-6.1-005",
+    "CLM-0455-6.1-006",
+    "CLM-0455-6.1-007"
+   ],
+   "item_type": "essay_plan",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Evaluate",
+   "blooms_level_basis": "performance task type essay_plan",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "Plan an answer to: \"Discuss whether a country that specialises in a narrow range of exports takes a risk that outweighs the gains.\" Build the plan from the advantages and disadvantages of specialisation at a national level. Do not write the essay; produce the plan.",
+   "canonical_answer": "Case for (the gains outweigh): specialisation raises output per worker and lowers costs, and the revenue buys what the country does not make.\nChain 1: resources move to the country's strongest uses -> output per worker rises -> the cost per unit tends to fall -> export revenue grows and consumers gain cheaper and more varied goods (for whom: workers in the sector, consumers, the economy's export revenue).\nCase against (the risk outweighs): a narrow export base exposes the country to world prices it does not set.\nChain 2: world price of the main export falls -> export revenue falls even though the tonnage is unchanged -> spending on imports is cut and sector jobs are squeezed -> the workers in the specialised sector and the buyers of imports feel it first (for whom: sector workers, households, the government's spending plans).\nCase against, second point: resources drawn into the specialised sector are harder to move once the skills and equipment are narrow, so a lasting fall in demand leaves them stranded, as regions built on a single resource have found where the resource ran out.\nJudgement: the gains tend to outweigh the risk where the country keeps a spread of exports and can move resources between sectors, because a price fall in one product is then a small share of the whole and the workers can shift. The condition the judgement depends on is the spread of the export base and the ease of moving resources: it depends on whether one product carries the bulk of the revenue and whether the specialised skills can be turned to other work.",
+   "marking_guidance": [
+    "A plan, not an essay: the chains and the stated judgement are what is assessed.",
+    "Criterion: the decisive factor is the spread of the export base and the ease of moving resources.",
+    "Counterargument: the case against must appear - exposure to world prices and resources stranded in a narrow base.",
+    "Condition: the plan must end on what would change the judgement - the spread of exports and how far resources can move.",
+    "For whom: each chain names who gains and who loses - sector workers, consumers, households, the economy."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.1-003": 1,
+    "CLM-0455-6.1-005": 1,
+    "CLM-0455-6.1-006": 1,
+    "CLM-0455-6.1-007": 1
+   },
+   "authored_hash": "aa32c7309e17eccd05e11e0f4b3f5e12dcfdcabe3ad07c4a96375a642e7a9ab5"
+  }
+ ]
+}

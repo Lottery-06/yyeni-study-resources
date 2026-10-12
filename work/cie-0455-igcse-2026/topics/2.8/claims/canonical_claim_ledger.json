@@ -1,0 +1,299 @@
+{
+ "ledger_id": "CLM-LEDGER-0455-IGCSE-2.8",
+ "claims": [
+  {
+   "claim_id": "CLM-0455-2.8-001",
+   "objective_ids": [
+    "OBJ-0455-2.8.1"
+   ],
+   "text": "Price elasticity of supply (PES) measures how strongly the quantity sellers are willing and able to offer responds when the price of the good changes; it is calculated as the percentage change in quantity supplied divided by the percentage change in price.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.8-002",
+   "objective_ids": [
+    "OBJ-0455-2.8.1"
+   ],
+   "text": "PES is calculated by dividing the percentage change in quantity supplied by the percentage change in price; because it divides one percentage by another, the figure carries no units, and a value above 1 shows elastic supply - the quantity offered changed by a larger percentage than the price did - while a value below 1 shows inelastic supply, where the quantity offered changed by a smaller percentage than the price did.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.8-003",
+   "objective_ids": [
+    "OBJ-0455-2.8.1"
+   ],
+   "text": "PES and PED share the shape of their formulas but measure opposite sides of the market: PES measures the response of the quantity sellers are willing and able to offer to a price change, while PED measures the response of the quantity buyers are willing and able to take; the test for which one applies is whose behaviour the question is about.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.8-004",
+   "objective_ids": [
+    "OBJ-0455-2.8.2"
+   ],
+   "text": "To calculate PES from data: work out the percentage change in quantity supplied on its original level, work out the percentage change in price on its original level, then divide the first by the second; the result is read as elastic above 1 and inelastic below 1.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.8-005",
+   "objective_ids": [
+    "OBJ-0455-2.8.2"
+   ],
+   "text": "When the wholesale price of a crate at Kaoko Juice rose from N$100 to N$110, a 10% rise, and the crates it offered each week rose from 200 to 260, a 30% rise, its PES worked out at 3: the quantity supplied responded three times as strongly, in percentage terms, as the price did, so the bottler's supply was elastic.",
+   "claim_type": "synthetic_example",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.8-006",
+   "objective_ids": [
+    "OBJ-0455-2.8.2"
+   ],
+   "text": "On a supply diagram, price is read on the vertical axis and quantity on the horizontal axis, and the steepness of the supply curve carries the elasticity: a steep curve shows the quantity offered changing little when price changes, which is inelastic supply, while a flatter curve shows the quantity offered changing a lot, which is elastic supply; when demand shifts, the same shift tends to land mostly on price where supply is inelastic and mostly on quantity where supply is elastic.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.8-007",
+   "objective_ids": [
+    "OBJ-0455-2.8.3"
+   ],
+   "text": "The determinants of PES are usually spare capacity - whether the seller has room to raise output without new equipment; the level of stocks - whether finished goods sit in a store ready to sell; the ease of switching production or finding extra inputs; and the length of the period the seller has to respond.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.8-008",
+   "objective_ids": [
+    "OBJ-0455-2.8.3"
+   ],
+   "text": "A seller with spare capacity or goods held in stock can raise the quantity offered quickly and cheaply when price rises, so its supply tends to be elastic; a seller already at full capacity with empty stores tends to show inelastic supply, because raising output takes time or new equipment.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.8-009",
+   "objective_ids": [
+    "OBJ-0455-2.8.3"
+   ],
+   "text": "Supply tends to be inelastic in the short run, because the quantity offered over the coming days is largely fixed by decisions already taken; over longer periods sellers can hire, build, plant or switch production in response to the price they have seen, so supply tends to become more elastic as the period lengthens.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.8-010",
+   "objective_ids": [
+    "OBJ-0455-2.8.3"
+   ],
+   "text": "A mahangu grower near Oshakati who sees a higher grain price in January cannot offer more grain that season, since the harvest was planted months before; a year later the same grower can plant more fields, which is why the grower's supply is inelastic within a season and tends to be more elastic across seasons.",
+   "claim_type": "synthetic_example",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.8-011",
+   "objective_ids": [
+    "OBJ-0455-2.8.4"
+   ],
+   "text": "PES matters to producers because it sets what they can do with a price change: a producer whose supply is elastic can usually turn a price rise into extra sales, while a producer with inelastic supply - where the quantity offered changes by a smaller percentage than the price - may take a higher price on the same output yet cannot meet extra demand quickly.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.8-012",
+   "objective_ids": [
+    "OBJ-0455-2.8.4"
+   ],
+   "text": "For consumers, inelastic supply means a rise in demand tends to land on price - shortages show up as dearer goods rather than as more of them - so markets with inelastic supply, such as housing in a growing town or fresh produce after a bad season, tend to see sharper price swings when demand shifts.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.8-013",
+   "objective_ids": [
+    "OBJ-0455-2.8.4"
+   ],
+   "text": "For governments, PES shapes what policy can achieve: a subsidy or a higher guaranteed price tends to call out extra output where supply can respond, so a government hoping for more food production or more housing needs producers whose supply is elastic enough to answer the incentive.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-2.8-014",
+   "objective_ids": [
+    "OBJ-0455-2.8.4"
+   ],
+   "text": "Whether an elastic supply is the good case depends on whose position is being judged: consumers of a good in rising demand usually gain from elastic supply, because extra output rather than higher prices meets the demand, while sellers of a good in fixed supply may gain more from inelastic supply, since the shortage lands on the price they receive.",
+   "claim_type": "evaluative",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  }
+ ]
+}

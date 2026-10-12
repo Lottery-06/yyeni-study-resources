@@ -1,0 +1,425 @@
+{
+ "ledger_id": "CLM-LEDGER-0455-IGCSE-4.8",
+ "claims": [
+  {
+   "claim_id": "CLM-0455-4.8-001",
+   "objective_ids": [
+    "OBJ-0455-4.8.1"
+   ],
+   "text": "Inflation is a sustained rise in the general price level of an economy over a period, usually a year, so that a unit of money buys fewer goods and services than before.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.8-002",
+   "objective_ids": [
+    "OBJ-0455-4.8.1"
+   ],
+   "text": "Deflation is a sustained fall in the general price level of an economy over a period, so that a unit of money buys more goods and services than before.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.8-003",
+   "objective_ids": [
+    "OBJ-0455-4.8.1"
+   ],
+   "text": "A rise in the price of one good is not inflation: inflation is a rise in the general price level, measured across the whole basket of goods and services a typical household buys, and a single good may rise while the general level holds or falls.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.8-004",
+   "objective_ids": [
+    "OBJ-0455-4.8.1"
+   ],
+   "text": "A slower rise in prices is not deflation: where the general price level rises 4% a year and then 2% a year it is still rising, and deflation needs the general level itself to fall.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.8-005",
+   "objective_ids": [
+    "OBJ-0455-4.8.2"
+   ],
+   "text": "The Consumer Prices Index (CPI) measures the general price level by tracking the cost of a fixed basket of goods and services bought by a typical household, with each item weighted by the share of household spending it takes.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.8-006",
+   "objective_ids": [
+    "OBJ-0455-4.8.2"
+   ],
+   "text": "The yearly inflation rate is the percentage rise in the CPI over a year: yearly inflation rate = (CPI this year - CPI last year) / CPI last year x 100.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.8-007",
+   "objective_ids": [
+    "OBJ-0455-4.8.2"
+   ],
+   "text": "The CPI is an index number with no unit of its own, and the basket and its weights are updated from household spending surveys as spending habits shift.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.8-008",
+   "objective_ids": [
+    "OBJ-0455-4.8.2"
+   ],
+   "text": "The CPI is one average that conceals a spread: where the prices of items in the basket rise at different rates, households spending a large share of their income on the fast-rising items face a faster rise in their cost of living than the index shows.",
+   "claim_type": "inference",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.8-009",
+   "objective_ids": [
+    "OBJ-0455-4.8.3"
+   ],
+   "text": "Demand-pull inflation arises where total spending in the economy grows faster than the economy's capacity to produce, so buyers compete for scarce goods and sellers raise prices.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.8-010",
+   "objective_ids": [
+    "OBJ-0455-4.8.3"
+   ],
+   "text": "Cost-push inflation arises where the costs of production rise and firms pass the rise on in higher prices, with total spending unchanged.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.8-011",
+   "objective_ids": [
+    "OBJ-0455-4.8.3"
+   ],
+   "text": "Deflation has a demand-side cause - total spending falls, so firms cut prices to win the fewer buyers there are - and a fall that begins in weak demand risks feeding itself, because buyers who expect lower prices tend to postpone spending.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.8-012",
+   "objective_ids": [
+    "OBJ-0455-4.8.3"
+   ],
+   "text": "Deflation also has a supply-side cause: where inputs become cheaper or productivity rises, firms can charge lower prices without losing profit, and the general price level can fall while output holds.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.8-013",
+   "objective_ids": [
+    "OBJ-0455-4.8.4"
+   ],
+   "text": "Inflation moves buying power between people: savers holding money and lenders repaid in fixed money sums tend to lose, borrowers repaying fixed money debts tend to gain, and workers and consumers on fixed money incomes tend to lose until pay catches up.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.8-014",
+   "objective_ids": [
+    "OBJ-0455-4.8.4"
+   ],
+   "text": "High or unexpected inflation harms the wider economy: firms cannot predict costs or set prices with confidence, wage bargaining turns into a chase between prices and pay, and exports tend to become dearer against rivals' goods where domestic prices rise faster than trading partners' prices.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.8-015",
+   "objective_ids": [
+    "OBJ-0455-4.8.4"
+   ],
+   "text": "Deflation chains into the real economy: buyers postpone purchases, firms cut output and jobs, the workers who lose income spend less and prices fall again; and debts fixed in money become heavier in real terms as each unit of money buys more.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.8-016",
+   "objective_ids": [
+    "OBJ-0455-4.8.4"
+   ],
+   "text": "A low, steady rise in the general price level tends to be easier for an economy to manage than falling prices, because wages and debts adjust more smoothly, while deflation risks a self-feeding fall in spending and output.",
+   "claim_type": "evaluative",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.8-017",
+   "objective_ids": [
+    "OBJ-0455-4.8.5"
+   ],
+   "text": "The range of policies against inflation runs through monetary policy (raising interest rates to slow the growth of total spending), fiscal policy (cutting government spending or raising taxes) and supply-side measures that raise capacity or ease input costs; against deflation the same routes run in reverse, with rate cuts and higher spending aimed at restarting total spending.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.8-018",
+   "objective_ids": [
+    "OBJ-0455-4.8.5"
+   ],
+   "text": "A rise in interest rates tends to slow inflation driven by fast spending: borrowing becomes dearer, saving is better rewarded, the growth of total spending slows, and sellers stop being able to raise prices against buyers.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.8-019",
+   "objective_ids": [
+    "OBJ-0455-4.8.5"
+   ],
+   "text": "The effectiveness of anti-inflation policy depends on the cause of the price rise: spending restraint is well aimed at demand-pull pressure, but where prices rise because costs are pushed up, dearer borrowing squeezes output and jobs without touching the cause, and supply-side measures do more.",
+   "claim_type": "evaluative",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-4.8-020",
+   "objective_ids": [
+    "OBJ-0455-4.8.5"
+   ],
+   "text": "Policies against deflation - cutting interest rates, raising government spending - tend to work slowly where confidence is low, because households expecting lower prices may keep postponing purchases even when credit is cheap, and each route trades against other government aims while it works.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  }
+ ]
+}

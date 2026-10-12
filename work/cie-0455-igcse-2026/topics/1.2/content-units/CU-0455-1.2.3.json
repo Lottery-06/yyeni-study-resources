@@ -1,0 +1,108 @@
+{
+ "unit_id": "CU-0455-1.2.3",
+ "title": "Quantity and quality",
+ "objective_ids": [
+  "OBJ-0455-1.2.3"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 293,
+  "target": 356,
+  "max": 420
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "1.2.3-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Distinguish the quantity of a factor of production from its quality, and analyse what a change in each does to output and to incomes.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {},
+   "authored_hash": "53555b66c9f191dc20155b45860beb89c9934d6439e370dc054b0ff65e0f29e4"
+  },
+  {
+   "block_id": "1.2.3-b2",
+   "block_type": "definition",
+   "heading": "Counting units against weighing units",
+   "text": "The quantity of a factor is how much of it is available: the number of workers, the hectares of land, the count of machines. The quality of a factor is how productive each unit is in use: the skill and health of a worker, the fertility of soil, the age and precision of a machine. Quantity counts units; quality measures what each unit yields. An economy can have many workers and low output per worker, or few workers and high output per worker - both patterns are found among real economies, and the difference between them is quality, not quantity.",
+   "claim_ids": [
+    "CLM-0455-1.2-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.2-007": 1
+   },
+   "authored_hash": "070dc652a6969c4b3cd31d2e745a25858ff8b844dc76da2bfe839c1bf129dec9"
+  },
+  {
+   "block_id": "1.2.3-b3",
+   "block_type": "worked_calculation",
+   "heading": "The same forty machinists",
+   "text": "Oshakati Textiles ran a two-year training programme for its machinists. Before the training, 40 machinists produced 1 200 shirts a week; after it, the same 40 machinists produced 1 600 shirts a week. The quantity of labour did not change: 40 machinists before, 40 machinists after. The quality rose. Output per machinist went from 1 200 divided by 40, which is 30 shirts a week, to 1 600 divided by 40, which is 40 shirts a week, a gain of 40 - 30 = 10 shirts per machinist each week. The firm now fills larger orders without hiring, and the trained machinists command higher wages, because a more productive worker is worth more to any employer who bids for them.",
+   "claim_ids": [
+    "CLM-0455-1.2-007",
+    "CLM-0455-1.2-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.2-007": 1,
+    "CLM-0455-1.2-008": 1
+   },
+   "authored_hash": "584c8f8dc4dfa64d525081aef06cfb740843aa162da0dc03795b9d4ab8aba7c7"
+  },
+  {
+   "block_id": "1.2.3-b4",
+   "block_type": "example",
+   "heading": "Two routes to the same goal",
+   "text": "The garment industry of Vietnam took the quantity route in its early years: farms released workers into city factories, and output rose mainly because more hands were at the machines. The planners then met the question such economies face - growth from adding hands slows once the flow from the farms thins, so training colleges followed the factories to raise the quality of the workers already there. Adding units and improving units are the two routes an economy has, and the second tends to matter more once the first has run its course.",
+   "claim_ids": [
+    "CLM-0455-1.2-009",
+    "CLM-0455-1.2-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.2-009": 1,
+    "CLM-0455-1.2-008": 1
+   },
+   "authored_hash": "268283949afc3777932a27068d3e8df5f92b84926879c4fd757fb9a64cf28595"
+  },
+  {
+   "block_id": "1.2.3-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Raising the quality of labour is the aim of the education and training spending that topic 4.3 follows through government budgets, and the extra output it releases is what shifts the production possibility curve of topic 1.4 outward.",
+   "claim_ids": [
+    "CLM-0455-1.2-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.2-008": 1
+   },
+   "authored_hash": "49a2c38418e1340fe29e435cd0cd2faf87fc14c26cafdb3f46d79491a4f33b0f"
+  }
+ ],
+ "word_count": 395
+}

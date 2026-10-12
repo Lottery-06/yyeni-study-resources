@@ -1,0 +1,94 @@
+{
+ "unit_id": "CU-0455-4.4.1",
+ "title": "What money supply and monetary policy mean",
+ "objective_ids": [
+  "OBJ-0455-4.4.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_definition",
+ "depth_tier": 1,
+ "word_budget": {
+  "min": 250,
+  "target": 305,
+  "max": 360
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "4.4.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define money supply, define monetary policy, and state which institution carries it out.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "9fa2be315e5350314a1aa95a97707fdf396d6d7a186a52a7081ef4e1f8e5053d"
+  },
+  {
+   "block_id": "4.4.1-b2",
+   "block_type": "definition",
+   "heading": "Money supply and the policy built on it",
+   "text": "Money supply is the total stock of money in an economy at a point in time: the notes and coins in circulation plus the bank deposits that can be spent by card, cheque or transfer. Deposits count because they pay for goods in the same way cash does. Monetary policy is the use of changes in interest rates and of measures to control the growth of the money supply to influence the economy's performance. In Namibia the Bank of Namibia, the central bank, carries it out, setting the rate at which it lends to commercial banks, and that rate shapes the loan and deposit rates banks offer households and firms. Central banks are often confused with commercial banks: a commercial bank takes deposits and makes loans, while the central bank stands above the banks and steers them. The Bank of Japan plays this steering role, as does the central bank of the Netherlands within the European system.",
+   "claim_ids": [
+    "CLM-0455-4.4-001",
+    "CLM-0455-4.4-002",
+    "CLM-0455-4.4-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.4-001": 1,
+    "CLM-0455-4.4-002": 1,
+    "CLM-0455-4.4-003": 1
+   },
+   "authored_hash": "26eeeea887c5d0f6ee2e225b2f09a423b730aefc02e3bd2a9b3b474c66294b7c"
+  },
+  {
+   "block_id": "4.4.1-b3",
+   "block_type": "worked_application",
+   "heading": "One rate rise traced through a bank",
+   "text": "In 2024 Oshakati Savings Bank charges households 6% a year on loans. The Bank of Namibia raises the rate at which it lends to commercial banks, so the commercial bank is likely to raise its loan rate to 9%, because its own funds cost more. The interest on a N$20 000 loan at 6% is 0.06 x N$20 000 = N$1 200 a year. At 9% it is 0.09 x N$20 000 = N$1 800. The gap of N$1 800 - N$1 200 = N$600 is what a borrowing household feels, so households tend to borrow less and the stock of money grows more slowly. This is the lever monetary policy pulls.",
+   "claim_ids": [
+    "CLM-0455-4.4-002",
+    "CLM-0455-4.4-003",
+    "CLM-0455-4.4-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.4-002": 1,
+    "CLM-0455-4.4-003": 1,
+    "CLM-0455-4.4-005": 1
+   },
+   "authored_hash": "db0b7f4eaa37ef5b41cee89396594835b8d683eed39f1a21308ac615621eecb0"
+  },
+  {
+   "block_id": "4.4.1-b4",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Monetary policy is one instrument for reaching the government's macroeconomic aims, alongside the spending and taxation decisions of topic 4.3 and the role of government in topic 4.1. Interest rates also move exchange rates, developed in topic 6.3.",
+   "claim_ids": [
+    "CLM-0455-4.4-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.4-002": 1
+   },
+   "authored_hash": "77a7a7eff5bfdc68ec8bc9d94f46f9efa324c5a1bea135e7b7312bb73afaf7d3"
+  }
+ ],
+ "word_count": 340
+}

@@ -1,0 +1,107 @@
+{
+ "unit_id": "CU-0455-3.7.2",
+ "title": "Working out the firm's costs",
+ "objective_ids": [
+  "OBJ-0455-3.7.2"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_diagram",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 264,
+  "target": 322,
+  "max": 380
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "3.7.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Work out total, fixed, variable and average costs from figures, and explain how a change in output moves the averages.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "6c0a0d829ee962e153dbdc0cb956349df2d7aba4b8fa2cbecb0fa19a839a7f59"
+  },
+  {
+   "block_id": "3.7.2-b2",
+   "block_type": "formula",
+   "heading": "The working formulas",
+   "text": "Total cost = fixed cost + variable cost. Average total cost = total cost / output; average fixed cost = fixed cost / output; average variable cost = variable cost / output. Otjiwa Dairy in Gobabis pays N$6 000 a month in fixed costs and N$4 for the ingredients of each litre it processes. At 3 000 litres a month its variable costs come to N$4 x 3 000 = N$12 000, so total cost = N$6 000 + N$12 000 = N$18 000.",
+   "claim_ids": [
+    "CLM-0455-3.7-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.7-004": 1
+   },
+   "authored_hash": "1033d47de9f558792bdd813540f36789de1427343999d67145949699f322c145"
+  },
+  {
+   "block_id": "3.7.2-b3",
+   "block_type": "worked_calculation",
+   "heading": "The averages, worked through",
+   "text": "At those 3 000 litres, average fixed cost = N$6 000 / 3 000 litres = N$2.00 per litre, average variable cost = N$12 000 / 3 000 = N$4.00 per litre, and average total cost = N$18 000 / 3 000 = N$6.00 per litre. At 6 000 litres, variable costs reach N$4 x 6 000 = N$24 000, so total cost = N$6 000 + N$24 000 = N$30 000 and average total cost = N$30 000 / 6 000 = N$5.00 per litre: average fixed cost has fallen to N$1.00 while average variable cost held at N$4.00. A juice bottler in Vietnam runs the same arithmetic on its own figures.",
+   "claim_ids": [
+    "CLM-0455-3.7-004",
+    "CLM-0455-3.7-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.7-004": 1,
+    "CLM-0455-3.7-005": 1
+   },
+   "authored_hash": "2c2ec8a8fa3cf4f9ae6f27b3ace9902bb3cef3e2702031c2ea88e2839f15ec00"
+  },
+  {
+   "block_id": "3.7.2-b4",
+   "block_type": "analysis_chain",
+   "heading": "Why output moves the averages",
+   "text": "Average fixed cost falls as output rises because the same fixed payment is spread over more units, and this tends to pull average total cost down at first. Average variable cost is steadier: where each extra litre costs the dairy N$4 in ingredients, the average holds at N$4.00. Where output strains capacity - overtime pay, machine breakdowns, a crowded cold room - the cost of one more unit rises, and average variable cost and average total cost turn upward with it.",
+   "claim_ids": [
+    "CLM-0455-3.7-005",
+    "CLM-0455-3.7-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.7-005": 1,
+    "CLM-0455-3.7-006": 1
+   },
+   "authored_hash": "e8b75daf118cec435ed27a0b9a4d6cdea340540aed1988e76de8534b09582337"
+  },
+  {
+   "block_id": "3.7.2-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The revenue set against these costs is section 3.7.3; the objectives that shape how a firm answers a cost rise are section 3.7.5; and the market the firm sells in is topic 3.8.",
+   "claim_ids": [
+    "CLM-0455-3.7-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.7-005": 1
+   },
+   "authored_hash": "38bf32b4447732aa3c24a78106dff82ae419417c5bb67b365716e19b595502b2"
+  }
+ ],
+ "word_count": 348
+}

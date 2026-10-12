@@ -1,0 +1,152 @@
+{
+ "unit_id": "CU-0455-6.4.4",
+ "title": "Policies for external stability",
+ "objective_ids": [
+  "OBJ-0455-6.4.4"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_policy_evaluation",
+ "depth_tier": 4,
+ "word_budget": {
+  "min": 282,
+  "target": 344,
+  "max": 405
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "6.4.4-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Compare policies for a sustainable external position and judge them against the cause of the imbalance and their costs.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "db17485392ce0db988f77b99197ead147053db046650f7154ffcec82fe88e68e"
+  },
+  {
+   "block_id": "6.4.4-b2",
+   "block_type": "definition",
+   "heading": "Stability rather than an exact zero",
+   "text": "Balance of payments stability means a sustainable external payments position without persistent pressures forcing disruptive adjustment. A temporary deficit financing productive equipment can be manageable. Policy should address the cause of an imbalance rather than pursue a zero current-account balance in each period.",
+   "claim_ids": [
+    "CLM-0455-6.4-013"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.4-013": 1
+   },
+   "authored_hash": "2eecf0ccae4f0cfe732b029c388edabd68929de451e2846c25e974926015287f"
+  },
+  {
+   "block_id": "6.4.4-b3",
+   "block_type": "plain_explanation",
+   "heading": "Reducing or switching spending",
+   "text": "Higher taxes, lower government spending or higher interest rates can restrain domestic spending and reduce import purchases. However, domestic firms can also lose sales, reducing GDP and jobs. Tariffs or quotas may switch expenditure to domestic substitutes, but they can raise household prices and costs for firms using imported inputs. Trading partners may retaliate, damaging exports. The benefit depends on suitable home substitutes being available.",
+   "claim_ids": [
+    "CLM-0455-6.4-014"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.4-014": 1
+   },
+   "authored_hash": "b1b4c401c36c9130acd900e98de0c91e64e9d4b1e6fa351d2b75bffa44dc3fc7"
+  },
+  {
+   "block_id": "6.4.4-b4",
+   "block_type": "analysis_chain",
+   "heading": "Changing relative prices",
+   "text": "A depreciation can make exports cheaper in foreign currency and imports dearer at home, with quoted prices unchanged. An improvement in the current account depends on how price-elastic demand for exports and imports is: combined export and import demand must be elastic enough to respond to the price changes, and domestic supply must be able to expand. If essential imports have few substitutes or export capacity is constrained, higher import costs may outweigh additional export receipts. Contracts and production delays can slow the response.",
+   "claim_ids": [
+    "CLM-0455-6.4-015"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.4-015": 2
+   },
+   "authored_hash": "0cd13ea853851116e206672b025954807a11830154716b59466f587cea4dc644",
+   "prior_hash": "1c434738c58eea956d498f825fe536bafecfc7f4b8a73fffd7f1f0e803c69c7f",
+   "repair_note": "Planner audit 2026-10-06: removed the named Marshall-Lerner condition (beyond the 0455 syllabus; the condition is kept in plain words) and corrected cross-references to topics 2.7 (PED) and 6.4 (current account)."
+  },
+  {
+   "block_id": "6.4.4-b5",
+   "block_type": "worked_application",
+   "heading": "Improving the ability to export",
+   "text": "In an invented case, a Namibian fruit processor loses Botswana and German orders because deliveries arrive late. Better transport infrastructure and worker training may cut delays and waste, helping the firm retain buyers and earn export receipts. Simply restricting imports would not repair late delivery and might make imported packaging dearer. A Japanese producer facing the same delivery problem could also benefit from better logistics. Such supply-side measures take time and public resources; they improve the external position if firms use them to produce goods buyers want.",
+   "claim_ids": [
+    "CLM-0455-6.4-016",
+    "CLM-0455-6.4-014"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.4-016": 1,
+    "CLM-0455-6.4-014": 1
+   },
+   "authored_hash": "1042da1a53bfef8a4ae8583a0561729297075a43a5b8e51ee191fc2c6ada8b87"
+  },
+  {
+   "block_id": "6.4.4-b6",
+   "block_type": "evaluation",
+   "heading": "Choosing against the cause",
+   "text": "For an import surge driven by excessive domestic spending, spending restraint may work quickly but has employment costs. For weak export quality or delivery, training and infrastructure address the cause more directly. On balance, combine measures where several causes operate, judging sustainable receipts against household welfare, public cost and adjustment time. A policy that closes a deficit by creating a deep recession can be a poor choice.",
+   "claim_ids": [
+    "CLM-0455-6.4-013",
+    "CLM-0455-6.4-014",
+    "CLM-0455-6.4-016"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.4-013": 1,
+    "CLM-0455-6.4-014": 1,
+    "CLM-0455-6.4-016": 1
+   },
+   "authored_hash": "6911d9e82fb98e43147a3d077bec17f842f591ac04cb1d209fd51a3bfa89dfa1"
+  },
+  {
+   "block_id": "6.4.4-b7",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Policies connect to fiscal policy in 4.3, monetary policy in 4.4, supply-side policy in 4.5, protection in 6.2 and exchange rates in 6.3.",
+   "claim_ids": [
+    "CLM-0455-6.4-014",
+    "CLM-0455-6.4-015",
+    "CLM-0455-6.4-016"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.4-014": 1,
+    "CLM-0455-6.4-015": 2,
+    "CLM-0455-6.4-016": 1
+   },
+   "authored_hash": "2692211081d6429d5d70a1409fc8917243eaccefeaa2ec4737f93b0b6b5a43ea",
+   "prior_hash": "2692211081d6429d5d70a1409fc8917243eaccefeaa2ec4737f93b0b6b5a43ea",
+   "reviewed_unchanged": "Planner audit 2026-10-06: re-read against the revised claim (named condition removed); this text did not name it and needed no change."
+  }
+ ],
+ "word_count": 380
+}

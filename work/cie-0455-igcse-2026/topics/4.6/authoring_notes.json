@@ -1,0 +1,20 @@
+{
+ "topic_id": "4.6",
+ "deviations": [
+  {
+   "from": "subtype DIAGRAM on slots ITEM-0455-4.6-008-DIAGRAM and ITEM-0455-4.6-013-DIAGRAM",
+   "to": "subtype SYNTH with the same assessment_objectives [AO2, AO3] and Bloom Apply",
+   "why": "the v0.2.0-draft learning-items schema has no DIAGRAM subtype; SYNTH is the schema's carrier of joined AO2/AO3 reasoning. The marking guidance still names the diagram parts - axes labelled, original curves drawn and labelled, the shift or movement in the correct direction, the new equilibrium marked and labelled, and what the diagram shows in words - and each answer is a precise verbal walk-through of the production possibility curve, since this subject declares no chart renderer and no depiction is rendered in prose."
+  },
+  {
+   "from": "no MISCON slot in the work order for the three misconceptions-register entries on topic 4.6",
+   "to": "ITEM-0455-4.6-029-MISCON, ITEM-0455-4.6-030-MISCON and ITEM-0455-4.6-031-MISCON added beyond the 28 plan slots",
+   "why": "the register's how-to-use rule gives every entry one MISCON card on the objective it attaches to; the two cause_vs_consequence entries on OBJ-0455-4.6.3 and the macroeconomic-vs-microeconomic entry on OBJ-0455-4.6.6 each earn a discrimination card, and the register's wording never appears in the learner-facing text."
+  },
+  {
+   "from": "work order P02 brief (14 marks)",
+   "to": "a five-part structure of 1 + 1 + 2 + 4 + 6 marks",
+   "why": "the brief names parts of 1 mark (Calculate), 2 marks (Identify or State), 4 marks (Explain) and 6 marks (Analyse), which sums to 13, so a 1-mark State part was added to reach the stated 14 marks while keeping the named part types and tariffs intact, as the sibling topics did."
+  }
+ ]
+}

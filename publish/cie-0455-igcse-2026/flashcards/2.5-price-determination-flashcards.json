@@ -1,0 +1,829 @@
+{
+ "topic_number": "2.5",
+ "topic_title": "Price determination",
+ "topic": "2.5 Price determination",
+ "qualification": "Cambridge IGCSE Economics 0455 (syllabus v2, examined 2026)",
+ "item_count": 16,
+ "items": [
+  {
+   "item_id": "ITEM-0455-2.5-001-DEF",
+   "objective_ids": [
+    "OBJ-0455-2.5.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.5-001",
+    "CLM-0455-2.5-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Kaoko Juice trades at the Opuwo weekend market, where the price of a bottle settles by itself. Define market equilibrium as the term applies to this juice market.",
+   "canonical_answer": "Market equilibrium is the position of a market in which the quantity demanded equals the quantity supplied. For the juice market: the equilibrium price is the price of a bottle at which the quantity buyers are willing and able to buy equals the quantity sellers are willing and able to sell, and the equilibrium quantity is the number of bottles bought and sold at that price over the period the market runs. At that price the market clears - no bottles are left unsold and no buyer goes without.",
+   "marking_guidance": [
+    "Reward the precise definition: the quantity demanded equals the quantity supplied at the prevailing price.",
+    "The meaning must name both the equilibrium price and the equilibrium quantity; a definition of demand or of supply alone earns nothing."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.5-001": 1,
+    "CLM-0455-2.5-002": 1
+   },
+   "authored_hash": "df854127db6c8dbca3441e55c0a8fd83b33fef9f983364ca7ee953d3f223ed12",
+   "objective_titles": [
+    "market equilibrium"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.5-002-DIAGRAM",
+   "objective_ids": [
+    "OBJ-0455-2.5.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.5-001",
+    "CLM-0455-2.5-002",
+    "CLM-0455-2.5-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "SYNTH",
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype SYNTH",
+   "command_word": "Discuss",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "In Oshakati, demand for school shirts rises sharply in December as families prepare for the new school year, and the shirt price moves from N$85 to N$95 while monthly sales rise from 220 to 260 shirts. Discuss how a demand and supply diagram of this market shows the move to the new equilibrium, giving a verbal walk-through of each part of the diagram and what it shows.",
+   "canonical_answer": "Walk through the diagram in words, element by element. First, the axes labelled: the price of a shirt, in N$, on the vertical axis, and the quantity of shirts a month on the horizontal axis. Second, the original curves drawn and labelled: the demand curve D1 and the supply curve S, crossing at the starting equilibrium E1, at N$85 and 220 shirts. Third, the shift or movement, in the correct direction: the December rush is a rise in demand, a condition of demand changing, so the whole demand curve shifts right, from D1 to D2, while the supply curve stays where it was, because nothing on the selling side changed. At the old price of N$85 a shortage now appears, since more families want shirts than the sellers offer, so buyers who miss out are likely to offer more and the price is bid up; as it rises, the market slides up along S and up along D2. Fourth, the new equilibrium marked and labelled: E2, where D2 crosses S, at N$95 and 260 shirts, since 260 - 220 = 40 more shirts a month are sold at the higher price. Fifth, what the diagram shows, in words: a rise in demand, with supply unchanged, tends to raise both the equilibrium price and the equilibrium quantity; the market has not travelled along its old curves, it has moved to a new crossing point, and the shortage at N$85 was the pressure that carried it there.",
+   "marking_guidance": [
+    "The walk-through must open with the axes labelled - shirt price in N$ on the vertical axis, shirts a month on the horizontal - before anything else.",
+    "Reward the original curves drawn and labelled: D1 and S crossing at E1, at N$85 and 220 shirts, described before the change.",
+    "Check the shift or movement, in the correct direction: a rise in demand with supply unchanged shifts the demand curve right, and the shortage at the old price then puts upward pressure on the price.",
+    "The new equilibrium marked and labelled - E2 at N$95 and 260 shirts - earns its mark, and what the diagram shows, in words, must close the walk-through.",
+    "The analysis marks reward the link from the shortage at N$85 to the rising price, and the consequence for the parties - families paying N$10 more a shirt and the firm selling 40 more shirts a month."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.5-001": 1,
+    "CLM-0455-2.5-002": 1,
+    "CLM-0455-2.5-004": 1
+   },
+   "authored_hash": "10310e03488b04da9b70448642e71a79162cf430d5d7721a14b046e331cb7c40",
+   "objective_titles": [
+    "market equilibrium"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.5-003-INTERP",
+   "objective_ids": [
+    "OBJ-0455-2.5.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.5-001",
+    "CLM-0455-2.5-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype INTERP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "A maize-meal trader at the Ruacana weekly market lists five trial prices for a 10 kg bag, changing nothing else. At N$15: 140 bags demanded, 60 supplied. At N$20: 120 demanded, 80 supplied. At N$25: 100 demanded, 100 supplied. At N$30: 80 demanded, 120 supplied. At N$35: 60 demanded, 140 supplied. Explain what these figures show about the market for maize meal.",
+   "canonical_answer": "What the data shows: the relationship between the two quantities and the price is that the quantity demanded falls as the price rises while the quantity supplied rises, and the two meet at N$25, where 100 bags are both demanded and supplied - the equilibrium price, with 100 bags the equilibrium quantity. Supporting evidence: the comparison across the five prices shows a gap on either side of N$25 - a shortage of 40 bags at N$20, since 120 - 80 = 40 bags, and a surplus of 40 bags at N$30, since 120 - 80 = 40 bags. Why: the explanation of the relationship is that a higher price turns some buyers away and draws more sellers in, so the two quantities move in opposite directions as the price climbs, and the market clears where they cross. The exception to weigh: however, the reading holds provided nothing else changed while the trader experimented - if incomes or the harvest were to shift between trial prices, the schedules themselves would move and the meeting point would move with them.",
+   "marking_guidance": [
+    "What the data shows - the equilibrium at N$25 where the quantities match - must be stated first, with supporting evidence taken as a comparison across the five prices.",
+    "The exception or limit earns a mark: however, the schedule assumes nothing else changed, and a shift of demand or supply would move the meeting point.",
+    "The why - the explanation of the relationship, buyers turning away and sellers drawn in as the price rises - is worth as much as the reading; quoting the quantities alone is not interpretation."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.5-001": 1,
+    "CLM-0455-2.5-003": 1
+   },
+   "authored_hash": "5673c4f453a1f5163e4077bcf863221923b648e7962514f3673d56c7aa272e70",
+   "objective_titles": [
+    "market equilibrium"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.5-004-APP",
+   "objective_ids": [
+    "OBJ-0455-2.5.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.5-001",
+    "CLM-0455-2.5-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "On peak weekends Etosha Gate Lodge fills all 40 of its rooms at N$900 a night: no beds stand empty and no guest with a booking goes without a room. Explain, using the figures, why N$900 is the equilibrium price of the lodge's peak-weekend market.",
+   "canonical_answer": "The context: the figures show 40 rooms demanded and 40 rooms supplied at N$900 a night - the quantity guests are willing and able to book equals the quantity the lodge is willing and able to offer, which is what market equilibrium means. The reasoning: because the two quantities match, the market clears - the lodge is likely to hold the price, since standing empty rooms would point to a price too high and turned-away guests to a price too low, and neither appears; no surplus of rooms piles up and no shortage of rooms shows. The conclusion, therefore, is that N$900 is the equilibrium price and 40 rooms the equilibrium quantity for peak weekends, and the price is likely to stay there until demand or supply changes - a quiet season or new rooms built.",
+   "marking_guidance": [
+    "The context - the figures 40 rooms and N$900, quantities matched - must anchor the answer.",
+    "Reasoning: because the quantities demanded and supplied are equal at N$900, the link to the market clearing must be made explicit.",
+    "Conclusion: therefore N$900 is the equilibrium price, and the answer should say what would move it - a change in demand or supply."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.5-001": 1,
+    "CLM-0455-2.5-002": 1
+   },
+   "authored_hash": "e2f3b5b74d6ad1b687429098d105a0e4a421b3fc785e9ce904e0956eae1ea3fb",
+   "objective_titles": [
+    "market equilibrium"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.5-005-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-2.5.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.5-001",
+    "CLM-0455-2.5-002",
+    "CLM-0455-2.5-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "A three-day cultural festival comes to Windhoek. Taxi fares stand at N$25 a trip at first, and at that fare the quantity of trips demanded rises from 4 000 to 5 200 a weekend while operators can still supply about 4 000. Analyse the consequences for taxi passengers, taxi owners and the minibus drivers the festival draws into the city, as the market moves to its new equilibrium.",
+   "canonical_answer": "Starting point: the initial change is a rise in demand for taxi trips - a festival crowd - with the fare unchanged at N$25, so at that fare the quantity demanded, 5 200 trips, exceeds what operators can supply, about 4 000. Mechanism: because a shortage of 1 200 trips appears, since 5 200 - 4 000 = 1 200 trips, passengers who miss out are likely to offer more, and this causes fares to be bid up; as fares rise, the quantity demanded eases back along the new demand curve while operators work longer hours and more minibuses join, raising the quantity supplied, until a new equilibrium fare settles above N$25 with more trips sold than before the festival. Consequence for passengers: those who ride pay a higher fare than the usual N$25, though more trips are to be had than in an ordinary weekend. Consequence for taxi owners: each trip earns more and the weekend's takings rise, since more trips are sold at a higher fare. Consequence for the minibus drivers: demand for their work rises, so more driving hours and incomes are likely. For whom the effects land: passengers carry the higher fare, the owners keep the higher takings, the drivers gain hours - and when the festival ends, demand shifts back and the process runs in reverse.",
+   "marking_guidance": [
+    "Starting point: the initial change - the rise in demand at an unchanged fare - must be named first, with the 1 200-trip shortage attached.",
+    "Mechanism: because the shortage appears at N$25, this causes fares to be bid up and the market to slide towards its new equilibrium, not the curves to shift again.",
+    "Consequence: therefore trace each named party - the passengers, the owners, the drivers - to its outcome; the higher fare and the extra trips are the evidence.",
+    "For whom: name for whom each consequence lands - the passenger, the owner, the driver - and the reversal when the festival ends."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.5-001": 1,
+    "CLM-0455-2.5-002": 1,
+    "CLM-0455-2.5-004": 1
+   },
+   "authored_hash": "070af455235640971bd1ca5cc83dcb4ca6bb5c4e1c6976a27b9c7a8316174efd",
+   "objective_titles": [
+    "market equilibrium"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.5-011-FEATURE",
+   "objective_ids": [
+    "OBJ-0455-2.5.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.5-001",
+    "CLM-0455-2.5-002",
+    "CLM-0455-2.5-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype FEATURE",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 4,
+   "prompt": "An examiner asks what to look for in a market that has reached equilibrium. Explain the characteristics of a market in equilibrium and what each one tells you.",
+   "canonical_answer": "A market in equilibrium has four characteristics. Matched quantities: the quantity demanded equals the quantity supplied at the prevailing price, which is the definition the rest follow. A clearing market: sellers sell what they offered and buyers buy what they sought, so no unsold stock piles up and no would-be buyer walks away - the elements of a surplus and of a shortage are both absent. A settled price: because no gap presses the price either way, the price tends to stay put from week to week, which tells you the market has stopped adjusting. A crossing point: on the diagram, the demand curve crosses the supply curve at the equilibrium price and quantity, which is where to read both figures off; and the position lasts until demand or supply changes, when a new crossing point takes over.",
+   "marking_guidance": [
+    "Reward the characteristics: matched quantities, a clearing market, a settled price, the crossing point on the diagram - what it includes for each is the reason it marks equilibrium.",
+    "One mark per characteristic, up to four: naming a feature without saying what it tells you earns nothing."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.5-001": 1,
+    "CLM-0455-2.5-002": 1,
+    "CLM-0455-2.5-004": 1
+   },
+   "authored_hash": "1fee25b6e5d562e5d51d8f45c3a41f191bd3163ef059e76c62cce3620f66e1b4",
+   "objective_titles": [
+    "market equilibrium"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.5-006-DEF",
+   "objective_ids": [
+    "OBJ-0455-2.5.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.5-005",
+    "CLM-0455-2.5-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Marula Foods sells jam in Swakopmund. A radio report notes that the town's jam market is out of balance: jars pile up at one price and sell out at another. Define market disequilibrium as the term applies to this market.",
+   "canonical_answer": "Market disequilibrium is a position of a market in which the quantity demanded does not equal the quantity supplied at the prevailing price. For the jam market: at a price above the equilibrium level, sellers offer more jars than buyers take, which is a surplus; at a price below it, buyers want more jars than sellers offer, which is a shortage. In both positions the market does not clear, and the price sits somewhere other than its equilibrium level.",
+   "marking_guidance": [
+    "Reward the precise definition: the quantity demanded does not equal the quantity supplied at the prevailing price.",
+    "The meaning must show how disequilibrium relates to the equilibrium level - above it a surplus, below it a shortage; a definition of equilibrium alone earns nothing."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.5-005": 1,
+    "CLM-0455-2.5-006": 1
+   },
+   "authored_hash": "4a342bfb9e1ba127cff9208088ffa5c984f356b9cd02d30033bc7bb48e99449c",
+   "objective_titles": [
+    "market disequilibrium"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.5-007-DIAGRAM",
+   "objective_ids": [
+    "OBJ-0455-2.5.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.5-005",
+    "CLM-0455-2.5-006",
+    "CLM-0455-2.5-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "SYNTH",
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype SYNTH",
+   "command_word": "Discuss",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "Marula Foods installs faster jam-filling equipment at its Swakopmund kitchen. The market's original equilibrium is N$30 a jar with 150 jars a week; after the change, sellers offer 190 jars a week at N$30, and the market settles at N$24 with 160 jars. Discuss how a demand and supply diagram shows the surplus and the move to the new equilibrium, giving a verbal walk-through of each part of the diagram and what it shows.",
+   "canonical_answer": "Walk through the diagram in words, element by element. The axes labelled first: the price of a jar, in N$, on the vertical axis, and the quantity of jars a week on the horizontal. The original curves drawn and labelled: the demand curve D and the supply curve S1, crossing at the original equilibrium E1, at N$30 and 150 jars. The shift or movement, in the correct direction: the new equipment raises supply, so the supply curve shifts right, from S1 to S2, while the demand curve stays put, because nothing on the buying side changed. At the old price of N$30 the market is now out of balance: buyers still take 150 jars while sellers offer 190, a surplus of 40 jars, since 190 - 150 = 40 jars. Because jars sit unsold, the price comes under downward pressure, and as it slides from N$30 towards N$24 the quantity demanded rises along D while the quantity offered eases along S2, until the gap closes. The new equilibrium marked and labelled: E2, where D crosses S2, at N$24 and 160 jars - a lower price and a larger quantity, which is what a rise in supply tends to bring. What the diagram shows, in words: the market cleared at N$30 before the change and clears at N$24 after it; the surplus at N$30 was disequilibrium made visible, and the price fall was the pressure that carried the market from one crossing point to the other.",
+   "marking_guidance": [
+    "The walk-through must open with the axes labelled - jar price in N$ on the vertical, jars a week on the horizontal.",
+    "Reward the original curves drawn and labelled: D and S1 crossing at E1, at N$30 and 150 jars, described before the change.",
+    "Check the shift or movement, in the correct direction: a rise in supply shifts the supply curve right, and the surplus then appears at the old price with downward pressure on it.",
+    "The new equilibrium marked and labelled - E2 at N$24 and 160 jars - earns its mark, and what the diagram shows, in words, must close the walk-through.",
+    "The analysis marks reward the link from the 40-jar surplus to the falling price, and the consequence for the parties - buyers paying N$6 less a jar and sellers moving 10 more jars a week."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.5-005": 1,
+    "CLM-0455-2.5-006": 1,
+    "CLM-0455-2.5-007": 1
+   },
+   "authored_hash": "be1385b70fcce7258b5b9438d326d0543993c15e53fa27a51cd5b8d7c8105c32",
+   "objective_titles": [
+    "market disequilibrium"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.5-008-INTERP",
+   "objective_ids": [
+    "OBJ-0455-2.5.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.5-005",
+    "CLM-0455-2.5-006",
+    "CLM-0455-2.5-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype INTERP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "A dry season hits the Gobabis maize-meal market. The miller holds the price of a 10 kg bag at N$20, where the weekly figures run: quantity demanded 130 bags, quantity supplied 85 bags, and 45 households go home without a bag. Explain what these figures show about the state of this market.",
+   "canonical_answer": "What the data shows: the market is in disequilibrium - at the held price of N$20 the quantity demanded, 130 bags, exceeds the quantity supplied, 85 bags, which is a shortage, and the empty-handed households measure it, since 130 - 85 = 45 bags. Supporting evidence: the comparison of the two quantities at the one price, with the held price sitting below the level where the two would match. Why: the explanation of the relationship is that at N$20 more buyers are willing and able to pay than the dry-season supply allows the miller to offer, so the held price leaves demand unmet; if the price were free to move, the shortage would put upward pressure on it, easing the quantity demanded along its curve and drawing more supply in. The exception to weigh: however, the figures alone cannot separate a held-too-low price from a fall in supply - a poor harvest shifts the whole supply schedule, and the market's earlier equilibrium price would be needed to tell the two stories apart.",
+   "marking_guidance": [
+    "What the data shows - a shortage at the held price, a market in disequilibrium - must be read first, with supporting evidence as the comparison of the two quantities.",
+    "The exception earns a mark: however, the figures cannot separate a held-too-low price from a fall in supply without the earlier equilibrium.",
+    "The why - the explanation of the relationship through unmet demand and upward pressure on price - carries the interpretation; quoting the bag counts alone earns nothing."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.5-005": 1,
+    "CLM-0455-2.5-006": 1,
+    "CLM-0455-2.5-007": 1
+   },
+   "authored_hash": "fa34219e86f6bfeefd89ee6fabf05ea86eb0dd5c7eba9102c33339da11c8f5e3",
+   "objective_titles": [
+    "market disequilibrium"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.5-009-APP",
+   "objective_ids": [
+    "OBJ-0455-2.5.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.5-005",
+    "CLM-0455-2.5-006",
+    "CLM-0455-2.5-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "Etosha Gate Lodge keeps its peak-season room price at N$900 a night even after a new road doubles the visitors to the area. The lodge still offers its 40 rooms, but 90 rooms a weekend are now sought at that price, and 50 parties are turned away. Explain, using the figures, why the room market is in disequilibrium and what the figures mean for it.",
+   "canonical_answer": "The context: the figures show 90 rooms a weekend demanded at N$900 while the lodge offers 40, so the quantity demanded exceeds the quantity supplied - a shortage of 50 rooms, since 90 - 40 = 50 rooms - which means the market does not clear at that price and is in disequilibrium. The reasoning: because the road changed a condition of demand, the demand curve has shifted right, and at the unchanged price of N$900 the market now sits below its new equilibrium price; the 50 turned-away parties are the visible gap. The conclusion, therefore: the room market is likely to see upward pressure on price - the lodge is likely to raise its rate, or rival rooms are likely to be added - until the quantity demanded eases and the quantity offered rises towards a new equilibrium above N$900, unless the lodge chooses to hold the price and ration its rooms instead.",
+   "marking_guidance": [
+    "The context - 90 rooms demanded, 40 offered, at N$900 - must anchor the answer; the figures are the evidence of the gap.",
+    "Reasoning: because demand shifted while the price stood still, the link from shortage to disequilibrium must be made explicit.",
+    "Conclusion: therefore name the likely direction - upward pressure on price towards a new equilibrium - or the lodge's choice to hold the price and ration rooms."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.5-005": 1,
+    "CLM-0455-2.5-006": 1,
+    "CLM-0455-2.5-007": 1
+   },
+   "authored_hash": "fe6cb1673e8115373c967ec054e1576169dffd2a813cdcded4aa3df9767114ce",
+   "objective_titles": [
+    "market disequilibrium"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.5-010-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-2.5.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.5-005",
+    "CLM-0455-2.5-006",
+    "CLM-0455-2.5-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "A poor season cuts the weekend catch of fresh fish at the Walvis Bay market. Stallholders hold the price at N$55 a kilo at first: the quantity demanded stays near 250 kilos while the catch falls to 175 kilos, and buyers start arriving before dawn. Analyse the consequences for fish-buying households, the stallholders and the boat crews, as the market moves out of and back towards equilibrium.",
+   "canonical_answer": "Starting point: the initial change is a fall in supply - a poor catch - with the price held at N$55 a kilo, so the quantity supplied, 175 kilos, falls 75 kilos short of the 250 demanded, since 250 - 175 = 75 kilos. Mechanism: because a shortage appears at N$55, buyers who miss out are likely to offer more, and this causes the price to be bid up; as it rises, the quantity demanded eases along the demand curve, some households switch to chicken, and the higher price draws harder fishing out, raising the quantity supplied, until the market settles at a new equilibrium above N$55 with fewer kilos traded than before the poor season. Consequence for households: those who keep buying pay more per kilo, and some buyers are likely to switch to chicken or maize meal instead. Consequence for the stallholders: each kilo earns more while the catch is small, so takings depend on whether the higher price outweighs the smaller volume. Consequence for the boat crews: the higher price usually means more sailing days and better pay per trip, though the sea decides the catch. For whom the effects land: households pay more or switch, stallholders trade price against volume, and the crews gain work while the shortage lasts.",
+   "marking_guidance": [
+    "Starting point: the initial change - the fall in supply with the price held at N$55 - must be named first, with the 75-kilo shortage attached.",
+    "Mechanism: because the shortage appears at the held price, this causes the price to be bid up and the market to slide towards its new equilibrium.",
+    "Consequence: therefore each named party - the households, the stallholders, the crews - needs its own traced outcome; the higher price and the smaller catch are the evidence.",
+    "For whom: name for whom each consequence lands - the household, the stallholder, the boat crew."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.5-005": 1,
+    "CLM-0455-2.5-006": 1,
+    "CLM-0455-2.5-007": 1
+   },
+   "authored_hash": "9252fc7f2615001b4dd23248fd345c5c21f5796d44c0b2924e3e716335ecf0d8",
+   "objective_titles": [
+    "market disequilibrium"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.5-012-FEATURE",
+   "objective_ids": [
+    "OBJ-0455-2.5.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.5-005",
+    "CLM-0455-2.5-006",
+    "CLM-0455-2.5-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype FEATURE",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 4,
+   "prompt": "An examiner asks what to look for in a market that has not cleared. Explain the characteristics of a market in disequilibrium and what each one tells you.",
+   "canonical_answer": "A market in disequilibrium has four characteristics. Unequal quantities: the quantity demanded does not equal the quantity supplied at the prevailing price, which is the definition the rest follow. A gap with a direction: either a surplus, where the price sits above its equilibrium level and sellers offer more than buyers take, or a shortage, where the price sits below it and buyers want more than sellers offer - the direction of the gap tells the two apart. A market that does not clear: unsold stock piles up in a surplus, and unmet buyers queue or go home in a shortage, so the market leaves someone on the losing side of the trade. Pressure on the price: because the gap must close somehow, the price tends to come under pressure - down with a surplus, up with a shortage - and it is this pressure that shows the market on its way back towards equilibrium.",
+   "marking_guidance": [
+    "Reward the characteristics: unequal quantities, the gap and its direction, the market not clearing, the pressure on the price - what it includes for each is the reason it marks disequilibrium.",
+    "One mark per characteristic, up to four: the direction of the gap - surplus above equilibrium, shortage below - is the detail that separates the two positions."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.5-005": 1,
+    "CLM-0455-2.5-006": 1,
+    "CLM-0455-2.5-007": 1
+   },
+   "authored_hash": "727f14ff0f7e6a40f6800125c02433979fcf690eac4f146b7208170369a9bbd7",
+   "objective_titles": [
+    "market disequilibrium"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.5-P01",
+   "objective_ids": [
+    "OBJ-0455-2.5.1",
+    "OBJ-0455-2.5.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.5-001",
+    "CLM-0455-2.5-002",
+    "CLM-0455-2.5-003",
+    "CLM-0455-2.5-004",
+    "CLM-0455-2.5-005",
+    "CLM-0455-2.5-006",
+    "CLM-0455-2.5-007"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "performance task type multiple_choice_set",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 3,
+   "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. Market equilibrium is the position where:\nA  the quantity demanded exceeds the quantity supplied\nB  the quantity demanded equals the quantity supplied\nC  the quantity supplied exceeds the quantity demanded\nD  the price is as high as sellers can make it\n\n2. The equilibrium price is best described as:\nA  the price the government sets for a good\nB  the price at which the market clears\nC  the highest price any buyer has paid\nD  the price sellers prefer, whatever the demand\n\n3. On a demand and supply diagram, the equilibrium sits:\nA  where the demand curve crosses the supply curve\nB  at the top of the demand curve\nC  where the supply curve meets the vertical axis\nD  halfway along the horizontal axis, by convention\n\n4. A price above its equilibrium level tends to produce:\nA  a shortage\nB  a surplus\nC  a new, higher equilibrium\nD  a rise in demand\n\n5. A shortage of a good is likely to put:\nA  downward pressure on the good's price\nB  upward pressure on the good's price\nC  no pressure on the price at all\nD  a shift of the supply curve to the right\n\n6. A rise in demand, with supply unchanged, tends to:\nA  raise the equilibrium price and the equilibrium quantity\nB  lower the equilibrium price and raise the equilibrium quantity\nC  lower the equilibrium price and the equilibrium quantity\nD  raise the equilibrium price and lower the equilibrium quantity\n\n7. A rise in supply, with demand unchanged, tends to:\nA  raise the equilibrium price and the equilibrium quantity\nB  lower the equilibrium price and raise the equilibrium quantity\nC  lower the equilibrium price and the equilibrium quantity\nD  raise the equilibrium price and lower the equilibrium quantity\n\n8. Unsold stock piling up on a stall tells the trader that the price is:\nA  below its equilibrium level\nB  at its equilibrium level\nC  above its equilibrium level\nD  irrelevant to the stock level",
+   "canonical_answer": "Key: 1 B, 2 B, 3 A, 4 B, 5 B, 6 A, 7 B, 8 C.\n1. B is the definition - the two quantities equal at the prevailing price. A and C describe the two positions of disequilibrium, a shortage and a surplus; D mistakes equilibrium for a seller's wish.\n2. B: at the equilibrium price the market clears, with no surplus and no shortage. A imports a price control, which is not what equilibrium means; C and D pin the price to one side of the market rather than the meeting of both.\n3. A: the crossing point gives the equilibrium price and quantity together. B reads one end of the demand curve; C is where the quantity supplied is zero; D guesses at a rule that does not exist.\n4. B: above equilibrium, the quantity supplied exceeds the quantity demanded, so stock piles up. A reverses the gap; C treats the held price as if the market had accepted it; D confuses the move to a new equilibrium with a shift of demand.\n5. B: buyers who miss out are likely to offer more, bidding the price up. A is the surplus mechanism working in reverse; C ignores the pressure the gap creates; D confuses the price rising along the supply curve with the curve itself shifting.\n6. A: the demand curve shifts right, so at the old price a shortage appears and the new price and quantity settle higher. B and D describe the pattern a rise in supply brings; C describes a fall in demand.\n7. B: the supply curve shifts right, so at the old price a surplus appears, the price falls and the quantity rises. A describes a rise in demand; C and D get one side of the pattern right and the other wrong.\n8. C: unsold stock is a surplus, which appears where the price sits above its equilibrium level. A would show queues, not stock; B would clear the stall; D denies the link the surplus shows.",
+   "marking_guidance": [
+    "Key: one mark per question, eight in total; the correct option for each is listed and every distractor is explained as the specific misunderstanding it catches.",
+    "Each distractor traces to a named error: disequilibrium confused with equilibrium, a price control confused with the market price, a shift confused with a movement, and the two gaps and their pressures confused in direction."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.5-001": 1,
+    "CLM-0455-2.5-002": 1,
+    "CLM-0455-2.5-003": 1,
+    "CLM-0455-2.5-004": 1,
+    "CLM-0455-2.5-005": 1,
+    "CLM-0455-2.5-006": 1,
+    "CLM-0455-2.5-007": 1
+   },
+   "authored_hash": "e6a15933f74ef4e4f0dc57b34a236c1908bb427a19a782a53c04ff498558797a",
+   "objective_titles": [
+    "market equilibrium",
+    "market disequilibrium"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.5-P02",
+   "objective_ids": [
+    "OBJ-0455-2.5.1",
+    "OBJ-0455-2.5.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.5-001",
+    "CLM-0455-2.5-004",
+    "CLM-0455-2.5-005",
+    "CLM-0455-2.5-006",
+    "CLM-0455-2.5-007"
+   ],
+   "item_type": "data_response",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type data_response",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "A radio report from Okahandja, October 2026: \"The craft market's wood carvers had a strange year. In the low season the stalls held carvings at N$60 each and 200 sold a week. Then a direct flight from Sao Paulo in Brazil began landing twice a week, and by the high season 340 carvings a week were changing hands at N$75. One stallholder told our reporter: at N$75 the shelves empty by Saturday lunchtime now.\"\n\nTable 1 - Okahandja carvings\n  low season: price N$60, 200 carvings sold a week\n  high season: price N$75, 340 carvings sold a week\n  flights from abroad: none in the low season, two a week in the high season\n\n(a) Calculate the increase in weekly carvings sold between the two seasons. [1]\n(b) Identify from the extract one reason the market price rose between the two seasons. [2]\n(c) Explain why the market moved from N$60 to N$75 rather than staying at N$60. [4]\n(d) Analyse what the change is likely to mean for the carvers, the visiting buyers and the stallholders who still hold N$60. [6]",
+   "canonical_answer": "(a) 340 - 200 = 140 carvings a week.\n(b) The twice-weekly direct flight from Sao Paulo, which raised the number of buyers in the market - a condition of demand - so the demand curve shifted right.\n(c) At N$60 the market cleared before the flights arrived. The flights raised demand, so at the old price the quantity demanded came to exceed what the stalls offered - a shortage - and buyers who missed out were likely to offer more, bidding the price up. As the price rose, the quantity demanded eased back along the demand curve while carvers worked longer and offered more, until the market cleared again at N$75, the new equilibrium price. The price moved because a condition of demand changed; had it stayed at N$60, the shortage would have persisted, with carvings rationed by queue rather than by price.\n(d) Expected relationship: a rise in demand, with supply slow to follow, raises the equilibrium price and quantity, and the pressure comes from a shortage at the old price. Evidence: 340 carvings a week at N$75 against 200 at N$60, with the flights bringing new buyers and the stallholder's shelves emptying by Saturday lunchtime. Analysis: for the carvers, a higher price per carving usually means more income a week and more work, so they are likely to carve more and take on helpers; for the visiting buyers, carvings cost N$15 more each, since 75 - 60 = N$15, though the choice on the shelves is wider than in the low season; for the stallholders still holding N$60, their carvings sell out fast at the old price, so they are likely to raise their prices or sell out and miss the income the market now offers. Exception: however, if the flights stop after the season, demand shifts back and the equilibrium slides towards N$60 again; and if carvers expand output fast, supply may shift right and take part of the price rise back.",
+   "marking_guidance": [
+    "Parts (a) and (b) are read from the data; part (c) earns one mark per distinct linked statement - the shortage at the old price, the pressure up, the new equilibrium.",
+    "The six-mark part is marked on expected relationship, then evidence, then analysis, then an exception; quoting figures without the relationship they support is refused as analysis.",
+    "For whom: consequences must be named for the carvers, the visiting buyers and the stallholders holding N$60."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": [
+     "low season: price N$60, 200 carvings a week",
+     "high season: price N$75, 340 carvings a week",
+     "two direct flights a week from Sao Paulo in the high season"
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.5-001": 1,
+    "CLM-0455-2.5-004": 1,
+    "CLM-0455-2.5-005": 1,
+    "CLM-0455-2.5-006": 1,
+    "CLM-0455-2.5-007": 1
+   },
+   "authored_hash": "f85d74a02cb8740dfc33f4fb3879ea02a1b704d90cd78c9e7ce2109545e5f239",
+   "objective_titles": [
+    "market equilibrium",
+    "market disequilibrium"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.5-P03",
+   "objective_ids": [
+    "OBJ-0455-2.5.1",
+    "OBJ-0455-2.5.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.5-001",
+    "CLM-0455-2.5-004",
+    "CLM-0455-2.5-005",
+    "CLM-0455-2.5-006",
+    "CLM-0455-2.5-007"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type short_answer",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "Answer all parts.\n\n(a) Define market equilibrium. [2]\n(b) Explain the difference between a surplus and a shortage. [4]\n(c) A frost damages the vegetable gardens around Windhoek. At the unchanged price of N$12 a bag, the quantity of spinach supplied at the weekend markets falls from 900 to 600 bags while the quantity demanded at that price stands near 900. Analyse what this change means for households, the market gardeners and the supermarkets. [6]\n(d) Discuss whether a shortage of a good is likely to disappear while its price stays where it is. [8]",
+   "canonical_answer": "(a) Market equilibrium is the position of a market in which the quantity demanded equals the quantity supplied at the prevailing price; the price at which they are equal is the equilibrium price and the quantity traded there is the equilibrium quantity.\n(b) A surplus is a gap where the price sits above its equilibrium level: the quantity supplied exceeds the quantity demanded, unsold stock piles up, and the price comes under downward pressure. A shortage is the reverse gap: the price sits below its equilibrium level, the quantity demanded exceeds the quantity supplied, and unmet buyers put upward pressure on the price. The two differ in the direction of the gap and the direction of the pressure; the test is which quantity exceeds which at the stated price.\n(c) Starting point: the initial change is a fall in supply - the frost - with the price held at N$12, so the quantity supplied, 600 bags, falls 300 bags short of the 900 demanded, since 900 - 600 = 300 bags. Mechanism: because a shortage of 300 bags appears at N$12, buyers who miss out are likely to offer more, and this causes upward pressure on the price; as it rises, the quantity demanded eases along the demand curve while gardeners nurse their surviving beds and bring in what they can, until a new equilibrium settles above N$12 with fewer bags traded than before the frost. Consequence for households: spinach costs more per bag and some buyers switch to cabbage or maize meal, though the queue at N$12 favoured those who came early. Consequence for the market gardeners: each bag earns more while the harvest is small, so weekly takings depend on whether the higher price outweighs the smaller volume. Consequence for the supermarkets: shelves empty fast, so they are likely to ration bags, raise the price or bid for supplies from further afield. Exception: however, if the gardens recover within the month, supply shifts back and the price pressure fades before a new equilibrium settles.\n(d) The case for the shortage disappearing with the price unmoved: the gap can close from the sides rather than through the price - new sellers may bring supplies in from outside, imports may arrive, or demand itself may fall as buyers switch to other goods, and in these cases the two quantities meet again without the posted price moving. The case against: with the price held below its equilibrium level, the quantity supplied stays small, since sellers offer less at the lower price, while the quantity demanded stays large, so the gap persists and shows up as queues, rationing and empty shelves rather than closing. Judgement: a shortage is likely to disappear provided something moves - the price up, supply in, or demand away; where the price is held down and neither curve shifts, the shortage persists and is rationed by waiting instead. The condition the judgement depends on: whether the price is free to move and whether supply or demand shifts while it stands still.",
+   "marking_guidance": [
+    "Every part carries a model answer; part (d) is level-marked over three bands.",
+    "(a) rewards the precise definition: the quantities equal at the prevailing price.",
+    "(b) one mark per distinct point: the direction of each gap, the pressure each puts on the price, and the shared test - which quantity exceeds which.",
+    "(c) one mark per distinct linked statement from the frost through the 300-bag shortage to the consequence for the households, the gardeners and the supermarkets.",
+    "(d) Level 3 examines why it might - supply or demand closing the gap - and why it might not - the gap persisting while the price is held down - and reaches a judgement naming the condition it depends on; Level 2 develops one side; Level 1 asserts."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.5-001": 1,
+    "CLM-0455-2.5-004": 1,
+    "CLM-0455-2.5-005": 1,
+    "CLM-0455-2.5-006": 1,
+    "CLM-0455-2.5-007": 1
+   },
+   "authored_hash": "83f44f92d07ca6f11739cb4027a27c0708d3cd7f785abbb9611fa4839d6ff406",
+   "objective_titles": [
+    "market equilibrium",
+    "market disequilibrium"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.5-P04",
+   "objective_ids": [
+    "OBJ-0455-2.5.1",
+    "OBJ-0455-2.5.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.5-004",
+    "CLM-0455-2.5-006",
+    "CLM-0455-2.5-007"
+   ],
+   "item_type": "essay_plan",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Evaluate",
+   "blooms_level_basis": "performance task type essay_plan",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "Plan an answer to: \"A tourist boom is coming to the coast. Discuss whether businesses in Swakopmund should raise their prices now.\" Do not write the essay; produce the plan.",
+   "canonical_answer": "Case for raising prices now: the boom is a rise in demand, so at unchanged prices shortages are likely - rooms, tables and hire equipment selling out - and prices that sit below the new equilibrium leave income uncollected.\nChain 1: tourists arrive -> demand shifts right -> at the old price quantity demanded exceeds quantity supplied -> shortage -> upward pressure on price -> firms that raise prices early collect it (for the firm, its customers).\nCase against raising prices now: the boom has not arrived yet, so an early rise puts the price above the present equilibrium and the gap runs the other way - unsold rooms and empty tables, a surplus, and downward pressure until the price falls back.\nChain 2: prices raised now -> price sits above today's equilibrium -> quantity demanded falls short of quantity supplied -> surplus -> empty tables and unsold rooms -> the firm is likely to cut the price again (for the firm, the tourist).\nCase against, second point: rivals matter. If competitors hold their prices, a firm that raises its own may lose customers to them, so the safe moment to raise prices is where the market as a whole is short.\nChain 3: rivals hold prices -> this firm raises its own -> some buyers switch -> the rise in demand for this firm is smaller than the market's -> the new equilibrium it can hold is lower (for the firm, its rivals).\nJudgement: raise prices where and when the shortage appears - at the peak, and in the goods the boom hits hardest - rather than in one move now. The condition the judgement depends on: how certain the boom is, and how quickly the firm can adjust prices once the crowds arrive.",
+   "marking_guidance": [
+    "A plan, not an essay: the structure with the stated judgement is what is assessed.",
+    "The plan must carry the case for and the case against, each developed as a chain from the change to the consequence, and name the parties - the firm, the customer, the rival.",
+    "The judgement must be decisive and name the condition it depends on: how certain the boom is, and how fast the firm can move once it lands.",
+    "What settles it: whether the market at each moment is short or in surplus - the test is where the price sits against the equilibrium the market has reached."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.5-004": 1,
+    "CLM-0455-2.5-006": 1,
+    "CLM-0455-2.5-007": 1
+   },
+   "authored_hash": "aa95416f5e3ccabfccdc669e2f9c04980f63a4ff05f33df7f070268cd08de6d4",
+   "objective_titles": [
+    "market equilibrium",
+    "market disequilibrium"
+   ]
+  }
+ ]
+}

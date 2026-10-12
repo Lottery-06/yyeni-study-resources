@@ -1,0 +1,123 @@
+{
+ "unit_id": "CU-0455-3.6.2",
+ "title": "Labour-intensive and capital-intensive production",
+ "objective_ids": [
+  "OBJ-0455-3.6.2"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 283,
+  "target": 344,
+  "max": 406
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "3.6.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define labour-intensive and capital-intensive production, keep the two apart, and explain what makes a firm choose each.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "990934890d9a17dac936e4e7a2740610af2d60cfa9e7fe046124b1adf697835d"
+  },
+  {
+   "block_id": "3.6.2-b2",
+   "block_type": "definition",
+   "heading": "Two ways to organise production",
+   "text": "Labour-intensive production relies mainly on workers: most of the work is done by hand or with simple tools, so wages form the greater share of costs. Capital-intensive production relies mainly on machinery and equipment: machines do most of the work, so buying and running capital forms the greater share. Marula Foods in Katutura employs twelve women to sort and pack marula nuts by hand, a labour-intensive process; a Brazilian coffee cooperative dries and sorts its beans on mechanised lines, a capital-intensive one. Most firms use both factors; the label says which carries most of the work.",
+   "claim_ids": [
+    "CLM-0455-3.6-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.6-005": 1
+   },
+   "authored_hash": "d986af3883592439eccef984d530e35146f0d9fe019a6f6bbdc1831834c12bd7"
+  },
+  {
+   "block_id": "3.6.2-b3",
+   "block_type": "comparison",
+   "heading": "The boundary between them",
+   "text": "The test is the share of the work, or of cost, carried by each factor. A garage in Walvis Bay that strips engines with hand tools and twelve mechanics is labour-intensive even though it owns tools; a bottling plant in Windhoek that runs its line with six machine-minders is capital-intensive even though it employs people. Intensity is a matter of degree: a firm slides along the line as it replaces hand work with equipment.",
+   "claim_ids": [
+    "CLM-0455-3.6-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.6-006": 1
+   },
+   "authored_hash": "976dd0272992bbd48cfd811e825d276b5670584eed4023e1789cd32b57e5ff21"
+  },
+  {
+   "block_id": "3.6.2-b4",
+   "block_type": "worked_application",
+   "heading": "Why a firm chooses each",
+   "text": "Choice turns on cost, the product and the market. Where wages are low and funds scarce, a dairy may pasteurise by hand because the machine's price is out of reach. Where output is large and standardised - bottling thousands of litres a day - machines tend to cost less per litre, so the firm turns capital-intensive. A German engineering firm machining precision parts runs capital-intensive lines because uniformity matters; a Katutura tailor stays labour-intensive because each garment differs. High wages push a firm towards capital; abundant labour and craft quality pull it back.",
+   "claim_ids": [
+    "CLM-0455-3.6-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.6-007": 1
+   },
+   "authored_hash": "40f1dcb0430ee138191d1de1fe3b98c619bc40047389daf8e656528df527c005"
+  },
+  {
+   "block_id": "3.6.2-b5",
+   "block_type": "evaluation",
+   "heading": "Is one better?",
+   "text": "Neither method suits every firm. Capital-intensive production tends to lower cost per unit where output is high, but the machines must be paid for before the first unit sells, and they stand idle when demand falls. Labour-intensive production costs little to set up and can grow or shrink with orders, but output per worker tends to be lower and quality less uniform. The better choice is the one that fits the firm's market, funds and product.",
+   "claim_ids": [
+    "CLM-0455-3.6-007",
+    "CLM-0455-3.6-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.6-007": 1,
+    "CLM-0455-3.6-006": 1
+   },
+   "authored_hash": "19633ee3ebb501a6eef75dc9096ab3eee50e533618c57066591f17ec48398512"
+  },
+  {
+   "block_id": "3.6.2-b6",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "How each choice feeds the firm's costs is measured in topic 3.7, and the factors being combined are set out in topic 1.2.",
+   "claim_ids": [
+    "CLM-0455-3.6-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.6-005": 1
+   },
+   "authored_hash": "cd2df968c6c1e0c724e80547a8708f6f5cdb98fb88135f0a926e85c70b9cbf48"
+  }
+ ],
+ "word_count": 401
+}

@@ -1,0 +1,124 @@
+{
+ "unit_id": "CU-0455-2.10.2",
+ "title": "Why markets fail",
+ "objective_ids": [
+  "OBJ-0455-2.10.2"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 310,
+  "target": 376,
+  "max": 443
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.10.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Identify the causes of market failure - public goods, merit and demerit goods, external costs, external benefits, the abuse of monopoly power, and factor immobility - and analyse how each leaves the market at the wrong level of output.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {},
+   "authored_hash": "502c3aac081dd3b43d4b57399323658442c17398fce9cc1913a679e063b04747"
+  },
+  {
+   "block_id": "2.10.2-b2",
+   "block_type": "components",
+   "heading": "Six causes, one thread",
+   "text": "The causes share one thread: some cost or benefit never reaches the price. Public goods fail because non-payers cannot be excluded. Merit goods are under-consumed because consumers undervalue them; demerit goods over-consumed because consumers undercount their harm. Goods with external costs are over-produced because the damage to others stays outside the price; goods with external benefits are under-produced because the gains to others never raise demand. A dominant seller may hold output back to keep prices up. Immobile workers and capital cannot reach the uses that need them.",
+   "claim_ids": [
+    "CLM-0455-2.10-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.10-007": 1
+   },
+   "authored_hash": "0e5c6fb671cc8bb1eb181bdd1e39e83283f442e2922de692f273f31be8bf9b02"
+  },
+  {
+   "block_id": "2.10.2-b3",
+   "block_type": "worked_application",
+   "heading": "A cost imposed on others",
+   "text": "Otavi Charcoal Works earns N$40 000 a season burning wood waste. Its smoke drifts over 60 homesteads, and each spends N$250 a season on cleaning and clinic visits, so the season carries 60 x N$250 = N$15 000 of costs the firm never pays. Because the price of charcoal holds none of this, the market reads the activity as more profitable than it is for society, and output tends to sit above the level society would choose. A paper mill on a river in Vietnam works the same way: the fishers downstream pay, the price does not.",
+   "claim_ids": [
+    "CLM-0455-2.10-008",
+    "CLM-0455-2.10-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.10-008": 1,
+    "CLM-0455-2.10-002": 1
+   },
+   "authored_hash": "4de89c2049694f2f11b6a67edc31e83558dd95a9233ec9a622c208925604ac45"
+  },
+  {
+   "block_id": "2.10.2-b4",
+   "block_type": "analysis_chain",
+   "heading": "The free-rider chain",
+   "text": "Start with flood defences at Walvis Bay. Because each protected street stays dry whether or not its households contributed, each household is likely to wait for others to pay. This waiting is the free-rider problem, and it causes private providers to withdraw. The consequence is under-provision relative to what the defences are worth to the town as a whole - the classic shortfall of a public good, landing on the households and firms the waters would reach.",
+   "claim_ids": [
+    "CLM-0455-2.10-004",
+    "CLM-0455-2.10-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.10-004": 1,
+    "CLM-0455-2.10-007": 1
+   },
+   "authored_hash": "19201095a481972de8ca2b4467a0fcac28788df8a300dfae09657ba67a2045c7"
+  },
+  {
+   "block_id": "2.10.2-b5",
+   "block_type": "comparison",
+   "heading": "Trapped factors and dominant sellers",
+   "text": "Factor immobility fails markets in a second way. When net-mending work at Walvis Bay declines, the workers cannot at once become plumbers in Windhoek: their skills are fixed to the old trade, and homes and family keep them where they are. Labour then sits unused in one place while needs go unmet in another. And where a single dominant seller stands behind barriers to entry, it may hold output below the level a market of many small sellers would produce, to keep its price up.",
+   "claim_ids": [
+    "CLM-0455-2.10-009",
+    "CLM-0455-2.10-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.10-009": 1,
+    "CLM-0455-2.10-010": 1
+   },
+   "authored_hash": "89d5a965d52fb01f36cadc079a38d62a2c5f9dcabca7e61f15062c93fe9f85fe"
+  },
+  {
+   "block_id": "2.10.2-b6",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The demand and supply curves of topics 2.3 and 2.4 meet at the equilibrium this topic questions; the market price they set is the one that leaves these causes unpaid.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {},
+   "authored_hash": "a4d2a3c6d5ea61104a027aa17916074881a2d1143002e2775007748c08445826"
+  }
+ ],
+ "word_count": 438
+}

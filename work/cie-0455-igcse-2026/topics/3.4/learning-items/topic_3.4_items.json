@@ -1,0 +1,631 @@
+{
+ "dataset_id": "ITEMS-0455-IGCSE-3.4",
+ "topic_id": "3.4",
+ "items": [
+  {
+   "item_id": "ITEM-0455-3.4-001-DEF",
+   "objective_ids": [
+    "OBJ-0455-3.4.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.4-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "Define a trade union.",
+   "canonical_answer": "A trade union is an organisation of workers, joined and funded by them, that aims to protect and improve its members' pay and working conditions.",
+   "marking_guidance": [
+    "Precise meaning: the definition must name an organisation of workers, joined and funded by them, and its aim of protecting and improving members' pay and working conditions - that is the meaning the term carries in the labour market."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.4-001": 1
+   },
+   "authored_hash": "bf54451c01db56f794ada58733d62f6c0a9d2fd0cf9c4b9cce0573d6d70b0a63"
+  },
+  {
+   "item_id": "ITEM-0455-3.4-002-FEATURE",
+   "objective_ids": [
+    "OBJ-0455-3.4.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.4-001",
+    "CLM-0455-3.4-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype FEATURE",
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "Identify the main features of a trade union.",
+   "canonical_answer": "The main features are these. It is an organisation of workers, not of firms and not of the government. Workers join it voluntarily and pay a subscription that funds it. It acts for its members as one body, negotiating with employers instead of leaving each worker to bargain alone. Its purpose is to protect and improve members' pay and working conditions.",
+   "marking_guidance": [
+    "Features: what it includes - the four features (an organisation of workers, voluntary subscription-paying members, speaking as one body, the aim on pay and working conditions) are each named distinctly."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.4-001": 1,
+    "CLM-0455-3.4-002": 1
+   },
+   "authored_hash": "6fcca0123e6537d1cbf9e0c039d43da0309e39f02639b2581311ea1e01991230"
+  },
+  {
+   "item_id": "ITEM-0455-3.4-003-DEF",
+   "objective_ids": [
+    "OBJ-0455-3.4.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.4-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Define collective bargaining.",
+   "canonical_answer": "Collective bargaining is negotiation between a trade union and an employer over the pay and working conditions of the union's members, with the union speaking for all of them as one body.",
+   "marking_guidance": [
+    "Precise definition required: the meaning must state the union negotiating with the employer on behalf of its members as a single body, over pay and working conditions."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.4-004": 1
+   },
+   "authored_hash": "a05102f5b785ae93d46f481ff0fe115b7bad3d2b4178d7ac3ffde4a0fedebd83"
+  },
+  {
+   "item_id": "ITEM-0455-3.4-004-WHY",
+   "objective_ids": [
+    "OBJ-0455-3.4.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.4-002",
+    "CLM-0455-3.4-005",
+    "CLM-0455-3.4-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "subtype WHY",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 2,
+   "prompt": "Explain why workers may choose to join a trade union.",
+   "canonical_answer": "A worker who negotiates alone carries little weight, because an employer can replace one worker's labour more easily than the labour of a whole workforce. A union negotiates for all its members at once, so a member tends to have more influence over pay and conditions through the union than alone. Members are also represented in disputes with the employer, such as an unfair dismissal or a disagreement over shifts, and the union presses for safer workplaces and training. The subscription buys strength in numbers, protection at work and a voice that a lone worker usually lacks.",
+   "marking_guidance": [
+    "Reason: each purpose - more weight in bargaining as one body, representation in disputes, protection of pay and conditions - is given with the reason it matters to a worker, because the question asks why workers join."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.4-002": 1,
+    "CLM-0455-3.4-005": 1,
+    "CLM-0455-3.4-006": 1
+   },
+   "authored_hash": "99b45b286a29559c2efba1922ec1770c81b10011287b390a982eff99c9ae49a4"
+  },
+  {
+   "item_id": "ITEM-0455-3.4-005-APP",
+   "objective_ids": [
+    "OBJ-0455-3.4.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.4-004",
+    "CLM-0455-3.4-005",
+    "CLM-0455-3.4-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 2,
+   "prompt": "At Kuiseb Fish Processors, a cannery in Walvis Bay, 240 of the 300 workers belong to the Marine Workers' Union. In 2026 the union negotiated a pay rise from N$12.50 to N$14.00 an hour, and the cannery paid the higher rate to all 300 workers. Explain how this episode shows the role of a trade union in the economy.",
+   "canonical_answer": "The union bargained collectively: it negotiated a single pay rise, from N$12.50 to N$14.00 an hour, covering its 240 members at the cannery. Because the employer applied the rise to all 300 workers, the union's action lifted pay beyond its own membership, and that is how a union's role works in the wider economy: pay settled at one large workplace tends to spread to comparable work nearby, because employers competing for the same workers are likely to match the rate. The episode also shows the representational role - the union spoke for its members as one party, which is why the cannery settled rather than face the disruption of losing 240 of its workers at once. The figures therefore show a union raising the wages of low-paid workers in a town's main industry, which is its role in the economy and not merely at one firm.",
+   "marking_guidance": [
+    "Context: the answer must use the figures from the extract - the 240 members among 300 workers and the rise from N$12.50 to N$14.00 an hour - since the question asks how this episode shows the role.",
+    "Reasoning: the link from collective bargaining to the pay rise and its spread beyond members must be explained, because naming the rise alone is not an explanation.",
+    "Conclusion: therefore the answer closes on what the episode means for the union's role in the wider economy - pay lifted beyond one workplace."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.4-004": 1,
+    "CLM-0455-3.4-005": 1,
+    "CLM-0455-3.4-006": 1
+   },
+   "authored_hash": "e44c58ce89ed995ed1a6e22ac0b430628097d5dc92a40cbaca5a64f9076de7c8"
+  },
+  {
+   "item_id": "ITEM-0455-3.4-009-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-3.4.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.4-004",
+    "CLM-0455-3.4-005",
+    "CLM-0455-3.4-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Discuss",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "The Textile Workers' Union at Oshakati Textiles has negotiated a pay rise from N$11.00 to N$12.10 an hour for the firm's 500 machinists. Discuss the likely effects of this union-negotiated pay rise on the firm, its workers and the town's economy.",
+   "canonical_answer": "Starting point: the union's bargain raises machinists' hourly pay from N$11.00 to N$12.10, an increase of N$1.10 an hour (N$12.10 - N$11.00 = N$1.10). Mechanism: because each hour of a machinist's time now costs the firm N$1.10 more, the labour cost of every garment rises, so the firm faces a choice between raising its prices, absorbing the cost out of its profit, or employing fewer machinists. Consequence for workers: each machinist on a 45-hour week earns N$49.50 more (N$1.10 x 45 = N$49.50), and the extra income tends to be spent in Oshakati's shops, so local trade rises. Consequence for the firm: where its buyers can switch to cheaper imports, it may not pass on the cost and may instead let the workforce drift down by not replacing machinists who leave, so employment in the town may fall over time; where the rise lifts motivation and cuts the number of leavers, the firm spends less on recruiting and training replacements. For whom: the 500 machinists gain income now; the firm and its owners bear the higher labour cost; local traders gain spending; consumers may pay more if prices rise. The balance depends on whether the firm's sales can carry the cost.",
+   "marking_guidance": [
+    "Starting point: the initial change - the negotiated rise from N$11.00 to N$12.10 an hour - is stated first, and when it is given the arithmetic is shown.",
+    "Mechanism: because the hourly labour cost rises, this causes the firm's response and the workers' gain, each traced through the cost chain.",
+    "Consequence: therefore the results for prices, employment and local trade must each be traced to a named outcome, and results in opposite directions are both credited.",
+    "For whom: the winners and losers are named - workers, the firm and its owners, local traders, consumers - and the economy-wide effect on the town is drawn out."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.4-004": 1,
+    "CLM-0455-3.4-005": 1,
+    "CLM-0455-3.4-006": 1
+   },
+   "authored_hash": "fb2fc80d9fbb1e80673a18a6f7a29b61dfed7dfae051918cffd69b15fb7efddc"
+  },
+  {
+   "item_id": "ITEM-0455-3.4-006-DEF",
+   "objective_ids": [
+    "OBJ-0455-3.4.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.4-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Define industrial action.",
+   "canonical_answer": "Industrial action is action taken by union members together to put pressure on an employer, such as refusing to work at all (a strike), refusing to work beyond set duties (work-to-rule), or refusing overtime.",
+   "marking_guidance": [
+    "Precise meaning: the definition must state action by union members acting together to pressure the employer, with at least one form, such as a strike or work-to-rule, named."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.4-010": 1
+   },
+   "authored_hash": "7812f5a52c9272f54550a0a3f096e0e8bf1fd590bc544e6d983a26022ffaf2e9"
+  },
+  {
+   "item_id": "ITEM-0455-3.4-007-WHY",
+   "objective_ids": [
+    "OBJ-0455-3.4.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.4-008",
+    "CLM-0455-3.4-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "subtype WHY",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 2,
+   "prompt": "Explain why trade union activity may reduce a firm's costs even though it raises the firm's pay bill.",
+   "canonical_answer": "The negotiated rise raises what the firm spends on wages, but union activity can lower other costs. Where the union negotiates safer workplaces and clearer conditions, disputes are less frequent, so the firm loses fewer days to stoppages. Workers who feel fairly paid tend to stay, so the firm recruits and trains fewer new workers, and recruitment and training are costs. A settled relationship with the union also makes production steadier, so the firm is less likely to miss delivery dates and compensate customers. The net effect on the firm's costs therefore depends on whether these savings outweigh the higher pay bill, which is why the two can move in opposite directions at once.",
+   "marking_guidance": [
+    "Reason: the purpose of each saving - fewer stoppages, lower turnover of staff, steadier production - is linked to a cost it avoids, because the question asks why costs may fall while the pay bill rises."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.4-008": 1,
+    "CLM-0455-3.4-009": 1
+   },
+   "authored_hash": "3013862971601fe3ea310df3847c3809d9bd0ccc7d3c7e1668cdb6a620f2f7f7"
+  },
+  {
+   "item_id": "ITEM-0455-3.4-008-APP",
+   "objective_ids": [
+    "OBJ-0455-3.4.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.4-008",
+    "CLM-0455-3.4-009",
+    "CLM-0455-3.4-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 2,
+   "prompt": "In March 2026, 180 members of the Meat Workers' Union at Marula Meat Processors, an abattoir in Gobabis, stopped work for three days over a pay dispute, and the abattoir lost output it valued at N$96 000. After talks with the union the hourly pay rate rose from N$10.00 to N$11.00, and the union agreed to two years without a strike. Explain, using the figures, the effects of this union activity on the business.",
+   "canonical_answer": "Cost side: the three-day stoppage cost the business N$96 000 of output it could not produce, and the settlement raised the hourly pay rate from N$10.00 to N$11.00, an increase of N$1.00 an hour (N$11.00 - N$10.00 = N$1.00), which adds to the wage bill for every hour the 180 members work. Benefit side: because the union agreed to two years without a strike, the abattoir can plan production and meet orders with more confidence, and workers on the higher rate are more likely to stay, so the business recruits and trains fewer replacements. The figures therefore show both faces of union activity in this dispute: a cost imposed while it lasted, the N$96 000 of lost output, and a benefit bought at the table, two years of industrial peace that protects future output.",
+   "marking_guidance": [
+    "Context: the answer uses the figures from the extract - the N$96 000 of lost output, the three stoppage days, and the rise from N$10.00 to N$11.00 an hour.",
+    "Reasoning: each effect is linked back to the union action and its settlement, because a cost or benefit stated without the link earns nothing.",
+    "Conclusion: therefore the answer weighs the cost of the stoppage against the benefit of the no-strike agreement, which means that both faces of the activity are drawn."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.4-008": 1,
+    "CLM-0455-3.4-009": 1,
+    "CLM-0455-3.4-010": 1
+   },
+   "authored_hash": "da573fac66a11188050a520f5cd465cd551bd25e851b9c18897999f23015f690"
+  },
+  {
+   "item_id": "ITEM-0455-3.4-P01",
+   "objective_ids": [
+    "OBJ-0455-3.4.1",
+    "OBJ-0455-3.4.2",
+    "OBJ-0455-3.4.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.4-001",
+    "CLM-0455-3.4-002",
+    "CLM-0455-3.4-004",
+    "CLM-0455-3.4-005",
+    "CLM-0455-3.4-006",
+    "CLM-0455-3.4-008",
+    "CLM-0455-3.4-009",
+    "CLM-0455-3.4-010",
+    "CLM-0455-3.4-003"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "performance task type multiple_choice_set",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 3,
+   "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. A trade union is best defined as:\nA  an organisation of firms that trades goods between countries\nB  an organisation of workers, joined and funded by them, that aims to protect and improve its members' pay and working conditions\nC  a government body that sets wages by law\nD  a bank that lends to workers at reduced rates\n\n2. Collective bargaining means:\nA  each worker negotiating pay alone with the manager\nB  the government fixing a national wage for a trade\nC  the union negotiating pay and working conditions for its members as one body\nD  employers meeting together to agree prices\n\n3. Why may a worker join a trade union?\nA  to receive a transfer payment from the government\nB  because the union negotiates on behalf of all members, giving one worker more influence than bargaining alone\nC  because the law requires workers in a factory to belong\nD  to pay a lower rate of tax on income\n\n4. A union wins a rise from N$12.50 to N$14.00 an hour. Hourly pay rises by:\nA  N$1.50\nB  N$2.50\nC  N$12.50\nD  N$26.50\n\n5. While a strike at a cannery lasts, which effect is most likely?\nA  the firm's output falls for the days of the stoppage\nB  the firm's prices fall at once\nC  the striking workers' pay rises\nD  the government pays the striking workers' wages\n\n6. A union negotiates safer conditions and steadier rosters. The firm may find that:\nA  costs rise from the safety spending and the firm gains nothing else\nB  fewer stoppages and fewer departures lower some of its other costs\nC  its pay bill falls\nD  its revenue rises without any change in sales\n\n7. Trade union activity is most likely to weaken a firm's competitiveness when:\nA  the pay rise it wins raises costs faster than the firm's output per worker\nB  it settles disputes before they reach a stoppage\nC  it lifts workers' motivation\nD  its bargains spread to nearby firms\n\n8. Which is the test that a body is a trade union rather than a trade organisation promoting a country's exports?\nA  it charges its members a subscription\nB  it publishes reports on the economy\nC  its head office stands in a capital city\nD  its members are workers and it bargains with employers over pay and conditions",
+   "canonical_answer": "Key: 1 B, 2 C, 3 B, 4 A, 5 A, 6 B, 7 A, 8 D.\n1. B is the definition (workers joined and funded by them, protecting pay and conditions); A is trade between nations mistaken for a union, C mistakes a union for a government wage-setter, D mistakes it for a lender.\n2. C is collective bargaining (union as one body for its members); A runs the negotiation worker-by-worker, B confuses a union with the government, C confuses bargaining with firms agreeing prices.\n3. B gives the reason (strength in numbers); A confuses a union with a transfer payment, C treats membership as compulsory when it is voluntary, D confuses a subscription with a tax cut.\n4. N$14.00 - N$12.50 = N$1.50, so A; B subtracts the wrong way, C confuses the new rate with the rise, D adds where it should subtract.\n5. A stoppage halts output while it lasts (A); B reverses the price effect, C reverses who gains, D invents a payment the striking workers do not receive.\n6. B names the offsets (fewer stoppages, fewer departures to replace); A denies the firm any offsetting gain, C reverses the effect on the pay bill, D confuses lower costs with automatically higher revenue.\n7. A states the condition (costs rising faster than output per worker); B and C are effects that help the firm, D is a spread that is neither harm nor competitiveness in itself.\n8. D is the test (members are workers, bargains with employers over pay); A fits many bodies including export promoters, B and C describe things either kind of body might do.",
+   "marking_guidance": [
+    "Key: one mark per question, eight in total; the correct option for each is listed and each distractor is explained as the specific misunderstanding it catches.",
+    "Every distractor traces to a named error: a union confused with trade between nations, with the government, or with a lender; bargaining confused with individual negotiation or price-fixing; a rise confused with the new rate; a cost saving denied or reversed."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.4-001": 1,
+    "CLM-0455-3.4-002": 1,
+    "CLM-0455-3.4-004": 1,
+    "CLM-0455-3.4-005": 1,
+    "CLM-0455-3.4-006": 1,
+    "CLM-0455-3.4-008": 1,
+    "CLM-0455-3.4-009": 1,
+    "CLM-0455-3.4-010": 1,
+    "CLM-0455-3.4-003": 1
+   },
+   "authored_hash": "c210c09c15e781172edbfbdea2bf01868d2677f02d339cdf9596bdf0ec50c48e"
+  },
+  {
+   "item_id": "ITEM-0455-3.4-P02",
+   "objective_ids": [
+    "OBJ-0455-3.4.2",
+    "OBJ-0455-3.4.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.4-004",
+    "CLM-0455-3.4-005",
+    "CLM-0455-3.4-006",
+    "CLM-0455-3.4-008",
+    "CLM-0455-3.4-009",
+    "CLM-0455-3.4-010"
+   ],
+   "item_type": "data_response",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type data_response",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "A report in the Oshakati Advertiser, 2026: \"The Textile Workers' Union signed a new pay deal with Oshakati Textiles in March after six strike days at the plant. Hourly pay for machinists rises from N$11.00 to N$12.10. Union membership at the plant has grown from 320 of the 400 machinists employed in 2022 to 480 of the 500 employed now. Traders in the streets near the factory gate report their best pay-day takings in years.\"\n\nTable 1 - Oshakati Textiles\n  machinists employed, 2022: 400\n  machinists employed, 2026: 500\n  union members, 2022: 320\n  union members, 2026: 480\n  hourly pay, 2025: N$11.00\n  hourly pay, 2026: N$12.10\n  strike days lost, 2026: 6\n\n(a) Calculate the percentage of machinists who were union members in 2026. [1]\n(b) Identify from Table 1 the number of strike days lost in 2026 and the hourly pay after the deal. [2]\n(c) Explain why union membership at the plant may have grown between 2022 and 2026. [4]\n(d) Analyse, using Table 1, the effects of the union's pay deal on the firm and on the town's economy. [6]",
+   "canonical_answer": "(a) 480 members among 500 machinists: 480 out of 500 is 96%, so 96% of machinists were union members in 2026.\n(b) From Table 1: 6 strike days were lost in 2026, and hourly pay after the deal is N$12.10.\n(c) Workers watching the union's bargains see results they can attribute to it: employment at the plant grew from 400 to 500 machinists across the same years, and the union has now delivered a rise from N$11.00 to N$12.10 an hour, so joining looks like it buys something. There is also a free-rider problem working the other way: because the cannery-style spread of a settlement tends to reach the whole plant, a machinist could hope to gain while staying out. That reasoning cuts both ways, and the growth in membership from 320 to 480 suggests the first effect, the visible gains, has been the stronger draw.\n(d) Expected relationship: a pay deal raises the firm's labour costs and its workers' spending, so the data should show both a cost pressure on the firm and a spending gain in the town. Evidence: the deal lifts hourly pay from N$11.00 to N$12.10 and covers a membership of 480 among 500 machinists; the deal cost 6 strike days before it was signed; traders near the gate report their best pay-day takings in years. Analysis: each extra N$1.10 an hour (N$12.10 - N$11.00 = N$1.10) adds to the wage bill of every hour worked, so the firm faces a choice between dearer garments, absorbing the cost from profit, or a workforce allowed to drift down by not replacing leavers; at the same time 480 machinists on higher pay hand more income to Oshakati's traders, which is what the traders' report shows. Exception: where the firm's buyers can switch to cheaper imports, the cost side can outweigh the spending gain, since a plant that ships less pays less wages, and the employment growth from 400 to 500 machinists could stop or reverse even with the deal in place. So the deal's effect on the town depends on whether the firm's sales hold.",
+   "marking_guidance": [
+    "Context: parts (a) and (b) are read from Table 1; parts (c) and (d) must use the figures - the 320 of 400 and 480 of 500 memberships, the N$11.00 to N$12.10 rise, the 6 strike days.",
+    "Reasoning: one mark per distinct linked statement; quoting a figure on its own is not analysis - the relationship must be stated and the reason given.",
+    "Conclusion: part (d) runs expected relationship, then evidence, then analysis, then an exception.",
+    "For whom: consequences are named for the firm, the machinists and the town's traders."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": [
+     "union members 320 of 400 machinists in 2022, 480 of 500 in 2026",
+     "hourly pay N$11.00 in 2025 and N$12.10 in 2026",
+     "6 strike days lost in 2026",
+     "traders near the factory gate report their best pay-day takings in years"
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.4-004": 1,
+    "CLM-0455-3.4-005": 1,
+    "CLM-0455-3.4-006": 1,
+    "CLM-0455-3.4-008": 1,
+    "CLM-0455-3.4-009": 1,
+    "CLM-0455-3.4-010": 1
+   },
+   "authored_hash": "37caf6a7ac473bc068c836ac8852130bea55b96736e6f5a344dda803661dbb64"
+  },
+  {
+   "item_id": "ITEM-0455-3.4-P03",
+   "objective_ids": [
+    "OBJ-0455-3.4.1",
+    "OBJ-0455-3.4.2",
+    "OBJ-0455-3.4.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.4-001",
+    "CLM-0455-3.4-004",
+    "CLM-0455-3.4-005",
+    "CLM-0455-3.4-006",
+    "CLM-0455-3.4-008",
+    "CLM-0455-3.4-009",
+    "CLM-0455-3.4-010",
+    "CLM-0455-3.4-011"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type short_answer",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "Answer all parts.\n(a) Define a trade union. [2]\n(b) Explain why a worker who is not a union member may still benefit from the union's activity at their workplace. [4]\n(c) Analyse the likely effects on a firm of a union-negotiated pay rise. [6]\n(d) Discuss whether trade union activity benefits an economy. [8]",
+   "canonical_answer": "(a) A trade union is an organisation of workers, joined and funded by them, that aims to protect and improve its members' pay and working conditions.\n(b) When a union negotiates a rise, the employer often extends it to the whole workplace rather than run two pay rates side by side, so a non-member gains the higher rate while paying no subscription. Negotiated conditions - safety rules, clearer shift arrangements - tend to cover the workplace as a whole, again reaching non-members. The union's representation of members in disputes also sets a standard of treatment that spills over to colleagues. Against that, where the union's action stops production, the non-member loses the same pay for the strike days without having had a vote.\n(c) Starting point: the firm's hourly labour cost rises. Mechanism: because producing each unit costs more in labour, the firm responds through prices, hiring, or its profit margin. Consequences: where the firm raises prices, its buyers may switch to cheaper imports and sales fall; where it cannot, it may let the workforce shrink by not replacing leavers; where it absorbs the cost, profit falls and funds for investment shrink with it. Offsetting gains: workers who feel fairly paid tend to stay, so the firm spends less on recruitment and training, and a settled relationship with the union loses fewer days to stoppages. For whom: owners bear the cost in profit, consumers bear it in prices, workers gain in pay, and the balance turns on whether the rise matches output per worker.\n(d) Case for: unions bargain for workers who alone carry little weight, so pay at the bottom of the labour market tends to rise and the gap between low and higher pay narrows; the income won is spent, and spending supports the firms and traders around each workplace. Case against: rises won ahead of output per worker raise firms' costs, and firms facing dearer labour may raise prices or hire less, so the jobs a union protects at one plant may be lost across a town; strikes stop output and pay while they last, and the stoppage costs spread to the firm's suppliers and buyers. Judgement: the activity itself is neither good nor bad for an economy - what decides it is whether bargains track what workers produce and whether the two sides settle at a table rather than on a picket line. In a growing economy with matching output, union activity tends to help; in a weak one with rises ahead of production, it tends to harm.",
+   "marking_guidance": [
+    "Parts (a) to (d) carry a model answer each; (d) is level-marked over three bands.",
+    "Context: (b) and (c) build on the workplace and the firm's costs, and the answers name the parties - non-members, owners, consumers, workers.",
+    "Reasoning: (c) one mark per distinct linked statement, the chain from the rise to prices, employment and profit traced.",
+    "Conclusion: (d) the top band examines why it might and why it might not, reaches a judgement, and names the condition the judgement depends on - whether rises match output per worker and how the two sides settle."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.4-001": 1,
+    "CLM-0455-3.4-004": 1,
+    "CLM-0455-3.4-005": 1,
+    "CLM-0455-3.4-006": 1,
+    "CLM-0455-3.4-008": 1,
+    "CLM-0455-3.4-009": 1,
+    "CLM-0455-3.4-010": 1,
+    "CLM-0455-3.4-011": 1
+   },
+   "authored_hash": "c69b8ad0aca5fde16962a508924fc1441db784cc997b753d6bf68c2d56567b84"
+  },
+  {
+   "item_id": "ITEM-0455-3.4-P04",
+   "objective_ids": [
+    "OBJ-0455-3.4.3",
+    "OBJ-0455-3.4.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.4-006",
+    "CLM-0455-3.4-008",
+    "CLM-0455-3.4-009",
+    "CLM-0455-3.4-010",
+    "CLM-0455-3.4-011"
+   ],
+   "item_type": "essay_plan",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Evaluate",
+   "blooms_level_basis": "performance task type essay_plan",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "Plan an answer to: \"Discuss whether a trade union should use industrial action to win a pay rise.\" Build the plan on the advantages and disadvantages of union activity. Do not write the essay; produce the plan.",
+   "canonical_answer": "Case for (strength the table lacks): a single worker's bargaining position is weak, and industrial action is the union's strongest card, because an employer who can replace one worker cannot easily replace five hundred.\nChain 1: talks stall -> members stop work -> the firm's output halts and the stoppage starts costing it money -> the employer has a reason to move that talk alone did not give (for whom: members gain bargaining power; the firm loses output).\nChain 2: action succeeds -> pay rises -> income of low-paid households rises and is spent locally (for whom: members and local traders gain; the firm pays).\nCase against (what the action costs): the stoppage costs both sides from the first day.\nChain 3: members strike -> they lose pay for each strike day -> households that can least afford it carry the cost, and the employer's buyers may take their orders elsewhere for good (for whom: striking workers lose pay; the firm may lose customers permanently).\nChain 4: the rise is won ahead of output per worker -> the firm's costs rise faster than its production -> it raises prices or stops hiring -> the jobs the union defended may go over time (for whom: consumers and future job-seekers bear it).\nJudgement: industrial action is a tool for a deadlock, not a first move - it tends to serve members best where talks have genuinely failed, the stoppage fund can carry the members' lost pay, and the rise sought is one the firm can fund out of the production its workers deliver.\nCondition: the judgement turns on the state of the firm's sales and the union's strength - a weak firm may be pushed past the point where it can employ at all, which converts a pay dispute into a jobs dispute.",
+   "marking_guidance": [
+    "A plan, not an essay: the chains and the stated judgement are what is assessed.",
+    "Criterion: the decisive factor is whether the rise sought can be paid out of what the workers produce, and whether talks have truly failed.",
+    "Counterargument: the case against must appear - lost pay for striking days, output lost to the firm, and rises won ahead of production costing jobs.",
+    "Condition: the plan must end on what would change the judgement - the firm's sales, the strength of the stoppage fund, and the state of the economy.",
+    "For whom: each chain names who gains and who loses - members, the firm, its customers, local traders, future job-seekers."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.4-006": 1,
+    "CLM-0455-3.4-008": 1,
+    "CLM-0455-3.4-009": 1,
+    "CLM-0455-3.4-010": 1,
+    "CLM-0455-3.4-011": 1
+   },
+   "authored_hash": "474a68e1a9cd8c9f70a49c7d36c086888b99309a1d6e216b9c369dca07e10df3"
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "unit_id": "CU-0455-6.4.1",
+ "title": "The four parts and their balances",
+ "objective_ids": [
+  "OBJ-0455-6.4.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_quantitative",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 282,
+  "target": 344,
+  "max": 405
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "6.4.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Identify the four current-account components, classify transactions and calculate balances for a stated period.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "069eecf0a36fd7e437deee8514dd465a169d15b9b3143f15950f7a82754abed3"
+  },
+  {
+   "block_id": "6.4.1-b2",
+   "block_type": "definition",
+   "heading": "What the account records",
+   "text": "The current account records transactions between residents and non-residents over a period, such as one year. Its four sections are trade in goods, trade in services, primary income and secondary income. A receipt from abroad is recorded as a credit; a payment abroad is a debit. A section balance equals receipts minus payments. Add the four section balances to obtain the current-account balance: a positive result is a surplus and a negative result is a deficit.",
+   "claim_ids": [
+    "CLM-0455-6.4-001",
+    "CLM-0455-6.4-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.4-001": 1,
+    "CLM-0455-6.4-004": 1
+   },
+   "authored_hash": "2becefdaf8c102bdbecd25b89cce64b17f9ac7dd6424332be1a15b19e4096446"
+  },
+  {
+   "block_id": "6.4.1-b3",
+   "block_type": "components",
+   "heading": "Putting transactions in the right section",
+   "text": "Goods are physical products: a Namibian seller exporting dried fruit to Botswana earns a goods credit, while imported machinery is a goods debit. Services include transport and tourism: a German visitor buying accommodation from a Namibian lodge purchases a service export, even though the visitor consumes it in Namibia. Primary income includes earnings from work and investments across borders, such as interest received from a foreign deposit or dividends paid to overseas shareholders. Secondary income includes current transfers without a corresponding good, service or asset received in return, such as money a worker abroad sends to family at home. Buying shares is different from receiving a dividend on them; the dividend is primary income, whereas the asset purchase belongs outside the current account.",
+   "claim_ids": [
+    "CLM-0455-6.4-002",
+    "CLM-0455-6.4-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.4-002": 1,
+    "CLM-0455-6.4-003": 1
+   },
+   "authored_hash": "7477d0f339b8aae2fda85decf4af92041577b4537666525ec0fb11c85738ba8d"
+  },
+  {
+   "block_id": "6.4.1-b4",
+   "block_type": "worked_application",
+   "heading": "Four balances, one total",
+   "text": "Use these invented annual figures, all in N$ million. Goods receipts are 120 and payments 150, giving 120 - 150 = -30. Services receipts are 40 and payments 20, giving 40 - 20 = 20. Primary income receipts are 8 and payments 12, giving 8 - 12 = -4. Secondary income receipts are 10 and payments 6, giving 10 - 6 = 4. The current account is -30 + 20 - 4 + 4 = -10: a deficit of N$10 million. A services surplus therefore can offset part of a goods deficit without eliminating the overall deficit. Calculate each section before combining them, and retain the minus signs.",
+   "claim_ids": [
+    "CLM-0455-6.4-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.4-004": 1
+   },
+   "authored_hash": "68e0cfb9456e38cb17cf804cff1c95c1f23f2b02b7083bd80599dbfd73409591"
+  },
+  {
+   "block_id": "6.4.1-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "International specialisation in topic 6.1 and trade in topic 6.2 help explain these flows; topic 6.3 explains their currency conversion.",
+   "claim_ids": [
+    "CLM-0455-6.4-001",
+    "CLM-0455-6.4-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.4-001": 1,
+    "CLM-0455-6.4-002": 1
+   },
+   "authored_hash": "882e249c41b9d2d8398a85163a7def94a22f68a47a47060dd06c5812ff7c9269"
+  }
+ ],
+ "word_count": 341
+}

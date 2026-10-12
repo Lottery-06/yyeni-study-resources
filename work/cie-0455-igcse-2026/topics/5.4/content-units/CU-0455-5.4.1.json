@@ -1,0 +1,123 @@
+{
+ "unit_id": "CU-0455-5.4.1",
+ "title": "Why countries differ in economic development",
+ "objective_ids": [
+  "OBJ-0455-5.4.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 300,
+  "target": 365,
+  "max": 430
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "CU-0455-5.4.1-B1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define what economic development means, measure the gap between countries with GDP per head, and trace why low development tends to hold back its own improvement.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "9a154df33582098081d49f146d24ee2abd4c00cd23ab39437accde1f5516e64b"
+  },
+  {
+   "block_id": "CU-0455-5.4.1-B2",
+   "block_type": "definition",
+   "heading": "What development means",
+   "text": "Economic development is the sustained improvement in a country's living standards - the income its people command and the health, education and services they can reach. One country is more developed than another where its people live longer, read more and command more goods and services. Because living standards have several sides, development is judged by indicators used together: GDP per head for income, life expectancy at birth for health, adult literacy for education, and households' reach of clean water and power.",
+   "claim_ids": [
+    "CLM-0455-5.4-001",
+    "CLM-0455-5.4-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.4-001": 1,
+    "CLM-0455-5.4-002": 1
+   },
+   "authored_hash": "0c21d958b759b1f07e6754ad443bf39655d8db2817e0830010f046f4fe0dd4c4"
+  },
+  {
+   "block_id": "CU-0455-5.4.1-B3",
+   "block_type": "worked_application",
+   "heading": "GDP per head, worked out",
+   "text": "GDP per head is total output for the year divided by the population, and it is the income measure used to compare development. A southern African economy producing N$260 billion of output with 2.6 million people shows N$260 billion \u00f7 2.6 million people = N$100 000 per head. Japan shows why the division matters: output of US$4 000 billion against 125 million people gives US$32 000 per head. The same total spread across twice the population would halve output per head, so totals rank size while GDP per head ranks living standards.",
+   "claim_ids": [
+    "CLM-0455-5.4-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.4-002": 1
+   },
+   "authored_hash": "2dab8effa905bf8935adc24c367c73de5d9f2eaaf54b417529267809873c0474"
+  },
+  {
+   "block_id": "CU-0455-5.4.1-B4",
+   "block_type": "comparison",
+   "heading": "Why one measure does not settle it",
+   "text": "GDP per head is an average, so it may sit high while many households stay poor: where income is concentrated in a few hands, the typical household earns far less than the average suggests - Brazil shows how wide that gap can be. The average also skips what income cannot reach where services are missing, and countries with close GDP per head may still rank differently on life expectancy and literacy, so development is judged by several indicators together.",
+   "claim_ids": [
+    "CLM-0455-5.4-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.4-003": 1
+   },
+   "authored_hash": "bcde1c2ecdfad516f2b31531ea4a5a2b39ff123b2c08d96da0281fa1067d4d88"
+  },
+  {
+   "block_id": "CU-0455-5.4.1-B5",
+   "block_type": "analysis_chain",
+   "heading": "Why the gaps tend to persist",
+   "text": "The chain that keeps a low-income country behind runs through its households and its government. Where income per head is low, households spend most of what they earn on necessities and the government collects little tax revenue, so less is left for schools, clinics and piped water. Children then grow up with less schooling and worse health, so the workers they become produce less in an hour, keeping output per head low into the next generation. For whom: children lose the schooling, households carry the water and illness, and the budget starts small each year.",
+   "claim_ids": [
+    "CLM-0455-5.4-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.4-004": 1
+   },
+   "authored_hash": "aa612504c76cce401caf54b342c5340d72e817e32e307c5701b7bcf6b71b1f27"
+  },
+  {
+   "block_id": "CU-0455-5.4.1-B6",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "What sets output over time is economic growth, topic 4.6, and how birth and death rates move as living standards change is population, topic 5.3, in this same unit.",
+   "claim_ids": [
+    "CLM-0455-5.4-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.4-004": 1
+   },
+   "authored_hash": "9a0731fc58ad7a2b9e0b2bd70753ceab96b9c82bdba8629392ed2e580a9888d0"
+  }
+ ],
+ "word_count": 429
+}

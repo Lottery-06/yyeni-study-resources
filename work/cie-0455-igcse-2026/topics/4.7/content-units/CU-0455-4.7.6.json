@@ -1,0 +1,111 @@
+{
+ "unit_id": "CU-0455-4.7.6",
+ "title": "Policies to reduce unemployment",
+ "objective_ids": [
+  "OBJ-0455-4.7.6"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_policy_evaluation",
+ "depth_tier": 4,
+ "word_budget": {
+  "min": 283,
+  "target": 344,
+  "max": 406
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "4.7.6-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Set out the range of policies to reduce unemployment, trace how each works, and judge which policy fits which type of unemployment.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "f85b511eb9c8cdf68c97a360931a763aa43896371ea043713cac661d2b754fc7"
+  },
+  {
+   "block_id": "4.7.6-b2",
+   "block_type": "components",
+   "heading": "The range of policies",
+   "text": "Policies to reduce unemployment are government measures that raise the number in work, and they work through two doors. The demand-side door lifts total spending: public building projects put job seekers onto sites, and tax cuts leave households and firms with more to spend, so orders reach firms and hiring follows. The supply-side door makes job seekers easier to hire: vocational training teaches the skills employers seek, education raises the skills school leavers bring, and job-placement help speeds the match between vacancy and seeker. Namibia's vocational training centres stand at the supply-side door; Vietnam drew jobs by making hiring easier.",
+   "claim_ids": [
+    "CLM-0455-4.7-022",
+    "CLM-0455-4.7-023",
+    "CLM-0455-4.7-024"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.7-022": 1,
+    "CLM-0455-4.7-023": 1,
+    "CLM-0455-4.7-024": 1
+   },
+   "authored_hash": "65c1fcef23a40bf4e2aa6481db4c80477e58429a82489c9c1cda96b24987174f"
+  },
+  {
+   "block_id": "4.7.6-b3",
+   "block_type": "analysis_chain",
+   "heading": "How a training policy runs",
+   "text": "Trace one policy. The government opens a logistics course in Otavi for 400 job seekers. Mechanism: the course teaches the warehouse and driving skills the new depot outside the town is advertising for, so graduates move from the register into posts that exist. Because each graduate earns a wage again, household spending in Otavi rises, and shops take on staff to serve it - a second round of jobs the policy did not pay for directly. Where the skills taught match the vacancies waiting, the chain runs to its end; where they do not, graduates return to the register.",
+   "claim_ids": [
+    "CLM-0455-4.7-024"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.7-024": 1
+   },
+   "authored_hash": "81d3b715f36263882dcd381036355b3d689bbc683b5be323393c2cc8209b28ce"
+  },
+  {
+   "block_id": "4.7.6-b4",
+   "block_type": "evaluation",
+   "heading": "Which policy, which unemployment",
+   "text": "The decisive question is what caused the unemployment. Where the cause is weak spending - a cyclical downturn - measures that lift spending tend to work, and where spare capacity exists, the extra income earned is spent again and further jobs follow; but the jobs last as long as the demand does. Where the cause is missing skills or vanished industries - structural unemployment - training and education tend to work, slowly and at cost, and the jobs they lead to tend to last; but training teaches nothing to a worker idled by a downturn, and spending lifts nothing where the old industry is gone. Speed, cost and the life of the jobs all weigh, so an effective programme mixes the doors.",
+   "claim_ids": [
+    "CLM-0455-4.7-023",
+    "CLM-0455-4.7-024",
+    "CLM-0455-4.7-025"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.7-023": 1,
+    "CLM-0455-4.7-024": 1,
+    "CLM-0455-4.7-025": 1
+   },
+   "authored_hash": "62bb9b2244d396918521cd6a9a292e65f8b6a6f00587688b1260eddc2a3a4fab"
+  },
+  {
+   "block_id": "4.7.6-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The spending and tax measures named here are the fiscal policy of topic 4.3 and the interest-rate lever of topic 4.4; the training measures are the supply-side policy of topic 4.5, and the aims they serve are those of topic 4.2.",
+   "claim_ids": [
+    "CLM-0455-4.7-022"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.7-022": 1
+   },
+   "authored_hash": "026632f6ab86756c67e06daaf749b953eca8c5e61c9d1f8022653b1d4e4ca05c"
+  }
+ ],
+ "word_count": 402
+}

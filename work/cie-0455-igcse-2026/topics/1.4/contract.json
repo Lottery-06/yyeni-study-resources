@@ -2,7 +2,7 @@
  "contract_id": "CONTRACT-0455-1.4",
  "topic_id": "1.4",
  "topic_title": "Production possibility curve (PPC) diagrams",
- "unit": "Unit 1 — The basic economic problem",
+ "unit": "Unit 1 \u2014 The basic economic problem",
  "qualification": "cie-0455-igcse-2026",
  "standard_version": "0.2.0-draft",
  "generated_at": "2026-09-29T07:34:10Z",
@@ -128,7 +128,7 @@
    "min": 1000,
    "max": 1440
   },
-  "item_budget": 38,
+  "item_budget": 29,
   "excluded_constructs": [
    {
     "construct": "a market-failure diagram",
@@ -163,17 +163,17 @@
   ],
   "excluded_constructs_stated_by_syllabus": [],
   "adjacent_topics": [
-   "Opportunity cost — taught in topic 1.3 (same unit)"
+   "Opportunity cost \u2014 taught in topic 1.3 (same unit)"
   ],
-  "excluded_constructs_source": "excluded_constructs are the limits the syllabus states anywhere in the subject, each as the pattern C-11 scans learner-facing text for (curriculum/scope-scan.json): the sentence is Cambridge’s, the pattern is our judgement of what teaching past it looks like, and any match fails the topic. adjacent_topics are not scanned: they name subject matter a neighbouring topic owns. Naming one in passing is fine and often necessary; teaching it here is scope creep."
+  "excluded_constructs_source": "excluded_constructs are the limits the syllabus states anywhere in the subject, each as the pattern C-11 scans learner-facing text for (curriculum/scope-scan.json): the sentence is Cambridge\u2019s, the pattern is our judgement of what teaching past it looks like, and any match fails the topic. adjacent_topics are not scanned: they name subject matter a neighbouring topic owns. Naming one in passing is fine and often necessary; teaching it here is scope creep."
  },
  "required_outputs": {
   "claim_ledger": true,
   "content_units": 4,
-  "learning_items": 38,
+  "learning_items": 29,
   "notes": true
  },
  "misconceptions": "curriculum/misconceptions.json (filter on topic_id \"1.4\")",
  "subtype_waivers": [],
- "item_budget_note": "Set from the generated work order, which is the operative plan. The exposure estimate that seeded it was 38."
+ "item_budget_note": "Set from the generated work order, which is the operative plan. The exposure estimate that seeded it was 28."
 }

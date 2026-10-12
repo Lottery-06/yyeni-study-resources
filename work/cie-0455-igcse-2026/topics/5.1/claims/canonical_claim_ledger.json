@@ -1,0 +1,173 @@
+{
+ "ledger_id": "CLM-LEDGER-0455-IGCSE-5.1",
+ "claims": [
+  {
+   "claim_id": "CLM-0455-5.1-001",
+   "objective_ids": [
+    "OBJ-0455-5.1.1"
+   ],
+   "text": "Living standards are the level of material well-being of a person or a household - how well the household is housed, fed, clothed, schooled and cared for - together with the security of that level.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-5.1-002",
+   "objective_ids": [
+    "OBJ-0455-5.1.1"
+   ],
+   "text": "Gross Domestic Product is the total value of the goods and services produced in a country in a given period; GDP per head is that total divided by the population, so it shows the average output available per person and is the figure to compare living standards between countries or over time.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-5.1-003",
+   "objective_ids": [
+    "OBJ-0455-5.1.1"
+   ],
+   "text": "The indicators that complete the picture of living standards are: income per person, health measures such as life expectancy and infant mortality, education measures such as mean years of schooling and literacy, and access to basic services such as clean water and electricity; taken together they capture what GDP per head alone may miss.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-5.1-004",
+   "objective_ids": [
+    "OBJ-0455-5.1.1"
+   ],
+   "text": "GDP per head is an average, so it may hide differences: where income is spread unevenly, the typical household may earn well below the average, and output may include goods that change living standards little, which is why the wider indicators are read alongside it.",
+   "claim_type": "evaluative",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-5.1-005",
+   "objective_ids": [
+    "OBJ-0455-5.1.2"
+   ],
+   "text": "To compare living standards between countries, GDP per head is adjusted for the cost of living in each country and read alongside health, education and access indicators, because a money figure alone may mislead where prices differ.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-5.1-006",
+   "objective_ids": [
+    "OBJ-0455-5.1.2"
+   ],
+   "text": "The distribution of income is how a country's total income is shared among its households; living standards depend not just on the average income the country produces but on where a household sits in that sharing.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-5.1-007",
+   "objective_ids": [
+    "OBJ-0455-5.1.2"
+   ],
+   "text": "Two countries with the same GDP per head may keep different living standards where their income is shared differently: where income is spread more evenly, a typical household is likely to live better than in a country of equal average income where a small group takes the larger share.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  },
+  {
+   "claim_id": "CLM-0455-5.1-008",
+   "objective_ids": [
+    "OBJ-0455-5.1.2"
+   ],
+   "text": "A progressive income tax takes a larger share of income from high earners than from low earners, so it tends to narrow the gap in take-home income; a regressive income tax takes a larger share from low earners than from high earners, so it tends to widen the gap. The test that tells them apart is which group pays the larger share of its own income, not which group pays the larger amount.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored against the 0455 syllabus scope under standard v0.2.0-draft.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": []
+  }
+ ]
+}

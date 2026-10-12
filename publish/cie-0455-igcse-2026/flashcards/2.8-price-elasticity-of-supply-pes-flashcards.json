@@ -1,0 +1,919 @@
+{
+ "topic_number": "2.8",
+ "topic_title": "Price elasticity of supply (PES)",
+ "topic": "2.8 Price elasticity of supply (PES)",
+ "qualification": "Cambridge IGCSE Economics 0455 (syllabus v2, examined 2026)",
+ "item_count": 18,
+ "items": [
+  {
+   "item_id": "ITEM-0455-2.8-001-DEF",
+   "objective_ids": [
+    "OBJ-0455-2.8.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.8-001",
+    "CLM-0455-2.8-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "A milk depot in Otavi watches how the litres its farmers offer change whenever the farm-gate price changes. Define price elasticity of supply as the term applies to the depot's farmers.",
+   "canonical_answer": "Price elasticity of supply measures how strongly the quantity sellers are willing and able to offer responds when the price of the good changes. For the depot, the term names the measure of how many more or fewer litres its farmers offer when the farm-gate price moves: the percentage change in litres offered, divided by the percentage change in price.",
+   "marking_guidance": [
+    "Reward the precise definition: how strongly the quantity supplied responds to a change in price, measured as the percentage change in quantity supplied divided by the percentage change in price.",
+    "The meaning must tie the definition to the depot's litres; a definition of the demand-side measure alone earns nothing."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.8-001": 1,
+    "CLM-0455-2.8-002": 1
+   },
+   "authored_hash": "bdf546d0bbfb784ee85d950ed9bee9316ca210cb052667df470cdd1885bc34e6",
+   "objective_titles": [
+    "definition of PES"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.8-002-FEATURE",
+   "objective_ids": [
+    "OBJ-0455-2.8.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.8-001",
+    "CLM-0455-2.8-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype FEATURE",
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "A worked-out figure for price elasticity of supply is a single number for a market. Identify two features of the measure - what it includes wherever it is used.",
+   "canonical_answer": "Two features the figure shares as a measure: it is built from two percentage changes - the percentage change in quantity supplied over the percentage change in price - and dividing one percentage by another leaves the result a pure ratio that carries no units. Both features hold whatever the good: the number says how strongly sellers responded, not in what units the good is counted.",
+   "marking_guidance": [
+    "Reward the characteristics of the measure: built from two percentage changes, a ratio that carries no units, and a comparison of the seller's response against the price of the same good.",
+    "One mark per feature, up to two: each must say what the feature involves, not just name it."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.8-001": 1,
+    "CLM-0455-2.8-002": 1
+   },
+   "authored_hash": "51cfac92d396381d2cb4567ccd3475c3c406c85058018b78bec6394e03eeb6aa",
+   "objective_titles": [
+    "definition of PES"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.8-003-DEF",
+   "objective_ids": [
+    "OBJ-0455-2.8.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.8-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Oshakati Textiles raised the price of its printed cotton from N$30 to N$36 a metre, a 20% rise, and the metres of cloth it offers each week rose from 500 to 750, a 50% rise. Define price elasticity of supply as the term applies to Oshakati Textiles' response.",
+   "canonical_answer": "Price elasticity of supply measures how strongly the quantity sellers are willing and able to offer responds when price changes, as the percentage change in quantity supplied divided by the percentage change in price. For Oshakati Textiles, the term names the comparison between its 50% rise in metres offered and the 20% price rise that preceded it - the firm's quantity responded two and a half times as strongly as its price, in percentage terms, which is what its figure of 2.5 records.",
+   "marking_guidance": [
+    "Reward the precise definition: the percentage change in quantity supplied divided by the percentage change in price.",
+    "The meaning must be tied to the mill's figures - the 50% rise in metres against the 20% price rise - rather than left as a formula alone."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.8-004": 1
+   },
+   "authored_hash": "d7af7e2cc99156341c73e037c04db90a6f2f689c19a86ab22af964ef7b9366be",
+   "objective_titles": [
+    "calculation of PES"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.8-004-DIAGRAM",
+   "objective_ids": [
+    "OBJ-0455-2.8.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.8-004",
+    "CLM-0455-2.8-005",
+    "CLM-0455-2.8-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "SYNTH",
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype SYNTH",
+   "command_word": "Discuss",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "A festival weekend raises the demand for fresh fish at the Walvis Bay Saturday market. The day's catch is already landed: at the old price of N$40 a kilo the market sold 300 kilos, and the new price settles at N$70 a kilo with 320 kilos sold. Discuss how a price-and-quantity diagram of this fish market shows what the elasticity of supply decided, giving a verbal walk-through of every part of the diagram and what it shows.",
+   "canonical_answer": "Walk through the diagram in words, element by element. First, the axes labelled: the price of fresh fish in N$ a kilo on the vertical axis, and the quantity in kilos on the horizontal axis. Second, the original curves drawn and labelled: the demand curve D1 and the supply curve S1, crossing at the original equilibrium, marked E1, at N$40 a kilo and 300 kilos. Third, the shift or movement, in the correct direction: the festival raises demand, a condition behind the demand curve, so the whole demand curve shifts right from D1 to D2, while the supply curve stays where it was - the catch is landed, so no condition of supply has changed - and the market then moves along the unchanged supply curve. Fourth, the new equilibrium marked and labelled: where D2 crosses S1, marked E2, at N$70 a kilo and 320 kilos. Fifth, what the diagram shows, in words: the demand shift landed almost entirely on price - up N$30 a kilo, since 70 - 40 = N$30 - and barely on quantity, up 20 kilos, since 320 - 300 = 20 kilos, because the quantity supplied could not follow the price. The link between the landed catch and the outcome is the elasticity of supply: with the day's catch fixed, supply is inelastic over a weekend, so the extra demand was met mostly by a higher price rather than by more fish. The consequence of inelastic supply is that buyers carry the adjustment, through price: had sellers been able to land more fish at short notice - a flatter supply curve - the same demand shift would have moved quantity far more and price far less, so what the diagram shows is the elasticity of supply deciding whether a demand change lands on price or on quantity.",
+   "marking_guidance": [
+    "The walk-through must name the axes labelled - price and quantity, each with its units - before anything else.",
+    "Reward the original curves drawn and labelled: D1 and S1 crossing at E1, at N$40 a kilo and 300 kilos, before the change is described.",
+    "Check the shift or movement, in the correct direction: the festival shifts demand right from D1 to D2 while supply holds, and the market moves along S1 - not the other way round.",
+    "The new equilibrium marked and labelled at E2, at N$70 and 320 kilos, and what the diagram shows, in words - the rise landing on price rather than on quantity - close the walk-through.",
+    "The link between the landed catch and the steepness of supply carries the analysis marks, and the consequence - buyers carrying the adjustment through a higher price - carries the evaluation."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.8-004": 1,
+    "CLM-0455-2.8-005": 1,
+    "CLM-0455-2.8-006": 1
+   },
+   "authored_hash": "28f35da9c553fdd144f751c5d2953e215ed3a2ed9771d47b0f6d6ece4861e26a",
+   "objective_titles": [
+    "calculation of PES"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.8-005-INTERP",
+   "objective_ids": [
+    "OBJ-0455-2.8.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.8-004",
+    "CLM-0455-2.8-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype INTERP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "Two firms worked out their supply elasticities for the past year. Namib Signs, a Katutura printing workshop: 2.8. Etosha Gate Lodge: 0.3. Explain what these figures show about how differently the two firms could respond to price changes.",
+   "canonical_answer": "What the data shows: the relationship is a stark difference in responsiveness - Namib Signs' figure of 2.8 sits well above 1, so its supply is elastic, while Etosha Gate Lodge's 0.3 sits well below 1, so its supply is inelastic. Supporting evidence: the comparison is between 2.8, meaning the quantity the workshop offers changes by 2.8% for every 1% change in the price of printed work, against 0.3 at the lodge, meaning the quantity of rooms offered changes by 0.3% for every 1% change in the room rate. Why: an explanation of the relationship sits behind each business - a printer can usually buy stock, run machines longer or take on extra hands within weeks, so the quantity offered follows price closely, while a lodge's rooms are buildings that cannot be added to a season's trading, so its quantity offered barely responds. The exception: however, a lodge may show a higher figure where it holds spare rooms shut in the low season - unused rooms can be opened, which raises its responsiveness - and a printer may show a lower one once its machines run flat out and its stores empty.",
+   "marking_guidance": [
+    "What the data shows - one figure far above 1 and one far below - must be stated first, with supporting evidence taken as a comparison of what each figure means.",
+    "The exception earns a mark: however, the lodge's figure may rise where spare rooms can be opened, and the printer's may fall once capacity is full and stores are empty.",
+    "The why - an explanation of the relationship between each business's setting and its responsiveness - is the core mark; quoting the two figures alone is not interpretation."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.8-004": 1,
+    "CLM-0455-2.8-006": 1
+   },
+   "authored_hash": "b0bb7d0905afebe85b6bcf9a3f26bb669bc5037774c61739dd690b2b67867d6e",
+   "objective_titles": [
+    "calculation of PES"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.8-006-APP",
+   "objective_ids": [
+    "OBJ-0455-2.8.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.8-004",
+    "CLM-0455-2.8-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "The price of a bag of milled maize at Gobabis rose from N$200 to N$240, a 20% rise. In the month that followed, the Gobabis maize mill offered 1 560 bags against 1 200 before, a 30% rise, and its supply elasticity worked out at 1.5. Explain what the figure of 1.5 shows about how the mill responded to the price change.",
+   "canonical_answer": "The context: the figures show the price of a bag up 20%, from N$200 to N$240, and the bags offered up from 1 200 to 1 560 - a rise of 360 bags, since 1 560 - 1 200 = 360 bags. The reasoning: because the mill's quantity offered rose by a larger percentage than its price, the figure of 1.5 records elastic supply - the mill was able and willing to raise output in response to the higher price, likely by running shifts longer or drawing on stored grain, and the link is that its percentage response was one and a half times the percentage price change. The conclusion: therefore the higher price was met with extra bags rather than with shortage, and the mill's buyers saw supply expand; the figure shows a seller able to follow a rising price with more output, not one rationing what it already had.",
+   "marking_guidance": [
+    "The context - the 20% price rise beside the 360 extra bags - must anchor the answer, and the figures are the evidence.",
+    "Reasoning: because the percentage rise in quantity offered outstripped the percentage price rise, the link from price to output is what the 1.5 records.",
+    "Conclusion: therefore state what the figure means - elastic supply, extra bags meeting the demand - rather than restating the calculation."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.8-004": 1,
+    "CLM-0455-2.8-005": 1
+   },
+   "authored_hash": "f7c8c336e6aba2856da76a06e9a9ee59991c2d80657eb6ef9e6ef4e994858931",
+   "objective_titles": [
+    "calculation of PES"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.8-007-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-2.8.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.8-004",
+    "CLM-0455-2.8-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "A fishing tournament books out Ruacana for a season, and demand for rooms keeps rising. The town's lodges have 40 rooms each and no building can be finished within a season: room prices rise from N$1 200 to N$1 800 a night, and rooms let rise from 34 to 37 a night at the Ruacana River Lodge. Analyse what the elasticity of the lodges' supply means for the tournament's visitors, the lodge owners and the lodge workers.",
+   "canonical_answer": "Starting point: the initial change is a rise in demand for rooms over a single season - a condition of demand - while the lodges' room count is fixed by buildings that cannot be finished in time. Mechanism: because the quantity of rooms supplied cannot follow the price over a season, this causes the supply of rooms to be inelastic, and the whole adjustment falls on price: the nightly rate rises from N$1 200 to N$1 800 - up N$600, since 1 800 - 1 200 = N$600 - while rooms let rise by 3, from 34 to 37 a night, since 37 - 34 = 3 rooms, a far smaller percentage response than the price made. Consequence: therefore the tournament's visitors pay N$600 a night more for a room they would have booked anyway, and some may stay away or travel outside the season; the lodge owners take a higher rate on nearly the same rooms, so their takings usually rise without any extra output; the lodge workers serve almost the same number of guests on the same shifts, so the boom passes them by within the season. For whom the effects land: the price rise is carried by the tournament's visitors, the revenue gain lands with the lodge owners, and the workers gain little until the period is long enough for rooms - and hiring - to expand.",
+   "marking_guidance": [
+    "Starting point: the initial change - the season's demand rise against a fixed stock of rooms - must be named first, and an answer that starts from the price rise has the chain backwards.",
+    "Mechanism: because rooms cannot be added within a season, this causes supply to be inelastic, and the adjustment falls on price rather than on quantity.",
+    "Consequence: therefore each party needs its own traced outcome - the visitors, the lodge owners, the lodge workers - with the N$600 rise and the 3 extra rooms as the evidence.",
+    "For whom: name for whom each consequence lands, including the workers left behind until rooms can be added."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.8-004": 1,
+    "CLM-0455-2.8-006": 1
+   },
+   "authored_hash": "67b3454b6cabccd24a9d32e571d44fbb114a4642bac2a8e651b4c09e364f76c7",
+   "objective_titles": [
+    "calculation of PES"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.8-008-DEF",
+   "objective_ids": [
+    "OBJ-0455-2.8.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.8-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "A supply curve's steepness has causes of its own: conditions behind the market decide how strongly sellers can respond to a price change. Define a determinant of price elasticity of supply.",
+   "canonical_answer": "A determinant of price elasticity of supply is a condition behind the supply curve that shapes how strongly sellers respond when price changes - usually spare capacity, the level of stocks held, how easily production can be switched or extra inputs found, and the length of the period sellers have to respond. A determinant does not change the price itself; it sets how far the quantity offered can follow a price that has already changed.",
+   "marking_guidance": [
+    "Reward the precise definition: a condition behind the supply curve that shapes how strongly sellers respond to a price change, naming examples such as spare capacity, stocks or the time period.",
+    "The meaning must separate the determinant from the price change: it governs the response, not the price."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.8-007": 1
+   },
+   "authored_hash": "4f507212e71f90d787a7a2693e8803070d9637c7d8202a07cb7edb325659c273",
+   "objective_titles": [
+    "determinants of PES"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.8-009-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-2.8.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.8-007",
+    "CLM-0455-2.8-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "Windhoek grows quickly and demand for bricks rises. The Katutura Brickworks is already firing its kilns flat out and its yard holds few finished bricks, while a newer yard outside the city has two kilns standing idle. Analyse how these differences between the two brickworks decide what happens to brick prices and brick output in the city.",
+   "canonical_answer": "Starting point: the initial change is a rise in demand for bricks across the city, meeting two sellers whose conditions differ - one flat out with thin stocks, one with idle kilns. Mechanism: because spare capacity and stocks are determinants of how strongly sellers can respond, this causes the newer yard's supply to be elastic - it can light its idle kilns and lift output quickly as brick prices rise - while the Katutura Brickworks' supply is inelastic, since its kilns are full and its yard holds little to sell, so its quantity offered barely moves however far the price climbs. Consequence: therefore the city's extra demand is met mostly by the newer yard's extra bricks, and the price rise that follows is smaller than one inelastic seller alone would have brought; for the Katutura Brickworks the rise lands on the price of its unchanged output, a gain in takings without extra work for its crews; for the newer yard the same rise pays for lighting kilns, so its workers gain shifts. For whom the effects land: the city's builders pay a smaller rise than inelastic supply alone would have brought; the idle-kiln yard and its workers take the extra trade; the flat-out brickworks takes a higher price on its existing bricks.",
+   "marking_guidance": [
+    "Starting point: the initial change - the demand rise meeting two sellers with different spare capacity and stocks - must be named first.",
+    "Mechanism: because spare capacity and stock levels are determinants of supply elasticity, this causes one yard's supply to be elastic and the other's to be inelastic.",
+    "Consequence: therefore trace the outcome for prices and for each yard - extra bricks from the idle-kiln yard, and a smaller price rise than inelastic supply alone would have brought.",
+    "For whom: name for whom each consequence lands - the builders, the two brickworks, the yard workers."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.8-007": 1,
+    "CLM-0455-2.8-008": 1
+   },
+   "authored_hash": "056011d8a5090164b1e06c3acc1a20d081200560a33e9bad9602ec02edad8212",
+   "objective_titles": [
+    "determinants of PES"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.8-010-APP",
+   "objective_ids": [
+    "OBJ-0455-2.8.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.8-007",
+    "CLM-0455-2.8-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 4,
+   "prompt": "A sewing co-operative in Katutura holds a store of unprinted T-shirts and can buy cotton from two suppliers in the same week. A tailor in Oshakati sews made-to-order dresses from cloth bought once a month from a single fabric importer. Explain, using this extract, why the co-operative's supply is likely to be more elastic than the tailor's.",
+   "canonical_answer": "The context: the extract contrasts two sellers - the co-operative with shirts in store and two suppliers of cotton within a week, against the tailor with monthly cloth from a single importer. The reasoning: because stocks and the ease of finding extra inputs are determinants of supply elasticity, the link runs as follows - the co-operative can turn a price rise into extra printed shirts within days, drawing on its store and on either supplier, so the quantity it offers responds strongly; the tailor, by contrast, may have customers waiting in a week when her cloth has run out, and with a single importer she cannot quickly buy more, so the quantity she offers responds weakly even to a strong price rise. The conclusion: therefore the co-operative's supply is likely to be the more elastic of the two, because the conditions behind its supply - stocks and easy access to inputs - let it follow a price change, while the tailor's conditions hold her output to her monthly cloth order.",
+   "marking_guidance": [
+    "The context - the store of shirts and the two suppliers against the monthly cloth and the single importer - must anchor the answer, and the details of the extract are the evidence.",
+    "Reasoning: because stocks and access to inputs are determinants of elasticity, the link runs from each seller's conditions to how strongly the quantity offered can respond.",
+    "Conclusion: therefore state which supply is the more elastic and why, rather than naming determinants in the abstract."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.8-007": 1,
+    "CLM-0455-2.8-008": 1
+   },
+   "authored_hash": "8c0fff0f98b0ab0aba2efbe2b0f3d388322cc394ec9c632e53c475e3b5d41a63",
+   "objective_titles": [
+    "determinants of PES"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.8-011-EVAL",
+   "objective_ids": [
+    "OBJ-0455-2.8.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.8-007",
+    "CLM-0455-2.8-008",
+    "CLM-0455-2.8-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "EVAL",
+   "assessment_objectives": [
+    "AO3"
+   ],
+   "blooms_level": "Evaluate",
+   "blooms_level_basis": "subtype EVAL",
+   "command_word": "Discuss",
+   "mark_tariff": 8,
+   "difficulty": 5,
+   "prompt": "The length of the period sellers have to respond is often called the most important influence on the elasticity of supply. Discuss whether the time period outweighs the other determinants.",
+   "canonical_answer": "Why it might: within days, almost any seller's quantity is fixed by decisions already taken - a landed catch, a planted field, a booked-out lodge - so even a seller with money and machines shows inelastic supply in the very short run; given months, the same seller can hire, build, plant or retrain, so the period sets the ceiling on what every other determinant can do, since spare capacity and stockpiles are themselves created over time. Why it might not: the argument against is that time is only the room in which the other determinants act - a field of mahangu stays inelastic across a whole dry season, and a tailor with one fabric importer stays inelastic for a month however high the price climbs, since no length of time creates a second importer where none exists; and a seller with stored stock shows elastic supply even within the week, which is the stock doing the work the time is given credit for. Judgement: on balance, the time period is the most important determinant where sellers control their own conditions - where capacity, stocks and inputs can be changed if time allows - and is outweighed where nature or a single supplier's grip fixes those conditions; what settles the question for any market is whether its sellers' conditions have room to change within the period.",
+   "marking_guidance": [
+    "Judgement: reward a stated position with a reason, not a fence-sit; on balance the best answers say why time sets the ceiling and where the claim fails.",
+    "Why it might: the argument for - the short run fixes quantity by decisions already taken, and the period sets the ceiling on every other determinant.",
+    "Why it might not: the argument against - time only matters where the other determinants have room to act, and examples where they do not, such as a dry season or a single importer, carry the mark.",
+    "Decisive: what settles it is whether sellers' other conditions can change within the time they have; answers naming that condition reach the top band."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.8-007": 1,
+    "CLM-0455-2.8-008": 1,
+    "CLM-0455-2.8-009": 1
+   },
+   "authored_hash": "0a02ed9905e711ac96aa8842f719727f65827de23d11951fb313eb9899bb57b3",
+   "objective_titles": [
+    "determinants of PES"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.8-012-DEF",
+   "objective_ids": [
+    "OBJ-0455-2.8.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.8-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "At a crocodile farm near Katima Mulilo, the number of skins offered for sale barely changes from season to season, whatever happens to skin prices. Define price inelastic supply as the term applies to this farm.",
+   "canonical_answer": "Price inelastic supply is supply with an elasticity below 1: the quantity sellers are willing and able to offer changes by a smaller percentage than the price did. For the farm, the term means the skins offered change little even when prices move - the percentage change in skins offered stays far smaller than the percentage change in price - so however tempting the price, the farm cannot offer many more skins than its crocodiles grow.",
+   "marking_guidance": [
+    "Reward the precise definition: an elasticity below 1 - the quantity supplied changes by a smaller percentage than the price.",
+    "The meaning must tie the definition to the farm's unchanging skins; a definition of elastic supply alone earns nothing."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.8-011": 1
+   },
+   "authored_hash": "25f03c8a691adcb5f60284faf54115562e0b959292e30f1b3d4aded8ed43a1aa",
+   "objective_titles": [
+    "significance of PES"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.8-013-WHY",
+   "objective_ids": [
+    "OBJ-0455-2.8.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.8-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "subtype WHY",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 2,
+   "prompt": "Before planning for a season of higher demand, a Katutura furniture workshop works out the elasticity of its supply. Explain why the measure matters to the firm's planning.",
+   "canonical_answer": "The reason the measure matters is that the elasticity of the workshop's supply sets what a demand rise can become. Where its supply is elastic, extra demand means extra sales at close to the old price, since the workshop can raise output to meet it. Where its supply is inelastic, the same demand rise tends to show up as a price rise on nearly the same output, which may lift takings but leaves turned-away customers and rivals' furniture filling the space it cannot serve. Because planning means arranging workers, timber and shifts ahead of the season, the purpose of the measure is as a forecast: knowing how strongly its quantity can respond tells the workshop whether the demand rise becomes output it must arrange or revenue it takes on what it already makes.",
+   "marking_guidance": [
+    "Reward the reason: the elasticity of supply sets whether extra demand becomes extra output or a higher price on the same output.",
+    "Because elastic supply means the firm can meet demand with more units, and inelastic supply means demand lands on price and on customers turned away, each link needs to be made for the mark.",
+    "The purpose - a forecast for planning workers, timber and shifts - completes the reason."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.8-011": 1
+   },
+   "authored_hash": "12c5658ad158fd8d834e204107f01409ac6944a053e139f6c981b30f6fa95a22",
+   "objective_titles": [
+    "significance of PES"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.8-014-APP",
+   "objective_ids": [
+    "OBJ-0455-2.8.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.8-012",
+    "CLM-0455-2.8-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 2,
+   "prompt": "The council of a growing town wants more houses built and offers builders a subsidy for each new home. In the town, builders hold no idle land, skilled bricklayers are scarce and building materials arrive on a single rail line. Explain, using this extract, what the elasticity of the town's housing supply suggests about the subsidy's first years.",
+   "canonical_answer": "The context: the extract shows a housing supply whose conditions - no idle land, scarce bricklayers, one rail line for materials - leave builders little room to respond quickly, so the supply of new houses tends to be inelastic over the subsidy's first years. The reasoning: because the subsidy raises the price builders receive for each home, the link a subsidy relies on is builders answering with more homes; yet with scarce bricklayers and materials on a single line, the quantity of new houses changes little even as the subsidy pays more per home, so the first years' extra payments may lift builders' earnings on the homes they were building anyway rather than call out many more houses. The conclusion: therefore the subsidy is likely to show its full effect slowly - the significance of inelastic supply is that the town's house prices stay high in the first years while capacity and inputs are built up, and the extra homes arrive as the conditions behind supply loosen, provided the subsidy is sustained long enough for that.",
+   "marking_guidance": [
+    "The context - the scarce land, the scarce bricklayers and the single rail line - must anchor the answer, and the details of the extract are the evidence.",
+    "Reasoning: because a subsidy works through the supply response, the link runs from the town's conditions to how far new houses can follow the higher payment per home.",
+    "Conclusion: therefore state what inelastic supply means for the subsidy's first years - higher prices before extra homes, provided the subsidy is sustained."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.8-012": 1,
+    "CLM-0455-2.8-013": 1
+   },
+   "authored_hash": "19f2ffa6146ace5feb31c23aac4568c86d7adbda4b7405e9efe5442fbff40d5a",
+   "objective_titles": [
+    "significance of PES"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.8-P01",
+   "objective_ids": [
+    "OBJ-0455-2.8.1",
+    "OBJ-0455-2.8.2",
+    "OBJ-0455-2.8.3",
+    "OBJ-0455-2.8.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.8-001",
+    "CLM-0455-2.8-002",
+    "CLM-0455-2.8-004",
+    "CLM-0455-2.8-007",
+    "CLM-0455-2.8-008",
+    "CLM-0455-2.8-011"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "performance task type multiple_choice_set",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 3,
+   "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. Price elasticity of supply measures how strongly:\nA  the quantity sellers offer responds to a change in the good's price\nB  the quantity buyers take responds to a change in the good's price\nC  the price responds to a change in the quantity sellers offer\nD  sellers' costs respond to a change in the good's price\n\n2. The formula for PES is:\nA  percentage change in price / percentage change in quantity supplied\nB  percentage change in quantity supplied / percentage change in price\nC  change in quantity supplied / change in price, in original units\nD  percentage change in quantity supplied x percentage change in price\n\n3. A market's PES works out at 0.4. Supply in this market is:\nA  elastic, because the figure is positive\nB  elastic, because the figure is below 1\nC  inelastic, because the figure is below 1\nD  inelastic, because the figure is above 1\n\n4. A price rises by 10% and the quantity supplied rises by 30%. The PES is:\nA  3, and supply is elastic\nB  3, and supply is inelastic\nC  0.33, and supply is elastic\nD  20, and supply is elastic\n\n5. Which condition suggests a seller's supply is elastic?\nA  its machines run flat out\nB  it holds finished goods in store\nC  its inputs arrive on one rail line from a single supplier\nD  its product takes a season to make\n\n6. For a grain grower, supply is at its least elastic:\nA  in the years after new fields are planted\nB  in the season in which the crop is already planted\nC  in the month after a harvest, with grain in the store\nD  in any period in which the price is high\n\n7. On a supply diagram, a steep supply curve shows:\nA  quantity offered changing little when price changes\nB  quantity offered changing a lot when price changes\nC  a market where price changes little\nD  a market with no sellers\n\n8. Demand rises in a market whose supply is inelastic. The rise tends to land:\nA  on quantity, with little price change\nB  on price, with little quantity change\nC  on sellers' costs\nD  on the government",
+   "canonical_answer": "Key: 1 A, 2 B, 3 C, 4 A, 5 B, 6 B, 7 A, 8 B.\n1. A measures the seller's side. B is price elasticity of demand - the buyer's response wearing the wrong label; C runs the relationship backwards - quantity follows price here, not price quantity; D confuses elasticity with cost behaviour - PES is silent about costs.\n2. B is the formula. A inverts the ratio, which turns every elastic reading inelastic; C drops the percentages, so the figure changes with the units used and cannot be compared across markets; D multiplies, so the figure grows with both changes instead of comparing them.\n3. C: a figure below 1 shows the quantity offered changing by a smaller percentage than the price - inelastic. A takes positivity for elasticity, but every PES reading here is positive; B reads the threshold backwards; D misreads the figure itself.\n4. A: 30 divided by 10 gives 3, and a figure above 1 is elastic. B pairs the right figure with the wrong reading - the threshold, not the arithmetic, is missed; C inverts the division and then misreads its own threshold; D subtracts the changes instead of dividing them, a percentage-point slip.\n5. B: goods in store can be offered at once, so quantity follows price. A leaves no room for output to rise - the inelastic case; C ties inputs to a single source, which delays the response; D means quantity cannot change within the season.\n6. B: a planted crop cannot be re-planted mid-season, so the quantity is fixed. A is the period where supply becomes more elastic; C is stocks doing the work - the elastic case; D confuses elasticity with the price level, which are unrelated.\n7. A: steepness shows how little the quantity moves for a given price change. B is the flat curve's reading, flipped; C reads the diagram's axes wrongly - price sits on the vertical axis; D abandons the market altogether.\n8. B: where quantity cannot follow demand, the adjustment shows up in price. A is what elastic supply would deliver; C sends the adjustment to the wrong party entirely; D names a party the market does not adjust for.",
+   "marking_guidance": [
+    "Key: one mark per question, eight in total; the correct option for each is listed and every distractor is explained as the specific misunderstanding it catches.",
+    "Each distractor traces to a named confusion: the buyer's elasticity taken for the seller's, the formula inverted, values above and below 1 read backwards, and determinants confused with conditions of demand."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.8-001": 1,
+    "CLM-0455-2.8-002": 1,
+    "CLM-0455-2.8-004": 1,
+    "CLM-0455-2.8-007": 1,
+    "CLM-0455-2.8-008": 1,
+    "CLM-0455-2.8-011": 1
+   },
+   "authored_hash": "047048f13cde5f2d258039e0f168b96fa0cb4b1ab1ff2fb3bbbb6f975082107b",
+   "objective_titles": [
+    "definition of PES",
+    "calculation of PES",
+    "determinants of PES",
+    "significance of PES"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.8-P02",
+   "objective_ids": [
+    "OBJ-0455-2.8.2",
+    "OBJ-0455-2.8.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.8-004",
+    "CLM-0455-2.8-005",
+    "CLM-0455-2.8-008",
+    "CLM-0455-2.8-009"
+   ],
+   "item_type": "data_response",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type data_response",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "A radio report from Otavi, March 2026: \"Milled maize is dearer in Otavi this month. Namib Grain, the town's big miller, lifted the price of a 12.5 kg bag from N$200 to N$210 and lifted weekly output from 4 000 to 4 400 bags, with a third of its milling line still idle. The village millers around Otavi kept their small hand mills running the same hours as before, and their bag price rose from N$205 to N$230.\"\n\nTable 1 - milled maize in Otavi, March against February\n  Namib Grain price per bag: N$200 in February, N$210 in March\n  Namib Grain bags milled a week: 4 000 in February, 4 400 in March\n  Namib Grain spare capacity: a third of the milling line idle in both months\n  village millers price per bag: N$205 in February, N$230 in March\n  village millers bags a week: 900 in February, 910 in March\n  village millers working hours: unchanged\n\n(a) Calculate Namib Grain's PES for the price rise. [1]\n(b) Identify from Table 1 one reason Namib Grain could raise its output quickly. [2]\n(c) Explain why the village millers' bag price rose further than Namib Grain's. [4]\n(d) Analyse what the figures suggest for Otavi's households if demand for milled maize keeps rising. [6]",
+   "canonical_answer": "(a) The formula: PES = percentage change in quantity supplied / percentage change in price. Substitution: bags milled rose by 400 a week, since 4 400 - 4 000 = 400 bags, so the percentage change in quantity supplied is 400 / 4 000 = 10%; the price rose by N$10, since 210 - 200 = N$10, so the percentage change in price is 10 / 200 = 5%. Answer: PES = 10 / 5 = 2, and supply of bags at Namib Grain is elastic, with no units on the figure.\n(b) The idle third of its milling line - spare capacity the miller could bring into use without new equipment, which is why output could rise while the price was still moving.\n(c) The village millers kept their hours the same and milled only 10 more bags a week, since 910 - 900 = 10 bags, against a price rise of N$25, since 230 - 205 = N$25. Their supply is inelastic: hand mills at fixed hours, with no spare capacity in the table, mean the quantity offered cannot follow the price, so when demand for milled maize rose across the district, the shortage showed up in the village millers' price rather than in their output. Namib Grain, with a third of its line idle, met most of the extra demand with extra bags, which kept its price rise to N$10 on a N$200 bag - the smaller price rise sits beside the more elastic supply.\n(d) Expected relationship: with district demand still rising, output rises where supply is elastic and prices rise where it is not. Evidence: Namib Grain lifted bags milled by 400 a week on a N$10 price rise, while the village millers lifted output by 10 bags on a N$25 rise. Analysis: for Otavi's households, extra demand is likely to be met at close to the old price while Namib Grain's idle third lasts; once its line runs flat out, its supply turns inelastic in turn, and further demand lands on price, as the village millers' price already shows. Households near a village miller may switch toward the big miller's cheaper bags, provided the extra demand does not swallow the spare capacity first. Exception: however, a good harvest or cheaper imported grain could shift supply right across the district and pull prices back down whatever the elasticities, and the table covers a single month, so seasonal swings in milling may reverse the readings later in the year.",
+   "marking_guidance": [
+    "Parts (a) and (b) are read straight from the data: (a) needs the formula, the substitution and the answer with its reading; (b) one clear condition from the table.",
+    "Part (c): one mark per distinct linked statement - the inelastic village supply, the unchanged hours, and the contrast with Namib Grain's idle line.",
+    "Part (d) is marked on expected relationship, then evidence, then analysis, then an exception; quoting the table without the relationship it supports earns nothing.",
+    "For whom: the consequences for households must be traced, and figure-quoting as analysis is refused - the figures are the evidence, the reasoning is the analysis."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": [
+     "Namib Grain price February N$200 a bag",
+     "Namib Grain price March N$210 a bag",
+     "Namib Grain bags February 4 000 a week",
+     "Namib Grain bags March 4 400 a week",
+     "a third of Namib Grain's milling line idle",
+     "village millers price February N$205 a bag",
+     "village millers price March N$230 a bag",
+     "village millers bags February 900 a week",
+     "village millers bags March 910 a week",
+     "village millers working hours unchanged"
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.8-004": 1,
+    "CLM-0455-2.8-005": 1,
+    "CLM-0455-2.8-008": 1,
+    "CLM-0455-2.8-009": 1
+   },
+   "authored_hash": "c0fd87081b4b99c5b45941263c6d4ab31514451cb1ccd6ce26a6dc5d72d0e73c",
+   "objective_titles": [
+    "calculation of PES",
+    "determinants of PES"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.8-P03",
+   "objective_ids": [
+    "OBJ-0455-2.8.1",
+    "OBJ-0455-2.8.2",
+    "OBJ-0455-2.8.3",
+    "OBJ-0455-2.8.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.8-001",
+    "CLM-0455-2.8-002",
+    "CLM-0455-2.8-004",
+    "CLM-0455-2.8-009",
+    "CLM-0455-2.8-011",
+    "CLM-0455-2.8-014"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type short_answer",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "The market for weekend accommodation in Swakopmund. Answer all parts.\n\n(a) Define price elasticity of supply. [2]\n(b) Explain how a figure for price elasticity of supply is calculated and what a figure above 1 shows. [4]\n(c) Swakopmund's guesthouses let 2 400 room-nights at N$600 a night before a festival weekend, and 2 520 room-nights at N$900 during it. Analyse what these figures suggest about the elasticity of the town's weekend supply of rooms, and what that meant for festival visitors and guesthouse owners. [6]\n(d) Discuss whether an inelastic supply of rooms is good news for a town's guesthouse owners. [8]",
+   "canonical_answer": "(a) Price elasticity of supply measures how strongly the quantity sellers are willing and able to offer responds when the price of the good changes, calculated as the percentage change in quantity supplied divided by the percentage change in price.\n(b) The calculation: PES = the percentage change in quantity supplied divided by the percentage change in price, with each percentage worked on the original figure - the change divided by the starting level, times 100. A figure above 1 shows elastic supply: the quantity offered changed by a larger percentage than the price did, so sellers followed the price with room to spare; the higher the figure, the more strongly the quantity responded.\n(c) The figures: the quantity of room-nights supplied rose by 120, since 2 520 - 2 400 = 120 room-nights, a rise of 5%, since 120 / 2 400 = 5%, while the nightly price rose by N$300, since 900 - 600 = N$300, a rise of 50%, since 300 / 600 = 50%. PES = 5 / 50 = 0.1, which sits far below 1, so the weekend supply of rooms was inelastic: the quantity of rooms offered could barely follow the price, because rooms are buildings, beds and staff that a weekend cannot add - a short period fixing the quantity, which is the time determinant at work. For festival visitors, the demand rise landed on price - N$300 a night more - while rooms let rose by only 120 room-nights across the town, so visitors paid for the shortage. For the guesthouse owners, the same figures meant a higher rate on almost the same occupancy, so takings usually rose without extra output: the town's fixed room stock decided who gained, with owners taking the revenue and visitors taking the cost.\n(d) Why it might be good news: where demand for rooms is rising, inelastic supply means the rise lands on price - owners take N$300 a night more on nearly the same room-nights, so revenue usually rises without the extra costs of beds, staff or buildings, and the shortage itself holds the rate up through the season. Why it might not: the same inelasticity works in reverse - where a downturn empties the town, the price falls on nearly the same fixed costs, and revenue drops sharply because output cannot soften the fall; and in the longer run the high price that inelasticity delivers is an invitation, since new guesthouses and rival towns may draw off the demand the town could not serve, eroding the rate the fixed stock once commanded. Judgement: on balance, inelastic supply is good news for owners while demand rises and the room stock stays fixed, and bad news when demand falls or when the period is long enough for building to answer; whether it pays depends on the direction demand moves and on how long the stock stays fixed.",
+   "marking_guidance": [
+    "Every part carries a model answer; part (d) is level-marked over three bands.",
+    "(a) rewards the precise definition: the percentage change in quantity supplied divided by the percentage change in price.",
+    "(b) one mark per distinct point: the formula, the percentage changes worked on the original figures, and what a value above 1 shows.",
+    "(c) one mark per distinct linked statement from the figures - the 0.1 reading, the inelastic explanation through the short period, and what each party took.",
+    "(d) Level 3 examines why it might - the price rise on a fixed stock while demand rises - and why it might not - the same inelasticity in a downturn, and building answering over time - and reaches a judgement naming the condition; Level 2 develops one side; Level 1 asserts."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": [
+     "guesthouse room-nights before the festival 2 400 at N$600 a night",
+     "guesthouse room-nights during the festival 2 520 at N$900 a night"
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.8-001": 1,
+    "CLM-0455-2.8-002": 1,
+    "CLM-0455-2.8-004": 1,
+    "CLM-0455-2.8-009": 1,
+    "CLM-0455-2.8-011": 1,
+    "CLM-0455-2.8-014": 1
+   },
+   "authored_hash": "9c1bf75cb1919abedd485f20fc8660f8ca418eeb4cbcc6bc6171c06f6150b3d4",
+   "objective_titles": [
+    "definition of PES",
+    "calculation of PES",
+    "determinants of PES",
+    "significance of PES"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-2.8-P04",
+   "objective_ids": [
+    "OBJ-0455-2.8.3",
+    "OBJ-0455-2.8.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-2.8-008",
+    "CLM-0455-2.8-009",
+    "CLM-0455-2.8-011",
+    "CLM-0455-2.8-014"
+   ],
+   "item_type": "essay_plan",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Evaluate",
+   "blooms_level_basis": "performance task type essay_plan",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "Plan an answer to: \"Handmade baskets from the north grow popular in Windhoek shops, and their price rises. The weavers sit in villages with idle hands in the dry season, dyed palm in store, and a craft co-operative that trains new weavers within months. Discuss whether the weavers are likely to gain from the price rise.\" Do not write the essay; produce the plan.",
+   "canonical_answer": "Case for (the weavers gain): elastic supply turns the price rise into income.\nChain 1: popularity rises -> demand shifts right -> the price of a basket rises -> idle hands in the dry season mean spare capacity -> output of baskets rises without much new cost -> weavers' income rises on more baskets (for the weaver, the co-operative).\nCase against, first point (the gain leaks away): the weavers sell through Windhoek shops, and the shop owners may keep part of the rise as margin, while buyers may switch to factory-made baskets if the handmade price climbs far.\nChain 2: the shop price rises -> shop margins take part of it -> the weaver's received price rises less than the shop price -> some buyers switch to substitutes -> the volume gain shrinks (for the weaver, the shop owner).\nCase against, second point (materials run out): the elastic response may fade, because the stored dyed palm runs low and a fresh palm harvest takes a season.\nChain 3: baskets sell well -> palm stocks empty -> new palm takes a season to harvest -> supply turns inelastic -> the price keeps rising while output stalls (for the weaver, the future buyer).\nJudgement: the weavers are likely to gain while spare capacity, stored palm and trained new weavers let output follow the price - an elastic supply meeting rising demand usually means more income on more baskets. The condition the judgement depends on: how much of the shop price reaches the weaver, and whether the stored palm lasts until a new harvest, since the gain holds while the conditions behind supply stay loose enough to answer the demand.",
+   "marking_guidance": [
+    "A plan, not an essay: the structure with the stated judgement is what is assessed.",
+    "The plan must carry the case for and the case against, each developed as a chain from condition to consequence, and name the parties - the weaver, the shop owner, the co-operative.",
+    "The judgement must be decisive and name the condition it depends on: the share of the price reaching the weaver, and the stored palm lasting the season.",
+    "What settles it: whether supply stays elastic long enough - spare capacity, stocks and new weavers - for the weavers to take the gain in volume rather than hand it to the shops."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-2.8-008": 1,
+    "CLM-0455-2.8-009": 1,
+    "CLM-0455-2.8-011": 1,
+    "CLM-0455-2.8-014": 1
+   },
+   "authored_hash": "7e7cd7a8467cb88093ddbb4454c39b3c166d79e41c13b14a9053aa3adc2a557f",
+   "objective_titles": [
+    "determinants of PES",
+    "significance of PES"
+   ]
+  }
+ ]
+}

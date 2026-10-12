@@ -1,0 +1,119 @@
+{
+ "unit_id": "CU-0455-2.10.1",
+ "title": "What market failure means",
+ "objective_ids": [
+  "OBJ-0455-2.10.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_definition",
+ "depth_tier": 1,
+ "word_budget": {
+  "min": 310,
+  "target": 376,
+  "max": 443
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.10.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define market failure, and settle the key terms around it: public good, merit good, demerit good, private, external and social costs, and private, external and social benefits.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "bcc05d58714ea240c2f8f9896e2a893f45b863ddcf40b9a351ebe52ce4d8eeb6"
+  },
+  {
+   "block_id": "2.10.1-b2",
+   "block_type": "definition",
+   "heading": "Market failure, defined",
+   "text": "Market failure is the failure of the price mechanism, left to itself, to allocate resources in the way that best serves society: some goods are produced at levels above what their full effects on others justify, and others at levels below what those effects warrant. A lighthouse on the coast of Portugal shows the idea: ships within sight of the beam use it whatever they paid, so the light's benefits never reach the price, and private builders tend to put up too few.",
+   "claim_ids": [
+    "CLM-0455-2.10-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.10-001": 1
+   },
+   "authored_hash": "47ea13ed9bed3b233560170d0fc41899adf1cfcf5ecfb339394a76f06dc95841"
+  },
+  {
+   "block_id": "2.10.1-b3",
+   "block_type": "definition",
+   "heading": "Private, external and social costs",
+   "text": "A private cost is a cost the decision-maker pays directly: the diesel a Windhoek bus operator burns is a private cost. An external cost is imposed on people outside the transaction and goes unpaid by them: the exhaust pedestrians breathe is a cost the operator never settles. A social cost is the two together, the full cost of the activity to society. The benefits mirror this: a private benefit lands on the buyer, an external benefit on people outside the transaction, and a social benefit on both combined.",
+   "claim_ids": [
+    "CLM-0455-2.10-002",
+    "CLM-0455-2.10-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.10-002": 1,
+    "CLM-0455-2.10-003": 1
+   },
+   "authored_hash": "11707651eec145fa926761c0d8f2e06f537de2b0d203af18d69542c91c56795f"
+  },
+  {
+   "block_id": "2.10.1-b4",
+   "block_type": "definition",
+   "heading": "Public goods, merit goods, demerit goods",
+   "text": "A public good has two features. Its benefits cannot be confined to those who pay - street lighting over Katutura's taxi ranks lights the non-payer as surely as the payer - and one person's use of it leaves as much for the next. A merit good, such as schooling or vaccination, is one whose benefits consumers tend to undervalue, so too little is bought. A demerit good, such as tobacco or strong drink, is one whose harm consumers tend to undercount, so too much is bought.",
+   "claim_ids": [
+    "CLM-0455-2.10-004",
+    "CLM-0455-2.10-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.10-004": 1,
+    "CLM-0455-2.10-005": 1
+   },
+   "authored_hash": "2c2bce536ee4d7b8f84fb43f647892192d3c9b8134d536c1da80477a77cedfcb"
+  },
+  {
+   "block_id": "2.10.1-b5",
+   "block_type": "misconception",
+   "heading": "Market failure is not business failure",
+   "text": "The confusion learners make: market failure sounds like a firm going under. The boundary: business failure is one firm closing because it cannot cover its costs; market failure is a whole market settling at the wrong level of output, even while its firms trade on. The test: ask whether the statement is about a single firm's survival or a whole market's level of output. When Etosha Gate Lodge shuts its gates after two quiet seasons, that is business failure; when too little is spent on Walvis Bay's flood defences, that is market failure.",
+   "claim_ids": [
+    "CLM-0455-2.10-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.10-006": 1
+   },
+   "authored_hash": "463d95534d57b1948142ecc91a2a0e8c5fdb835de7bf4bb910accc8463d1d69b"
+  },
+  {
+   "block_id": "2.10.1-b6",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The price mechanism this topic questions was built in topics 2.3 (demand) and 2.4 (supply), whose meeting sets the market price and the level of output this topic examines.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "c9b4ba20f575b6c97ca2b8cbea7ee5ea2986a5f562a68f2d9b5c905acb0f1c79"
+  }
+ ],
+ "word_count": 431
+}

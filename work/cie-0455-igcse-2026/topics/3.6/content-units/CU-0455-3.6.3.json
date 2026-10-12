@@ -1,0 +1,123 @@
+{
+ "unit_id": "CU-0455-3.6.3",
+ "title": "Production and productivity",
+ "objective_ids": [
+  "OBJ-0455-3.6.3"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 283,
+  "target": 344,
+  "max": 406
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "3.6.3-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Distinguish production from productivity, calculate labour productivity, and explain why the difference matters to a firm.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "921c4e4bf781b4a39c7ce94895d319e0713564dbec53ce17cdf12bac2cd4606d"
+  },
+  {
+   "block_id": "3.6.3-b2",
+   "block_type": "definition",
+   "heading": "Two measures of output",
+   "text": "Production is the total quantity of goods or services a firm makes in a period: Kaoko Juice of Oshakati produced 6 000 bottles last month. Productivity is output per unit of a factor of production over the same period - most often output per worker. Production counts the bottles; productivity asks how much each worker, or each machine, produced. A Vietnamese shoe factory and a Namibian one can be compared on this common scale even when their total outputs differ.",
+   "claim_ids": [
+    "CLM-0455-3.6-008",
+    "CLM-0455-3.6-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.6-008": 1,
+    "CLM-0455-3.6-009": 1
+   },
+   "authored_hash": "46ac15a3d3651ac03ab666f6ac4f021d88c33f308a2a0859571a975c1a45b04c"
+  },
+  {
+   "block_id": "3.6.3-b3",
+   "block_type": "formula",
+   "heading": "Calculating labour productivity",
+   "text": "Labour productivity = total output / number of workers. Kaoko Juice made 6 000 bottles with 15 workers, so productivity was 6 000 / 15 = 400 bottles per worker. If the same 15 workers produce 7 500 bottles after a training course, productivity becomes 7 500 / 15 = 500 bottles per worker, a rise of 500 - 400 = 100 bottles per worker. The same arithmetic works for any factor: bottles per machine, loaves per oven.",
+   "claim_ids": [
+    "CLM-0455-3.6-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.6-009": 1
+   },
+   "authored_hash": "232227385b2634dc68bf61d79abc4b98cdf9c1d0b707ed9fe0fa708673b6d294"
+  },
+  {
+   "block_id": "3.6.3-b4",
+   "block_type": "plain_explanation",
+   "heading": "Why firms watch productivity",
+   "text": "Cost per unit depends on how much each worker produces. Where productivity rises, the same wage bill covers more bottles, so cost per bottle tends to fall; the firm can cut its price, or hold the price and earn more on each sale. A fall in productivity works in reverse: the same wages are spread over fewer bottles, and cost per bottle rises. Productivity, not production, is what tells a firm whether its workforce is turning effort into output well.",
+   "claim_ids": [
+    "CLM-0455-3.6-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.6-010": 1
+   },
+   "authored_hash": "b01eed06b3ff38636b99b099d1b947aa97a6284199d502c13dc75461e7030fd2"
+  },
+  {
+   "block_id": "3.6.3-b5",
+   "block_type": "misconception",
+   "heading": "Production is not productivity",
+   "text": "Examiners record learners treating the two as one idea. Production is a total; productivity is a rate per factor. The test: two laundries each washing 9 000 loads a month are equal in production, but if one uses 12 workers and the other 18, the first washes 750 loads per worker and the second 500, so the first is the more productive. A firm can even raise production while productivity falls - taking on extra workers whose added output is smaller per worker than before - so a growing total is not on its own a sign of efficiency.",
+   "claim_ids": [
+    "CLM-0455-3.6-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.6-011": 1
+   },
+   "authored_hash": "d81886c178313d2f83574619802671aaece700eb1a7e7c0d7e4cdaccbabb1da7"
+  },
+  {
+   "block_id": "3.6.3-b6",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Productivity feeds the costs of production measured in topic 3.7, and the factors it is measured against are classified in topic 1.2.",
+   "claim_ids": [
+    "CLM-0455-3.6-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.6-009": 1
+   },
+   "authored_hash": "0590ffe2ca69edd3957efd720ab265a9897679267945d827a1a88185736c2e22"
+  }
+ ],
+ "word_count": 395
+}

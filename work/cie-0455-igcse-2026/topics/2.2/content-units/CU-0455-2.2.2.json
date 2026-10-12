@@ -1,0 +1,106 @@
+{
+ "unit_id": "CU-0455-2.2.2",
+ "title": "What, how and for whom",
+ "objective_ids": [
+  "OBJ-0455-2.2.2"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_mechanism",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 280,
+  "target": 341,
+  "max": 403
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.2.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Explain the three key resources allocation decisions that the economic problem forces on an economy: what to produce, how to produce it and for whom to produce it.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "f5c8f2a37b6b89965cd269b4e53d051a03aaf0b2ba6c9d202c107606be3b6075"
+  },
+  {
+   "block_id": "2.2.2-b2",
+   "block_type": "definition",
+   "heading": "Three questions scarcity forces",
+   "text": "Because resources are finite and wants are not, an economy cannot produce everything, so three key allocation decisions must be made. What to produce: maize meal or blueberries, clinics or football stadiums. How to produce it: by hand with many workers, or by machine with few; in Oshakati or in Vietnam. For whom to produce it: for the households with the money to pay, or spread more widely. An economy run by central officials answers these questions through government plans; a market economy answers them through prices and spending. Whichever system is used, the three questions wait to be answered, because scarcity does not pause for any system.",
+   "claim_ids": [
+    "CLM-0455-2.2-005",
+    "CLM-0455-2.2-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.2-005": 1,
+    "CLM-0455-2.2-007": 1
+   },
+   "authored_hash": "13adf1b1078584e9dfee480592080ad695937e5fde9689eaa589c2ffc79fc6c9"
+  },
+  {
+   "block_id": "2.2.2-b3",
+   "block_type": "worked_application",
+   "heading": "Kaoko Juice faces the three decisions",
+   "text": "Kaoko Juice in Opuwo has 20 workers, two pressing machines and N$80 000 for the season. What to produce: marula juice sells at N$28 a bottle against N$19 for orange, so the marula line gets the machines first. How to produce it: hand-pressing uses 12 workers and yields 400 bottles a day, machine-pressing uses 4 workers and yields 900 bottles, so the machines run while workers pick. For whom to produce it: supermarkets in Windhoek pay promptly, the stall at the Ruacana gate takes 60 bottles a week, so production is weighted towards the supermarkets. Notice how the decisions interlock: choosing marula (what) made machine-pressing worthwhile (how), and the output went where the money was (for whom).",
+   "claim_ids": [
+    "CLM-0455-2.2-005",
+    "CLM-0455-2.2-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.2-005": 1,
+    "CLM-0455-2.2-006": 1
+   },
+   "authored_hash": "9b69e785a21fd1dcf3be026b2bfdfa9226a0e29d2d0e8f93e639c77d71b66267"
+  },
+  {
+   "block_id": "2.2.2-b4",
+   "block_type": "analysis_chain",
+   "heading": "Why the decisions cannot be taken separately",
+   "text": "The what decision narrows the how decision, because a chosen product limits which methods can make it. The how decision then sets the cost per bottle, and cost limits what can be offered at a price consumers will pay, which feeds the for whom decision. So an economy that changes one answer usually finds the other two shifting with it, and a producer who ignores the link may find its chosen product cannot be made cheaply enough for anyone it hoped to serve.",
+   "claim_ids": [
+    "CLM-0455-2.2-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.2-006": 1
+   },
+   "authored_hash": "bd546cc2865c1e4f06e879254e1e2ab1b6f4d06331b890d683e403e4c8c81371"
+  },
+  {
+   "block_id": "2.2.2-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The economic problem that forces these questions is the subject of topic 1.1; the price mechanism that a market uses to answer them is introduced in section 2.2.3.",
+   "claim_ids": [
+    "CLM-0455-2.2-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.2-005": 1
+   },
+   "authored_hash": "55eea91b8348d6ecbbdc92e5cf5ea6efefa7d14055b32ccd029c8afef016d71a"
+  }
+ ],
+ "word_count": 386
+}

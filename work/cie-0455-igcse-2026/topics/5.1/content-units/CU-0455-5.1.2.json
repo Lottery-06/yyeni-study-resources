@@ -1,0 +1,109 @@
+{
+ "unit_id": "CU-0455-5.1.2",
+ "title": "Comparing living standards and income distribution",
+ "objective_ids": [
+  "OBJ-0455-5.1.2"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 285,
+  "target": 347,
+  "max": 410
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "5.1.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Compare living standards across countries, and bring the distribution of income in.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "22526d1136ab268e0ae1826a3beee45fa44cf48281694bb39332bb4194db17a7"
+  },
+  {
+   "block_id": "5.1.2-b2",
+   "block_type": "plain_explanation",
+   "heading": "Comparing living standards honestly",
+   "text": "To compare living standards between countries, GDP per head is first adjusted for the cost of living, because a money figure alone may mislead where prices differ: the same income buys more where food and rent are cheaper. The adjusted figure is then read alongside health, education and access indicators - life expectancy, schooling, clean water - which capture outcomes the money figure cannot.\n\nThe distribution of income is how a country's total income is shared among its households, and living standards depend not just on the average income a country produces but on where a household sits in that sharing. The Netherlands and Brazil illustrate: income is spread evenly in the Netherlands, while in Brazil a smaller group takes a larger share of a similar average, so the typical Dutch household tends to live better even where the averages sit close.",
+   "claim_ids": [
+    "CLM-0455-5.1-005",
+    "CLM-0455-5.1-006",
+    "CLM-0455-5.1-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.1-005": 1,
+    "CLM-0455-5.1-006": 1,
+    "CLM-0455-5.1-007": 1
+   },
+   "authored_hash": "ed2ee1485dc66bd5d0424f4d8e097694efdb09458664325f64e8284153b56eb3"
+  },
+  {
+   "block_id": "5.1.2-b3",
+   "block_type": "analysis_chain",
+   "heading": "Why the same average can house different lives",
+   "text": "Start from two countries with the same GDP per head of N$60 000 a year, where the middle household takes about 70% of the average in one and about 40% in the other. The typical household earns about 0.70 x N$60 000 = N$42 000 a year in the evenly shared country against about 0.40 x N$60 000 = N$24 000 in the other. This causes what the typical household can afford - schooling, healthcare, housing - to diverge though the average is identical. Therefore a comparison stopping at GDP per head ranks the two as equal, while the distribution of income has decided the typical household in one lives better.",
+   "claim_ids": [
+    "CLM-0455-5.1-006",
+    "CLM-0455-5.1-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.1-006": 1,
+    "CLM-0455-5.1-007": 1
+   },
+   "authored_hash": "7c79f0ea84bb3cde1cb2252f4584338f95849b79f34696aa39214479ac54f3c7"
+  },
+  {
+   "block_id": "5.1.2-b4",
+   "block_type": "misconception",
+   "heading": "Progressive does not mean regressive",
+   "text": "The confusion: learners mix up a progressive income tax with a regressive income tax system, assuming both take a larger share from high earners, or judge a system by amounts paid rather than shares. The boundary: a progressive income tax takes a larger share of income from high earners, tending to narrow the gap in take-home pay; a regressive one takes a larger share from low earners, widening the gap. The test that tells them apart: which group pays the larger share of its own income - the shares, not the amounts.",
+   "claim_ids": [
+    "CLM-0455-5.1-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.1-008": 1
+   },
+   "authored_hash": "88b254f012e74db8fb4fe1ff59bd1b3fcca958920c00f5bd3c744ededeb91186"
+  },
+  {
+   "block_id": "5.1.2-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The tax system that shapes the sharing is taught in topic 4.4, the poverty uneven sharing leaves behind in topic 5.2, and the growth that raises the average in topic 4.6.",
+   "claim_ids": [
+    "CLM-0455-5.1-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.1-007": 1
+   },
+   "authored_hash": "15773fbdd35fa4b98a01ef217f5c0333a3149d4a0f0a10c0a03629b36873a71b"
+  }
+ ],
+ "word_count": 410
+}

@@ -1,0 +1,140 @@
+{
+ "unit_id": "CU-0455-4.6.3",
+ "title": "Recession: meaning, causes and consequences",
+ "objective_ids": [
+  "OBJ-0455-4.6.3"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_diagram",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 273,
+  "target": 333,
+  "max": 393
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "4.6.3-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define a recession, trace its causes and consequences, and show what a recession does to an economy's position on its production possibility curve.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "36284f8a7a50f0539926b57b7cd8a95641048f7739b741479c2461081cd4589b"
+  },
+  {
+   "block_id": "4.6.3-b2",
+   "block_type": "definition",
+   "heading": "What a recession is",
+   "text": "A recession is a period in which real GDP falls for two successive quarters or longer, so total output is contracting rather than growing. A fall in one quarter alone does not yet meet the definition; the test is duration as well as direction.",
+   "claim_ids": [
+    "CLM-0455-4.6-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.6-008": 1
+   },
+   "authored_hash": "0708949565a51758db8b210300b5b169cdcf3418d7193d732650d234b41051d6"
+  },
+  {
+   "block_id": "4.6.3-b3",
+   "block_type": "analysis_chain",
+   "heading": "How a recession begins",
+   "text": "A recession often begins on the demand side: households cut spending as incomes or confidence fall, firms delay investment as sales weaken, and export orders drop as customers abroad buy less. The chain runs: total demand falls, so firms cut production and lay off workers, so incomes fall further and demand falls again. A second route runs through finance: where a banking crisis makes loans scarce and costly, firms that depend on credit cut back fast, as export-led economies such as Germany's do when foreign orders fall away.",
+   "claim_ids": [
+    "CLM-0455-4.6-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.6-009": 1
+   },
+   "authored_hash": "d8de8807d96b7223d8e97b97c715ae22557296707b90d4b404a072ea4ad8a7d6"
+  },
+  {
+   "block_id": "4.6.3-b4",
+   "block_type": "interpretation",
+   "heading": "Inside the production possibility curve",
+   "text": "On a production possibility curve, a recession is a movement inward, not a shift. In words: two goods on the axes, the curve showing what the economy produces at full use of resources, and the economy first at a point on the curve. As output falls, the economy slides to a point inside the curve: the boundary has not moved, but the economy now produces below what it could, and the gap between curve and point is output the recession wastes - idle workers and machines.",
+   "claim_ids": [
+    "CLM-0455-4.6-010",
+    "CLM-0455-4.6-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.6-010": 1,
+    "CLM-0455-4.6-008": 1
+   },
+   "authored_hash": "c323de7cd75f9c8f3118cafcb53f6037d133083963fd043631deef82659747af"
+  },
+  {
+   "block_id": "4.6.3-b5",
+   "block_type": "misconception",
+   "heading": "A consequence is not a cause",
+   "text": "The confusion: asked why a recession happened, learners offer what it caused - rising unemployment, firms' losses - as though these brought it about. The boundary: causes come before the downturn and produce it; consequences follow from it. The test: ask whether the item itself needs the recession to have happened first.",
+   "claim_ids": [
+    "CLM-0455-4.6-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.6-012": 1
+   },
+   "authored_hash": "51c276b172b2515ac80b2bf255e6f0ec093c698098e48e50eef85ac839cf412b"
+  },
+  {
+   "block_id": "4.6.3-b6",
+   "block_type": "stakeholder_effect",
+   "heading": "Who a recession hits",
+   "text": "The consequences land unevenly: workers lose jobs and incomes; firms lose sales and some fail; the government's tax revenue falls as benefit spending rises, squeezing its budget from both ends; consumers meet a narrower choice as businesses cut back.",
+   "claim_ids": [
+    "CLM-0455-4.6-011",
+    "CLM-0455-4.6-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.6-011": 1,
+    "CLM-0455-4.6-009": 1
+   },
+   "authored_hash": "933bf460401d3bccac108fc1a250baefd3767a756f18a8273f8a5c942e93e7a6"
+  },
+  {
+   "block_id": "4.6.3-b7",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The production possibility curve is built in topic 1.4, unemployment is taken further in topic 4.7, and the fiscal measures a government may lean on in a downturn belong to topic 4.3.",
+   "claim_ids": [
+    "CLM-0455-4.6-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.6-011": 1
+   },
+   "authored_hash": "52f56c7f440812d3fc23f40d4d79f1f730cd1da8aaefe4ad89db22d264c09f5d"
+  }
+ ],
+ "word_count": 392
+}

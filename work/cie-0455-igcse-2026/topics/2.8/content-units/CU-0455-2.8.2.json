@@ -1,0 +1,102 @@
+{
+ "unit_id": "CU-0455-2.8.2",
+ "title": "Calculating and reading PES",
+ "objective_ids": [
+  "OBJ-0455-2.8.2"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_diagram",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 252,
+  "target": 307,
+  "max": 362
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.8.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Calculate PES from data with the formula, read the value that results, and interpret what a supply diagram shows about sellers' responsiveness.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "d8dc80e8f17347dee117c019e7bbe652c356fba2b3e05f3f91cbf7a65e8bb794"
+  },
+  {
+   "block_id": "2.8.2-b2",
+   "block_type": "formula",
+   "heading": "The formula and its reading",
+   "text": "PES = percentage change in quantity supplied / percentage change in price. Each percentage is worked on the original figure: the change divided by the starting level, times 100. A value above 1 shows elastic supply - the quantity offered changed by a larger percentage than the price did - and a value below 1 shows inelastic supply, where the quantity offered changed by a smaller percentage.",
+   "claim_ids": [
+    "CLM-0455-2.8-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.8-004": 1
+   },
+   "authored_hash": "9fe069fde6fbfd6f75b69eb02f544673cc134ca55e2659408b07f7a0e20bc76d"
+  },
+  {
+   "block_id": "2.8.2-b3",
+   "block_type": "worked_calculation",
+   "heading": "Kaoko Juice works one out",
+   "text": "Kaoko Juice bottles marula juice at Opuwo. When the wholesale price of a crate rose from N$100 to N$110, the crates it offered each week rose from 200 to 260. Step one, the percentage change in quantity supplied: crates rose by 60, since 260 - 200 = 60 crates, so the change is 60 / 200 = 30%. Step two, the percentage change in price: the price rose by N$10, since 110 - 100 = N$10, so the change is 10 / 100 = 10%. Step three, the ratio: PES = 30 / 10 = 3. The bottler's supply is elastic, and the figure carries no units.",
+   "claim_ids": [
+    "CLM-0455-2.8-004",
+    "CLM-0455-2.8-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.8-004": 1,
+    "CLM-0455-2.8-005": 1
+   },
+   "authored_hash": "9705ac148eecf403ec4471096643d6fd1effd195cb9e5fb10ceb3825f2711524"
+  },
+  {
+   "block_id": "2.8.2-b4",
+   "block_type": "interpretation",
+   "heading": "Reading a supply curve's steepness",
+   "text": "A supply diagram shows elasticity without numbers. Price sits on the vertical axis and quantity on the horizontal axis, and the steepness of the supply curve carries the reading. A steep curve shows inelastic supply - a large price change moves the quantity offered little, as with fresh fish already landed at Walvis Bay. A flatter curve shows elastic supply - a small price change moves the quantity offered a lot, as with T-shirts a Katatura workshop prints within hours. When demand shifts, the shift tends to land mostly on price where supply is inelastic and mostly on quantity where it is elastic: coffee already picked in Brazil cannot answer this season's price.",
+   "claim_ids": [
+    "CLM-0455-2.8-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.8-006": 1
+   },
+   "authored_hash": "2f09550ce3d13cef0d716f9cbbbedb4f2779c52e9453a9ea29b58b8cb039cb8b"
+  },
+  {
+   "block_id": "2.8.2-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The equilibrium these responses settle at was topic 2.5's work, and topic 2.6 traced the shifts that move it. Why one seller can respond and another cannot is the next section.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "b6fc37cc06ef19e71f2b470f4661c87e8b12bd4eaaa017912d3b360c9e92cbd1"
+  }
+ ],
+ "word_count": 360
+}

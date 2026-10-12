@@ -1,0 +1,106 @@
+{
+ "unit_id": "CU-0455-4.8.3",
+ "title": "The causes of inflation and deflation",
+ "objective_ids": [
+  "OBJ-0455-4.8.3"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 250,
+  "target": 305,
+  "max": 360
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "4.8.3-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Distinguish demand-pull from cost-push inflation, and set out the demand-side and supply-side causes of deflation.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "fab9f80e6ff16f9c6bb2e0a2c8e9b6355b28d8651cdfa98a05e41535264b4878"
+  },
+  {
+   "block_id": "4.8.3-b2",
+   "block_type": "definition",
+   "heading": "Demand-pull inflation",
+   "text": "Demand-pull inflation arises where total spending in the economy grows faster than the economy's capacity to produce, so buyers compete for scarce goods and sellers raise prices. A lodge region at full capacity shows the mechanism: where visitor numbers surge in an Etosha season and rooms cannot be added at once, room prices are pulled up by the bidding of buyers. Fast growth of wages and credit pulls the same way across an economy, as Brazil saw in years when spending ran far ahead of what producers could supply.",
+   "claim_ids": [
+    "CLM-0455-4.8-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.8-009": 1
+   },
+   "authored_hash": "c531164a5f844aaad53cb2aab29cb1918802cee97de28b579a064fbb41a37365"
+  },
+  {
+   "block_id": "4.8.3-b3",
+   "block_type": "definition",
+   "heading": "Cost-push inflation",
+   "text": "Cost-push inflation arises where the costs of production rise and firms pass the rise on in higher prices, with the economy's total outlay unchanged. A fuel price rise works this way: haulage becomes dearer, food travels dearer, and shop prices follow. A rise in imported input prices after a currency weakens does the same for an economy that imports much of what it processes. The direction matters: costs rose first and prices followed, where demand-pull has spending rise first.",
+   "claim_ids": [
+    "CLM-0455-4.8-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.8-010": 1
+   },
+   "authored_hash": "bdcaeb9094aa2c791a9428f25c6b88bb52d267dc4495965b042aca93192f911f"
+  },
+  {
+   "block_id": "4.8.3-b4",
+   "block_type": "analysis_chain",
+   "heading": "The causes of deflation",
+   "text": "Deflation has a demand-side cause and a supply-side cause. Demand-side: the economy's whole outlay on goods falls - credit tightens, incomes drop, or households wait for lower prices - so firms cut prices to win the fewer buyers there are; a fall that begins in weak demand risks feeding itself, because buyers who expect lower prices tend to postpone purchases. Supply-side: inputs become cheaper or productivity rises, so firms can charge less without losing profit, and a good harvest that halves maize prices lowers the basket for all. The two causes share the falling index and differ in what happens to output: demand-side deflation tends to drag output and jobs down with it, where supply-side deflation can leave them intact.",
+   "claim_ids": [
+    "CLM-0455-4.8-011",
+    "CLM-0455-4.8-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.8-011": 1,
+    "CLM-0455-4.8-012": 1
+   },
+   "authored_hash": "9cc9aeed4b5e71eba20f1e4d09672cc46e25f03ef9b105933c7162ac68dc4395"
+  },
+  {
+   "block_id": "4.8.3-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The outlay behind demand-pull pressure belongs with topic 4.3 and the credit behind it with the money supply of topic 4.4; demand and supply, in topics 2.3 and 2.4, are the market-level version of the same pull.",
+   "claim_ids": [
+    "CLM-0455-4.8-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.8-009": 1
+   },
+   "authored_hash": "adb9c3286d0f615bb33c217554e6e3ca2f20ebc2f3c11b087d1cebaaf6a11fca"
+  }
+ ],
+ "word_count": 353
+}

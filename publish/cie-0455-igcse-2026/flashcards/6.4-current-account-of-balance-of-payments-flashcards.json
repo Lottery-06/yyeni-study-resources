@@ -1,0 +1,1183 @@
+{
+ "topic_number": "6.4",
+ "topic_title": "Current account of balance of payments",
+ "topic": "6.4 Current account of balance of payments",
+ "qualification": "Cambridge IGCSE Economics 0455 (syllabus v2, examined 2026)",
+ "item_count": 22,
+ "items": [
+  {
+   "item_id": "ITEM-0455-6.4-001-DEF",
+   "objective_ids": [
+    "OBJ-0455-6.4.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.4-001",
+    "CLM-0455-6.4-002",
+    "CLM-0455-6.4-003",
+    "CLM-0455-6.4-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "work order subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Define the current account of the balance of payments.",
+   "canonical_answer": "The current account is the record of transactions between a country's residents and non-residents in goods, services, primary income and secondary income over a stated period. It records both receipts and payments, allowing their difference to be calculated. It is an external transactions account, rather than a government budget.",
+   "marking_guidance": [
+    "Precise definition: identify external transactions over a period and the four components; a goods-trade balance alone is incomplete."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Invented teaching context; figures are not published statistics.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.4-001": 1,
+    "CLM-0455-6.4-002": 1,
+    "CLM-0455-6.4-003": 1,
+    "CLM-0455-6.4-004": 1
+   },
+   "authored_hash": "2c80b8bfff31bd71675f822174f3d52795ce4cdb1b9801334935269e0beaa826",
+   "objective_titles": [
+    "structure"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-6.4-002-CALC",
+   "objective_ids": [
+    "OBJ-0455-6.4.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.4-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "work order subtype CALC",
+   "command_word": "Calculate",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "Invented annual figures, all in N$ million: goods receipts 90, payments 110; services receipts 35, payments 20; primary income receipts 6, payments 10; secondary income receipts 8, payments 5. Calculate the current-account balance. [1]",
+   "canonical_answer": "Formula: current-account balance is the sum of receipts minus payments in each section. Working: (90 - 110) + (35 - 20) + (6 - 10) + (8 - 5) = -6. Answer with units: -N$6 million, a current account deficit of N$6 million.",
+   "marking_guidance": [
+    "Formula: sum the four component balances.",
+    "Substitution and working: subtract each payment from its corresponding receipt and preserve negative signs.",
+    "Answer with units: a deficit of N$6 million; one mark for the correct signed balance."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Invented teaching context; figures are not published statistics.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.4-004": 1
+   },
+   "authored_hash": "421264c0e1732688ef3a8712faf75f33069bed938b7335fc64ff037ca3538995",
+   "objective_titles": [
+    "structure"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-6.4-003-INTERP",
+   "objective_ids": [
+    "OBJ-0455-6.4.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.4-002",
+    "CLM-0455-6.4-003",
+    "CLM-0455-6.4-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "work order subtype INTERP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 2,
+   "prompt": "Invented annual component balances, N$ million: goods -30, services +20, primary income -4, secondary income +4. Explain why a services surplus does not establish a current account surplus. [4]",
+   "canonical_answer": "The data shows a positive services balance alongside a larger goods deficit. Supporting evidence: the N$20 million services surplus offsets part of the N$30 million goods deficit, leaving -N$10 million across trade. However, primary income is -N$4 million and secondary income +N$4 million, so these two sections offset each other. The current account remains -N$10 million because it combines all four sections. A positive component is therefore compatible with an overall deficit.",
+   "marking_guidance": [
+    "The relationship: a component surplus offsets a deficit elsewhere rather than determining the whole account.",
+    "Supporting evidence and comparison: N$20 million services surplus is smaller than the N$30 million goods deficit.",
+    "Exception: however, the income sections must also be considered; here they cancel.",
+    "Explanation of the relationship: the final balance combines all four sections, yielding a N$10 million deficit."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Invented teaching context; figures are not published statistics.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.4-002": 1,
+    "CLM-0455-6.4-003": 1,
+    "CLM-0455-6.4-004": 1
+   },
+   "authored_hash": "240e42e5c249b03cfbd64146e212146a669f3c0a7ff6d931b3a081d3a4075816",
+   "objective_titles": [
+    "structure"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-6.4-004-APP",
+   "objective_ids": [
+    "OBJ-0455-6.4.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.4-002",
+    "CLM-0455-6.4-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "work order subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 2,
+   "prompt": "Invented transactions: a German visitor pays N$4 000 for accommodation at a Namibian lodge, and a Namibian investor receives N$4 000 in dividends from shares in a German firm. Explain how each receipt is classified in the current account. [4]",
+   "canonical_answer": "In this context, the accommodation payment is a trade-in-services credit because the lodge supplies a service to a non-resident. The service is an export even though it is consumed in Namibia. The dividend is a primary-income credit because it is income earned on an investment abroad. Therefore both receipts enter the current account, but in different components: services and primary income. The size of the receipt does not determine its classification.",
+   "marking_guidance": [
+    "Context: distinguish the two N$4 000 receipts.",
+    "Reasoning: link accommodation to a service supplied to a non-resident and the dividend to an investment return.",
+    "Conclusion: services credit and primary-income credit; classify the transaction rather than its location or amount."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Invented teaching context; figures are not published statistics.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.4-002": 1,
+    "CLM-0455-6.4-003": 1
+   },
+   "authored_hash": "cef7f2bcac50eb3ae6e0ba50ffc83950b34c642477e365ff2b97f10c77211aee",
+   "objective_titles": [
+    "structure"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-6.4-005-DEF",
+   "objective_ids": [
+    "OBJ-0455-6.4.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.4-005",
+    "CLM-0455-6.4-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "work order subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Define a current account surplus, distinguishing it from a government budget deficit. [2]",
+   "canonical_answer": "A current account surplus is an excess of external current-account receipts over payments during a stated period. It covers goods, services and income flows. A government budget deficit instead means government spending exceeds its revenue. The boundary is the flows measured: external current transactions versus government revenue and expenditure. The test is to ask which receipts and payments are being compared; a budget deficit provides no sufficient evidence of a current account surplus.",
+   "marking_guidance": [
+    "Precise definition: external current-account receipts exceed payments over a period.",
+    "The confusion, boundary and test: do not substitute a government revenue-and-spending balance for the external balance."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Invented teaching context; figures are not published statistics.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.4-005": 1,
+    "CLM-0455-6.4-008": 1
+   },
+   "authored_hash": "ec58f43c57c678c7e1c51ab935dac764b2aa44a5a2c0bffd611afb4943220826",
+   "objective_titles": [
+    "causes of current account deficit and surplus"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-6.4-006-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-6.4.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.4-006",
+    "CLM-0455-6.4-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "work order subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "A Namibian exporter sells dried fruit to Botswana and Portugal. Its prices rise faster than rival export prices, and buyers can switch suppliers. Other current-account components stay unchanged. Analyse how this change could cause a current account deficit. [6]",
+   "canonical_answer": "Starting point: the exporter's relative prices rise. Because buyers have alternative suppliers, its fruit becomes less price-competitive, which may reduce orders. This causes a fall in the quantity exported. If the quantity fall outweighs the higher price, export receipts fall. Therefore receipts may fall below unchanged payments, creating or widening a current account deficit. For the economy, the mechanism runs from lost price competitiveness through lower export earnings to the external gap; it depends on buyers responding strongly enough, not on a price rise by itself.",
+   "marking_guidance": [
+    "Starting point: relative export prices rise.",
+    "Mechanism: because buyers can switch, weaker competitiveness can reduce orders and receipts.",
+    "Consequence: therefore lower receipts against unchanged payments can create a deficit.",
+    "For whom: trace the economy's external balance; award distinct linked statements up to six and retain the condition on receipts."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Invented teaching context; figures are not published statistics.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.4-006": 1,
+    "CLM-0455-6.4-007": 1
+   },
+   "authored_hash": "88850723b6e427b4f88f13e76103b8e3e089f0234c7f384eb64d83ce402bdfc0",
+   "objective_titles": [
+    "causes of current account deficit and surplus"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-6.4-007-APP",
+   "objective_ids": [
+    "OBJ-0455-6.4.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.4-005",
+    "CLM-0455-6.4-006",
+    "CLM-0455-6.4-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "work order subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "Invented annual figures for an economy: external current receipts N$100 million, payments N$110 million; government revenue N$40 million, spending N$45 million. Payments then rise by N$8 million as households buy more imported food, while the other figures stay unchanged. Explain what caused the change in the current account and why it is distinct from the government budget deficit. [4]",
+   "canonical_answer": "The figures initially show a N$10 million current account deficit and a separate N$5 million government budget deficit. Higher spending on imported food adds N$8 million to external payments, because the food is bought from non-residents. With receipts unchanged, the current account deficit becomes N$18 million. The budget deficit remains N$5 million. The confusion is treating the two deficits as interchangeable; the boundary is external flows versus government flows, and the test is which account the extra payment enters. Therefore the import increase causes the external deterioration here, rather than the unchanged budget balance.",
+   "marking_guidance": [
+    "Context: use the N$8 million import increase and the unchanged government figures.",
+    "Reasoning: because imports increase external payments, the external deficit widens.",
+    "Conclusion: current account deficit N$18 million and budget deficit N$5 million; name the confusion, boundary and test."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Invented teaching context; figures are not published statistics.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.4-005": 1,
+    "CLM-0455-6.4-006": 1,
+    "CLM-0455-6.4-008": 1
+   },
+   "authored_hash": "5517250395c8a68a8c0292e79a45cc0149bb0d62381fb0ca3a28c17d78665992",
+   "objective_titles": [
+    "causes of current account deficit and surplus"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-6.4-018-FEATURE",
+   "objective_ids": [
+    "OBJ-0455-6.4.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.4-006",
+    "CLM-0455-6.4-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "work order subtype FEATURE",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 4,
+   "prompt": "Explain two causes of a current account surplus, other external components unchanged. [4]",
+   "canonical_answer": "One cause is stronger overseas demand for exports. If firms can fill the extra orders, export receipts rise, so receipts may exceed payments. Another cause is lower domestic spending on imports. If consumers and firms reduce imported purchases, payments fall, so a surplus may emerge even without an export increase. Improved quality or relatively low production costs can also strengthen export competitiveness. A surplus therefore may reflect export success or weak domestic demand; its cause is a separate question from its definition.",
+   "marking_guidance": [
+    "Features of the causes: identify a change increasing receipts and a change reducing payments.",
+    "Explain the link for each cause with distinct statements; do not assume that a surplus proves rapid growth."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Invented teaching context; figures are not published statistics.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.4-006": 1,
+    "CLM-0455-6.4-007": 1
+   },
+   "authored_hash": "e55c020d5e0b50dd048274518f14fa86ac762bd2bc0df07209538bb40a3b2f77",
+   "objective_titles": [
+    "causes of current account deficit and surplus"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-6.4-008-DEF",
+   "objective_ids": [
+    "OBJ-0455-6.4.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.4-009",
+    "CLM-0455-6.4-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "work order subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Define foreign exchange reserves in the context of financing external payments. [2]",
+   "canonical_answer": "Foreign exchange reserves are foreign-currency assets held by a country's monetary authority. They can be used to meet external payments or support the home currency through intervention. Drawing on reserves may help meet a current-account shortfall temporarily, but repeated use reduces the assets available; reserves are a stock, whereas the current account records flows during a period.",
+   "marking_guidance": [
+    "Precise definition: foreign-currency assets held by the monetary authority.",
+    "Meaning in context: reserves can meet external payments or support the currency; distinguish the stock from current-account flows."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Invented teaching context; figures are not published statistics.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.4-009": 1,
+    "CLM-0455-6.4-012": 1
+   },
+   "authored_hash": "258814443a18b90f4d86749f90bfd890100b24d062b4917e926c8fdbd44f2297",
+   "objective_titles": [
+    "consequences of current account deficit and surplus"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-6.4-009-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-6.4.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.4-010",
+    "CLM-0455-6.4-011",
+    "CLM-0455-6.4-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "work order subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "A hypothetical economy has a floating currency. Households switch spending from domestic furniture to imported furniture, worsening its current account, with other currency flows unchanged. Analyse possible consequences for GDP, employment and inflation. [6]",
+   "canonical_answer": "Starting point: imports replace sales by domestic furniture producers. Because domestic firms receive fewer orders, they may reduce production, lowering GDP. Fewer workers may be needed, so employment can fall. The higher external payments can add sales of home currency for foreign currency, putting downward pressure on the floating exchange rate. If depreciation follows, imported materials become dearer in home currency and firms may pass those costs into consumer prices, raising inflation. Therefore workers can lose jobs while consumers face higher import-related prices. The effects depend on domestic sales actually being displaced and on depreciation occurring; the deficit alone does not prove these outcomes.",
+   "marking_guidance": [
+    "Starting point: import spending replaces domestic sales.",
+    "Mechanism: because orders fall, production and labour demand may fall; trace currency pressure separately.",
+    "Consequence: therefore GDP, employment and inflation can move through the stated channels.",
+    "For whom: domestic firms, workers and consumers; use six distinct linked statements and state the floating-rate condition."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Invented teaching context; figures are not published statistics.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.4-010": 1,
+    "CLM-0455-6.4-011": 1,
+    "CLM-0455-6.4-012": 1
+   },
+   "authored_hash": "4ab39772a182e8cec38b576ca75a1c3e8baf598dbdeb35d91845dd188b3e20d4",
+   "objective_titles": [
+    "consequences of current account deficit and surplus"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-6.4-010-APP",
+   "objective_ids": [
+    "OBJ-0455-6.4.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.4-010",
+    "CLM-0455-6.4-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "work order subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "Invented example: a Namibian processor imports N$20 million of Japanese equipment, creating a current account deficit. The equipment expands output capacity and can be used to fill additional export orders. Explain why this deficit need not reduce future GDP and employment. [4]",
+   "canonical_answer": "In this context the deficit results from buying productive equipment rather than losing domestic sales to imported consumer goods. Because the equipment expands capacity, the processor can increase production if it receives sufficient orders. Higher production may require more workers and raise domestic GDP. Therefore the initial current-account deterioration can accompany future output and employment gains. These gains depend on orders and successful use of the equipment; if borrowed funds financed the purchase, future returns also need to cover the borrowing costs.",
+   "marking_guidance": [
+    "Context: use the N$20 million productive-equipment import.",
+    "Reasoning: because capacity expands, additional demand may support more output and jobs.",
+    "Conclusion: the initial deficit need not imply lower future GDP or employment; condition the gain on orders and productive use."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Invented teaching context; figures are not published statistics.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.4-010": 1,
+    "CLM-0455-6.4-012": 1
+   },
+   "authored_hash": "804bc46b8e662548af98701478532e7580c1f2cfad6b65f25d3e99d56cc7237b",
+   "objective_titles": [
+    "consequences of current account deficit and surplus"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-6.4-011-DEF",
+   "objective_ids": [
+    "OBJ-0455-6.4.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.4-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "work order subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "Define balance of payments stability. [2]",
+   "canonical_answer": "Balance of payments stability is a sustainable external payments position without persistent pressures that require disruptive adjustment. A temporary current account deficit can be consistent with stability if it can be financed sustainably and does not lead to repeated reserve loss or unaffordable future payments. Stability therefore does not mean that the current account must equal zero in each period.",
+   "marking_guidance": [
+    "Precise definition: a sustainable external payments position with no persistent disruptive pressure.",
+    "Meaning: distinguish sustainability from an exact zero balance in each period."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Invented teaching context; figures are not published statistics.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.4-013": 1
+   },
+   "authored_hash": "ab79e05d135a9a51296fdc31c2ce4db28039a143abb39184859ad574c10e0e5a",
+   "objective_titles": [
+    "policies to achieve balance of payments stability"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-6.4-012-BEN",
+   "objective_ids": [
+    "OBJ-0455-6.4.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.4-016",
+    "CLM-0455-6.4-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "BEN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "work order subtype BEN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 4,
+   "prompt": "A hypothetical Namibian exporter loses orders because deliveries to Botswana and Germany arrive late. Analyse a benefit of better transport infrastructure for balance of payments stability. [6]",
+   "canonical_answer": "The benefit is stronger export competitiveness. Better transport can reduce delivery delays and spoilage, lowering the firm's cost of fulfilling an order. Because buyers value reliable delivery, the exporter may regain customers and receive more orders. Where it can expand supply, export volumes and receipts may rise. Higher receipts help narrow a deficit, improving the economy's external payments position. Therefore the firm can gain sales and workers may gain employment, while the economy becomes less dependent on financing a persistent deficit. The benefit depends on infrastructure addressing the actual bottleneck and on buyers responding; spending on infrastructure alone does not establish it.",
+   "marking_guidance": [
+    "Benefit: more reliable, competitive exports.",
+    "Because: link shorter delays and lower waste to buyers' demand and additional receipts.",
+    "For whom: name the exporter, workers and economy; develop distinct linked statements up to six with the supply and demand conditions."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Invented teaching context; figures are not published statistics.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.4-016": 1,
+    "CLM-0455-6.4-013": 1
+   },
+   "authored_hash": "de69be379c791bfd56edfb9e69d58ff7b215f0232f5fdbf4b226bb2b10cbf9ca",
+   "objective_titles": [
+    "policies to achieve balance of payments stability"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-6.4-013-LIM",
+   "objective_ids": [
+    "OBJ-0455-6.4.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.4-014",
+    "CLM-0455-6.4-016"
+   ],
+   "item_type": "flashcard",
+   "subtype": "LIM",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "work order subtype LIM",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 4,
+   "prompt": "A hypothetical government restricts imported packaging to reduce a current account deficit. Domestic packaging supply cannot expand quickly, and fruit exporters use that imported packaging. Analyse limitations of this policy. [6]",
+   "canonical_answer": "A limitation is that restricting an input can damage exports. With domestic supply unable to expand quickly, the restriction makes packaging scarcer, so its price may rise. Because fruit exporters need packaging to sell abroad, their costs can increase and some orders may become unprofitable. If export prices rise or deliveries are delayed, buyers may switch to rival suppliers, reducing export receipts. Therefore the intended fall in import payments may be offset by weaker exports. For firms the drawback is higher costs; for workers it is possible job loss; for households it can be higher prices. Retaliation by trading partners is a further risk, rather than a certain response.",
+   "marking_guidance": [
+    "Limitation: input restrictions can weaken exports.",
+    "Because: develop the chain from scarce packaging through costs and delivery to lost receipts.",
+    "For whom: exporters, workers and consumers; judge the net effect rather than assuming import savings dominate."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Invented teaching context; figures are not published statistics.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.4-014": 1,
+    "CLM-0455-6.4-016": 1
+   },
+   "authored_hash": "747e5a892eae613c11d278b630eea618de90a6fd271b2d3444aafa0f48c14c92",
+   "objective_titles": [
+    "policies to achieve balance of payments stability"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-6.4-014-EVAL",
+   "objective_ids": [
+    "OBJ-0455-6.4.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.4-013",
+    "CLM-0455-6.4-014",
+    "CLM-0455-6.4-015",
+    "CLM-0455-6.4-016"
+   ],
+   "item_type": "flashcard",
+   "subtype": "EVAL",
+   "assessment_objectives": [
+    "AO3"
+   ],
+   "blooms_level": "Evaluate",
+   "blooms_level_basis": "work order subtype EVAL",
+   "command_word": "Discuss",
+   "mark_tariff": 8,
+   "difficulty": 5,
+   "prompt": "A hypothetical economy has a persistent current account deficit. Demand for essential imports responds weakly to prices, exporters face capacity constraints, and its currency floats. Discuss whether depreciation is the best way to restore external stability. [8]",
+   "canonical_answer": "Why it might: with quoted prices unchanged, depreciation makes exports cheaper abroad and imports dearer at home. Buyers may switch spending towards domestic goods and exports may attract more orders, improving the current account where demand for exports and imports is elastic enough to respond and domestic supply can respond. Why it might not: here essential import demand responds weakly and export capacity is constrained, so import costs may rise without a sufficient export response. Firms using imported inputs may face higher costs and households may face inflation. Training and infrastructure may better address export capacity, although they take time and public resources. Judgement: on balance, depreciation alone is unlikely to be the best response to these stated constraints. The decisive condition is whether export and import quantities can respond sufficiently, together with supply capacity; if those constraints ease, depreciation can become more effective.",
+   "marking_guidance": [
+    "Why it might: develop the relative-price and spending-switching argument with the conditions that export and import demand is elastic enough to respond and that supply can respond.",
+    "Why it might not: use weak essential-import demand response and constrained export supply.",
+    "Decisive condition: demand responsiveness and supply capacity, with policy timing and costs considered.",
+    "Judgement: on balance, compare depreciation with measures addressing the cause; examine both sides with economic reasoning."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Invented teaching context; figures are not published statistics.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.4-013": 1,
+    "CLM-0455-6.4-014": 1,
+    "CLM-0455-6.4-015": 2,
+    "CLM-0455-6.4-016": 1
+   },
+   "authored_hash": "15badcd7215b0a95721c32d57a9017483920635b54f6bd22061437aa1148fa25",
+   "prior_hash": "a41e59bf8896879a913461e02c89bdf2890bdf9a84581952a161813f9f04bb65",
+   "repair_note": "Planner audit 2026-10-06: removed the named Marshall-Lerner condition (beyond the 0455 syllabus; the condition is kept in plain words) and corrected cross-references to topics 2.7 (PED) and 6.4 (current account).",
+   "objective_titles": [
+    "policies to achieve balance of payments stability"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-6.4-015-APP",
+   "objective_ids": [
+    "OBJ-0455-6.4.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.4-014",
+    "CLM-0455-6.4-016"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "work order subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 4,
+   "prompt": "Invented case: a Namibian exporter loses Botswana and German customers through damaged goods and unreliable delivery. A government proposes worker training instead of restricting imports of the exporter's materials. Explain how training could improve the current account. [4]",
+   "canonical_answer": "The context is lost orders caused by damage and delivery failures. Because training can improve handling and production skills, fewer goods may be damaged and orders may be completed more reliably. Better quality and delivery can help the firm retain customers, raising export receipts if buyers respond and the firm fills the orders. Therefore training targets the cause of weak exports and may narrow the deficit, whereas restricting essential imported materials could raise the exporter's costs. The result depends on relevant training and its use in production.",
+   "marking_guidance": [
+    "Context: address damaged goods and delivery failures.",
+    "Reasoning: link skills to quality, reliability and export receipts.",
+    "Conclusion: training may narrow the external deficit if buyers respond and output can expand."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Invented teaching context; figures are not published statistics.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.4-014": 1,
+    "CLM-0455-6.4-016": 1
+   },
+   "authored_hash": "e4dab0672cb37b630cf80eb4f705d5bf6d1807a2649bc66032e80acc69e52e0b",
+   "objective_titles": [
+    "policies to achieve balance of payments stability"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-6.4-016-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-6.4.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.4-014"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "work order subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "A hypothetical economy's import spending has risen as households borrow to buy imported consumer goods. The government raises interest rates. Analyse how this policy might improve its current account and affect domestic firms. [6]",
+   "canonical_answer": "Starting point: higher interest rates raise the cost of borrowing and the return to saving. Because households may borrow and spend less, purchases of imported consumer goods can fall. This causes lower external payments, which may narrow the current account deficit if receipts do not fall as much. However, domestic firms may also lose sales when spending falls, leading to lower output and employment. Higher borrowing costs can discourage investment, and any currency appreciation may weaken export competitiveness. Therefore the economy may gain a smaller external gap at a cost to firms and workers; the net result depends on import responsiveness and the effect on exports.",
+   "marking_guidance": [
+    "Starting point: interest rates rise.",
+    "Mechanism: because credit becomes dearer and saving more rewarding, import purchases may fall.",
+    "Consequence: therefore lower import payments can narrow a deficit, subject to the response of receipts.",
+    "For whom: include the economy's external position and the costs to domestic firms and workers."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Invented teaching context; figures are not published statistics.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.4-014": 1
+   },
+   "authored_hash": "a9b5f3e8486f6fcdc34c6a4c028621e77e048a498761501d17512ef5a9c47427",
+   "objective_titles": [
+    "policies to achieve balance of payments stability"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-6.4-017-FEATURE",
+   "objective_ids": [
+    "OBJ-0455-6.4.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.4-014",
+    "CLM-0455-6.4-015",
+    "CLM-0455-6.4-016"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "work order subtype FEATURE",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 5,
+   "prompt": "Explain two approaches available to a government seeking balance of payments stability. [4]",
+   "canonical_answer": "One approach reduces domestic spending, for example higher taxes or interest rates, which can reduce import payments but also weaken domestic sales. Another approach improves export competitiveness through training or transport infrastructure, which can raise receipts if quality, costs or delivery improve enough for buyers to respond. Other policy features include expenditure switching through tariffs and exchange-rate changes. A depreciation improves the current account where demand for exports and imports is elastic enough to respond and supply can respond; tariffs can raise costs and invite retaliation. The approaches differ in whether they reduce payments or help firms earn receipts.",
+   "marking_guidance": [
+    "Features and elements: name two policy approaches and explain how each affects receipts or payments.",
+    "Retain costs and conditions; do not treat a policy name as evidence that it succeeds."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Invented teaching context; figures are not published statistics.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.4-014": 1,
+    "CLM-0455-6.4-015": 2,
+    "CLM-0455-6.4-016": 1
+   },
+   "authored_hash": "8d4e04c8674e0aa960eef5a1a8b0aa1d677d547fd4e007759215c498b5b2da1f",
+   "prior_hash": "3d4c525f3f402e6009b6066146db17853eb2b761c01c8f80e52f4137072b3327",
+   "repair_note": "Planner audit 2026-10-06: removed the named Marshall-Lerner condition (beyond the 0455 syllabus; the condition is kept in plain words) and corrected cross-references to topics 2.7 (PED) and 6.4 (current account).",
+   "objective_titles": [
+    "policies to achieve balance of payments stability"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-6.4-P01",
+   "objective_ids": [
+    "OBJ-0455-6.4.1",
+    "OBJ-0455-6.4.2",
+    "OBJ-0455-6.4.3",
+    "OBJ-0455-6.4.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.4-001",
+    "CLM-0455-6.4-002",
+    "CLM-0455-6.4-003",
+    "CLM-0455-6.4-004",
+    "CLM-0455-6.4-005",
+    "CLM-0455-6.4-006",
+    "CLM-0455-6.4-007",
+    "CLM-0455-6.4-008",
+    "CLM-0455-6.4-009",
+    "CLM-0455-6.4-010",
+    "CLM-0455-6.4-011",
+    "CLM-0455-6.4-012",
+    "CLM-0455-6.4-013",
+    "CLM-0455-6.4-014",
+    "CLM-0455-6.4-015",
+    "CLM-0455-6.4-016"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "performance task type multiple_choice_set",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "All scenarios and figures below are invented for teaching. Identify the correct option for each question. Each question has one correct answer and carries one mark; total 8 marks.\n\n1. Which transaction is a trade-in-services credit for Namibia?\nA A Namibian shop imports a truck from Botswana.\nB A German visitor pays a Namibian lodge for accommodation.\nC A Namibian investor receives interest from a bank abroad.\nD A worker abroad sends money to family in Namibia.\n\n2. Which transaction belongs to primary income?\nA A dividend received by a resident from shares in a foreign firm.\nB A resident buys shares in a foreign firm.\nC A foreign tourist buys a domestic transport service.\nD A family receives a remittance from a relative abroad.\n\n3. A current account surplus means:\nA Government tax revenue exceeds public expenditure.\nB Goods exports exceed goods imports, regardless of other components.\nC Current-account receipts exceed current-account payments.\nD Current-account payments exceed current-account receipts.\n\n4. A spending-reducing policy intended to lower imports is:\nA A subsidy for worker training.\nB Better infrastructure for exporters.\nC A quota directly restricting the quantity of imports.\nD Higher taxes reducing household disposable income.\n\n5. Annual component balances are: goods -N$12 million, services +N$7 million, primary income -N$3 million, secondary income +N$2 million. The current-account balance is:\nA +N$24 million.\nB -N$6 million.\nC -N$12 million.\nD +N$6 million.\n\n6. Government revenue is N$40 million and spending N$45 million. External current receipts are N$100 million and payments N$90 million. Which statement is correct?\nA Budget surplus N$5 million and current account deficit N$10 million.\nB Budget deficit N$5 million and current account deficit N$10 million.\nC Budget deficit N$5 million and current account surplus N$10 million.\nD Budget surplus N$5 million and current account surplus N$10 million.\n\n7. Households switch purchases from domestic furniture to imported furniture; other sales stay unchanged. The likely direct effect on domestic furniture firms is:\nA Fewer orders, potentially reducing output and employment.\nB More orders, because imports enter the country.\nC Higher output because a current account deficit is a rise in GDP.\nD No change, because international purchases cannot affect domestic sales.\n\n8. A hypothetical economy depreciates its currency, but essential import quantities barely respond and exporters cannot expand output. Why may its current account fail to improve?\nA The currency movement makes imports cheaper in home currency.\nB Depreciation removes external payments from the account.\nC A government budget surplus establishes a current account surplus.\nD Higher import costs may outweigh extra export receipts.",
+   "canonical_answer": "Key: 1 B, 2 A, 3 C, 4 D, 5 B, 6 C, 7 A, 8 D.\n1. B is a service sold to a non-resident. A is a goods debit, C is primary income, and D is secondary income.\n2. A is investment income. B purchases an asset rather than receiving income; C is a service export, and D is a current transfer.\n3. C compares the full account's receipts and payments. A describes the government budget, B omits services and income components, and D reverses the sign and defines a deficit.\n4. D restrains spending through lower disposable income. A and B improve productive capacity or competitiveness; C directly restricts imports and aims to switch expenditure rather than reduce spending generally.\n5. B follows -12 + 7 - 3 + 2 = -6, in N$ million. A adds the absolute values and loses signs; C uses goods alone, and D reverses the sign of the total.\n6. C: public expenditure exceeds government revenue by N$5 million while external receipts exceed payments by N$10 million. A reverses both balances; B correctly classifies the budget but reverses the external balance; D correctly classifies the current account but reverses the budget. The test separating the accounts is the flows measured, not the word deficit or surplus.\n7. A follows the loss of domestic orders. B mistakes import purchases for domestic demand; C treats the external deficit as GDP growth; D ignores the stated switch away from domestic purchases. Effects on employment depend on firms' response.\n8. D identifies the limited quantity response. A reverses the price effect, B confuses price conversion with the account's coverage, and C substitutes the government budget for external transactions. Improvement through depreciation requires export and import demand that is elastic enough to respond and supply that can respond; the stated constraints may prevent them.",
+   "marking_guidance": [
+    "One mark per correct option, eight in total. Each wrong option is explained as a distinct misunderstanding.",
+    "Questions 1-4 practise knowledge and understanding; questions 5-8 apply the components, account boundaries and causal mechanisms."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Invented teaching scenario and data, not published statistics.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.4-001": 1,
+    "CLM-0455-6.4-002": 1,
+    "CLM-0455-6.4-003": 1,
+    "CLM-0455-6.4-004": 1,
+    "CLM-0455-6.4-005": 1,
+    "CLM-0455-6.4-006": 1,
+    "CLM-0455-6.4-007": 1,
+    "CLM-0455-6.4-008": 1,
+    "CLM-0455-6.4-009": 1,
+    "CLM-0455-6.4-010": 1,
+    "CLM-0455-6.4-011": 1,
+    "CLM-0455-6.4-012": 1,
+    "CLM-0455-6.4-013": 1,
+    "CLM-0455-6.4-014": 1,
+    "CLM-0455-6.4-015": 2,
+    "CLM-0455-6.4-016": 1
+   },
+   "authored_hash": "e2b6b9abae441bd2dd70db88bc0d9b5f62a704e0aed2789be94d3d5da285a8bf",
+   "prior_hash": "0dbfdb320075d8b45d411ac3434f874a9b37c0abcaf01a1a1ba72193aacab9ec",
+   "repair_note": "Planner audit 2026-10-06: removed the named Marshall-Lerner condition (beyond the 0455 syllabus; the condition is kept in plain words) and corrected cross-references to topics 2.7 (PED) and 6.4 (current account).",
+   "objective_titles": [
+    "structure",
+    "causes of current account deficit and surplus",
+    "consequences of current account deficit and surplus",
+    "policies to achieve balance of payments stability"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-6.4-P02",
+   "objective_ids": [
+    "OBJ-0455-6.4.1",
+    "OBJ-0455-6.4.2",
+    "OBJ-0455-6.4.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.4-001",
+    "CLM-0455-6.4-002",
+    "CLM-0455-6.4-003",
+    "CLM-0455-6.4-004",
+    "CLM-0455-6.4-005",
+    "CLM-0455-6.4-006",
+    "CLM-0455-6.4-007",
+    "CLM-0455-6.4-008",
+    "CLM-0455-6.4-009",
+    "CLM-0455-6.4-010",
+    "CLM-0455-6.4-011",
+    "CLM-0455-6.4-012"
+   ],
+   "item_type": "data_response",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type data_response",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "Invented economic news extract: A hypothetical small economy trading with Botswana and Portugal reports stronger foreign orders and increased visitor bookings. Firms have unused capacity. Its currency floats, and other currency flows stay unchanged. Imported equipment also increased, while investors abroad received more dividends from domestic firms. The economy's government revenue and spending did not change.\n\nAnnual external receipts and payments, all N$ million:\n                         Year 1 receipts / payments   Year 2 receipts / payments\nGoods                       100 / 130                    120 / 135\nServices                     30 / 20                      40 / 20\nPrimary income                5 / 10                       5 / 12\nSecondary income              8 / 3                        8 / 3\n\n(a) Calculate the goods balance in Year 2. [1]\n(b) Calculate the full current-account balance in Year 2. [1]\n(c) Identify two components whose balance improved from Year 1 to Year 2. [2]\n(d) Explain two causes of the improvement, using the extract. [4]\n(e) Analyse possible consequences of the change for output, employment and the exchange rate, using the data as evidence and explaining a limitation of the conclusion. [6]\nTotal: 14 marks.",
+   "canonical_answer": "(a) Formula: goods balance = goods receipts minus payments. Working: 120 - 135 = -15. Answer: a goods deficit of N$15 million.\n(b) Working: (120 - 135) + (40 - 20) + (5 - 12) + (8 - 3) = 3. Answer: a current account surplus of N$3 million.\n(c) Trade in goods and trade in services.\n(d) Stronger foreign orders can increase goods export receipts because overseas customers buy more domestic products, provided firms can fill the orders. Increased foreign visitor bookings can increase service export receipts because accommodation and related services are sold to non-residents. These changes account for the rise in goods receipts from N$100 million to N$120 million and services receipts from N$30 million to N$40 million.\n(e) Expected relationship: an export-led improvement can support output and jobs, and place upward pressure on a floating currency, other currency flows unchanged. Evidence: the goods deficit shrinks from N$30 million to N$15 million, while the services surplus rises from N$10 million to N$20 million. The full balance changes from -N$20 million in Year 1 to +N$3 million in Year 2, an improvement of N$23 million. Analysis: increased foreign orders and visitor bookings raise domestic firms' sales. With unused capacity, firms may expand output and employ more workers, raising GDP and employment. More export receipts relative to import payments can increase demand for the home currency relative to its supply, tending to appreciate it. However, a balance improvement by itself does not establish these effects: a surplus caused by recession-related import cuts could accompany falling output. Here receipts rose, making that explanation less plausible, but capital and other currency flows could offset trade pressure outside the stated assumption. Appreciation may also make later exports dearer abroad and imports cheaper at home, weakening some exporters while reducing import-price inflation. The dividend increase worsened primary income by N$2 million, so not all components improved.",
+   "marking_guidance": [
+    "Parts (a) and (b): one mark each for the correctly signed answer with N$ million units; preserve own figures in later working where appropriate.",
+    "Part (c): one mark each for trade in goods and trade in services, two in total.",
+    "Part (d): four marks for distinct linked statements explaining the two causes and using the extract.",
+    "Part (e): six marks from distinct linked statements: expected relationship, supporting evidence and comparison, explanation through sales and capacity, currency mechanism, and an exception with its reason. Quoted figures without an economic link are evidence rather than analysis. Do not award repeated statements as new points."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Invented teaching scenario and data, not published statistics.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.4-001": 1,
+    "CLM-0455-6.4-002": 1,
+    "CLM-0455-6.4-003": 1,
+    "CLM-0455-6.4-004": 1,
+    "CLM-0455-6.4-005": 1,
+    "CLM-0455-6.4-006": 1,
+    "CLM-0455-6.4-007": 1,
+    "CLM-0455-6.4-008": 1,
+    "CLM-0455-6.4-009": 1,
+    "CLM-0455-6.4-010": 1,
+    "CLM-0455-6.4-011": 1,
+    "CLM-0455-6.4-012": 1
+   },
+   "authored_hash": "247e09c5248ed370ed91a935178e49542f45fb804bc2cce6af067628b6ce1bca",
+   "objective_titles": [
+    "structure",
+    "causes of current account deficit and surplus",
+    "consequences of current account deficit and surplus"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-6.4-P03",
+   "objective_ids": [
+    "OBJ-0455-6.4.1",
+    "OBJ-0455-6.4.2",
+    "OBJ-0455-6.4.3",
+    "OBJ-0455-6.4.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.4-001",
+    "CLM-0455-6.4-002",
+    "CLM-0455-6.4-003",
+    "CLM-0455-6.4-004",
+    "CLM-0455-6.4-005",
+    "CLM-0455-6.4-006",
+    "CLM-0455-6.4-007",
+    "CLM-0455-6.4-008",
+    "CLM-0455-6.4-009",
+    "CLM-0455-6.4-010",
+    "CLM-0455-6.4-011",
+    "CLM-0455-6.4-012",
+    "CLM-0455-6.4-013",
+    "CLM-0455-6.4-014",
+    "CLM-0455-6.4-015",
+    "CLM-0455-6.4-016"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type short_answer",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "A hypothetical small economy imports consumer goods and exports processed food. Household import spending has increased, while food exporters lose customers because delivery is unreliable. Its floating currency faces downward pressure. All facts are invented for teaching.\n(a) Define a current account deficit. [2]\n(b) Explain two reasons why this economy's current account could worsen. [4]\n(c) Analyse possible effects of a persistent current account deficit on GDP, employment, inflation and the exchange rate. [6]\n(d) Discuss whether spending-reducing policies are the best way for this economy to achieve balance of payments stability. [8]\nTotal: 20 marks.",
+   "canonical_answer": "(a) A current account deficit means external current-account payments exceed receipts during a stated period. It includes goods, services, primary income and secondary income, rather than the government revenue-and-spending balance.\n(b) Higher household spending on imported consumer goods increases payments to non-residents, widening the external gap if receipts do not rise enough. Unreliable delivery can lead foreign customers to switch suppliers, reducing export orders and receipts if the quantity effect outweighs any price change. Each cause worsens the balance through a different side of the account: higher payments or lower receipts.\n(c) Where imported consumer goods replace domestic sales, firms may reduce production, lowering GDP, and reduce employment as fewer workers are needed. A persistent excess of import payments over export receipts can increase sales of home currency for foreign currency, tending to depreciate the floating currency if other currency flows do not offset it. Depreciation makes imports dearer in home currency, raising input costs and potentially consumer prices, so inflation may rise. Export losses from unreliable delivery can compound the output and job effects. These outcomes depend on what caused the deficit: imported productive machinery can instead support future GDP, and external borrowing can fund payments temporarily while creating future interest costs. A later improvement in the current account through depreciation requires demand for exports and imports being elastic enough to respond and supply being able to respond; it is not established by the rate falling.\n(d) Why spending reduction might be best: higher taxes, lower public expenditure or higher interest rates can restrain household demand and reduce imported purchases, directly addressing the stated import-spending cause. Lower payments can narrow the deficit comparatively quickly if import demand responds. Why it might not: domestic firms may lose sales too, reducing GDP and employment; higher interest rates can discourage investment. Spending restraint does not repair unreliable export delivery, while training and transport improvements may raise receipts by addressing that cause. These alternatives have costs and take time but can avoid relying on reduced household consumption alone. Judgement: on balance, a combination is more suitable than spending reduction alone because the prompt names both excessive import spending and weak export delivery. The decisive conditions are import responsiveness, the importance of delivery constraints and the output cost of restraining spending; if lost export receipts dominate, improving delivery deserves greater weight.",
+   "marking_guidance": [
+    "Part (a), two marks: precise meaning, payments exceeding receipts on the external current account during a period.",
+    "Part (b), four marks: distinct linked explanations of two reasons; receipts and payments are different causal channels.",
+    "Part (c), six marks: trace coherent chains to the named economy, firms, workers and consumers; require the floating-rate and other-flow conditions on the currency effect.",
+    "Part (d), eight marks over three bands: 1-2 for a simple relevant attempt; 3-5 for developed economic reasoning that may be one-sided or lack depth; 6-8 for reasoned examination of both sides, use of the stated economic context and a supported judgement. Reward distinct reasoning, not restatement. The condition that could change the judgement must be clear."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Invented teaching scenario and data, not published statistics.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.4-001": 1,
+    "CLM-0455-6.4-002": 1,
+    "CLM-0455-6.4-003": 1,
+    "CLM-0455-6.4-004": 1,
+    "CLM-0455-6.4-005": 1,
+    "CLM-0455-6.4-006": 1,
+    "CLM-0455-6.4-007": 1,
+    "CLM-0455-6.4-008": 1,
+    "CLM-0455-6.4-009": 1,
+    "CLM-0455-6.4-010": 1,
+    "CLM-0455-6.4-011": 1,
+    "CLM-0455-6.4-012": 1,
+    "CLM-0455-6.4-013": 1,
+    "CLM-0455-6.4-014": 1,
+    "CLM-0455-6.4-015": 2,
+    "CLM-0455-6.4-016": 1
+   },
+   "authored_hash": "489253a0146936c717ac41b245b59961a5e74bd46141b8f7fb8b151d642cf3e7",
+   "prior_hash": "15a8c8366345f9a53fc8ba39649973656254cd1d1e0dbd011c94424bbed9be31",
+   "repair_note": "Planner audit 2026-10-06: removed the named Marshall-Lerner condition (beyond the 0455 syllabus; the condition is kept in plain words) and corrected cross-references to topics 2.7 (PED) and 6.4 (current account).",
+   "objective_titles": [
+    "structure",
+    "causes of current account deficit and surplus",
+    "consequences of current account deficit and surplus",
+    "policies to achieve balance of payments stability"
+   ]
+  },
+  {
+   "item_id": "ITEM-0455-6.4-P04",
+   "objective_ids": [
+    "OBJ-0455-6.4.2",
+    "OBJ-0455-6.4.3",
+    "OBJ-0455-6.4.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-6.4-006",
+    "CLM-0455-6.4-007",
+    "CLM-0455-6.4-010",
+    "CLM-0455-6.4-011",
+    "CLM-0455-6.4-012",
+    "CLM-0455-6.4-013",
+    "CLM-0455-6.4-014",
+    "CLM-0455-6.4-015",
+    "CLM-0455-6.4-016"
+   ],
+   "item_type": "essay_plan",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Evaluate",
+   "blooms_level_basis": "performance task type essay_plan",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "Invented case: a small economy has a persistent current account deficit, weak export delivery and limited domestic substitutes for essential imported inputs. Plan an answer to: \"Discuss whether import restrictions are the best way to restore balance of payments stability.\" [8]\nProduce a case for, a case against, developed causal chains and a judgement stating what would change it. Produce a plan rather than a full essay.",
+   "canonical_answer": "Criterion: improve a sustainable external payments position without imposing larger costs on output, jobs and household living standards.\nWhy it might:\n1. Tariff or quota -> imports become dearer or less available -> buyers switch to domestic substitutes where these exist -> import payments may fall -> the economy's current account can improve.\n2. Additional demand for home producers -> production and employment can rise where firms have spare capacity -> workers and firms gain alongside the external improvement.\nWhy it might not:\n3. Essential imported inputs have few domestic substitutes -> restrictions raise input costs or disrupt production -> exporters face dearer or delayed deliveries -> export receipts may fall, offsetting import savings; firms and workers bear the cost.\n4. Restriction does not fix weak delivery -> foreign customers remain dissatisfied -> training or transport infrastructure may address lost export receipts more directly, although these measures take time and public funding.\n5. Trading partners may retaliate -> overseas access becomes harder -> export losses further weaken the intended gain. Retaliation is a risk rather than a certainty.\nJudgement: on balance, import restrictions alone are poorly matched to this economy's input dependence and delivery problem; improving export capacity and reliability is more likely to build a sustainable position. The decisive condition is the availability of domestic substitutes and whether export gains exceed restriction costs. If abundant substitutes exist and imports are mainly dispensable consumer goods, targeted restrictions may become more defensible. Depreciation is another possible tool, but its current-account benefit requires demand for exports and imports being elastic enough to respond and supply being able to respond.",
+   "marking_guidance": [
+    "Assess the plan for an eight-mark Discuss: developed case for and case against with named economic agents, rather than a list of policies.",
+    "Judgement: relate the decision to essential-input dependence and weak export delivery.",
+    "Condition: name what could change the judgement, especially domestic substitutes and the relative effects on receipts and payments.",
+    "Bands: 1-2 for a simple attempt, 3-5 for developed but limited or one-sided reasoning, 6-8 for both sides using the case with a supported judgement."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Invented teaching scenario and data, not published statistics.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-6.4-006": 1,
+    "CLM-0455-6.4-007": 1,
+    "CLM-0455-6.4-010": 1,
+    "CLM-0455-6.4-011": 1,
+    "CLM-0455-6.4-012": 1,
+    "CLM-0455-6.4-013": 1,
+    "CLM-0455-6.4-014": 1,
+    "CLM-0455-6.4-015": 2,
+    "CLM-0455-6.4-016": 1
+   },
+   "authored_hash": "c6220461ad85097df85c1e0b5e32b82ba7888e8a0c447c25fa12325b863db347",
+   "prior_hash": "dd5b0a8a461f752143e8865a5b16f8eff6627f62eccbdc769517a44f55b92538",
+   "repair_note": "Planner audit 2026-10-06: removed the named Marshall-Lerner condition (beyond the 0455 syllabus; the condition is kept in plain words) and corrected cross-references to topics 2.7 (PED) and 6.4 (current account).",
+   "objective_titles": [
+    "causes of current account deficit and surplus",
+    "consequences of current account deficit and surplus",
+    "policies to achieve balance of payments stability"
+   ]
+  }
+ ]
+}

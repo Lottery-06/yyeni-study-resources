@@ -1,0 +1,975 @@
+{
+ "dataset_id": "ITEMS-0455-IGCSE-3.7",
+ "topic_id": "3.7",
+ "items": [
+  {
+   "item_id": "ITEM-0455-3.7-001-DEF",
+   "objective_ids": [
+    "OBJ-0455-3.7.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.7-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "Define the costs of production.",
+   "canonical_answer": "The costs of production are the payments a firm makes for the inputs it uses in producing its output, and its total cost is the sum of its fixed costs and its variable costs. Two creditable elements: payments for the inputs used in production, and the make-up of total cost as fixed costs plus variable costs.",
+   "marking_guidance": [
+    "Precise meaning: the definition must give the precise meaning of the term, and each creditable element of it is worth one mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.7-001": 1
+   },
+   "authored_hash": "c46e00114a023ed749d3c46b0562125186245cc458463729e7b3f94b92e5f8cd"
+  },
+  {
+   "item_id": "ITEM-0455-3.7-002-FEATURE",
+   "objective_ids": [
+    "OBJ-0455-3.7.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.7-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype FEATURE",
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "Namib Signs paints signboards in Otjiwarongo. Identify the features of the fixed costs this firm faces.",
+   "canonical_answer": "A fixed cost does not change with the level of output. Its features: the firm pays the same figure whatever the number of signboards it makes in a month; it is paid even when output is zero; and it is tied to the period rather than to the units - the workshop rent, the machine leases and the insurance premium are set by contract. The vinyl and ink the firm buys are not in this class, because they move with the boards made.",
+   "marking_guidance": [
+    "Features: the elements required are named in the answer, and one mark is earned per feature developed with what it shows."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.7-002": 1
+   },
+   "authored_hash": "5703107ada1e7a1df2428afe720e9a6ff5709a273803a98a9150e9b9edd082da"
+  },
+  {
+   "item_id": "ITEM-0455-3.7-003-DEF",
+   "objective_ids": [
+    "OBJ-0455-3.7.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.7-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Define average total cost.",
+   "canonical_answer": "Average total cost is total cost divided by the number of units produced in the period, giving the cost per unit. It takes in the fixed payments and the variable payments of the firm together, and it is stated in currency per unit, such as N$6.00 per litre.",
+   "marking_guidance": [
+    "Precise meaning: the definition must give the precise meaning of the term, and each creditable element of it is worth one mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.7-004": 1
+   },
+   "authored_hash": "e12107da881f6fc7f631d73bf332d5cbb5ef57e5cee97ecc2f73fc988ea87b8e"
+  },
+  {
+   "item_id": "ITEM-0455-3.7-004-DIAGRAM",
+   "objective_ids": [
+    "OBJ-0455-3.7.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.7-004",
+    "CLM-0455-3.7-005",
+    "CLM-0455-3.7-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "SYNTH",
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype SYNTH",
+   "command_word": "Discuss",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "Kaoko Juice bottles juice at Opuwo. Its fixed costs are N$6 000 a month, and each extra crate adds N$15 to its costs. The bottler raises monthly output from 200 crates to 600 crates. Discuss how a diagram showing how changes in output affect the firm's average costs is drawn and used: state what each axis is labelled with, where the original curves sit, the direction of the movement as output rises, the point the firm ends at, and what the finished diagram shows in words.",
+   "canonical_answer": "Begin with the axes: label the horizontal axis monthly output, in crates, and the vertical axis cost, in N$ per crate. Draw the original curves: average fixed cost starts at N$30 per crate at 200 crates and slopes downward toward N$10 at 600 crates; average total cost starts at N$45 per crate at 200 crates and slopes downward toward N$25 at 600 crates, sitting N$15 above average fixed cost at each output because that gap is average variable cost. Label the curves AFC1 and ATC1. Mark the starting point A on ATC1 at 200 crates, where average total cost is N$45 per crate. The change is a movement along the curves in the correct direction: to the right and downward, as monthly output rises from 200 to 600 crates; no curve shifts, because the fixed payment and the cost of one more crate are unchanged. The new equilibrium marked and labelled is point B on ATC1 at 600 crates, where average total cost is N$25 per crate. What the diagram shows, in words: the same fixed payment of N$6 000 spread over 600 crates instead of 200 pulls average fixed cost down from N$30 to N$10 per crate, and average total cost with it, from N$45 to N$25, while the N$15 per crate of variable cost holds steady. The downward slope of the two curves is what the finished diagram shows: falling cost per unit as output grows.",
+   "marking_guidance": [
+    "Axes labelled: monthly output in crates on one axis and cost in N$ per crate on the other - the measures of this diagram, and price and quantity axes belong to demand and supply diagrams.",
+    "Original curves drawn and labelled: AFC1 and ATC1 both drawn and named before any movement is marked.",
+    "The shift or movement, in the correct direction: a movement along the curves to the right and downward as output rises; no curve shifts, because the fixed payment and the cost of one more crate are unchanged.",
+    "New equilibrium marked and labelled: the finishing point B on ATC1 at 600 crates, marked and named.",
+    "What the diagram shows, in words: the fixed payment spread over more crates pulls both averages down while the variable gap holds steady.",
+    "The link: the mechanism is the fixed payment spread over more crates, and the consequence is the fall in the firm cost per crate from N$45 to N$25."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.7-004": 1,
+    "CLM-0455-3.7-005": 1,
+    "CLM-0455-3.7-006": 1
+   },
+   "authored_hash": "632a7ea36946d424eb5f7dd207cd585a93472a36a66a4e4cf349ff74806ce379"
+  },
+  {
+   "item_id": "ITEM-0455-3.7-005-INTERP",
+   "objective_ids": [
+    "OBJ-0455-3.7.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.7-004",
+    "CLM-0455-3.7-005",
+    "CLM-0455-3.7-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype INTERP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "Otjiwa Dairy in Gobabis records two months. In March it processed 3 000 litres of milk at an average total cost of N$6.00 per litre; in June it processed 6 000 litres at an average total cost of N$5.00 per litre, with average variable cost at N$4.00 per litre in each month. Explain what the data shows about how the dairy's average costs changed as its output rose.",
+   "canonical_answer": "What the data shows is a fall in average total cost as output rises: from N$6.00 per litre at 3 000 litres to N$5.00 per litre at 6 000 litres. Supporting evidence by comparison: average variable cost held at N$4.00 per litre in each month, so the whole fall, N$6.00 - N$5.00 = N$1.00 per litre, came from the fixed side, where average fixed cost fell from N$2.00 to N$1.00 per litre as the same payment spread over twice the litres. Why: the explanation of the relationship is that fixed payments do not move with output, so each extra litre carries a smaller share of them, which pulls the average down. However, the fall is not open-ended: where output begins to strain the dairy's capacity - overtime, breakdowns, a crowded cold room - the cost of one more litre rises, and average variable cost turns upward with it.",
+   "marking_guidance": [
+    "What the data shows: the relationship between the figures must be stated before anything else.",
+    "Supporting evidence: a comparison of two rows or steps in the data, with their figures.",
+    "Exception: an answer that notes where the reading does not go further earns the however mark.",
+    "Why: the explanation of the relationship - the mechanism behind the figures - must be given."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.7-004": 1,
+    "CLM-0455-3.7-005": 1,
+    "CLM-0455-3.7-006": 1
+   },
+   "authored_hash": "b75de8af4ca366c5aa1447877c669e578076562225b68e4199fbd23c221c0fb0"
+  },
+  {
+   "item_id": "ITEM-0455-3.7-006-APP",
+   "objective_ids": [
+    "OBJ-0455-3.7.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.7-004",
+    "CLM-0455-3.7-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "Oshakati Textiles makes school shirts. Its rent and machine leases cost N$9 000 a month, and materials and machine time cost N$30 for each shirt. A month of 300 shirts cost it N$18 000; a month of 900 shirts cost it N$36 000. Using the figures, explain why the average total cost per shirt fell from N$60 to N$40 as monthly output rose.",
+   "canonical_answer": "The figures show a fixed payment being spread. At 300 shirts the total was N$9 000 fixed plus N$30 x 300 = N$9 000 variable, so total cost = N$9 000 + N$9 000 = N$18 000 and average fixed cost = N$9 000 / 300 shirts = N$30. At 900 shirts the variable side reached N$30 x 900 = N$27 000, so total cost = N$9 000 + N$27 000 = N$36 000 and average fixed cost = N$9 000 / 900 = N$10. Because the variable cost per shirt held at N$30, the fall in average fixed cost, from N$30 to N$10, is the whole reason average total cost fell from N$60 to N$40. Therefore the firm's cost per shirt fell not because any input became cheaper but because the unchanged rent and leases were shared across three times as many shirts.",
+   "marking_guidance": [
+    "Context: the figures in the prompt must be used - no answer without them.",
+    "Reasoning: the link from the figures to the concept must be written out, because figures stated without the link earn nothing.",
+    "Conclusion: therefore the answer ends by saying what the figures show about the firm."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.7-004": 1,
+    "CLM-0455-3.7-005": 1
+   },
+   "authored_hash": "475b01af35ac832725dece272a8b60a101e8f55ba8c75231ae7159a28d06395e"
+  },
+  {
+   "item_id": "ITEM-0455-3.7-007-CHAIN",
+   "objective_ids": [
+    "OBJ-0455-3.7.2"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.7-004",
+    "CLM-0455-3.7-005",
+    "CLM-0455-3.7-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype CHAIN",
+   "command_word": "Analyse",
+   "mark_tariff": 6,
+   "difficulty": 5,
+   "prompt": "The monthly rent of Otjiwa Dairy's premises in Gobabis rises from N$6 000 to N$9 000, while its output and its ingredient cost per litre stay as they were. Analyse the consequences of this rise in a fixed cost for the dairy, for its customers and for its workers.",
+   "canonical_answer": "Starting point: the rent, a fixed cost, rises from N$6 000 to N$9 000 a month, so the dairy's total cost rises by N$9 000 - N$6 000 = N$3 000 at each level of output. Mechanism: because the payment does not vary with the litres processed, average fixed cost rises at each output - at 6 000 litres it moves from N$1.00 to N$9 000 / 6 000 = N$1.50 per litre - and this causes average total cost to rise by the same N$0.50 per litre, since the ingredient cost per litre is unchanged. Consequence: therefore each litre costs more to process than before, and the dairy is likely to answer with a higher price, a search for cheaper premises, or lower spending elsewhere. For whom: where it raises its price, customers pay more for each litre; where it cuts spending, its workers face shorter hours or a hiring freeze; and where the dairy can pass none of the rise on, the cost lands on its own profit and its survival margin narrows.",
+   "marking_guidance": [
+    "Starting point: the initial change must be stated, as a when or an if.",
+    "Mechanism: the causal link must be written out, because this causes that, step by step.",
+    "Consequence: therefore the results are traced to prices, profit, spending or jobs.",
+    "For whom: each consequence is named for the consumer, the worker, the firm or the owner it lands on."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.7-004": 1,
+    "CLM-0455-3.7-005": 1,
+    "CLM-0455-3.7-006": 1
+   },
+   "authored_hash": "0a8d15f7a1be73ce79c241f6d4ad87d12728d7cfa70d34f581163b97899e2317"
+  },
+  {
+   "item_id": "ITEM-0455-3.7-008-DEF",
+   "objective_ids": [
+    "OBJ-0455-3.7.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.7-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "Define revenue.",
+   "canonical_answer": "Revenue is the income a firm receives from selling its output over a period, measured in money and before any costs are deducted. It is counted in N$ for a Namibian firm, and it moves with the firm's sales and the prices it charges.",
+   "marking_guidance": [
+    "Precise meaning: the definition must give the precise meaning of the term, and each creditable element of it is worth one mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.7-007": 1
+   },
+   "authored_hash": "5f8b36172ef1288d4a709bd8fe0b581217ae5fdf46770c39a2afb7622bd9d6ab"
+  },
+  {
+   "item_id": "ITEM-0455-3.7-009-FEATURE",
+   "objective_ids": [
+    "OBJ-0455-3.7.3"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.7-007",
+    "CLM-0455-3.7-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype FEATURE",
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "A firm's revenue is measured in two ways. Identify the features of total revenue and average revenue.",
+   "canonical_answer": "Total revenue is the whole income from sales in a period, and its features are: it is measured in N$; it counts income before any cost is deducted; and it moves with the price charged and with the quantity sold. Average revenue is that income per unit sold, and its features are: it equals total revenue divided by the number of units; it is stated in N$ per unit; and where each unit sells at one price, average revenue equals that price, which lets a firm compare income across differing levels of sales.",
+   "marking_guidance": [
+    "Features: the elements required are named in the answer, and one mark is earned per feature developed with what it shows."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.7-007": 1,
+    "CLM-0455-3.7-008": 1
+   },
+   "authored_hash": "631126438c1e552d1333e03d74d3d49b4e968def19c3f6ffb9c9889ee4abdeec"
+  },
+  {
+   "item_id": "ITEM-0455-3.7-010-DEF",
+   "objective_ids": [
+    "OBJ-0455-3.7.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.7-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Define total revenue.",
+   "canonical_answer": "Total revenue is the whole income a firm receives from selling its output in a period: the price of each unit multiplied by the quantity sold, before any costs are deducted.",
+   "marking_guidance": [
+    "Precise meaning: the definition must give the precise meaning of the term, and each creditable element of it is worth one mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.7-008": 1
+   },
+   "authored_hash": "3757ac2c114021bf19367767a94ce23b541719d22a5ff4d35108a3eaa0fb7cff"
+  },
+  {
+   "item_id": "ITEM-0455-3.7-011-CALC",
+   "objective_ids": [
+    "OBJ-0455-3.7.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.7-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype CALC",
+   "command_word": "Calculate",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "Marula Foods sells 800 jars of marula spread at N$25 per jar in a month. Calculate the firm's total revenue for the month.",
+   "canonical_answer": "Formula: total revenue = price x quantity sold. Substitution: total revenue = N$25 per jar x 800 jars. Answer with units: N$20 000 for the month.",
+   "marking_guidance": [
+    "Formula: total revenue = price x quantity sold must be stated or used.",
+    "Substitution: the working shows the figures put into the formula.",
+    "Answer with units: the final figure carries its unit, N$."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.7-009": 1
+   },
+   "authored_hash": "f1c5af9f27028d3430cf401db38b631cedcf51d386ab658e457053c6ea9ea8eb"
+  },
+  {
+   "item_id": "ITEM-0455-3.7-012-INTERP",
+   "objective_ids": [
+    "OBJ-0455-3.7.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.7-008",
+    "CLM-0455-3.7-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "subtype INTERP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 2,
+   "prompt": "Marula Foods records two months of sales. In May it sold 800 jars at N$25 each, earning N$20 000; in August it sold 1 100 jars at N$20 each, earning N$22 000. Explain what the data shows about how the price cut changed the firm's revenue.",
+   "canonical_answer": "What the data shows is total revenue rising after a price cut: from N$20 000 at N$25 a jar to N$22 000 at N$20 a jar. Supporting evidence by comparison: the 300 extra jars added N$20 x 300 = N$6 000, against the N$25 - N$20 = N$5 given up on each of the 800 old jars, N$5 x 800 = N$4 000, so total revenue rose by N$22 000 - N$20 000 = N$2 000. Why: the explanation of the relationship is that buyers responded to the lower price by buying enough extra jars to more than cover the income given up on the old sales. However, the response is not guaranteed: where a price cut wins few extra jars, the income given up outweighs the income added and total revenue falls, so the data shows what happened for this firm rather than a rule for each firm.",
+   "marking_guidance": [
+    "What the data shows: the relationship between the figures must be stated before anything else.",
+    "Supporting evidence: a comparison of two rows or steps in the data, with their figures.",
+    "Exception: an answer that notes where the reading does not go further earns the however mark.",
+    "Why: the explanation of the relationship - the mechanism behind the figures - must be given."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.7-008": 1,
+    "CLM-0455-3.7-010": 1
+   },
+   "authored_hash": "b8ffcb6183e4626deb4e88b05ad9c4a18a95b78a6f4f5a8cd4697596cac2f389"
+  },
+  {
+   "item_id": "ITEM-0455-3.7-013-APP",
+   "objective_ids": [
+    "OBJ-0455-3.7.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.7-009",
+    "CLM-0455-3.7-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 2,
+   "prompt": "Etosha Gate Lodge filled 20 of its rooms on the nights of June at N$1 500 per room, and 25 rooms on the nights of July at the same price. Using the figures, explain why the lodge's total revenue rose from June to July.",
+   "canonical_answer": "The figures show total revenue rising in step with occupancy at an unchanged price. June: total revenue = N$1 500 x 20 rooms = N$30 000. July: total revenue = N$1 500 x 25 rooms = N$37 500. The rise, N$37 500 - N$30 000 = N$7 500, came from the 5 extra rooms, because the price held at N$1 500 and each extra room added that figure to income. Average revenue stayed at N$1 500 per room in each month, so the whole gain is a sales effect and not a price effect. Therefore the lodge's income rose because it sold more of the same service at the same price, which is the case where revenue and sales move together.",
+   "marking_guidance": [
+    "Context: the figures in the prompt must be used - no answer without them.",
+    "Reasoning: the link from the figures to the concept must be written out, because figures stated without the link earn nothing.",
+    "Conclusion: therefore the answer ends by saying what the figures show about the firm."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.7-009": 1,
+    "CLM-0455-3.7-010": 1
+   },
+   "authored_hash": "25a055a14a97a5f5051d7e49d4863cf65f40f29a200932e33e090e89834250e8"
+  },
+  {
+   "item_id": "ITEM-0455-3.7-014-DEF",
+   "objective_ids": [
+    "OBJ-0455-3.7.5"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.7-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Remember",
+   "blooms_level_basis": "subtype DEF",
+   "command_word": "Define",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Define profit.",
+   "canonical_answer": "Profit is the amount by which a firm's total revenue exceeds its total cost in a period: total revenue minus total cost. Where total cost is the larger figure, the same calculation gives a loss. Profit is measured in N$ and stated for a period, such as a month or a year.",
+   "marking_guidance": [
+    "Precise meaning: the definition must give the precise meaning of the term, and each creditable element of it is worth one mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.7-012": 1
+   },
+   "authored_hash": "4ca1bc0eb5baa1b9a79f750d74036de3b4754864d4619b2cfd73de1e08946ca3"
+  },
+  {
+   "item_id": "ITEM-0455-3.7-015-WHY",
+   "objective_ids": [
+    "OBJ-0455-3.7.5"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.7-012",
+    "CLM-0455-3.7-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "subtype WHY",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 2,
+   "prompt": "A juice processing firm opened in Oshakati three months ago and is not yet covering its fixed costs. Explain why a firm in its first months may put survival ahead of profit maximisation.",
+   "canonical_answer": "The reason is that a firm that has stopped trading cannot earn any profit in the periods that follow. Survival means covering costs, keeping customers and keeping the firm's name known while it builds its sales. A young firm has few customers and a small share of the market, so its revenue is thin against its fixed costs; while that lasts, its purpose is to reach the point where revenue covers cost - to survive - because profit maximisation presupposes a firm that is still there to enjoy it. Survival and profit maximisation are aims in order: the first makes the second possible. A firm that squeezed the largest possible profit from its opening months, by charging the highest price its few customers would bear, risks losing those customers and its name with them, which is why the young firm prices to build its customer base first.",
+   "marking_guidance": [
+    "Reason: why survival comes first for a young firm must be explained, because the aim of staying in trading is what makes any later profit possible.",
+    "Purpose: the answer names what survival means - covering costs and keeping customers - rather than restating the definition of profit."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.7-012": 1,
+    "CLM-0455-3.7-013": 1
+   },
+   "authored_hash": "cf7f164c79642464046000c35259a70d087748952ab233eb80895b2ad893f41e"
+  },
+  {
+   "item_id": "ITEM-0455-3.7-016-APP",
+   "objective_ids": [
+    "OBJ-0455-3.7.5"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.7-011",
+    "CLM-0455-3.7-013",
+    "CLM-0455-3.7-014"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Apply",
+   "blooms_level_basis": "subtype APP",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 2,
+   "prompt": "Katutura Community Transport runs bus routes for the town council. The council keeps the fare at N$10 a ride while the firm's cost per ride is N$14, and its buses run full on weekdays. Using the figures, explain which objective the transport firm appears to follow, and why.",
+   "canonical_answer": "The figures show a firm deliberately earning less than its costs: at N$10 a ride against a cost of N$14, each ride brings in N$14 - N$10 = N$4 less than it costs. Because the council sets the fare and the routes, the objective the firm appears to follow is social welfare - affordable travel for the community - rather than profit maximisation, since a firm set on profit would need fares above N$14. Running at N$4 a ride below cost is a policy rather than an accident, and the shortfall is covered from council funds. Therefore the firm's behaviour fits an objective set by its owner, the community's benefit, and the figures are the evidence of it.",
+   "marking_guidance": [
+    "Context: the figures in the prompt must be used - no answer without them.",
+    "Reasoning: the link from the figures to the concept must be written out, because figures stated without the link earn nothing.",
+    "Conclusion: therefore the answer ends by saying what the figures show about the firm."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.7-011": 1,
+    "CLM-0455-3.7-013": 1,
+    "CLM-0455-3.7-014": 1
+   },
+   "authored_hash": "a95672430489659bc703db935f562d1d712a56c940f406e0ac3769c8c3adfe49"
+  },
+  {
+   "item_id": "ITEM-0455-3.7-017-MISCON",
+   "objective_ids": [
+    "OBJ-0455-3.7.1"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.7-003",
+    "CLM-0455-3.7-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "subtype MISCON",
+   "command_word": "Explain",
+   "mark_tariff": 4,
+   "difficulty": 3,
+   "prompt": "Two learners read about a dairy whose wastewater fouls a river. One says the river clean-up belongs in the dairy's costs of production; the other calls it a social cost, the same thing as an external cost. Explain the confusion between external costs and social costs, and state the test that tells them apart.",
+   "canonical_answer": "The confusion: the two learners treat a part as the whole, and muddle the firm's own payments with costs the firm imposes on others. The boundary between the ideas: external costs are the costs a firm's activity imposes on people outside the firm - the fouled river, borne by those downstream; social costs are the whole cost to society, the firm's own costs of production together with the costs imposed on others. The clean-up is not a payment the dairy makes, so it is not among its costs of production; it is an external cost, and it forms part of social costs without being the whole of them, because social costs also take in the dairy's feed, wages and rent. The test: ask who makes the payment, and whether the firm's own production costs are included. A cost the firm itself pays is a cost of production; a cost imposed on others with no payment is an external cost; the two added together are social costs.",
+   "marking_guidance": [
+    "The confusion: what learners mix up must be named - an external cost mistaken for the whole of social cost, and the firm's own payments left out of account.",
+    "The boundary between the ideas: external costs are the part imposed on others; social costs add the firm's own production costs to that part.",
+    "The test: ask who makes the payment and whether the firm's own production costs are included - paid by the firm, a cost of production; imposed with no payment, external; the two together, social."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.7-003": 1,
+    "CLM-0455-3.7-001": 1
+   },
+   "authored_hash": "83a8ca89b33893cf01b7481f4b15680d38897e8b28e2218515a0800dcf90dc94",
+   "misconception_entry": "external vs social costs",
+   "misconception_id": "MISCON-REGISTER-0455-3.7.1-external-vs-social-costs"
+  },
+  {
+   "item_id": "ITEM-0455-3.7-P01",
+   "objective_ids": [
+    "OBJ-0455-3.7.1",
+    "OBJ-0455-3.7.2",
+    "OBJ-0455-3.7.4",
+    "OBJ-0455-3.7.5"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.7-001",
+    "CLM-0455-3.7-002",
+    "CLM-0455-3.7-004",
+    "CLM-0455-3.7-005",
+    "CLM-0455-3.7-008",
+    "CLM-0455-3.7-009",
+    "CLM-0455-3.7-011",
+    "CLM-0455-3.7-012"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "blooms_level": "Understand",
+   "blooms_level_basis": "performance task type multiple_choice_set",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 3,
+   "prompt": "Eight questions in the style of Paper 1. Choose one option for each.\n\n1. The costs of production are:\nA  the payments a firm makes for the inputs used in producing its output\nB  the taxes a firm pays on its profit\nC  the money households spend on the firm's product\nD  the wages a firm pays its office staff\n\n2. Which payment by a sign-maker is a fixed cost?\nA  vinyl for the boards\nB  ink for the printing\nC  the monthly rent of its workshop\nD  the casual painter's hourly pay\n\n3. Total cost equals:\nA  fixed cost plus variable cost\nB  average cost plus profit\nC  revenue minus wages\nD  price times quantity sold\n\n4. Average total cost equals:\nA  total cost divided by the units produced\nB  total revenue divided by the units sold\nC  variable cost minus fixed cost\nD  fixed cost times the units produced\n\n5. As a firm's monthly output rises, average fixed cost:\nA  rises with each unit made\nB  falls, as the fixed payment is spread over more units\nC  stays equal to total fixed cost\nD  falls at first and then rises above total cost\n\n6. Total revenue equals:\nA  the money a firm borrows in a year\nB  price times the quantity sold\nC  total cost minus profit\nD  average cost times quantity\n\n7. Profit equals:\nA  total revenue minus total cost\nB  total revenue plus total cost\nC  average revenue minus average fixed cost\nD  price minus rent\n\n8. A firm opened two months ago and is barely covering its costs. Its leading objective is most likely:\nA  profit maximisation\nB  survival\nC  growth through a second branch\nD  social welfare",
+   "canonical_answer": "Key: 1 A, 2 C, 3 A, 4 A, 5 B, 6 B, 7 A, 8 B.\n1. A is the definition (payments for inputs used in production); B confuses production costs with a tax on profit, C confuses the firm's costs with consumer spending, D picks one input and drops the rest.\n2. Rent is paid whatever the output (C); A, B and D move with the number of boards made, so they are variable.\n3. Total cost adds the two kinds of payment (A); B brings profit into an identity that excludes it, C subtracts a single cost, D is the revenue formula.\n4. A is the definition, total cost per unit; B divides income rather than cost, C nets two costs against each other, D multiplies a fixed payment by output and misreads the average.\n5. The same payment over more units gives each unit a smaller share (B); A runs the mechanism the wrong way, C confuses the average with the total, D invents a rise the spreading does not cause.\n6. B is the formula, price times quantity sold; A confuses borrowing with income from sales, C rearranges profit wrongly, D uses cost in place of price.\n7. Profit is the gap between income and cost (A); B adds cost where it is subtracted, C leaves the variable costs out of account, D compares two unrelated figures.\n8. A young firm aims to keep trading first (B); A and C describe aims for a secure firm, D belongs to a firm owned for the community rather than one fighting to cover its costs.",
+   "marking_guidance": [
+    "Key: one mark per question, eight in total; the correct option for each question is listed and each distractor is explained as the specific misunderstanding it catches.",
+    "Distractors that merely restate the question catch nothing; each wrong option traces to a named error - a fixed cost read as variable, an average read as a total, cost read as revenue, profit read as revenue, survival read as profit maximisation."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.7-001": 1,
+    "CLM-0455-3.7-002": 1,
+    "CLM-0455-3.7-004": 1,
+    "CLM-0455-3.7-005": 1,
+    "CLM-0455-3.7-008": 1,
+    "CLM-0455-3.7-009": 1,
+    "CLM-0455-3.7-011": 1,
+    "CLM-0455-3.7-012": 1
+   },
+   "authored_hash": "0fd97e2dc9da140993dc962055eba4df5e01745ab87b071e7b0053c8d8a60240"
+  },
+  {
+   "item_id": "ITEM-0455-3.7-P02",
+   "objective_ids": [
+    "OBJ-0455-3.7.2",
+    "OBJ-0455-3.7.4"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.7-004",
+    "CLM-0455-3.7-005",
+    "CLM-0455-3.7-006",
+    "CLM-0455-3.7-007",
+    "CLM-0455-3.7-009",
+    "CLM-0455-3.7-010"
+   ],
+   "item_type": "data_response",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type data_response",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "A report in the Swakopmund Advertiser, 2026: \"Swakopmund Seafoods processes frozen fish for export. Two years ago the firm ran one cold room; today it runs three on the same leased site, and the lease has not changed. Its export price is fixed by contract, and its order book has grown.\"\n\nTable 1 - Swakopmund Seafoods\n  output, 2024: 2 000 kg\n  output, 2026: 3 000 kg\n  fixed costs, 2024: N$12 000\n  fixed costs, 2026: N$12 000\n  variable cost per kg, 2024: N$6\n  variable cost per kg, 2026: N$6\n  price per kg, 2024: N$14\n  price per kg, 2026: N$14\n\n(a) The firm's variable cost in 2026 is its variable cost per kilogram times its output. Calculate its total cost in 2026. [1]\n(b) Calculate average total cost per kilogram in 2026. [1]\n(c) Identify from Table 1 the price per kilogram in 2024 and in 2026. [2]\n(d) Explain why average total cost per kilogram fell between the two years. [4]\n(e) Analyse what the data suggests about the firm's costs and revenue between the two years. [6]",
+   "canonical_answer": "(a) Variable cost = N$6 x 3 000 kg = N$18 000. Total cost = N$12 000 + N$18 000 = N$30 000.\n(b) Average total cost = N$30 000 / 3 000 kg = N$10 per kilogram.\n(c) The price per kilogram was N$14 in 2024 and N$14 in 2026, fixed by contract (from Table 1).\n(d) Average total cost fell because the fixed payment was spread over more kilograms while the variable cost per kilogram held. In 2024, total cost = N$12 000 + N$12 000 = N$24 000 and average total cost = N$24 000 / 2 000 kg = N$12 per kilogram, of which average fixed cost was N$6. In 2026 average total cost was N$10 per kilogram, of which average fixed cost was N$4, since N$12 000 / 3 000 kg = N$4. The N$2 fall per kilogram came wholly from the fixed side: the lease is unchanged, so each kilogram carries a smaller share of it, while the N$6 per kilogram of variable cost stayed put. The firm became cheaper per unit to run without any input becoming cheaper.\n(e) Expected relationship: with the lease unchanged, the price fixed and output up by 1 000 kg, average total cost should fall and total revenue should rise in step with sales. Evidence from the data: average total cost fell from N$12 to N$10 per kilogram; total revenue = N$14 x 2 000 kg = N$28 000 in 2024 and N$14 x 3 000 kg = N$42 000 in 2026. Analysis: the fall in cost per kilogram, from N$12 to N$10, widened the margin between the contract price of N$14 and the cost per kilogram from N$2 to N$4, so profit moved from N$28 000 - N$24 000 = N$4 000 to N$42 000 - N$30 000 = N$12 000; the mechanism is the spreading of the unchanged lease over half as many kilograms again, and the revenue gain came from more sales at the unchanged price rather than from any price movement. For whom: the owners gain the larger profit, the workers gain more processing shifts, and the export customers keep paying the same price. Exception: the spread has a limit - where output strains the three cold rooms, the cost of one more kilogram rises with overtime and breakdowns, and where a fourth room is leased the fixed payment itself rises and the averages turn upward; the contract price also ends at some date, and revenue then moves with whatever price replaces it.",
+   "marking_guidance": [
+    "Parts: (a) and (b) are 1 mark each and must be exact calculations from Table 1; (c) is 2 marks, 1 per year; (d) is 4 marks, one per distinct linked statement; (e) is 6 marks.",
+    "(e) must run the expected relationship, then evidence from the data, then analysis, then an exception; quoting a figure from Table 1 is evidence, not analysis - a figure without the linked statement it supports earns nothing in (e).",
+    "For whom: consequences in (e) are named for the owners, the workers and the export customers."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": [
+     "output 2 000 kg in 2024 and 3 000 kg in 2026",
+     "fixed costs N$12 000 in each year",
+     "variable cost N$6 per kg in each year",
+     "price N$14 per kg in each year, fixed by contract"
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.7-004": 1,
+    "CLM-0455-3.7-005": 1,
+    "CLM-0455-3.7-006": 1,
+    "CLM-0455-3.7-007": 1,
+    "CLM-0455-3.7-009": 1,
+    "CLM-0455-3.7-010": 1
+   },
+   "authored_hash": "a0e259b1295133f91d7e829a162da7a523a76859b1bd8178a882aabd0519254f"
+  },
+  {
+   "item_id": "ITEM-0455-3.7-P03",
+   "objective_ids": [
+    "OBJ-0455-3.7.1",
+    "OBJ-0455-3.7.2",
+    "OBJ-0455-3.7.5"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.7-001",
+    "CLM-0455-3.7-002",
+    "CLM-0455-3.7-004",
+    "CLM-0455-3.7-005",
+    "CLM-0455-3.7-012",
+    "CLM-0455-3.7-013",
+    "CLM-0455-3.7-014"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO1",
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Analyse",
+   "blooms_level_basis": "performance task type short_answer",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "A firm processes mahangu meal in Otavi.\n(a) Define a fixed cost. [2]\n(b) Explain why a firm's average fixed cost falls as its output rises. [4]\n(c) Analyse the effects on a firm, its customers and its workers of a rise in the firm's fixed costs. [6]\n(d) Discuss whether profit maximisation should be the main objective of a firm. [8]",
+   "canonical_answer": "(a) A fixed cost is a cost that does not change with the level of output: the firm pays the same figure whether it makes one unit or one thousand, and it is paid even at zero output. Rent, insurance and lease payments are the usual examples. Two creditable elements: no change with output, and payment whatever the units made.\n(b) Average fixed cost = fixed cost / output. Because the fixed payment does not change with output, dividing it by more units gives each unit a smaller share: at N$12 000 a month, 2 000 units carry N$6.00 each and 3 000 units carry N$4.00 each. The fall comes from the arithmetic of spreading, not from any input becoming cheaper - the firm pays the same total, so the figure per unit shrinks as the number of units grows. Where output falls again, the same arithmetic runs the other way and each unit carries more of the payment.\n(c) Starting point: a rise in the firm's fixed costs, such as its rent, with output and the variable cost per unit unchanged. Mechanism: because the payment is fixed, total cost rises at each output and average fixed cost rises with it; this causes average total cost per unit to rise by the same amount, since the variable side is untouched. Consequence: therefore the firm is likely to raise its prices, cut other spending or seek cheaper premises; where it raises prices, customers pay more for each bag of meal, and where it cuts spending, workers face shorter shifts, delayed hiring or cancelled training. For whom: the owners carry a smaller profit first; customers then face higher prices; workers face tighter budgets; and where the firm can pass none of the rise on, its survival margin narrows.\n(d) Why it might: profit is the margin that keeps a firm solvent and funds its future - retained profit pays for new premises and equipment - and a firm that covers its costs keeps its workers in posts. A firm that makes a large profit can cut prices, invest or wait out a hard season where rivals cannot, and lenders read that profit as safety. Why it might not: a firm set on the largest possible profit may pay its workers the least it can, charge customers the highest price they will bear and spend nothing on the community around it; each such choice can drive customers and workers away over time, and a young firm that put profit first could price itself out of the market it needs to build. Judgement: profit maximisation is a sound main objective for a secure firm facing rivals, because profit funds the other aims; the condition the judgement depends on is the firm's situation - its age, its competition and who owns it - since a firm fighting to survive, or a firm owned by a community, does well to put another aim first.",
+   "marking_guidance": [
+    "Parts: (a) 2 marks for two creditable elements of the definition; (b) 4 marks, one per distinct linked statement; (c) 6 marks, one per distinct linked statement with its reason carried; (d) 8 marks, level-marked over three bands.",
+    "Bands for (d): Level 3 (top) examines why it might and why it might not, then reaches a judgement naming the condition it depends on; Level 2 develops one side or asserts a judgement without the condition; Level 1 offers fragments of either side.",
+    "For whom: (c) must name the customer, the worker and the owner at each step, and (d) must land its costs and returns on named parties."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": [
+     "worked example in (b) uses fixed costs of N$12 000 a month"
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.7-001": 1,
+    "CLM-0455-3.7-002": 1,
+    "CLM-0455-3.7-004": 1,
+    "CLM-0455-3.7-005": 1,
+    "CLM-0455-3.7-012": 1,
+    "CLM-0455-3.7-013": 1,
+    "CLM-0455-3.7-014": 1
+   },
+   "authored_hash": "98ead8dd62beab641915130b9cc7583a4fe062fc7044e7f7358264b716467017"
+  },
+  {
+   "item_id": "ITEM-0455-3.7-P04",
+   "objective_ids": [
+    "OBJ-0455-3.7.5"
+   ],
+   "claim_ids": [
+    "CLM-0455-3.7-011",
+    "CLM-0455-3.7-012",
+    "CLM-0455-3.7-013",
+    "CLM-0455-3.7-014"
+   ],
+   "item_type": "essay_plan",
+   "subtype": null,
+   "assessment_objectives": [
+    "AO2",
+    "AO3"
+   ],
+   "blooms_level": "Evaluate",
+   "blooms_level_basis": "performance task type essay_plan",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 5,
+   "prompt": "Plan an answer to: \"A firm should aim for growth rather than profit maximisation.\" Use the objectives of firms in your plan. Do not write the essay; produce the plan.",
+   "canonical_answer": "Case for (growth first):\nPoint 1: bigger sales spread the fixed payments. Chain: output rises -> the fixed payment is spread over more units -> cost per unit falls -> the firm can cut prices or widen its margin per unit (for customers, for the firm).\nPoint 2: growth builds the firm's future. Chain: new lines or outlets open -> more customers and a bigger share of the market -> revenue grows in the years that follow -> profit grows later, and workers gain posts as the firm expands (for workers, for owners).\nCase against (profit maximisation first):\nPoint 1: growth spends money now. Chain: new premises and stock are bought -> costs rise before the new sales arrive -> profit falls in the near term -> owners face a thinner return and lenders face more risk (for owners, for lenders).\nPoint 2: fast growth can dilute what the firm does well. Chain: new lines are added -> management and workers are stretched -> the cost of one more unit rises at some outputs -> profit per unit narrows even as sales grow (for the firm, for customers).\nJudgement: growth tends to serve profit maximisation over the years where the expansion covers its added costs in a reasonable period; the condition the judgement depends on is whether the firm's expansion pays its way - where it cannot, profit maximisation comes first and growth waits until the profit is there to fund it.",
+   "marking_guidance": [
+    "A plan, not an essay: the case for, the case against, each point as a chain, and the judgement with the condition it depends on.",
+    "Each chain states its starting point, its mechanism and the consequence for a named party - customer, worker, owner, lender or the firm.",
+    "The judgement must settle on the condition: whether the expansion covers its added costs, since that is what decides the trade between the two aims."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored under standard v0.2.0-draft from the topic claim ledger.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-0455-3.7-011": 1,
+    "CLM-0455-3.7-012": 1,
+    "CLM-0455-3.7-013": 1,
+    "CLM-0455-3.7-014": 1
+   },
+   "authored_hash": "70502fbf6479d5a779e1dda26c377dbfbe947a9b339cd3ac383046bcef49f03d"
+  }
+ ]
+}

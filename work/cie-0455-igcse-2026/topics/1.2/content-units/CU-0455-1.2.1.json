@@ -1,0 +1,109 @@
+{
+ "unit_id": "CU-0455-1.2.1",
+ "title": "The four factors and their rewards",
+ "objective_ids": [
+  "OBJ-0455-1.2.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_definition",
+ "depth_tier": 1,
+ "word_budget": {
+  "min": 293,
+  "target": 356,
+  "max": 420
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "1.2.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define the four factors of production - land, labour, capital and enterprise - and match each factor to the reward it earns.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "cb14a468adc9f95c6fdce18de45061e26534dfc1ac543f0bfb829724f6981504"
+  },
+  {
+   "block_id": "1.2.1-b2",
+   "block_type": "definition",
+   "heading": "The four factors and their rewards",
+   "text": "The factors of production are the inputs used together to make goods and services. Land is a natural resource used in production: soil, grazing, water, minerals, the site a workshop stands on. Labour is the physical and mental effort of the people who work. Capital is a man-made input that aids production - a tractor, a sewing machine, a delivery truck, a chilling tank. Enterprise is the factor that organises the other three, decides what to produce and how, and carries the risk of the venture. Each factor earns a reward: land earns rent, labour earns wages, capital earns interest, and enterprise earns profit. At Otjiwa Dairy near Otavi the pattern is visible: the family pays rent for the grazing land, wages to the twelve milkers, interest on the loan that bought the chilling tank, and the profit left at the end belongs to the owner who risked her savings.",
+   "claim_ids": [
+    "CLM-0455-1.2-001",
+    "CLM-0455-1.2-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.2-001": 1,
+    "CLM-0455-1.2-002": 1
+   },
+   "authored_hash": "03dde92194eb71daffcfc2f25e54b16fa4767e2d14bae97c996ff9250bb16f83"
+  },
+  {
+   "block_id": "1.2.1-b3",
+   "block_type": "example",
+   "heading": "The same four in a Dutch greenhouse",
+   "text": "A tomato greenhouse in the Netherlands shows the same split. The natural gas beneath the province is land, because nature supplied it. The glass panes, the boilers and the climate-control computers are capital, because people made them to aid production. The growers tending the vines supply labour. The owner who chose tomatoes over cut flowers and signed the heating loan carries enterprise. Each earns its reward: rent for the gas field, interest on the loan, wages for the growers, and the profit or the loss for the owner who took the risk.",
+   "claim_ids": [
+    "CLM-0455-1.2-001",
+    "CLM-0455-1.2-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.2-001": 1,
+    "CLM-0455-1.2-002": 1
+   },
+   "authored_hash": "a37db5f1d9c4db094e4ba29b78fba9c41083df4ae95ee3a7c2331fc0e92e7bf7"
+  },
+  {
+   "block_id": "1.2.1-b4",
+   "block_type": "misconception",
+   "heading": "Land or capital? The trap to avoid",
+   "text": "Candidates lose marks by calling a farm's borehole or its dam capital, because both cost money to install. Money paid is not the test. The test is origin. A borehole taps water that nature placed underground, so the aquifer and its water are land; the drilled casing, the pump and the pipes are capital, because people manufactured them. A dam wall is capital even though the water held behind it is land. Where a resource was supplied by nature it is land, whatever it costs to reach; where people made it to aid production it is capital, even where it stands on land the maker owns.",
+   "claim_ids": [
+    "CLM-0455-1.2-003",
+    "CLM-0455-1.2-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.2-003": 1,
+    "CLM-0455-1.2-001": 1
+   },
+   "authored_hash": "c6f7db17eeb864073e9a03f40222249715dd350c32951886a0a363e3f919c518"
+  },
+  {
+   "block_id": "1.2.1-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Choosing how to employ these scarce factors is the opportunity cost of topic 1.3, and the rewards named here - wages, rent, interest, profit - are the incomes whose spending and saving topic 2.2 follows.",
+   "claim_ids": [
+    "CLM-0455-1.2-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-1.2-001": 1
+   },
+   "authored_hash": "8b7034cc814094b5dbba546c8613e7bf338a7414da7ac9844b3a1c14e758fb32"
+  }
+ ],
+ "word_count": 430
+}

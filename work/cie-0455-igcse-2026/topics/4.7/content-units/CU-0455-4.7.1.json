@@ -1,0 +1,104 @@
+{
+ "unit_id": "CU-0455-4.7.1",
+ "title": "What employment and unemployment mean",
+ "objective_ids": [
+  "OBJ-0455-4.7.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_definition",
+ "depth_tier": 1,
+ "word_budget": {
+  "min": 283,
+  "target": 344,
+  "max": 406
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "4.7.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define employment, unemployment and full employment, and keep each term separate from its near neighbours.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "f5fd6c218db2dc3eb4710321f3a062e446c6d694a66810fd00769da76d2da5e3"
+  },
+  {
+   "block_id": "4.7.1-b2",
+   "block_type": "definition",
+   "heading": "Employment and unemployment",
+   "text": "Employment means doing paid work: a person of working age who works for pay, or who holds a job and is away from it briefly, is employed. Unemployment means being without paid work while seeking it and able to start it, so a person counted unemployed passes three tests: of working age, without a paid job, and actively seeking one. A person who is not working and not seeking work - a full-time student, a parent at home, a retiree in Swakopmund - is outside the labour force rather than unemployed. The labour force is the employed together with the unemployed, and in Portugal a registered job seeker passes the same three tests, which is why the terms carry one meaning across countries.",
+   "claim_ids": [
+    "CLM-0455-4.7-001",
+    "CLM-0455-4.7-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.7-001": 1,
+    "CLM-0455-4.7-002": 1
+   },
+   "authored_hash": "c002e636d718b2d0d13bbb2365acb9df12a97917989536870e38105a7a37a3e0"
+  },
+  {
+   "block_id": "4.7.1-b3",
+   "block_type": "plain_explanation",
+   "heading": "Full employment, not zero unemployment",
+   "text": "Full employment does not mean an unemployment rate of zero. It means unemployment has fallen to the level that remains when the economy is working at capacity: people still move between jobs, and job seekers' skills still take weeks to match the posts waiting, so some unemployment remains at the top of a boom. Full employment is therefore read as a low, steady rate rather than an empty register, and a government is likely to claim success where the remaining joblessness is short-term and falling.",
+   "claim_ids": [
+    "CLM-0455-4.7-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.7-003": 1
+   },
+   "authored_hash": "63c712f69af5d29e65eebd06c0b4d453f6f013a00839afc8ece35cc4230c5fbb"
+  },
+  {
+   "block_id": "4.7.1-b4",
+   "block_type": "misconception",
+   "heading": "Retirement is not unemployment",
+   "text": "A mix-up the register flags often: retirement called unemployment. The two are separated by the seeking test. A 66-year-old Otavi worker who leaves the foundry and draws a pension has left the labour force, and no job is sought, so he is not unemployed; a 30-year-old Katutura worker who loses a shop job and visits firms daily is unemployed, because the seeking and the availability are present. Ask of anyone without work: is this person seeking and able to start? Where the answer is yes, the person is unemployed; where it is no, the person is outside the labour force.",
+   "claim_ids": [
+    "CLM-0455-4.7-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.7-004": 1
+   },
+   "authored_hash": "e9c921b8112d64afcac04967437612c250c24c69ff53864c9270f21bb1731a60"
+  },
+  {
+   "block_id": "4.7.1-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The labour force these definitions describe is the subject of topic 3.3, the aim of low unemployment belongs to topic 4.2, and the downturns that lift unemployment are examined in topic 4.6.",
+   "claim_ids": [
+    "CLM-0455-4.7-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.7-001": 1
+   },
+   "authored_hash": "8cff98bbc54ef389b266bcc7a5a64ac9db3c4dd61c0ef6ae409187859f8d8776"
+  }
+ ],
+ "word_count": 372
+}

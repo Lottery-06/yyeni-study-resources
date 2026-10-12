@@ -1,0 +1,122 @@
+{
+ "unit_id": "CU-0455-2.10.3",
+ "title": "What market failure costs",
+ "objective_ids": [
+  "OBJ-0455-2.10.3"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_diagram",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 310,
+  "target": 376,
+  "max": 443
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.10.3-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Analyse the consequences of market failure: the over-consumption of demerit goods and goods with external costs, and the under-consumption of merit goods and goods with external benefits, each traced through to the parties it lands on.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {},
+   "authored_hash": "8b11c5581fac94b32aac4f3e9a8ec608aa4df96a2060584163dc8959f230fe7e"
+  },
+  {
+   "block_id": "2.10.3-b2",
+   "block_type": "plain_explanation",
+   "heading": "Misallocation",
+   "text": "Over-consumption means buyers take more of a good than the level that matches its full social costs; under-consumption means they take less than the level that matches its full social benefits. In each case resources are misallocated: too much of the economy's land, labour and capital sits behind goods that do more harm than their buyers reckon, and too little behind goods that do more good than their buyers count.",
+   "claim_ids": [
+    "CLM-0455-2.10-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.10-011": 1
+   },
+   "authored_hash": "0fbe4af45161ef15f29c51743cff0e74db416f6755fabd7324811ed8cc2d6d32"
+  },
+  {
+   "block_id": "2.10.3-b3",
+   "block_type": "analysis_chain",
+   "heading": "The over-consumption chain",
+   "text": "Start with cheap strong brew sold at N$10 a carton in Swakopmund, where 2 200 cartons a month are bought against the 1 500 the town clinic judges manageable. Because the price holds none of the clinic hours and lost work the brew causes, buyers face a cheaper choice than the one the town bears, and consumption settles 700 cartons a month above the manageable level. This causes the town's nursing hours to flow into repairing harm rather than treating other patients. For whom: drinkers gain cheap brew, families lose rest and wages, and the health service loses capacity.",
+   "claim_ids": [
+    "CLM-0455-2.10-011",
+    "CLM-0455-2.10-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.10-011": 1,
+    "CLM-0455-2.10-005": 1
+   },
+   "authored_hash": "9fa39f93d19a611c1d521d5017a246231ca98a58e8def47f91e82c1608037f6a"
+  },
+  {
+   "block_id": "2.10.3-b4",
+   "block_type": "worked_application",
+   "heading": "The under-consumption side",
+   "text": "An Oshakati clinic sells flu vaccinations at N$60 each, and 300 are bought in a season, though the protection each vaccinated person gives to classmates and bus queues means the level serving the whole town is nearer 900 - a shortfall of 600 vaccinations. Buyers count the protection they themselves receive and skip the protection they give others, so too few are sold, and the missed protection lands on the unvaccinated neighbours. Night-school enrolment in a Brazilian city shows the same shortfall for a merit good.",
+   "claim_ids": [
+    "CLM-0455-2.10-012",
+    "CLM-0455-2.10-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.10-012": 1,
+    "CLM-0455-2.10-003": 1
+   },
+   "authored_hash": "b874f02f99e5c245bfb8f626ca5ea38c483cfadb1366e4564456f26fb419cd59"
+  },
+  {
+   "block_id": "2.10.3-b5",
+   "block_type": "interpretation",
+   "heading": "Reading under-provision in words",
+   "text": "Put the vaccination market into words. The axes: price on the vertical, quantity on the horizontal. The demand curve slopes downward, tracing what buyers will pay for their own benefit; the supply curve slopes upward. The market settles where they cross: N$60 and 300 vaccinations. A demand curve that also counted the benefits to others would sit to the right of this one, crossing supply nearer the 900 that serves the town. The gap between the two crossings is the under-provision: the part of the good's value the price never registered.",
+   "claim_ids": [
+    "CLM-0455-2.10-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.10-012": 1
+   },
+   "authored_hash": "1adb6ad14befcfe7735c9577f346a01687a6a6fbc4d73109eaaa8610950d03c5"
+  },
+  {
+   "block_id": "2.10.3-b6",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The market price whose limits this topic maps was built from the demand of topic 2.3 and the supply of topic 2.4; the fiscal tools of topic 4.3 - taxes, subsidies and public spending - are the standard remedies that follow.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {},
+   "authored_hash": "64f98d95f80ef41884555b90d3df0677e55feb7af9fa726a707b9a6d6983ef3e"
+  }
+ ],
+ "word_count": 439
+}

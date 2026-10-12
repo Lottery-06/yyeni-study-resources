@@ -1,0 +1,106 @@
+{
+ "unit_id": "CU-0455-3.8.1",
+ "title": "Markets with many sellers",
+ "objective_ids": [
+  "OBJ-0455-3.8.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_diagram",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 290,
+  "target": 352,
+  "max": 415
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "3.8.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section asks you to do",
+   "text": "Define a competitive market, and trace the effect of a high number of sellers on the market's price, quality, choice and profit.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {},
+   "authored_hash": "d3220eb66408673a127bdb8c34051ea7af4968a40640e1d3614646afc0156b45"
+  },
+  {
+   "block_id": "3.8.1-b2",
+   "block_type": "definition",
+   "heading": "What a competitive market is",
+   "text": "A competitive market is a market with a high number of buyers and sellers in which each seller is too small to influence the market price on its own. The price is set by demand and supply across the whole market, and a seller who charges noticeably above the going price tends to lose customers to rivals. The curio stalls of Katutura show the shape of it: many small sellers, similar goods, one going price. Flower stalls in a town in the Netherlands trade the same way - one price among many small sellers, with no single stall able to lift it alone.",
+   "claim_ids": [
+    "CLM-0455-3.8-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.8-001": 1
+   },
+   "authored_hash": "ce0f7f6f8ce7efb608abec2c5420fa5ebab73a65fc3460b047246c86a4755818"
+  },
+  {
+   "block_id": "3.8.1-b3",
+   "block_type": "worked_application",
+   "heading": "Two new salons at the Katutura rank",
+   "text": "Twelve salons trade at Katutura's hairdressing rank at about N$60 a haircut, each carrying costs of about N$40 a cut. Two new salons open. Because clients walk freely between salons, the newcomers win trade by charging close to N$50, and the going price drifts down from N$60. Each salon's profit narrows from about N$20 to about N$10 a cut, since N$60 - N$40 = N$20 and N$50 - N$40 = N$10. The entry of new sellers raises the quantity of haircuts offered at each price, and that is what pulls the price down.",
+   "claim_ids": [
+    "CLM-0455-3.8-002",
+    "CLM-0455-3.8-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.8-002": 1,
+    "CLM-0455-3.8-004": 1
+   },
+   "authored_hash": "4b54dc6b519618f9ebd2113b6816e121230f4c4f922df5688b7a6fba56595c97"
+  },
+  {
+   "block_id": "3.8.1-b4",
+   "block_type": "analysis_chain",
+   "heading": "Price, quality, choice, profit",
+   "text": "The effect of a high number of firms runs to four places. Price: with many sellers and free switching, the going price tends to sit near the level that covers costs plus a modest margin, because a dearer seller loses clients. Quality: a seller whose quality slips tends to lose customers to nearby rivals, so rivalry holds standards up. Choice: many sellers usually bring many varieties to choose between. Profit: each seller's profit tends to be squeezed by the same rivalry, and unusually high profit tends to attract new sellers, whose entry narrows it over time. A juice seller at the Opuwo market works under the same four pressures as a noodle stall in Vietnam.",
+   "claim_ids": [
+    "CLM-0455-3.8-003",
+    "CLM-0455-3.8-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.8-003": 1,
+    "CLM-0455-3.8-002": 1
+   },
+   "authored_hash": "dd313c6f717b1b631dca2306ff8a843ea61c46b37c5540031ea3899db04230d2"
+  },
+  {
+   "block_id": "3.8.1-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The price that demand and supply set across such a market is the equilibrium of topic 2.5; the sellers this topic keeps small are the firms classified in topic 3.5; and where the sellers grow too few to discipline a price, the market of section 3.8.2 below takes over.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {},
+   "authored_hash": "01860b008ea894fa712ec70919a98cf76bc249ab59fe731a4bee81dfb198dce5"
+  }
+ ],
+ "word_count": 406
+}

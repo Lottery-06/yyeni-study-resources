@@ -1,0 +1,97 @@
+{
+ "unit_id": "CU-0455-2.7.1",
+ "title": "What price elasticity of demand means",
+ "objective_ids": [
+  "OBJ-0455-2.7.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_definition",
+ "depth_tier": 1,
+ "word_budget": {
+  "min": 278,
+  "target": 338,
+  "max": 398
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.7.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define price elasticity of demand as the measure of how strongly the quantity demanded of a good responds to a change in its own price, and state what the measure is for.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "756618ca072cec8be7d87c60e50385faf77d1a3af67e72da169d7fa7312eeb52"
+  },
+  {
+   "block_id": "2.7.1-b2",
+   "block_type": "definition",
+   "heading": "Responsiveness, measured",
+   "text": "Price elasticity of demand (PED) measures how strongly the quantity demanded of a good responds to a change in its own price. Topic 2.3 established that a lower price tends to bring a larger quantity demanded; PED puts a number on that tendency. Two markets can obey the same law and behave very differently: when fuel prices rise, drivers in Windhoek may cut back little, while a rise in the price of marula juice may empty a stall in Oshakati. Three parts of the definition do the work. It is about the good's own price, so a substitute's price change sits outside the measure. It works with quantities demanded at prices, the relationship topic 2.3 drew as a demand curve. And it measures degree, not a yes or no: every demand curve responds somehow, and PED says how much.",
+   "claim_ids": [
+    "CLM-0455-2.7-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.7-001": 1
+   },
+   "authored_hash": "8adbd1d25fa0037cd7579a7d2a9ee76bf34e71e889b6002d5a4c60e2201fb039"
+  },
+  {
+   "block_id": "2.7.1-b3",
+   "block_type": "misconception",
+   "heading": "Not the same measure as supply's",
+   "text": "The confusion learners make: price elasticity of demand and price elasticity of supply are mixed up, because both attach to a price change. The boundary: the demand version measures how buyers respond - the change in quantity demanded when the good's own price changes. The supply version, taught in topic 2.8, measures how sellers respond - the change in quantity supplied. The test: ask which side of the market the quantity belongs to. Petrol stations cutting opening hours after a price fall is a supply response; households buying fewer litres is a demand response.",
+   "claim_ids": [
+    "CLM-0455-2.7-028"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.7-028": 1
+   },
+   "authored_hash": "fbccdea275eb9f756995f3665e0b0041b3dfe3714e8c502f3070da009e1d3edc"
+  },
+  {
+   "block_id": "2.7.1-b4",
+   "block_type": "example",
+   "heading": "One question, two answers",
+   "text": "Put the definition to work. A bus fare between Katutura and the city centre rises from N$10 to N$12: some commuters walk, and PED will measure how far quantity demanded fell, as a percentage. Household electricity in Swakopmund rises by a similar percentage: few households can light their homes another way, so quantity demanded falls by less. \"Demand falls\" is the beginning of an answer; how far it falls is the rest. Sellers setting prices and governments setting taxes both need that second number.",
+   "claim_ids": [
+    "CLM-0455-2.7-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.7-001": 1
+   },
+   "authored_hash": "f0dbda7ee521d2e090b7836c34178b9c58e46908c51f37653b3381d8f6183e82"
+  },
+  {
+   "block_id": "2.7.1-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "This measure sits on the demand curve drawn in topic 2.3 and feeds the price decisions examined in topic 2.6 and the supply-side elasticity of topic 2.8.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [],
+   "claims_seen": {},
+   "authored_hash": "cc3506299ff44838c9cebbc4625f97d1a7fc860e3e5dab92a0d7ef9d3b53960d"
+  }
+ ],
+ "word_count": 393
+}

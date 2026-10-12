@@ -1,0 +1,106 @@
+{
+ "unit_id": "CU-0455-4.8.2",
+ "title": "Measuring the general price level",
+ "objective_ids": [
+  "OBJ-0455-4.8.2"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_quantitative",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 250,
+  "target": 305,
+  "max": 360
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "4.8.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Explain what the Consumer Prices Index is, calculate a yearly inflation rate from it, and read what a change in the index means for a fixed sum of money.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "4a0a5005cc294dd107d8786bcdf9c49c106a15a5092cb60ec363f1515208b27d"
+  },
+  {
+   "block_id": "4.8.2-b2",
+   "block_type": "definition",
+   "heading": "The basket and its weights",
+   "text": "The Consumer Prices Index (CPI) measures the general price level by tracking the cost of a fixed basket of goods and services a typical household buys - mahangu meal, bus fares, rent, clothing - with each item weighted by the share of household spending it takes. The index number has no unit of its own: an index of 120.0 means the basket costs 120% of what it cost in the base year. Statistics offices reweight the basket from household spending surveys as habits shift, as the Dutch statistics office does each year for the Netherlands.",
+   "claim_ids": [
+    "CLM-0455-4.8-005",
+    "CLM-0455-4.8-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.8-005": 1,
+    "CLM-0455-4.8-007": 1
+   },
+   "authored_hash": "7d13129c5b804356c425db857351ea68c91207b3e7ae4c69644cecbb17d1161c"
+  },
+  {
+   "block_id": "4.8.2-b3",
+   "block_type": "worked_calculation",
+   "heading": "Two rates worked out",
+   "text": "The yearly inflation rate is the percentage rise in the CPI over a year. Worked: the CPI moves from 120.0 to 126.0. Step one: 126.0 - 120.0 = 6.0 index points. Step two: 6.0 / 120.0 = 0.05. Step three: 0.05 x 100 = 5, so prices rose 5% that year. A falling index works the same way. The CPI moves from 120.0 to 117.6. The change is 117.6 - 120.0 = -2.4 index points. Then -2.4 / 120.0 = -0.02. So -0.02 x 100 = -2: the general price level fell 2% that year, which is deflation.",
+   "claim_ids": [
+    "CLM-0455-4.8-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.8-006": 1
+   },
+   "authored_hash": "0501a85ded2d026e51fb4f1e210ff7df1c6e490e422950f9cdccdde5b556731a"
+  },
+  {
+   "block_id": "4.8.2-b4",
+   "block_type": "interpretation",
+   "heading": "One index, different households",
+   "text": "The CPI is one average, and the average conceals a spread. Where food prices rise 12% while clothing rises 2%, a household spending a large share of its income on food faces a faster rise in its cost of living than the index shows, and a household spending little on food faces a slower one. The measured rate depends on the basket: an Oshakati household and a Windhoek professional household share the same index but live different price rises.",
+   "claim_ids": [
+    "CLM-0455-4.8-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.8-008": 1
+   },
+   "authored_hash": "494843e24bcfebea5c58b9ebf9afd1a7dff2302d5abc6e3fc91cdcfeb808ce11"
+  },
+  {
+   "block_id": "4.8.2-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The index turns the general price level into a number the price stability aim of topic 4.1 can be judged against, and the interest rates of topic 4.4 are set with it in view.",
+   "claim_ids": [
+    "CLM-0455-4.8-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.8-005": 1
+   },
+   "authored_hash": "c4128455c387d46ac6e5900dbec749fde7678c385bcd5324a85ae44c76475826"
+  }
+ ],
+ "word_count": 353
+}

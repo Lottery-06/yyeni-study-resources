@@ -1,5 +1,7 @@
 # Handover prompt — Cambridge IGCSE Economics 0455
 
+> **Amended 6 October 2026 (planner).** The performance tasks were rebuilt to model the 0455 papers: in every topic, a Paper 1-style multiple-choice set, a Paper 2 Section A-style data-response question (14 marks), a Paper 2 Section B-style structured question (20 marks: Define 2, Explain 4, Analyse 6, Discuss 8) and a plan for an 8-mark Discuss. The earlier tasks were a business template (a lender-style question, an unfamiliar business, an AO4 the subject does not have). Cards worded Explain now carry AO1 and AO2, as the command-word table judges them. Practice by marks is now AO1 38%, AO2 43%, AO3 19% against 40/40/20 (`curriculum/ao_coverage.md`). **Where a count or task type in this document differs from `topics/<T>/work_order.json`, the work order is right.**
+
 Paste everything below the line into Hermes Agent or OpenCode with this repository open. It is self-contained: the agent needs no other instruction from you.
 
 ---

@@ -1,0 +1,102 @@
+{
+ "unit_id": "CU-0455-3.5.5",
+ "title": "Economies and diseconomies of scale",
+ "objective_ids": [
+  "OBJ-0455-3.5.5"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_concept",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 294,
+  "target": 358,
+  "max": 422
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "3.5.5-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define economies and diseconomies of scale, explain why average cost per unit falls as output grows and why it may rise again, and read both from a firm's figures.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "a127c63d85729396e40e63f7fc3b7320e1d802516bb79e3ae83d45143bf4a1f5"
+  },
+  {
+   "block_id": "3.5.5-b2",
+   "block_type": "definition",
+   "heading": "Average cost and scale",
+   "text": "A firm's average cost is the cost of producing one unit: the whole cost of production divided by the number of units produced. Economies of scale are the falls in average cost that come as output grows. Diseconomies of scale are the rises in average cost that may return when a firm grows beyond the size its management can coordinate. Both are named for scale because both are about size: what happens to the cost of one unit as the firm's output changes.",
+   "claim_ids": [
+    "CLM-0455-3.5-015"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.5-015": 1
+   },
+   "authored_hash": "51d142d8e3f351f7af93513b89eb0797697ca2d2280a9bb8c03c0d4b80338f25"
+  },
+  {
+   "block_id": "3.5.5-b3",
+   "block_type": "worked_application",
+   "heading": "Oshakati Textiles reads its own figures",
+   "text": "Oshakati Textiles made 1 000 shirts a month at an average cost of N$40 a shirt. After a second production line opened, output reached 2 000 shirts a month and average cost fell to N$34 - N$6 cheaper per shirt. The fall has three sources. The firm's rent and machines cost about the same whether 1 000 or 2 000 shirts come off the line, so each shirt carries a smaller share of those costs than before. Buying cotton in bulk earns the supplier's discount. And a line dedicated to shirts justifies a cutting machine a small output could not. A steel works in Brazil shows the same mechanics at a larger scale: each tonne carries a smaller share of the plant's heavy fixed costs as output grows.",
+   "claim_ids": [
+    "CLM-0455-3.5-016"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.5-016": 1
+   },
+   "authored_hash": "ce0a18859dd7fa448c7099630a44c857af75fa063a278c1c5969bc597541665d"
+  },
+  {
+   "block_id": "3.5.5-b4",
+   "block_type": "analysis_chain",
+   "heading": "Too large to coordinate",
+   "text": "The fall has limits. Past some size, average cost starts rising again, and the mechanisms are the reverse of the ones that brought it down. Coordinating departments takes meetings and reports, and in a firm of many layers a decision that once took a morning takes a week. Messages travel through more people on the way from the top to the line, so instructions arrive late or changed. Workers in a very large firm may feel like a small part of a big process, and effort and care tend to fall with that feeling. Where growth came by merger the strain is sharper still: two sets of managers and habits must be made into one.",
+   "claim_ids": [
+    "CLM-0455-3.5-017"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.5-017": 1
+   },
+   "authored_hash": "c310f698b280c138116f3f558566d25594e9ba095ff12e039ab0ec4a5cf82a3a"
+  },
+  {
+   "block_id": "3.5.5-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The costs a firm juggles as it grows are set out in topic 3.6, and the effect of size on how a market works is picked up in topic 3.8.",
+   "claim_ids": [
+    "CLM-0455-3.5-016"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.5-016": 1
+   },
+   "authored_hash": "cda001513a7ac96dc149b68214c5e6c6d74b24cf2606c09dcb34b866d25aa164"
+  }
+ ],
+ "word_count": 404
+}

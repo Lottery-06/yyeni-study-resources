@@ -1,0 +1,98 @@
+{
+ "unit_id": "CU-0455-4.3.3",
+ "title": "Why governments tax",
+ "objective_ids": [
+  "OBJ-0455-4.3.3"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 274,
+  "target": 334,
+  "max": 395
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "4.3.3-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "State the reasons governments levy taxes, and keep direct and indirect taxation apart.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "fda6a09e512574e0676819f78bebe7f82d4c2975b7fe15918da3328c65a66dbe"
+  },
+  {
+   "block_id": "4.3.3-b2",
+   "block_type": "definition",
+   "heading": "What a tax is, and why it exists",
+   "text": "A tax is a compulsory payment to a government, levied on income, spending or wealth, owed whether or not the payer receives any specific service in return. Taxes exist first to raise the revenue that pays for public spending: without them the budget would fund nothing. In Portugal a household meets them twice over - income tax on the payslip, value-added tax on the shopping bill - and both feed the same public accounts.",
+   "claim_ids": [
+    "CLM-0455-4.3-009",
+    "CLM-0455-4.3-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.3-009": 1,
+    "CLM-0455-4.3-010": 1
+   },
+   "authored_hash": "c35914a4f3d0720715382220366208d086b78dfa750fadb78d35182630ff8e74"
+  },
+  {
+   "block_id": "4.3.3-b3",
+   "block_type": "plain_explanation",
+   "heading": "Beyond revenue",
+   "text": "Taxation also redistributes: a tax that takes a larger share of high incomes than of low ones transfers spending power towards poorer households, and the grants it funds do the same. And it corrects prices: a duty on tobacco makes the price carry more of the harm smoking imposes on others - the clinic time, the chest cases - steering buying away from a demerit good whose market price leaves that harm uncounted.",
+   "claim_ids": [
+    "CLM-0455-4.3-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.3-011": 1
+   },
+   "authored_hash": "d8c3a5afec493985ca3e68340336b9066613c4f7957dcc0fc90c9b067009efee"
+  },
+  {
+   "block_id": "4.3.3-b4",
+   "block_type": "misconception",
+   "heading": "Direct is not indirect",
+   "text": "The confusion: learners treat every tax as one undifferentiated charge. The boundary: a direct tax is levied on income or profit and paid straight to the revenue authority by the person or firm taxed; an indirect tax is levied on spending and collected by the seller, who adds it to the price and passes it on. The test: ask what the charge falls on - income against spending - and who hands it over: the taxed party itself, or a trader collecting it from buyers.",
+   "claim_ids": [
+    "CLM-0455-4.3-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-4.3-012": 1
+   },
+   "authored_hash": "59e1340b5f4c4c3820067d8935d8eefa60003e0a1c3cbcef385e222ff97fabde"
+  },
+  {
+   "block_id": "4.3.3-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Topic 4.1 set out why the state takes on these roles; topic 2.10 set out the harm a demerit good's price leaves uncounted.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [],
+   "claims_seen": {},
+   "authored_hash": "4eb04b01497f1f2f8600718f66a0346b527a92aeea3c9829dd6f2dd45258370c"
+  }
+ ],
+ "word_count": 287
+}

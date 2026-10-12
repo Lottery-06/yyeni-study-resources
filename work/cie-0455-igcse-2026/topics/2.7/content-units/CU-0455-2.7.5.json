@@ -1,0 +1,104 @@
+{
+ "unit_id": "CU-0455-2.7.5",
+ "title": "Why PED matters to sellers and government",
+ "objective_ids": [
+  "OBJ-0455-2.7.5"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_concept",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 278,
+  "target": 338,
+  "max": 398
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "2.7.5-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Explain what PED means for decision making by producers, consumers and government, and weigh how far a decision may safely lean on an elasticity figure.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {},
+   "authored_hash": "0397666f4a4899b951215c6783b5c7a72999c8f8013f8872cc07634e5c3f9042"
+  },
+  {
+   "block_id": "2.7.5-b2",
+   "block_type": "stakeholder_effect",
+   "heading": "What each decision-maker does with the figure",
+   "text": "A producer setting a price is likely to weigh PED, because the effect of a price change on its revenue depends on whether demand for its product is elastic or inelastic: with inelastic demand a rise tends to bring more revenue, with elastic demand the same rise tends to shrink it. That is why the Ruacana operator could raise its fare and collect more, while the juice stall in Opuwo lost N$200 by trying. A government choosing an indirect tax is likely to weigh PED for the same reason: a tax tends to raise more revenue where demand is price-inelastic, because quantity demanded falls little when the tax pushes the price up. Where a government wants a tax to change behaviour rather than raise money, it is likely to pick goods whose demand is price-elastic, because the quantity bought responds to the price rise the tax causes. A consumer reads the figure from the other side: knowing a good's demand is inelastic tells a household that waiting for a price fall is likely to be a long wait.",
+   "claim_ids": [
+    "CLM-0455-2.7-024",
+    "CLM-0455-2.7-025",
+    "CLM-0455-2.7-026"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.7-024": 1,
+    "CLM-0455-2.7-025": 1,
+    "CLM-0455-2.7-026": 1
+   },
+   "authored_hash": "5fefcf54d14742417b7e5e0dbd1dfe012aac6584a9155650bbdeac44ed25b2eb"
+  },
+  {
+   "block_id": "2.7.5-b3",
+   "block_type": "limitation",
+   "heading": "How far the figure can be trusted",
+   "text": "PED is usually estimated from past market data, so decisions that lean on it carry the risk that the elasticity measured yesterday drifts as substitutes, incomes and tastes change: the Ruacana operator's 0.16 says little about a year in which a new road brings a bus service to the falls. A seller that raises price on the strength of an inelastic figure may find the estimate was taken before buyers adjusted, and the time determinant means responsiveness tends to grow as buyers find their alternatives.",
+   "claim_ids": [
+    "CLM-0455-2.7-027"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.7-027": 1
+   },
+   "authored_hash": "39dbf7614bb311641ce05a63f258e4aafc5ae4e1aecefc4bdad2c559c01e8045"
+  },
+  {
+   "block_id": "2.7.5-b4",
+   "block_type": "summary",
+   "heading": "The one sentence to carry into the exam",
+   "text": "PED measures how strongly buyers respond to a price change; the determinants say why the response is that size; the spending rules say what the response does to revenue; and producers and governments act on the number, at the risk that it was measured in a market that has since moved.",
+   "claim_ids": [
+    "CLM-0455-2.7-024",
+    "CLM-0455-2.7-027"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-2.7-024": 1,
+    "CLM-0455-2.7-027": 1
+   },
+   "authored_hash": "1bf471a0483c179d4d7fe3dd0341294d008a26c326c00fdc84e2e52eb212a6a5"
+  },
+  {
+   "block_id": "2.7.5-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The supply-side twin of this measure arrives in topic 2.8, and the tax reasoning sketched here is developed in topic 4.1.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [],
+   "claims_seen": {},
+   "authored_hash": "9e68c9f1e56256dadfec7baa97ee882e3e5df2eb16ee22ea253cad9378948658"
+  }
+ ],
+ "word_count": 387
+}

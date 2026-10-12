@@ -1,0 +1,91 @@
+{
+ "unit_id": "CU-0455-5.2.2",
+ "title": "The causes of poverty",
+ "objective_ids": [
+  "OBJ-0455-5.2.2"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_cause_effect",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 280,
+  "target": 341,
+  "max": 403
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "5.2.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Set out the main causes of poverty, and trace how they work through households and whole towns.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "b034c25e7643042c9bf2c73621a31d8995f151a5b2bf7d37a2111d77b0ca0725"
+  },
+  {
+   "block_id": "5.2.2-b2",
+   "block_type": "plain_explanation",
+   "heading": "The main causes and their shape",
+   "text": "The causes work on income or on need. On the income side sit unemployment and low pay: a household whose earners cannot find work has no wage to live on, and low pay holds a household near the poverty line even in work, often because weak education and skills limit what a worker can command. On the need side sit large households with many dependants, where one wage must feed many, so income per person is low even where the wage is not; illness and disability, which cut earnings and raise spending at once; and old age without a pension. Two causes reach whole regions: drought that destroys harvests where families farm to eat, and distance from jobs, as in Namibia's sparsely settled north, where the nearest employer may be far away. The causes also tend to compound across generations: low income limits the schooling a household can afford, and weak schooling limits the next generation's pay.",
+   "claim_ids": [
+    "CLM-0455-5.2-005",
+    "CLM-0455-5.2-006",
+    "CLM-0455-5.2-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.2-005": 1,
+    "CLM-0455-5.2-006": 1,
+    "CLM-0455-5.2-008": 1
+   },
+   "authored_hash": "943151b5263c94cf66fb991ee23d7b52cc769f62caabdcd303961a91e7e2824c"
+  },
+  {
+   "block_id": "5.2.2-b3",
+   "block_type": "analysis_chain",
+   "heading": "One closure traced through a town",
+   "text": "Trace a cause through a town. A garment workshop in Oshakati closes, and its 120 workers lose their monthly wage - that is the starting point. Because each wage of about N$3 600 was the main income of a household, spending on food, rent and transport is cut back at once; the town's shops lose about 120 x N$3 600 = N$432 000 of sales a month. This causes the shops to take on fewer workers and some to close, so poverty spreads to households whose earners never worked for the garment firm. Therefore one closure can create more of its own kind: joblessness lowers spending, and lower spending takes away more jobs. In Vietnam, garment towns that lost orders saw the same spread, with poverty rising furthest among the least skilled workers.",
+   "claim_ids": [
+    "CLM-0455-5.2-005",
+    "CLM-0455-5.2-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.2-005": 1,
+    "CLM-0455-5.2-007": 1
+   },
+   "authored_hash": "34bea67021f50b4a8e05b0d5ca0942d8cf3430d1c2423baa73bb75ec316d96cc"
+  },
+  {
+   "block_id": "5.2.2-b4",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The unemployment behind the clearest cases is taught in topic 4.7, the growth that lifts whole regions in topic 4.6, and the policies against poverty follow in the rest of this topic.",
+   "claim_ids": [
+    "CLM-0455-5.2-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.2-005": 1
+   },
+   "authored_hash": "b2ec498e62dfcd4164b484b4be8baf46fc141115ff37801317acd71abf46561b"
+  }
+ ],
+ "word_count": 356
+}

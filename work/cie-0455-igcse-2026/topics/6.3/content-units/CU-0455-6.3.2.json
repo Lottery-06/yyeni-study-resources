@@ -1,0 +1,110 @@
+{
+ "unit_id": "CU-0455-6.3.2",
+ "title": "How the market sets the rate",
+ "objective_ids": [
+  "OBJ-0455-6.3.2"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_mechanism",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 282,
+  "target": 344,
+  "max": 406
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "6.3.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Set out where the demand for and the supply of a currency come from, show how the foreign exchange market finds the equilibrium rate, and name the two directions a rate can move.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "3dbea9bbabe2ced4209f76493d41fa9173ea0f651ec25d926be1ae4fc4fe0f95"
+  },
+  {
+   "block_id": "6.3.2-b2",
+   "block_type": "definition",
+   "heading": "Demand, supply and equilibrium",
+   "text": "Demand for the Namibian dollar comes from foreign buyers who need it to pay for Namibian exports, from visitors planning to spend in Namibia and from investors who wish to hold assets in the currency. Supply of the Namibian dollar comes from residents who sell it to obtain foreign currency for imports or assets abroad. The equilibrium foreign exchange rate is the rate at which the quantity of the currency demanded equals the quantity supplied; at that rate, every Namibian dollar offered finds a buyer.",
+   "claim_ids": [
+    "CLM-0455-6.3-005",
+    "CLM-0455-6.3-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.3-005": 1,
+    "CLM-0455-6.3-006": 1
+   },
+   "authored_hash": "667f56ce545b80a03c76074aad46cdc12487a9cfbd670fbef53967d7e9d0a27c"
+  },
+  {
+   "block_id": "6.3.2-b3",
+   "block_type": "worked_application",
+   "heading": "A week in the market for US dollars",
+   "text": "Picture the Windhoek market for US dollars, with the price of one US dollar in Namibian dollars on the stall. At N$16 per US$1, importers want 4 million US dollars while sellers offer 6 million, so the excess of 2 million US dollars tends to push the price of the dollar down. At N$14 per US$1, importers want 7 million while sellers offer 3 million, so the shortage tends to push the price up. At N$15 per US$1 the two quantities match at 5 million US dollars, and the rate settles. The same balancing that sets the price of mangoes at the Oshakati market in topic 2.5 sets the price of a currency.",
+   "claim_ids": [
+    "CLM-0455-6.3-005",
+    "CLM-0455-6.3-006",
+    "CLM-0455-6.3-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.3-005": 1,
+    "CLM-0455-6.3-006": 1,
+    "CLM-0455-6.3-008": 1
+   },
+   "authored_hash": "ada4a597a35b6446220cb1889bdf0854744fb0cb383c44fcc891099ab08d371c"
+  },
+  {
+   "block_id": "6.3.2-b4",
+   "block_type": "misconception",
+   "heading": "Rise, fall and the two names",
+   "text": "A rise in the foreign exchange rate and a fall are sometimes confused, and the confusion costs marks. A rise in the Namibian dollar's rate against the euro means one Namibian dollar buys more euros: the currency has appreciated. A fall means one Namibian dollar buys less foreign currency: it has depreciated. The boundary is which currency the quotation prices: more Namibian dollars per euro means the Namibian dollar weakened, not strengthened. The test: ask what happens to the amount of foreign currency one unit of the home currency buys - more is appreciation, less is depreciation, whatever direction the quotation is stated in.",
+   "claim_ids": [
+    "CLM-0455-6.3-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.3-007": 1
+   },
+   "authored_hash": "0e73180d42678f5da4a2c7b79c1dcfb292205cdf892d03475827bc5d355a85cd"
+  },
+  {
+   "block_id": "6.3.2-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The demand and supply that set this price are those of topics 2.3 and 2.4, and the equilibrium they find is the price determination of topic 2.5; the trade flows that feed them are measured in topic 6.4.",
+   "claim_ids": [
+    "CLM-0455-6.3-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-6.3-006": 1
+   },
+   "authored_hash": "e0742f626354eb537d91c9363295323bea12077199940aa89683802304baedea",
+   "prior_hash": "f3033ba7e1a66d9b278b0dbd708f3aa5a0b1f1615cba0e054d01b61f2e13212b",
+   "repair_note": "Planner audit 2026-10-06: removed the named Marshall-Lerner condition (beyond the 0455 syllabus; the condition is kept in plain words) and corrected cross-references to topics 2.7 (PED) and 6.4 (current account)."
+  }
+ ],
+ "word_count": 396
+}

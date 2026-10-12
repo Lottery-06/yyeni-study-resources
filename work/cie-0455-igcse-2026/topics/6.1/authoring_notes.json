@@ -1,0 +1,15 @@
+{
+ "topic_id": "6.1",
+ "deviations": [
+  {
+   "from": "work order item_slots (7 slots)",
+   "to": "a bank of 8 flashcards",
+   "why": "The misconceptions register holds one entry with topic_id 6.1 (objective OBJ-0455-6.1.2: advantages of specialisation in general vs in the context of the information provided), so a MISCON card, ITEM-0455-6.1-008-MISCON, was authored beyond the seven pre-decided slots, with misconception_entry set from the register entry, as sibling topics 1.4 and 3.7 did. The contract counts are recomputed from the build by the emitter."
+  },
+  {
+   "from": "work order P02 brief (14 marks)",
+   "to": "a five-part structure",
+   "why": "The brief names parts of 1 + 2 + 4 + 6 marks, which sums to 13, so a 1-mark State part was added to reach the stated 14 marks while keeping the named part types and tariffs intact, as the sibling topics did."
+  }
+ ]
+}

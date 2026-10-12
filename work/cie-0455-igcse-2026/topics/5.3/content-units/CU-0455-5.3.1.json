@@ -1,0 +1,110 @@
+{
+ "unit_id": "CU-0455-5.3.1",
+ "title": "The factors that affect population growth",
+ "objective_ids": [
+  "OBJ-0455-5.3.1"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_concept",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 300,
+  "target": 365,
+  "max": 430
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "5.3.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Name the three factors that affect population growth, define each one, and work out natural increase and overall growth from the birth, death and migration figures.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "f257f39613788e87e218c25abed23c9483f7a652c4f8b61617e9471488fe279f"
+  },
+  {
+   "block_id": "5.3.1-b2",
+   "block_type": "definition",
+   "heading": "What population growth is",
+   "text": "Population growth is the change in the number of people living in a country over a period. Three factors drive it. The birth rate is the number of live births per 1000 people in a country in a year, so a birth rate of 24 per 1000 in a district around Oshakati means 24 babies born for every 1000 residents in the year. The death rate is the number of deaths per 1000 people in a year. Net migration is the balance between immigration, people moving into a country to live, and emigration, people moving out to live elsewhere; the two are usually reported together as one net figure per 1000 people per year.",
+   "claim_ids": [
+    "CLM-0455-5.3-001",
+    "CLM-0455-5.3-002",
+    "CLM-0455-5.3-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.3-001": 1,
+    "CLM-0455-5.3-002": 1,
+    "CLM-0455-5.3-003": 1
+   },
+   "authored_hash": "531ea0cd41a57661198b7c8503305b70bcc7aef24f813a9f673ec77aad23e305"
+  },
+  {
+   "block_id": "5.3.1-b3",
+   "block_type": "worked_calculation",
+   "heading": "Natural increase and total growth in figures",
+   "text": "Natural increase is the birth rate minus the death rate. A country with a birth rate of 24 per 1000 people per year and a death rate of 8 per 1000 has a natural increase of 16 per 1000: 24 - 8 = 16, so its population is growing before migration is counted. Overall growth then adds net migration: where net migration is inward at 3 per 1000 people per year, total growth is 19 per 1000, because 16 + 3 = 19. Japan's figures run the other way: a birth rate of 7 per 1000 against a death rate of 12 per 1000 means deaths outnumber births by 5 per 1000, so unless immigration fills the gap the population shrinks.",
+   "claim_ids": [
+    "CLM-0455-5.3-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.3-004": 1
+   },
+   "authored_hash": "37be43357fbfa524a3a7395f718cd0fa5ecbd46569cf53a2322d6d121774605a"
+  },
+  {
+   "block_id": "5.3.1-b4",
+   "block_type": "example",
+   "heading": "Migration changes the count too",
+   "text": "Migration moves people across borders and so changes a country's population without a single birth or death. Workers have moved to Walvis Bay for port and fishing jobs, adding to the town's count, while Namibians have left to study in the Netherlands or to work in Germany, subtracting from the count at home. Because migration responds to jobs, wages and living conditions, it can change quickly: a new mine or a drought can shift the net figure within a few years, faster than birth and death rates move.",
+   "claim_ids": [
+    "CLM-0455-5.3-003",
+    "CLM-0455-5.3-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1",
+    "AO2"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.3-003": 1,
+    "CLM-0455-5.3-001": 1
+   },
+   "authored_hash": "94b06a972182c3f2dd48e05e61bb47a6c1ba73d2f8b48dee5fb5cc8660422c4f"
+  },
+  {
+   "block_id": "5.3.1-b5",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "Population growth shapes the living standards of topic 5.1 and the poverty of topic 5.2; the size of the labour force it feeds is picked up again in topic 4.7.",
+   "claim_ids": [
+    "CLM-0455-5.3-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-5.3-001": 1
+   },
+   "authored_hash": "6a7ef63acb9ed300b06e402e5f73ed2168c6209042decf0d12e7fd6ed8ce4183"
+  }
+ ],
+ "word_count": 400
+}

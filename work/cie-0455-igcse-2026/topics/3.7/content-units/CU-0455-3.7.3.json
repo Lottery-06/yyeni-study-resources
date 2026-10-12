@@ -1,0 +1,89 @@
+{
+ "unit_id": "CU-0455-3.7.3",
+ "title": "What the firm takes in",
+ "objective_ids": [
+  "OBJ-0455-3.7.3"
+ ],
+ "level": "IGCSE",
+ "core_status": "core",
+ "objective_type": "economics_definition",
+ "depth_tier": 1,
+ "word_budget": {
+  "min": 264,
+  "target": 322,
+  "max": 380
+ },
+ "qa_status": "review_required",
+ "notes": [],
+ "blocks": [
+  {
+   "block_id": "3.7.3-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Define revenue, and keep the income a firm takes in apart from the costs it pays out.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {},
+   "authored_hash": "ce6dfe082152babefdf4a3429185a2908af5dbf845f5a84b2ceea235428fdc1c"
+  },
+  {
+   "block_id": "3.7.3-b2",
+   "block_type": "definition",
+   "heading": "Income from selling",
+   "text": "Revenue is the income a firm receives from selling its output over a period, measured in money and before any costs are deducted. It is read in two ways: total revenue, the whole income from sales in the period, and average revenue, that income per unit sold. A lodge at the Etosha gate that fills 20 rooms at N$1 500 a night takes in N$1 500 x 20 = N$30 000 for those nights; that income is its revenue, whether or not it covers the lodge's costs. A bus operator in Windhoek, a tailor in Katutura and a coffee roaster in the Netherlands earn revenue the same way: money comes in from sales before wages, rent or materials are paid.",
+   "claim_ids": [
+    "CLM-0455-3.7-007",
+    "CLM-0455-3.7-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.7-007": 1,
+    "CLM-0455-3.7-008": 1
+   },
+   "authored_hash": "da4abfe26dfa419a8021b03e390895463487d87ae1657a7028ac85b6b6cbbbca"
+  },
+  {
+   "block_id": "3.7.3-b3",
+   "block_type": "plain_explanation",
+   "heading": "Revenue is not profit",
+   "text": "Revenue and profit are different measures, and mixing them up ruins any judgement about a firm. Revenue counts the money coming in from sales; profit is what remains after the costs of production are paid, so profit is total revenue minus total cost. A firm can take a large revenue and still make a loss, where its costs are larger still; a firm with modest sales can be profitable where its costs are small. The two are told apart by asking what is being counted: sales income alone, or sales income set against the payments the firm makes.",
+   "claim_ids": [
+    "CLM-0455-3.7-007",
+    "CLM-0455-3.7-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.7-007": 1,
+    "CLM-0455-3.7-012": 1
+   },
+   "authored_hash": "eb1ffe11e5e5a8c26714d8f6f927db0ae2b7e219e0e66fdb7ed393373433bbb9"
+  },
+  {
+   "block_id": "3.7.3-b4",
+   "block_type": "cross_link",
+   "heading": "Connections",
+   "text": "The costs these earnings are set against come from sections 3.7.1 and 3.7.2; the calculations that turn price and sales into revenue figures are section 3.7.4, and the aims a firm pursues with what remains are section 3.7.5.",
+   "claim_ids": [
+    "CLM-0455-3.7-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "AO1"
+   ],
+   "claims_seen": {
+    "CLM-0455-3.7-007": 1
+   },
+   "authored_hash": "dfbd8ddaf21923809119bd68e3b6d95dc3c442b3fde68cf032e77530a7719430"
+  }
+ ],
+ "word_count": 285
+}

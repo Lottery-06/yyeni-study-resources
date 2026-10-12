@@ -1,0 +1,25 @@
+{
+ "topic_id": "5.3",
+ "deviations": [
+  {
+   "from": "no MISCON slot in the work order for the two misconceptions register entries on OBJ-0455-5.3.2 (birth rate vs infant mortality rates; interest rates vs tax rates)",
+   "to": "ITEM-0455-5.3-011-MISCON and ITEM-0455-5.3-012-MISCON added beyond the 10 item slots",
+   "why": "the register how-to-use gives every entry one MISCON card on the objective it attaches to, so each registered confusion is practised as a discrimination card rather than folded away"
+  },
+  {
+   "from": "P02 brief states 14 marks while its named parts (1 Calculate, 2 Identify or State, 4 Explain, 6 Analyse) sum to 13",
+   "to": "two 1-mark Calculate parts, (a) and (b), so the parts total 14 marks",
+   "why": "the 14-mark total is kept without breaking the stated part tariffs."
+  },
+  {
+   "from": "contract counts set by the build",
+   "to": "16 learning items (10 slots + 2 MISCON cards + 4 performance tasks), 3 content units",
+   "why": "contract counts are recomputed from the build by the emitter, per the finish routine."
+  },
+  {
+   "from": "glossary terms with null senses (birth rate, natural increase, infant mortality rates, interest rates, tax rates)",
+   "to": "settled once in claims CLM-0455-5.3-002, CLM-0455-5.3-004 and CLM-0455-5.3-008",
+   "why": "each term is defined once in the claim ledger and the same sense is used in every block and item; the birth rate is kept apart from both natural increase and the infant mortality rate throughout, as the glossary homonym warnings require"
+  }
+ ]
+}

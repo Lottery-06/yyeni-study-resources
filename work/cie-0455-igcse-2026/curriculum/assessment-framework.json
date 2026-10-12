@@ -434,6 +434,7 @@
   {
    "subtype": "APP",
    "assessment_objectives": [
+    "AO1",
     "AO2"
    ],
    "tests": "A point worked through a named context",
@@ -450,7 +451,8 @@
   {
    "subtype": "DIAGRAM",
    "assessment_objectives": [
-    "AO2"
+    "AO2",
+    "AO3"
    ],
    "tests": "Drawing a correctly labelled diagram, element by element",
    "blooms_level": "Apply"
@@ -482,6 +484,7 @@
   {
    "subtype": "INTERP",
    "assessment_objectives": [
+    "AO1",
     "AO2"
    ],
    "tests": "Reading meaning out of data or a diagram",
