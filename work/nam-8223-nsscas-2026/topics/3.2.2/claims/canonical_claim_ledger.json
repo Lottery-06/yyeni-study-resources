@@ -453,7 +453,7 @@
    "objective_ids": [
     "OBJ-8223-3.2.2-06"
    ],
-   "text": "The HbA (normal) and HbS (sickle cell) alleles of the beta-globin gene differ by the substitution of one base pair. In a short stretch of the gene the template strand reads TGA GGA CTC CTC TTC in HbA and TGA GGA CAC CTC TTC in HbS, so the mRNA codon GAG (glutamic acid) becomes GUG (valine).",
+   "text": "The HbA (normal) and HbS (sickle cell) alleles of the beta-globin gene differ by the substitution of one base pair. In a short stretch of the gene the template strand, written with its ends, reads 3′-TGA GGA CTC CTC TTC-5′ in HbA and 3′-TGA GGA CAC CTC TTC-5′ in HbS, so the mRNA codon GAG (glutamic acid) becomes GUG (valine). Residues are numbered from the first amino acid of the mature chain, because the initiator methionine is removed; the stretch shown is residues 4 to 8 and the change is at residue 6 (Glu6Val). Counting the methionine would make it Glu7Val.",
    "claim_type": "factual",
    "provenance": "generated_gap",
    "evidence": [
@@ -469,7 +469,7 @@
     }
    ],
    "derived_from_claim_ids": [],
-   "revision": 1,
+   "revision": 2,
    "verification": {
     "status": "unverified",
     "method": "Authored for 8223 topic 3.2.2 from our own statement of standard biology consistent with the syllabus line cited. Single source: no second source checked. Requires semantic review and two-source verification before any publication.",
@@ -479,7 +479,7 @@
    },
    "publishable": false,
    "notes": [
-    "verification_state: single_source. Table entries relied on: ACU = Thr, CCU = Pro, GAG = Glu, GUG = Val, AAG = Lys. The stretch is a short teaching segment; in the real chain the change is at the sixth amino acid (Glu6Val), here the third of the five shown. Reviewer to check the segment against a reference sequence of the beta-globin gene."
+    "verification_state: single_source. Table entries relied on: ACU = Thr, CCU = Pro, GAG = Glu, GUG = Val, AAG = Lys. Strand ends added after an external review (secondary sources, not yet verified by a person) that confirmed the sequences and Glu6Val but noted that an unlabelled DNA string is read 5′ to 3′ by convention. Numbering is from the first amino acid of the mature chain."
    ]
   },
   {
@@ -487,7 +487,7 @@
    "objective_ids": [
     "OBJ-8223-3.2.2-06"
    ],
-   "text": "The nucleotide sequence codes for the amino acid sequence by being transcribed into mRNA and read in codons: from the HbA template TGA GGA CTC CTC TTC the mRNA is ACU CCU GAG GAG AAG, the tRNA anticodons are UGA GGA CUC CUC UUC and the polypeptide stretch is Thr-Pro-Glu-Glu-Lys; from the HbS template it is Thr-Pro-Val-Glu-Lys.",
+   "text": "The template strand is read 3′ to 5′, the mRNA is made 5′ to 3′ and codons are read 5′ to 3′. From the HbA template 3′-TGA GGA CTC CTC TTC-5′ the mRNA is 5′-ACU CCU GAG GAG AAG-3′; the tRNA anticodons, written 3′ to 5′ under the codons they pair with, are UGA GGA CUC CUC UUC; and the polypeptide stretch (residues 4 to 8 of the mature chain) is Thr-Pro-Glu-Glu-Lys. From the HbS template 3′-TGA GGA CAC CTC TTC-5′ it is Thr-Pro-Val-Glu-Lys, with valine at residue 6.",
    "claim_type": "procedural",
    "provenance": "generated_gap",
    "evidence": [
@@ -505,7 +505,7 @@
    "derived_from_claim_ids": [
     "CLM-8223-3.2.2-015"
    ],
-   "revision": 1,
+   "revision": 2,
    "verification": {
     "status": "unverified",
     "method": "Authored for 8223 topic 3.2.2 from our own statement of standard biology consistent with the syllabus line cited. Single source: no second source checked. Requires semantic review and two-source verification before any publication.",
@@ -515,7 +515,7 @@
    },
    "publishable": false,
    "notes": [
-    "verification_state: single_source. Table entries relied on: as in the previous claim. Each anticodon matches the template triplet base for base except that U replaces T, because both are complementary to the codon."
+    "verification_state: single_source. Table entries relied on: as in the previous claim. Each anticodon, read 3′ to 5′, matches the template triplet base for base except that U replaces T, because both are complementary to the codon. Ends added after the external review noted in claim 015."
    ]
   },
   {

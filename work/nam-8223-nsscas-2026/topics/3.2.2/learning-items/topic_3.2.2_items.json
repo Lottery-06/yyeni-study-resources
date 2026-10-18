@@ -567,9 +567,11 @@
    "provenance": "Authored for 8223 topic 3.2.2 from its claim ledger. Unverified.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-8223-3.2.2-015": 1
+    "CLM-8223-3.2.2-015": 2
    },
-   "authored_hash": "9d1f3753b6226ffcbce2ef760e4d8333ed9c041e2c80229642b75c9092facaaf"
+   "authored_hash": "9d1f3753b6226ffcbce2ef760e4d8333ed9c041e2c80229642b75c9092facaaf",
+   "prior_hash": "9d1f3753b6226ffcbce2ef760e4d8333ed9c041e2c80229642b75c9092facaaf",
+   "reviewed_unchanged": "Re-read against the labelled strand ends and residue numbering; this text names only codons, triplets and amino acids and stays correct."
   },
   {
    "item_id": "ITEM-8223-3.2.2-011-FEATURE",
@@ -607,9 +609,11 @@
    "provenance": "Authored for 8223 topic 3.2.2 from its claim ledger. Unverified.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-8223-3.2.2-015": 1
+    "CLM-8223-3.2.2-015": 2
    },
-   "authored_hash": "2fcee45b7cf359e529e46055e18a2af2b02689dc3a2b54c89f8d0fa416abf00a"
+   "authored_hash": "2fcee45b7cf359e529e46055e18a2af2b02689dc3a2b54c89f8d0fa416abf00a",
+   "prior_hash": "2fcee45b7cf359e529e46055e18a2af2b02689dc3a2b54c89f8d0fa416abf00a",
+   "reviewed_unchanged": "Re-read against the labelled strand ends and residue numbering; this text names only codons, triplets and amino acids and stays correct."
   },
   {
    "item_id": "ITEM-8223-3.2.2-015-MISCON",
@@ -669,8 +673,8 @@
    "command_word": "Describe",
    "mark_tariff": 2,
    "difficulty": 3,
-   "prompt": "A table gives the template strand for one short stretch of the beta-globin gene in the HbA and HbS alleles, and the polypeptide stretch that each makes. The data are our own and are simplified.\n\n| Allele | Template strand | Polypeptide stretch |\n|---|---|---|\n| HbA | TGA GGA CTC CTC TTC | Thr-Pro-Glu-Glu-Lys |\n| HbS | TGA GGA CAC CTC TTC | Thr-Pro-Val-Glu-Lys |\n\nDescribe what the table shows about how the change in the template strand leads to the change in the polypeptide.",
-   "canonical_answer": "The table shows that the third template triplet changes from CTC to CAC. The mRNA codon therefore changes from GAG to GUG, so the third amino acid changes from Glu to Val. The other four triplets and amino acids are unchanged, which means one base-pair change gives a change of one amino acid.",
+   "prompt": "A table gives the template strand for one short stretch of the beta-globin gene, read 3′ to 5′, with the mRNA made 5′ to 3′ in the HbA and HbS alleles, and the polypeptide stretch that each makes. The data are our own and are simplified.\n\n| Allele | Template strand | Polypeptide stretch |\n|---|---|---|\n| HbA | 3′-TGA GGA CTC CTC TTC-5′ | Thr-Pro-Glu-Glu-Lys |\n| HbS | 3′-TGA GGA CAC CTC TTC-5′ | Thr-Pro-Val-Glu-Lys |\n\nDescribe what the table shows about how the change in the template strand leads to the change in the polypeptide.",
+   "canonical_answer": "The table shows that the third template triplet changes from CTC to CAC. Read 5′ to 3′, the mRNA codon therefore changes from GAG to GUG, so the third amino acid of the stretch (residue 6 of the mature chain) changes from Glu to Val. The other four triplets and amino acids are unchanged, which means one base-pair change gives a change of one amino acid.",
    "marking_guidance": [
     "2 marks read from the table: the third template triplet differs, CTC in HbA and CAC in HbS, a single base (1); this gives a different codon, GAG to GUG, so one amino acid differs, Glu in HbA and Val in HbS, while the others are unchanged (1).",
     "The data show a change of one amino acid in five; an answer that says the whole polypeptide differs earns no mark."
@@ -688,10 +692,11 @@
    "provenance": "Authored for 8223 topic 3.2.2 from its claim ledger. Unverified.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-8223-3.2.2-015": 1,
-    "CLM-8223-3.2.2-016": 1
+    "CLM-8223-3.2.2-015": 2,
+    "CLM-8223-3.2.2-016": 2
    },
-   "authored_hash": "c09f8e96f05fd664c54a1a6797003af83fe4ace6aeaf4980b5f7292a69a9c2f4"
+   "authored_hash": "8b9d22c547699bbf1ff07f662699aaa269dd238a7d6cc5993a45ccad4caced09",
+   "prior_hash": "c09f8e96f05fd664c54a1a6797003af83fe4ace6aeaf4980b5f7292a69a9c2f4"
   },
   {
    "item_id": "ITEM-8223-3.2.2-012-PROC",
@@ -876,9 +881,11 @@
     "CLM-8223-3.2.2-012": 1,
     "CLM-8223-3.2.2-013": 1,
     "CLM-8223-3.2.2-014": 1,
-    "CLM-8223-3.2.2-015": 1
+    "CLM-8223-3.2.2-015": 2
    },
-   "authored_hash": "68fa8a7418a5620e2bbacb0c6daca36c5faf107de424aaa17ba4d5f3d0fd8050"
+   "authored_hash": "68fa8a7418a5620e2bbacb0c6daca36c5faf107de424aaa17ba4d5f3d0fd8050",
+   "prior_hash": "68fa8a7418a5620e2bbacb0c6daca36c5faf107de424aaa17ba4d5f3d0fd8050",
+   "reviewed_unchanged": "Re-read against the labelled strand ends and residue numbering; this text names only codons, triplets and amino acids and stays correct."
   },
   {
    "item_id": "ITEM-8223-3.2.2-P02",
@@ -927,11 +934,13 @@
     "CLM-8223-3.2.2-008": 1,
     "CLM-8223-3.2.2-009": 1,
     "CLM-8223-3.2.2-012": 1,
-    "CLM-8223-3.2.2-015": 1,
-    "CLM-8223-3.2.2-016": 1,
+    "CLM-8223-3.2.2-015": 2,
+    "CLM-8223-3.2.2-016": 2,
     "CLM-8223-3.2.2-017": 1
    },
-   "authored_hash": "4fcbff02de94a72d926ad76cbed35921819054cf443bb887291f0863e176cc8a"
+   "authored_hash": "4fcbff02de94a72d926ad76cbed35921819054cf443bb887291f0863e176cc8a",
+   "prior_hash": "4fcbff02de94a72d926ad76cbed35921819054cf443bb887291f0863e176cc8a",
+   "reviewed_unchanged": "Re-read against the labelled strand ends and residue numbering; this text names only codons, triplets and amino acids and stays correct."
   }
  ]
 }

@@ -86,7 +86,7 @@ Performance tasks: multiple_choice_set = Apply; short_answer = Apply; practical_
 |---|---|---|---:|---:|---|
 | 1.1 | Classification | 1/2 | 5 | 21 | 1,430–2,050 |
 | 1.2 | Biodiversity | 1/2 | 6 | 27 | 1,800–2,580 |
-| 1.3 | Conservation | 1/2 | 7 | 18 | 1,900–2,730 |
+| 1.3 | Conservation | 1/2 | 7 | 17 | 1,900–2,730 |
 | 2.1 | The microscope | 1/2 | 5 | 18 | 1,590–2,270 |
 | 2.2 | Cell structure | 1/2 | 10 | 34 | 2,880–4,120 |
 | 2.3.1 | Fluid mosaic membranes | 1/2 | 4 | 16 | 1,190–1,700 |
@@ -95,7 +95,7 @@ Performance tasks: multiple_choice_set = Apply; short_answer = Apply; practical_
 | 2.4.2 | Proteins and water | 1/2 | 8 | 30 | 2,490–3,560 |
 | 2.5.1 | Mode of action of enzymes | 1/2 | 4 | 12 | 1,120–1,600 |
 | 2.5.2 | Factors that affect enzyme action | 1/2 | 4 | 22 | 1,260–1,800 |
-| 2.6.1 | Structure of transport tissues | 1/2 | 4 | 12 | 1,260–1,800 |
+| 2.6.1 | Structure of transport tissues | 1/2 | 4 | 14 | 1,260–1,800 |
 | 2.6.2 | Mechanisms of transport in plants | 1/2 | 9 | 28 | 2,760–3,950 |
 | 2.7.1 | Mammalian circulatory system | 1/2 | 13 | 33 | 3,530–5,070 |
 | 2.7.2 | Mammalian heart | 1/2 | 6 | 16 | 1,630–2,340 |
@@ -117,7 +117,7 @@ Performance tasks: multiple_choice_set = Apply; short_answer = Apply; practical_
 | 5.2 | Graphs, charts and rates of change | 1/2 | 9 | 38 | 2,450–3,510 |
 | 5.3 | Size, magnification and biodiversity calculations | 1/2 | 5 | 29 | 1,430–2,050 |
 
-**32 topics, 226 objectives, 772 items (87 misconception cards, 28 multiple-choice sets, 28 structured questions, 8 practical tasks), 66,880–95,700 words of notes.**
+**32 topics, 226 objectives, 773 items (87 misconception cards, 28 multiple-choice sets, 28 structured questions, 8 practical tasks), 66,880–95,700 words of notes.**
 
 ## 6. AO balance, in marks
 | AO | planned | syllabus weight | gap |

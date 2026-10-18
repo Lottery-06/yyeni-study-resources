@@ -1,7 +1,7 @@
 {
   "qa_report_id": "QA-nam-8223-nsscas-2026-2.3.1",
   "build_id": "nam-8223-nsscas-2026/topic-2.3.1",
-  "generated_at": "2026-10-18T15:49:58Z",
+  "generated_at": "2026-10-18T18:00:48Z",
   "deterministic_checks": [
     {
       "check_id": "C-00",
@@ -222,7 +222,7 @@
     {
       "check_id": "C-28",
       "status": "pass",
-      "message": "[RS-32 Packet hash manifest] Critic-packet hash manifest written for 14 files to topics/2.3.1/packet.sha256; the manifest's own SHA-256 is detached in packet.sha256.hash (ddd2419da0c9bbb8) so the whole packet is verifiable.",
+      "message": "[RS-32 Packet hash manifest] Critic-packet hash manifest written for 14 files to topics/2.3.1/packet.sha256; the manifest's own SHA-256 is detached in packet.sha256.hash (754b4477018c09e1) so the whole packet is verifiable.",
       "affected_ids": []
     },
     {

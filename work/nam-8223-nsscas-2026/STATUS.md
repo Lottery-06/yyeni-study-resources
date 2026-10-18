@@ -16,7 +16,7 @@ Second NSSCAS subject, run in parallel with the 8224 Chemistry pilot. Vitalis ag
 - [x] 5 Topics authored: 32 / 32, every topic DECISION: PUBLISH on re-run (C-18 AO-mix warning only; C-35/41/43 not_run). Claim source labels normalised to NSSCAS-8223-SYLLABUS-2020. Author flags for the reviewer in working-notes/REVIEW-FLAGS.md — 2026-10-18
 - [x] 5 Published: `publish/nam-8223-nsscas-2026` (32 topics, 772 items, 86,137 words of notes) — 2026-10-18
 - [x] 6 Reviewed by Codex: verdict publish — 2026-10-18 (32/32 topics PUBLISH; completeness and copied-wording audits clean; learner-facing defects repaired and republished; Biology-specialist truth findings remain mandatory before learner import; report: `review/STEP-6-REVIEW-REPORT.md`)
-- [ ] 6 YOU: verdict read
+- [x] 6 YOU: verdict read — Jeremy, 2026-10-18
 - [ ] 7 YOU: committed and pushed
 - [ ] 8 (diagram) Compare with existing YYeni NSSCAS Biology cards (school 17, classroom `79420c65-90b9-408f-96fb-e7d27c05a920`; 0 cards on 2026-10-18)
 - [ ] 8 (diagram) YOU: approve replacements, preview and import into YYeni
@@ -40,3 +40,14 @@ No further Codex or independent reviews at the early stages (facts, analysis, pl
 - Examiner reports: 2021, 2022, 2024 and 2025 are in `sources/` (Wayback copies of the official files; see SOURCES.md). 2023 was not found (the Ministry listing has none; only a gated Scribd copy). Person to file the four reports by hand under top-level `sources/` and log them.
 - Syllabus summary reviews by Codex: two rounds complete, the third (confirming) did not finish. Its two known findings were fixed. Superseded by step 2 (syllabus facts).
 - `operations/SUBJECT-TRACKER.md` is modified by another session too (8224 row); neither row is committed.
+
+## Post-review plan fixes (2026-10-18, uncommitted)
+- Command words: planning/fix_contract_command_words.py (run after make_contract) keeps only the 10 prompt openers in every contract's command_words_in_scope; Plot/Draw/Use/Complete etc. listed as procedural, not openers.
+- Registry: 1.3-07 retyped bio_explanation (was bio_practical_skill); 4.4-12 command verb describe. 1.3: 3 cards replaced by 2 (013-DEF, 014-MECH, new claim CLM-8223-1.3-024). 4.4: no card change.
+- 2.6.1: planning/add_extra_slots.py (run after make_work_order --all) adds slots 011-INTERP and 012-INTERP (leaf section); two cards written; contract budget 14.
+- Regeneration order now: conform_registry, make_contract --force, fix_contract_command_words.py, make_work_order --all, add_extra_slots.py.
+- Totals: 773 items, 32/32 PUBLISH, completeness PASS, republished. Diagram/import and Biology verification still open (see claim verification tiers).
+
+## After the Deep Research check (2026-10-18)
+- review/DEEP-RESEARCH-RESULT-2026-10-18.pdf adjudicated in working-notes/REVIEW-FLAGS.md. Repairs: CO wording (2.7.1, 2.10.2), lysosomes as an animal-cell organelle (2.2), strand-end labels and numbering (3.2.2). Claims remain unverified; a Biology person must still approve before import.
+- 32/32 PUBLISH, completeness PASS, republished: 773 items.

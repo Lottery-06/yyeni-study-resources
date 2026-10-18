@@ -562,7 +562,7 @@
    "mark_tariff": 1,
    "difficulty": 2,
    "prompt": "State what is meant by carboxyhaemoglobin.",
-   "canonical_answer": "Carboxyhaemoglobin is the stable compound formed when carbon monoxide binds to the haem groups of haemoglobin.",
+   "canonical_answer": "Carboxyhaemoglobin is the stable compound formed when carbon monoxide binds to the haem groups of haemoglobin, which has a much higher affinity for carbon monoxide than for oxygen.",
    "marking_guidance": [
     "1 mark for the key words: the compound formed when carbon monoxide binds to haemoglobin (at the haem group). Stability can be added but does not replace the statement.",
     "Reject oxyhaemoglobin, which holds oxygen, and reject carbaminohaemoglobin, which holds carbon dioxide on the polypeptide chains."
@@ -580,9 +580,11 @@
    "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-8223-2.7.1-025": 1
+    "CLM-8223-2.7.1-025": 2
    },
-   "authored_hash": "70a09e071d60a46a52c9106b052a84f7ccca959444ecc6aa7bbc2a6f3e9d6dd8"
+   "authored_hash": "72e8b6239ba4ec60117983dfc6585d663d54f0f1da418a6adc30b1e9fe6763fb",
+   "prior_hash": "70a09e071d60a46a52c9106b052a84f7ccca959444ecc6aa7bbc2a6f3e9d6dd8",
+   "repair_note": "Truth repair: teach the higher affinity for carbon monoxide (outcompeted) and the syllabus phrase that carbon monoxide reduces the affinity of haemoglobin for oxygen."
   },
   {
    "item_id": "ITEM-8223-2.7.1-015-FEATURE",
@@ -603,9 +605,9 @@
    "mark_tariff": 1,
    "difficulty": 2,
    "prompt": "State one feature of the binding of carbon monoxide to haemoglobin that makes carbon monoxide harmful.",
-   "canonical_answer": "Haemoglobin binds carbon monoxide more than 200 times as strongly as it binds oxygen, and the carbon monoxide is released very slowly, so haem groups are occupied and cannot carry oxygen.",
+   "canonical_answer": "Haemoglobin has a much higher affinity for carbon monoxide than for oxygen (more than 200 times), so oxygen is outcompeted; this is described as carbon monoxide reducing the affinity of haemoglobin for oxygen, and less haemoglobin is available to carry oxygen.",
    "marking_guidance": [
-    "1 mark for one feature: it binds much more strongly than oxygen (an affinity more than 200 times greater), or it is released very slowly, or it occupies the haem groups so that less oxygen is carried. There are several creditworthy points but the tariff is 1.",
+    "1 mark for one feature: haemoglobin has a much higher affinity for carbon monoxide than for oxygen (more than 200 times) so oxygen is outcompeted, or carbon monoxide reduces the affinity of haemoglobin for oxygen, or the carboxyhaemoglobin is stable and releases carbon monoxide very slowly, so less haemoglobin is available to carry oxygen. Both the higher affinity for carbon monoxide and the syllabus phrase are credited. There are several creditworthy points but the tariff is 1.",
     "Reject a statement that carbon monoxide is a poison with no feature of the binding."
    ],
    "context": {
@@ -621,10 +623,12 @@
    "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-8223-2.7.1-025": 1,
-    "CLM-8223-2.7.1-026": 1
+    "CLM-8223-2.7.1-025": 2,
+    "CLM-8223-2.7.1-026": 2
    },
-   "authored_hash": "a25fb9ae3640a86b2bd8bce6858ed1bd5287610b90b0ee7fa73fed1bb6886026"
+   "authored_hash": "f7b934f8d36d31c3c22bd341fa61fc89c06344ba17b367d516aab25880e63f18",
+   "prior_hash": "a25fb9ae3640a86b2bd8bce6858ed1bd5287610b90b0ee7fa73fed1bb6886026",
+   "repair_note": "Truth repair: teach the higher affinity for carbon monoxide (outcompeted) and the syllabus phrase that carbon monoxide reduces the affinity of haemoglobin for oxygen."
   },
   {
    "item_id": "ITEM-8223-2.7.1-016-FEATURE",

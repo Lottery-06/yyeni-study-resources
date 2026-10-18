@@ -3,7 +3,7 @@
  "topic_title": "Conservation",
  "topic": "1.3 Conservation",
  "qualification": "Namibia Senior Secondary Certificate Advanced Subsidiary level (NSSCAS) Biology 8223 (syllabus vNIED 2020, examined 2021-2025)",
- "item_count": 18,
+ "item_count": 17,
  "items": [
   {
    "item_id": "ITEM-8223-1.3-001-DEF",
@@ -175,51 +175,6 @@
     "CLM-8223-1.3-005": 1
    },
    "authored_hash": "14106c4e964ff78ec20ab2f9fcc76fd279aea1ac9ecb5013faca7627dab7a7d0",
-   "objective_titles": [
-    "explain the importance of reducing the pollution of water ways with reference to bioaccumulation and eutrophication"
-   ]
-  },
-  {
-   "item_id": "ITEM-8223-1.3-016-INTERP",
-   "objective_ids": [
-    "OBJ-8223-1.3-02"
-   ],
-   "claim_ids": [
-    "CLM-8223-1.3-006",
-    "CLM-8223-1.3-007"
-   ],
-   "item_type": "flashcard",
-   "subtype": "INTERP",
-   "assessment_objectives": [
-    "B"
-   ],
-   "blooms_level": "Analyse",
-   "command_word": "Describe",
-   "mark_tariff": 2,
-   "difficulty": 3,
-   "prompt": "A study of a river that receives mine waste gave our readings of a persistent poison in the tissues of organisms in one food chain.\n\n| Organism | Concentration of the poison in tissue (µg per g) |\n|---|---|\n| Algae | 0.02 |\n| Small fish (tilapia) | 0.4 |\n| Tigerfish | 2.1 |\n| Fish eagle | 25 |\n\nDescribe what the table shows about the concentration of the poison along the food chain, and what this means for the fish eagle.",
-   "canonical_answer": "The values in the table increase at each step along the food chain, from 0.02 µg per g in algae to 25 µg per g in the fish eagle, so the top consumer holds the highest concentration. This means the poison is persistent and builds up in tissue, so the fish eagle is at the greatest risk of harm.",
-   "marking_guidance": [
-    "2 marks: the data show the concentration increasing at each feeding level, from 0.02 to 25 µg per g, with the highest value in the fish eagle (1); this means the poison builds up in the tissues of top consumers because it is not broken down or excreted, so they are most at risk (1).",
-    "The reading must come from the table, with a value quoted, and the means point must link the pattern to harm for the fish eagle. A statement that the water is polluted earns no mark."
-   ],
-   "context": {
-    "sector": null,
-    "business_size": null,
-    "ownership": null,
-    "situation": null,
-    "facts": []
-   },
-   "prerequisite_item_ids": [],
-   "core_status": "core",
-   "intentional_duplicate_group": null,
-   "provenance": "Authored for topic 1.3 from the topic 1.3 claim ledger. Scenario and answer are our own. Unverified.",
-   "qa_status": "review_required",
-   "claims_seen": {
-    "CLM-8223-1.3-006": 1,
-    "CLM-8223-1.3-007": 1
-   },
-   "authored_hash": "f4b750054dc4419d28c13fdf2ccb70b8d3990adc929b234f727e7b2cceb2eadc",
    "objective_titles": [
     "explain the importance of reducing the pollution of water ways with reference to bioaccumulation and eutrophication"
    ]
@@ -627,7 +582,49 @@
    ]
   },
   {
-   "item_id": "ITEM-8223-1.3-013-PROC",
+   "item_id": "ITEM-8223-1.3-013-DEF",
+   "objective_ids": [
+    "OBJ-8223-1.3-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.3-024"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by poaching.",
+   "canonical_answer": "Poaching is the illegal hunting or killing of wild animals, for example of rhinos for their horn or elephants for their ivory.",
+   "marking_guidance": [
+    "1 mark for the key words: illegal hunting or killing of wild animals. The statement is a definition of the term, so a statement that animals are killed with no mention of it being illegal earns no mark.",
+    "Reject a statement that poaching means any hunting; it means hunting that is against the law."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.3 from the topic 1.3 claim ledger. Scenario and answer are our own. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.3-024": 1
+   },
+   "objective_titles": [
+    "investigate the negative impact of rhino and elephant poaching on the tourism sector locally (Namibia) and regionally (South Africa and Botswana)"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-1.3-014-MECH",
    "objective_ids": [
     "OBJ-8223-1.3-07"
    ],
@@ -636,19 +633,19 @@
     "CLM-8223-1.3-022"
    ],
    "item_type": "flashcard",
-   "subtype": "PROC",
+   "subtype": "MECH",
    "assessment_objectives": [
-    "A"
+    "B"
    ],
-   "blooms_level": "Apply",
-   "command_word": "Describe",
-   "mark_tariff": 3,
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
    "difficulty": 2,
-   "prompt": "Describe, in order, how the poaching of rhinos in a reserve can lead to a loss of income for a lodge and the people it employs.",
-   "canonical_answer": "First, poaching reduces the number of rhinos in the reserve. Then there are fewer sightings, so the reserve is less attractive and some tourists choose other destinations. Finally, fewer tourists spend money at the lodge, so its income falls and jobs for guides and staff are lost.",
+   "prompt": "Explain how the poaching of rhinos in a reserve can lead to a loss of income for a lodge and the people it employs.",
+   "canonical_answer": "Poaching reduces the number of rhinos, which causes fewer sightings, so the reserve is less attractive and some tourists choose other destinations. Fewer tourists then spend money at the lodge, which leads to less income and the loss of jobs for guides and staff.",
    "marking_guidance": [
-    "3 marks, one for each stage in the correct order: poaching reduces the number of rhinos (1); fewer sightings so tourists choose elsewhere (1); less income at the lodge, with jobs lost, as the result (1).",
-    "The sequence is the point: stages out of order, or a statement of lost income with no earlier step, earns no mark. A further creditworthy point is the cost of anti-poaching patrols, but the tariff is 3."
+    "2 marks: poaching reduces the number of rhinos, so there are fewer sightings and tourists choose elsewhere (1); fewer tourists means less income for the lodge, which results in lost jobs (1).",
+    "The answer must link each step to the next with a cause. A statement of lost income with no earlier step earns no mark."
    ],
    "context": {
     "sector": null,
@@ -666,52 +663,6 @@
     "CLM-8223-1.3-021": 1,
     "CLM-8223-1.3-022": 1
    },
-   "authored_hash": "e8713d9dae0cec56d5a454708eee0523a91fe08ec048f33d1ffd96fbf337b8d8",
-   "objective_titles": [
-    "investigate the negative impact of rhino and elephant poaching on the tourism sector locally (Namibia) and regionally (South Africa and Botswana)"
-   ]
-  },
-  {
-   "item_id": "ITEM-8223-1.3-014-WHY",
-   "objective_ids": [
-    "OBJ-8223-1.3-07"
-   ],
-   "claim_ids": [
-    "CLM-8223-1.3-021",
-    "CLM-8223-1.3-023"
-   ],
-   "item_type": "flashcard",
-   "subtype": "WHY",
-   "assessment_objectives": [
-    "A"
-   ],
-   "blooms_level": "Understand",
-   "command_word": "Explain",
-   "mark_tariff": 2,
-   "difficulty": 2,
-   "prompt": "Explain why a reserve in South Africa that loses rhinos to poaching may receive fewer bookings from tourists.",
-   "canonical_answer": "Rhinos are among the animals tourists most want to see, so the reason is that the reserve becomes less attractive when there are fewer sightings. News of poaching can also damage its reputation as a safe place to see wildlife, because of which some tourists choose other destinations.",
-   "marking_guidance": [
-    "2 marks: because rhinos are a main attraction, so fewer rhinos means fewer sightings (1); news of poaching harms the reputation of the reserve, so tourists tend to choose other destinations (1).",
-    "The reason must be about the tourist's choice. A statement that there is less money earns no mark because it describes the result and not the reason."
-   ],
-   "context": {
-    "sector": null,
-    "business_size": null,
-    "ownership": null,
-    "situation": null,
-    "facts": []
-   },
-   "prerequisite_item_ids": [],
-   "core_status": "core",
-   "intentional_duplicate_group": null,
-   "provenance": "Authored for topic 1.3 from the topic 1.3 claim ledger. Scenario and answer are our own. Unverified.",
-   "qa_status": "review_required",
-   "claims_seen": {
-    "CLM-8223-1.3-021": 1,
-    "CLM-8223-1.3-023": 1
-   },
-   "authored_hash": "0036908ab7640ca7a3b9b040d83a34134110ed612b389146e62fb6576e70b0de",
    "objective_titles": [
     "investigate the negative impact of rhino and elephant poaching on the tourism sector locally (Namibia) and regionally (South Africa and Botswana)"
    ]

@@ -12,7 +12,7 @@ The syllabus states its assessment-objective weights as a share of **marks**, ac
 | B | 40% | 40% | +0 |
 | C | 18% | 20% | -2 |
 
-✅ **largest gap 2 points** across 1,856 marks-equivalent of practice.
+✅ **largest gap 2 points** across 1,852 marks-equivalent of practice.
 
 A gap inside 5 points is the plan matching the exam. A larger one means the item plan needs more of that kind of practice - not that a topic should be padded.
 
@@ -22,7 +22,7 @@ A gap inside 5 points is the plan matching the exam. A larger one means the item
 |---|---:|---:|---:|---:|---:|---:|
 | **1.1** Classification | 5 | 21 | 52 | 54% | 46% | 0% |
 | **1.2** Biodiversity | 6 | 27 | 65 | 54% | 46% | 0% |
-| **1.3** Conservation | 7 | 18 | 47 | 53% | 47% | 0% |
+| **1.3** Conservation | 7 | 17 | 43 | 49% | 51% | 0% |
 | **2.1** The microscope | 5 | 18 | 46 | 48% | 52% | 0% |
 | **2.10.1** The gas exchange system | 8 | 20 | 53 | 51% | 49% | 0% |
 | **2.10.2** Smoking and its impact on the gas exchange and circulatory system | 3 | 11 | 35 | 54% | 46% | 0% |

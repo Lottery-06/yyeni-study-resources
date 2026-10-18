@@ -1,6 +1,6 @@
 {
  "registry_id": "OBJREG-NAM-NSSCAS-8223",
- "generated_at": "2026-10-18T12:26:11Z",
+ "generated_at": "2026-10-18T17:16:16Z",
  "authority": "NSSCAS Biology Syllabus 8223 (NIED 2020): topics 1.1-3.2.2 from the learning content (printed pp. 5-19); topics 4.1-4.4 from Annexe A (pp. 29-37) and topics 5.1-5.3 from Annexe C (p. 43), grouped and split by us.",
  "granularity_note": "One objective per specific objective the syllabus lists. Each syllabus unit (1.1 ... 3.2.2) is a topic with a container (parent_id null) and one child per objective. Topics 4.1-4.4 are our container for the Paper 3 practical skills and topics 5.1-5.3 for the mathematical skills of Annexe C: the syllabus states these as expectations, so each objective is a verbatim fragment with our plain-language learner_objective. objective_type, depth_tier, command_words and papers are our judgement.",
  "papers_note": "Topics 1.1-3.2.2 and 5.1-5.3 are assessed on Paper 1 (multiple choice) and Paper 2 (structured); topics 4.1-4.4 on Paper 3 (advanced practical, AO C). The papers value is a list of paper numbers as strings. Command words are limited to those the papers use as question openers (Define never opens a part, so definitions are asked as State).",
@@ -712,7 +712,7 @@
    "level": "NSSCAS",
    "route_status": "core",
    "mandatory": true,
-   "objective_type": "bio_practical_skill",
+   "objective_type": "bio_explanation",
    "depth_tier": 2,
    "assessment_objectives": [
     "A",
@@ -7835,8 +7835,8 @@
     "C"
    ],
    "command_words": [
-    "State",
-    "Name"
+    "Describe",
+    "State"
    ],
    "prerequisite_ids": [],
    "status": "planned",

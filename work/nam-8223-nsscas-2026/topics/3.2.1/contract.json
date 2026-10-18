@@ -5,7 +5,7 @@
  "unit": "Development of the organism and the continuity of life",
  "qualification": "nam-8223-nsscas-2026",
  "standard_version": "0.2.0-draft",
- "generated_at": "2026-10-18T12:26:11Z",
+ "generated_at": "2026-10-18T17:16:22Z",
  "generated_by": "make_contract.py",
  "status": "active",
  "scope": {
@@ -51,22 +51,9 @@
    "Outline",
    "Suggest",
    "Calculate",
-   "Sketch",
-   "Construct",
    "Compare",
    "Name",
-   "Identify",
-   "Use",
-   "Complete",
-   "Plot",
-   "Make",
-   "Prepare",
-   "Draw",
-   "Record",
-   "Look",
-   "Fill",
-   "Take",
-   "Move"
+   "Identify"
   ],
   "command_words_never_used_in_the_corpus": [
    "Define",
@@ -225,7 +212,22 @@
    "C": 20
   },
   "answer_shapes": "curriculum/answer-shapes.json",
-  "note": "The command words in scope are the ones the papers actually use, measured across the held corpus, not the ones the syllabus table lists. Never write a prompt with a word under command_words_never_used_in_the_corpus."
+  "note": "The command words in scope are the ones the papers actually use, measured across the held corpus, not the ones the syllabus table lists. Never write a prompt with a word under command_words_never_used_in_the_corpus.",
+  "command_words_procedural_not_openers": [
+   "Sketch",
+   "Construct",
+   "Use",
+   "Complete",
+   "Plot",
+   "Make",
+   "Prepare",
+   "Draw",
+   "Record",
+   "Look",
+   "Fill",
+   "Take",
+   "Move"
+  ]
  },
  "exposure": {
   "objectives_examined": 4,

@@ -1,7 +1,7 @@
 {
   "qa_report_id": "QA-nam-8223-nsscas-2026-1.3",
   "build_id": "nam-8223-nsscas-2026/topic-1.3",
-  "generated_at": "2026-10-18T15:49:56Z",
+  "generated_at": "2026-10-18T18:00:43Z",
   "deterministic_checks": [
     {
       "check_id": "C-00",
@@ -12,7 +12,7 @@
     {
       "check_id": "C-01",
       "status": "pass",
-      "message": "[RS-07 Objective referential integrity] Every objective_id cited by 1 content units, 18 items and 23 claims resolves in the registry (8 nodes in this topic branch, 7 assessable).",
+      "message": "[RS-07 Objective referential integrity] Every objective_id cited by 1 content units, 17 items and 24 claims resolves in the registry (8 nodes in this topic branch, 7 assessable).",
       "affected_ids": []
     },
     {
@@ -24,7 +24,7 @@
     {
       "check_id": "C-03",
       "status": "pass",
-      "message": "[RS-07 Claim orphans] All 23 ledger claims are cited by at least one block or item.",
+      "message": "[RS-07 Claim orphans] All 24 ledger claims are cited by at least one block or item.",
       "affected_ids": []
     },
     {
@@ -54,7 +54,7 @@
     {
       "check_id": "C-30",
       "status": "pass",
-      "message": "[RS-41 No bulk stamp] All 29 stamped artefacts are consistent: every advanced stamp is matched by changed text or by a recorded reviewed_unchanged decision.",
+      "message": "[RS-41 No bulk stamp] All 26 stamped artefacts are consistent: every advanced stamp is matched by changed text or by a recorded reviewed_unchanged decision.",
       "affected_ids": []
     },
     {
@@ -162,13 +162,13 @@
     {
       "check_id": "C-18",
       "status": "warn",
-      "message": "[RS-19 AO mix against target] AO mix by item count {'A': 60, 'B': 40, 'C': 0} against target {'A': 40, 'B': 40, 'C': 20}; largest deviation across AO1-AO3 is 20 points. AO4 is reported, not tested by count: 0 items carry it, of which 2 are performance tasks (multiple_choice_set, short_answer). RS-19 measures the AO4 share in practice time.",
+      "message": "[RS-19 AO mix against target] AO mix by item count {'A': 58, 'B': 42, 'C': 0} against target {'A': 40, 'B': 40, 'C': 20}; largest deviation across AO1-AO3 is 20 points. AO4 is reported, not tested by count: 0 items carry it, of which 2 are performance tasks (multiple_choice_set, short_answer). RS-19 measures the AO4 share in practice time.",
       "affected_ids": []
     },
     {
       "check_id": "C-19",
       "status": "pass",
-      "message": "[RS-25 Flashcard integrity] All 16 flashcards carry a non-null canonical answer and a declared subtype.",
+      "message": "[RS-25 Flashcard integrity] All 15 flashcards carry a non-null canonical answer and a declared subtype.",
       "affected_ids": []
     },
     {
@@ -180,13 +180,13 @@
     {
       "check_id": "C-21",
       "status": "pass",
-      "message": "[RS-25 Duplicate prompts] No exact duplicate and no near-duplicate prompt pair above 0.85 Jaccard across 18 items.",
+      "message": "[RS-25 Duplicate prompts] No exact duplicate and no near-duplicate prompt pair above 0.85 Jaccard across 17 items.",
       "affected_ids": []
     },
     {
       "check_id": "C-22",
       "status": "pass",
-      "message": "[RS-30 Marking guidance present] All 18 items carry marking guidance.",
+      "message": "[RS-30 Marking guidance present] All 17 items carry marking guidance.",
       "affected_ids": []
     },
     {
@@ -198,7 +198,7 @@
     {
       "check_id": "C-24",
       "status": "pass",
-      "message": "[RS-13 Publication gate] Gate holds: 0 of 23 claims are publishable or verified. 23 are generated_gap and need documented human approval (RS-13).",
+      "message": "[RS-13 Publication gate] Gate holds: 0 of 24 claims are publishable or verified. 24 are generated_gap and need documented human approval (RS-13).",
       "affected_ids": []
     },
     {
@@ -222,7 +222,7 @@
     {
       "check_id": "C-28",
       "status": "pass",
-      "message": "[RS-32 Packet hash manifest] Critic-packet hash manifest written for 15 files to topics/1.3/packet.sha256; the manifest's own SHA-256 is detached in packet.sha256.hash (0cec7fafe3b8ba43) so the whole packet is verifiable.",
+      "message": "[RS-32 Packet hash manifest] Critic-packet hash manifest written for 15 files to topics/1.3/packet.sha256; the manifest's own SHA-256 is detached in packet.sha256.hash (f560971259cb69ee) so the whole packet is verifiable.",
       "affected_ids": []
     },
     {
@@ -258,7 +258,7 @@
     {
       "check_id": "C-42",
       "status": "pass",
-      "message": "[RS-45 Contract counts match the live build] All 3 counts the contract authorises match the build: 18 learning items, 1 content units.",
+      "message": "[RS-45 Contract counts match the live build] All 3 counts the contract authorises match the build: 17 learning items, 1 content units.",
       "affected_ids": []
     },
     {
@@ -283,9 +283,9 @@
   ],
   "metrics": {
     "objective_count": 7,
-    "claim_count": 23,
+    "claim_count": 24,
     "content_unit_count": 1,
-    "learning_item_count": 18,
+    "learning_item_count": 17,
     "word_count": 2468
   },
   "release_decision": "publish",

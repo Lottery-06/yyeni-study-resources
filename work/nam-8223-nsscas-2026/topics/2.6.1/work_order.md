@@ -62,3 +62,6 @@ Name in passing if you must; teach there.
 
 - The microscope — taught in topic 2.1 (same unit)
 - Cell structure — taught in topic 2.2 (same unit)
+
+
+**Added after the step 6 review (planning/add_extra_slots.py):** added after the step 6 review: objective 2.6.1-01 names leaves, but the generated interpretation slots cover a stem and a root only. Slots: ITEM-8223-2.6.1-011-INTERP, ITEM-8223-2.6.1-012-INTERP.

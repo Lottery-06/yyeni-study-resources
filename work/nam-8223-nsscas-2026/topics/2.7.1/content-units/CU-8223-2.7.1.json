@@ -242,7 +242,7 @@
    "block_id": "2.7.1-b11",
    "block_type": "plain_explanation",
    "heading": "Carbon monoxide and haemoglobin",
-   "text": "Carbon monoxide is a gas that forms when fuels such as wood, charcoal or tobacco burn with too little oxygen. It binds to the iron of a haem group and forms carboxyhaemoglobin. Haemoglobin has an affinity for carbon monoxide more than 200 times its affinity for oxygen, and carboxyhaemoglobin releases carbon monoxide very slowly, so the combination is stable.\n\nA haem group that is holding carbon monoxide cannot bind oxygen. Haemoglobin therefore takes up less oxygen in the lungs, and the blood carries less oxygen even when breathing is normal. A person sleeping in a closed room with a charcoal fire can be exposed, and the tissues may be short of oxygen although the lungs are working. The more of the haemoglobin that has become carboxyhaemoglobin, the smaller the amount of oxygen the blood can carry.",
+   "text": "Carbon monoxide is a gas that forms when fuels such as wood, charcoal or tobacco burn with too little oxygen. Haemoglobin has a much higher affinity for carbon monoxide than for oxygen, more than 200 times its affinity for oxygen. Carbon monoxide binds to the iron of a haem group and forms carboxyhaemoglobin, which releases carbon monoxide very slowly, so the combination is stable and oxygen is outcompeted.\n\nThe syllabus describes this as carbon monoxide reducing the affinity of haemoglobin for oxygen. The result is that less haemoglobin is available to carry oxygen, so haemoglobin takes up less oxygen in the lungs and the blood carries less oxygen even when breathing is normal. A person sleeping in a closed room with a charcoal fire can be exposed, and the tissues may be short of oxygen although the lungs are working. The more of the haemoglobin that has become carboxyhaemoglobin, the smaller the amount of oxygen the blood can carry.",
    "claim_ids": [
     "CLM-8223-2.7.1-025",
     "CLM-8223-2.7.1-026"
@@ -253,10 +253,12 @@
     "B"
    ],
    "claims_seen": {
-    "CLM-8223-2.7.1-025": 1,
-    "CLM-8223-2.7.1-026": 1
+    "CLM-8223-2.7.1-025": 2,
+    "CLM-8223-2.7.1-026": 2
    },
-   "authored_hash": "3253506c2014ae4933fb7eceba92f237b24d5ede55d4aa22b1ba17519b019830"
+   "authored_hash": "a19bc57b846cd49442842adeb7898d6fab9917d41266565ff5817cc1d7c0d5fc",
+   "prior_hash": "3253506c2014ae4933fb7eceba92f237b24d5ede55d4aa22b1ba17519b019830",
+   "repair_note": "Truth repair: teach the higher affinity for carbon monoxide (outcompeted) and the syllabus phrase that carbon monoxide reduces the affinity of haemoglobin for oxygen."
   },
   {
    "block_id": "2.7.1-b12",

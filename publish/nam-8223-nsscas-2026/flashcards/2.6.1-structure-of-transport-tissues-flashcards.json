@@ -3,7 +3,7 @@
  "topic_title": "Structure of transport tissues",
  "topic": "2.6.1 Structure of transport tissues",
  "qualification": "Namibia Senior Secondary Certificate Advanced Subsidiary level (NSSCAS) Biology 8223 (syllabus vNIED 2020, examined 2021-2025)",
- "item_count": 12,
+ "item_count": 14,
  "items": [
   {
    "item_id": "ITEM-8223-2.6.1-001-INTERP",
@@ -87,6 +87,94 @@
     "CLM-8223-2.6.1-002": 1
    },
    "authored_hash": "574db8c6add5cc0d0aef3a292371554adf94e8adb88df15c5a35df3b87c75878",
+   "objective_titles": [
+    "identify and label the various parts of the transverse sections of stems, roots and leaves of herbaceous dicotyledonous plants, using an eyepiece graticule to show correct proportions"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.6.1-011-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.6.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.1-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A transverse section of a herbaceous dicotyledonous plant organ is described. It is a thin, flat blade. The top and bottom surfaces are each a single row of flat cells with no chloroplasts, and the top one is covered by a waxy layer. Just below the top row is a layer of tall, tightly packed cells full of chloroplasts, standing side by side. Beneath that is a layer of rounded, loosely packed cells with large gaps between them. In one small vein, the large thick-walled empty cells lie towards the top surface and the smaller cells lie towards the bottom surface. Some of the bottom row cells occur in pairs around a small pore. Identify the organ, and identify the layer of tall, tightly packed cells full of chloroplasts.",
+   "canonical_answer": "The organ is a leaf. The layer of tall, tightly packed cells is the palisade mesophyll.",
+   "marking_guidance": [
+    "2 marks: leaf (1), read from the diagram as described, where the section is a thin blade with a waxy top surface, two mesophyll layers, a vein with its xylem towards the top and pores in the bottom row; palisade mesophyll (1), the tall tightly packed cells full of chloroplasts just below the upper epidermis.",
+    "The two mesophyll layers and the pores between paired guard cells in the lower epidermis shows that the organ is a leaf; this means it is not a stem or a root, because neither has mesophyll. Spongy mesophyll earns no mark, because the spongy mesophyll is the loosely packed rounded cells with air spaces beneath the palisade layer."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.1-003": 1
+   },
+   "authored_hash": "6fac736b0991268c4f3649276820c605b469371f72b5e12130f6228ed5479902",
+   "objective_titles": [
+    "identify and label the various parts of the transverse sections of stems, roots and leaves of herbaceous dicotyledonous plants, using an eyepiece graticule to show correct proportions"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.6.1-012-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.6.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.1-003",
+    "CLM-8223-2.6.1-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A learner measures a transverse section through the blade of a herbaceous dicotyledonous leaf, away from the midrib, with an eyepiece graticule. These are our own readings, in graticule divisions, for each layer from the top surface to the bottom surface.\n\n| Layer | Thickness (graticule divisions) |\n|---|---:|\n| Upper epidermis | 5 |\n| Palisade mesophyll | 25 |\n| Spongy mesophyll | 15 |\n| Lower epidermis | 5 |\n\nThe four layers together make up the whole section. Identify the thickest layer. Identify the proportion of the whole section that this layer occupies, as a percentage, and identify how a plan diagram would show it.",
+   "canonical_answer": "The thickest layer is the palisade mesophyll. The total is 5 + 5 + 15 + 25 = 50 divisions, so the palisade mesophyll occupies 25 ÷ 50 = 0.5 of the section, × 100 = 50 per cent, which is half. In a plan diagram it is drawn as an outlined band half as thick as the whole section, with no individual cells drawn.",
+   "marking_guidance": [
+    "2 marks: palisade mesophyll (1), the layer with the largest reading in the table; 50 per cent or half (1), from 25 ÷ 50 = 0.5, × 100 = 50 per cent, together with a plan diagram that shows it as an outlined band half the total thickness, with no cells drawn.",
+    "The table gives the total as 5 + 25 + 15 + 5 = 50 divisions, which means each layer is read as its share of 50. Spongy mesophyll earns no mark, because the spongy mesophyll is 15 ÷ 50 = 0.3, × 100 = 30 per cent. The reading is a ratio, so it holds for any calibration of the graticule."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.1-003": 1,
+    "CLM-8223-2.6.1-004": 1
+   },
+   "authored_hash": "c4bd9adef0e8f70de596cb662050c17a31e8a9d68daefbae0f2a2b0cbed4db39",
    "objective_titles": [
     "identify and label the various parts of the transverse sections of stems, roots and leaves of herbaceous dicotyledonous plants, using an eyepiece graticule to show correct proportions"
    ]

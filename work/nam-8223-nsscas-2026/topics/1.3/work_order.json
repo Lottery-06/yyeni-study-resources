@@ -166,25 +166,6 @@
    "reason": "instructs with Explain, which this objective carries"
   },
   {
-   "slot": "ITEM-8223-1.3-016-INTERP",
-   "objective_id": "OBJ-8223-1.3-02",
-   "objective_title": "explain the importance of reducing the pollution of water ways with reference to bioaccumulation and eutrophication",
-   "syllabus_text": "explain the importance of reducing the pollution of water ways with reference to bioaccumulation and eutrophication",
-   "subtype": "INTERP",
-   "assessment_objectives": [
-    "B"
-   ],
-   "command_word": "Describe",
-   "mark_tariff": 2,
-   "difficulty": 3,
-   "blooms_level": "Analyse",
-   "marking_guidance_must_name": [
-    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
-    "means|shows|gives|so|represents|indicates"
-   ],
-   "reason": "added to reach the framework B target of 50%"
-  },
-  {
    "slot": "ITEM-8223-1.3-005-FEATURE",
    "objective_id": "OBJ-8223-1.3-03",
    "objective_title": "outline the roles of zoos, botanic gardens, conserved areas (national parks and marine parks), 'frozen zoos' and seed banks, in the conservation of endangered species",
@@ -348,39 +329,38 @@
    "reason": "discriminates misconception MC-8223-1.3-01 (1 examiner statements): Choosing 'create more nature reserves' as the way to restore a habitat that is already degraded"
   },
   {
-   "slot": "ITEM-8223-1.3-013-PROC",
+   "slot": "ITEM-8223-1.3-013-DEF",
    "objective_id": "OBJ-8223-1.3-07",
    "objective_title": "investigate the negative impact of rhino and elephant poaching on the tourism sector locally (Namibia) and regionally (South Africa and Botswana)",
    "syllabus_text": "investigate the negative impact of rhino and elephant poaching on the tourism sector locally (Namibia) and regionally (South Africa and Botswana)",
-   "subtype": "PROC",
+   "subtype": "DEF",
    "assessment_objectives": [
     "A"
    ],
-   "command_word": "Describe",
-   "mark_tariff": 3,
+   "command_word": "State",
+   "mark_tariff": 1,
    "difficulty": 2,
-   "blooms_level": "Apply",
+   "blooms_level": "Remember",
    "marking_guidance_must_name": [
-    "order|sequence|first|then|step|steps|stage|stages|start",
-    "result|so|therefore|finally|end|product|outcome"
+    "definition|defined|means|meaning|term|key word|key words|statement"
    ],
-   "reason": "instructs with Describe, which this objective carries"
+   "reason": "instructs with State, the shape this subtype needs"
   },
   {
-   "slot": "ITEM-8223-1.3-014-WHY",
+   "slot": "ITEM-8223-1.3-014-MECH",
    "objective_id": "OBJ-8223-1.3-07",
    "objective_title": "investigate the negative impact of rhino and elephant poaching on the tourism sector locally (Namibia) and regionally (South Africa and Botswana)",
    "syllabus_text": "investigate the negative impact of rhino and elephant poaching on the tourism sector locally (Namibia) and regionally (South Africa and Botswana)",
-   "subtype": "WHY",
+   "subtype": "MECH",
    "assessment_objectives": [
-    "A"
+    "B"
    ],
    "command_word": "Explain",
    "mark_tariff": 2,
    "difficulty": 2,
    "blooms_level": "Understand",
    "marking_guidance_must_name": [
-    "reason|purpose|why|because|so that|need|needed"
+    "how|because|so that|which|then|causes|cause|leads|results"
    ],
    "reason": "instructs with Explain, which this objective carries"
   }
@@ -409,14 +389,14 @@
    "objective_ids": "choose 2-4 objectives from this topic that the task genuinely exercises"
   }
  ],
- "planned_item_count": 18,
+ "planned_item_count": 17,
  "planned_ao_mix_by_item_count": {
   "A": {
-   "planned_share_percent": 62,
+   "planned_share_percent": 60,
    "target_percent": 40
   },
   "B": {
-   "planned_share_percent": 38,
+   "planned_share_percent": 40,
    "target_percent": 40
   },
   "C": {
@@ -426,20 +406,20 @@
  },
  "planned_blooms_mix": {
   "Remember": {
-   "items": 7,
-   "share_percent": 39
+   "items": 8,
+   "share_percent": 47
   },
   "Understand": {
    "items": 7,
-   "share_percent": 39
+   "share_percent": 41
   },
   "Apply": {
-   "items": 3,
-   "share_percent": 17
+   "items": 2,
+   "share_percent": 12
   },
   "Analyse": {
-   "items": 1,
-   "share_percent": 6
+   "items": 0,
+   "share_percent": 0
   },
   "Evaluate": {
    "items": 0,
@@ -452,11 +432,11 @@
  },
  "planned_ao_mix_by_marks": {
   "A": {
-   "planned_share_percent": 53,
+   "planned_share_percent": 49,
    "syllabus_weight_percent": 40
   },
   "B": {
-   "planned_share_percent": 47,
+   "planned_share_percent": 51,
    "syllabus_weight_percent": 40
   },
   "C": {
@@ -464,8 +444,8 @@
    "syllabus_weight_percent": 20
   }
  },
- "marks_equivalent_total": 47,
- "ao_mix_note": "The syllabus states its AO weights as a share of MARKS, so planned_ao_mix_by_marks is the one that answers \"does this resource match the exam\". It values each card at the tariff of the question it models, split across the AOs the card declares, and values each performance task at the marks of the paper part it models. The count-based mix below is reported only because it is what a reader expects to see; do not balance against it. AO shares by ITEM COUNT: Every objective needs one recall anchor, so AO1 has a structural floor of about 44% in this topic (7 objectives against 16 slots) and cannot reach the None% target by count however many other cards are added - padding the bank to chase it makes the resource worse. The framework already measures the AO4 share in practice time rather than by count for the same reason. Treat AO1 above target as expected, and AO2/AO3/AO4 below target as the thing worth fixing.",
+ "marks_equivalent_total": 43,
+ "ao_mix_note": "The syllabus states its AO weights as a share of MARKS, so planned_ao_mix_by_marks is the one that answers \"does this resource match the exam\". It values each card at the tariff of the question it models, split across the AOs the card declares, and values each performance task at the marks of the paper part it models. The count-based mix below is reported only because it is what a reader expects to see; do not balance against it. AO shares by ITEM COUNT: Every objective needs one recall anchor, so AO1 has a structural floor of about 47% in this topic (7 objectives against 15 slots) and cannot reach the None% target by count however many other cards are added - padding the bank to chase it makes the resource worse. The framework already measures the AO4 share in practice time rather than by count for the same reason. Treat AO1 above target as expected, and AO2/AO3/AO4 below target as the thing worth fixing.",
  "excluded_constructs": [
   {
    "construct": "species concepts other than the biological, morphological, ecological and behavioural concepts",

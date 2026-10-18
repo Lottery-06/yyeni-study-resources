@@ -17,7 +17,7 @@ Read these before writing anything:
 Everything is derived already. `curriculum/syllabus-facts.json` records where each assessment value came from. Do not re-derive, do not re-read the syllabus PDF, and do not open any other subject's workspace.
 
 ## The job
-**32 topics, 772 items, 66,880–95,700 words of notes.** Work topic by topic (see the plan's topic table). For each topic `<T>` read `work/nam-8223-nsscas-2026/topics/<T>/contract.json` and `topics/<T>/work_order.json` (every slot pre-decided; `work_order.md` is the same plan as a table), then produce in `topics/<T>/`:
+**32 topics, 773 items, 66,880–95,700 words of notes.** Work topic by topic (see the plan's topic table). For each topic `<T>` read `work/nam-8223-nsscas-2026/topics/<T>/contract.json` and `topics/<T>/work_order.json` (every slot pre-decided; `work_order.md` is the same plan as a table), then produce in `topics/<T>/`:
 1. `claims/canonical_claim_ledger.json`: every statement the topic teaches, each mapped to the objectives it serves; 2–4 claims per objective.
 2. `content-units/CU-8223-<T>.json`: prose blocks that cite the claims they rest on.
 3. `learning-items/topic_<T>_items.json`: one item per slot.

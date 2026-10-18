@@ -217,7 +217,7 @@
    "block_id": "3.2.2-b11",
    "block_type": "worked_application",
    "heading": "HbA and HbS: from a base to an amino acid",
-   "text": "Haemoglobin contains four polypeptides, two alpha and two beta. The gene for the beta-globin polypeptide has two alleles of interest here, HbA (normal) and HbS (sickle cell). They differ by the substitution of one base pair.\n\nTake a short stretch from the middle of the gene. In the HbA allele the template strand reads TGA GGA CTC CTC TTC. The mRNA is therefore ACU CCU GAG GAG AAG. The tRNA anticodons that pair with these codons are UGA GGA CUC CUC UUC, each matching the template triplet except that U replaces T. The codons code for Thr, Pro, Glu, Glu and Lys, so this stretch of the polypeptide is Thr-Pro-Glu-Glu-Lys.\n\nIn the HbS allele the third template triplet is CAC in place of CTC, so a T-A base pair has been replaced by an A-T base pair. The mRNA codon changes from GAG to GUG, the anticodon pairing with it is CAC, and the amino acid carried is valine, not glutamic acid. The stretch becomes Thr-Pro-Val-Glu-Lys. In the real polypeptide the changed amino acid is the sixth from the start of the chain, which is the third amino acid in this short stretch.\n\nThis one amino acid change matters because haemoglobin is a protein. The valine in HbS makes the haemoglobin molecules tend to stick together into long fibres when the oxygen concentration is low. The fibres distort the red blood cell into a sickle shape. The disease sickle cell anaemia is covered in 2.8.1; here the point is the chain of events from one base pair to one amino acid.",
+   "text": "Haemoglobin contains four polypeptides, two alpha and two beta. The gene for the beta-globin polypeptide has two alleles of interest here, HbA (normal) and HbS (sickle cell). They differ by the substitution of one base pair.\n\nTake a short stretch from the middle of the gene. In the HbA allele the template strand reads 3′-TGA GGA CTC CTC TTC-5′. The template strand is read 3′ to 5′, the mRNA is made 5′ to 3′ and codons are read 5′ to 3′. The mRNA is therefore 5′-ACU CCU GAG GAG AAG-3′. The tRNA anticodons that pair with these codons, written 3′ to 5′ under the codons they pair with, are UGA GGA CUC CUC UUC, each matching the template triplet except that U replaces T. The codons code for Thr, Pro, Glu, Glu and Lys, so this stretch of the polypeptide is Thr-Pro-Glu-Glu-Lys. Residues are numbered from the first amino acid of the mature chain, because the initiator methionine is removed; this stretch is residues 4 to 8.\n\nIn the HbS allele the template strand reads 3′-TGA GGA CAC CTC TTC-5′, so the third template triplet is CAC in place of CTC, so a T-A base pair has been replaced by an A-T base pair. The mRNA codon changes from GAG to GUG, the anticodon pairing with it is CAC, and the amino acid carried is valine, not glutamic acid. The stretch becomes Thr-Pro-Val-Glu-Lys. The changed amino acid is residue 6 of the chain (Glu6Val), which is the third amino acid in this short stretch. Counting the methionine would make it residue 7.\n\nThis one amino acid change matters because haemoglobin is a protein. The valine in HbS makes the haemoglobin molecules tend to stick together into long fibres when the oxygen concentration is low. The fibres distort the red blood cell into a sickle shape. The disease sickle cell anaemia is covered in 2.8.1; here the point is the chain of events from one base pair to one amino acid.",
    "claim_ids": [
     "CLM-8223-3.2.2-015",
     "CLM-8223-3.2.2-016",
@@ -230,12 +230,13 @@
     "B"
    ],
    "claims_seen": {
-    "CLM-8223-3.2.2-015": 1,
-    "CLM-8223-3.2.2-016": 1,
+    "CLM-8223-3.2.2-015": 2,
+    "CLM-8223-3.2.2-016": 2,
     "CLM-8223-3.2.2-017": 1,
     "CLM-8223-3.2.2-009": 1
    },
-   "authored_hash": "dd720bf9a0698f5a717d9e3f15cf875382b91d8b63efaeb441c464f29c9a83dd"
+   "authored_hash": "6400a43e81eabe81d4fb5488a5ec76d003a1df16adf0500942ae10676f649a4f",
+   "prior_hash": "dd720bf9a0698f5a717d9e3f15cf875382b91d8b63efaeb441c464f29c9a83dd"
   },
   {
    "block_id": "3.2.2-b12",

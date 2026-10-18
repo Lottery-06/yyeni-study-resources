@@ -1,537 +1,619 @@
 {
- "dataset_id": "ITEMS-8223-2.6.1",
- "topic_id": "2.6.1",
- "items": [
-  {
-   "item_id": "ITEM-8223-2.6.1-001-INTERP",
-   "objective_ids": [
-    "OBJ-8223-2.6.1-01"
-   ],
-   "claim_ids": [
-    "CLM-8223-2.6.1-001"
-   ],
-   "item_type": "flashcard",
-   "subtype": "INTERP",
-   "assessment_objectives": [
-    "B"
-   ],
-   "blooms_level": "Analyse",
-   "command_word": "Identify",
-   "mark_tariff": 2,
-   "difficulty": 2,
-   "prompt": "A transverse section of a herbaceous dicotyledonous plant organ is described. The outer layer is a single row of flat cells. Beneath it is a band of rounded cells. Further in, separate vascular bundles form a ring, each with large thick-walled empty cells towards the centre and smaller cells towards the outside. The centre of the section is filled with large thin-walled cells and has no vascular tissue. Identify the organ, and identify the tissue that fills the centre.",
-   "canonical_answer": "The organ is a stem. The tissue at the centre is pith.",
-   "marking_guidance": [
-    "2 marks: stem (1), read from the diagram as described, where the vascular bundles lie in a ring; pith (1), the large thin-walled cells at the centre.",
-    "The ring of separate bundles around a centre of thin-walled cells shows a stem; a root has xylem at its centre instead. Cortex earns no mark, because the cortex lies between the epidermis and the ring of bundles."
-   ],
-   "context": {
-    "sector": null,
-    "business_size": null,
-    "ownership": null,
-    "situation": null,
-    "facts": []
-   },
-   "prerequisite_item_ids": [],
-   "core_status": "core",
-   "intentional_duplicate_group": null,
-   "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
-   "qa_status": "review_required",
-   "claims_seen": {
-    "CLM-8223-2.6.1-001": 1
-   },
-   "authored_hash": "59eb0c671741b83967410a0a32fdce1662439fdc58cf705f6a723735fec341d7"
-  },
-  {
-   "item_id": "ITEM-8223-2.6.1-002-INTERP",
-   "objective_ids": [
-    "OBJ-8223-2.6.1-01"
-   ],
-   "claim_ids": [
-    "CLM-8223-2.6.1-002"
-   ],
-   "item_type": "flashcard",
-   "subtype": "INTERP",
-   "assessment_objectives": [
-    "B"
-   ],
-   "blooms_level": "Analyse",
-   "command_word": "Identify",
-   "mark_tariff": 2,
-   "difficulty": 2,
-   "prompt": "A transverse section of a herbaceous dicotyledonous plant organ is described. A single outer layer has some cells with long thin extensions. Inside it is a wide band of rounded cells, then a ring of tightly joined cells. At the centre is a star-shaped mass of large thick-walled empty cells, with small groups of cells in the gaps between its arms. There is no tissue of thin-walled cells at the centre. Identify the organ, and identify the tissue that forms the star-shaped mass.",
-   "canonical_answer": "The organ is a root. The star-shaped mass is xylem.",
-   "marking_guidance": [
-    "2 marks: root (1), because the section shows a star-shaped central mass and no pith, and the outer cells have root hair extensions; xylem (1), the large thick-walled empty cells.",
-    "The diagram shows a central star, which means the vessels of the xylem fill the middle of the root. Phloem earns no mark, because the phloem is the small groups of cells in the gaps between the arms."
-   ],
-   "context": {
-    "sector": null,
-    "business_size": null,
-    "ownership": null,
-    "situation": null,
-    "facts": []
-   },
-   "prerequisite_item_ids": [],
-   "core_status": "core",
-   "intentional_duplicate_group": null,
-   "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
-   "qa_status": "review_required",
-   "claims_seen": {
-    "CLM-8223-2.6.1-002": 1
-   },
-   "authored_hash": "574db8c6add5cc0d0aef3a292371554adf94e8adb88df15c5a35df3b87c75878"
-  },
-  {
-   "item_id": "ITEM-8223-2.6.1-010-DEF",
-   "objective_ids": [
-    "OBJ-8223-2.6.1-01"
-   ],
-   "claim_ids": [
-    "CLM-8223-2.6.1-004"
-   ],
-   "item_type": "flashcard",
-   "subtype": "DEF",
-   "assessment_objectives": [
-    "A"
-   ],
-   "blooms_level": "Remember",
-   "command_word": "State",
-   "mark_tariff": 1,
-   "difficulty": 3,
-   "prompt": "State what is meant by an eyepiece graticule.",
-   "canonical_answer": "An eyepiece graticule is a small transparent scale in the eyepiece of a microscope, whose divisions are calibrated against a stage micrometer so that lengths in the specimen can be read in graticule divisions.",
-   "marking_guidance": [
-    "1 mark: the key words, a scale in the eyepiece that is calibrated. The definition must say that the divisions have no fixed size until they are calibrated, because a scale that is not calibrated does not give a length; a stage micrometer is the scale on the slide used to calibrate it."
-   ],
-   "context": {
-    "sector": null,
-    "business_size": null,
-    "ownership": null,
-    "situation": null,
-    "facts": []
-   },
-   "prerequisite_item_ids": [],
-   "core_status": "core",
-   "intentional_duplicate_group": null,
-   "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
-   "qa_status": "review_required",
-   "claims_seen": {
-    "CLM-8223-2.6.1-004": 1
-   },
-   "authored_hash": "f061814293f2bcf49a98d4768662af3cf6ca52df02e7996b89e492d1fb674a36"
-  },
-  {
-   "item_id": "ITEM-8223-2.6.1-003-FEATURE",
-   "objective_ids": [
-    "OBJ-8223-2.6.1-02"
-   ],
-   "claim_ids": [
-    "CLM-8223-2.6.1-005"
-   ],
-   "item_type": "flashcard",
-   "subtype": "FEATURE",
-   "assessment_objectives": [
-    "A"
-   ],
-   "blooms_level": "Remember",
-   "command_word": "State",
-   "mark_tariff": 1,
-   "difficulty": 2,
-   "prompt": "State the name of the substance that thickens the side walls of xylem vessel elements.",
-   "canonical_answer": "Lignin.",
-   "marking_guidance": [
-    "1 mark: lignin. This is the key feature of the wall of the vessel element, a structure that the answer must name as a substance; cellulose earns no mark, because cellulose makes the thin wall of a sieve tube element."
-   ],
-   "context": {
-    "sector": null,
-    "business_size": null,
-    "ownership": null,
-    "situation": null,
-    "facts": []
-   },
-   "prerequisite_item_ids": [],
-   "core_status": "core",
-   "intentional_duplicate_group": null,
-   "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
-   "qa_status": "review_required",
-   "claims_seen": {
-    "CLM-8223-2.6.1-005": 1
-   },
-   "authored_hash": "b3001a18b6b77cdf08747815ddc63caa8751ae89f5ed66688ec7b780fde91428"
-  },
-  {
-   "item_id": "ITEM-8223-2.6.1-004-MECH",
-   "objective_ids": [
-    "OBJ-8223-2.6.1-02"
-   ],
-   "claim_ids": [
-    "CLM-8223-2.6.1-006",
-    "CLM-8223-2.6.1-007"
-   ],
-   "item_type": "flashcard",
-   "subtype": "MECH",
-   "assessment_objectives": [
-    "B"
-   ],
-   "blooms_level": "Understand",
-   "command_word": "Describe",
-   "mark_tariff": 2,
-   "difficulty": 2,
-   "prompt": "Describe how sieve tube elements are joined to one another, and how each sieve tube element is linked to its companion cell.",
-   "canonical_answer": "Sieve tube elements are joined end to end, and their end walls are perforated with pores to form sieve plates, which makes the cytoplasm continuous from one element to the next. Each sieve tube element is linked to its companion cell by plasmodesmata, narrow channels of cytoplasm through the wall between them.",
-   "marking_guidance": [
-    "2 marks: end to end, with the end walls perforated as sieve plates, which makes the cytoplasm continuous (1); plasmodesmata through the wall between the sieve tube element and its companion cell (1).",
-    "Pits are not the same as plasmodesmata; pits are thin areas in the walls of xylem and earn no mark."
-   ],
-   "context": {
-    "sector": null,
-    "business_size": null,
-    "ownership": null,
-    "situation": null,
-    "facts": []
-   },
-   "prerequisite_item_ids": [],
-   "core_status": "core",
-   "intentional_duplicate_group": null,
-   "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
-   "qa_status": "review_required",
-   "claims_seen": {
-    "CLM-8223-2.6.1-006": 1,
-    "CLM-8223-2.6.1-007": 1
-   },
-   "authored_hash": "361d2e40039539f4eb44609b55eb5eb7f6975508349765019f2118715e24c725"
-  },
-  {
-   "item_id": "ITEM-8223-2.6.1-005-FEATURE",
-   "objective_ids": [
-    "OBJ-8223-2.6.1-03"
-   ],
-   "claim_ids": [
-    "CLM-8223-2.6.1-007",
-    "CLM-8223-2.6.1-009"
-   ],
-   "item_type": "flashcard",
-   "subtype": "FEATURE",
-   "assessment_objectives": [
-    "A"
-   ],
-   "blooms_level": "Remember",
-   "command_word": "Describe",
-   "mark_tariff": 2,
-   "difficulty": 2,
-   "prompt": "Describe two features of a companion cell that suit it to its function of supporting a sieve tube element.",
-   "canonical_answer": "A companion cell has a nucleus and dense cytoplasm, so it can control the activities of the pair and make proteins. It also has many mitochondria, which make the ATP needed to load sucrose into the sieve tube element.",
-   "marking_guidance": [
-    "2 marks, one for each feature with its purpose: nucleus (and dense cytoplasm), which controls the cell and makes proteins for the pair of cells; many mitochondria, which supply the ATP for loading sucrose into the sieve tube.",
-    "The features must belong to the companion cell. A wide lumen and sieve plates are features of the sieve tube element and earn no mark."
-   ],
-   "context": {
-    "sector": null,
-    "business_size": null,
-    "ownership": null,
-    "situation": null,
-    "facts": []
-   },
-   "prerequisite_item_ids": [],
-   "core_status": "core",
-   "intentional_duplicate_group": null,
-   "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
-   "qa_status": "review_required",
-   "claims_seen": {
-    "CLM-8223-2.6.1-007": 1,
-    "CLM-8223-2.6.1-009": 1
-   },
-   "authored_hash": "aac5594e94f6881e26f804100430716b7b6b6452f0729fa0806ea6eb0516e38e"
-  },
-  {
-   "item_id": "ITEM-8223-2.6.1-006-MECH",
-   "objective_ids": [
-    "OBJ-8223-2.6.1-03"
-   ],
-   "claim_ids": [
-    "CLM-8223-2.6.1-005",
-    "CLM-8223-2.6.1-008"
-   ],
-   "item_type": "flashcard",
-   "subtype": "MECH",
-   "assessment_objectives": [
-    "B"
-   ],
-   "blooms_level": "Understand",
-   "command_word": "Explain",
-   "mark_tariff": 2,
-   "difficulty": 2,
-   "prompt": "A mature xylem vessel element has no cytoplasm and no end wall. Explain how these two features help the vessel to carry water up a plant.",
-   "canonical_answer": "With no cytoplasm, the lumen is empty, and with no end wall, the element is joined to the next to form one continuous tube. Together these mean that nothing blocks the flow of water, so the resistance to its movement up the plant is low.",
-   "marking_guidance": [
-    "2 marks: no cytoplasm leaves an empty lumen, so there is nothing to slow the flow (1); no end walls, so the vessel elements form a continuous tube, which means a low resistance to flow along it (1).",
-    "The reason must be the cause of the low resistance; the words more space on their own earn no mark."
-   ],
-   "context": {
-    "sector": null,
-    "business_size": null,
-    "ownership": null,
-    "situation": null,
-    "facts": []
-   },
-   "prerequisite_item_ids": [],
-   "core_status": "core",
-   "intentional_duplicate_group": null,
-   "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
-   "qa_status": "review_required",
-   "claims_seen": {
-    "CLM-8223-2.6.1-005": 1,
-    "CLM-8223-2.6.1-008": 1
-   },
-   "authored_hash": "b4cacc4d88d88cb982b7a2411fbd02cd880291e9beb45d00fb37ec9c29b1201e"
-  },
-  {
-   "item_id": "ITEM-8223-2.6.1-009-MISCON",
-   "objective_ids": [
-    "OBJ-8223-2.6.1-03"
-   ],
-   "claim_ids": [
-    "CLM-8223-2.6.1-010"
-   ],
-   "item_type": "flashcard",
-   "subtype": "MISCON",
-   "assessment_objectives": [
-    "A"
-   ],
-   "blooms_level": "Understand",
-   "command_word": "Explain",
-   "mark_tariff": 2,
-   "difficulty": 3,
-   "prompt": "A learner writes: Xylem vessels are made of lignin, and they have more space for the water to flow. Explain the error in this statement.",
-   "canonical_answer": "The error is to treat lignin as the material of the whole vessel and to give space as the reason without saying where the space comes from. In fact lignin is a substance in the walls of the vessel elements, which strengthens them. The space is the empty lumen, which exists because the cells are dead and have lost their cytoplasm and organelles, so that water meets little resistance. The test is to ask whether lignin is in the walls or the contents, and what the empty lumen does for the flow: lignin is in the walls, and the empty lumen lowers resistance.",
-   "marking_guidance": [
-    "2 marks: the error named, that lignin is in the walls and does not make up the vessel, and is not the contents (1); the correct idea, that the empty lumen of the dead cell, with no cytoplasm or organelles, gives a low resistance to flow (1).",
-    "The card is a discrimination between wall and contents. A repeat of the definition of xylem earns no mark; the test, wall or contents, is what separates the two ideas."
-   ],
-   "context": {
-    "sector": null,
-    "business_size": null,
-    "ownership": null,
-    "situation": null,
-    "facts": []
-   },
-   "prerequisite_item_ids": [],
-   "core_status": "core",
-   "intentional_duplicate_group": null,
-   "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
-   "qa_status": "review_required",
-   "claims_seen": {
-    "CLM-8223-2.6.1-010": 1
-   },
-   "authored_hash": "b8192bff706f1244ff623cf5276990bb819eb3b752ea6e4401915d2e85ea489d"
-  },
-  {
-   "item_id": "ITEM-8223-2.6.1-007-FEATURE",
-   "objective_ids": [
-    "OBJ-8223-2.6.1-04"
-   ],
-   "claim_ids": [
-    "CLM-8223-2.6.1-011"
-   ],
-   "item_type": "flashcard",
-   "subtype": "FEATURE",
-   "assessment_objectives": [
-    "A"
-   ],
-   "blooms_level": "Remember",
-   "command_word": "State",
-   "mark_tariff": 1,
-   "difficulty": 2,
-   "prompt": "State one feature that identifies a sieve plate when phloem is seen in longitudinal section under a light microscope.",
-   "canonical_answer": "A sieve plate is a cross wall between two sieve tube elements that is perforated by pores.",
-   "marking_guidance": [
-    "1 mark: a cross wall across the sieve tube, with pores (or a perforated look). This is a feature of the structure as seen between two elements; a thick lignified wall with rings describes xylem and earns no mark."
-   ],
-   "context": {
-    "sector": null,
-    "business_size": null,
-    "ownership": null,
-    "situation": null,
-    "facts": []
-   },
-   "prerequisite_item_ids": [],
-   "core_status": "core",
-   "intentional_duplicate_group": null,
-   "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
-   "qa_status": "review_required",
-   "claims_seen": {
-    "CLM-8223-2.6.1-011": 1
-   },
-   "authored_hash": "e5e3ac464775da56a3768bd70b721610d29fd489427581da2da0ca7a2b53e0ac"
-  },
-  {
-   "item_id": "ITEM-8223-2.6.1-008-APP",
-   "objective_ids": [
-    "OBJ-8223-2.6.1-04"
-   ],
-   "claim_ids": [
-    "CLM-8223-2.6.1-005",
-    "CLM-8223-2.6.1-006",
-    "CLM-8223-2.6.1-007",
-    "CLM-8223-2.6.1-011"
-   ],
-   "item_type": "flashcard",
-   "subtype": "APP",
-   "assessment_objectives": [
-    "B"
-   ],
-   "blooms_level": "Apply",
-   "command_word": "Identify",
-   "mark_tariff": 2,
-   "difficulty": 2,
-   "prompt": "A learner examines a prepared slide of a plant stem in longitudinal section. Cell P is a long tube with thick walls marked by rings of stained material and nothing inside it. Cell Q is a long thin-walled cell with a cross wall perforated by pores and only a thin lining of cytoplasm. Identify cell P and identify cell Q, using the information given.",
-   "canonical_answer": "Cell P is a xylem vessel element, because it has thick walls with rings of lignin and an empty lumen. Cell Q is a sieve tube element, because its cross wall with pores is a sieve plate and it is a living cell with only a thin lining of cytoplasm.",
-   "marking_guidance": [
-    "2 marks: P is a xylem vessel element, with a reason taken from the specimen as described, rings in the wall and an empty lumen (1); Q is a sieve tube element, because of the perforated cross wall (1).",
-    "Both marks need the reason from the information given. A cell named without a reason earns no mark, since the slide gives the evidence."
-   ],
-   "context": {
-    "sector": null,
-    "business_size": null,
-    "ownership": null,
-    "situation": null,
-    "facts": []
-   },
-   "prerequisite_item_ids": [],
-   "core_status": "core",
-   "intentional_duplicate_group": null,
-   "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
-   "qa_status": "review_required",
-   "claims_seen": {
-    "CLM-8223-2.6.1-005": 1,
-    "CLM-8223-2.6.1-006": 1,
-    "CLM-8223-2.6.1-007": 1,
-    "CLM-8223-2.6.1-011": 1
-   },
-   "authored_hash": "ff1d5ac9144469407931f7a00b61496d4ad932afbc1ae5d4d8f67287df7724d6"
-  },
-  {
-   "item_id": "ITEM-8223-2.6.1-P01",
-   "objective_ids": [
-    "OBJ-8223-2.6.1-01",
-    "OBJ-8223-2.6.1-02",
-    "OBJ-8223-2.6.1-03",
-    "OBJ-8223-2.6.1-04"
-   ],
-   "claim_ids": [
-    "CLM-8223-2.6.1-001",
-    "CLM-8223-2.6.1-002",
-    "CLM-8223-2.6.1-003",
-    "CLM-8223-2.6.1-004",
-    "CLM-8223-2.6.1-005",
-    "CLM-8223-2.6.1-006",
-    "CLM-8223-2.6.1-007",
-    "CLM-8223-2.6.1-008",
-    "CLM-8223-2.6.1-009",
-    "CLM-8223-2.6.1-010",
-    "CLM-8223-2.6.1-011",
-    "CLM-8223-2.6.1-012"
-   ],
-   "item_type": "multiple_choice_set",
-   "subtype": null,
-   "assessment_objectives": [
-    "A",
-    "B"
-   ],
-   "blooms_level": "Apply",
-   "command_word": null,
-   "mark_tariff": 12,
-   "difficulty": 3,
-   "prompt": "Twelve questions. Choose one option for each.\n\n1. In a transverse section of a herbaceous dicotyledonous root, which tissue lies at the centre?\nA  pith\nB  xylem\nC  phloem\nD  cortex\n\n2. In a vascular bundle of a herbaceous dicotyledonous stem, where is the phloem?\nA  towards the outside of the bundle, with the xylem towards the centre of the stem\nB  towards the centre of the stem, with the xylem on the outside of the bundle\nC  in the middle of the bundle with the xylem on both sides\nD  in a separate ring outside the ring of bundles\n\n3. Which tissue of a leaf is a layer of tall, tightly packed cells rich in chloroplasts beneath the upper epidermis?\nA  spongy mesophyll\nB  lower epidermis\nC  palisade mesophyll\nD  phloem\n\n4. Forty eyepiece graticule divisions match 0.2 mm on a stage micrometer. What length does one graticule division represent?\nA  2 µm\nB  5 µm\nC  8 µm\nD  50 µm\n\n5. At a calibration of 5 µm per division, a tissue measures 24 graticule divisions across. What is its width?\nA  4.8 µm\nB  29 µm\nC  120 µm\nD  1200 µm\n\n6. Which statement about a mature xylem vessel element is correct?\nA  It has thin cellulose walls and a nucleus.\nB  It has walls thickened with lignin and no living contents.\nC  It has perforated end walls forming sieve plates.\nD  It has a thin lining of cytoplasm and many mitochondria.\n\n7. What is the function of the pits in the walls of a xylem vessel element?\nA  to let water pass sideways to neighbouring vessels\nB  to let sucrose pass into the vessel\nC  to make the wall waterproof\nD  to support the vessel against collapse\n\n8. Which feature is found in a mature sieve tube element?\nA  a large nucleus\nB  walls thickened with lignin\nC  end walls perforated by pores\nD  no cytoplasm at all\n\n9. Which structures link a companion cell to its sieve tube element?\nA  sieve plates\nB  plasmodesmata\nC  pits in lignified walls\nD  cell surface membranes that are fused\n\n10. Why does a companion cell contain many mitochondria?\nA  to make lignin for the wall\nB  to carry out photosynthesis\nC  to supply the ATP needed to load sucrose into the sieve tube\nD  to store the sucrose for the sieve tube\n\n11. A slide in longitudinal section shows long tubes with empty lumens and thick walls marked with spirals. Which tissue is this?\nA  phloem\nB  xylem\nC  palisade mesophyll\nD  pith\n\n12. Which statement about lignin in the xylem is correct?\nA  It fills the lumen of the vessel elements.\nB  It is in the walls of the vessel elements and strengthens them against collapse.\nC  It forms the sieve plates.\nD  It makes up the cytoplasm of the companion cell.",
-   "canonical_answer": "Key: 1 B, 2 A, 3 C, 4 B, 5 C, 6 B, 7 A, 8 C, 9 B, 10 C, 11 B, 12 B.\n1. The xylem forms a star shape at the centre of a root (B). A is the tissue at the centre of a stem, which a root does not have; C lies in groups between the arms of the star; D is the wide band outside the endodermis.\n2. The phloem lies on the outer side, with the xylem on the inner side facing the pith (A). B reverses the positions; C invents a bundle with xylem on both sides; D confuses the bundles with the layers of the stem.\n3. The palisade mesophyll is the tightly packed layer below the upper epidermis (C). A is the loosely packed layer with air spaces below it; B is the lower surface layer with the stomata; D is in the vascular bundle and has few chloroplasts.\n4. 0.2 ÷ 40 = 0.005 mm, which is 5 µm per division (B). A comes from a slip with the place value of the answer; C comes from multiplying 0.2 × 40 = 8 instead of dividing, with the unit left unchecked; D comes from a slip of a factor of ten in the conversion to micrometres.\n5. 24 × 5 = 120 µm (C). A divides 24 ÷ 5 = 4.8, using the wrong operation; B adds the two numbers; D has a slip of a factor of ten.\n6. The mature vessel element has lignified walls and an empty lumen (B). A describes a thin-walled living cell; C is a feature of the sieve tube element; D belongs to a companion cell or sieve tube element.\n7. Pits are thin areas of wall where water can move sideways (A). B gives the phloem's job to the xylem; C and D describe the job of lignin, which is the thickening and not the thin areas.\n8. The end walls form sieve plates with pores (C). A is not found in a mature sieve tube element, which has no nucleus; B is a xylem feature; D describes the xylem vessel element, whereas the sieve tube element is a living cell with a thin lining of cytoplasm.\n9. Plasmodesmata are channels of cytoplasm through the wall (B). A joins one sieve tube element to the next; C is a feature of xylem; D is wrong because the two membranes stay separate.\n10. The mitochondria make ATP for the loading of sucrose (C). A gives the companion cell the job of the xylem wall; B gives it the job of the mesophyll; D confuses a store with an energy supply.\n11. Empty lumens and thick spiral walls identify xylem (B). A has cross walls with pores; C has tall chloroplast-rich cells; D has large thin-walled cells with no spiral thickening.\n12. Lignin is in the walls and strengthens them (B). A is the error that this is the material of the whole vessel, and the lumen is empty (the misconception register entry for this topic); C gives it to the phloem; D confuses the wall with the contents of a cell.",
-   "marking_guidance": [
-    "The key: one mark for each correct option, twelve marks in all; about half the questions test recall and half test application to a description, a calibration or a slide.",
-    "Each distractor is a named error: the tissue of a stem placed in a root, the xylem and phloem positions reversed, features of one cell given to another, lignin treated as the contents, a calculation done with the wrong operation (the misconception register first)."
-   ],
-   "context": {
-    "sector": null,
-    "business_size": null,
-    "ownership": null,
-    "situation": null,
-    "facts": []
-   },
-   "prerequisite_item_ids": [],
-   "core_status": "core",
-   "intentional_duplicate_group": null,
-   "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
-   "qa_status": "review_required",
-   "claims_seen": {
-    "CLM-8223-2.6.1-001": 1,
-    "CLM-8223-2.6.1-002": 1,
-    "CLM-8223-2.6.1-003": 1,
-    "CLM-8223-2.6.1-004": 1,
-    "CLM-8223-2.6.1-005": 1,
-    "CLM-8223-2.6.1-006": 1,
-    "CLM-8223-2.6.1-007": 1,
-    "CLM-8223-2.6.1-008": 1,
-    "CLM-8223-2.6.1-009": 1,
-    "CLM-8223-2.6.1-010": 1,
-    "CLM-8223-2.6.1-011": 1,
-    "CLM-8223-2.6.1-012": 1
-   },
-   "authored_hash": "3837c3ee19a245529d4783a03630611b659497850cc4106cde06d54c7c1b813a"
-  },
-  {
-   "item_id": "ITEM-8223-2.6.1-P02",
-   "objective_ids": [
-    "OBJ-8223-2.6.1-01",
-    "OBJ-8223-2.6.1-02",
-    "OBJ-8223-2.6.1-03",
-    "OBJ-8223-2.6.1-04"
-   ],
-   "claim_ids": [
-    "CLM-8223-2.6.1-003",
-    "CLM-8223-2.6.1-004",
-    "CLM-8223-2.6.1-005",
-    "CLM-8223-2.6.1-006",
-    "CLM-8223-2.6.1-007",
-    "CLM-8223-2.6.1-009",
-    "CLM-8223-2.6.1-011"
-   ],
-   "item_type": "short_answer",
-   "subtype": null,
-   "assessment_objectives": [
-    "A",
-    "B"
-   ],
-   "blooms_level": "Apply",
-   "command_word": "Calculate",
-   "mark_tariff": 8,
-   "difficulty": 3,
-   "prompt": "A learner in Rundu cuts a transverse section of a bean stem and views it with an eyepiece graticule. The graticule is calibrated at the objective used: 25 graticule divisions match 0.2 mm on a stage micrometer. These are our readings.\n\n| Tissue | Width across the section (graticule divisions) |\n|---|---|\n| Cortex | 30 |\n| Vascular bundle (outer edge of phloem to inner edge of xylem) | 15 |\n| Pith | 22 |\n\n(a) Calculate the width of the vascular bundle in µm. [2]\n(b) State where the phloem lies within a vascular bundle in the stem. [1]\n(c) Compare the structure of a xylem vessel element with that of a sieve tube element. [2]\n(d) Explain why a mature sieve tube element depends on its companion cell. [2]\n(e) Suggest why sieve plates are seen more easily in a longitudinal section than in a transverse section. [1]",
-   "canonical_answer": "(a) 0.2 ÷ 25 = 0.008 mm per division, which is 8 µm; 15 × 8 = 120 µm.\n(b) Towards the outside of the bundle, with the xylem on the inner side towards the pith.\n(c) A xylem vessel element has walls thickened with lignin, no living contents and no end walls, whereas a sieve tube element has thin cellulose walls, a thin lining of living cytoplasm and end walls perforated as sieve plates.\n(d) A mature sieve tube element has no nucleus and few organelles, so it cannot control its own activities or make its own ATP. The companion cell has a nucleus and many mitochondria, so it supplies what the sieve tube element lacks, and the two are linked by plasmodesmata.\n(e) In a longitudinal section the end walls lie across the tube and can be seen side-on as cross walls with pores, whereas a transverse section shows the tube end-on, with a sieve plate seen only if the cut happens to pass through one.",
-   "marking_guidance": [
-    "Marks and points: (a) 1 mark for the calibration, 0.2 ÷ 25 = 0.008 mm, which is 8 µm, and 1 mark for 15 × 8 = 120 µm with its unit; (b) 1 mark for towards the outside of the bundle; (c) 2 marks from three points of difference: lignified wall against cellulose wall, empty against a thin lining of cytoplasm, no end walls against sieve plates, each stated for both cells.",
-    "(d) 2 marks from three points: no nucleus and few organelles in the sieve tube element, because it cannot control itself or make ATP; the companion cell supplies this, with its nucleus and mitochondria; plasmodesmata link them. (e) 1 mark: the end walls are seen side-on in longitudinal section. Parts (b) and (c) credit AO A (3 marks); parts (a), (d) and (e) credit AO B (5 marks). The reason must use the structures named; a unit is needed in (a), and the key terms must be used."
-   ],
-   "context": {
-    "sector": null,
-    "business_size": null,
-    "ownership": null,
-    "situation": null,
-    "facts": []
-   },
-   "prerequisite_item_ids": [],
-   "core_status": "core",
-   "intentional_duplicate_group": null,
-   "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
-   "qa_status": "review_required",
-   "claims_seen": {
-    "CLM-8223-2.6.1-003": 1,
-    "CLM-8223-2.6.1-004": 1,
-    "CLM-8223-2.6.1-005": 1,
-    "CLM-8223-2.6.1-006": 1,
-    "CLM-8223-2.6.1-007": 1,
-    "CLM-8223-2.6.1-009": 1,
-    "CLM-8223-2.6.1-011": 1
-   },
-   "authored_hash": "ad76c4f14078ca797abb2e40f247c8fb95699a4e197d9236670bb8cef396aee7"
-  }
- ]
+  "dataset_id": "ITEMS-8223-2.6.1",
+  "topic_id": "2.6.1",
+  "items": [
+    {
+      "item_id": "ITEM-8223-2.6.1-001-INTERP",
+      "objective_ids": [
+        "OBJ-8223-2.6.1-01"
+      ],
+      "claim_ids": [
+        "CLM-8223-2.6.1-001"
+      ],
+      "item_type": "flashcard",
+      "subtype": "INTERP",
+      "assessment_objectives": [
+        "B"
+      ],
+      "blooms_level": "Analyse",
+      "command_word": "Identify",
+      "mark_tariff": 2,
+      "difficulty": 2,
+      "prompt": "A transverse section of a herbaceous dicotyledonous plant organ is described. The outer layer is a single row of flat cells. Beneath it is a band of rounded cells. Further in, separate vascular bundles form a ring, each with large thick-walled empty cells towards the centre and smaller cells towards the outside. The centre of the section is filled with large thin-walled cells and has no vascular tissue. Identify the organ, and identify the tissue that fills the centre.",
+      "canonical_answer": "The organ is a stem. The tissue at the centre is pith.",
+      "marking_guidance": [
+        "2 marks: stem (1), read from the diagram as described, where the vascular bundles lie in a ring; pith (1), the large thin-walled cells at the centre.",
+        "The ring of separate bundles around a centre of thin-walled cells shows a stem; a root has xylem at its centre instead. Cortex earns no mark, because the cortex lies between the epidermis and the ring of bundles."
+      ],
+      "context": {
+        "sector": null,
+        "business_size": null,
+        "ownership": null,
+        "situation": null,
+        "facts": []
+      },
+      "prerequisite_item_ids": [],
+      "core_status": "core",
+      "intentional_duplicate_group": null,
+      "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
+      "qa_status": "review_required",
+      "claims_seen": {
+        "CLM-8223-2.6.1-001": 1
+      },
+      "authored_hash": "59eb0c671741b83967410a0a32fdce1662439fdc58cf705f6a723735fec341d7"
+    },
+    {
+      "item_id": "ITEM-8223-2.6.1-002-INTERP",
+      "objective_ids": [
+        "OBJ-8223-2.6.1-01"
+      ],
+      "claim_ids": [
+        "CLM-8223-2.6.1-002"
+      ],
+      "item_type": "flashcard",
+      "subtype": "INTERP",
+      "assessment_objectives": [
+        "B"
+      ],
+      "blooms_level": "Analyse",
+      "command_word": "Identify",
+      "mark_tariff": 2,
+      "difficulty": 2,
+      "prompt": "A transverse section of a herbaceous dicotyledonous plant organ is described. A single outer layer has some cells with long thin extensions. Inside it is a wide band of rounded cells, then a ring of tightly joined cells. At the centre is a star-shaped mass of large thick-walled empty cells, with small groups of cells in the gaps between its arms. There is no tissue of thin-walled cells at the centre. Identify the organ, and identify the tissue that forms the star-shaped mass.",
+      "canonical_answer": "The organ is a root. The star-shaped mass is xylem.",
+      "marking_guidance": [
+        "2 marks: root (1), because the section shows a star-shaped central mass and no pith, and the outer cells have root hair extensions; xylem (1), the large thick-walled empty cells.",
+        "The diagram shows a central star, which means the vessels of the xylem fill the middle of the root. Phloem earns no mark, because the phloem is the small groups of cells in the gaps between the arms."
+      ],
+      "context": {
+        "sector": null,
+        "business_size": null,
+        "ownership": null,
+        "situation": null,
+        "facts": []
+      },
+      "prerequisite_item_ids": [],
+      "core_status": "core",
+      "intentional_duplicate_group": null,
+      "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
+      "qa_status": "review_required",
+      "claims_seen": {
+        "CLM-8223-2.6.1-002": 1
+      },
+      "authored_hash": "574db8c6add5cc0d0aef3a292371554adf94e8adb88df15c5a35df3b87c75878"
+    },
+    {
+      "item_id": "ITEM-8223-2.6.1-011-INTERP",
+      "objective_ids": [
+        "OBJ-8223-2.6.1-01"
+      ],
+      "claim_ids": [
+        "CLM-8223-2.6.1-003"
+      ],
+      "item_type": "flashcard",
+      "subtype": "INTERP",
+      "assessment_objectives": [
+        "B"
+      ],
+      "blooms_level": "Analyse",
+      "command_word": "Identify",
+      "mark_tariff": 2,
+      "difficulty": 2,
+      "prompt": "A transverse section of a herbaceous dicotyledonous plant organ is described. It is a thin, flat blade. The top and bottom surfaces are each a single row of flat cells with no chloroplasts, and the top one is covered by a waxy layer. Just below the top row is a layer of tall, tightly packed cells full of chloroplasts, standing side by side. Beneath that is a layer of rounded, loosely packed cells with large gaps between them. In one small vein, the large thick-walled empty cells lie towards the top surface and the smaller cells lie towards the bottom surface. Some of the bottom row cells occur in pairs around a small pore. Identify the organ, and identify the layer of tall, tightly packed cells full of chloroplasts.",
+      "canonical_answer": "The organ is a leaf. The layer of tall, tightly packed cells is the palisade mesophyll.",
+      "marking_guidance": [
+        "2 marks: leaf (1), read from the diagram as described, where the section is a thin blade with a waxy top surface, two mesophyll layers, a vein with its xylem towards the top and pores in the bottom row; palisade mesophyll (1), the tall tightly packed cells full of chloroplasts just below the upper epidermis.",
+        "The two mesophyll layers and the pores between paired guard cells in the lower epidermis shows that the organ is a leaf; this means it is not a stem or a root, because neither has mesophyll. Spongy mesophyll earns no mark, because the spongy mesophyll is the loosely packed rounded cells with air spaces beneath the palisade layer."
+      ],
+      "context": {
+        "sector": null,
+        "business_size": null,
+        "ownership": null,
+        "situation": null,
+        "facts": []
+      },
+      "prerequisite_item_ids": [],
+      "core_status": "core",
+      "intentional_duplicate_group": null,
+      "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
+      "qa_status": "review_required",
+      "claims_seen": {
+        "CLM-8223-2.6.1-003": 1
+      },
+      "authored_hash": "6fac736b0991268c4f3649276820c605b469371f72b5e12130f6228ed5479902"
+    },
+    {
+      "item_id": "ITEM-8223-2.6.1-012-INTERP",
+      "objective_ids": [
+        "OBJ-8223-2.6.1-01"
+      ],
+      "claim_ids": [
+        "CLM-8223-2.6.1-003",
+        "CLM-8223-2.6.1-004"
+      ],
+      "item_type": "flashcard",
+      "subtype": "INTERP",
+      "assessment_objectives": [
+        "B"
+      ],
+      "blooms_level": "Analyse",
+      "command_word": "Identify",
+      "mark_tariff": 2,
+      "difficulty": 2,
+      "prompt": "A learner measures a transverse section through the blade of a herbaceous dicotyledonous leaf, away from the midrib, with an eyepiece graticule. These are our own readings, in graticule divisions, for each layer from the top surface to the bottom surface.\n\n| Layer | Thickness (graticule divisions) |\n|---|---:|\n| Upper epidermis | 5 |\n| Palisade mesophyll | 25 |\n| Spongy mesophyll | 15 |\n| Lower epidermis | 5 |\n\nThe four layers together make up the whole section. Identify the thickest layer. Identify the proportion of the whole section that this layer occupies, as a percentage, and identify how a plan diagram would show it.",
+      "canonical_answer": "The thickest layer is the palisade mesophyll. The total is 5 + 5 + 15 + 25 = 50 divisions, so the palisade mesophyll occupies 25 ÷ 50 = 0.5 of the section, × 100 = 50 per cent, which is half. In a plan diagram it is drawn as an outlined band half as thick as the whole section, with no individual cells drawn.",
+      "marking_guidance": [
+        "2 marks: palisade mesophyll (1), the layer with the largest reading in the table; 50 per cent or half (1), from 25 ÷ 50 = 0.5, × 100 = 50 per cent, together with a plan diagram that shows it as an outlined band half the total thickness, with no cells drawn.",
+        "The table gives the total as 5 + 25 + 15 + 5 = 50 divisions, which means each layer is read as its share of 50. Spongy mesophyll earns no mark, because the spongy mesophyll is 15 ÷ 50 = 0.3, × 100 = 30 per cent. The reading is a ratio, so it holds for any calibration of the graticule."
+      ],
+      "context": {
+        "sector": null,
+        "business_size": null,
+        "ownership": null,
+        "situation": null,
+        "facts": []
+      },
+      "prerequisite_item_ids": [],
+      "core_status": "core",
+      "intentional_duplicate_group": null,
+      "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
+      "qa_status": "review_required",
+      "claims_seen": {
+        "CLM-8223-2.6.1-003": 1,
+        "CLM-8223-2.6.1-004": 1
+      },
+      "authored_hash": "c4bd9adef0e8f70de596cb662050c17a31e8a9d68daefbae0f2a2b0cbed4db39"
+    },
+    {
+      "item_id": "ITEM-8223-2.6.1-010-DEF",
+      "objective_ids": [
+        "OBJ-8223-2.6.1-01"
+      ],
+      "claim_ids": [
+        "CLM-8223-2.6.1-004"
+      ],
+      "item_type": "flashcard",
+      "subtype": "DEF",
+      "assessment_objectives": [
+        "A"
+      ],
+      "blooms_level": "Remember",
+      "command_word": "State",
+      "mark_tariff": 1,
+      "difficulty": 3,
+      "prompt": "State what is meant by an eyepiece graticule.",
+      "canonical_answer": "An eyepiece graticule is a small transparent scale in the eyepiece of a microscope, whose divisions are calibrated against a stage micrometer so that lengths in the specimen can be read in graticule divisions.",
+      "marking_guidance": [
+        "1 mark: the key words, a scale in the eyepiece that is calibrated. The definition must say that the divisions have no fixed size until they are calibrated, because a scale that is not calibrated does not give a length; a stage micrometer is the scale on the slide used to calibrate it."
+      ],
+      "context": {
+        "sector": null,
+        "business_size": null,
+        "ownership": null,
+        "situation": null,
+        "facts": []
+      },
+      "prerequisite_item_ids": [],
+      "core_status": "core",
+      "intentional_duplicate_group": null,
+      "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
+      "qa_status": "review_required",
+      "claims_seen": {
+        "CLM-8223-2.6.1-004": 1
+      },
+      "authored_hash": "f061814293f2bcf49a98d4768662af3cf6ca52df02e7996b89e492d1fb674a36"
+    },
+    {
+      "item_id": "ITEM-8223-2.6.1-003-FEATURE",
+      "objective_ids": [
+        "OBJ-8223-2.6.1-02"
+      ],
+      "claim_ids": [
+        "CLM-8223-2.6.1-005"
+      ],
+      "item_type": "flashcard",
+      "subtype": "FEATURE",
+      "assessment_objectives": [
+        "A"
+      ],
+      "blooms_level": "Remember",
+      "command_word": "State",
+      "mark_tariff": 1,
+      "difficulty": 2,
+      "prompt": "State the name of the substance that thickens the side walls of xylem vessel elements.",
+      "canonical_answer": "Lignin.",
+      "marking_guidance": [
+        "1 mark: lignin. This is the key feature of the wall of the vessel element, a structure that the answer must name as a substance; cellulose earns no mark, because cellulose makes the thin wall of a sieve tube element."
+      ],
+      "context": {
+        "sector": null,
+        "business_size": null,
+        "ownership": null,
+        "situation": null,
+        "facts": []
+      },
+      "prerequisite_item_ids": [],
+      "core_status": "core",
+      "intentional_duplicate_group": null,
+      "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
+      "qa_status": "review_required",
+      "claims_seen": {
+        "CLM-8223-2.6.1-005": 1
+      },
+      "authored_hash": "b3001a18b6b77cdf08747815ddc63caa8751ae89f5ed66688ec7b780fde91428"
+    },
+    {
+      "item_id": "ITEM-8223-2.6.1-004-MECH",
+      "objective_ids": [
+        "OBJ-8223-2.6.1-02"
+      ],
+      "claim_ids": [
+        "CLM-8223-2.6.1-006",
+        "CLM-8223-2.6.1-007"
+      ],
+      "item_type": "flashcard",
+      "subtype": "MECH",
+      "assessment_objectives": [
+        "B"
+      ],
+      "blooms_level": "Understand",
+      "command_word": "Describe",
+      "mark_tariff": 2,
+      "difficulty": 2,
+      "prompt": "Describe how sieve tube elements are joined to one another, and how each sieve tube element is linked to its companion cell.",
+      "canonical_answer": "Sieve tube elements are joined end to end, and their end walls are perforated with pores to form sieve plates, which makes the cytoplasm continuous from one element to the next. Each sieve tube element is linked to its companion cell by plasmodesmata, narrow channels of cytoplasm through the wall between them.",
+      "marking_guidance": [
+        "2 marks: end to end, with the end walls perforated as sieve plates, which makes the cytoplasm continuous (1); plasmodesmata through the wall between the sieve tube element and its companion cell (1).",
+        "Pits are not the same as plasmodesmata; pits are thin areas in the walls of xylem and earn no mark."
+      ],
+      "context": {
+        "sector": null,
+        "business_size": null,
+        "ownership": null,
+        "situation": null,
+        "facts": []
+      },
+      "prerequisite_item_ids": [],
+      "core_status": "core",
+      "intentional_duplicate_group": null,
+      "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
+      "qa_status": "review_required",
+      "claims_seen": {
+        "CLM-8223-2.6.1-006": 1,
+        "CLM-8223-2.6.1-007": 1
+      },
+      "authored_hash": "361d2e40039539f4eb44609b55eb5eb7f6975508349765019f2118715e24c725"
+    },
+    {
+      "item_id": "ITEM-8223-2.6.1-005-FEATURE",
+      "objective_ids": [
+        "OBJ-8223-2.6.1-03"
+      ],
+      "claim_ids": [
+        "CLM-8223-2.6.1-007",
+        "CLM-8223-2.6.1-009"
+      ],
+      "item_type": "flashcard",
+      "subtype": "FEATURE",
+      "assessment_objectives": [
+        "A"
+      ],
+      "blooms_level": "Remember",
+      "command_word": "Describe",
+      "mark_tariff": 2,
+      "difficulty": 2,
+      "prompt": "Describe two features of a companion cell that suit it to its function of supporting a sieve tube element.",
+      "canonical_answer": "A companion cell has a nucleus and dense cytoplasm, so it can control the activities of the pair and make proteins. It also has many mitochondria, which make the ATP needed to load sucrose into the sieve tube element.",
+      "marking_guidance": [
+        "2 marks, one for each feature with its purpose: nucleus (and dense cytoplasm), which controls the cell and makes proteins for the pair of cells; many mitochondria, which supply the ATP for loading sucrose into the sieve tube.",
+        "The features must belong to the companion cell. A wide lumen and sieve plates are features of the sieve tube element and earn no mark."
+      ],
+      "context": {
+        "sector": null,
+        "business_size": null,
+        "ownership": null,
+        "situation": null,
+        "facts": []
+      },
+      "prerequisite_item_ids": [],
+      "core_status": "core",
+      "intentional_duplicate_group": null,
+      "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
+      "qa_status": "review_required",
+      "claims_seen": {
+        "CLM-8223-2.6.1-007": 1,
+        "CLM-8223-2.6.1-009": 1
+      },
+      "authored_hash": "aac5594e94f6881e26f804100430716b7b6b6452f0729fa0806ea6eb0516e38e"
+    },
+    {
+      "item_id": "ITEM-8223-2.6.1-006-MECH",
+      "objective_ids": [
+        "OBJ-8223-2.6.1-03"
+      ],
+      "claim_ids": [
+        "CLM-8223-2.6.1-005",
+        "CLM-8223-2.6.1-008"
+      ],
+      "item_type": "flashcard",
+      "subtype": "MECH",
+      "assessment_objectives": [
+        "B"
+      ],
+      "blooms_level": "Understand",
+      "command_word": "Explain",
+      "mark_tariff": 2,
+      "difficulty": 2,
+      "prompt": "A mature xylem vessel element has no cytoplasm and no end wall. Explain how these two features help the vessel to carry water up a plant.",
+      "canonical_answer": "With no cytoplasm, the lumen is empty, and with no end wall, the element is joined to the next to form one continuous tube. Together these mean that nothing blocks the flow of water, so the resistance to its movement up the plant is low.",
+      "marking_guidance": [
+        "2 marks: no cytoplasm leaves an empty lumen, so there is nothing to slow the flow (1); no end walls, so the vessel elements form a continuous tube, which means a low resistance to flow along it (1).",
+        "The reason must be the cause of the low resistance; the words more space on their own earn no mark."
+      ],
+      "context": {
+        "sector": null,
+        "business_size": null,
+        "ownership": null,
+        "situation": null,
+        "facts": []
+      },
+      "prerequisite_item_ids": [],
+      "core_status": "core",
+      "intentional_duplicate_group": null,
+      "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
+      "qa_status": "review_required",
+      "claims_seen": {
+        "CLM-8223-2.6.1-005": 1,
+        "CLM-8223-2.6.1-008": 1
+      },
+      "authored_hash": "b4cacc4d88d88cb982b7a2411fbd02cd880291e9beb45d00fb37ec9c29b1201e"
+    },
+    {
+      "item_id": "ITEM-8223-2.6.1-009-MISCON",
+      "objective_ids": [
+        "OBJ-8223-2.6.1-03"
+      ],
+      "claim_ids": [
+        "CLM-8223-2.6.1-010"
+      ],
+      "item_type": "flashcard",
+      "subtype": "MISCON",
+      "assessment_objectives": [
+        "A"
+      ],
+      "blooms_level": "Understand",
+      "command_word": "Explain",
+      "mark_tariff": 2,
+      "difficulty": 3,
+      "prompt": "A learner writes: Xylem vessels are made of lignin, and they have more space for the water to flow. Explain the error in this statement.",
+      "canonical_answer": "The error is to treat lignin as the material of the whole vessel and to give space as the reason without saying where the space comes from. In fact lignin is a substance in the walls of the vessel elements, which strengthens them. The space is the empty lumen, which exists because the cells are dead and have lost their cytoplasm and organelles, so that water meets little resistance. The test is to ask whether lignin is in the walls or the contents, and what the empty lumen does for the flow: lignin is in the walls, and the empty lumen lowers resistance.",
+      "marking_guidance": [
+        "2 marks: the error named, that lignin is in the walls and does not make up the vessel, and is not the contents (1); the correct idea, that the empty lumen of the dead cell, with no cytoplasm or organelles, gives a low resistance to flow (1).",
+        "The card is a discrimination between wall and contents. A repeat of the definition of xylem earns no mark; the test, wall or contents, is what separates the two ideas."
+      ],
+      "context": {
+        "sector": null,
+        "business_size": null,
+        "ownership": null,
+        "situation": null,
+        "facts": []
+      },
+      "prerequisite_item_ids": [],
+      "core_status": "core",
+      "intentional_duplicate_group": null,
+      "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
+      "qa_status": "review_required",
+      "claims_seen": {
+        "CLM-8223-2.6.1-010": 1
+      },
+      "authored_hash": "b8192bff706f1244ff623cf5276990bb819eb3b752ea6e4401915d2e85ea489d"
+    },
+    {
+      "item_id": "ITEM-8223-2.6.1-007-FEATURE",
+      "objective_ids": [
+        "OBJ-8223-2.6.1-04"
+      ],
+      "claim_ids": [
+        "CLM-8223-2.6.1-011"
+      ],
+      "item_type": "flashcard",
+      "subtype": "FEATURE",
+      "assessment_objectives": [
+        "A"
+      ],
+      "blooms_level": "Remember",
+      "command_word": "State",
+      "mark_tariff": 1,
+      "difficulty": 2,
+      "prompt": "State one feature that identifies a sieve plate when phloem is seen in longitudinal section under a light microscope.",
+      "canonical_answer": "A sieve plate is a cross wall between two sieve tube elements that is perforated by pores.",
+      "marking_guidance": [
+        "1 mark: a cross wall across the sieve tube, with pores (or a perforated look). This is a feature of the structure as seen between two elements; a thick lignified wall with rings describes xylem and earns no mark."
+      ],
+      "context": {
+        "sector": null,
+        "business_size": null,
+        "ownership": null,
+        "situation": null,
+        "facts": []
+      },
+      "prerequisite_item_ids": [],
+      "core_status": "core",
+      "intentional_duplicate_group": null,
+      "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
+      "qa_status": "review_required",
+      "claims_seen": {
+        "CLM-8223-2.6.1-011": 1
+      },
+      "authored_hash": "e5e3ac464775da56a3768bd70b721610d29fd489427581da2da0ca7a2b53e0ac"
+    },
+    {
+      "item_id": "ITEM-8223-2.6.1-008-APP",
+      "objective_ids": [
+        "OBJ-8223-2.6.1-04"
+      ],
+      "claim_ids": [
+        "CLM-8223-2.6.1-005",
+        "CLM-8223-2.6.1-006",
+        "CLM-8223-2.6.1-007",
+        "CLM-8223-2.6.1-011"
+      ],
+      "item_type": "flashcard",
+      "subtype": "APP",
+      "assessment_objectives": [
+        "B"
+      ],
+      "blooms_level": "Apply",
+      "command_word": "Identify",
+      "mark_tariff": 2,
+      "difficulty": 2,
+      "prompt": "A learner examines a prepared slide of a plant stem in longitudinal section. Cell P is a long tube with thick walls marked by rings of stained material and nothing inside it. Cell Q is a long thin-walled cell with a cross wall perforated by pores and only a thin lining of cytoplasm. Identify cell P and identify cell Q, using the information given.",
+      "canonical_answer": "Cell P is a xylem vessel element, because it has thick walls with rings of lignin and an empty lumen. Cell Q is a sieve tube element, because its cross wall with pores is a sieve plate and it is a living cell with only a thin lining of cytoplasm.",
+      "marking_guidance": [
+        "2 marks: P is a xylem vessel element, with a reason taken from the specimen as described, rings in the wall and an empty lumen (1); Q is a sieve tube element, because of the perforated cross wall (1).",
+        "Both marks need the reason from the information given. A cell named without a reason earns no mark, since the slide gives the evidence."
+      ],
+      "context": {
+        "sector": null,
+        "business_size": null,
+        "ownership": null,
+        "situation": null,
+        "facts": []
+      },
+      "prerequisite_item_ids": [],
+      "core_status": "core",
+      "intentional_duplicate_group": null,
+      "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
+      "qa_status": "review_required",
+      "claims_seen": {
+        "CLM-8223-2.6.1-005": 1,
+        "CLM-8223-2.6.1-006": 1,
+        "CLM-8223-2.6.1-007": 1,
+        "CLM-8223-2.6.1-011": 1
+      },
+      "authored_hash": "ff1d5ac9144469407931f7a00b61496d4ad932afbc1ae5d4d8f67287df7724d6"
+    },
+    {
+      "item_id": "ITEM-8223-2.6.1-P01",
+      "objective_ids": [
+        "OBJ-8223-2.6.1-01",
+        "OBJ-8223-2.6.1-02",
+        "OBJ-8223-2.6.1-03",
+        "OBJ-8223-2.6.1-04"
+      ],
+      "claim_ids": [
+        "CLM-8223-2.6.1-001",
+        "CLM-8223-2.6.1-002",
+        "CLM-8223-2.6.1-003",
+        "CLM-8223-2.6.1-004",
+        "CLM-8223-2.6.1-005",
+        "CLM-8223-2.6.1-006",
+        "CLM-8223-2.6.1-007",
+        "CLM-8223-2.6.1-008",
+        "CLM-8223-2.6.1-009",
+        "CLM-8223-2.6.1-010",
+        "CLM-8223-2.6.1-011",
+        "CLM-8223-2.6.1-012"
+      ],
+      "item_type": "multiple_choice_set",
+      "subtype": null,
+      "assessment_objectives": [
+        "A",
+        "B"
+      ],
+      "blooms_level": "Apply",
+      "command_word": null,
+      "mark_tariff": 12,
+      "difficulty": 3,
+      "prompt": "Twelve questions. Choose one option for each.\n\n1. In a transverse section of a herbaceous dicotyledonous root, which tissue lies at the centre?\nA  pith\nB  xylem\nC  phloem\nD  cortex\n\n2. In a vascular bundle of a herbaceous dicotyledonous stem, where is the phloem?\nA  towards the outside of the bundle, with the xylem towards the centre of the stem\nB  towards the centre of the stem, with the xylem on the outside of the bundle\nC  in the middle of the bundle with the xylem on both sides\nD  in a separate ring outside the ring of bundles\n\n3. Which tissue of a leaf is a layer of tall, tightly packed cells rich in chloroplasts beneath the upper epidermis?\nA  spongy mesophyll\nB  lower epidermis\nC  palisade mesophyll\nD  phloem\n\n4. Forty eyepiece graticule divisions match 0.2 mm on a stage micrometer. What length does one graticule division represent?\nA  2 µm\nB  5 µm\nC  8 µm\nD  50 µm\n\n5. At a calibration of 5 µm per division, a tissue measures 24 graticule divisions across. What is its width?\nA  4.8 µm\nB  29 µm\nC  120 µm\nD  1200 µm\n\n6. Which statement about a mature xylem vessel element is correct?\nA  It has thin cellulose walls and a nucleus.\nB  It has walls thickened with lignin and no living contents.\nC  It has perforated end walls forming sieve plates.\nD  It has a thin lining of cytoplasm and many mitochondria.\n\n7. What is the function of the pits in the walls of a xylem vessel element?\nA  to let water pass sideways to neighbouring vessels\nB  to let sucrose pass into the vessel\nC  to make the wall waterproof\nD  to support the vessel against collapse\n\n8. Which feature is found in a mature sieve tube element?\nA  a large nucleus\nB  walls thickened with lignin\nC  end walls perforated by pores\nD  no cytoplasm at all\n\n9. Which structures link a companion cell to its sieve tube element?\nA  sieve plates\nB  plasmodesmata\nC  pits in lignified walls\nD  cell surface membranes that are fused\n\n10. Why does a companion cell contain many mitochondria?\nA  to make lignin for the wall\nB  to carry out photosynthesis\nC  to supply the ATP needed to load sucrose into the sieve tube\nD  to store the sucrose for the sieve tube\n\n11. A slide in longitudinal section shows long tubes with empty lumens and thick walls marked with spirals. Which tissue is this?\nA  phloem\nB  xylem\nC  palisade mesophyll\nD  pith\n\n12. Which statement about lignin in the xylem is correct?\nA  It fills the lumen of the vessel elements.\nB  It is in the walls of the vessel elements and strengthens them against collapse.\nC  It forms the sieve plates.\nD  It makes up the cytoplasm of the companion cell.",
+      "canonical_answer": "Key: 1 B, 2 A, 3 C, 4 B, 5 C, 6 B, 7 A, 8 C, 9 B, 10 C, 11 B, 12 B.\n1. The xylem forms a star shape at the centre of a root (B). A is the tissue at the centre of a stem, which a root does not have; C lies in groups between the arms of the star; D is the wide band outside the endodermis.\n2. The phloem lies on the outer side, with the xylem on the inner side facing the pith (A). B reverses the positions; C invents a bundle with xylem on both sides; D confuses the bundles with the layers of the stem.\n3. The palisade mesophyll is the tightly packed layer below the upper epidermis (C). A is the loosely packed layer with air spaces below it; B is the lower surface layer with the stomata; D is in the vascular bundle and has few chloroplasts.\n4. 0.2 ÷ 40 = 0.005 mm, which is 5 µm per division (B). A comes from a slip with the place value of the answer; C comes from multiplying 0.2 × 40 = 8 instead of dividing, with the unit left unchecked; D comes from a slip of a factor of ten in the conversion to micrometres.\n5. 24 × 5 = 120 µm (C). A divides 24 ÷ 5 = 4.8, using the wrong operation; B adds the two numbers; D has a slip of a factor of ten.\n6. The mature vessel element has lignified walls and an empty lumen (B). A describes a thin-walled living cell; C is a feature of the sieve tube element; D belongs to a companion cell or sieve tube element.\n7. Pits are thin areas of wall where water can move sideways (A). B gives the phloem's job to the xylem; C and D describe the job of lignin, which is the thickening and not the thin areas.\n8. The end walls form sieve plates with pores (C). A is not found in a mature sieve tube element, which has no nucleus; B is a xylem feature; D describes the xylem vessel element, whereas the sieve tube element is a living cell with a thin lining of cytoplasm.\n9. Plasmodesmata are channels of cytoplasm through the wall (B). A joins one sieve tube element to the next; C is a feature of xylem; D is wrong because the two membranes stay separate.\n10. The mitochondria make ATP for the loading of sucrose (C). A gives the companion cell the job of the xylem wall; B gives it the job of the mesophyll; D confuses a store with an energy supply.\n11. Empty lumens and thick spiral walls identify xylem (B). A has cross walls with pores; C has tall chloroplast-rich cells; D has large thin-walled cells with no spiral thickening.\n12. Lignin is in the walls and strengthens them (B). A is the error that this is the material of the whole vessel, and the lumen is empty (the misconception register entry for this topic); C gives it to the phloem; D confuses the wall with the contents of a cell.",
+      "marking_guidance": [
+        "The key: one mark for each correct option, twelve marks in all; about half the questions test recall and half test application to a description, a calibration or a slide.",
+        "Each distractor is a named error: the tissue of a stem placed in a root, the xylem and phloem positions reversed, features of one cell given to another, lignin treated as the contents, a calculation done with the wrong operation (the misconception register first)."
+      ],
+      "context": {
+        "sector": null,
+        "business_size": null,
+        "ownership": null,
+        "situation": null,
+        "facts": []
+      },
+      "prerequisite_item_ids": [],
+      "core_status": "core",
+      "intentional_duplicate_group": null,
+      "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
+      "qa_status": "review_required",
+      "claims_seen": {
+        "CLM-8223-2.6.1-001": 1,
+        "CLM-8223-2.6.1-002": 1,
+        "CLM-8223-2.6.1-003": 1,
+        "CLM-8223-2.6.1-004": 1,
+        "CLM-8223-2.6.1-005": 1,
+        "CLM-8223-2.6.1-006": 1,
+        "CLM-8223-2.6.1-007": 1,
+        "CLM-8223-2.6.1-008": 1,
+        "CLM-8223-2.6.1-009": 1,
+        "CLM-8223-2.6.1-010": 1,
+        "CLM-8223-2.6.1-011": 1,
+        "CLM-8223-2.6.1-012": 1
+      },
+      "authored_hash": "3837c3ee19a245529d4783a03630611b659497850cc4106cde06d54c7c1b813a"
+    },
+    {
+      "item_id": "ITEM-8223-2.6.1-P02",
+      "objective_ids": [
+        "OBJ-8223-2.6.1-01",
+        "OBJ-8223-2.6.1-02",
+        "OBJ-8223-2.6.1-03",
+        "OBJ-8223-2.6.1-04"
+      ],
+      "claim_ids": [
+        "CLM-8223-2.6.1-003",
+        "CLM-8223-2.6.1-004",
+        "CLM-8223-2.6.1-005",
+        "CLM-8223-2.6.1-006",
+        "CLM-8223-2.6.1-007",
+        "CLM-8223-2.6.1-009",
+        "CLM-8223-2.6.1-011"
+      ],
+      "item_type": "short_answer",
+      "subtype": null,
+      "assessment_objectives": [
+        "A",
+        "B"
+      ],
+      "blooms_level": "Apply",
+      "command_word": "Calculate",
+      "mark_tariff": 8,
+      "difficulty": 3,
+      "prompt": "A learner in Rundu cuts a transverse section of a bean stem and views it with an eyepiece graticule. The graticule is calibrated at the objective used: 25 graticule divisions match 0.2 mm on a stage micrometer. These are our readings.\n\n| Tissue | Width across the section (graticule divisions) |\n|---|---|\n| Cortex | 30 |\n| Vascular bundle (outer edge of phloem to inner edge of xylem) | 15 |\n| Pith | 22 |\n\n(a) Calculate the width of the vascular bundle in µm. [2]\n(b) State where the phloem lies within a vascular bundle in the stem. [1]\n(c) Compare the structure of a xylem vessel element with that of a sieve tube element. [2]\n(d) Explain why a mature sieve tube element depends on its companion cell. [2]\n(e) Suggest why sieve plates are seen more easily in a longitudinal section than in a transverse section. [1]",
+      "canonical_answer": "(a) 0.2 ÷ 25 = 0.008 mm per division, which is 8 µm; 15 × 8 = 120 µm.\n(b) Towards the outside of the bundle, with the xylem on the inner side towards the pith.\n(c) A xylem vessel element has walls thickened with lignin, no living contents and no end walls, whereas a sieve tube element has thin cellulose walls, a thin lining of living cytoplasm and end walls perforated as sieve plates.\n(d) A mature sieve tube element has no nucleus and few organelles, so it cannot control its own activities or make its own ATP. The companion cell has a nucleus and many mitochondria, so it supplies what the sieve tube element lacks, and the two are linked by plasmodesmata.\n(e) In a longitudinal section the end walls lie across the tube and can be seen side-on as cross walls with pores, whereas a transverse section shows the tube end-on, with a sieve plate seen only if the cut happens to pass through one.",
+      "marking_guidance": [
+        "Marks and points: (a) 1 mark for the calibration, 0.2 ÷ 25 = 0.008 mm, which is 8 µm, and 1 mark for 15 × 8 = 120 µm with its unit; (b) 1 mark for towards the outside of the bundle; (c) 2 marks from three points of difference: lignified wall against cellulose wall, empty against a thin lining of cytoplasm, no end walls against sieve plates, each stated for both cells.",
+        "(d) 2 marks from three points: no nucleus and few organelles in the sieve tube element, because it cannot control itself or make ATP; the companion cell supplies this, with its nucleus and mitochondria; plasmodesmata link them. (e) 1 mark: the end walls are seen side-on in longitudinal section. Parts (b) and (c) credit AO A (3 marks); parts (a), (d) and (e) credit AO B (5 marks). The reason must use the structures named; a unit is needed in (a), and the key terms must be used."
+      ],
+      "context": {
+        "sector": null,
+        "business_size": null,
+        "ownership": null,
+        "situation": null,
+        "facts": []
+      },
+      "prerequisite_item_ids": [],
+      "core_status": "core",
+      "intentional_duplicate_group": null,
+      "provenance": "Authored for 8223 NSSCAS Biology topic 2.6.1 from the topic claim ledger. Unverified.",
+      "qa_status": "review_required",
+      "claims_seen": {
+        "CLM-8223-2.6.1-003": 1,
+        "CLM-8223-2.6.1-004": 1,
+        "CLM-8223-2.6.1-005": 1,
+        "CLM-8223-2.6.1-006": 1,
+        "CLM-8223-2.6.1-007": 1,
+        "CLM-8223-2.6.1-009": 1,
+        "CLM-8223-2.6.1-011": 1
+      },
+      "authored_hash": "ad76c4f14078ca797abb2e40f247c8fb95699a4e197d9236670bb8cef396aee7"
+    }
+  ]
 }

@@ -702,7 +702,7 @@
    "objective_ids": [
     "OBJ-8223-2.7.1-08"
    ],
-   "text": "Carbon monoxide binds to the iron of a haem group and forms carboxyhaemoglobin. Haemoglobin has an affinity for carbon monoxide more than 200 times its affinity for oxygen, and carboxyhaemoglobin releases carbon monoxide very slowly, so the combination is stable.",
+   "text": "Haemoglobin has a much higher affinity for carbon monoxide than for oxygen, more than 200 times its affinity for oxygen. Carbon monoxide binds to the iron of a haem group and forms carboxyhaemoglobin, which releases carbon monoxide very slowly, so the combination is stable and oxygen is outcompeted.",
    "claim_type": "factual",
    "provenance": "generated_gap",
    "evidence": [
@@ -713,7 +713,7 @@
     }
    ],
    "derived_from_claim_ids": [],
-   "revision": 1,
+   "revision": 2,
    "verification": {
     "status": "unverified",
     "method": "Authored from the syllabus objective and our own statement of standard biology. Single source: no second source checked. Requires semantic review and two-source verification before any publication.",
@@ -731,7 +731,7 @@
    "objective_ids": [
     "OBJ-8223-2.7.1-08"
    ],
-   "text": "Haem groups that hold carbon monoxide cannot bind oxygen, so haemoglobin takes up less oxygen in the lungs and the blood carries less oxygen even when breathing is normal. Carbon monoxide forms when fuels such as wood, charcoal or tobacco burn with too little oxygen, so a person in a closed room with a charcoal fire may be exposed.",
+   "text": "The syllabus describes this as carbon monoxide reducing the affinity of haemoglobin for oxygen. The result is that less haemoglobin is available to carry oxygen in the lungs, so the blood carries less oxygen even when breathing is normal. Carbon monoxide forms when fuels such as wood, charcoal or tobacco burn with too little oxygen, so a person in a closed room with a charcoal fire may be exposed.",
    "claim_type": "causal",
    "provenance": "generated_gap",
    "evidence": [
@@ -742,7 +742,7 @@
     }
    ],
    "derived_from_claim_ids": [],
-   "revision": 1,
+   "revision": 2,
    "verification": {
     "status": "unverified",
     "method": "Authored from the syllabus objective and our own statement of standard biology. Single source: no second source checked. Requires semantic review and two-source verification before any publication.",
@@ -753,7 +753,7 @@
    "publishable": false,
    "notes": [
     "verification_state: single_source. Syllabus objective restated; numerical values (percentages, kPa, micrometres) are approximate textbook figures and need a second source.",
-    "Syllabus wording check: the objective says carbon monoxide reduces the affinity of haemoglobin for oxygen; the text teaches the established effect, that carboxyhaemoglobin leaves fewer haem groups free to bind oxygen. Flag for reviewer."
+    "Syllabus wording: the objective says carbon monoxide reduces the affinity of haemoglobin for oxygen. The text teaches higher affinity for carbon monoxide (oxygen outcompeted) and the syllabus phrase, with less haemoglobin available to carry oxygen. Fuller physiology is beyond this syllabus and not taught. Flag for reviewer."
    ]
   },
   {

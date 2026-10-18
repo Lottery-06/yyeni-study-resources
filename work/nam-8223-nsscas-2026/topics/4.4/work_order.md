@@ -78,8 +78,8 @@
 | `026-APP` | Judge how standardising variables affects confidence in a conclusion. | APP | C | Explain | 2 | instructs with Explain, which this objective carries |
 | `027-INTERP` | Predict a trend from information or results provided. | INTERP | C | Explain | 2 | instructs with Explain, which this objective carries |
 | `028-INTERP` | Predict a trend from information or results provided. | INTERP | C | Explain | 2 | instructs with Explain, which this objective carries |
-| `029-INTERP` | Draw a conclusion from the patterns and trends in data. | INTERP | C | Describe | 2 | instructs with Describe, the shape this subtype needs |
-| `030-INTERP` | Draw a conclusion from the patterns and trends in data. | INTERP | C | Describe | 2 | instructs with Describe, the shape this subtype needs |
+| `029-INTERP` | Draw a conclusion from the patterns and trends in data. | INTERP | C | Describe | 2 | instructs with Describe, which this objective carries |
+| `030-INTERP` | Draw a conclusion from the patterns and trends in data. | INTERP | C | Describe | 2 | instructs with Describe, which this objective carries |
 | `031-INTERP` | Decide whether data support a given hypothesis. | INTERP | C | Describe | 2 | instructs with Describe, which this objective carries |
 | `032-INTERP` | Decide whether data support a given hypothesis. | INTERP | C | Describe | 2 | instructs with Describe, which this objective carries |
 | `033-APP` | Decide whether data support a given hypothesis. | APP | C | Explain | 2 | instructs with Explain, which this objective carries |

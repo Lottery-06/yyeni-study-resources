@@ -45,7 +45,7 @@ def tier(text, typ):
     if n < 70 and typ in ("bio_definition", "bio_description"): return 1
     return 2
 # hand corrections after reading the first pass (objective suffix -> type or tier)
-TYPE_OVERRIDE = {'2.1-03': 'bio_quantitative', '2.2-01': 'bio_structure_function', '2.4.1-02': 'bio_structure_function', '2.4.1-07': 'bio_structure_function', '2.5.2-02': 'bio_explanation', '2.8.1-01': 'bio_comparison', '2.8.1-02': 'bio_description'}
+TYPE_OVERRIDE = {'1.3-07': 'bio_explanation', '2.1-03': 'bio_quantitative', '2.2-01': 'bio_structure_function', '2.4.1-02': 'bio_structure_function', '2.4.1-07': 'bio_structure_function', '2.5.2-02': 'bio_explanation', '2.8.1-01': 'bio_comparison', '2.8.1-02': 'bio_description'}
 TIER_OVERRIDE = {'2.8.1-02': 2}
 PREREQ = {"3.1.1-05": ["3.1.1-01"], "3.1.1-07": ["3.1.1-04"], "3.1.2-01": ["3.1.1-01", "3.1.1-04"], "3.1.2-02": ["3.1.2-01"], "3.2.1-02": ["3.2.1-01"],
           "3.2.1-03": ["3.2.1-01", "3.2.1-02"], "3.2.1-04": ["3.2.1-03", "3.1.1-04"], "3.2.1-05": ["3.2.1-04"], "3.2.2-02": ["3.2.2-01"],
