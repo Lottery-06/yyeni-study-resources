@@ -237,7 +237,7 @@
    "mark_tariff": 1,
    "difficulty": 2,
    "prompt": "State what is meant by standard form.",
-   "canonical_answer": "Standard form writes a number as A × 10ⁿ, where A is at least 1 and less than 10 and n is a whole number.",
+   "canonical_answer": "Standard form writes a number as A × 10ⁿ, where A is at least 1 and less than 10 and n is an integer.",
    "marking_guidance": [
     "1 mark: the definition. Key words: a number between 1 and 10 (at least 1, less than 10) multiplied by a power of ten, with a whole-number power."
    ],
@@ -254,9 +254,11 @@
    "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-8223-5.1-004": 1
+    "CLM-8223-5.1-004": 2
    },
-   "authored_hash": "11425009b988d36305a17b09e6da194440dcbd96673415becf41f4ddeb6af735",
+   "authored_hash": "c88cea7350acf662843d5163303c0d82bf9ca47e3de78e2e3c271b04957ca081",
+   "prior_hash": "11425009b988d36305a17b09e6da194440dcbd96673415becf41f4ddeb6af735",
+   "repair_note": "Step 6 review: corrected standard-form exponent from whole number to integer.",
    "objective_titles": [
     "Use decimal and standard form, including negative powers of ten."
    ]
@@ -299,10 +301,12 @@
    "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-8223-5.1-004": 1,
+    "CLM-8223-5.1-004": 2,
     "CLM-8223-5.1-005": 1
    },
    "authored_hash": "9f05454441d634b097a4cda4d1b9c01d9126716719a42a5070e14fd981741ef5",
+   "prior_hash": "9f05454441d634b097a4cda4d1b9c01d9126716719a42a5070e14fd981741ef5",
+   "reviewed_unchanged": "The conversion remains correct after replacing the contradictory term whole number with integer in the definition.",
    "objective_titles": [
     "Use decimal and standard form, including negative powers of ten."
    ]
@@ -344,10 +348,12 @@
    "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-8223-5.1-004": 1,
+    "CLM-8223-5.1-004": 2,
     "CLM-8223-5.1-005": 1
    },
    "authored_hash": "38c243568fb73c6591c6c24311f64883598e2e905161055612ea7fe03d8f8094",
+   "prior_hash": "38c243568fb73c6591c6c24311f64883598e2e905161055612ea7fe03d8f8094",
+   "reviewed_unchanged": "The multiplication in standard form remains correct after the definition correction.",
    "objective_titles": [
     "Use decimal and standard form, including negative powers of ten."
    ]
@@ -431,10 +437,12 @@
    "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-8223-5.1-004": 1,
+    "CLM-8223-5.1-004": 2,
     "CLM-8223-5.1-005": 1
    },
    "authored_hash": "6d70f93624c3e5ded71f3943cc0f8cb1ec12b483cd9d90b56db4e016bce5ac30",
+   "prior_hash": "6d70f93624c3e5ded71f3943cc0f8cb1ec12b483cd9d90b56db4e016bce5ac30",
+   "reviewed_unchanged": "The negative-exponent feature remains correct after the definition correction.",
    "objective_titles": [
     "Use decimal and standard form, including negative powers of ten."
    ]
@@ -475,10 +483,12 @@
    "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-8223-5.1-004": 1,
+    "CLM-8223-5.1-004": 2,
     "CLM-8223-5.1-005": 1
    },
    "authored_hash": "58bdf48bbc10fcb502ea60e94fef109d9954532d160963fc3a65be000a4f1af3",
+   "prior_hash": "58bdf48bbc10fcb502ea60e94fef109d9954532d160963fc3a65be000a4f1af3",
+   "reviewed_unchanged": "The decimal-versus-standard-form contrast remains correct after the definition correction.",
    "objective_titles": [
     "Use decimal and standard form, including negative powers of ten."
    ]
@@ -1842,7 +1852,7 @@
    "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-8223-5.1-004": 1,
+    "CLM-8223-5.1-004": 2,
     "CLM-8223-5.1-005": 1,
     "CLM-8223-5.1-006": 1,
     "CLM-8223-5.1-007": 1,
@@ -1855,6 +1865,8 @@
     "CLM-8223-5.1-017": 1
    },
    "authored_hash": "9892023b9cc6f4412cfa26ac6e6b0b33e95f39bcb552beefa868719197bf4393",
+   "prior_hash": "9892023b9cc6f4412cfa26ac6e6b0b33e95f39bcb552beefa868719197bf4393",
+   "reviewed_unchanged": "The multiple-choice explanations remain correct after the definition correction.",
    "objective_titles": [
     "Use decimal and standard form, including negative powers of ten.",
     "Use the prefixes giga, mega, kilo, milli, micro and nano.",

@@ -75,12 +75,12 @@
    "objective_ids": [
     "OBJ-8223-5.1-02"
    ],
-   "text": "A number in standard form is written A × 10ⁿ, where A is at least 1 and less than 10 and n is a whole number; n is positive for numbers of 10 or more and negative for numbers smaller than 1.",
+   "text": "A number in standard form is written A × 10ⁿ, where A is at least 1 and less than 10 and n is an integer; n is positive for numbers of 10 or more and negative for numbers smaller than 1.",
    "claim_type": "definition",
    "provenance": "generated_gap",
    "evidence": [],
    "derived_from_claim_ids": [],
-   "revision": 1,
+   "revision": 2,
    "verification": {
     "status": "unverified",
     "method": "Authored for topic 5.1 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line restated here (\"recognise and use expressions in decimal and standard form\"); no second source checked. Requires semantic review and two-source verification before any publication.",

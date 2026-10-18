@@ -665,7 +665,7 @@
    "mark_tariff": 2,
    "difficulty": 3,
    "prompt": "A learner writes: 'Elastic fibres stop the alveoli collapsing.' Explain what is wrong with this statement, and state the test that separates it from the correct idea.",
-   "canonical_answer": "The error is that the fibres do not hold the alveoli open; the air inside them does that. Instead the elastic fibres stretch when air enters the alveoli on breathing in and recoil on breathing out, which helps push air out. The test is to ask what the fibres do on inhaling and on exhaling: they stretch and then recoil.",
+   "canonical_answer": "The error is to give the elastic fibres the role of holding the alveoli open. Their role here is to stretch when air enters the alveoli on breathing in and recoil on breathing out, which helps push air out. The test is to ask what the fibres do on inhaling and on exhaling: they stretch and then recoil.",
    "marking_guidance": [
     "2 marks: stretch when breathing in (the fibres stretch as air enters); recoil when breathing out, helping push air out. The error, holding the alveoli open, is corrected by the test of what the fibres do on inhaling and on exhaling.",
     "A reply that gives only recoil, or says the fibres contract like muscle, is a mistake: elastic fibres do not contract. The confusion must be named and replaced by stretch and recoil."
@@ -685,7 +685,9 @@
    "claims_seen": {
     "CLM-8223-2.10.1-023": 1
    },
-   "authored_hash": "a1229e3b709c8e81aeea27c4fbc93dbeb10b408bdb7a2f3a4a1f5076314e273b",
+   "authored_hash": "ba372838877d41cd9b130e80ef76a189e0c775df44b78ca568abddd7a27442c3",
+   "prior_hash": "a1229e3b709c8e81aeea27c4fbc93dbeb10b408bdb7a2f3a4a1f5076314e273b",
+   "repair_note": "Step 6 review: removed the inaccurate claim that air alone holds alveoli open; retained the syllabus-relevant stretch-and-recoil function of elastic fibres.",
    "objective_titles": [
     "describe the functions in the gas exchange system of cartilage, smooth muscle, elastic fibres and squamous epithelium"
    ]

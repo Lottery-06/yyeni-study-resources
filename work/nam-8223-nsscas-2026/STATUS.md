@@ -15,7 +15,7 @@ Second NSSCAS subject, run in parallel with the 8224 Chemistry pilot. Vitalis ag
 - [ ] 4 YOU: plan committed (not yet; Jeremy to commit; authoring started before the commit at his instruction)
 - [x] 5 Topics authored: 32 / 32, every topic DECISION: PUBLISH on re-run (C-18 AO-mix warning only; C-35/41/43 not_run). Claim source labels normalised to NSSCAS-8223-SYLLABUS-2020. Author flags for the reviewer in working-notes/REVIEW-FLAGS.md — 2026-10-18
 - [x] 5 Published: `publish/nam-8223-nsscas-2026` (32 topics, 772 items, 86,137 words of notes) — 2026-10-18
-- [ ] 6 Reviewed by Codex: verdict _
+- [x] 6 Reviewed by Codex: verdict publish — 2026-10-18 (32/32 topics PUBLISH; completeness and copied-wording audits clean; learner-facing defects repaired and republished; Biology-specialist truth findings remain mandatory before learner import; report: `review/STEP-6-REVIEW-REPORT.md`)
 - [ ] 6 YOU: verdict read
 - [ ] 7 YOU: committed and pushed
 - [ ] 8 (diagram) Compare with existing YYeni NSSCAS Biology cards (school 17, classroom `79420c65-90b9-408f-96fb-e7d27c05a920`; 0 cards on 2026-10-18)

@@ -940,9 +940,11 @@
    "qa_status": "review_required",
    "claims_seen": {
     "CLM-8223-4.4-019": 1,
-    "CLM-8223-4.4-020": 1
+    "CLM-8223-4.4-020": 2
    },
    "authored_hash": "f764f1b9062afa662ad650306d058f275c9402926959d79d6dd960002c11636d",
+   "prior_hash": "f764f1b9062afa662ad650306d058f275c9402926959d79d6dd960002c11636d",
+   "reviewed_unchanged": "The formula remains correct after qualifying what a scale-based percentage uncertainty can establish.",
    "objective_titles": [
     "Calculate actual and percentage error and judge confidence in the results."
    ]
@@ -966,7 +968,7 @@
    "mark_tariff": 2,
    "difficulty": 5,
    "prompt": "A measuring cylinder has an actual error of ±0.5 cm³ at each reading. A learner could measure either 4.0 cm³ or 25.0 cm³ of an enzyme solution. Explain which volume would give more confidence in the accuracy of the measurement.",
-   "canonical_answer": "The 25.0 cm³ volume would give more confidence. The percentage error for 4.0 cm³ is 0.5 ÷ 4.0 × 100 = 12.5 per cent, and for 25.0 cm³ it is 0.5 ÷ 25.0 × 100 = 2.0 per cent. The same actual error is a smaller percentage of the larger volume, so the measurement is closer to the true value.",
+   "canonical_answer": "The 25.0 cm³ volume would be less affected by the stated scale-reading uncertainty. The percentage for 4.0 cm³ is 0.5 ÷ 4.0 × 100 = 12.5 per cent, and for 25.0 cm³ it is 0.5 ÷ 25.0 × 100 = 2.0 per cent. The same uncertainty is a smaller percentage of the larger volume. This comparison does not rule out calibration or other errors.",
    "marking_guidance": [
     "2 marks: the larger volume, 25.0 cm³, chosen because the same actual error is a smaller proportion of it (1); supported by the percentage errors, 12.5 per cent and 2.0 per cent (1).",
     "A judgement without the values from the calculation is credited for the first mark only."
@@ -985,9 +987,11 @@
    "qa_status": "review_required",
    "claims_seen": {
     "CLM-8223-4.4-019": 1,
-    "CLM-8223-4.4-020": 1
+    "CLM-8223-4.4-020": 2
    },
-   "authored_hash": "7c9cb4007ba2fbec236ef491c57bb5ae22d94c619bcce97049d918678c1e8772",
+   "authored_hash": "0da4678586135029c4e33c0073d8a66c6efaa03df8be78989807256954e498df",
+   "prior_hash": "7c9cb4007ba2fbec236ef491c57bb5ae22d94c619bcce97049d918678c1e8772",
+   "repair_note": "Step 6 review: qualify what scale-based percentage uncertainty establishes and standardise light intensity across colour filters.",
    "objective_titles": [
     "Calculate actual and percentage error and judge confidence in the results."
    ]
@@ -1031,10 +1035,12 @@
    "qa_status": "review_required",
    "claims_seen": {
     "CLM-8223-4.4-019": 1,
-    "CLM-8223-4.4-020": 1,
-    "CLM-8223-4.4-021": 1
+    "CLM-8223-4.4-020": 2,
+    "CLM-8223-4.4-021": 2
    },
    "authored_hash": "7108784e7e11d362ba4c61ec15a11eb923c11ac0eb8d8dcc2c259d06fa01bbf5",
+   "prior_hash": "7108784e7e11d362ba4c61ec15a11eb923c11ac0eb8d8dcc2c259d06fa01bbf5",
+   "reviewed_unchanged": "The answer already limits its judgement to the ruler measurement and explicitly retains other sources of error.",
    "objective_titles": [
     "Calculate actual and percentage error and judge confidence in the results."
    ]
@@ -1057,9 +1063,9 @@
    "mark_tariff": 2,
    "difficulty": 4,
    "prompt": "A learner finds that the percentage error of a length measurement is 1 per cent and says, my results are reliable. Explain the error in this statement.",
-   "canonical_answer": "The error is a confusion of accuracy with reliability. In fact a small percentage error shows that the measurement is close to the true value, which is accuracy, and says nothing about whether repeating the work gives consistent results, which is reliability. The test is to ask whether the statement is about closeness to the true value or about agreement between repeats. A percentage error of 1 per cent on one reading is about closeness, so reliability would need repeats that agree.",
+   "canonical_answer": "The error is to infer reliability from one reading. A percentage uncertainty of 1 per cent shows that the stated scale-reading uncertainty is small compared with that reading; it does not prove closeness to the true value, because calibration or other systematic errors may remain. Reliability concerns agreement between repeats, so it can be judged only from repeat results.",
    "marking_guidance": [
-    "2 marks: the error named, accuracy and reliability confused, a small percentage error is about closeness to the true value and not agreement between repeats (1); the correct idea or the test that tells them apart, closeness to the true value or agreement between repeats (1).",
+    "2 marks: the error named, reliability inferred from one scale-based percentage uncertainty (1); the correct idea, that this percentage addresses only the stated reading uncertainty, while calibration and other errors affect accuracy and repeat agreement is needed for reliability (1).",
     "The card is a discrimination between two different terms and not a repeat of the definition of percentage error."
    ],
    "context": {
@@ -1075,9 +1081,11 @@
    "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
    "qa_status": "review_required",
    "claims_seen": {
-    "CLM-8223-4.4-021": 1
+    "CLM-8223-4.4-021": 2
    },
-   "authored_hash": "bfa9f8bf9876ed1f676c913c794f963957cc94a69703031229c86690caa40fb1",
+   "authored_hash": "cc4f50f4497e285a5758f16f7cc678f823529fc870ec98365bb479b5ff4cb169",
+   "prior_hash": "bfa9f8bf9876ed1f676c913c794f963957cc94a69703031229c86690caa40fb1",
+   "repair_note": "Step 6 review: qualify what scale-based percentage uncertainty establishes and standardise light intensity across colour filters.",
    "objective_titles": [
     "Calculate actual and percentage error and judge confidence in the results."
    ]
@@ -1950,9 +1958,9 @@
    "mark_tariff": 2,
    "difficulty": 3,
    "prompt": "An investigation has measured the number of bubbles per minute released by pondweed at different distances from a lamp. Explain how it could be modified to find the effect of the colour of the light.",
-   "canonical_answer": "The independent variable becomes the colour, so red, green and blue filters are placed between the lamp and the pondweed in turn. The lamp is kept at the same distance, and the same pondweed, the same volume of water and the same counting time are used, so only the colour differs. The bubbles per minute are counted for each colour, with repeats.",
+   "canonical_answer": "The independent variable becomes the colour, so red, green and blue filters are placed between the lamp and the pondweed in turn. Because filters transmit different amounts of light, use a light meter at the pondweed and adjust the lamp output until the intensity is the same for every colour. Keep the pondweed, water volume, temperature and counting time the same, and count bubbles per minute with repeats.",
    "marking_guidance": [
-    "2 marks: the independent variable changed to the colour of light, using filters (1); the other variables standardised and the measurement stated, so that only the colour differs (1).",
+    "2 marks: the independent variable changed to the colour of light, using filters (1); intensity checked and standardised with a light meter, with other variables standardised and bubbles per minute measured (1).",
     "Changing the distance again is the original investigation and earns no mark. Each point names an error and its effect on the result."
    ],
    "context": {
@@ -1970,7 +1978,9 @@
    "claims_seen": {
     "CLM-8223-4.4-036": 1
    },
-   "authored_hash": "88b61177d8b4eac922ce0625449c6ea671ee0baaf513623a95960dd3c4dada20",
+   "authored_hash": "d888186f2c8e6bacffc7d4386b68a91d0cf80798dcc8dd482eab973401491cb0",
+   "prior_hash": "88b61177d8b4eac922ce0625449c6ea671ee0baaf513623a95960dd3c4dada20",
+   "repair_note": "Step 6 review: qualify what scale-based percentage uncertainty establishes and standardise light intensity across colour filters.",
    "objective_titles": [
     "Suggest how to modify or extend an investigation to answer a new question."
    ]
@@ -2180,14 +2190,16 @@
     "CLM-8223-4.4-004": 1,
     "CLM-8223-4.4-005": 1,
     "CLM-8223-4.4-019": 1,
-    "CLM-8223-4.4-020": 1,
-    "CLM-8223-4.4-021": 1,
+    "CLM-8223-4.4-020": 2,
+    "CLM-8223-4.4-021": 2,
     "CLM-8223-4.4-022": 1,
     "CLM-8223-4.4-023": 1,
     "CLM-8223-4.4-030": 1,
     "CLM-8223-4.4-031": 1
    },
    "authored_hash": "6809173a79300b1d0c47acf7424abe2b9e4add2b98dfa303dac6295591ac2afb",
+   "prior_hash": "6809173a79300b1d0c47acf7424abe2b9e4add2b98dfa303dac6295591ac2afb",
+   "reviewed_unchanged": "The task already treats syringe uncertainty as one source and accepts repeats or closer calibration standards as separate improvements.",
    "objective_titles": [
     "Find an unknown value from graph coordinates, intercepts or extrapolation.",
     "Calculate actual and percentage error and judge confidence in the results.",

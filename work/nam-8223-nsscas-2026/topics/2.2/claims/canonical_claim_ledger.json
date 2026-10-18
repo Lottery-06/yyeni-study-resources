@@ -615,7 +615,7 @@
    "objective_ids": [
     "OBJ-8223-2.2-07"
    ],
-   "text": "A bacterium has no nucleus, so its DNA is not enclosed by a nuclear envelope. The DNA is circular and naked, meaning it is not wound around histone proteins, and it has no mitochondria, chloroplasts, endoplasmic reticulum or Golgi body, that is no double membrane-bound organelles. The reactions that these organelles carry out in eukaryotic cells take place in the cytoplasm or at the cell surface membrane.",
+   "text": "A bacterium has no nucleus, so its DNA is not enclosed by a nuclear envelope. The DNA is circular and naked, meaning it is not wound around histone proteins, and it has no membrane-bound organelles: no mitochondria, chloroplasts, endoplasmic reticulum or Golgi body. The reactions that these organelles carry out in eukaryotic cells take place in the cytoplasm or at the cell surface membrane.",
    "claim_type": "causal",
    "provenance": "generated_gap",
    "evidence": [
@@ -626,7 +626,7 @@
     }
    ],
    "derived_from_claim_ids": [],
-   "revision": 1,
+   "revision": 2,
    "verification": {
     "status": "unverified",
     "method": "Authored from the syllabus wording and standard biology; single source, no second source checked. Requires review and two-source verification before any publication.",

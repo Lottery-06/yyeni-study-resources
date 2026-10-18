@@ -443,12 +443,12 @@
    "objective_ids": [
     "OBJ-8223-4.4-09"
    ],
-   "text": "The same actual error is a larger percentage of a small measurement than of a large one, so measuring a larger quantity reduces the percentage error and increases confidence in the accuracy of the result.",
+  "text": "The same scale-reading uncertainty is a larger percentage of a small measurement than of a large one, so measuring a larger quantity reduces the percentage uncertainty from that source; this does not remove calibration errors or other sources of error.",
    "claim_type": "causal",
    "provenance": "generated_gap",
    "evidence": [],
    "derived_from_claim_ids": [],
-   "revision": 1,
+  "revision": 2,
    "verification": {
     "status": "unverified",
     "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
@@ -466,12 +466,12 @@
    "objective_ids": [
     "OBJ-8223-4.4-09"
    ],
-   "text": "A small percentage error gives confidence in the accuracy of a result, meaning closeness to the true value, but it says nothing about reliability, which is agreement between repeats; a difference between two results is convincing only when it is larger than the errors in the measurements.",
+  "text": "A small percentage uncertainty from a scale shows that scale resolution is small relative to the reading, but does not by itself prove closeness to the true value or reliability; calibration and other systematic errors affect accuracy, while agreement between repeats provides evidence about reliability.",
    "claim_type": "evaluative",
    "provenance": "generated_gap",
    "evidence": [],
    "derived_from_claim_ids": [],
-   "revision": 1,
+  "revision": 2,
    "verification": {
     "status": "unverified",
     "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",

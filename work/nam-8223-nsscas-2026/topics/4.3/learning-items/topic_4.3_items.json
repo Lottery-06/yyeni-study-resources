@@ -404,7 +404,7 @@
    "mark_tariff": 1,
    "difficulty": 2,
    "prompt": "State the rule that sets the number of significant figures for a calculated value.",
-   "canonical_answer": "A calculated value is given to the same number of significant figures as, or one more than, the measured quantity of least accuracy that was used, which is the measurement with the fewest significant figures.",
+   "canonical_answer": "Find the measurement with the fewest significant figures. Give the calculated result with that many significant figures, or with one additional significant figure.",
    "marking_guidance": [
     "1 mark: the statement of the rule, naming the measured quantity of least accuracy, the one with the fewest significant figures. The key words are same as, or one more than."
    ],
@@ -425,7 +425,9 @@
     "CLM-8223-4.3-012": 1,
     "CLM-8223-4.3-013": 1
    },
-   "authored_hash": "b105efe6dec124927f66cede3c1b46fbb981a9befcd903437aa3c98fcb0a2f6c"
+   "authored_hash": "11cc0e7fd7f0d9c3d766f3d361a3825ee95ca62a0198cfd71a68a1d9f65b4adc",
+   "prior_hash": "b105efe6dec124927f66cede3c1b46fbb981a9befcd903437aa3c98fcb0a2f6c",
+   "repair_note": "Step 6 review: paraphrased examiner-report wording about significant figures without changing the rule."
   },
   {
    "item_id": "ITEM-8223-4.3-011-CALC",

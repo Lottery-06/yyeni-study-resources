@@ -77,7 +77,7 @@
    "block_id": "5.1-b4",
    "block_type": "definition",
    "heading": "Decimal form and standard form",
-   "text": "Biological quantities range from the width of a virus to the mass of a baobab, and writing all the zeros is slow and invites mistakes. Standard form writes a number as A × 10ⁿ. The leading number A is at least 1 and less than 10, and the power n is a whole number. A number of 10 or more has a positive power, and a number smaller than 1 has a negative power. So 340 000 is 3.4 × 10⁵ and 0.000034 is 3.4 × 10⁻⁵. A number such as 34 × 10⁴ is not in standard form, because 34 is not less than 10.\n\nTo change a decimal into standard form, count how many places the decimal point must move to leave one non-zero digit in front of it. The count is the size of n. If the point moves to the left, n is positive; if it moves to the right, n is negative. A bacterium 0.0000025 m long needs the point moved 6 places to the right to give 2.5, so its length is 2.5 × 10⁻⁶ m. To go back, move the point the other way by the same number of places. Standard form is also useful because the power shows the order of magnitude at a glance.\n\nStandard form is multiplied by multiplying the leading numbers and adding the powers, then correcting A if it leaves the range. A drop of blood from a donor at Oshakati hospital holding 4.8 × 10⁶ red blood cells in each mm³ contains 4.8 × 2.5 = 12.0, that is 12.0 × 10⁶, in 2.5 mm³. Written correctly, this is 1.2 × 10⁷ cells.",
+   "text": "Biological quantities range from the width of a virus to the mass of a baobab, and writing all the zeros is slow and invites mistakes. Standard form writes a number as A × 10ⁿ. The leading number A is at least 1 and less than 10, and the power n is an integer, so it may be positive, zero or negative. A number of 10 or more has a positive power, and a number smaller than 1 has a negative power. So 340 000 is 3.4 × 10⁵ and 0.000034 is 3.4 × 10⁻⁵. A number such as 34 × 10⁴ is not in standard form, because 34 is not less than 10.\n\nTo change a decimal into standard form, count how many places the decimal point must move to leave one non-zero digit in front of it. The count is the size of n. If the point moves to the left, n is positive; if it moves to the right, n is negative. A bacterium 0.0000025 m long needs the point moved 6 places to the right to give 2.5, so its length is 2.5 × 10⁻⁶ m. To go back, move the point the other way by the same number of places. Standard form is also useful because the power shows the order of magnitude at a glance.\n\nStandard form is multiplied by multiplying the leading numbers and adding the powers, then correcting A if it leaves the range. A drop of blood from a donor at Oshakati hospital holding 4.8 × 10⁶ red blood cells in each mm³ contains 4.8 × 2.5 = 12.0, that is 12.0 × 10⁶, in 2.5 mm³. Written correctly, this is 1.2 × 10⁷ cells.",
    "claim_ids": [
     "CLM-8223-5.1-004",
     "CLM-8223-5.1-005"
@@ -88,10 +88,12 @@
     "B"
    ],
    "claims_seen": {
-    "CLM-8223-5.1-004": 1,
+    "CLM-8223-5.1-004": 2,
     "CLM-8223-5.1-005": 1
    },
-   "authored_hash": "108f4f4d28592d3bba700c745ee275089120d7fb31f3e5cf29b350a4549c0902"
+   "authored_hash": "25762a4587be1813de4281d7ebfbee4acd0a7e978e49cec2ee8f7a85b8fb3d86",
+   "prior_hash": "108f4f4d28592d3bba700c745ee275089120d7fb31f3e5cf29b350a4549c0902",
+   "repair_note": "Step 6 review: corrected standard-form exponent from whole number to integer."
   },
   {
    "block_id": "5.1-b5",

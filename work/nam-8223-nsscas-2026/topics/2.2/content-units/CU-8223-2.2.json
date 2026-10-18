@@ -309,7 +309,7 @@
    "block_id": "2.2-b16",
    "block_type": "plain_explanation",
    "heading": "The prokaryotic cell: a typical bacterium",
-   "text": "A typical bacterium is a prokaryote and is unicellular. Its diameter is usually about 1 to 5 μm. It has a cell surface membrane, a cell wall made of peptidoglycan, and cytoplasm that contains 70S ribosomes. Its DNA is a single loop, lying free in a region of the cytoplasm called the nucleoid.\n\nThere is no nucleus, so the DNA is not enclosed by a nuclear envelope. The DNA is described as naked because it is not wound around histone proteins, and it is circular instead of forming long linear chromosomes. A bacterium has no double membrane-bound organelles: no mitochondria, chloroplasts, endoplasmic reticulum or Golgi body. The reactions that these organelles carry out in a eukaryotic cell take place in the cytoplasm or at the cell surface membrane.\n\nPeptidoglycan is a network of sugar chains cross-linked by short peptides. It is chemically different from cellulose, but like cellulose it gives strength, gives the cell its shape, and stops the cell bursting when water enters. Some bacteria also carry small circular DNA molecules called plasmids and a flagellum for movement, but these are not present in every bacterium.",
+   "text": "A typical bacterium is a prokaryote and is unicellular. Its diameter is usually about 1 to 5 μm. It has a cell surface membrane, a cell wall made of peptidoglycan, and cytoplasm that contains 70S ribosomes. Its DNA is a single loop, lying free in a region of the cytoplasm called the nucleoid.\n\nThere is no nucleus, so the DNA is not enclosed by a nuclear envelope. The DNA is described as naked because it is not wound around histone proteins, and it is circular instead of forming long linear chromosomes. A bacterium has no membrane-bound organelles: no mitochondria, chloroplasts, endoplasmic reticulum or Golgi body. The reactions that these organelles carry out in a eukaryotic cell take place in the cytoplasm or at the cell surface membrane.\n\nPeptidoglycan is a network of sugar chains cross-linked by short peptides. It is chemically different from cellulose, but like cellulose it gives strength, gives the cell its shape, and stops the cell bursting when water enters. Some bacteria also carry small circular DNA molecules called plasmids and a flagellum for movement, but these are not present in every bacterium.",
    "claim_ids": [
     "CLM-8223-2.2-021",
     "CLM-8223-2.2-022",
@@ -322,10 +322,12 @@
    ],
    "claims_seen": {
     "CLM-8223-2.2-021": 1,
-    "CLM-8223-2.2-022": 1,
+    "CLM-8223-2.2-022": 2,
     "CLM-8223-2.2-023": 1
    },
-   "authored_hash": "17786006fba4ac8ba8ef0d443421d26ec903997fdf69b26fb3bc48b9c7d29362"
+   "authored_hash": "a9e7afc398319930475f4731a7456bc8cefa8329fe7d0fd73558f924c3d1b221",
+   "prior_hash": "17786006fba4ac8ba8ef0d443421d26ec903997fdf69b26fb3bc48b9c7d29362",
+   "repair_note": "Step 6 review: corrected single- versus double-membrane organelle terminology."
   },
   {
    "block_id": "2.2-b17",

@@ -465,9 +465,9 @@
    "mark_tariff": 2,
    "difficulty": 2,
    "prompt": "Salvinia, a floating plant from South America, has covered the surface of a dam in southern Africa. Explain, using this example, why the control of alien species is important.",
-   "canonical_answer": "Salvinia has no natural predators or competitors in the dam, so it spreads quickly into a thick mat. The mat cuts off light, so submerged native plants die, which reduces the oxygen and the food for the animals that live there. The number of native species falls, so the biodiversity of the dam is reduced.",
+   "canonical_answer": "Once Salvinia spreads into a thick mat, the mat cuts off light, so submerged native plants die. This reduces oxygen and food for the animals that live there. Native species then decline, so controlling Salvinia protects the biodiversity of the dam.",
    "marking_guidance": [
-    "2 marks from three points: the alien plant spreads fast because its natural predators and competitors are absent (1); the mat blocks light so native plants die, and oxygen falls (1); native species and biodiversity decrease as a result (1).",
+    "2 marks from three points: the mat blocks light so submerged native plants die (1); oxygen or food for animals falls (1); native species and biodiversity decrease, so control protects the community (1).",
     "The answer must use the Salvinia example given, because the question asks for an example; a general statement that aliens are harmful earns no mark. Each cause must lead to a result."
    ],
    "context": {
@@ -487,7 +487,9 @@
     "CLM-8223-1.3-016": 1,
     "CLM-8223-1.3-017": 1
    },
-   "authored_hash": "aae616efe041386edf5541d33e35d72bfb44f8c46b0496d70e926b9699cfdbc4",
+   "authored_hash": "b58fb5615242685e1dca3e38ad1e154c8351c29702fba14a396c386b8fa671b4",
+   "prior_hash": "aae616efe041386edf5541d33e35d72bfb44f8c46b0496d70e926b9699cfdbc4",
+   "repair_note": "Step 6 review: removed an unsupported claim that the specified Salvinia population has no natural predators or competitors; the answer now follows only from the prompt.",
    "objective_titles": [
     "explain, using examples, the importance of controlling alien species"
    ]

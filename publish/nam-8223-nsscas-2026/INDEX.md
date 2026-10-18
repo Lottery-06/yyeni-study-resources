@@ -1,6 +1,6 @@
 # Namibia Senior Secondary Certificate Advanced Subsidiary level (NSSCAS) Biology 8223 (syllabus vNIED 2020, examined 2021-2025)
 
-Study notes and flashcards. 32 topics, 772 flashcards and performance tasks, 86,137 words of notes.
+Study notes and flashcards. 32 topics, 772 flashcards and performance tasks, 86,101 words of notes.
 
 Every topic here passes the full deterministic check suite. Semantic review runs on published material rather than ahead of it, so the **Open issues** column is debt that ships visibly and is cleared in a maintenance pass - it is not a warning that the topic is unusable.
 
@@ -18,7 +18,7 @@ Every topic here passes the full deterministic check suite. Semantic review runs
 | Topic | Notes | Flashcards | Items | Words | Open issues |
 |---|---|---|---:|---:|---:|
 | **2.1** The microscope | [2.1-the-microscope.md](notes/2.1-the-microscope.md) | [2.1-the-microscope-flashcards.json](flashcards/2.1-the-microscope-flashcards.json) | 18 | 1,952 | — |
-| **2.2** Cell structure | [2.2-cell-structure.md](notes/2.2-cell-structure.md) | [2.2-cell-structure-flashcards.json](flashcards/2.2-cell-structure-flashcards.json) | 34 | 3,573 | — |
+| **2.2** Cell structure | [2.2-cell-structure.md](notes/2.2-cell-structure.md) | [2.2-cell-structure-flashcards.json](flashcards/2.2-cell-structure-flashcards.json) | 34 | 3,572 | — |
 | **2.3.1** Fluid mosaic membranes | [2.3.1-fluid-mosaic-membranes.md](notes/2.3.1-fluid-mosaic-membranes.md) | [2.3.1-fluid-mosaic-membranes-flashcards.json](flashcards/2.3.1-fluid-mosaic-membranes-flashcards.json) | 16 | 1,453 | — |
 | **2.3.2** Movement of substances into and out of cells | [2.3.2-movement-of-substances-into-and-out-of-cells.md](notes/2.3.2-movement-of-substances-into-and-out-of-cells.md) | [2.3.2-movement-of-substances-into-and-out-of-cells-flashcards.json](flashcards/2.3.2-movement-of-substances-into-and-out-of-cells-flashcards.json) | 25 | 2,223 | — |
 | **2.4.1** Carbohydrates and lipids | [2.4.1-carbohydrates-and-lipids.md](notes/2.4.1-carbohydrates-and-lipids.md) | [2.4.1-carbohydrates-and-lipids-flashcards.json](flashcards/2.4.1-carbohydrates-and-lipids-flashcards.json) | 39 | 3,746 | — |
@@ -33,7 +33,7 @@ Every topic here passes the full deterministic check suite. Semantic review runs
 | **2.8.2** Antibiotics | [2.8.2-antibiotics.md](notes/2.8.2-antibiotics.md) | [2.8.2-antibiotics-flashcards.json](flashcards/2.8.2-antibiotics-flashcards.json) | 15 | 1,438 | — |
 | **2.9.1** The response of the immune system to pathogens | [2.9.1-the-response-of-the-immune-system-to-pathogens.md](notes/2.9.1-the-response-of-the-immune-system-to-pathogens.md) | [2.9.1-the-response-of-the-immune-system-to-pathogens-flashcards.json](flashcards/2.9.1-the-response-of-the-immune-system-to-pathogens-flashcards.json) | 15 | 1,677 | — |
 | **2.9.2** Antibodies and vaccination | [2.9.2-antibodies-and-vaccination.md](notes/2.9.2-antibodies-and-vaccination.md) | [2.9.2-antibodies-and-vaccination-flashcards.json](flashcards/2.9.2-antibodies-and-vaccination-flashcards.json) | 16 | 2,386 | — |
-| **2.10.1** The gas exchange system | [2.10.1-the-gas-exchange-system.md](notes/2.10.1-the-gas-exchange-system.md) | [2.10.1-the-gas-exchange-system-flashcards.json](flashcards/2.10.1-the-gas-exchange-system-flashcards.json) | 20 | 2,558 | — |
+| **2.10.1** The gas exchange system | [2.10.1-the-gas-exchange-system.md](notes/2.10.1-the-gas-exchange-system.md) | [2.10.1-the-gas-exchange-system-flashcards.json](flashcards/2.10.1-the-gas-exchange-system-flashcards.json) | 20 | 2,554 | — |
 | **2.10.2** Smoking and its impact on the gas exchange and circulatory system | [2.10.2-smoking-and-its-impact-on-the-gas-exchange-and-circulatory-system.md](notes/2.10.2-smoking-and-its-impact-on-the-gas-exchange-and-circulatory-system.md) | [2.10.2-smoking-and-its-impact-on-the-gas-exchange-and-circulatory-system-flashcards.json](flashcards/2.10.2-smoking-and-its-impact-on-the-gas-exchange-and-circulatory-system-flashcards.json) | 11 | 1,317 | — |
 
 ## Development of the organism and the continuity of life
@@ -51,14 +51,14 @@ Every topic here passes the full deterministic check suite. Semantic review runs
 |---|---|---|---:|---:|---:|
 | **4.1** Planning investigations and taking measurements | [4.1-planning-investigations-and-taking-measurements.md](notes/4.1-planning-investigations-and-taking-measurements.md) | [4.1-planning-investigations-and-taking-measurements-flashcards.json](flashcards/4.1-planning-investigations-and-taking-measurements-flashcards.json) | 37 | 5,145 | — |
 | **4.2** Microscopy, drawing and measuring specimens | [4.2-microscopy-drawing-and-measuring-specimens.md](notes/4.2-microscopy-drawing-and-measuring-specimens.md) | [4.2-microscopy-drawing-and-measuring-specimens-flashcards.json](flashcards/4.2-microscopy-drawing-and-measuring-specimens-flashcards.json) | 37 | 5,214 | — |
-| **4.3** Recording and presenting data | [4.3-recording-and-presenting-data.md](notes/4.3-recording-and-presenting-data.md) | [4.3-recording-and-presenting-data-flashcards.json](flashcards/4.3-recording-and-presenting-data-flashcards.json) | 26 | 4,659 | — |
-| **4.4** Analysis, conclusions and evaluation | [4.4-analysis-conclusions-and-evaluation.md](notes/4.4-analysis-conclusions-and-evaluation.md) | [4.4-analysis-conclusions-and-evaluation-flashcards.json](flashcards/4.4-analysis-conclusions-and-evaluation-flashcards.json) | 48 | 6,548 | — |
+| **4.3** Recording and presenting data | [4.3-recording-and-presenting-data.md](notes/4.3-recording-and-presenting-data.md) | [4.3-recording-and-presenting-data-flashcards.json](flashcards/4.3-recording-and-presenting-data-flashcards.json) | 26 | 4,634 | — |
+| **4.4** Analysis, conclusions and evaluation | [4.4-analysis-conclusions-and-evaluation.md](notes/4.4-analysis-conclusions-and-evaluation.md) | [4.4-analysis-conclusions-and-evaluation-flashcards.json](flashcards/4.4-analysis-conclusions-and-evaluation-flashcards.json) | 48 | 6,535 | — |
 
 ## Mathematical skills
 
 | Topic | Notes | Flashcards | Items | Words | Open issues |
 |---|---|---|---:|---:|---:|
-| **5.1** Number, units and accuracy | [5.1-number-units-and-accuracy.md](notes/5.1-number-units-and-accuracy.md) | [5.1-number-units-and-accuracy-flashcards.json](flashcards/5.1-number-units-and-accuracy-flashcards.json) | 43 | 2,839 | — |
+| **5.1** Number, units and accuracy | [5.1-number-units-and-accuracy.md](notes/5.1-number-units-and-accuracy.md) | [5.1-number-units-and-accuracy-flashcards.json](flashcards/5.1-number-units-and-accuracy-flashcards.json) | 43 | 2,846 | — |
 | **5.2** Graphs, charts and rates of change | [5.2-graphs-charts-and-rates-of-change.md](notes/5.2-graphs-charts-and-rates-of-change.md) | [5.2-graphs-charts-and-rates-of-change-flashcards.json](flashcards/5.2-graphs-charts-and-rates-of-change-flashcards.json) | 38 | 3,518 | — |
 | **5.3** Size, magnification and biodiversity calculations | [5.3-size-magnification-and-biodiversity-calculations.md](notes/5.3-size-magnification-and-biodiversity-calculations.md) | [5.3-size-magnification-and-biodiversity-calculations-flashcards.json](flashcards/5.3-size-magnification-and-biodiversity-calculations-flashcards.json) | 29 | 2,134 | — |
 
