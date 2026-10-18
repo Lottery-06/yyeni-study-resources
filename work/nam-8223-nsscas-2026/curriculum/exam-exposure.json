@@ -1,0 +1,7215 @@
+{
+ "exposure_id": "EXPOSURE-NAM-NSSCAS-8223",
+ "generated_at": "2026-10-18T11:46:48Z",
+ "authority": "NSSCAS Biology 8223 question papers 2021-2024 and the NSSCAS Examiners Report 2025, matched by reading to the syllabus objectives and the Annexe A and C objectives (see assessment-evidence/assessment_evidence.json).",
+ "evidence_window": "398 records over 5 sittings (Oct/Nov 2021, Oct/Nov 2022, Oct/Nov 2023, Oct/Nov 2024, Oct/Nov 2025). 2021-2023 papers are proof versions; 2023 has no report; 2025 has no papers (report only).",
+ "method": "Each question part was mapped to the objectives it tests by reading (confidence recorded per record). Counts are computed from those records. Class by share of the 5 sittings in which an objective is named: core in at least 60% (3 or more), frequent 35% (2), occasional 15% (1), rare below that (not reachable with 5 sittings), unseen never.",
+ "principle": "RS-05: past-paper frequency may calibrate emphasis but MUST NOT remove or weaken syllabus-mandated coverage.",
+ "status": "measured",
+ "unmatched_parts": 0,
+ "series_in_window": [
+  "Oct/Nov 2021",
+  "Oct/Nov 2022",
+  "Oct/Nov 2023",
+  "Oct/Nov 2024",
+  "Oct/Nov 2025"
+ ],
+ "objectives": [
+  {
+   "objective_id": "OBJ-8223-1.1-01",
+   "topic_id": "1.1",
+   "syllabus_text": "use and describe the binomial system of naming organisms",
+   "times_examined": 4,
+   "marks_examined": 7,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 1,
+    "2": 3
+   },
+   "command_words": {
+    "State": 1,
+    "Name": 1,
+    "Use": 1
+   },
+   "papers": {
+    "P2": 3,
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 4,
+    "distinct_series": 3,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "State": 1,
+     "Name": 1,
+     "Use": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-1.1-02",
+   "topic_id": "1.1",
+   "syllabus_text": "describe the use of a hierarchical classification system for living organisms",
+   "times_examined": 2,
+   "marks_examined": 3,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 1,
+    "2": 1
+   },
+   "command_words": {
+    "Use": 1
+   },
+   "papers": {
+    "P2": 1,
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "Use": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-1.1-03",
+   "topic_id": "1.1",
+   "syllabus_text": "explain the concept of natural classification, based on homologous features and evolutionary relationships",
+   "times_examined": 1,
+   "marks_examined": 1,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2022"
+   ],
+   "tariffs": {
+    "1": 1
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-1.1-04",
+   "topic_id": "1.1",
+   "syllabus_text": "construct dichotomous keys for the identification of locally occurring organisms",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-1.1-05",
+   "topic_id": "1.1",
+   "syllabus_text": "discuss the meaning of the term species, limited to the biological, morphological, ecological and behavioural concepts",
+   "times_examined": 4,
+   "marks_examined": 6,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 2,
+    "2": 2
+   },
+   "command_words": {
+    "Explain": 1,
+    "State": 1
+   },
+   "papers": {
+    "P1": 2,
+    "P2": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 4,
+    "distinct_series": 2,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "Explain": 1,
+     "State": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-1.2-01",
+   "topic_id": "1.2",
+   "syllabus_text": "define ecosystem and niche",
+   "times_examined": 6,
+   "marks_examined": 6,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 6
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 6
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 6,
+    "distinct_series": 5,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-1.2-02",
+   "topic_id": "1.2",
+   "syllabus_text": "explain that biodiversity can be assessed at differentlevels: - the number and range of different ecosystems and habitats - the number of species and their relative abundance - the genetic variation within each species",
+   "times_examined": 6,
+   "marks_examined": 12,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2023",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 2,
+    "2": 3,
+    "4": 1
+   },
+   "command_words": {
+    "Explain": 1,
+    "Compare": 1,
+    "Describe": 1,
+    "Draw": 1,
+    "Use": 1
+   },
+   "papers": {
+    "P2": 3,
+    "P1": 1,
+    "P3": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 6,
+    "distinct_series": 2,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Explain": 1,
+     "Compare": 1,
+     "Describe": 1,
+     "Draw": 1,
+     "Use": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-1.2-03",
+   "topic_id": "1.2",
+   "syllabus_text": "explain the importance of random sampling in determining the biodiversity of an area",
+   "times_examined": 2,
+   "marks_examined": 4,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2023",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 1,
+    "3": 1
+   },
+   "command_words": {
+    "Describe": 1
+   },
+   "papers": {
+    "P1": 1,
+    "P3": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Describe": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-1.2-04",
+   "topic_id": "1.2",
+   "syllabus_text": "use Simpson's Index of Diversity (D) to calculate the biodiversity of an area, and state the significance of different values of D (the formula for Simpson's Index of Diversity will be provided, as shown in the Mathematical requirements) (formula: D = 1 – (Ʃ )2 )",
+   "times_examined": 6,
+   "marks_examined": 12,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 2,
+    "2": 3,
+    "4": 1
+   },
+   "command_words": {
+    "Use": 2,
+    "Compare": 1,
+    "State": 1
+   },
+   "papers": {
+    "P1": 2,
+    "P2": 3,
+    "P3": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 6,
+    "distinct_series": 4,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Use": 2,
+     "Compare": 1,
+     "State": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-1.2-05",
+   "topic_id": "1.2",
+   "syllabus_text": "describe and usesuitable methods to assess the distribution and abundance of organisms in an area, limited to frame quadrats, line transects, belttransects and mark-release-recapture using the Lincoln index (as shown in the Mathematical requirements)",
+   "times_examined": 5,
+   "marks_examined": 14,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 1,
+    "3": 3,
+    "4": 1
+   },
+   "command_words": {
+    "Describe": 2,
+    "Take": 1,
+    "Use": 1,
+    "Discuss": 1
+   },
+   "papers": {
+    "P2": 1,
+    "P3": 4
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 1,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Describe": 2,
+     "Take": 1,
+     "Use": 1,
+     "Discuss": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-1.2-06",
+   "topic_id": "1.2",
+   "syllabus_text": "investigate the distribution and abundance of species in a local area,using the methods above/ suitable methods",
+   "times_examined": 4,
+   "marks_examined": 11,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "2": 2,
+    "3": 1,
+    "4": 1
+   },
+   "command_words": {
+    "Draw": 1,
+    "Use": 1,
+    "Discuss": 1,
+    "Identify": 1
+   },
+   "papers": {
+    "P3": 4
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 4,
+    "distinct_series": 1,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Draw": 1,
+     "Use": 1,
+     "Discuss": 1,
+     "Identify": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-1.3-01",
+   "topic_id": "1.3",
+   "syllabus_text": "discuss the reasons for the need to maintain biodiversity",
+   "times_examined": 1,
+   "marks_examined": 2,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "2": 1
+   },
+   "command_words": {
+    "Discuss": 1
+   },
+   "papers": {
+    "P2": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "Discuss": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-1.3-02",
+   "topic_id": "1.3",
+   "syllabus_text": "explain the importance of reducing the pollution of water ways with reference to bioaccumulation and eutrophication",
+   "times_examined": 3,
+   "marks_examined": 3,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 3
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 3
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 3,
+    "distinct_series": 3,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-1.3-03",
+   "topic_id": "1.3",
+   "syllabus_text": "outline the roles of zoos, botanic gardens, conserved areas (national parks and marine parks), 'frozen zoos' and seed banks, in the conservation of endangered species",
+   "times_examined": 2,
+   "marks_examined": 2,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 2
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-1.3-04",
+   "topic_id": "1.3",
+   "syllabus_text": "explain why it may be necessary to limit the population of species, for example by culling or contraception, in order to reduce pressure of other species",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-1.3-05",
+   "topic_id": "1.3",
+   "syllabus_text": "explain, using examples, the importance of controlling alien species",
+   "times_examined": 1,
+   "marks_examined": 1,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 1
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-1.3-06",
+   "topic_id": "1.3",
+   "syllabus_text": "describe how degraded habitats may be restored limited to local or regional examples",
+   "times_examined": 1,
+   "marks_examined": 1,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 1
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-1.3-07",
+   "topic_id": "1.3",
+   "syllabus_text": "investigate the negative impact of rhino and elephant poaching on the tourism sector locally (Namibia) and regionally (South Africa and Botswana)",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.1-01",
+   "topic_id": "2.1",
+   "syllabus_text": "state and explain the principles of microscopy",
+   "times_examined": 2,
+   "marks_examined": 3,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2023",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 1,
+    "2": 1
+   },
+   "command_words": {
+    "State": 1
+   },
+   "papers": {
+    "P1": 1,
+    "P2": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "State": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.1-02",
+   "topic_id": "2.1",
+   "syllabus_text": "explain and distinguish between resolution and magnification, with reference to light-and electron microscope",
+   "times_examined": 5,
+   "marks_examined": 6,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 4,
+    "2": 1
+   },
+   "command_words": {
+    "State": 2
+   },
+   "papers": {
+    "P3": 1,
+    "P1": 3,
+    "P2": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 4,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "State": 2
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.1-03",
+   "topic_id": "2.1",
+   "syllabus_text": "use an eyepiece graticule and stage micrometer scale to measure cells and be familiar with units (millimetre, micrometre and nanometre)",
+   "times_examined": 14,
+   "marks_examined": 19,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 8,
+    "2": 2,
+    "3": 1,
+    "4": 1
+   },
+   "command_words": {
+    "Use": 2,
+    "Calculate": 1,
+    "Look": 1,
+    "Suggest": 1,
+    "Move": 1
+   },
+   "papers": {
+    "P1": 6,
+    "P2": 1,
+    "P3": 7
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 14,
+    "distinct_series": 5,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Use": 2,
+     "Calculate": 1,
+     "Look": 1,
+     "Suggest": 1,
+     "Move": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.1-04",
+   "topic_id": "2.1",
+   "syllabus_text": "calculate actual sizes of specimens from drawings, photomicrographs and electron micrographs",
+   "times_examined": 8,
+   "marks_examined": 15,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 3,
+    "2": 2,
+    "4": 2
+   },
+   "command_words": {
+    "Calculate": 1,
+    "Look": 1,
+    "Use": 2
+   },
+   "papers": {
+    "P3": 5,
+    "P1": 3
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 8,
+    "distinct_series": 5,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Calculate": 1,
+     "Look": 1,
+     "Use": 2
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.1-05",
+   "topic_id": "2.1",
+   "syllabus_text": "calculate the linear magnifications of drawings, photomicrographs and electron micrographs",
+   "times_examined": 3,
+   "marks_examined": 6,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 2,
+    "4": 1
+   },
+   "command_words": {
+    "State": 1,
+    "Use": 1
+   },
+   "papers": {
+    "P3": 2,
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 3,
+    "distinct_series": 2,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "State": 1,
+     "Use": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.2-01",
+   "topic_id": "2.2",
+   "syllabus_text": "identify and recognise the following parts of a eukaryotic cell and outline the functions of the: - cell surface membrane - nucleus, nuclear envelope and nucleolus - mitochondrion - ribosomes (80S in the cytoplasm and 70S in chloroplasts and mitochondria) - chloroplast - rough and smooth endoplasmic reticulum - Golgi body (Golgi apparatus or Golgi complex) - lysosomes - cell wall - centrioles - cilia - microvilli - plasmodesmata - large permanent vacuoles and - tonoplast",
+   "times_examined": 9,
+   "marks_examined": 12,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 6,
+    "2": 3
+   },
+   "command_words": {
+    "Name": 2,
+    "Identify": 1
+   },
+   "papers": {
+    "P1": 6,
+    "P2": 3
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 9,
+    "distinct_series": 5,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "Name": 2,
+     "Identify": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.2-02",
+   "topic_id": "2.2",
+   "syllabus_text": "describe and interpret the structure of plant and animal cells as seen with an electron microscope",
+   "times_examined": 3,
+   "marks_examined": 3,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2023",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 3
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 3
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 3,
+    "distinct_series": 2,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.2-03",
+   "topic_id": "2.2",
+   "syllabus_text": "draw and label low power plan diagrams of tissues and organs (including a transverse section of stems, roots and leaves)",
+   "times_examined": 4,
+   "marks_examined": 14,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "4": 1,
+    "5": 2
+   },
+   "command_words": {
+    "Make": 2
+   },
+   "papers": {
+    "P3": 4
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 4,
+    "distinct_series": 4,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Make": 2
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.2-04",
+   "topic_id": "2.2",
+   "syllabus_text": "compare the structure of a typical plant (palisade) and animal (liver) cells",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.2-05",
+   "topic_id": "2.2",
+   "syllabus_text": "make temporary slides (wet mounts) of plant and animal cells (for example: epidermal cells from a leaf or an onion, epithelial cells from the trachea of a sheep or human cheek cells)",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.2-06",
+   "topic_id": "2.2",
+   "syllabus_text": "make observations and drawings of cells as seen under a light microscope (including cells within transverse sections of stems,roots and leaves)",
+   "times_examined": 3,
+   "marks_examined": 13,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "4": 2,
+    "5": 1
+   },
+   "command_words": {
+    "Make": 1,
+    "Use": 1,
+    "Prepare": 1
+   },
+   "papers": {
+    "P3": 3
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 3,
+    "distinct_series": 2,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Make": 1,
+     "Use": 1,
+     "Prepare": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.2-07",
+   "topic_id": "2.2",
+   "syllabus_text": "outline key structural features of typical prokaryotic cells as found in a typical bacterium (including: unicellular, 1–5μm diameter, peptidoglycan cell walls, naked circular DNA, 70S ribosomes, absence of double membrane-bound organelles)",
+   "times_examined": 5,
+   "marks_examined": 6,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 4,
+    "2": 1
+   },
+   "command_words": {
+    "Suggest": 1
+   },
+   "papers": {
+    "P1": 4,
+    "P2": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 5,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "Suggest": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.2-08",
+   "topic_id": "2.2",
+   "syllabus_text": "compare and contrast the structure of prokaryotic cells with eukaryotic cells (no reference to mesosomes required)",
+   "times_examined": 5,
+   "marks_examined": 6,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 4,
+    "2": 1
+   },
+   "command_words": {
+    "Name": 1,
+    "Suggest": 1
+   },
+   "papers": {
+    "P1": 3,
+    "P2": 2
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 4,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "Name": 1,
+     "Suggest": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.2-09",
+   "topic_id": "2.2",
+   "syllabus_text": "state that ATP is produced in mitochondria and chloroplasts and outline its role in cells",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.2-10",
+   "topic_id": "2.2",
+   "syllabus_text": "state that all viruses are non-cellular and have a nucleic acid core (either DNA or RNA), a capsid made of protein, and some viruses have an outer envelope made of phospholipid",
+   "times_examined": 1,
+   "marks_examined": 1,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 1
+   },
+   "command_words": {
+    "Explain": 1
+   },
+   "papers": {
+    "P2": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 1,
+    "command_words_observed": {
+     "Explain": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.3.1-01",
+   "topic_id": "2.3.1",
+   "syllabus_text": "describe the fluid mosaic model of membrane structure, including the components phospholipids, cholesterol, glycolipids, proteins and glycoproteins",
+   "times_examined": 9,
+   "marks_examined": 18,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 7,
+    "3": 1,
+    "8": 1
+   },
+   "command_words": {
+    "Describe": 2
+   },
+   "papers": {
+    "P1": 4,
+    "P2": 4,
+    "P3": 1
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 9,
+    "distinct_series": 5,
+    "max_mark_tariff": 8,
+    "command_words_observed": {
+     "Describe": 2
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.3.1-02",
+   "topic_id": "2.3.1",
+   "syllabus_text": "outline the roles of the cell surface membrane",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.3.1-03",
+   "topic_id": "2.3.1",
+   "syllabus_text": "describe the roles in cell surface membranes of phospholipids, cholesterol, carrierproteins, channelproteins, cell surface receptors and cell surface antigens",
+   "times_examined": 9,
+   "marks_examined": 14,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2023",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 5,
+    "2": 3,
+    "3": 1
+   },
+   "command_words": {
+    "State": 2,
+    "Sketch": 1,
+    "Describe": 1,
+    "Suggest": 1
+   },
+   "papers": {
+    "P1": 3,
+    "P2": 2,
+    "P3": 4
+   },
+   "low_confidence_records": 4,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 9,
+    "distinct_series": 3,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "State": 2,
+     "Sketch": 1,
+     "Describe": 1,
+     "Suggest": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.3.1-04",
+   "topic_id": "2.3.1",
+   "syllabus_text": "outline the process of cell signalling involving the release of chemicals that combine with cell surface receptors on target cells, leading to specific responses",
+   "times_examined": 5,
+   "marks_examined": 3,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2023",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 3
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 1,
+    "P2": 4
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 2,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.3.2-01",
+   "topic_id": "2.3.2",
+   "syllabus_text": "describe and explain the processes of diffusion, facilitated diffusion, osmosis, active transport, endocytosis and exocytosis (no calculations involving water potential will be set)",
+   "times_examined": 10,
+   "marks_examined": 18,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 4,
+    "2": 2,
+    "3": 2,
+    "4": 1
+   },
+   "command_words": {
+    "Suggest": 2,
+    "Complete": 1,
+    "Explain": 1,
+    "Name": 1
+   },
+   "papers": {
+    "P2": 7,
+    "P1": 3
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 10,
+    "distinct_series": 5,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Suggest": 2,
+     "Complete": 1,
+     "Explain": 1,
+     "Name": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.3.2-02",
+   "topic_id": "2.3.2",
+   "syllabus_text": "investigate simple diffusion and osmosis using plant tissue and non- living materials, such as glucose solutions, Visking tubing and agar",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.3.2-03",
+   "topic_id": "2.3.2",
+   "syllabus_text": "calculate surface areas and volumes of simple shapes (e.g. cubes) to illustrate the principle that surface area to volume ratios decrease with increasing size",
+   "times_examined": 8,
+   "marks_examined": 13,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 4,
+    "2": 3,
+    "3": 1
+   },
+   "command_words": {
+    "Use": 1,
+    "Calculate": 2,
+    "State": 1,
+    "Suggest": 1,
+    "Name": 1,
+    "Explain": 1
+   },
+   "papers": {
+    "P2": 7,
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 8,
+    "distinct_series": 3,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Use": 1,
+     "Calculate": 2,
+     "State": 1,
+     "Suggest": 1,
+     "Name": 1,
+     "Explain": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.3.2-04",
+   "topic_id": "2.3.2",
+   "syllabus_text": "explain the movement of water between cells and solutionswith different water potentials and explain the different effect son plant cells (using the terms turgid, flaccid, plasmolysis) and animal cells (Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected)",
+   "times_examined": 8,
+   "marks_examined": 11,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 7,
+    "4": 1
+   },
+   "command_words": {
+    "State": 1,
+    "Prepare": 1
+   },
+   "papers": {
+    "P1": 6,
+    "P3": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 8,
+    "distinct_series": 4,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "State": 1,
+     "Prepare": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.3.2-05",
+   "topic_id": "2.3.2",
+   "syllabus_text": "investigate the effects of immersing plant tissues in solutions of different water potential, using the results to estimate the water potential of the tissues",
+   "times_examined": 3,
+   "marks_examined": 6,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 2,
+    "4": 1
+   },
+   "command_words": {
+    "Use": 1
+   },
+   "papers": {
+    "P1": 2,
+    "P3": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 3,
+    "distinct_series": 3,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Use": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.4.1-01",
+   "topic_id": "2.4.1",
+   "syllabus_text": "define the terms monomer, polymer, macromolecule, monosaccharide, disaccharide and polysaccharide",
+   "times_examined": 1,
+   "marks_examined": 1,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 1
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.4.1-02",
+   "topic_id": "2.4.1",
+   "syllabus_text": "describe and draw the ring forms of α-glucose and ᵦ-glucose",
+   "times_examined": 4,
+   "marks_examined": 6,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 3,
+    "3": 1
+   },
+   "command_words": {
+    "Draw": 1,
+    "Describe": 1
+   },
+   "papers": {
+    "P2": 2,
+    "P1": 2
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 4,
+    "distinct_series": 3,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Draw": 1,
+     "Describe": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.4.1-03",
+   "topic_id": "2.4.1",
+   "syllabus_text": "describe the formation of a glycosidic bond by condensation,with reference both to polysaccharides and to disaccharides, including sucrose",
+   "times_examined": 5,
+   "marks_examined": 6,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 4,
+    "2": 1
+   },
+   "command_words": {
+    "Identify": 1
+   },
+   "papers": {
+    "P1": 4,
+    "P2": 1
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 3,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "Identify": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.4.1-04",
+   "topic_id": "2.4.1",
+   "syllabus_text": "describe the breakage of glycosidic bonds in polysaccharides and disaccharides by hydrolysis, with reference to the non-reducing sugar test",
+   "times_examined": 2,
+   "marks_examined": 3,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2022"
+   ],
+   "tariffs": {
+    "1": 1,
+    "2": 1
+   },
+   "command_words": {
+    "Explain": 1
+   },
+   "papers": {
+    "P1": 1,
+    "P2": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 1,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "Explain": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.4.1-05",
+   "topic_id": "2.4.1",
+   "syllabus_text": "describe the molecular structure of the polysaccharides starch (amylose and amylopectin) and glycogen and relate their structures to their functions in living organisms",
+   "times_examined": 3,
+   "marks_examined": 3,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 3
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 3
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 3,
+    "distinct_series": 3,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.4.1-06",
+   "topic_id": "2.4.1",
+   "syllabus_text": "describe the molecular structure of the polysaccharide cellulose and outline how the arrangement of cellulose molecules contributes to the function of plant cell walls",
+   "times_examined": 3,
+   "marks_examined": 4,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 2,
+    "2": 1
+   },
+   "command_words": {
+    "Identify": 1,
+    "State": 1
+   },
+   "papers": {
+    "P2": 2,
+    "P1": 1
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 3,
+    "distinct_series": 2,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "Identify": 1,
+     "State": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.4.1-07",
+   "topic_id": "2.4.1",
+   "syllabus_text": "describe the molecular structure of a triglyceride with reference to the formation of ester bonds and relate the structure of triglycerides to their functions in living organisms",
+   "times_examined": 4,
+   "marks_examined": 5,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 3,
+    "2": 1
+   },
+   "command_words": {
+    "State": 1,
+    "Explain": 1
+   },
+   "papers": {
+    "P1": 2,
+    "P2": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 4,
+    "distinct_series": 2,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "State": 1,
+     "Explain": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.4.1-08",
+   "topic_id": "2.4.1",
+   "syllabus_text": "describe the structure of a phospholipid and relate the structure to the functions of phospholipids in living organisms",
+   "times_examined": 4,
+   "marks_examined": 11,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 3,
+    "8": 1
+   },
+   "command_words": {
+    "State": 1,
+    "Describe": 1
+   },
+   "papers": {
+    "P2": 2,
+    "P1": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 4,
+    "distinct_series": 2,
+    "max_mark_tariff": 8,
+    "command_words_observed": {
+     "State": 1,
+     "Describe": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.4.1-09",
+   "topic_id": "2.4.1",
+   "syllabus_text": "describe and carry out the Benedict's test for reducing sugars, the iodine test for starch and the emulsion test for lipids",
+   "times_examined": 5,
+   "marks_examined": 5,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 5
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 5
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 4,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.4.1-10",
+   "topic_id": "2.4.1",
+   "syllabus_text": "describe and carry out a semi-quantitative Benedict's test on a reducing sugar solution by standardising the test and using the results (time to first colour change or comparison to colour standards) to estimate the concentration",
+   "times_examined": 1,
+   "marks_examined": 4,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2022"
+   ],
+   "tariffs": {
+    "4": 1
+   },
+   "command_words": {
+    "Construct": 1
+   },
+   "papers": {
+    "P3": 1
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Construct": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.4.1-11",
+   "topic_id": "2.4.1",
+   "syllabus_text": "describe and carry out a test to identify the presence of non-reducing sugars, using acid hydrolysis and Benedict's solution",
+   "times_examined": 2,
+   "marks_examined": 2,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 2
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.4.1-12",
+   "topic_id": "2.4.1",
+   "syllabus_text": "carry out a semi-quantitative Benedict's test on a reducing sugar using dilution, standardising the test and using the results (colour standards or time to first colour change) to estimate the concentration",
+   "times_examined": 1,
+   "marks_examined": 3,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2022"
+   ],
+   "tariffs": {
+    "3": 1
+   },
+   "command_words": {
+    "Make": 1
+   },
+   "papers": {
+    "P3": 1
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Make": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.4.2-01",
+   "topic_id": "2.4.2",
+   "syllabus_text": "describe the structure of an amino acid and the formation and breakage of a peptide bond",
+   "times_examined": 4,
+   "marks_examined": 8,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 3,
+    "5": 1
+   },
+   "command_words": {
+    "Describe": 2
+   },
+   "papers": {
+    "P1": 2,
+    "P2": 2
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 4,
+    "distinct_series": 3,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Describe": 2
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.4.2-02",
+   "topic_id": "2.4.2",
+   "syllabus_text": "explain the meaning of the terms primary structure, secondarystructure, tertiary structure and quaternary structure of proteins",
+   "times_examined": 4,
+   "marks_examined": 4,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 4
+   },
+   "command_words": {
+    "State": 1
+   },
+   "papers": {
+    "P1": 3,
+    "P2": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 4,
+    "distinct_series": 3,
+    "max_mark_tariff": 1,
+    "command_words_observed": {
+     "State": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.4.2-03",
+   "topic_id": "2.4.2",
+   "syllabus_text": "describe the types of bonding (hydrogen,ionic, disulfide and hydrophobic interactions) that hold these molecules in shape",
+   "times_examined": 3,
+   "marks_examined": 3,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 3
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 3
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 3,
+    "distinct_series": 2,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.4.2-04",
+   "topic_id": "2.4.2",
+   "syllabus_text": "describe the molecular structure of haemoglobin as an example of a globular protein, and of collagen as an example of a fibrous protein and relate these structures to their functions (appreciate that the haemoglobin molecule is composed of two alpha (α) chains and two beta (β) chains, although when describing the chains the terms α-globin and β-globin may be used. There should be a distinction between collagen molecules and collagen fibres)",
+   "times_examined": 4,
+   "marks_examined": 6,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 3,
+    "3": 1
+   },
+   "command_words": {
+    "Describe": 1
+   },
+   "papers": {
+    "P1": 3,
+    "P2": 1
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 4,
+    "distinct_series": 3,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Describe": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.4.2-05",
+   "topic_id": "2.4.2",
+   "syllabus_text": "state the importance of iron in the haemoglobin molecule.",
+   "times_examined": 2,
+   "marks_examined": 4,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 1,
+    "3": 1
+   },
+   "command_words": {
+    "Describe": 1
+   },
+   "papers": {
+    "P2": 1,
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Describe": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.4.2-06",
+   "topic_id": "2.4.2",
+   "syllabus_text": "carry out biuret test to identify the content of solutions, food substances and biological specimens",
+   "times_examined": 3,
+   "marks_examined": 6,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 2,
+    "4": 1
+   },
+   "command_words": {
+    "Describe": 1
+   },
+   "papers": {
+    "P3": 1,
+    "P1": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 3,
+    "distinct_series": 3,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Describe": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.4.2-07",
+   "topic_id": "2.4.2",
+   "syllabus_text": "explain that water is a polar molecule and explain how hydrogen bonding occurs between water molecules",
+   "times_examined": 2,
+   "marks_examined": 4,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 1,
+    "3": 1
+   },
+   "command_words": {
+    "Outline": 1
+   },
+   "papers": {
+    "P2": 1,
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Outline": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.4.2-08",
+   "topic_id": "2.4.2",
+   "syllabus_text": "relate the properties of water to its roles in living organisms (limited to solvent action, specific heat capacity and latent heat of vapourisation)",
+   "times_examined": 1,
+   "marks_examined": 1,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 1
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.5.1-01",
+   "topic_id": "2.5.1",
+   "syllabus_text": "explain the nature of enzymes as globular proteins that catalyse metabolic reactions",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.5.1-02",
+   "topic_id": "2.5.1",
+   "syllabus_text": "state that enzymes function as intracellular and as extracellular enzymes",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.5.1-03",
+   "topic_id": "2.5.1",
+   "syllabus_text": "explain the mode of enzyme action in terms of an active site, enzyme- substrate complex, lowering of activation energy and enzyme specificity (the lock and key hypothesis and theinduced fit hypothesis should be included)",
+   "times_examined": 12,
+   "marks_examined": 17,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 4,
+    "2": 1,
+    "3": 1,
+    "4": 2
+   },
+   "command_words": {
+    "Use": 2,
+    "Describe": 1,
+    "Suggest": 1
+   },
+   "papers": {
+    "P1": 4,
+    "P3": 3,
+    "P2": 5
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 12,
+    "distinct_series": 5,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Use": 2,
+     "Describe": 1,
+     "Suggest": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.5.1-04",
+   "topic_id": "2.5.1",
+   "syllabus_text": "investigate the progress of an enzyme-catalysed reaction by measuring formation or rates offormation of products and by-products, (for example using catalase) or rates of disappearance of substrate (for example, using amylase)",
+   "times_examined": 16,
+   "marks_examined": 20,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 5,
+    "2": 6,
+    "3": 1
+   },
+   "command_words": {
+    "Calculate": 2,
+    "Identify": 1,
+    "Use": 1,
+    "State": 2,
+    "Suggest": 1
+   },
+   "papers": {
+    "P3": 7,
+    "P1": 3,
+    "P2": 6
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 16,
+    "distinct_series": 5,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Calculate": 2,
+     "Identify": 1,
+     "Use": 1,
+     "State": 2,
+     "Suggest": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.5.2-01",
+   "topic_id": "2.5.2",
+   "syllabus_text": "investigate and explain the factors that affect the rate of enzyme catalysed reactions - temperature, - pH (using buffer solutions) - enzyme concentration - substrate concentration - inhibitor concentration)",
+   "times_examined": 38,
+   "marks_examined": 75,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 12,
+    "2": 3,
+    "3": 7,
+    "4": 9
+   },
+   "command_words": {
+    "Calculate": 1,
+    "Plot": 3,
+    "Use": 6,
+    "Identify": 3,
+    "Make": 1,
+    "Construct": 1,
+    "Suggest": 1,
+    "State": 2,
+    "Complete": 1,
+    "Prepare": 1,
+    "Describe": 1
+   },
+   "papers": {
+    "P1": 4,
+    "P3": 26,
+    "P2": 8
+   },
+   "low_confidence_records": 5,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 38,
+    "distinct_series": 5,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Calculate": 1,
+     "Plot": 3,
+     "Use": 6,
+     "Identify": 3,
+     "Make": 1,
+     "Construct": 1,
+     "Suggest": 1,
+     "State": 2,
+     "Complete": 1,
+     "Prepare": 1,
+     "Describe": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.5.2-02",
+   "topic_id": "2.5.2",
+   "syllabus_text": "explain how the maximum rate of reaction (Vmax) is used to derive the Michaelis-Menten constant (Km) which is used to compare the affinity of different enzymes for their substrates",
+   "times_examined": 6,
+   "marks_examined": 6,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 6
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 6
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 6,
+    "distinct_series": 5,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.5.2-03",
+   "topic_id": "2.5.2",
+   "syllabus_text": "explain the effects of reversible inhibitors both competitive and non- competitive,on the enzyme activity",
+   "times_examined": 14,
+   "marks_examined": 21,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 8,
+    "2": 2,
+    "3": 1,
+    "6": 1
+   },
+   "command_words": {
+    "Draw": 1,
+    "State": 1,
+    "Describe": 2
+   },
+   "papers": {
+    "P1": 7,
+    "P3": 4,
+    "P2": 3
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 14,
+    "distinct_series": 5,
+    "max_mark_tariff": 6,
+    "command_words_observed": {
+     "Draw": 1,
+     "State": 1,
+     "Describe": 2
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.5.2-04",
+   "topic_id": "2.5.2",
+   "syllabus_text": "investigate and explain the effect of immobilising an enzyme in alginate on its activity as compared with its activity when free in solution",
+   "times_examined": 6,
+   "marks_examined": 11,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 3,
+    "2": 2,
+    "4": 1
+   },
+   "command_words": {
+    "Explain": 1,
+    "Suggest": 1,
+    "Use": 1,
+    "State": 1,
+    "Prepare": 1
+   },
+   "papers": {
+    "P1": 1,
+    "P2": 4,
+    "P3": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 6,
+    "distinct_series": 1,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Explain": 1,
+     "Suggest": 1,
+     "Use": 1,
+     "State": 1,
+     "Prepare": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.6.1-01",
+   "topic_id": "2.6.1",
+   "syllabus_text": "identify and label the various parts of the transverse sections of stems, roots and leaves of herbaceous dicotyledonous plants, using an eyepiece graticule to show correct proportions",
+   "times_examined": 6,
+   "marks_examined": 20,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 2,
+    "4": 2,
+    "5": 2
+   },
+   "command_words": {
+    "Use": 1,
+    "Make": 1,
+    "Look": 1
+   },
+   "papers": {
+    "P1": 1,
+    "P2": 2,
+    "P3": 3
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 6,
+    "distinct_series": 3,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Use": 1,
+     "Make": 1,
+     "Look": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.6.1-02",
+   "topic_id": "2.6.1",
+   "syllabus_text": "describe the structure of xylem vessel elements, phloem sieve tube elements and companion cells",
+   "times_examined": 3,
+   "marks_examined": 6,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 2,
+    "4": 1
+   },
+   "command_words": {
+    "Use": 1,
+    "Prepare": 1
+   },
+   "papers": {
+    "P2": 1,
+    "P3": 1,
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 3,
+    "distinct_series": 3,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Use": 1,
+     "Prepare": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.6.1-03",
+   "topic_id": "2.6.1",
+   "syllabus_text": "relate the structure of xylem vessel elements, phloem sieve tube elements and companion cells to their functions",
+   "times_examined": 5,
+   "marks_examined": 4,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 4
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 3,
+    "P3": 1,
+    "P2": 1
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 4,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.6.1-04",
+   "topic_id": "2.6.1",
+   "syllabus_text": "draw and label from prepared slides the structure of xylem vessel elements, phloem sieve tube elements and companion cells (use a light microscope to recognise the structures)",
+   "times_examined": 1,
+   "marks_examined": 4,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2022"
+   ],
+   "tariffs": {
+    "4": 1
+   },
+   "command_words": {
+    "Prepare": 1
+   },
+   "papers": {
+    "P3": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Prepare": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.6.2-01",
+   "topic_id": "2.6.2",
+   "syllabus_text": "explain that transpiration involves the evaporation of water from the internal surfaces of leaves followed by diffusion of water vapour to the atmosphere",
+   "times_examined": 2,
+   "marks_examined": 2,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 2
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.6.2-02",
+   "topic_id": "2.6.2",
+   "syllabus_text": "describe,in terms of water potential, the movement of water: - between plant cells - between the plant and its environment (no calculations involving water potential will be set)",
+   "times_examined": 1,
+   "marks_examined": 0,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {
+    "P2": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.6.2-03",
+   "topic_id": "2.6.2",
+   "syllabus_text": "investigate experimentally and explain the factors that affect transpiration rate using simple potometer, epidermal peels and grids for determining surface area",
+   "times_examined": 3,
+   "marks_examined": 9,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022"
+   ],
+   "tariffs": {
+    "1": 1,
+    "3": 1,
+    "5": 1
+   },
+   "command_words": {
+    "Make": 1,
+    "Outline": 1
+   },
+   "papers": {
+    "P3": 2,
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 3,
+    "distinct_series": 2,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Make": 1,
+     "Outline": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.6.2-04",
+   "topic_id": "2.6.2",
+   "syllabus_text": "explain how hydrogen bonding of water molecules is involved with movement in the xylem by cohesion-tension in transpiration pull and adhesion to cellulose cell walls",
+   "times_examined": 2,
+   "marks_examined": 2,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2023",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 2
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.6.2-05",
+   "topic_id": "2.6.2",
+   "syllabus_text": "describe the pathways and explain the mechanisms by which water and mineral ions are transported from soil to xylem and from roots to leaves (include reference to the symplastic pathway, apoplastic pathway and Casparian strip)",
+   "times_examined": 7,
+   "marks_examined": 11,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 3,
+    "3": 1,
+    "5": 1
+   },
+   "command_words": {
+    "Suggest": 1
+   },
+   "papers": {
+    "P1": 3,
+    "P2": 4
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 7,
+    "distinct_series": 3,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Suggest": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.6.2-06",
+   "topic_id": "2.6.2",
+   "syllabus_text": "make annotated drawings of transverse sections of leaves from xerophytic plants to explain how they are adapted to reduce water loss by transpiration",
+   "times_examined": 6,
+   "marks_examined": 14,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 3,
+    "3": 1,
+    "4": 2
+   },
+   "command_words": {
+    "Complete": 1,
+    "Describe": 1,
+    "State": 1
+   },
+   "papers": {
+    "P3": 3,
+    "P1": 3
+   },
+   "low_confidence_records": 2,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 6,
+    "distinct_series": 5,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Complete": 1,
+     "Describe": 1,
+     "State": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.6.2-07",
+   "topic_id": "2.6.2",
+   "syllabus_text": "state how assimilates, such as sucrose and amino acids, move between sources (e.g. leaves and storage organs) and sinks, (e.g. buds, flowers, fruits, roots and storage organs) in phloem sieve tubes",
+   "times_examined": 2,
+   "marks_examined": 2,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 2
+   },
+   "command_words": {
+    "Name": 1
+   },
+   "papers": {
+    "P2": 1,
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 1,
+    "command_words_observed": {
+     "Name": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.6.2-08",
+   "topic_id": "2.6.2",
+   "syllabus_text": "explain how sucrose is loaded into phloem sieve tubes by companion cells using proton pumping and the co-transporter mechanism in their cell surface membranes",
+   "times_examined": 3,
+   "marks_examined": 5,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 2,
+    "3": 1
+   },
+   "command_words": {
+    "Outline": 1
+   },
+   "papers": {
+    "P2": 1,
+    "P1": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 3,
+    "distinct_series": 3,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Outline": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.6.2-09",
+   "topic_id": "2.6.2",
+   "syllabus_text": "explain mass flow in phloem sap down a hydrostatic pressure gradient from source to sink",
+   "times_examined": 2,
+   "marks_examined": 2,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 2
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.7.1-01",
+   "topic_id": "2.7.1",
+   "syllabus_text": "state that the mammalian circulatory system is a closed double circulation consisting of a heart, blood vessels and blood",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.7.1-02",
+   "topic_id": "2.7.1",
+   "syllabus_text": "observe and make plan diagrams of the structure of arteries and veins, using prepared microscope slides and be able to recognise these vessels using the light microscope or from photomicrographs",
+   "times_examined": 2,
+   "marks_examined": 0,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {
+    "P3": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 1,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.7.1-03",
+   "topic_id": "2.7.1",
+   "syllabus_text": "explain the relationship between the structure and function of arteries, veins and capillaries",
+   "times_examined": 5,
+   "marks_examined": 6,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 1,
+    "5": 1
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 1,
+    "P3": 4
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 2,
+    "max_mark_tariff": 5,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.7.1-04",
+   "topic_id": "2.7.1",
+   "syllabus_text": "recognise and draw the structure of red blood cells, monocytes, neutrophils and lymphocytes using prepared slides, photomicrographs and electron micrographs",
+   "times_examined": 2,
+   "marks_examined": 4,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 1,
+    "3": 1
+   },
+   "command_words": {
+    "Identify": 1
+   },
+   "papers": {
+    "P2": 1,
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Identify": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.7.1-05",
+   "topic_id": "2.7.1",
+   "syllabus_text": "state the functions of tissue fluid and describe the formation of tissue fluid in a capillary network",
+   "times_examined": 1,
+   "marks_examined": 1,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 1
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.7.1-06",
+   "topic_id": "2.7.1",
+   "syllabus_text": "state and explain the differences between blood, tissue fluid and lymph",
+   "times_examined": 3,
+   "marks_examined": 3,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 3
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 3
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 3,
+    "distinct_series": 2,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.7.1-07",
+   "topic_id": "2.7.1",
+   "syllabus_text": "describe the role of red blood cells in carrying oxygen and carbon dioxide with reference to the role of: - haemoglobin - carbonic anhydrase - the formation of haemoglobinic acid - the formation of carbamino-haemoglobin (details of the chloride shift are not required)",
+   "times_examined": 6,
+   "marks_examined": 14,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 3,
+    "3": 1,
+    "4": 2
+   },
+   "command_words": {
+    "Describe": 2,
+    "Explain": 1
+   },
+   "papers": {
+    "P2": 3,
+    "P1": 3
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 6,
+    "distinct_series": 4,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Describe": 2,
+     "Explain": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.7.1-08",
+   "topic_id": "2.7.1",
+   "syllabus_text": "describe how carbon monoxide binds with haemoglobin to form carboxyhaemoglob in reducing the affinity of haemoglobin for oxygen",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.7.1-09",
+   "topic_id": "2.7.1",
+   "syllabus_text": "describe the role of plasma in the transport of carbon dioxide",
+   "times_examined": 2,
+   "marks_examined": 2,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2023",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 2
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.7.1-10",
+   "topic_id": "2.7.1",
+   "syllabus_text": "describe and explain the oxygen dissociation curve of adult haemoglobin",
+   "times_examined": 2,
+   "marks_examined": 3,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2022"
+   ],
+   "tariffs": {
+    "1": 1,
+    "2": 1
+   },
+   "command_words": {
+    "Describe": 1
+   },
+   "papers": {
+    "P1": 1,
+    "P2": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 1,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "Describe": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.7.1-11",
+   "topic_id": "2.7.1",
+   "syllabus_text": "explain the importance of the oxygen dissociation curve at partial pressures of oxygen in the lungs and in respiring tissues",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.7.1-12",
+   "topic_id": "2.7.1",
+   "syllabus_text": "describe the Bohr shift and explain the importance of the Bohr shift",
+   "times_examined": 3,
+   "marks_examined": 7,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2022"
+   ],
+   "tariffs": {
+    "1": 1,
+    "2": 1,
+    "4": 1
+   },
+   "command_words": {
+    "Describe": 1,
+    "Name": 1,
+    "Explain": 1
+   },
+   "papers": {
+    "P2": 3
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 3,
+    "distinct_series": 1,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Describe": 1,
+     "Name": 1,
+     "Explain": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.7.1-13",
+   "topic_id": "2.7.1",
+   "syllabus_text": "describe and explain the significance of the increase in the red blood cell count of humans at high altitude",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.7.2-01",
+   "topic_id": "2.7.2",
+   "syllabus_text": "describe the external and internal structure of the mammalian heart",
+   "times_examined": 1,
+   "marks_examined": 1,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 1
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.7.2-02",
+   "topic_id": "2.7.2",
+   "syllabus_text": "observe and make plan diagrams of the structure of the external and internal structure of the mammalian heart",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.7.2-03",
+   "topic_id": "2.7.2",
+   "syllabus_text": "explain the differences in the thickness of the walls of the: - atria and ventricles - left ventricle and right ventricle",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.7.2-04",
+   "topic_id": "2.7.2",
+   "syllabus_text": "describe the cardiac cycle (including blood pressure changes during systole and diastole)and the opening and closing of valves",
+   "times_examined": 5,
+   "marks_examined": 5,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 5
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 5
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 4,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.7.2-05",
+   "topic_id": "2.7.2",
+   "syllabus_text": "interpret graphs showing the changes in blood pressure during the cardiac cycle",
+   "times_examined": 1,
+   "marks_examined": 1,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 1
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.7.2-06",
+   "topic_id": "2.7.2",
+   "syllabus_text": "explain how heart action is initiated and controlled (reference should be made to the sinoatrial node, the atrioventricular node and the Purkyne tissue, but not to nervous and hormonal control)",
+   "times_examined": 2,
+   "marks_examined": 2,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 2
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.8.1-01",
+   "topic_id": "2.8.1",
+   "syllabus_text": "define the term disease and explain the difference between an infectious disease and a non-infectious disease (limited to sickle cell anaemia and lung cancer)",
+   "times_examined": 1,
+   "marks_examined": 1,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 1
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.8.1-02",
+   "topic_id": "2.8.1",
+   "syllabus_text": "state the name and type of pathogen that causes each of the following diseases: - cholera – caused by the bacterium Vibrio cholerae - malaria – caused by the protoctistsPlasmodium falciparum, Plasmodium malariae, Plasmodium ovaleand Plasmodium vivax - tuberculosis (TB) – caused by the bacteria Mycobacterium tuberculosis and Mycobacterium bovis - HIV/AIDS – caused by the human immunodeficiency virus (HIV) - measles - caused byMorbillivirus",
+   "times_examined": 3,
+   "marks_examined": 4,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 2,
+    "2": 1
+   },
+   "command_words": {
+    "State": 1
+   },
+   "papers": {
+    "P1": 2,
+    "P2": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 3,
+    "distinct_series": 2,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "State": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.8.1-03",
+   "topic_id": "2.8.1",
+   "syllabus_text": "explain how cholera, malaria, TB and HIV/AIDS are transmitted",
+   "times_examined": 4,
+   "marks_examined": 8,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 1,
+    "2": 2,
+    "3": 1
+   },
+   "command_words": {
+    "Describe": 2,
+    "Suggest": 1
+   },
+   "papers": {
+    "P1": 1,
+    "P2": 3
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 4,
+    "distinct_series": 2,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Describe": 2,
+     "Suggest": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.8.1-04",
+   "topic_id": "2.8.1",
+   "syllabus_text": "discuss the biological, social and economic factors that need to be considered in the prevention and control of cholera, measles, malaria, TB and HIV/AIDS (a detailed study of the life cycle of the malarial parasite is not required)",
+   "times_examined": 4,
+   "marks_examined": 11,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 1,
+    "2": 1,
+    "4": 2
+   },
+   "command_words": {
+    "Explain": 1,
+    "Suggest": 1,
+    "Discuss": 1
+   },
+   "papers": {
+    "P2": 3,
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 4,
+    "distinct_series": 2,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Explain": 1,
+     "Suggest": 1,
+     "Discuss": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.8.1-05",
+   "topic_id": "2.8.1",
+   "syllabus_text": "discuss the factors that influence the global patterns of distribution of malaria",
+   "times_examined": 1,
+   "marks_examined": 3,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2022"
+   ],
+   "tariffs": {
+    "3": 1
+   },
+   "command_words": {
+    "Explain": 1
+   },
+   "papers": {
+    "P2": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Explain": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.8.2-01",
+   "topic_id": "2.8.2",
+   "syllabus_text": "describe how penicillin acts on bacteria and why antibiotics do not affect viruses and eukaryotic cells",
+   "times_examined": 5,
+   "marks_examined": 9,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 2,
+    "2": 2,
+    "3": 1
+   },
+   "command_words": {
+    "Explain": 3,
+    "State": 1
+   },
+   "papers": {
+    "P2": 4,
+    "P1": 1
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 3,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Explain": 3,
+     "State": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.8.2-02",
+   "topic_id": "2.8.2",
+   "syllabus_text": "outline how bacteria become resistant to antibiotics with reference to mutation and selection",
+   "times_examined": 5,
+   "marks_examined": 9,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 3,
+    "3": 2
+   },
+   "command_words": {
+    "Explain": 2,
+    "State": 1
+   },
+   "papers": {
+    "P1": 2,
+    "P2": 3
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 3,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Explain": 2,
+     "State": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.8.2-03",
+   "topic_id": "2.8.2",
+   "syllabus_text": "discuss the consequences of antibiotic resistance and the steps that can be taken to reduce its impact",
+   "times_examined": 6,
+   "marks_examined": 8,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 5,
+    "3": 1
+   },
+   "command_words": {
+    "Calculate": 1,
+    "State": 1,
+    "Explain": 2
+   },
+   "papers": {
+    "P1": 2,
+    "P2": 4
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 6,
+    "distinct_series": 3,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Calculate": 1,
+     "State": 1,
+     "Explain": 2
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.9.1-01",
+   "topic_id": "2.9.1",
+   "syllabus_text": "describe the mode of action of phagocytes (macrophages and neutrophils)",
+   "times_examined": 5,
+   "marks_examined": 12,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 2,
+    "2": 1,
+    "3": 1,
+    "5": 1
+   },
+   "command_words": {
+    "Identify": 1,
+    "Describe": 2,
+    "Name": 1
+   },
+   "papers": {
+    "P2": 4,
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 3,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Identify": 1,
+     "Describe": 2,
+     "Name": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.9.1-02",
+   "topic_id": "2.9.1",
+   "syllabus_text": "describe the sequence of events that occurs during a primary immune response with reference to the roles of: - macrophages - B-lymphocytes, including plasma cells - T-lymphocytes, limited to T-helper cells and T-killer cells",
+   "times_examined": 7,
+   "marks_examined": 16,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 4,
+    "2": 1,
+    "5": 2
+   },
+   "command_words": {
+    "Outline": 1,
+    "Name": 1,
+    "Describe": 1
+   },
+   "papers": {
+    "P1": 4,
+    "P2": 3
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 7,
+    "distinct_series": 4,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Outline": 1,
+     "Name": 1,
+     "Describe": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.9.1-03",
+   "topic_id": "2.9.1",
+   "syllabus_text": "explain what is meant by an antigen and state the difference between self antigens and non-self antigens",
+   "times_examined": 3,
+   "marks_examined": 4,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 2,
+    "2": 1
+   },
+   "command_words": {
+    "Outline": 1,
+    "State": 1
+   },
+   "papers": {
+    "P2": 2,
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 3,
+    "distinct_series": 2,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "Outline": 1,
+     "State": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.9.1-04",
+   "topic_id": "2.9.1",
+   "syllabus_text": "explain the role of memory cells in the secondary immune response and in long-term immunity",
+   "times_examined": 6,
+   "marks_examined": 12,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 4,
+    "3": 1,
+    "5": 1
+   },
+   "command_words": {
+    "Name": 1,
+    "Explain": 1
+   },
+   "papers": {
+    "P1": 4,
+    "P2": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 6,
+    "distinct_series": 2,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Name": 1,
+     "Explain": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.9.2-01",
+   "topic_id": "2.9.2",
+   "syllabus_text": "relate the molecular structure of antibodies to their functions(see 2.4.2)",
+   "times_examined": 2,
+   "marks_examined": 2,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 2
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 2
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.9.2-02",
+   "topic_id": "2.9.2",
+   "syllabus_text": "outline the hybridoma method for the production of monoclonal antibodies",
+   "times_examined": 3,
+   "marks_examined": 3,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 3
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 3
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 3,
+    "distinct_series": 3,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.9.2-03",
+   "topic_id": "2.9.2",
+   "syllabus_text": "outline the use of monoclonal antibodies in the diagnosis of disease and in the treatment of disease",
+   "times_examined": 1,
+   "marks_examined": 1,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 1
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.9.2-04",
+   "topic_id": "2.9.2",
+   "syllabus_text": "describe the differences between active and passive immunity and between natural and artificial immunity",
+   "times_examined": 3,
+   "marks_examined": 3,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 3
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 3
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 3,
+    "distinct_series": 3,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.9.2-05",
+   "topic_id": "2.9.2",
+   "syllabus_text": "explain that vaccines contain antigens that stimulate immune responses to provide long-term immunity",
+   "times_examined": 3,
+   "marks_examined": 9,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 1,
+    "3": 1,
+    "5": 1
+   },
+   "command_words": {
+    "Describe": 1,
+    "Explain": 1
+   },
+   "papers": {
+    "P1": 1,
+    "P2": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 3,
+    "distinct_series": 2,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Describe": 1,
+     "Explain": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.9.2-06",
+   "topic_id": "2.9.2",
+   "syllabus_text": "explain how vaccination programmes can help to control the spread of infectious diseases",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.10.1-01",
+   "topic_id": "2.10.1",
+   "syllabus_text": "describe the gross structure of the human gas exchange system",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.10.1-02",
+   "topic_id": "2.10.1",
+   "syllabus_text": "investigate and observe the gross structure of lungs and associated organs of a sheep or other mammal (dissect)",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.10.1-03",
+   "topic_id": "2.10.1",
+   "syllabus_text": "describe the distribution in the gas exchange system of cartilage, ciliated epithelium, smooth muscle, capillaries and squamous epithelium of alveoli",
+   "times_examined": 5,
+   "marks_examined": 8,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 3,
+    "5": 1
+   },
+   "command_words": {
+    "Prepare": 1
+   },
+   "papers": {
+    "P1": 3,
+    "P3": 1,
+    "P2": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 3,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Prepare": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.10.1-04",
+   "topic_id": "2.10.1",
+   "syllabus_text": "recognise cartilage, ciliated epithelium, smooth muscle, capillaries and squamous epithelium of alveoli in microscope slides, photomicrographs and electron micrographs",
+   "times_examined": 1,
+   "marks_examined": 1,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2021"
+   ],
+   "tariffs": {
+    "1": 1
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.10.1-05",
+   "topic_id": "2.10.1",
+   "syllabus_text": "recognise trachea, bronchi, bronchioles and alveoli in microscope slides, photomicrographs and electron micrographs and make plan diagrams of transverse sections of the walls of the trachea and bronchus",
+   "times_examined": 5,
+   "marks_examined": 14,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "2": 2,
+    "5": 2
+   },
+   "command_words": {
+    "Identify": 1,
+    "Name": 1,
+    "Make": 1,
+    "Prepare": 1
+   },
+   "papers": {
+    "P2": 3,
+    "P3": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 4,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Identify": 1,
+     "Name": 1,
+     "Make": 1,
+     "Prepare": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.10.1-06",
+   "topic_id": "2.10.1",
+   "syllabus_text": "describe the functions of ciliated epithelial cells, goblet cells and mucous glands in maintaining the health of the gas exchange system",
+   "times_examined": 4,
+   "marks_examined": 2,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2023",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 2
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 2,
+    "P2": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 4,
+    "distinct_series": 3,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.10.1-07",
+   "topic_id": "2.10.1",
+   "syllabus_text": "describe the functions in the gas exchange system of cartilage, smooth muscle, elastic fibres and squamous epithelium",
+   "times_examined": 5,
+   "marks_examined": 8,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2023",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 1,
+    "2": 2,
+    "3": 1
+   },
+   "command_words": {
+    "Explain": 1,
+    "Describe": 1,
+    "Discuss": 1
+   },
+   "papers": {
+    "P1": 1,
+    "P2": 4
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 3,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Explain": 1,
+     "Describe": 1,
+     "Discuss": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.10.1-08",
+   "topic_id": "2.10.1",
+   "syllabus_text": "describe the process of gas exchange between air in the alveoli and the bloodin the capillaries",
+   "times_examined": 9,
+   "marks_examined": 15,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 1
+   },
+   "command_words": {
+    "Explain": 1,
+    "Name": 1,
+    "Discuss": 1,
+    "Describe": 1
+   },
+   "papers": {
+    "P1": 4,
+    "P2": 5
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 9,
+    "distinct_series": 5,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Explain": 1,
+     "Name": 1,
+     "Discuss": 1,
+     "Describe": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.10.2-01",
+   "topic_id": "2.10.2",
+   "syllabus_text": "describe the effects of tar and carcinogens in tobacco smoke on the gas exchange system with reference to lung cancer and chronic obstructive pulmonary disease (COPD)",
+   "times_examined": 9,
+   "marks_examined": 12,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 5,
+    "3": 1,
+    "4": 1
+   },
+   "command_words": {
+    "State": 1,
+    "Explain": 1,
+    "Plot": 1,
+    "Describe": 1
+   },
+   "papers": {
+    "P1": 3,
+    "P2": 4,
+    "P3": 2
+   },
+   "low_confidence_records": 2,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 9,
+    "distinct_series": 4,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "State": 1,
+     "Explain": 1,
+     "Plot": 1,
+     "Describe": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.10.2-02",
+   "topic_id": "2.10.2",
+   "syllabus_text": "describe the short-term effects of nicotine and carbon monoxide on the cardiovascular system",
+   "times_examined": 5,
+   "marks_examined": 5,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 5
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 5
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 5,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-2.10.2-03",
+   "topic_id": "2.10.2",
+   "syllabus_text": "conduct a survey, possibly with the use of a questionnaire, on the incidence of hay fever and/ or asthma",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-3.1.1-01",
+   "topic_id": "3.1.1",
+   "syllabus_text": "describe the structure of a chromosome, limited to DNA, histone proteins, chromatids, centromere and telomeres",
+   "times_examined": 6,
+   "marks_examined": 11,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 3,
+    "2": 2,
+    "4": 1
+   },
+   "command_words": {
+    "Identify": 1,
+    "Describe": 2
+   },
+   "papers": {
+    "P1": 3,
+    "P2": 3
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 6,
+    "distinct_series": 4,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Identify": 1,
+     "Describe": 2
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-3.1.1-02",
+   "topic_id": "3.1.1",
+   "syllabus_text": "explain the importance of mitosis in the production of genetically identical cells, growth, cell replacement, repair of tissues and asexual reproduction",
+   "times_examined": 1,
+   "marks_examined": 1,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2021"
+   ],
+   "tariffs": {
+    "1": 1
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-3.1.1-03",
+   "topic_id": "3.1.1",
+   "syllabus_text": "observe and draw the mitotic stages visible in temporary root tip squash preparations and in prepared slides of root tips of species such as those of Vicia faba and Allium cepa",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-3.1.1-04",
+   "topic_id": "3.1.1",
+   "syllabus_text": "outline the mitotic cell cycle, including interphase (growth in G1 and G2 phases and DNA replication in S phase), mitosis and cytokinesis",
+   "times_examined": 7,
+   "marks_examined": 7,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 7
+   },
+   "command_words": {
+    "State": 1
+   },
+   "papers": {
+    "P1": 6,
+    "P2": 1
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 7,
+    "distinct_series": 4,
+    "max_mark_tariff": 1,
+    "command_words_observed": {
+     "State": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-3.1.1-05",
+   "topic_id": "3.1.1",
+   "syllabus_text": "outline the significance of telomeres in permitting continued replication and preventing the loss of genes",
+   "times_examined": 6,
+   "marks_examined": 11,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 4,
+    "3": 1,
+    "4": 1
+   },
+   "command_words": {
+    "Describe": 2,
+    "Suggest": 1
+   },
+   "papers": {
+    "P1": 3,
+    "P2": 3
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 6,
+    "distinct_series": 3,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Describe": 2,
+     "Suggest": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-3.1.1-06",
+   "topic_id": "3.1.1",
+   "syllabus_text": "outline the role of stem cells in cell replacement and tissue repair by mitosis",
+   "times_examined": 1,
+   "marks_examined": 1,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 1
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-3.1.1-07",
+   "topic_id": "3.1.1",
+   "syllabus_text": "explain how uncontrolled cell division can result in the formation of a tumour",
+   "times_examined": 2,
+   "marks_examined": 4,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 1,
+    "3": 1
+   },
+   "command_words": {
+    "Suggest": 1
+   },
+   "papers": {
+    "P2": 1,
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Suggest": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-3.1.2-01",
+   "topic_id": "3.1.2",
+   "syllabus_text": "describe, with the aid of photomicrographs and diagrams, the behaviour of chromosomes in plant and animal cells during the mitotic cell cycle and the associated behaviour of the nuclear envelope, cell surface membrane and the spindle(names of the main stages of mitosis, prophase, metaphase, anaphase and telophase, are expected)",
+   "times_examined": 7,
+   "marks_examined": 10,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 4,
+    "2": 3
+   },
+   "command_words": {
+    "Name": 1,
+    "Identify": 1,
+    "Describe": 1
+   },
+   "papers": {
+    "P1": 4,
+    "P2": 3
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 7,
+    "distinct_series": 4,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "Name": 1,
+     "Identify": 1,
+     "Describe": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-3.1.2-02",
+   "topic_id": "3.1.2",
+   "syllabus_text": "interpret photomicrographs, diagrams and microscope slides of mitosis and identify the main stages of mitosis",
+   "times_examined": 6,
+   "marks_examined": 7,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 5,
+    "2": 1
+   },
+   "command_words": {
+    "Name": 1
+   },
+   "papers": {
+    "P1": 4,
+    "P2": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 6,
+    "distinct_series": 4,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "Name": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-3.2.1-01",
+   "topic_id": "3.2.1",
+   "syllabus_text": "describe the structure of nucleotides, including the phosphorylated nucleotide ATP (structural formulae are not required)",
+   "times_examined": 2,
+   "marks_examined": 2,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 2
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-3.2.1-02",
+   "topic_id": "3.2.1",
+   "syllabus_text": "state that adenine and guanine are purines with a double ring structure, and that cytosine, thymine and uracil are pyrimidines with a single ring structure (structural formulae for bases are not required)",
+   "times_examined": 1,
+   "marks_examined": 1,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2021"
+   ],
+   "tariffs": {
+    "1": 1
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-3.2.1-03",
+   "topic_id": "3.2.1",
+   "syllabus_text": "describe the structure of RNA and DNA and explain the importance of base pairing and the different hydrogen bonding between bases",
+   "times_examined": 5,
+   "marks_examined": 8,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 3,
+    "2": 1,
+    "3": 1
+   },
+   "command_words": {
+    "Explain": 1,
+    "State": 1,
+    "Record": 1
+   },
+   "papers": {
+    "P1": 2,
+    "P2": 3
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 4,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Explain": 1,
+     "State": 1,
+     "Record": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-3.2.1-04",
+   "topic_id": "3.2.1",
+   "syllabus_text": "describe the semi-conservative replication of DNA during S phase",
+   "times_examined": 5,
+   "marks_examined": 10,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 2,
+    "2": 2,
+    "4": 1
+   },
+   "command_words": {
+    "Name": 1,
+    "Explain": 1,
+    "State": 1
+   },
+   "papers": {
+    "P2": 3,
+    "P1": 2
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 3,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Name": 1,
+     "Explain": 1,
+     "State": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-3.2.1-05",
+   "topic_id": "3.2.1",
+   "syllabus_text": "design and make a model of DNA to illustrate the semi-conservative replication of DNA during interphase",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-3.2.2-01",
+   "topic_id": "3.2.2",
+   "syllabus_text": "state that a polypeptide is coded for by a gene and that a gene is a sequence of nucleotides that forms part of a DNA molecule",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-3.2.2-02",
+   "topic_id": "3.2.2",
+   "syllabus_text": "state the features of the genetic code",
+   "times_examined": 1,
+   "marks_examined": 1,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 1
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-3.2.2-03",
+   "topic_id": "3.2.2",
+   "syllabus_text": "describe how the information in DNA is used during transcription and translation to construct polypeptides, including the role of messenger RNA (mRNA), transfer RNA (tRNA) and the ribosomes",
+   "times_examined": 8,
+   "marks_examined": 15,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 5,
+    "3": 2,
+    "4": 1
+   },
+   "command_words": {
+    "Complete": 1,
+    "Fill in": 1,
+    "Outline": 1,
+    "Record": 2,
+    "Describe": 1
+   },
+   "papers": {
+    "P1": 2,
+    "P2": 6
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 8,
+    "distinct_series": 3,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Complete": 1,
+     "Fill in": 1,
+     "Outline": 1,
+     "Record": 2,
+     "Describe": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-3.2.2-04",
+   "topic_id": "3.2.2",
+   "syllabus_text": "state that a gene mutation is a change in the sequence of nucleotides that may result in an altered polypeptide",
+   "times_examined": 2,
+   "marks_examined": 3,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 1,
+    "2": 1
+   },
+   "command_words": {
+    "Describe": 1,
+    "Suggest": 1
+   },
+   "papers": {
+    "P2": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 1,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "Describe": 1,
+     "Suggest": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-3.2.2-05",
+   "topic_id": "3.2.2",
+   "syllabus_text": "explain that a gene mutation occurs by substitution or deletion or insertion of base pairs in DNA and outline how each of these types of mutation may affect the polypeptide produced",
+   "times_examined": 1,
+   "marks_examined": 2,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "2": 1
+   },
+   "command_words": {
+    "Suggest": 1
+   },
+   "papers": {
+    "P2": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "Suggest": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-3.2.2-06",
+   "topic_id": "3.2.2",
+   "syllabus_text": "describe the way in which the nucleotide sequence codes for the amino acid sequence in a polypeptide with reference to the nucleotide sequence for HbA (normal) and HbS (sickle cell) alleles of the gene for the β-globin polypeptide",
+   "times_examined": 4,
+   "marks_examined": 6,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 3,
+    "3": 1
+   },
+   "command_words": {
+    "Fill in": 1,
+    "Record": 1
+   },
+   "papers": {
+    "P1": 2,
+    "P2": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 4,
+    "distinct_series": 4,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Fill in": 1,
+     "Record": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-3.2.2-07",
+   "topic_id": "3.2.2",
+   "syllabus_text": "design and make a model of RNA to contrast it with the DNA model",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.1-01",
+   "topic_id": "4.1",
+   "syllabus_text": "Identify the independent and dependent variables.",
+   "times_examined": 2,
+   "marks_examined": 6,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "2": 1,
+    "4": 1
+   },
+   "command_words": {
+    "State": 1
+   },
+   "papers": {
+    "P2": 1,
+    "P3": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "State": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.1-02",
+   "topic_id": "4.1",
+   "syllabus_text": "Decide how the independent variable should be changed within a suitable range to provide accurate results.",
+   "times_examined": 4,
+   "marks_examined": 11,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "2": 1,
+    "3": 3
+   },
+   "command_words": {
+    "Make": 1,
+    "Complete": 1
+   },
+   "papers": {
+    "P3": 4
+   },
+   "low_confidence_records": 2,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 4,
+    "distinct_series": 4,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Make": 1,
+     "Complete": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.1-03",
+   "topic_id": "4.1",
+   "syllabus_text": "decide the number of values at which measurements are recorded (a minimum of 5 measurements, replicates or more measurements around a specific value)",
+   "times_examined": 1,
+   "marks_examined": 3,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "3": 1
+   },
+   "command_words": {
+    "Describe": 1
+   },
+   "papers": {
+    "P3": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Describe": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.1-04",
+   "topic_id": "4.1",
+   "syllabus_text": "decide how to identify the presence of a biological molecule and estimate its quantity by standardising the appropriate test",
+   "times_examined": 2,
+   "marks_examined": 5,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 1,
+    "4": 1
+   },
+   "command_words": {
+    "Describe": 1
+   },
+   "papers": {
+    "P3": 1,
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Describe": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.1-05",
+   "topic_id": "4.1",
+   "syllabus_text": "Describe an appropriate control which removes the effect of the independent variable (including replacing a solution with the same volume of water or denaturing an enzyme by boiling) and variables to standardise.",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.1-06",
+   "topic_id": "4.1",
+   "syllabus_text": "Decide which variables to standardise because they may change the results if the variable changes during the investigation and decide how to standardise each variable to provide accurate results.",
+   "times_examined": 6,
+   "marks_examined": 12,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 1,
+    "2": 2,
+    "3": 1,
+    "4": 1
+   },
+   "command_words": {
+    "Outline": 1,
+    "Suggest": 1,
+    "State": 2
+   },
+   "papers": {
+    "P3": 6
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 6,
+    "distinct_series": 4,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Outline": 1,
+     "Suggest": 1,
+     "State": 2
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.1-07",
+   "topic_id": "4.1",
+   "syllabus_text": "Decide and describe how the dependent variable should be measured to obtain accurate and precise results.",
+   "times_examined": 2,
+   "marks_examined": 3,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "3": 1
+   },
+   "command_words": {
+    "Describe": 1
+   },
+   "papers": {
+    "P3": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Describe": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.1-08",
+   "topic_id": "4.1",
+   "syllabus_text": "decide whether to repeat or replicate readings in order to identify anomalous results or to provide a more accurate estimate",
+   "times_examined": 6,
+   "marks_examined": 16,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "2": 3,
+    "3": 2,
+    "4": 1
+   },
+   "command_words": {
+    "Outline": 1,
+    "State": 1,
+    "Prepare": 1,
+    "Suggest": 1,
+    "Describe": 1
+   },
+   "papers": {
+    "P3": 5,
+    "P2": 1
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 6,
+    "distinct_series": 4,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Outline": 1,
+     "State": 1,
+     "Prepare": 1,
+     "Suggest": 1,
+     "Describe": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.1-09",
+   "topic_id": "4.1",
+   "syllabus_text": "follow instructions or diagrams for a range of techniques to collect results",
+   "times_examined": 5,
+   "marks_examined": 12,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 1,
+    "2": 1,
+    "3": 3
+   },
+   "command_words": {
+    "Make": 1,
+    "Complete": 1,
+    "Take": 1
+   },
+   "papers": {
+    "P3": 5
+   },
+   "low_confidence_records": 2,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 5,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Make": 1,
+     "Complete": 1,
+     "Take": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.1-10",
+   "topic_id": "4.1",
+   "syllabus_text": "assess the risk of a procedure as low, medium or high considering the hazards of solutions and reagents and the procedure",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.1-11",
+   "topic_id": "4.1",
+   "syllabus_text": "take readings using a range of apparatus to obtain accurate data or observations with the expected pattern of results",
+   "times_examined": 5,
+   "marks_examined": 5,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 3,
+    "2": 1
+   },
+   "command_words": {
+    "Use": 2,
+    "Take": 1
+   },
+   "papers": {
+    "P2": 1,
+    "P3": 4
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 4,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "Use": 2,
+     "Take": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.1-12",
+   "topic_id": "4.1",
+   "syllabus_text": "Qualitative results from observations of colour changes, using clear descriptions",
+   "times_examined": 5,
+   "marks_examined": 11,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 3,
+    "4": 2
+   },
+   "command_words": {
+    "Use": 1,
+    "Construct": 1
+   },
+   "papers": {
+    "P3": 3,
+    "P1": 2
+   },
+   "low_confidence_records": 2,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 3,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Use": 1,
+     "Construct": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.2-01",
+   "topic_id": "4.2",
+   "syllabus_text": "set up a light microscope to view and observe specimens, in order to make either plan diagrams to show tissue distribution or to draw cells to include only the observable features",
+   "times_examined": 1,
+   "marks_examined": 5,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2022"
+   ],
+   "tariffs": {
+    "5": 1
+   },
+   "command_words": {},
+   "papers": {
+    "P3": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 5,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.2-02",
+   "topic_id": "4.2",
+   "syllabus_text": "stain and make a slide of cells",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.2-03",
+   "topic_id": "4.2",
+   "syllabus_text": "calibrate an eyepiece graticule using a stage micrometer",
+   "times_examined": 4,
+   "marks_examined": 8,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 1,
+    "3": 1,
+    "4": 1
+   },
+   "command_words": {
+    "Look": 1,
+    "Move": 1
+   },
+   "papers": {
+    "P1": 1,
+    "P3": 3
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 4,
+    "distinct_series": 3,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Look": 1,
+     "Move": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.2-04",
+   "topic_id": "4.2",
+   "syllabus_text": "obtain actual sizes of tissues or cells using a calibrated eyepiece graticule, by measuring the tissues or cells to obtain a mean measurement, using the correct units for microscopy",
+   "times_examined": 5,
+   "marks_examined": 12,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "2": 2,
+    "4": 2
+   },
+   "command_words": {
+    "Calculate": 1,
+    "Look": 1,
+    "Use": 2
+   },
+   "papers": {
+    "P3": 5
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 5,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Calculate": 1,
+     "Look": 1,
+     "Use": 2
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.2-05",
+   "topic_id": "4.2",
+   "syllabus_text": "estimate the number of cells or cell organelles in a whole slide or field of view using a sample or using a grid",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.2-06",
+   "topic_id": "4.2",
+   "syllabus_text": "observations by drawing the distribution of tissues in a specimen, as plan diagrams, with no cells drawn and correct proportions of layers of tissues",
+   "times_examined": 4,
+   "marks_examined": 14,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "4": 1,
+    "5": 2
+   },
+   "command_words": {
+    "Make": 2
+   },
+   "papers": {
+    "P3": 4
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 4,
+    "distinct_series": 4,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Make": 2
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.2-07",
+   "topic_id": "4.2",
+   "syllabus_text": "observations by drawing the observable features of cells in a specimen",
+   "times_examined": 2,
+   "marks_examined": 9,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "4": 1,
+    "5": 1
+   },
+   "command_words": {
+    "Make": 1,
+    "Use": 1
+   },
+   "papers": {
+    "P3": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Make": 1,
+     "Use": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.2-08",
+   "topic_id": "4.2",
+   "syllabus_text": "similarities and differences between two specimens using only their observable features",
+   "times_examined": 5,
+   "marks_examined": 17,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "4": 3,
+    "5": 1
+   },
+   "command_words": {
+    "Complete": 1,
+    "Prepare": 3
+   },
+   "papers": {
+    "P3": 5
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 5,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Complete": 1,
+     "Prepare": 3
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.2-09",
+   "topic_id": "4.2",
+   "syllabus_text": "make drawings, using a sharp pencil, to give finely drawn lines",
+   "times_examined": 6,
+   "marks_examined": 23,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "4": 2,
+    "5": 3
+   },
+   "command_words": {
+    "Make": 3,
+    "Use": 1
+   },
+   "papers": {
+    "P3": 6
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 6,
+    "distinct_series": 5,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Make": 3,
+     "Use": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.2-10",
+   "topic_id": "4.2",
+   "syllabus_text": "Candidates should be able to show calculations, clearly show all the steps in their calculation",
+   "times_examined": 5,
+   "marks_examined": 15,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "2": 2,
+    "3": 1,
+    "4": 2
+   },
+   "command_words": {
+    "Calculate": 1,
+    "Look": 1,
+    "Use": 2,
+    "Move": 1
+   },
+   "papers": {
+    "P3": 5
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 4,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Calculate": 1,
+     "Look": 1,
+     "Use": 2,
+     "Move": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.2-11",
+   "topic_id": "4.2",
+   "syllabus_text": "Compare observable features of specimens of biological material including similarities and differences between microscopic slides of specimens and photomicrographs of specimens.",
+   "times_examined": 6,
+   "marks_examined": 18,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 1,
+    "4": 3,
+    "5": 1
+   },
+   "command_words": {
+    "Complete": 1,
+    "Prepare": 3,
+    "State": 1
+   },
+   "papers": {
+    "P3": 6
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 6,
+    "distinct_series": 5,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Complete": 1,
+     "Prepare": 3,
+     "State": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.2-12",
+   "topic_id": "4.2",
+   "syllabus_text": "make scientific explanations of:",
+   "times_examined": 4,
+   "marks_examined": 9,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 2,
+    "3": 1,
+    "4": 1
+   },
+   "command_words": {
+    "Describe": 1,
+    "State": 2
+   },
+   "papers": {
+    "P3": 4
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 4,
+    "distinct_series": 3,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Describe": 1,
+     "State": 2
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.3-01",
+   "topic_id": "4.3",
+   "syllabus_text": "Record only the raw data (unprocessed results) as quantitative data and qualitative observations in a fully ruled table with no units in the body of the table",
+   "times_examined": 5,
+   "marks_examined": 17,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 1,
+    "4": 4
+   },
+   "command_words": {
+    "Construct": 1,
+    "Prepare": 1,
+    "Take": 1,
+    "Draw": 1
+   },
+   "papers": {
+    "P3": 5
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 4,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Construct": 1,
+     "Prepare": 1,
+     "Take": 1,
+     "Draw": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.3-02",
+   "topic_id": "4.3",
+   "syllabus_text": "prepare a table with a heading for the independent variable in the left column or top row with appropriate units and a heading for the dependent variable with units",
+   "times_examined": 7,
+   "marks_examined": 29,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "4": 6,
+    "5": 1
+   },
+   "command_words": {
+    "Construct": 1,
+    "Prepare": 4,
+    "Draw": 1
+   },
+   "papers": {
+    "P3": 7
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 7,
+    "distinct_series": 4,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Construct": 1,
+     "Prepare": 4,
+     "Draw": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.3-03",
+   "topic_id": "4.3",
+   "syllabus_text": "record quantitative data to the same number of significant figures dependent on the measuring instrument used",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.3-04",
+   "topic_id": "4.3",
+   "syllabus_text": "show calculations clearly showing all the steps in the calculation and their reasoning",
+   "times_examined": 6,
+   "marks_examined": 11,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 4,
+    "3": 1,
+    "4": 1
+   },
+   "command_words": {
+    "Calculate": 4,
+    "Use": 2
+   },
+   "papers": {
+    "P3": 3,
+    "P2": 3
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 6,
+    "distinct_series": 3,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Calculate": 4,
+     "Use": 2
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.3-05",
+   "topic_id": "4.3",
+   "syllabus_text": "use the correct number of significant figures for calculated quantities. This should be the same number of significant figures as (or one more than) the measured quantity of least accuracy.",
+   "times_examined": 2,
+   "marks_examined": 1,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 1
+   },
+   "command_words": {
+    "Calculate": 1
+   },
+   "papers": {
+    "P3": 2
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 1,
+    "command_words_observed": {
+     "Calculate": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.3-06",
+   "topic_id": "4.3",
+   "syllabus_text": "select whether data should be shown as a graph or chart and then present the graph or chart clearly and accurately",
+   "times_examined": 6,
+   "marks_examined": 23,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "2": 1,
+    "4": 4,
+    "5": 1
+   },
+   "command_words": {
+    "Plot": 4,
+    "Sketch": 1
+   },
+   "papers": {
+    "P3": 6
+   },
+   "low_confidence_records": 2,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 6,
+    "distinct_series": 5,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Plot": 4,
+     "Sketch": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.3-07",
+   "topic_id": "4.3",
+   "syllabus_text": "axes with the independent variable on the x-axis, clearly labelled (to match the relevant table heading) with units where appropriate and the dependent variable (to match the relevant table heading) on the y-axis labelled with units, where appropriate",
+   "times_examined": 6,
+   "marks_examined": 23,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "2": 1,
+    "4": 4,
+    "5": 1
+   },
+   "command_words": {
+    "Plot": 4,
+    "Sketch": 1
+   },
+   "papers": {
+    "P3": 6
+   },
+   "low_confidence_records": 2,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 6,
+    "distinct_series": 5,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Plot": 4,
+     "Sketch": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.3-08",
+   "topic_id": "4.3",
+   "syllabus_text": "a scale where both axes should use most or all of the grid available",
+   "times_examined": 5,
+   "marks_examined": 21,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "4": 4,
+    "5": 1
+   },
+   "command_words": {
+    "Plot": 4
+   },
+   "papers": {
+    "P3": 5
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 5,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Plot": 4
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.3-09",
+   "topic_id": "4.3",
+   "syllabus_text": "all points plotted accurately.",
+   "times_examined": 5,
+   "marks_examined": 19,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "2": 1,
+    "4": 3,
+    "5": 1
+   },
+   "command_words": {
+    "Plot": 3,
+    "Sketch": 1
+   },
+   "papers": {
+    "P3": 5
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 4,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Plot": 3,
+     "Sketch": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.3-10",
+   "topic_id": "4.3",
+   "syllabus_text": "for a graph (based on data provided) the plotted points should be connected with a clear, sharp and unbroken",
+   "times_examined": 5,
+   "marks_examined": 19,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "2": 1,
+    "4": 3,
+    "5": 1
+   },
+   "command_words": {
+    "Plot": 3,
+    "Sketch": 1
+   },
+   "papers": {
+    "P3": 5
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 4,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Plot": 3,
+     "Sketch": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.3-11",
+   "topic_id": "4.3",
+   "syllabus_text": "bars should be separated for discrete or categorical data and joined for continuous data",
+   "times_examined": 2,
+   "marks_examined": 6,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "2": 1,
+    "4": 1
+   },
+   "command_words": {
+    "Use": 1,
+    "Plot": 1
+   },
+   "papers": {
+    "P3": 2
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 1,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Use": 1,
+     "Plot": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.4-01",
+   "topic_id": "4.4",
+   "syllabus_text": "calculate the correct answer with the correct number of significant figures using quantitative results or data provided.",
+   "times_examined": 1,
+   "marks_examined": 1,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 1
+   },
+   "command_words": {
+    "Calculate": 1
+   },
+   "papers": {
+    "P2": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 1,
+    "command_words_observed": {
+     "Calculate": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.4-02",
+   "topic_id": "4.4",
+   "syllabus_text": "find an unknown value by using co-ordinates or intercepts with axes on a graph or extrapolation where the data allows",
+   "times_examined": 4,
+   "marks_examined": 7,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 2,
+    "2": 1,
+    "3": 1
+   },
+   "command_words": {
+    "Use": 3
+   },
+   "papers": {
+    "P2": 2,
+    "P3": 2
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 4,
+    "distinct_series": 3,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Use": 3
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.4-03",
+   "topic_id": "4.4",
+   "syllabus_text": "estimate the concentration of unknown solutions from qualitative results",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.4-04",
+   "topic_id": "4.4",
+   "syllabus_text": "identify the contents of unknown solutions using biological molecule tests",
+   "times_examined": 3,
+   "marks_examined": 3,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 3
+   },
+   "command_words": {},
+   "papers": {
+    "P1": 3
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 3,
+    "distinct_series": 3,
+    "max_mark_tariff": 1,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.4-05",
+   "topic_id": "4.4",
+   "syllabus_text": "identify anomalous results and remove them before beginning calculations, e.g. when calculating means",
+   "times_examined": 1,
+   "marks_examined": 2,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "2": 1
+   },
+   "command_words": {
+    "Identify": 1
+   },
+   "papers": {
+    "P3": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "Identify": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.4-06",
+   "topic_id": "4.4",
+   "syllabus_text": "describe patterns and trends using the data provided in tables and graphs",
+   "times_examined": 16,
+   "marks_examined": 29,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 3,
+    "2": 2,
+    "3": 2,
+    "4": 4
+   },
+   "command_words": {
+    "Use": 3,
+    "Describe": 5,
+    "State": 1,
+    "Discuss": 1
+   },
+   "papers": {
+    "P3": 8,
+    "P2": 8
+   },
+   "low_confidence_records": 3,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 16,
+    "distinct_series": 5,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Use": 3,
+     "Describe": 5,
+     "State": 1,
+     "Discuss": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.4-07",
+   "topic_id": "4.4",
+   "syllabus_text": "identify systematic or random errors from using apparatus in an investigation and understand that systematic errors do not affect the trend in results whereas a random error",
+   "times_examined": 3,
+   "marks_examined": 5,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 2,
+    "3": 1
+   },
+   "command_words": {
+    "Identify": 2,
+    "Suggest": 1
+   },
+   "papers": {
+    "P3": 3
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 3,
+    "distinct_series": 3,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Identify": 2,
+     "Suggest": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.4-08",
+   "topic_id": "4.4",
+   "syllabus_text": "identify the significant sources of error in a particular investigation as any variable that may change during the recording of results so making the results less accurate",
+   "times_examined": 5,
+   "marks_examined": 6,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 3,
+    "3": 1
+   },
+   "command_words": {
+    "Identify": 3,
+    "Suggest": 1
+   },
+   "papers": {
+    "P3": 5
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 4,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Identify": 3,
+     "Suggest": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.4-09",
+   "topic_id": "4.4",
+   "syllabus_text": "estimate quantitatively, by calculating the actual error or percentage error (where a particular measurement is given) to evaluate the uncertainty in quantitative measurements and evaluate the confidence in the accuracy of results",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.4-10",
+   "topic_id": "4.4",
+   "syllabus_text": "evaluate the effect of the standardisation of variables on the general trend or pattern and therefore the confidence with which conclusions might be made.",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.4-11",
+   "topic_id": "4.4",
+   "syllabus_text": "to predict a trend from provided information or results",
+   "times_examined": 3,
+   "marks_examined": 4,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 1,
+    "3": 1
+   },
+   "command_words": {
+    "Draw": 1
+   },
+   "papers": {
+    "P3": 1,
+    "P2": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 3,
+    "distinct_series": 3,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Draw": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.4-12",
+   "topic_id": "4.4",
+   "syllabus_text": "from the patterns and trends in data",
+   "times_examined": 7,
+   "marks_examined": 16,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 1,
+    "2": 3,
+    "3": 1,
+    "6": 1
+   },
+   "command_words": {
+    "Compare": 1,
+    "State": 2,
+    "Describe": 2
+   },
+   "papers": {
+    "P1": 1,
+    "P2": 4,
+    "P3": 2
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 7,
+    "distinct_series": 3,
+    "max_mark_tariff": 6,
+    "command_words_observed": {
+     "Compare": 1,
+     "State": 2,
+     "Describe": 2
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.4-13",
+   "topic_id": "4.4",
+   "syllabus_text": "on whether investigational data support a given hypothesis",
+   "times_examined": 2,
+   "marks_examined": 1,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2023",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 1
+   },
+   "command_words": {
+    "Use": 1
+   },
+   "papers": {
+    "P2": 1,
+    "P3": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 1,
+    "command_words_observed": {
+     "Use": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.4-14",
+   "topic_id": "4.4",
+   "syllabus_text": "from results, including estimating an unknown concentration using known concentrations",
+   "times_examined": 1,
+   "marks_examined": 0,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {
+    "P3": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.4-15",
+   "topic_id": "4.4",
+   "syllabus_text": "Make scientific explanations, using skills, knowledge and understanding",
+   "times_examined": 8,
+   "marks_examined": 24,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 1,
+    "2": 1,
+    "3": 1,
+    "4": 3,
+    "6": 1
+   },
+   "command_words": {
+    "Use": 2,
+    "Describe": 4
+   },
+   "papers": {
+    "P3": 5,
+    "P2": 3
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 8,
+    "distinct_series": 5,
+    "max_mark_tariff": 6,
+    "command_words_observed": {
+     "Use": 2,
+     "Describe": 4
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.4-16",
+   "topic_id": "4.4",
+   "syllabus_text": "Suggest improvements to a procedure that will increase the accuracy of the procedure for the investigation or accuracy of the observations",
+   "times_examined": 6,
+   "marks_examined": 6,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "2": 3
+   },
+   "command_words": {
+    "State": 1,
+    "Suggest": 1
+   },
+   "papers": {
+    "P3": 5,
+    "P2": 1
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 6,
+    "distinct_series": 3,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "State": 1,
+     "Suggest": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-4.4-17",
+   "topic_id": "4.4",
+   "syllabus_text": "Suggest how to modify or extend the investigation to answer a new question or change the independent variable",
+   "times_examined": 2,
+   "marks_examined": 3,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "3": 1
+   },
+   "command_words": {
+    "Outline": 1
+   },
+   "papers": {
+    "P3": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Outline": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-5.1-01",
+   "topic_id": "5.1",
+   "syllabus_text": "understand averages, decimals, fractions, percentages, ratios and reciprocals",
+   "times_examined": 6,
+   "marks_examined": 11,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 4,
+    "3": 1,
+    "4": 1
+   },
+   "command_words": {
+    "Calculate": 3,
+    "Use": 2
+   },
+   "papers": {
+    "P3": 4,
+    "P1": 1,
+    "P2": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 6,
+    "distinct_series": 3,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Calculate": 3,
+     "Use": 2
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-5.1-02",
+   "topic_id": "5.1",
+   "syllabus_text": "recognise and use expressions in decimal and standard form",
+   "times_examined": 1,
+   "marks_examined": 0,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {
+    "P2": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-5.1-03",
+   "topic_id": "5.1",
+   "syllabus_text": "understand and use the prefixes: giga (G), mega (M), kilo (k), milli (m), micro",
+   "times_examined": 10,
+   "marks_examined": 15,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 7,
+    "2": 2,
+    "4": 1
+   },
+   "command_words": {
+    "Calculate": 1,
+    "Use": 2
+   },
+   "papers": {
+    "P1": 7,
+    "P3": 3
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 10,
+    "distinct_series": 5,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Calculate": 1,
+     "Use": 2
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-5.1-04",
+   "topic_id": "5.1",
+   "syllabus_text": "take account of accuracy in numerical work and handle calculations so that significant figures are neither lost unnecessarily nor carried beyond what is justified",
+   "times_examined": 3,
+   "marks_examined": 6,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2023"
+   ],
+   "tariffs": {
+    "1": 2,
+    "4": 1
+   },
+   "command_words": {
+    "Calculate": 2,
+    "Use": 1
+   },
+   "papers": {
+    "P2": 3
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 3,
+    "distinct_series": 2,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Calculate": 2,
+     "Use": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-5.1-05",
+   "topic_id": "5.1",
+   "syllabus_text": "calculate percentages and percentage changes",
+   "times_examined": 2,
+   "marks_examined": 1,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2023",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 1
+   },
+   "command_words": {
+    "Calculate": 1
+   },
+   "papers": {
+    "P2": 1,
+    "P3": 1
+   },
+   "low_confidence_records": 2,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 1,
+    "command_words_observed": {
+     "Calculate": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-5.1-06",
+   "topic_id": "5.1",
+   "syllabus_text": "express errors in experimental work as percentage errors",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-5.1-07",
+   "topic_id": "5.1",
+   "syllabus_text": "recognise and use ratios",
+   "times_examined": 4,
+   "marks_examined": 6,
+   "series_spread": 3,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 3,
+    "3": 1
+   },
+   "command_words": {
+    "Calculate": 1,
+    "Use": 1
+   },
+   "papers": {
+    "P1": 2,
+    "P2": 1,
+    "P3": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 4,
+    "distinct_series": 3,
+    "max_mark_tariff": 3,
+    "command_words_observed": {
+     "Calculate": 1,
+     "Use": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-5.1-08",
+   "topic_id": "5.1",
+   "syllabus_text": "use direct and inverse proportion",
+   "times_examined": 2,
+   "marks_examined": 2,
+   "series_spread": 2,
+   "series": [
+    "Oct/Nov 2023",
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "1": 2
+   },
+   "command_words": {
+    "Use": 1
+   },
+   "papers": {
+    "P2": 1,
+    "P1": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "frequent",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 2,
+    "max_mark_tariff": 1,
+    "command_words_observed": {
+     "Use": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-5.2-01",
+   "topic_id": "5.2",
+   "syllabus_text": "draw charts and graphs from given data",
+   "times_examined": 9,
+   "marks_examined": 28,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "2": 2,
+    "3": 1,
+    "4": 4,
+    "5": 1
+   },
+   "command_words": {
+    "Plot": 4,
+    "Sketch": 1,
+    "Use": 1
+   },
+   "papers": {
+    "P3": 7,
+    "P2": 2
+   },
+   "low_confidence_records": 2,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 9,
+    "distinct_series": 5,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Plot": 4,
+     "Sketch": 1,
+     "Use": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-5.2-02",
+   "topic_id": "5.2",
+   "syllabus_text": "interpret charts and graphs",
+   "times_examined": 19,
+   "marks_examined": 31,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 9,
+    "2": 2,
+    "3": 2,
+    "4": 3
+   },
+   "command_words": {
+    "Use": 3,
+    "Describe": 2,
+    "Explain": 1,
+    "Discuss": 1
+   },
+   "papers": {
+    "P1": 8,
+    "P3": 4,
+    "P2": 7
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 19,
+    "distinct_series": 5,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Use": 3,
+     "Describe": 2,
+     "Explain": 1,
+     "Discuss": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-5.2-03",
+   "topic_id": "5.2",
+   "syllabus_text": "select suitable scales and axes for graphs",
+   "times_examined": 5,
+   "marks_examined": 21,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "4": 4,
+    "5": 1
+   },
+   "command_words": {
+    "Plot": 4
+   },
+   "papers": {
+    "P3": 5
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 5,
+    "distinct_series": 5,
+    "max_mark_tariff": 5,
+    "command_words_observed": {
+     "Plot": 4
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-5.2-04",
+   "topic_id": "5.2",
+   "syllabus_text": "construct and interpret frequency distributions and diagrams, such as pie charts, bar charts and histograms",
+   "times_examined": 1,
+   "marks_examined": 4,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "4": 1
+   },
+   "command_words": {
+    "Plot": 1
+   },
+   "papers": {
+    "P3": 1
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Plot": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-5.2-05",
+   "topic_id": "5.2",
+   "syllabus_text": "understand when information should be presented in the form of a bar chart, histogram or line graph",
+   "times_examined": 1,
+   "marks_examined": 4,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2024"
+   ],
+   "tariffs": {
+    "4": 1
+   },
+   "command_words": {
+    "Plot": 1
+   },
+   "papers": {
+    "P3": 1
+   },
+   "low_confidence_records": 1,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Plot": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-5.2-06",
+   "topic_id": "5.2",
+   "syllabus_text": "recognise when it is appropriate to join the points on a graph with straight ruled lines and when it is appropriate to use a line (straight or curved) of best fit",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-5.2-07",
+   "topic_id": "5.2",
+   "syllabus_text": "calculate the rate of change from a line on a graph",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-5.2-08",
+   "topic_id": "5.2",
+   "syllabus_text": "draw and use the slope of a tangent to a curve as a means to obtain the rate of change",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-5.2-09",
+   "topic_id": "5.2",
+   "syllabus_text": "translate information between graphical, numerical, and algebraic forms",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-5.3-01",
+   "topic_id": "5.3",
+   "syllabus_text": "recognise and use the relationship between length, surface area and volume and their units on metric scales",
+   "times_examined": 2,
+   "marks_examined": 3,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2021"
+   ],
+   "tariffs": {
+    "1": 1,
+    "2": 1
+   },
+   "command_words": {
+    "Calculate": 2
+   },
+   "papers": {
+    "P2": 2
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 2,
+    "distinct_series": 1,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "Calculate": 2
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-5.3-02",
+   "topic_id": "5.3",
+   "syllabus_text": "calculate magnifications and actual sizes",
+   "times_examined": 9,
+   "marks_examined": 19,
+   "series_spread": 5,
+   "series": [
+    "Oct/Nov 2021",
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 4,
+    "2": 2,
+    "3": 1,
+    "4": 2
+   },
+   "command_words": {
+    "State": 1,
+    "Calculate": 1,
+    "Look": 1,
+    "Use": 2,
+    "Move": 1
+   },
+   "papers": {
+    "P3": 6,
+    "P1": 3
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 9,
+    "distinct_series": 5,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "State": 1,
+     "Calculate": 1,
+     "Look": 1,
+     "Use": 2,
+     "Move": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-5.3-03",
+   "topic_id": "5.3",
+   "syllabus_text": "calculate areas of triangles, circumferences and areas of circles and rectangles, surface areas and volumes of cylinders and rectangular blocks",
+   "times_examined": 1,
+   "marks_examined": 2,
+   "series_spread": 1,
+   "series": [
+    "Oct/Nov 2021"
+   ],
+   "tariffs": {
+    "2": 1
+   },
+   "command_words": {
+    "Calculate": 1
+   },
+   "papers": {
+    "P2": 1
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "occasional",
+   "evidence": {
+    "question_parts_naming_it": 1,
+    "distinct_series": 1,
+    "max_mark_tariff": 2,
+    "command_words_observed": {
+     "Calculate": 1
+    }
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-5.3-04",
+   "topic_id": "5.3",
+   "syllabus_text": "use positive, whole number indices",
+   "times_examined": 0,
+   "marks_examined": 0,
+   "series_spread": 0,
+   "series": [],
+   "tariffs": {},
+   "command_words": {},
+   "papers": {},
+   "low_confidence_records": 0,
+   "exposure_class": "unseen",
+   "evidence": {
+    "question_parts_naming_it": 0,
+    "distinct_series": 0,
+    "max_mark_tariff": 0,
+    "command_words_observed": {}
+   }
+  },
+  {
+   "objective_id": "OBJ-8223-5.3-05",
+   "topic_id": "5.3",
+   "syllabus_text": "use Simpson's Index of Diversity (D) to calculate the biodiversity of a habitat",
+   "times_examined": 6,
+   "marks_examined": 11,
+   "series_spread": 4,
+   "series": [
+    "Oct/Nov 2022",
+    "Oct/Nov 2023",
+    "Oct/Nov 2024",
+    "Oct/Nov 2025"
+   ],
+   "tariffs": {
+    "1": 3,
+    "2": 2,
+    "4": 1
+   },
+   "command_words": {
+    "Use": 2,
+    "Compare": 1
+   },
+   "papers": {
+    "P1": 3,
+    "P2": 3
+   },
+   "low_confidence_records": 0,
+   "exposure_class": "core",
+   "evidence": {
+    "question_parts_naming_it": 6,
+    "distinct_series": 4,
+    "max_mark_tariff": 4,
+    "command_words_observed": {
+     "Use": 2,
+     "Compare": 1
+    }
+   }
+  }
+ ]
+}

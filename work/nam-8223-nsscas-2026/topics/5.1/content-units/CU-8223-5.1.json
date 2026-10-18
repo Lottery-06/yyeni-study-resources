@@ -1,0 +1,331 @@
+{
+ "unit_id": "CU-8223-5.1",
+ "title": "Number, units and accuracy",
+ "objective_ids": [
+  "OBJ-8223-5.1-01",
+  "OBJ-8223-5.1-02",
+  "OBJ-8223-5.1-03",
+  "OBJ-8223-5.1-04",
+  "OBJ-8223-5.1-05",
+  "OBJ-8223-5.1-06",
+  "OBJ-8223-5.1-07",
+  "OBJ-8223-5.1-08"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_quantitative",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 2390,
+  "target": 2788,
+  "max": 3420
+ },
+ "blocks": [
+  {
+   "block_id": "5.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "The arithmetic a biologist needs to handle measurements: averages, fractions, decimals and reciprocals; standard form; the prefixes from nano to giga; significant figures; percentages and percentage change; percentage error; ratios; and direct and inverse proportion. Each skill is taught with a method, a worked example from a biological situation, and the mistakes that cost marks.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "edf20c01057f1414f9eebc6784768eb80c276f913b1a4b91c58d847bd1c7a441"
+  },
+  {
+   "block_id": "5.1-b2",
+   "block_type": "plain_explanation",
+   "heading": "Averages, fractions and decimals",
+   "text": "An average gives one value that stands for a set of readings. The mean is the total of the values divided by the number of values. If five camel thorn seedlings in a Windhoek nursery are 12.4, 15.1, 13.8, 14.2 and 11.5 cm tall, the total is 67.0 cm and the mean is 67.0 ÷ 5 = 13.4 cm. The median is the middle value once the readings are put in order, and the mode is the value that occurs most often. The mean uses every reading, so one unusually large reading pulls it upwards, whereas the median is much less affected by it.\n\nA fraction a/b means a divided by b. Dividing the top number by the bottom gives the decimal form, and multiplying the decimal by 100 gives the percentage. For 3/8, 3 ÷ 8 = 0.375, and 0.375 × 100 = 37.5 per cent. The three forms say the same thing, so a biologist chooses the one that suits the situation: a decimal for a calculation, a percentage for comparing samples of different sizes. Working in one form from the start avoids mixing them. A fraction of 1/4 of the seeds germinating, a decimal of 0.25 and a percentage of 25 per cent all describe the same result.",
+   "claim_ids": [
+    "CLM-8223-5.1-001",
+    "CLM-8223-5.1-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.1-001": 1,
+    "CLM-8223-5.1-002": 1
+   },
+   "authored_hash": "c2cb7588ce162190e638f060999f9800c23a1773e3874356ac69320997719bc7"
+  },
+  {
+   "block_id": "5.1-b3",
+   "block_type": "formula",
+   "heading": "Reciprocals",
+   "text": "The reciprocal of a number x is 1 ÷ x. The reciprocal of 4 is 1 ÷ 4 = 0.25, and the reciprocal of 0.5 is 1 ÷ 0.5 = 2. A number multiplied by its reciprocal gives 1, which is a quick way to test an answer. Reciprocals link a rate to a time. If a bacterial cell divides once every 4 hours, then in 1 hour it completes 1 ÷ 4 = 0.25 of a division, so the rate is 0.25 divisions per hour. If a heart beats 75 times in a minute, one beat takes 1 ÷ 75 = 0.0133 minutes (three significant figures), which is 0.800 seconds. The reciprocal key on a calculator carries out this step, and it is easy to confuse it with a minus sign or with a power: the reciprocal of 4 is 0.25, not -4.",
+   "claim_ids": [
+    "CLM-8223-5.1-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.1-003": 1
+   },
+   "authored_hash": "19fb1916ed16e46b0db0c62424a329b4add35cf140fda6aeb247e337c6946c53"
+  },
+  {
+   "block_id": "5.1-b4",
+   "block_type": "definition",
+   "heading": "Decimal form and standard form",
+   "text": "Biological quantities range from the width of a virus to the mass of a baobab, and writing all the zeros is slow and invites mistakes. Standard form writes a number as A × 10ⁿ. The leading number A is at least 1 and less than 10, and the power n is a whole number. A number of 10 or more has a positive power, and a number smaller than 1 has a negative power. So 340 000 is 3.4 × 10⁵ and 0.000034 is 3.4 × 10⁻⁵. A number such as 34 × 10⁴ is not in standard form, because 34 is not less than 10.\n\nTo change a decimal into standard form, count how many places the decimal point must move to leave one non-zero digit in front of it. The count is the size of n. If the point moves to the left, n is positive; if it moves to the right, n is negative. A bacterium 0.0000025 m long needs the point moved 6 places to the right to give 2.5, so its length is 2.5 × 10⁻⁶ m. To go back, move the point the other way by the same number of places. Standard form is also useful because the power shows the order of magnitude at a glance.\n\nStandard form is multiplied by multiplying the leading numbers and adding the powers, then correcting A if it leaves the range. A drop of blood from a donor at Oshakati hospital holding 4.8 × 10⁶ red blood cells in each mm³ contains 4.8 × 2.5 = 12.0, that is 12.0 × 10⁶, in 2.5 mm³. Written correctly, this is 1.2 × 10⁷ cells.",
+   "claim_ids": [
+    "CLM-8223-5.1-004",
+    "CLM-8223-5.1-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.1-004": 1,
+    "CLM-8223-5.1-005": 1
+   },
+   "authored_hash": "108f4f4d28592d3bba700c745ee275089120d7fb31f3e5cf29b350a4549c0902"
+  },
+  {
+   "block_id": "5.1-b5",
+   "block_type": "misconception",
+   "heading": "A more negative power is a smaller number",
+   "text": "A common mistake is to say that 1.6 × 10⁻⁸ is larger than 1.6 × 10⁻² because 8 is bigger than 2. The mistake ignores the minus sign. A negative power means division: 10⁻² is 1 ÷ 100, which is 0.01, and 10⁻⁸ is 1 divided by one hundred million, which is 0.00000001. So 1.6 × 10⁻² is 0.016 and 1.6 × 10⁻⁸ is 0.000000016. The second number is far smaller.\n\nWhen two numbers in standard form are compared, compare the powers first. The number with the larger power is the larger number, and a power of -2 is larger than a power of -8. Only when the powers are the same are the leading numbers compared. The test that separates the correct idea from the mistake is to write both numbers in decimal form, or to ask which of 1/100 and 1/100 000 000 is the smaller share of a whole.",
+   "claim_ids": [
+    "CLM-8223-5.1-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.1-006": 1
+   },
+   "authored_hash": "ad51e98856bb3211f24d92548ad56d347561419992987bfd83a21a69da02887c"
+  },
+  {
+   "block_id": "5.1-b6",
+   "block_type": "definition",
+   "heading": "The prefixes giga to nano",
+   "text": "Prefixes avoid long strings of zeros by building the factor into the name of the unit. Six are needed. Giga (G) means 10⁹, a thousand million. Mega (M) means 10⁶, a million. Kilo (k) means 10³, a thousand. Milli (m) means 10⁻³, a thousandth. Micro (µ) means 10⁻⁶, a millionth. Nano (n) means 10⁻⁹, a thousand-millionth. A kilogram is 1000 g, a millimetre is one thousandth of a metre, and a micrometre (µm) is one millionth of a metre. In microscopy the micrometre is the practical unit: a plant cell is often tens of micrometres across, a mitochondrion about 1 µm long, and a virus particle can be about 100 nm across.\n\nTo convert, work out which unit is smaller. The same length needs a larger number when it is counted in a smaller unit, so multiply when going to a smaller unit and divide when going to a larger one. Between neighbouring prefixes in this list the factor is 1000: 1 mm = 1000 µm, and 1 µm = 1000 nm. A leaf epidermal cell 0.045 mm long is 0.045 × 1000 = 45 µm long. A virus 120 nm across is 120 ÷ 1000 = 0.12 µm across. After converting, check the direction: the number in micrometres must be larger than the number in millimetres for the same length. To pass from nanometres to millimetres, divide by 1000 twice, or by 1 000 000.",
+   "claim_ids": [
+    "CLM-8223-5.1-007",
+    "CLM-8223-5.1-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.1-007": 1,
+    "CLM-8223-5.1-008": 1
+   },
+   "authored_hash": "a8329411ce58a4b066e09d0a6e0d77c4207365e314387c49b17c5d251e0f2483"
+  },
+  {
+   "block_id": "5.1-b7",
+   "block_type": "process",
+   "heading": "Significant figures: counting and rounding",
+   "text": "Significant figures show how precisely something was measured. They are counted from the first digit that is not zero. The number 0.0250 has three significant figures, 2, 5 and the final 0, because the final zero was written to show a measurement to that precision; the zeros before the 2 only place the decimal point. The number 4.07 has three significant figures, because a zero between other digits counts. Significant figures differ from decimal places: 0.0250 has four decimal places but three significant figures.\n\nA calculation often has several steps, and rounding in the middle loses accuracy that cannot be recovered. A student collects 4.6 cm³ of oxygen from pondweed in 3.0 minutes and needs the volume per hour. The rate is 4.6 ÷ 3.0 = 1.53333 cm³ per minute, and 1.53333 × 60 = 92.0, so the answer is 92 cm³ per hour. If the rate is rounded to 1.5 first, the answer becomes 1.5 × 60 = 90 cm³ per hour, which has lost the second figure. So keep the unrounded value in the calculator, or write at least one more figure than the final answer needs, and round once at the end.\n\nThe opposite fault is to carry too many figures. The final answer should have the same number of significant figures as the least precise measurement used, or one more. Both 4.6 and 3.0 have two significant figures, so 92 is justified and 92.0 is not, since the calculator display of 91.99999 describes no real precision in the readings. Counted numbers, such as 32 seedlings, are exact and do not limit the answer. State the unit with the final answer.",
+   "claim_ids": [
+    "CLM-8223-5.1-009",
+    "CLM-8223-5.1-010",
+    "CLM-8223-5.1-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.1-009": 1,
+    "CLM-8223-5.1-010": 1,
+    "CLM-8223-5.1-011": 1
+   },
+   "authored_hash": "41a02fe13418a7575b324f3715e54d13e15d9736aadd3abb67cd2c294ed9d0bf"
+  },
+  {
+   "block_id": "5.1-b8",
+   "block_type": "formula",
+   "heading": "Percentages",
+   "text": "A percentage is a part expressed per hundred. To find what percentage one quantity is of another, divide the part by the whole and multiply by 100. If 136 of 160 mahangu seeds sown in a school plot at Ondangwa germinated, the percentage is 136 ÷ 160 × 100 = 85, so 85 per cent germinated. To find a percentage of a quantity, divide the percentage by 100 and multiply: 15 per cent of 240 seedlings is 15 ÷ 100 × 240 = 36 seedlings.\n\nA percentage change compares a new value with the original value. Percentage change = (new value - original value) ÷ original value × 100. A positive result is an increase and a negative result is a decrease. The original value goes underneath, because the change is measured from where the quantity started. Mixing it up with the new value is the commonest slip.\n\nThe original value matters when changes follow each other. A rise of 50 per cent takes 100 to 150. A fall of 50 per cent from 150 is a fall of 75, which leaves 75, a value 25 per cent below the start. The two percentages are the same size, but they are taken from different starting values.",
+   "claim_ids": [
+    "CLM-8223-5.1-012",
+    "CLM-8223-5.1-013",
+    "CLM-8223-5.1-014"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.1-012": 1,
+    "CLM-8223-5.1-013": 1,
+    "CLM-8223-5.1-014": 1
+   },
+   "authored_hash": "0d93426ae7ba7830cec52124c63f9a969fea5d1fcce165ca7f88daf59facb608"
+  },
+  {
+   "block_id": "5.1-b9",
+   "block_type": "worked_calculation",
+   "heading": "Worked example: growth of seedlings",
+   "text": "A school in Oshakati weighs a mahangu seedling at 2.4 g and weighs it again a week later at 3.1 g. The change is 3.1 - 2.4 = 0.7 g. Divide by the original: 0.7 ÷ 2.4 = 0.29167. Multiply by 100: 0.29167 × 100 = 29.167. Both masses have two significant figures, so the answer is a 29 per cent increase. The positive sign shows an increase. Had the mass fallen from 3.1 g to 2.4 g, the working would be -0.7 ÷ 3.1 × 100 = -22.58, which is a 23 per cent decrease, a different size because the original value is now larger.",
+   "claim_ids": [
+    "CLM-8223-5.1-013",
+    "CLM-8223-5.1-010",
+    "CLM-8223-5.1-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.1-013": 1,
+    "CLM-8223-5.1-010": 1,
+    "CLM-8223-5.1-011": 1
+   },
+   "authored_hash": "6dd2e68733c5e2db3b152b07bce704b4c7e8c98ca0d1bfd4c408418c4d25347c"
+  },
+  {
+   "block_id": "5.1-b10",
+   "block_type": "formula",
+   "heading": "Percentage error",
+   "text": "Every measurement is uncertain. The absolute error is the size of that uncertainty in the unit of the measurement, such as ±0.5 mm. When a reading is taken from a scale, the absolute error is commonly taken as half the smallest division, so a ruler marked in millimetres gives ±0.5 mm. The absolute error can also be the size of the difference between a measured value and the accepted value. The percentage error puts the error in proportion to the size of the measurement: percentage error = absolute error ÷ measured (or accepted) value × 100.\n\nA leaf is measured as 48 mm long on a millimetre ruler. The percentage error is 0.5 ÷ 48 × 100 = 1.0417, which is 1.0 per cent. Suppose the real width of a stoma is 12 µm and a student measures it as 13.8 µm. The absolute error is 13.8 - 12 = 1.8 µm, and the percentage error is 1.8 ÷ 12 × 100 = 15 per cent, taken against the accepted value.\n\nThe same absolute error matters less for a large quantity. With the same ruler, a length of 10 mm has a percentage error of 0.5 ÷ 10 × 100 = 5.0 per cent, while a length of 40 mm has 0.5 ÷ 40 × 100 = 1.25 per cent. This is a reason to measure a larger quantity where an investigation allows it, for example by timing 10 beats instead of one. Percentage error has no unit, because the unit cancels in the division.",
+   "claim_ids": [
+    "CLM-8223-5.1-015",
+    "CLM-8223-5.1-016",
+    "CLM-8223-5.1-017"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.1-015": 1,
+    "CLM-8223-5.1-016": 1,
+    "CLM-8223-5.1-017": 1
+   },
+   "authored_hash": "d1025d41acdfbc82043cc77f21f731b6adab3dddde06f3739464342e4f31c63a"
+  },
+  {
+   "block_id": "5.1-b11",
+   "block_type": "worked_calculation",
+   "heading": "Worked example: an eyepiece measurement",
+   "text": "A student measures a plant cell as 0.080 mm using an eyepiece scale with an uncertainty of ±0.005 mm. To express the length in micrometres, multiply by 1000: 0.080 × 1000 = 80 µm. The percentage error is 0.005 ÷ 0.080 × 100 = 6.25, which is 6.3 per cent to two significant figures. The same percentage is found from the micrometre values: 5 ÷ 80 × 100 = 6.25, because the unit cancels. A student who writes the error as 6.3 µm has attached a unit to a quantity that has none.",
+   "claim_ids": [
+    "CLM-8223-5.1-015",
+    "CLM-8223-5.1-017",
+    "CLM-8223-5.1-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.1-015": 1,
+    "CLM-8223-5.1-017": 1,
+    "CLM-8223-5.1-008": 1
+   },
+   "authored_hash": "33ebc2a685e4ae5d7645498082e71d8852fbc4a01cf70be3218b25555af5c890"
+  },
+  {
+   "block_id": "5.1-b12",
+   "block_type": "plain_explanation",
+   "heading": "Ratios",
+   "text": "A ratio compares quantities in the same unit. A sample of 72 tilapia from a fish farm at Hardap Dam holds 45 females and 27 males. The ratio of females to males is 45 : 27. A ratio is simplified by dividing every term by a common factor, here 9: 45 ÷ 9 = 5 and 27 ÷ 9 = 3, so the ratio is 5 : 3. A ratio has no unit, and the order matters, because 3 : 5 describes the reverse comparison. A ratio is sometimes written in the form n : 1 by dividing both terms by the second one, so 5 : 3 becomes 1.67 : 1.\n\nA ratio compares one part with another part, whereas a fraction compares one part with the whole. In 5 : 3, the whole is 5 + 3 = 8 parts, so the females are 5/8 of the sample and the males 3/8. Confusing 5 : 3 with 5/3 is a common error.\n\nTo share a quantity in a ratio, add the terms to find the parts, divide the quantity by the number of parts, then multiply by each term. A nutrient solution for seedlings is made by mixing concentrate and water in the ratio 1 : 9 to give 2.5 L. There are 1 + 9 = 10 parts, one part is 2.5 ÷ 10 = 0.25 L, so the concentrate is 0.25 L and the water is 9 × 0.25 = 2.25 L. Adding the shares, 0.25 + 2.25 = 2.50 L, checks the work.",
+   "claim_ids": [
+    "CLM-8223-5.1-018",
+    "CLM-8223-5.1-019",
+    "CLM-8223-5.1-020"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.1-018": 1,
+    "CLM-8223-5.1-019": 1,
+    "CLM-8223-5.1-020": 1
+   },
+   "authored_hash": "4ee15af0c9ced4eb82346bc6319576b3e3f5e2dcaf2812d2435c55ccc411aefc"
+  },
+  {
+   "block_id": "5.1-b13",
+   "block_type": "formula",
+   "heading": "Direct and inverse proportion",
+   "text": "Two quantities are in direct proportion when their ratio stays the same. If one doubles the other doubles, and if one is halved the other is halved. A graph of two quantities in direct proportion is a straight line through the origin. A student counts 168 yeast cells in 3 squares of a counting grid. The count per square is 168 ÷ 3 = 56, so in 20 squares the cells expected are 56 × 20 = 1120. This holds on the condition that the cells are spread evenly over the grid.\n\nTwo quantities are in inverse proportion when their product stays the same. If one doubles the other halves. A fixed mass of sucrose dissolved in a larger volume gives a smaller concentration, provided no sucrose is added or lost. A solution of 250 cm³ at 8.0 g dm⁻³ contains a fixed amount of sucrose, so concentration × volume stays constant. When water is added to give 400 cm³, the new concentration is 8.0 × 250 ÷ 400 = 5.0 g dm⁻³. The concentration fell because the volume rose.\n\nThe method in both cases is the same. Find the constant from the pair of values that is known: the ratio for direct proportion, the product for inverse proportion. Then apply it to the new value. To decide which type applies, ask what happens when one quantity doubles. If the other doubles, the proportion is direct; if it halves, the proportion is inverse. Many biological quantities are in neither relationship, so proportion is used only when the situation supports it.",
+   "claim_ids": [
+    "CLM-8223-5.1-021",
+    "CLM-8223-5.1-022",
+    "CLM-8223-5.1-023"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.1-021": 1,
+    "CLM-8223-5.1-022": 1,
+    "CLM-8223-5.1-023": 1
+   },
+   "authored_hash": "29632dd6305d7c2f06c229bb04ab4da63a60fccbd1cc2f2c46fa6751879c7a61"
+  },
+  {
+   "block_id": "5.1-b14",
+   "block_type": "worked_application",
+   "heading": "Worked example: using several skills together",
+   "text": "A learner in Rundu measures a seedling at 40 mm on day 0 and 58 mm on day 14, using a ruler marked in millimetres. The percentage increase is (58 - 40) ÷ 40 × 100 = 45 per cent. The percentage error in the first reading is 0.5 ÷ 40 × 100 = 1.25 per cent, and in the second 0.5 ÷ 58 × 100 = 0.862 per cent, which is smaller because the length is larger. Of the 40 seedlings in the tray on day 0, 32 are alive on day 14 and 8 have died, a ratio of 32 : 8, which simplifies to 4 : 1. At every stage the rounding is left to the end and the answer is given to the number of significant figures the readings justify.",
+   "claim_ids": [
+    "CLM-8223-5.1-010",
+    "CLM-8223-5.1-011",
+    "CLM-8223-5.1-013",
+    "CLM-8223-5.1-015",
+    "CLM-8223-5.1-018"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.1-010": 1,
+    "CLM-8223-5.1-011": 1,
+    "CLM-8223-5.1-013": 1,
+    "CLM-8223-5.1-015": 1,
+    "CLM-8223-5.1-018": 1
+   },
+   "authored_hash": "f08941ce56b2236fa573c23d08a0c4b3d96a2ad717bc2e6da5ec7f2edd0c626f"
+  },
+  {
+   "block_id": "5.1-b15",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "These skills are used throughout the course. Magnification and the sizes of cells use the prefixes and standard form, and the mean, percentages and percentage change appear in the analysis of results in 4.4. Recording and presenting data, including significant figures in tables, is taught in 4.3, and graphs and statistics are taught in 5.2. Rates and concentrations in the transport and enzyme topics use ratios and proportion.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "474ee68cf8abc693f7a260b36e18058adbe0af9a3747b31e0a95b3a0479edffe"
+  }
+ ],
+ "word_count": 2788,
+ "qa_status": "review_required",
+ "notes": [
+  "Authored from the 5.1 work order. Facts are our own statements, single source, unverified."
+ ]
+}

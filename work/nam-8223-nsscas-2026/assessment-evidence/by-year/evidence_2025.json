@@ -1,0 +1,2857 @@
+{
+ "map_id": "ASSESS-NAM-NSSCAS-8223-2025",
+ "status": "partial",
+ "records": [
+  {
+   "evidence_id": "EV-8223-2025-P1-Q1",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "1",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-1.1-02"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A"
+   ],
+   "context_type": "recall",
+   "context_summary": "Put taxonomic ranks from phylum to species in the correct order.",
+   "creditworthy_points": [
+    "key: B (2025 report p.41)"
+   ],
+   "examiner_findings": [
+    "[facility] More than 95% of candidates answered correctly (report p.41).",
+    "[other] Small minority swapped family and order. (report p.41)"
+   ],
+   "common_errors": [
+    "Confusing the order of family and order in the rank sequence."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.41 (pdf p.43)",
+   "notes": [
+    "mapping_method: by meaning; confidence: high",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q2",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "2",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-1.1-05"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A"
+   ],
+   "context_type": "recall",
+   "context_summary": "Choose the species concept that can be applied to fossils (a concept not relying on interbreeding).",
+   "creditworthy_points": [
+    "key: D (2025 report p.41)"
+   ],
+   "examiner_findings": [
+    "[facility] 49% of candidates answered correctly (report p.41).",
+    "[misconception] Many chose the biological species concept, which depends on interbreeding and cannot be applied to fossils. (report p.41)"
+   ],
+   "common_errors": [
+    "Choosing the biological species concept for fossil organisms."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.41 (pdf p.43)",
+   "notes": [
+    "mapping_method: by meaning; confidence: high",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q3",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "3",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-1.2-04",
+    "OBJ-8223-5.3-05"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "other",
+   "context_summary": "Interpret what a Simpson's Index value says about biodiversity and stability.",
+   "creditworthy_points": [
+    "key: B (2025 report p.41)"
+   ],
+   "examiner_findings": [
+    "[facility] 48% of candidates answered correctly (report p.41).",
+    "[misconception] Candidates picked very low or very high values without understanding what the index represents. (report p.41)",
+    "[other] Report advises learners to interpret index values, not only calculate them. (report p.41)"
+   ],
+   "common_errors": [
+    "Selecting extreme numerical values without knowing that a higher index (as the report puts it) means greater biodiversity and stability."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.41 (pdf p.43)",
+   "notes": [
+    "mapping_method: by meaning; confidence: high",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item.",
+    "annex_mapping: by meaning; confidence: low; Interprets a Simpson index value, known only from report summary."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q4",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "4",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-1.2-01"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A"
+   ],
+   "context_type": "recall",
+   "context_summary": "Identify the statement that correctly describes an ecological niche.",
+   "creditworthy_points": [
+    "key: D (2025 report p.41)"
+   ],
+   "examiner_findings": [
+    "[facility] 49% of candidates answered correctly (report p.41).",
+    "[omission] Many left out biotic interactions (feeding relationships, energy transfer) from niche. (report p.41)",
+    "[misconception] Candidates confused habitat with niche; report states niche includes abiotic conditions, resource availability and interactions with other organisms. (report p.41)"
+   ],
+   "common_errors": [
+    "Treating niche as habitat or as abiotic conditions only."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.41 (pdf p.43)",
+   "notes": [
+    "mapping_method: by meaning; confidence: high",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q5",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "5",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.1-02"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A"
+   ],
+   "context_type": "other",
+   "context_summary": "Choose the correct pairing of microscopy terms (magnification versus resolution).",
+   "creditworthy_points": [
+    "key: C (2025 report p.41)"
+   ],
+   "examiner_findings": [
+    "[facility] 50% of candidates answered correctly (report p.41).",
+    "[misconception] Many confused magnification with resolution, producing wrong pairings. (report p.41)"
+   ],
+   "common_errors": [
+    "Swapping the meanings of magnification and resolution."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.41 (pdf p.43)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Item text absent; comment says magnification was confused with resolution, so the objective is clear but the exact stem is not.)",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q6",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "6",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.1-03",
+    "OBJ-8223-2.1-04",
+    "OBJ-8223-5.1-03"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "calculation",
+   "context_summary": "Convert between millimetres and micrometres in a size or measurement calculation.",
+   "creditworthy_points": [
+    "key: C (2025 report p.41)"
+   ],
+   "examiner_findings": [
+    "[facility] 52% of candidates answered correctly (report p.41).",
+    "[other] Report says the problem was unit-conversion errors rather than conceptual misunderstanding. (report p.41)"
+   ],
+   "common_errors": [
+    "Incorrect mm to micrometre conversion."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.41 (pdf p.43)",
+   "notes": [
+    "mapping_method: by meaning; confidence: low (Comment mentions only unit conversion mm to micrometres; unclear whether the item involves a graticule, an image or a drawing.)",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item.",
+    "annex_mapping: by meaning; confidence: low; Millimetre-micrometre conversion, known only from report summary."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q7",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "7",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.1-04",
+    "OBJ-8223-5.3-02",
+    "OBJ-8223-5.1-03"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "calculation",
+   "context_summary": "Apply the formula actual size = image size / magnification, with unit conversion.",
+   "creditworthy_points": [
+    "key: A (2025 report p.41)"
+   ],
+   "examiner_findings": [
+    "[facility] More than 60% of candidates answered correctly (report p.41).",
+    "[other] Those who erred typically converted mm to m incorrectly. (report p.41)"
+   ],
+   "common_errors": [
+    "Wrong mm to m conversion when working out actual size."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.41 (pdf p.43)",
+   "notes": [
+    "mapping_method: by meaning; confidence: high",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item.",
+    "annex_mapping: by meaning; confidence: medium; Actual size from image size and magnification with unit conversion."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q8",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "8",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.2-01"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A"
+   ],
+   "context_type": "sequence-or-code",
+   "context_summary": "Give the sequence of organelles involved in making and processing a protein.",
+   "creditworthy_points": [
+    "key: B (2025 report p.41)"
+   ],
+   "examiner_findings": [
+    "[facility] 67% of candidates answered correctly (report p.41).",
+    "[misconception] Errors placed the Golgi apparatus before protein synthesis. (report p.41)"
+   ],
+   "common_errors": [
+    "Putting Golgi before ribosome/rough ER in the protein pathway."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.41 (pdf p.43)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Item text absent; sequence nucleus, ribosomes, rough ER, Golgi is given in the comment.)",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q9",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "9",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.2-01",
+    "OBJ-8223-2.2-08"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A"
+   ],
+   "context_type": "recall",
+   "context_summary": "Identify a statement about ribosomes (the 70S type) and where they occur.",
+   "creditworthy_points": [
+    "key: B (2025 report p.41)"
+   ],
+   "examiner_findings": [
+    "[facility] 73% of candidates answered correctly (report p.41).",
+    "[misconception] A few chose 70S ribosomes, showing limited understanding that these are in mitochondria and chloroplasts. (report p.41)"
+   ],
+   "common_errors": [
+    "Choosing 70S ribosomes in a context where they were not the right answer."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.41 (pdf p.43)",
+   "notes": [
+    "mapping_method: by meaning; confidence: low (Item text absent; comment only says a few chose 70S ribosomes wrongly and notes 70S occur in mitochondria and chloroplasts. The correct option may concern 80S ribosomes or prokaryote versus eukaryote comparison.)",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q10",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "10",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.2-07"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A"
+   ],
+   "context_type": "recall",
+   "context_summary": "Identify the features of a prokaryotic cell (circular DNA, cytoplasm, ribosomes, no membrane-bound organelles).",
+   "creditworthy_points": [
+    "key: D (2025 report p.41)"
+   ],
+   "examiner_findings": [
+    "[facility] 76% of candidates answered correctly (report p.41)."
+   ],
+   "common_errors": [],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.41 (pdf p.43)",
+   "notes": [
+    "mapping_method: by meaning; confidence: high",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q11",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "11",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.3.1-03",
+    "OBJ-8223-2.3.1-01"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A"
+   ],
+   "context_type": "diagram-interpretation",
+   "context_summary": "Identify a membrane component from its description or position, distinguishing cholesterol from phospholipid heads.",
+   "creditworthy_points": [
+    "key: D (2025 report p.41)"
+   ],
+   "examiner_findings": [
+    "[facility] 50% of candidates answered correctly (report p.41).",
+    "[misconception] Candidates frequently confused cholesterol with phospholipid heads. (report p.41)",
+    "[other] Report advises linking structure directly to function when revising membrane components. (report p.41)"
+   ],
+   "common_errors": [
+    "Confusing cholesterol with phospholipid heads."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.41 (pdf p.43)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Item text absent; whether a diagram is involved is not stated.)",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q12",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "12",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.4.1-07"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A"
+   ],
+   "context_type": "recall",
+   "context_summary": "Choose the correct statement about ester bonds in lipids.",
+   "creditworthy_points": [
+    "key: D (2025 report p.41)"
+   ],
+   "examiner_findings": [
+    "[facility] 78% of candidates answered correctly (report p.41).",
+    "[misconception] A few still associated ester bonds with carbohydrates. (report p.41)"
+   ],
+   "common_errors": [
+    "Linking ester bonds to carbohydrates."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.41 (pdf p.43)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Item text absent; comment says ester bonds were wrongly linked to carbohydrates, so a lipid (triglyceride) context is inferred.)",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q13",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "13",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.3.2-04"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "other",
+   "context_summary": "Recognise that when water potentials are equal there is no net movement of water.",
+   "creditworthy_points": [
+    "key: A (2025 report p.41)"
+   ],
+   "examiner_findings": [
+    "[facility] 81% of candidates answered correctly (report p.41)."
+   ],
+   "common_errors": [],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.41 (pdf p.43)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Item text absent; comment says candidates recognised no net movement of water, probably osmosis between solutions or cells.)",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q14",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "14",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.4.1-02",
+    "OBJ-8223-2.4.1-03"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A"
+   ],
+   "context_type": "diagram-interpretation",
+   "context_summary": "Distinguish alpha- and beta-glucose linkages.",
+   "creditworthy_points": [
+    "key: C (2025 report p.41)"
+   ],
+   "examiner_findings": [
+    "[facility] 83% of candidates answered correctly (report p.41)."
+   ],
+   "common_errors": [],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.41 (pdf p.43)",
+   "notes": [
+    "mapping_method: by meaning; confidence: low (Comment says only that candidates distinguished alpha and beta linkages; could equally target starch versus cellulose (2.4.1-05/06).)",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q15",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "15",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.4.2-02",
+    "OBJ-8223-2.4.2-03"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A"
+   ],
+   "context_type": "other",
+   "context_summary": "Identify what secondary structure of a protein depends on (hydrogen bonding in the backbone).",
+   "creditworthy_points": [
+    "key: B (2025 report p.41)"
+   ],
+   "examiner_findings": [
+    "[facility] 47% of candidates answered correctly (report p.41).",
+    "[misconception] Many wrongly included the R group; report states secondary structure depends on hydrogen bonding between amino and carboxyl groups, not side chains. (report p.41)"
+   ],
+   "common_errors": [
+    "Counting R-group interactions as part of secondary structure."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.41 (pdf p.43)",
+   "notes": [
+    "mapping_method: by meaning; confidence: high",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q16",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "16",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.4.2-04",
+    "OBJ-8223-2.4.1-06"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "other",
+   "context_summary": "Explain which property accounts for the tensile strength of a structural macromolecule.",
+   "creditworthy_points": [
+    "key: C (2025 report p.42)"
+   ],
+   "examiner_findings": [
+    "[facility] 45% of candidates answered correctly (report p.42).",
+    "[misconception] Candidates often included pH-related insolubility, which does not directly explain tensile strength. (report p.42)"
+   ],
+   "common_errors": [
+    "Citing pH-related insolubility as the reason for tensile strength."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.42 (pdf p.44)",
+   "notes": [
+    "mapping_method: by meaning; confidence: low (Comment mentions tensile strength and pH-related insolubility only; molecule could be collagen or cellulose.)",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q17",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "17",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.4.2-06",
+    "OBJ-8223-2.4.1-09",
+    "OBJ-8223-4.4-04"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "data-table",
+   "context_summary": "Interpret combined Biuret and Benedict's test results for a sample.",
+   "creditworthy_points": [
+    "key: B (2025 report p.42)"
+   ],
+   "examiner_findings": [
+    "[facility] 71% of candidates answered correctly (report p.42)."
+   ],
+   "common_errors": [],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.42 (pdf p.44)",
+   "notes": [
+    "mapping_method: by meaning; confidence: high",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item.",
+    "annex_mapping: by meaning; confidence: low; Interprets Biuret and Benedict results to identify contents."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q18",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "18",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.5.1-03"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "other",
+   "context_summary": "Explain why enzyme activity depends on the chemical characteristics and shape of the substrate.",
+   "creditworthy_points": [
+    "key: D (2025 report p.42)"
+   ],
+   "examiner_findings": [
+    "[facility] 43% of candidates answered correctly (report p.42).",
+    "[shallow development] Many chose vague structural explanations; report says activity depends on chemical characteristics and shape of the substrate. (report p.42)"
+   ],
+   "common_errors": [
+    "Choosing vague 'structure' explanations instead of substrate shape and chemistry."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.42 (pdf p.44)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Item text absent; comment is about substrate shape and chemistry determining enzyme activity (specificity).)",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q19",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "19",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.5.2-03",
+    "OBJ-8223-2.5.2-02",
+    "OBJ-8223-5.2-02"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "graph",
+   "context_summary": "Interpret a rate graph to decide the type of inhibition (reduced maximum rate).",
+   "creditworthy_points": [
+    "key: A (2025 report p.42)"
+   ],
+   "examiner_findings": [
+    "[facility] 39% of candidates answered correctly (report p.42).",
+    "[other] One of the worst-performed items; many failed to interpret the graph. (report p.42)",
+    "[misconception] Report states a reduced maximum rate indicates non-competitive inhibition (candidates missed this). (report p.42)"
+   ],
+   "common_errors": [
+    "Misreading the graph; not linking a lower maximum rate to non-competitive inhibition."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.42 (pdf p.44)",
+   "notes": [
+    "mapping_method: by meaning; confidence: high",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item.",
+    "annex_mapping: by meaning; confidence: low; Reads a rate graph to infer inhibition type."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q20",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "20",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.6.2-05"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A"
+   ],
+   "context_type": "other",
+   "context_summary": "Identify pathways of water movement through root tissue, distinguishing cell walls (apoplast) from cytoplasm (symplast).",
+   "creditworthy_points": [
+    "key: B (2025 report p.42)"
+   ],
+   "examiner_findings": [
+    "[facility] 58% of candidates answered correctly (report p.42).",
+    "[misconception] Errors confused cell walls (apoplast) with cytoplasm (symplast). (report p.42)"
+   ],
+   "common_errors": [
+    "Swapping apoplast and symplast."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.42 (pdf p.44)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Item text absent; comment is explicit about apoplast/symplast confusion.)",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q21",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "21",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.6.2-08"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A"
+   ],
+   "context_type": "other",
+   "context_summary": "Recognise that hydrogen ions move down their concentration gradient into the companion cell (sucrose co-transport).",
+   "creditworthy_points": [
+    "key: B (2025 report p.42)"
+   ],
+   "examiner_findings": [
+    "[facility] 64% of candidates answered correctly (report p.42)."
+   ],
+   "common_errors": [],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.42 (pdf p.44)",
+   "notes": [
+    "mapping_method: by meaning; confidence: high",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q22",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "22",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.6.2-06"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A"
+   ],
+   "context_type": "other",
+   "context_summary": "Identify a feature of xerophytic leaves (and reject many epidermal layers as universal).",
+   "creditworthy_points": [
+    "key: B (2025 report p.42)"
+   ],
+   "examiner_findings": [
+    "[facility] 69% of candidates answered correctly (report p.42).",
+    "[misconception] Some assumed many epidermal layers are a universal xerophytic trait. (report p.42)"
+   ],
+   "common_errors": [
+    "Treating multiple epidermal layers as a feature of all xerophytes."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.42 (pdf p.44)",
+   "notes": [
+    "mapping_method: by meaning; confidence: high",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q23",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "23",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.7.2-01"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A"
+   ],
+   "context_type": "diagram-interpretation",
+   "context_summary": "Identify vessels or structures on the heart, separating coronary arteries from major vessels.",
+   "creditworthy_points": [
+    "key: D (2025 report p.42)"
+   ],
+   "examiner_findings": [
+    "[facility] 72% of candidates answered correctly (report p.42).",
+    "[misconception] A few confused coronary arteries with major vessels. (report p.42)"
+   ],
+   "common_errors": [
+    "Confusing coronary arteries with the major vessels."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.42 (pdf p.44)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Item text absent; coronary arteries versus major vessels suggests heart external structure.)",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q25",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "25",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.7.1-07",
+    "OBJ-8223-2.7.1-09"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A"
+   ],
+   "context_type": "other",
+   "context_summary": "Identify how carbon dioxide is carried in blood, distinguishing bicarbonate from carbon dioxide binding.",
+   "creditworthy_points": [
+    "key: A (2025 report p.42)"
+   ],
+   "examiner_findings": [
+    "[facility] 54% of candidates answered correctly (report p.42).",
+    "[misconception] Some confused bicarbonate ions with carbon dioxide binding. (report p.42)"
+   ],
+   "common_errors": [
+    "Confusing bicarbonate transport with carbon dioxide binding to haemoglobin."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.42 (pdf p.44)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Item text absent; comment is about bicarbonate versus CO2 binding.)",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q26",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "26",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.7.2-04"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "graph",
+   "context_summary": "Relate valve action to pressure changes in the cardiac cycle.",
+   "creditworthy_points": [
+    "key: C (2025 report p.42)"
+   ],
+   "examiner_findings": [
+    "[facility] 41% of candidates answered correctly (report p.42).",
+    "[omission] Candidates struggled to relate valve opening and closing to pressure changes. (report p.42)"
+   ],
+   "common_errors": [
+    "Not linking valve action to pressure differences."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.42 (pdf p.44)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Item text absent; whether a pressure graph is given is not stated.)",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q29",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "29",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.9.1-02"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "sequence-or-code",
+   "context_summary": "Put events of an immune response in logical sequence.",
+   "creditworthy_points": [
+    "key: A (2025 report p.42)"
+   ],
+   "examiner_findings": [
+    "[facility] 35% of candidates answered correctly (report p.42).",
+    "[omission] Many struggled to sequence immune events logically. (report p.42)"
+   ],
+   "common_errors": [
+    "Mis-ordering the stages of the immune response."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.42 (pdf p.44)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Item text absent; sequencing of immune events could also be phagocyte action (2.9.1-01) or secondary response.)",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q30",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "30",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.9.2-01",
+    "OBJ-8223-2.4.2-03"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A"
+   ],
+   "context_type": "other",
+   "context_summary": "Distinguish hydrogen bonds from disulfide bonds in a protein (likely antibody) structure.",
+   "creditworthy_points": [
+    "key: B (2025 report p.42)"
+   ],
+   "examiner_findings": [
+    "[facility] 46% of candidates answered correctly (report p.42).",
+    "[misconception] Candidates often confused hydrogen bonds with disulfide bonds. (report p.42)"
+   ],
+   "common_errors": [
+    "Confusing hydrogen bonds with disulfide bonds."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.42 (pdf p.44)",
+   "notes": [
+    "mapping_method: by meaning; confidence: low (Item text absent; position after the immunity items suggests antibodies but the comment names only bonding.)",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q32",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "32",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.10.2-02"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "other",
+   "context_summary": "Explain how tobacco smoke leads to cardiovascular damage (endothelial damage rather than tar deposition).",
+   "creditworthy_points": [
+    "key: B (2025 report p.42)"
+   ],
+   "examiner_findings": [
+    "[facility] 63% of candidates answered correctly (report p.42).",
+    "[misconception] Some attributed effects to tar deposition rather than endothelial damage. (report p.42)"
+   ],
+   "common_errors": [
+    "Attributing the effect to tar deposition."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.42 (pdf p.44)",
+   "notes": [
+    "mapping_method: by meaning; confidence: low (Item text absent; comment names tar versus endothelial damage, which could sit in 2.10.2-01 or 2.10.2-02.)",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q33",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "33",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.10.2-01"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "other",
+   "context_summary": "Distinguish causes from effects (smoking-related disease context).",
+   "creditworthy_points": [
+    "key: B (2025 report p.42)"
+   ],
+   "examiner_findings": [
+    "[facility] 59% of candidates answered correctly (report p.42).",
+    "[misconception] Some candidates confused causes with effects. (report p.42)"
+   ],
+   "common_errors": [
+    "Mixing up cause and effect."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.42 (pdf p.44)",
+   "notes": [
+    "mapping_method: by meaning; confidence: low (Item text absent; comment only says causes were confused with effects. Smoking context is a guess from syllabus order.)",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q34",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "34",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-3.1.1-04"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A"
+   ],
+   "context_type": "recall",
+   "context_summary": "Recall the stages of the cell cycle.",
+   "creditworthy_points": [
+    "key: D (2025 report p.42)"
+   ],
+   "examiner_findings": [
+    "[facility] 81% of candidates answered correctly (report p.42)."
+   ],
+   "common_errors": [],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.42 (pdf p.44)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Item text absent; 'the cycle' read as the mitotic cell cycle.)",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q35",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "35",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-3.1.2-02"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A"
+   ],
+   "context_type": "diagram-interpretation",
+   "context_summary": "Recognise anaphase in a diagram or description.",
+   "creditworthy_points": [
+    "key: A (2025 report p.42)"
+   ],
+   "examiner_findings": [
+    "[facility] 68% of candidates answered correctly (report p.42)."
+   ],
+   "common_errors": [],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.42 (pdf p.44)",
+   "notes": [
+    "mapping_method: by meaning; confidence: high",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q36",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "36",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-3.1.1-04",
+    "OBJ-8223-3.1.2-01",
+    "OBJ-8223-5.2-02"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "graph",
+   "context_summary": "Link a graph (trends over time) to events of mitosis or the cell cycle.",
+   "creditworthy_points": [
+    "key: A (2025 report p.42)"
+   ],
+   "examiner_findings": [
+    "[facility] 34% of candidates answered correctly (report p.42).",
+    "[omission] Most found it challenging to link graphical trends to mitotic events. (report p.42)"
+   ],
+   "common_errors": [
+    "Not connecting the graph's changes to the stages of mitosis."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.42 (pdf p.44)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Item text absent; graph variable unknown.)",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item.",
+    "annex_mapping: by meaning; confidence: low; Relates a graph trend to cell-cycle events."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q37",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "37",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-3.1.1-01",
+    "OBJ-8223-3.1.1-05"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "calculation",
+   "context_summary": "Work out the number of chromatids or telomeres in a given chromosome situation.",
+   "creditworthy_points": [
+    "key: D (2025 report p.42)"
+   ],
+   "examiner_findings": [
+    "[facility] 42% of candidates answered correctly (report p.42).",
+    "[omission] Many forgot each chromosome has two chromatids with two telomeres each. (report p.42)"
+   ],
+   "common_errors": [
+    "Forgetting chromatid and telomere numbers per chromosome."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.42 (pdf p.44)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Item text absent; comment says candidates forgot each chromosome has two chromatids with two telomeres each.)",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P1-Q38",
+   "source_id": "NSSCAS-8223-2025-P1",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P1",
+   "variant": null,
+   "question_ref": "38",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-3.2.2-02",
+    "OBJ-8223-3.2.2-06"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "calculation",
+   "context_summary": "Work out the number of nucleotides needed for a given number of amino acids (triplet code).",
+   "creditworthy_points": [
+    "key: D (2025 report p.42)"
+   ],
+   "examiner_findings": [
+    "[facility] 51% of candidates answered correctly (report p.42).",
+    "[omission] Errors arose from forgetting each amino acid requires three nucleotides. (report p.42)"
+   ],
+   "common_errors": [
+    "Ignoring the triplet nature of the code."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.42 (pdf p.44)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Item text absent.)",
+    "Paper 1 question paper not held; item text absent, so topic is read from the examiner comment only. Printed key letter and % correct are from the report.",
+    "own reading: ao_focus and context_type are judged from the comment, not from the item."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P2-Q1a-i",
+   "source_id": "NSSCAS-8223-2025-P2",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P2",
+   "variant": null,
+   "question_ref": "1(a)(i)",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.3.1-01"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A",
+    "B"
+   ],
+   "context_type": "diagram-interpretation",
+   "context_summary": "Name the basic structure of the membrane of a single cell shown in a diagram.",
+   "creditworthy_points": [
+    "One point: the membrane is a (phospholipid) bilayer / double layer; the term double membrane is rejected."
+   ],
+   "examiner_findings": [
+    "[misconception] Many wrote double membrane or double bilayer although the figure shows one cell's single membrane. (report p.44)",
+    "[command-word miss] Many gave the function of a membrane or said it is partially permeable, which is not visible in the diagram. (report p.44)"
+   ],
+   "common_errors": [
+    "Describing a double membrane.",
+    "Giving function or permeability instead of structure."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.44 (pdf p.46)",
+   "notes": [
+    "mapping_method: by meaning; confidence: high",
+    "Paper 2 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff inferred from the scheme structure: single marking point (the bilayer)",
+    "stem: not available (paper not held)."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P2-Q1a-ii",
+   "source_id": "NSSCAS-8223-2025-P2",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P2",
+   "variant": null,
+   "question_ref": "1(a)(ii)",
+   "mark_tariff": 3,
+   "objective_ids": [
+    "OBJ-8223-2.3.1-01",
+    "OBJ-8223-2.3.1-03"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A"
+   ],
+   "context_type": "diagram-labelling",
+   "context_summary": "Label five molecules (L to P) in a diagram of the cell membrane.",
+   "creditworthy_points": [
+    "Five labels: glycolipid or carbohydrate chain; glycoprotein; phospholipid; a named transmembrane protein type for O; a named peripheral protein type for P.",
+    "Mark band: all correct 3, three or four correct 2, two correct 1.",
+    "Bare 'protein' for O or P rejected; 'protein channel' and 'phospholipid layer' rejected."
+   ],
+   "examiner_findings": [
+    "[other] Many candidates identified the molecules correctly. (report p.44)",
+    "[omission] Candidates must be specific: O and P cannot simply be named 'proteins'; roles of the different membrane proteins should be taught clearly. (report p.44)"
+   ],
+   "common_errors": [
+    "Labelling O and P as just 'proteins'."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.44 (pdf p.46)",
+   "notes": [
+    "mapping_method: by meaning; confidence: high",
+    "Paper 2 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff stated in report.",
+    "Tariff of 3 is stated in the scheme band; label count of 5 is from the answer list."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P2-Q1b-i",
+   "source_id": "NSSCAS-8223-2025-P2",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P2",
+   "variant": null,
+   "question_ref": "1(b)(i)",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.3.1-04"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A"
+   ],
+   "context_type": "recall",
+   "context_summary": "State what cell signalling means.",
+   "creditworthy_points": [
+    "One point: messages sent to cells / communication between cells; a description of the process is rejected."
+   ],
+   "examiner_findings": [
+    "[command-word miss] Many outlined the process instead of briefly stating the meaning. (report p.44)",
+    "[misconception] Candidates do not distinguish cell signalling from the nervous system and call signalling between cells an impulse. (report p.44)"
+   ],
+   "common_errors": [
+    "Outlining the process rather than defining.",
+    "Equating cell signalling with nerve impulses."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.44 (pdf p.46)",
+   "notes": [
+    "mapping_method: by meaning; confidence: high",
+    "Paper 2 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff inferred from the scheme structure: single definition point",
+    "stem: not available."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P2-Q1b-ii",
+   "source_id": "NSSCAS-8223-2025-P2",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P2",
+   "variant": null,
+   "question_ref": "1(b)(ii)",
+   "mark_tariff": 1,
+   "objective_ids": [
+    "OBJ-8223-2.3.1-04",
+    "OBJ-8223-2.3.1-01"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "diagram-interpretation",
+   "context_summary": "Identify which labelled membrane molecule acts as the receptor for a signal.",
+   "creditworthy_points": [
+    "One point: glycoprotein (or its label M); ecf from the answer to 1(a)(i) allowed."
+   ],
+   "examiner_findings": [
+    "[other] Candidates mostly answered this correctly. (report p.44)"
+   ],
+   "common_errors": [],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.44 (pdf p.46)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Part text absent; the scheme names glycoprotein/M with ecf from 1(a), and the 'receptor' reading is own reading.)",
+    "Paper 2 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff inferred from the scheme structure: single identification"
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P2-Q1b-iii",
+   "source_id": "NSSCAS-8223-2025-P2",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P2",
+   "variant": null,
+   "question_ref": "1(b)(iii)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.3.1-04"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A"
+   ],
+   "context_type": "recall",
+   "context_summary": "Describe how cell signalling works.",
+   "creditworthy_points": [
+    "Five points: chemicals/ligands/hormones secreted into extracellular fluid or blood; they bind to receptor molecules; on target cells; transduction converts the signal; a physiological response follows.",
+    "Point 3 depends on point 2.",
+    "Only listing the three stages (reception, transduction, response) is capped at 1."
+   ],
+   "examiner_findings": [
+    "[misconception] Many described reflex arcs. (report p.45)",
+    "[misconception] Some described the signalling or receptor cell instead of the signalling molecule. (report p.45)",
+    "[omission] Candidates do not understand the process; the report supplies an explanatory passage on ligands, receptors, transduction and response. (report p.45)"
+   ],
+   "common_errors": [
+    "Writing about reflex arcs or nerve pathways.",
+    "Naming the cells rather than the chemical signal that binds the receptor.",
+    "Listing stage names without describing them."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.45 (pdf p.47)",
+   "notes": [
+    "mapping_method: by meaning; confidence: high",
+    "Paper 2 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: scheme lists 5 points with a cap statement but no maximum; not stated."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P2-Q1b-iv",
+   "source_id": "NSSCAS-8223-2025-P2",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P2",
+   "variant": null,
+   "question_ref": "1(b)(iv)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.3.1-04"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "novel-scenario",
+   "context_summary": "Give an example of cell signalling and say what happens.",
+   "creditworthy_points": [
+    "One valid example showing communication between cells, or a substance outside a cell triggering a reaction inside (e.g. insulin acting on a liver cell, neurotransmitter between neurones, immune response, endocytosis, other valid)."
+   ],
+   "examiner_findings": [
+    "[shallow development] Candidates often wrote a single word such as 'hormones', which is not an example because it shows no effect. (report p.45-46)",
+    "[other] The answer must show the communication or the reaction initiated inside the cell, for example glucose stimulating insulin release or insulin leading to glycogen formation. (report p.45-46)"
+   ],
+   "common_errors": [
+    "Naming a signalling substance with no outcome."
+   ],
+   "strong_response_features": [
+    "States the signal, the target cell and the response."
+   ],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.45-46 (pdf p.47)",
+   "notes": [
+    "mapping_method: by meaning; confidence: high",
+    "Paper 2 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: scheme gives open-ended valid examples; not stated.",
+    "strong_response_features: derived from the report's worked illustration of a good answer."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P2-Q1c-i",
+   "source_id": "NSSCAS-8223-2025-P2",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P2",
+   "variant": null,
+   "question_ref": "1(c)(i)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.3.2-01",
+    "OBJ-8223-4.4-06",
+    "OBJ-8223-5.1-02"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "data-table",
+   "context_summary": "Describe the trend between diffusion distance and time using a table that uses standard-form numbers.",
+   "creditworthy_points": [
+    "One point: longer diffusion path needs more time (directly proportional); ora accepted."
+   ],
+   "examiner_findings": [
+    "[misconception] Candidates do not understand standard notation and think 1.6 x 10^-8 is larger than 1.6 x 10^-2; they miss the minus sign. (report p.46)",
+    "[omission] Trends must name both variables: distance as independent and time as dependent, not rate of diffusion (no rate in the table). (report p.46)",
+    "[omission] Quite a number could not identify the variables to compare. (report p.46)"
+   ],
+   "common_errors": [
+    "Misreading negative powers of ten.",
+    "Describing a trend in rate of diffusion, which is not in the table."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.46 (pdf p.48)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Table text absent; objective chosen as diffusion in general (nearest). Tariff unknown.)",
+    "Paper 2 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "Question outside a single objective: numeracy (standard form) is a stated skill, not a syllabus objective.",
+    "annex_mapping: by meaning; confidence: low; Describes trend in a table with standard-form values."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P2-Q1c-ii",
+   "source_id": "NSSCAS-8223-2025-P2",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P2",
+   "variant": null,
+   "question_ref": "1(c)(ii)",
+   "mark_tariff": 4,
+   "objective_ids": [
+    "OBJ-8223-2.3.2-01",
+    "OBJ-8223-4.4-15",
+    "OBJ-8223-4.4-06"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "data-table",
+   "context_summary": "Use data to explain why diffusion suffices for a single-celled animal but a larger animal (earthworm) cannot rely on diffusion alone.",
+   "creditworthy_points": [
+    "Six points: short diffusion distance in an 80 micrometre cell; diffusion fast enough (about 1.6 s); supplies oxygen or other needs; for aerobic respiration or metabolism; longer distances in the earthworm (length about 8 cm, diameter about 8 mm); diffusion too slow (about 8.7 days or 4.5 hours).",
+    "Data with the correct unit needed at least once for the full 4 marks (otherwise max 3); both organisms must be addressed.",
+    "Surface area : volume references are ignored."
+   ],
+   "examiner_findings": [
+    "[omission] Candidates must quote data with the unit and refer to both organisms to reach the maximum. (report p.46)",
+    "[command-word miss] Many used surface area to volume ratio or diffusion rate, neither of which is in the table, instead of diffusion distance. (report p.46)",
+    "[misconception] Some called Paramecium a bacterium or virus, or gave it a cell wall or a different membrane thickness. (report p.46)",
+    "[misconception] Some said earthworms need a circulatory system because they live underground. (report p.46)",
+    "[omission] Some gave a wildly small earthworm size (e.g. 8 nm). (report p.46)"
+   ],
+   "common_errors": [
+    "Using SA:V when asked to use the data given.",
+    "Mis-stating organism type or size.",
+    "Giving habitat as the reason for a transport system."
+   ],
+   "strong_response_features": [
+    "References both organisms with data and units, and links distance to time."
+   ],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.46 (pdf p.48)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Part text absent; 2.3.2-03 (SA:V) is the nearest other objective but the scheme explicitly ignores SA:V; link to a transport system (2.7.1-01) is only incidental.)",
+    "Paper 2 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff stated in report.",
+    "Tariff 4 is stated in the commentary (4 marks with data, otherwise max 3).",
+    "annex_mapping: by meaning; confidence: low; Uses tabulated data to explain diffusion limits."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P2-Q2a-i",
+   "source_id": "NSSCAS-8223-2025-P2",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P2",
+   "variant": null,
+   "question_ref": "2(a)(i)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.10.1-03",
+    "OBJ-8223-2.10.1-05"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "diagram-interpretation",
+   "context_summary": "Identify three airway structures (shown as three figures) and give a reason from the image for each identification.",
+   "creditworthy_points": [
+    "Three identifications each with a reason: bronchiole (no cartilage, no glands, folded); trachea (C-shaped cartilage ring, smooth muscle between the ends, trachealis); bronchus (cartilage plates, no ring).",
+    "Ecf for the reason given a wrongly named structure."
+   ],
+   "examiner_findings": [
+    "[other] Generally answered well. (report p.46-47)",
+    "[language/terminology] Spelling was often wrong even when the words were printed in the diagrams. (report p.46-47)",
+    "[command-word miss] Some gave functions of the structures instead of reasons for identification. (report p.46-47)"
+   ],
+   "common_errors": [
+    "Stating functions instead of visible distinguishing features.",
+    "Misspelling given terms."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.46-47 (pdf p.48)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Figures not visible (paper not held); part text inferred from the scheme.)",
+    "Paper 2 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: structure unclear (3 names + reasons); not stated."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P2-Q2a-ii",
+   "source_id": "NSSCAS-8223-2025-P2",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P2",
+   "variant": null,
+   "question_ref": "2(a)(ii)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.10.1-06"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A"
+   ],
+   "context_type": "recall",
+   "context_summary": "State the roles of the mucus-producing cells (goblet cells) in the airway.",
+   "creditworthy_points": [
+    "Two points: produce mucus; the mucus protects epithelial cells or traps dust and microorganisms."
+   ],
+   "examiner_findings": [
+    "[other] Generally answered very well. (report p.47)",
+    "[misconception] Some said mucus sweeps dust out; that is the ciliated cells' function. (report p.47)",
+    "[omission] Logical order matters: secretion of mucus before its function. (report p.47)"
+   ],
+   "common_errors": [
+    "Crediting mucus with the sweeping role of cilia."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.47 (pdf p.49)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Part text absent; the cell type is inferred from the scheme.)",
+    "Paper 2 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: two marking points listed; maximum not stated."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P2-Q2b-i",
+   "source_id": "NSSCAS-8223-2025-P2",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P2",
+   "variant": null,
+   "question_ref": "2(b)(i)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.10.2-01",
+    "OBJ-8223-2.10.1-06"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "novel-scenario",
+   "context_summary": "Explain how a bronchial condition (chronic bronchitis type: mucus build-up, pus and persistent cough) develops.",
+   "creditworthy_points": [
+    "Seven points: irritants/pathogens on bronchial membranes; goblet cells enlarge; mucus over-production and build-up; white blood cells invade; pus builds up; persistent coughing; coughing damages airway walls making them stiffer, less elastic and narrower.",
+    "Point 1 links the rest; points 2 and 3 on mucus, 4 and 5 on white cells, 6 and 7 on coughing."
+   ],
+   "examiner_findings": [
+    "[omission] Most candidates mentioned only mucus overproduction. (report p.47)",
+    "[command-word miss] The answer must refer to the correct structure, the bronchial passages. (report p.47)",
+    "[other] Logical stepwise reasoning is required. (report p.47)"
+   ],
+   "common_errors": [
+    "Stopping at mucus over-production and omitting immune response and coughing."
+   ],
+   "strong_response_features": [
+    "Chains cause, mucus, white blood cells, coughing and tissue damage in order."
+   ],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.47 (pdf p.49)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Condition (bronchitis) is not named in the report; own reading from the scheme. Closest syllabus objective is 2.10.2-01 (COPD) and 2.10.1-06.)",
+    "Paper 2 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: 7 points with no maximum shown; not stated."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P2-Q2b-ii",
+   "source_id": "NSSCAS-8223-2025-P2",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P2",
+   "variant": null,
+   "question_ref": "2(b)(ii)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.10.2-01",
+    "OBJ-8223-2.10.1-07"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "novel-scenario",
+   "context_summary": "Explain how alveoli are damaged in a condition where air is hard to force out (emphysema).",
+   "creditworthy_points": [
+    "Eight points: emphysema named; due to tobacco smoke, long-term pollutants or dust; inflammation; more white cells; they release elastase or similar enzymes damaging elastic fibres; alveoli lose elasticity; alveoli burst giving larger air spaces and less surface area; harder to expel air.",
+    "'Tar' is credited only if linked to smoking."
+   ],
+   "examiner_findings": [
+    "[shallow development] Saying alveoli burst without explaining why earns nothing. (report p.47)",
+    "[language/terminology] 'Smoking tar' or 'smoking chemicals' does not earn the cause point. (report p.47)"
+   ],
+   "common_errors": [
+    "Stating that alveoli burst without a mechanism.",
+    "Writing about 'smoking tar' without linking to tobacco smoke."
+   ],
+   "strong_response_features": [
+    "Gives the causal chain from irritant to inflammation, enzyme damage of elastic fibres and loss of surface area."
+   ],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.47 (pdf p.49)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Condition is named in the scheme only; stem absent.)",
+    "Paper 2 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: 8 points with no maximum shown; not stated."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P2-Q2b-iii",
+   "source_id": "NSSCAS-8223-2025-P2",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P2",
+   "variant": null,
+   "question_ref": "2(b)(iii)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.10.1-08",
+    "OBJ-8223-4.4-06"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "data-table",
+   "context_summary": "Compare air composition in a person with a restrictive lung condition with the table values for a healthy person.",
+   "creditworthy_points": [
+    "Three points: oxygen in expired/alveolar air higher (a realistic value above the table); carbon dioxide in expired/alveolar air lower (realistic value below the table); no change in inspired air."
+   ],
+   "examiner_findings": [
+    "[command-word miss] Poorly answered; candidates did not read the question: most compared volume of air or compared oxygen with carbon dioxide in the healthy person. (report p.47-48)",
+    "[command-word miss] Some described treatment. (report p.47-48)"
+   ],
+   "common_errors": [
+    "Comparing healthy gases with each other rather than patient versus healthy.",
+    "Describing volumes or treatment."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.47-48 (pdf p.49)",
+   "notes": [
+    "mapping_method: by meaning; confidence: low (Stem absent; direction of gas changes taken from the scheme. Restrictive lung condition is outside the syllabus objectives (2.10.1-08 gas exchange is the nearest).)",
+    "Paper 2 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "Question outside the syllabus: restrictive lung conditions are not named in objectives.",
+    "mark_tariff: three points listed, no maximum shown; not stated.",
+    "annex_mapping: by meaning; confidence: low; Compares table values with healthy values."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P2-Q3a",
+   "source_id": "NSSCAS-8223-2025-P2",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P2",
+   "variant": null,
+   "question_ref": "3(a)",
+   "mark_tariff": 5,
+   "objective_ids": [
+    "OBJ-8223-2.6.1-01",
+    "OBJ-8223-2.6.2-05"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A",
+    "B"
+   ],
+   "context_type": "diagram-labelling",
+   "context_summary": "Name five tissues (A to E) in a root cross-section and give each one's function.",
+   "creditworthy_points": [
+    "Five pairs: epidermis (absorption); cortex (storage or transport of water/minerals); endodermis (barrier, controls ion movement, blocks apoplast); pericycle (lateral root growth or support); central vascular bundle (xylem and phloem transport).",
+    "Each pair earns one mark only if both name and function are correct; 'root hair' for A accepted; 'protection' rejected for C and D."
+   ],
+   "examiner_findings": [
+    "[omission] Many do not know the internal structure of a root, so cannot give the function. (report p.48)",
+    "[other] If the parts are not known the function cannot be given correctly. (report p.48)"
+   ],
+   "common_errors": [
+    "Not knowing the root's internal structure."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.48 (pdf p.50)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Diagram absent; objectives chosen by the scheme content.)",
+    "Paper 2 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff inferred from the scheme structure: five labels A to E, 1 mark each for correct name with function",
+    "Stem figure not visible."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P2-Q3b",
+   "source_id": "NSSCAS-8223-2025-P2",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P2",
+   "variant": null,
+   "question_ref": "3(b)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.6.1-03"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A",
+    "B"
+   ],
+   "context_type": "recall",
+   "context_summary": "State adaptations of transport tissues (xylem, phloem or companion cells) and the reason for each adaptation.",
+   "creditworthy_points": [
+    "Each adaptation must be paired with its reason; xylem examples: lignified walls (waterproof or support), hollow with no organelles or end walls (low resistance), pits (lateral movement), narrow lumen (adhesion). Phloem: little cytoplasm, few organelles, plasmodesmata, sieve plates. Companion cell: many mitochondria, thin walls, nucleus, plasmodesmata.",
+    "Maximum 2 for xylem and 2 for phloem."
+   ],
+   "examiner_findings": [
+    "[shallow development] Many knew the adaptation but not why; it must name the cell and give the function-linked reason. (report p.48-49)",
+    "[misconception] 'More space for flow' is not accepted; less resistance is. (report p.48-49)",
+    "[misconception] 'The xylem is lignified' or 'made of lignin' is wrong: the cell walls are lignified. (report p.48-49)",
+    "[misconception] Candidates said 'dead cells' rather than no cytoplasm or organelles. (report p.48-49)"
+   ],
+   "common_errors": [
+    "Giving more space instead of less resistance.",
+    "Saying the xylem is made of lignin.",
+    "Using 'dead cells' without the reason."
+   ],
+   "strong_response_features": [
+    "Names the cell type, the feature and the function-linked reason."
+   ],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.48-49 (pdf p.50)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Stem absent; unclear which cell types were asked (scheme lists xylem, phloem and companion cell).)",
+    "Paper 2 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: caps of 2 per tissue but total not stated."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P2-Q3c-i",
+   "source_id": "NSSCAS-8223-2025-P2",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P2",
+   "variant": null,
+   "question_ref": "3(c)(i)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.6.2-05",
+    "OBJ-8223-2.6.2-02"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "diagram-interpretation",
+   "context_summary": "Draw arrows on a root diagram to show the apoplastic, symplastic and vacuolar pathways of water, with a key.",
+   "creditworthy_points": [
+    "Three pathways: apoplast through cell walls until the endodermis then switching to symplast; symplast through cytoplasm and plasmodesmata; vacuolar vacuole to vacuole also via plasmodesmata. A key or labels are required; arrows must point toward the xylem."
+   ],
+   "examiner_findings": [
+    "[command-word miss] Many did not draw arrows, not reading the full instruction. (report p.49)",
+    "[misconception] Arrow direction matters: from high water potential in root hairs to lower in the xylem. (report p.49)",
+    "[misconception] The symplast passes through cytoplasm only, not through vacuoles. (report p.49)"
+   ],
+   "common_errors": [
+    "Omitting arrowheads or direction.",
+    "Confusing symplast with vacuolar pathway."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.49 (pdf p.51)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Diagram absent (answer figure not viewed).)",
+    "Paper 2 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: 3 points listed; not stated."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P2-Q3c-ii",
+   "source_id": "NSSCAS-8223-2025-P2",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P2",
+   "variant": null,
+   "question_ref": "3(c)(ii)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.6.2-05"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "A",
+    "B"
+   ],
+   "context_type": "diagram-labelling",
+   "context_summary": "Name structure X (Casparian strip) and explain why the water pathway deviates there.",
+   "creditworthy_points": [
+    "Name Casparian strip; waxy/suberin layer in the endodermal cell wall; barrier to the apoplast pathway; forces ions through a selectively permeable membrane; gives selective uptake or exclusion of pathogens.",
+    "Max 2 for the function; ecf function for a wrongly named structure."
+   ],
+   "examiner_findings": [
+    "[other] Most named the Casparian strip but spelt it badly; a few called it a cell. (report p.49-50)",
+    "[omission] Very few knew why the pathway deviates. (report p.49-50)",
+    "[omission] Candidates are not aware the apoplast is the least-resistance pathway because it avoids the membrane barrier to ions. (report p.49-50)"
+   ],
+   "common_errors": [
+    "Calling the strip a cell.",
+    "Not explaining the barrier function."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.49-50 (pdf p.51)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Diagram absent.)",
+    "Paper 2 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: 5 points, cap on functions; not stated."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P2-Q4a",
+   "source_id": "NSSCAS-8223-2025-P2",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P2",
+   "variant": null,
+   "question_ref": "4(a)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.5.2-01",
+    "OBJ-8223-2.5.1-03",
+    "OBJ-8223-5.2-02"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "graph",
+   "context_summary": "Choose the temperature curve for an enzyme-controlled reaction and justify the choice.",
+   "creditworthy_points": [
+    "Choose curve B; rate increases with temperature with more kinetic energy; increases to the optimum around 40 degrees C; then falls; enzymes are proteins; denature at high temperature.",
+    "Max 2 for explanation; no ecf if A chosen."
+   ],
+   "examiner_findings": [
+    "[shallow development] Most picked the correct curve but struggled to express why. (report p.50)",
+    "[misconception] Many thought the reaction stops at the optimum rather than that the optimum is where the enzyme works best. (report p.50)"
+   ],
+   "common_errors": [
+    "Saying the reaction stops at optimum pH or temperature."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.50 (pdf p.52)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Graph not viewed; paper not held.)",
+    "Paper 2 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: not stated.",
+    "annex_mapping: by meaning; confidence: low; Chooses and justifies a graph curve."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P2-Q4b-i",
+   "source_id": "NSSCAS-8223-2025-P2",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P2",
+   "variant": null,
+   "question_ref": "4(b)(i)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.5.2-01",
+    "OBJ-8223-4.4-06",
+    "OBJ-8223-5.2-02"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "graph",
+   "context_summary": "Describe how rate varies with pH for three amylases (mammal, insect types) from a graph.",
+   "creditworthy_points": [
+    "Up to five points: rate rises with pH for all three; each peaks at a different pH; mammalian optimum higher than the insect amylases; at low pH (e.g. 4) insect amylase retains activity (about 40%) while mammalian has none; all fall after the optimum."
+   ],
+   "examiner_findings": [
+    "[command-word miss] Many referred to temperature rather than pH. (report p.50)"
+   ],
+   "common_errors": [
+    "Describing temperature effects on a pH graph."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.50 (pdf p.52)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Graph not viewed.)",
+    "Paper 2 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: not stated.",
+    "annex_mapping: by meaning; confidence: low; Describes rate-pH trends from a graph."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P2-Q4b-ii",
+   "source_id": "NSSCAS-8223-2025-P2",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P2",
+   "variant": null,
+   "question_ref": "4(b)(ii)",
+   "mark_tariff": 3,
+   "objective_ids": [
+    "OBJ-8223-2.5.2-01",
+    "OBJ-8223-5.2-02",
+    "OBJ-8223-4.4-02"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "graph",
+   "context_summary": "Read the optimum pH of three enzymes from the graph.",
+   "creditworthy_points": [
+    "Single-value readings from the graph within the accepted bands for each enzyme (mammalian near 7, cockroach near 5.6, housefly near 6)."
+   ],
+   "examiner_findings": [
+    "[other] Candidates read the graph correctly but drew construction lines inaccurately. (report p.50)",
+    "[command-word miss] A range was given where a single value was required. (report p.50)"
+   ],
+   "common_errors": [
+    "Giving a range of values for each optimum.",
+    "Inaccurate construction lines."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.50 (pdf p.52)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Graph not viewed.)",
+    "Paper 2 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff inferred from the scheme structure: one value per enzyme, three enzymes",
+    "Scheme bands are in the report; not reproduced here.",
+    "annex_mapping: by meaning; confidence: low; Reads optimum values from a graph."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P2-Q4b-iii",
+   "source_id": "NSSCAS-8223-2025-P2",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P2",
+   "variant": null,
+   "question_ref": "4(b)(iii)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.5.2-01",
+    "OBJ-8223-2.5.1-03"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "recall",
+   "context_summary": "Explain how pH away from the optimum affects enzyme shape and activity.",
+   "creditworthy_points": [
+    "Six points: pH change from optimum alters hydrogen ion concentration; ionic and hydrogen bonds break; 3-D shape changes or denatures; active site loses shape; enzyme-substrate complex cannot form; reaction slows or stops (last point awarded only if one of points 2 to 5 earned).",
+    "Reverse argument at the optimum is not credited."
+   ],
+   "examiner_findings": [
+    "[command-word miss] Many described the curve shape rather than the enzyme shape. (report p.50)",
+    "[command-word miss] Many wrote about temperature. (report p.50)",
+    "[language/terminology] 'PH' is incorrect; write pH. (report p.50)",
+    "[misconception] Far-from-optimum pH denatures; near-optimum change alters active site shape without permanent denaturation. (report p.50)"
+   ],
+   "common_errors": [
+    "Describing the graph instead of the enzyme.",
+    "Answering about temperature."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.50 (pdf p.52)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Stem absent.)",
+    "Paper 2 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: not stated."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P2-Q4c-i",
+   "source_id": "NSSCAS-8223-2025-P2",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P2",
+   "variant": null,
+   "question_ref": "4(c)(i)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.5.1-03",
+    "OBJ-8223-2.5.1-04",
+    "OBJ-8223-5.2-02"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "graph",
+   "context_summary": "Explain the time-course curves of substrate, free enzyme and enzyme-substrate complex in a reaction.",
+   "creditworthy_points": [
+    "Three points: substrate falls as it becomes product or ESC; free enzyme falls quickly as ESCs form; ESC concentration stays constant because enzyme is reused."
+   ],
+   "examiner_findings": [
+    "[command-word miss] Candidates described the curves instead of explaining them. (report p.51)",
+    "[misconception] Many said substrate concentration rises at the start; it stays stable initially because time is needed for binding and product release. (report p.51)"
+   ],
+   "common_errors": [
+    "Describing rather than explaining the curve.",
+    "Misreading the substrate curve at the start."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.51 (pdf p.53)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Graph not viewed.)",
+    "Paper 2 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: not stated.",
+    "annex_mapping: by meaning; confidence: low; Interprets time-course curves."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P2-Q4c-ii",
+   "source_id": "NSSCAS-8223-2025-P2",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P2",
+   "variant": null,
+   "question_ref": "4(c)(ii)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.5.1-03",
+    "OBJ-8223-2.5.2-01",
+    "OBJ-8223-4.4-11",
+    "OBJ-8223-5.2-01"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "graph",
+   "context_summary": "Predict and explain the curves once all substrate is used up (sketch curves).",
+   "creditworthy_points": [
+    "Six points: product rises as substrate falls; substrate reaches 0 when all is converted; ESC falls to 0 since no new ESCs form; free enzyme returns to its original level; product ends equal to original substrate; product maximum when all released from ESCs.",
+    "Max 2 for explanation; product may not exceed the original substrate; enzyme may not exceed original."
+   ],
+   "examiner_findings": [
+    "[command-word miss] Candidates talked about adding more substrate or enzyme (limiting factors) or competitors, none of which was asked. (report p.51)",
+    "[misconception] Enzymes are not used up; ESC concentration remains constant while substrate remains. (report p.51)"
+   ],
+   "common_errors": [
+    "Answering about limiting factors or inhibitors.",
+    "Treating enzymes as consumed."
+   ],
+   "strong_response_features": [
+    "Product curve mirrors the fall in substrate and ends at the original substrate level."
+   ],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.51 (pdf p.53)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Graph not viewed.)",
+    "Paper 2 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: not stated; answer figure in report not viewed.",
+    "annex_mapping: by meaning; confidence: low; Predicts and sketches curves after substrate runs out."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P3-Q1a-i",
+   "source_id": "NSSCAS-8223-2025-P3",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P3",
+   "variant": null,
+   "question_ref": "1(a)(i)",
+   "mark_tariff": 3,
+   "objective_ids": [
+    "OBJ-8223-2.5.2-01",
+    "OBJ-8223-2.5.2-03",
+    "OBJ-8223-4.1-02",
+    "OBJ-8223-4.1-09"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "C"
+   ],
+   "context_type": "practical",
+   "context_summary": "Show a serial dilution in test tubes: equal transfer volume, equal water volume and halving concentration labels.",
+   "creditworthy_points": [
+    "Three points: correct equal transfer volume in all four tubes; same volume of water added to all four; halving concentration labels (50, 25, 12.5, 6.25) in order with a percent unit once."
+   ],
+   "examiner_findings": [
+    "[misconception] Most did not know serial dilution halves concentration; many used a factor of 10. (report p.52)",
+    "[omission] Some could not determine the unit of percentage or volume. (report p.52)"
+   ],
+   "common_errors": [
+    "Using tenfold rather than twofold dilution.",
+    "Omitting units."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.52 (pdf p.54)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Practical instructions absent (paper not held).)",
+    "Paper 3 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff inferred from the scheme structure: three lettered marking points VC, VW, HU",
+    "annex_mapping: by meaning; confidence: medium; Shows a serial dilution procedure with halving concentrations."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P3-Q1a-ii",
+   "source_id": "NSSCAS-8223-2025-P3",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P3",
+   "variant": null,
+   "question_ref": "1(a)(ii)",
+   "mark_tariff": 4,
+   "objective_ids": [
+    "OBJ-8223-2.5.2-01",
+    "OBJ-8223-4.3-01",
+    "OBJ-8223-4.3-02",
+    "OBJ-8223-4.1-01",
+    "OBJ-8223-4.1-12"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "C"
+   ],
+   "context_type": "practical",
+   "context_summary": "Construct a results table with independent and dependent variable headings (concentration, colour at 2, 6, 10 min) and recorded results.",
+   "creditworthy_points": [
+    "Four points: complete two-column-style table; heading for independent variable with unit; heading for dependent variable; results for all samples, with no units in the body."
+   ],
+   "examiner_findings": [
+    "[omission] Only a few identified independent and dependent variables; most did not label the columns appropriately. (report p.52)"
+   ],
+   "common_errors": [
+    "Not labelling independent and dependent columns."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.52 (pdf p.54)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Practical sheet absent.)",
+    "Paper 3 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff inferred from the scheme structure: four lettered marking points T I D R",
+    "annex_mapping: by meaning; confidence: medium; Results table with variable headings and colour results."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P3-Q1a-iii",
+   "source_id": "NSSCAS-8223-2025-P3",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P3",
+   "variant": null,
+   "question_ref": "1(a)(iii)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.5.2-01",
+    "OBJ-8223-4.4-06"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "C"
+   ],
+   "context_type": "data-table",
+   "context_summary": "Describe the relationship between inhibitor concentration and colour change using the table.",
+   "creditworthy_points": [
+    "One point: a correct trend linked to the table (a decrease in concentration causes a decrease in colour change)."
+   ],
+   "examiner_findings": [
+    "[command-word miss] Most described time against concentration rather than colour change against percentage concentration. (report p.52)",
+    "[omission] Could not relate their table to the trend. (report p.52)"
+   ],
+   "common_errors": [
+    "Describing time versus concentration."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.52 (pdf p.54)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium",
+    "Paper 3 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: single point listed; not stated.",
+    "annex_mapping: by meaning; confidence: medium; Describes a trend from the table."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P3-Q1a-iv",
+   "source_id": "NSSCAS-8223-2025-P3",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P3",
+   "variant": null,
+   "question_ref": "1(a)(iv)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.5.2-03",
+    "OBJ-8223-4.4-14",
+    "OBJ-8223-4.4-15"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B",
+    "C"
+   ],
+   "context_type": "data-table",
+   "context_summary": "Use the results to support a competitive-inhibition statement.",
+   "creditworthy_points": [
+    "Three points: at high inhibitor concentration amylase was completely inhibited; at low concentration inhibition incomplete because amylase out-competes the inhibitor; higher inhibitor concentration raises Km without affecting Vmax."
+   ],
+   "examiner_findings": [
+    "[command-word miss] Most defined competitive inhibitor rather than using the results as evidence. (report p.53)",
+    "[other] Some referred to rate and affinity. (report p.53)"
+   ],
+   "common_errors": [
+    "Defining competitive inhibition instead of linking to results."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.53 (pdf p.55)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Part text absent.)",
+    "Paper 3 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: not stated.",
+    "annex_mapping: by meaning; confidence: low; Uses results to support a mechanism statement; known from commentary only."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P3-Q1a-v",
+   "source_id": "NSSCAS-8223-2025-P3",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P3",
+   "variant": null,
+   "question_ref": "1(a)(v)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.5.1-04",
+    "OBJ-8223-4.1-07",
+    "OBJ-8223-4.1-11",
+    "OBJ-8223-4.4-16"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "C"
+   ],
+   "context_type": "practical",
+   "context_summary": "Suggest how to measure volumes more accurately in the practical.",
+   "creditworthy_points": [
+    "One point: use a named measuring device such as syringe or graduated pipette."
+   ],
+   "examiner_findings": [
+    "[other] Well answered; some suggested calibrated apparatus without naming it. (report p.53)"
+   ],
+   "common_errors": [
+    "Naming 'calibrated apparatus' without identifying it."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.53 (pdf p.55)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium",
+    "Paper 3 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: single point; not stated.",
+    "annex_mapping: by meaning; confidence: medium; Choosing more accurate measuring apparatus."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P3-Q1a-vi",
+   "source_id": "NSSCAS-8223-2025-P3",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P3",
+   "variant": null,
+   "question_ref": "1(a)(vi)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.5.1-04",
+    "OBJ-8223-4.4-08",
+    "OBJ-8223-4.4-16",
+    "OBJ-8223-4.1-06"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "C"
+   ],
+   "context_type": "practical",
+   "context_summary": "Identify errors in step 9 and give an improvement for each.",
+   "creditworthy_points": [
+    "Error-improvement pairs: starch not at same temperature (incubate at 35 to 40 degrees C); starch added at different times (do tests separately); uneven mixing (mix for a stated time)."
+   ],
+   "examiner_findings": [
+    "[omission] Most could not identify errors from the experiment; they gave general errors instead of errors specific to step 9. (report p.53)"
+   ],
+   "common_errors": [
+    "General rather than step-specific errors."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.53 (pdf p.55)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium",
+    "Paper 3 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: not stated.",
+    "annex_mapping: by meaning; confidence: medium; Errors in a step with an improvement for each."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P3-Q1b-i",
+   "source_id": "NSSCAS-8223-2025-P3",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P3",
+   "variant": null,
+   "question_ref": "1(b)(i)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.5.2-03",
+    "OBJ-8223-2.5.2-01",
+    "OBJ-8223-4.4-13"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B",
+    "C"
+   ],
+   "context_type": "data-table",
+   "context_summary": "State whether a hypothesis (enzyme works at concentrations below 25%) is supported using the results.",
+   "creditworthy_points": [
+    "Clear statement on the hypothesis plus supported or rejected, backed by data (a concentration or time with its colour)."
+   ],
+   "examiner_findings": [
+    "[omission] Most knew enzymes would work below 25% but could not give evidence from results as a colour. (report p.53)"
+   ],
+   "common_errors": [
+    "No result-based evidence."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.53 (pdf p.55)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Hypothesis stem is paraphrased from the scheme.)",
+    "Paper 3 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: not stated.",
+    "annex_mapping: by meaning; confidence: high; Judges whether data support a hypothesis."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P3-Q1b-ii",
+   "source_id": "NSSCAS-8223-2025-P3",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P3",
+   "variant": null,
+   "question_ref": "1(b)(ii)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.5.1-04",
+    "OBJ-8223-2.5.2-01",
+    "OBJ-8223-4.4-16",
+    "OBJ-8223-4.4-17"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "C"
+   ],
+   "context_type": "practical",
+   "context_summary": "Suggest modifications to improve the investigation.",
+   "creditworthy_points": [
+    "Several alternatives accepted: colorimeter, repeats, shorter intervals (5 to 15 s), Benedict's or Clinistix timing, buffer, more accurate measuring, more concentrations."
+   ],
+   "examiner_findings": [
+    "[other] Most proposed a colorimeter and repeats; five more acceptable alternatives existed. (report p.53)"
+   ],
+   "common_errors": [],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.53 (pdf p.55)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium",
+    "Paper 3 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: not stated; max not given.",
+    "annex_mapping: by meaning; confidence: medium; Suggests modifications to improve the investigation."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P3-Q2a-i",
+   "source_id": "NSSCAS-8223-2025-P3",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P3",
+   "variant": null,
+   "question_ref": "2(a)(i)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.2-03",
+    "OBJ-8223-2.7.1-02",
+    "OBJ-8223-4.2-06",
+    "OBJ-8223-4.2-09"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "C"
+   ],
+   "context_type": "practical",
+   "context_summary": "Draw a low-power plan diagram of a vessel section showing tissue layers to scale and label two tissues.",
+   "creditworthy_points": [
+    "Lettered points: plan with tissue layers only (no cells); no shading; three or four layers to scale; two tissues labelled from a list."
+   ],
+   "examiner_findings": [
+    "[command-word miss] Candidates could draw a plan but not layers in proportion. (report p.54)",
+    "[omission] They confuse tissues with layers. (report p.54)"
+   ],
+   "common_errors": [
+    "Layers out of proportion; confusing tissues with layers."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.54 (pdf p.56)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium (Specimen/image absent.)",
+    "Paper 3 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: lettered points P S L and 2 L; not stated.",
+    "annex_mapping: by meaning; confidence: medium; Plan diagram with tissue layers to scale."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P3-Q2a-ii",
+   "source_id": "NSSCAS-8223-2025-P3",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P3",
+   "variant": null,
+   "question_ref": "2(a)(ii)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.1-03",
+    "OBJ-8223-4.2-03"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "C"
+   ],
+   "context_type": "calculation",
+   "context_summary": "Calibrate an eyepiece graticule against a stage micrometer.",
+   "creditworthy_points": [
+    "One point: correct EPG calibration value."
+   ],
+   "examiner_findings": [
+    "[omission] Candidates showed a lack of skill in calibration. (report p.54)"
+   ],
+   "common_errors": [],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.54 (pdf p.56)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium",
+    "Paper 3 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: not stated.",
+    "annex_mapping: by meaning; confidence: medium; Graticule calibration value."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P3-Q2a-iii",
+   "source_id": "NSSCAS-8223-2025-P3",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P3",
+   "variant": null,
+   "question_ref": "2(a)(iii)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.1-03",
+    "OBJ-8223-2.1-04",
+    "OBJ-8223-4.2-04"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "C"
+   ],
+   "context_type": "calculation",
+   "context_summary": "Measure the diameter of an artery's lumen and give units.",
+   "creditworthy_points": [
+    "One point: correct measurement of a cell/lumen."
+   ],
+   "examiner_findings": [
+    "[omission] Few gave the correct unit; many found the lumen diameter hard to determine. (report p.54)"
+   ],
+   "common_errors": [
+    "Missing or wrong units."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.54 (pdf p.56)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium",
+    "Paper 3 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: not stated.",
+    "annex_mapping: by meaning; confidence: low; Measuring a lumen with graticule and giving units; calibration use not explicit."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P3-Q2b-i",
+   "source_id": "NSSCAS-8223-2025-P3",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P3",
+   "variant": null,
+   "question_ref": "2(b)(i)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.7.1-03",
+    "OBJ-8223-5.1-05",
+    "OBJ-8223-4.3-05"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B",
+    "C"
+   ],
+   "context_type": "calculation",
+   "context_summary": "Calculate percentage elastic recoil values in a table.",
+   "creditworthy_points": [
+    "One point: all four rows correct (0.0 in all four)."
+   ],
+   "examiner_findings": [
+    "[other] Well answered; a few could not calculate recoil percentage. (report p.54)"
+   ],
+   "common_errors": [
+    "Wrong recoil percentage."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.54 (pdf p.56)",
+   "notes": [
+    "mapping_method: by meaning; confidence: low (Scheme says '0.0 in all four rows', which looks odd; interpretation unverified.)",
+    "Paper 3 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "Report scheme entry may be incomplete or wrong.",
+    "annex_mapping: by meaning; confidence: low; Percentage calculation for table values; known from commentary only."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P3-Q2b-ii",
+   "source_id": "NSSCAS-8223-2025-P3",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P3",
+   "variant": null,
+   "question_ref": "2(b)(ii)",
+   "mark_tariff": 5,
+   "objective_ids": [
+    "OBJ-8223-2.7.1-03",
+    "OBJ-8223-4.3-06",
+    "OBJ-8223-4.3-07",
+    "OBJ-8223-4.3-08",
+    "OBJ-8223-4.3-09",
+    "OBJ-8223-4.3-10",
+    "OBJ-8223-5.2-01",
+    "OBJ-8223-5.2-03"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "C"
+   ],
+   "context_type": "graph",
+   "context_summary": "Plot a line graph of recoil percentage against mass for vena cava and aorta.",
+   "creditworthy_points": [
+    "Five points: axis labels; scales; accurate plotting of 18 points; ruled point-to-point lines; key for the two vessels."
+   ],
+   "examiner_findings": [
+    "[omission] Most did not use a ruler for lines. (report p.54)",
+    "[omission] Difficulty scaling the grid. (report p.54)",
+    "[omission] Few used proper point symbols. (report p.54)"
+   ],
+   "common_errors": [
+    "Freehand lines.",
+    "Poor scaling.",
+    "Wrong plotting symbols."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.54 (pdf p.56)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium",
+    "Paper 3 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff inferred from the scheme structure: five lettered points A S P L K",
+    "annex_mapping: by meaning; confidence: high; Line graph with axes, scales, points and key."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P3-Q2b-iii",
+   "source_id": "NSSCAS-8223-2025-P3",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P3",
+   "variant": null,
+   "question_ref": "2(b)(iii)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.7.1-03",
+    "OBJ-8223-4.4-06",
+    "OBJ-8223-4.4-12"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "B"
+   ],
+   "context_type": "data-table",
+   "context_summary": "Compare the characteristics of aorta and vena cava using the data.",
+   "creditworthy_points": [
+    "Four points: aorta stretches more; returns to original length more readily; vena cava does not return when overstretched; aorta has greater elasticity."
+   ],
+   "examiner_findings": [
+    "[command-word miss] Candidates referred to function rather than using the data to compare characteristics. (report p.54)"
+   ],
+   "common_errors": [
+    "Describing function not data."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.54 (pdf p.56)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium",
+    "Paper 3 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: not stated.",
+    "annex_mapping: by meaning; confidence: medium; Compares two data series and concludes about elasticity."
+   ]
+  },
+  {
+   "evidence_id": "EV-8223-2025-P3-Q2c",
+   "source_id": "NSSCAS-8223-2025-P3",
+   "evidence_type": "past_paper",
+   "exam_series": "Oct/Nov 2025",
+   "year": 2025,
+   "paper_id": "P3",
+   "variant": null,
+   "question_ref": "2(c)",
+   "mark_tariff": null,
+   "objective_ids": [
+    "OBJ-8223-2.7.1-02",
+    "OBJ-8223-2.7.1-03",
+    "OBJ-8223-4.2-08",
+    "OBJ-8223-4.2-11"
+   ],
+   "command_word": null,
+   "ao_focus": [
+    "C"
+   ],
+   "context_type": "practical",
+   "context_summary": "Compare features (endothelium, wall, lumen) of vein and artery in a table.",
+   "creditworthy_points": [
+    "Per feature comparison: vein thin wall, large irregular flattened lumen; artery thick wall, small rounded lumen; endothelium descriptions."
+   ],
+   "examiner_findings": [
+    "[misconception] Most swapped vein and artery structures. (report p.54)",
+    "[other] Some could not use comparative words. (report p.54)"
+   ],
+   "common_errors": [
+    "Swapping vein and artery features.",
+    "No comparatives."
+   ],
+   "strong_response_features": [],
+   "source_locator": "Paper: not held. Report: work/nam-8223-nsscas-2026/sources/NSSCASExaminersReport2025.pdf printed p.54 (pdf p.56)",
+   "notes": [
+    "mapping_method: by meaning; confidence: medium",
+    "Paper 3 question paper not held; the part is described from the examiner commentary and mark scheme only. Command word not stated in the report, so left null.",
+    "mark_tariff not stated in the report and not derivable; left null; printed question total not available to reconcile.",
+    "mark_tariff: not stated.",
+    "annex_mapping: by meaning; confidence: low; Table comparing vein and artery features; likely observation-based."
+   ]
+  }
+ ]
+}

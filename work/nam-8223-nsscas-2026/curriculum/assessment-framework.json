@@ -1,0 +1,1192 @@
+{
+ "framework_id": "FRAMEWORK-NAM-NSSCAS-8223",
+ "generated_at": "2026-10-18T12:26:11Z",
+ "generated_by": "planning/build_profiles.py",
+ "authority": "NSSCAS Biology Syllabus 8223 (NIED 2020) and the assessment corpus 2021-2025.",
+ "syllabus_facts_ref": "curriculum/syllabus-facts.json",
+ "provenance_rule": "Syllabus values are copied from syllabus-facts.json (printed page cited). Observed counts and tariffs are computed from assessment_evidence.json. Judgement fields are labelled.",
+ "evidence_window": "398 records, Papers 1-3, sittings 2021-2025; command words and tariffs from Paper 2 and 3 parts 2021-2024.",
+ "assessment_objectives": [
+  {
+   "code": "A",
+   "name": "Knowledge with understanding",
+   "name_provenance": "syllabus, printed p.20",
+   "definition": "scientific phenomena, facts, laws, definitions, concepts and theories; scientific vocabulary, terminology and conventions, (including symbols, quantities, units); scientific instruments and apparatus, including techniques of operation and aspects of safety; scientific quantities and their determination; scientific and technological applications with their social, economic and environmental implications",
+   "qualification_weight_percent": 40,
+   "provenance": "syllabus, printed pp.20-21 and 23"
+  },
+  {
+   "code": "B",
+   "name": "Handling information and solving problems",
+   "name_provenance": "syllabus, printed p.20",
+   "definition": "locate, select, organise and present information from a variety of sources; translate information from one form to another; manipulate numerical and other data; use information to identify patterns, report trends and draw inferences; present reasoned explanations for phenomena, patterns and relationships; make predictions and hypotheses and solve problems; apply knowledge, including principles, to new situations; demonstrate an awareness of the limitations of biological theories and models",
+   "qualification_weight_percent": 40,
+   "provenance": "syllabus, printed pp.20-21 and 23"
+  },
+  {
+   "code": "C",
+   "name": "Practical (experimental and investigative) skills and abilities",
+   "name_provenance": "syllabus, printed p.21",
+   "definition": "Follow a sequence of instructions,using appropriate techniques, handling apparatus and materials competently and having due regard for safety; make and record estimates, observations and measurements accurately; handle and process experimental observations and data, including dealing with anomalous or inconsistent results; apply scientific knowledge and understanding to make interpretations and to draw appropriate conclusions from practical observations and data; plan, design and carry out investigations (based on concepts familiar to learners) and suggest modifications in the light of experience",
+   "qualification_weight_percent": 20,
+   "provenance": "syllabus, printed pp.20-21 and 23"
+  }
+ ],
+ "papers": [
+  {
+   "paper": "1",
+   "name": "Theory: Multiple choice questions",
+   "marks": 40,
+   "duration_minutes": 60,
+   "weight_percent": 29,
+   "ao_split": {
+    "A": 50,
+    "B": 50,
+    "C": 0
+   },
+   "structure": "This paper consists of forty multiple-choice items of the four-choice type. The questions will be based on content described as specific objectives and will test abilities in assessment objectives A and B. Candidates will answer all questions. Candidates will answer on an answer sheet.",
+   "provenance": "syllabus, printed pp.22-23"
+  },
+  {
+   "paper": "2",
+   "name": "Theory: Structured questions",
+   "marks": 60,
+   "duration_minutes": 75,
+   "weight_percent": 42,
+   "ao_split": {
+    "A": 50,
+    "B": 50,
+    "C": 0
+   },
+   "structure": "This paper will consist of compulsory short- answer, structured and free-response questionsa variable number of questions, of variable mark value.The questions will test skills and abilities in Assessment Objectives A and B. Learners will answer all questions on the question paper [booklet].",
+   "provenance": "syllabus, printed pp.22-23"
+  },
+  {
+   "paper": "3",
+   "name": "Advanced Practical Skills",
+   "marks": 40,
+   "duration_minutes": 120,
+   "weight_percent": 29,
+   "ao_split": {
+    "A": 0,
+    "B": 0,
+    "C": 100
+   },
+   "structure": "This paper requires learners to carry out practical work in timed conditions. Learners will be expected to collect, record and analyse data so that they can answer questions related to the activity. The paper will consist of two experiments drawn from different areas of Biology. Learners will answer all questions. Learners will answer on the question paper. These questions may be based on the practical work in this syllabus with which the learner is familiar. They may also include practical exercises unfamiliar to the learner, but if this is the case then sufficient explanation and instruction will be given to enable the learner to use knowledge of practical work in other areas to complete the task satisfactorily. Centres are expected to have standard laboratory facilities available for all of their learners.",
+   "provenance": "syllabus, printed pp.22-23"
+  }
+ ],
+ "command_word_table_source": "syllabus section 10, printed pp.25-26 (24 entries; the multi-word entry 'What do you understand by / What is meant by' is not represented as a single word here)",
+ "command_words": [
+  {
+   "word": "Define",
+   "in_syllabus_table": true,
+   "meaning": "is intended literally. Only a formal statement or equivalent paraphrase is required",
+   "meaning_provenance": "syllabus, printed p.25",
+   "syllabus_page": 25,
+   "primary_assessment_objectives": [
+    "B"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 0,
+   "observed_tariffs": {},
+   "modal_tariff": null,
+   "papers": {},
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "listed_not_used",
+   "use_in_prompts": false,
+   "exact_mark_tariff": null,
+   "used_at_level": false
+  },
+  {
+   "word": "State",
+   "in_syllabus_table": true,
+   "meaning": "implies a concise answer with little or no supporting argument, e.g. a numerical answer that can be obtained 'by inspection'.",
+   "meaning_provenance": "syllabus, printed p.25",
+   "syllabus_page": 25,
+   "primary_assessment_objectives": [
+    "A"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 22,
+   "observed_tariffs": {
+    "1": 11,
+    "2": 8,
+    "3": 1,
+    "4": 2
+   },
+   "modal_tariff": 1,
+   "papers": {
+    "P2": 16,
+    "P3": 6
+   },
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "primary",
+   "use_in_prompts": true,
+   "exact_mark_tariff": 1,
+   "used_at_level": true
+  },
+  {
+   "word": "List",
+   "in_syllabus_table": true,
+   "meaning": "requires a number of points with no elaboration. If a specific number of points is requested, this number should not be exceeded.",
+   "meaning_provenance": "syllabus, printed p.25",
+   "syllabus_page": 25,
+   "primary_assessment_objectives": [
+    "B"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 0,
+   "observed_tariffs": {},
+   "modal_tariff": null,
+   "papers": {},
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "listed_not_used",
+   "use_in_prompts": false,
+   "exact_mark_tariff": null,
+   "used_at_level": false
+  },
+  {
+   "word": "Explain",
+   "in_syllabus_table": true,
+   "meaning": "may imply reasoning or some reference to theory, depending on the context.It is another way of asking candidates to give reasons for. The candidate needs to make sure that the examiner is told why something happens.",
+   "meaning_provenance": "syllabus, printed p.25",
+   "syllabus_page": 25,
+   "primary_assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 18,
+   "observed_tariffs": {
+    "1": 2,
+    "2": 8,
+    "3": 6,
+    "4": 2
+   },
+   "modal_tariff": 2,
+   "papers": {
+    "P2": 18
+   },
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "primary",
+   "use_in_prompts": true,
+   "exact_mark_tariff": 2,
+   "used_at_level": true
+  },
+  {
+   "word": "Give",
+   "in_syllabus_table": true,
+   "meaning": "this is another way of asking candidates to explain why something happens.",
+   "meaning_provenance": "syllabus, printed p.25",
+   "syllabus_page": 25,
+   "primary_assessment_objectives": [
+    "B"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 0,
+   "observed_tariffs": {},
+   "modal_tariff": null,
+   "papers": {},
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "listed_not_used",
+   "use_in_prompts": false,
+   "exact_mark_tariff": null,
+   "used_at_level": false
+  },
+  {
+   "word": "Describe",
+   "in_syllabus_table": true,
+   "meaning": "requires candidates to state in words (using diagrams where appropriate) the main points of the topic. It is often used with reference either to particular phenomena or to particular experiments. For particular phenomena, the term usually implies that the answer should include reference to (visual) observations associated with the phenomena. In other contexts, describe and give an account ofshould be interpreted more generally, i.e. the candidate has greater discretion about the nature and the organisation of the material to be included in the answer. Describe and explainmay be coupled in a similar way to state and explain.Describe a processmeansgive a step-by-step description of what happens during the process.",
+   "meaning_provenance": "syllabus, printed p.25",
+   "syllabus_page": 25,
+   "primary_assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 27,
+   "observed_tariffs": {
+    "1": 7,
+    "2": 7,
+    "3": 5,
+    "4": 4,
+    "5": 2,
+    "6": 1,
+    "8": 1
+   },
+   "modal_tariff": 1,
+   "papers": {
+    "P2": 21,
+    "P3": 6
+   },
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "primary",
+   "use_in_prompts": true,
+   "exact_mark_tariff": 2,
+   "used_at_level": true
+  },
+  {
+   "word": "Discuss",
+   "in_syllabus_table": true,
+   "meaning": "requires candidates to give a critical account of the points involved in the topic.",
+   "meaning_provenance": "syllabus, printed p.25",
+   "syllabus_page": 25,
+   "primary_assessment_objectives": [
+    "B"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 4,
+   "observed_tariffs": {
+    "2": 2,
+    "3": 1,
+    "4": 1
+   },
+   "modal_tariff": 2,
+   "papers": {
+    "P2": 3,
+    "P3": 1
+   },
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "occasional",
+   "use_in_prompts": true,
+   "exact_mark_tariff": 2,
+   "used_at_level": true
+  },
+  {
+   "word": "Outline",
+   "in_syllabus_table": true,
+   "meaning": "implies brevity, i.e. restricting the answer to giving essentials.",
+   "meaning_provenance": "syllabus, printed p.25",
+   "syllabus_page": 25,
+   "primary_assessment_objectives": [
+    "A"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 5,
+   "observed_tariffs": {
+    "2": 1,
+    "3": 3,
+    "4": 1
+   },
+   "modal_tariff": 3,
+   "papers": {
+    "P2": 4,
+    "P3": 1
+   },
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "occasional",
+   "use_in_prompts": true,
+   "exact_mark_tariff": 3,
+   "used_at_level": true
+  },
+  {
+   "word": "Deduce",
+   "in_syllabus_table": true,
+   "meaning": "follow the guidance for predict, but a supporting statement is also required. For example, reference to a law, a principle or the necessary reasoning should be included in the answer.",
+   "meaning_provenance": "syllabus, printed p.25",
+   "syllabus_page": 25,
+   "primary_assessment_objectives": [
+    "B"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 0,
+   "observed_tariffs": {},
+   "modal_tariff": null,
+   "papers": {},
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "listed_not_used",
+   "use_in_prompts": false,
+   "exact_mark_tariff": null,
+   "used_at_level": false
+  },
+  {
+   "word": "Predict",
+   "in_syllabus_table": true,
+   "meaning": "implies that the candidate is not expected to produce the required answer by recall but by making a logical connection between other pieces of information. Such information may be wholly given in the question or may depend on answers extracted in an earlier part of the question.",
+   "meaning_provenance": "syllabus, printed p.25",
+   "syllabus_page": 25,
+   "primary_assessment_objectives": [
+    "B"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 0,
+   "observed_tariffs": {},
+   "modal_tariff": null,
+   "papers": {},
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "listed_not_used",
+   "use_in_prompts": false,
+   "exact_mark_tariff": null,
+   "used_at_level": false
+  },
+  {
+   "word": "Comment",
+   "in_syllabus_table": true,
+   "meaning": "is intended as an open-ended instruction, inviting candidates to recall or infer points ofinterest relevant to the context of the question, taking account of the number of marks available.",
+   "meaning_provenance": "syllabus, printed p.25",
+   "syllabus_page": 25,
+   "primary_assessment_objectives": [
+    "B"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 0,
+   "observed_tariffs": {},
+   "modal_tariff": null,
+   "papers": {},
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "listed_not_used",
+   "use_in_prompts": false,
+   "exact_mark_tariff": null,
+   "used_at_level": false
+  },
+  {
+   "word": "Suggest",
+   "in_syllabus_table": true,
+   "meaning": "Suggest: may imply that there is no single correct answer (for example, in biology, there are a number of factors that might limit the rate of photosynthesis in a plant in a glasshouse). Suggest: may also imply that the candidate must apply their general knowledge and understanding of biology to a 'novel' situation, one that may not formally be 'in the syllabus'. Many data-response and problem-solving questions are of this type.",
+   "meaning_provenance": "syllabus, printed p.26",
+   "syllabus_page": 26,
+   "primary_assessment_objectives": [
+    "B"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 11,
+   "observed_tariffs": {
+    "1": 2,
+    "2": 6,
+    "3": 3
+   },
+   "modal_tariff": 2,
+   "papers": {
+    "P2": 8,
+    "P3": 3
+   },
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "primary",
+   "use_in_prompts": true,
+   "exact_mark_tariff": 2,
+   "used_at_level": true
+  },
+  {
+   "word": "Find",
+   "in_syllabus_table": true,
+   "meaning": "is a general term that may variously be interpreted as calculate, measure, determine, etc.",
+   "meaning_provenance": "syllabus, printed p.26",
+   "syllabus_page": 26,
+   "primary_assessment_objectives": [
+    "B"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 0,
+   "observed_tariffs": {},
+   "modal_tariff": null,
+   "papers": {},
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "listed_not_used",
+   "use_in_prompts": false,
+   "exact_mark_tariff": null,
+   "used_at_level": false
+  },
+  {
+   "word": "Calculate",
+   "in_syllabus_table": true,
+   "meaning": "is used when a numerical answer is required. In general, working should be shown, especially where two or more steps are involved.The candidate should give suitable units where possible.",
+   "meaning_provenance": "syllabus, printed p.26",
+   "syllabus_page": 26,
+   "primary_assessment_objectives": [
+    "B"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 7,
+   "observed_tariffs": {
+    "1": 5,
+    "2": 2
+   },
+   "modal_tariff": 1,
+   "papers": {
+    "P2": 4,
+    "P3": 3
+   },
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "occasional",
+   "use_in_prompts": true,
+   "exact_mark_tariff": 1,
+   "used_at_level": true
+  },
+  {
+   "word": "Measure",
+   "in_syllabus_table": true,
+   "meaning": "implies that the quantity concerned can be directly obtained from a suitable measuringinstrument, e.g. length, using a rule, or angle, using a protractor.The candidate should give suitable units where possible.",
+   "meaning_provenance": "syllabus, printed p.26",
+   "syllabus_page": 26,
+   "primary_assessment_objectives": [
+    "B"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 0,
+   "observed_tariffs": {},
+   "modal_tariff": null,
+   "papers": {},
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "listed_not_used",
+   "use_in_prompts": false,
+   "exact_mark_tariff": null,
+   "used_at_level": false
+  },
+  {
+   "word": "Determine",
+   "in_syllabus_table": true,
+   "meaning": "often implies that the quantity concerned cannot be measured directly but is obtained by calculation, substituting measured or known values of other quantities into a standard formula. It may also be used when the candidate must carry out a procedure to find a numerical answer.",
+   "meaning_provenance": "syllabus, printed p.26",
+   "syllabus_page": 26,
+   "primary_assessment_objectives": [
+    "B"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 0,
+   "observed_tariffs": {},
+   "modal_tariff": null,
+   "papers": {},
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "listed_not_used",
+   "use_in_prompts": false,
+   "exact_mark_tariff": null,
+   "used_at_level": false
+  },
+  {
+   "word": "Estimate",
+   "in_syllabus_table": true,
+   "meaning": "implies a reasoned order of magnitude statement or calculation of the quantity concerned. Candidates should make any necessary simplifying assumptions about points of principle and about the values of quantities not otherwise included in the question.",
+   "meaning_provenance": "syllabus, printed p.26",
+   "syllabus_page": 26,
+   "primary_assessment_objectives": [
+    "B"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 0,
+   "observed_tariffs": {},
+   "modal_tariff": null,
+   "papers": {},
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "listed_not_used",
+   "use_in_prompts": false,
+   "exact_mark_tariff": null,
+   "used_at_level": false
+  },
+  {
+   "word": "Show",
+   "in_syllabus_table": true,
+   "meaning": "make an algebraic deduction to prove a given equation. The candidate must state clearly the terms being used.",
+   "meaning_provenance": "syllabus, printed p.26",
+   "syllabus_page": 26,
+   "primary_assessment_objectives": [
+    "B"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 0,
+   "observed_tariffs": {},
+   "modal_tariff": null,
+   "papers": {},
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "listed_not_used",
+   "use_in_prompts": false,
+   "exact_mark_tariff": null,
+   "used_at_level": false
+  },
+  {
+   "word": "Sketch",
+   "in_syllabus_table": true,
+   "meaning": "when applied to graph work, implies that the shape and/or position of the curve need only be qualitatively correct, but candidates should be aware that, depending on the context, some quantitative aspects may be looked for, e.g. passing through the origin, having an intercept, asymptote or discontinuity at a particular value. In diagrams, sketch implies that a simple, freehand drawing is acceptable though care should be taken over proportions and the clear exposition of important details.",
+   "meaning_provenance": "syllabus, printed p.26",
+   "syllabus_page": 26,
+   "primary_assessment_objectives": [
+    "B"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 1,
+   "observed_tariffs": {
+    "2": 1
+   },
+   "modal_tariff": 2,
+   "papers": {
+    "P3": 1
+   },
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "rare",
+   "use_in_prompts": false,
+   "exact_mark_tariff": 2,
+   "used_at_level": true
+  },
+  {
+   "word": "Construct",
+   "in_syllabus_table": true,
+   "meaning": "is often used in relation to chemical equations where a candidate is expected to write a balanced equation, not by factual recall but by analogy or by using information in the question.",
+   "meaning_provenance": "syllabus, printed p.26",
+   "syllabus_page": 26,
+   "primary_assessment_objectives": [
+    "B"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 1,
+   "observed_tariffs": {
+    "4": 1
+   },
+   "modal_tariff": 4,
+   "papers": {
+    "P3": 1
+   },
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "rare",
+   "use_in_prompts": false,
+   "exact_mark_tariff": 4,
+   "used_at_level": true
+  },
+  {
+   "word": "Compare",
+   "in_syllabus_table": true,
+   "meaning": "requires candidates to provide both the similarities and differences between things orconcepts.",
+   "meaning_provenance": "syllabus, printed p.26",
+   "syllabus_page": 26,
+   "primary_assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 1,
+   "observed_tariffs": {
+    "2": 1
+   },
+   "modal_tariff": 2,
+   "papers": {
+    "P2": 1
+   },
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "rare",
+   "use_in_prompts": true,
+   "exact_mark_tariff": 2,
+   "used_at_level": true
+  },
+  {
+   "word": "Recognise",
+   "in_syllabus_table": true,
+   "meaning": "identify facts, characteristics or concepts that are relevant and/or appropriate to understanding a situation, event, process or phenomenon.",
+   "meaning_provenance": "syllabus, printed p.26",
+   "syllabus_page": 26,
+   "primary_assessment_objectives": [
+    "B"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 0,
+   "observed_tariffs": {},
+   "modal_tariff": null,
+   "papers": {},
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "listed_not_used",
+   "use_in_prompts": false,
+   "exact_mark_tariff": null,
+   "used_at_level": false
+  },
+  {
+   "word": "Classify",
+   "in_syllabus_table": true,
+   "meaning": "requires candidates to group things based on common characteristics.",
+   "meaning_provenance": "syllabus, printed p.26",
+   "syllabus_page": 26,
+   "primary_assessment_objectives": [
+    "B"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 0,
+   "observed_tariffs": {},
+   "modal_tariff": null,
+   "papers": {},
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "listed_not_used",
+   "use_in_prompts": false,
+   "exact_mark_tariff": null,
+   "used_at_level": false
+  },
+  {
+   "word": "Name",
+   "in_syllabus_table": false,
+   "primary_assessment_objectives": [
+    "A"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 12,
+   "observed_tariffs": {
+    "1": 5,
+    "2": 5,
+    "4": 1,
+    "5": 1
+   },
+   "modal_tariff": 2,
+   "papers": {
+    "P2": 12
+   },
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "primary",
+   "use_in_prompts": true,
+   "exact_mark_tariff": 2,
+   "used_at_level": true
+  },
+  {
+   "word": "Identify",
+   "in_syllabus_table": false,
+   "primary_assessment_objectives": [
+    "A"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 9,
+   "observed_tariffs": {
+    "1": 2,
+    "2": 5,
+    "3": 2
+   },
+   "modal_tariff": 2,
+   "papers": {
+    "P2": 5,
+    "P3": 4
+   },
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "primary",
+   "use_in_prompts": true,
+   "exact_mark_tariff": 2,
+   "used_at_level": true
+  },
+  {
+   "word": "Use",
+   "in_syllabus_table": false,
+   "primary_assessment_objectives": [
+    "B"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 17,
+   "observed_tariffs": {
+    "1": 6,
+    "2": 5,
+    "3": 1,
+    "4": 5
+   },
+   "modal_tariff": 1,
+   "papers": {
+    "P2": 7,
+    "P3": 10
+   },
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "primary",
+   "use_in_prompts": false,
+   "exact_mark_tariff": 1,
+   "used_at_level": true
+  },
+  {
+   "word": "Complete",
+   "in_syllabus_table": false,
+   "primary_assessment_objectives": [
+    "B"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 4,
+   "observed_tariffs": {
+    "2": 1,
+    "3": 2,
+    "4": 1
+   },
+   "modal_tariff": 3,
+   "papers": {
+    "P2": 2,
+    "P3": 2
+   },
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "occasional",
+   "use_in_prompts": false,
+   "exact_mark_tariff": 2,
+   "used_at_level": true
+  },
+  {
+   "word": "Plot",
+   "in_syllabus_table": false,
+   "primary_assessment_objectives": [
+    "C"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 4,
+   "observed_tariffs": {
+    "4": 4
+   },
+   "modal_tariff": 4,
+   "papers": {
+    "P3": 4
+   },
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "occasional",
+   "use_in_prompts": false,
+   "exact_mark_tariff": 4,
+   "used_at_level": true
+  },
+  {
+   "word": "Make",
+   "in_syllabus_table": false,
+   "primary_assessment_objectives": [
+    "C"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 4,
+   "observed_tariffs": {
+    "3": 1,
+    "4": 1,
+    "5": 2
+   },
+   "modal_tariff": 5,
+   "papers": {
+    "P3": 4
+   },
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "occasional",
+   "use_in_prompts": false,
+   "exact_mark_tariff": 5,
+   "used_at_level": true
+  },
+  {
+   "word": "Prepare",
+   "in_syllabus_table": false,
+   "primary_assessment_objectives": [
+    "C"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 4,
+   "observed_tariffs": {
+    "4": 3,
+    "5": 1
+   },
+   "modal_tariff": 4,
+   "papers": {
+    "P3": 4
+   },
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "occasional",
+   "use_in_prompts": false,
+   "exact_mark_tariff": 4,
+   "used_at_level": true
+  },
+  {
+   "word": "Draw",
+   "in_syllabus_table": false,
+   "primary_assessment_objectives": [
+    "C"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 3,
+   "observed_tariffs": {
+    "1": 1,
+    "3": 1,
+    "4": 1
+   },
+   "modal_tariff": 3,
+   "papers": {
+    "P2": 1,
+    "P3": 2
+   },
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "occasional",
+   "use_in_prompts": false,
+   "exact_mark_tariff": 3,
+   "used_at_level": true
+  },
+  {
+   "word": "Record",
+   "in_syllabus_table": false,
+   "primary_assessment_objectives": [
+    "C"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 2,
+   "observed_tariffs": {
+    "1": 2
+   },
+   "modal_tariff": 1,
+   "papers": {
+    "P2": 2
+   },
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "rare",
+   "use_in_prompts": false,
+   "exact_mark_tariff": 1,
+   "used_at_level": true
+  },
+  {
+   "word": "Look",
+   "in_syllabus_table": false,
+   "primary_assessment_objectives": [
+    "C"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 1,
+   "observed_tariffs": {
+    "4": 1
+   },
+   "modal_tariff": 4,
+   "papers": {
+    "P3": 1
+   },
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "rare",
+   "use_in_prompts": false,
+   "exact_mark_tariff": 4,
+   "used_at_level": true
+  },
+  {
+   "word": "Fill",
+   "in_syllabus_table": false,
+   "primary_assessment_objectives": [
+    "C"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 1,
+   "observed_tariffs": {
+    "3": 1
+   },
+   "modal_tariff": 3,
+   "papers": {
+    "P2": 1
+   },
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "rare",
+   "use_in_prompts": false,
+   "exact_mark_tariff": 3,
+   "used_at_level": true
+  },
+  {
+   "word": "Take",
+   "in_syllabus_table": false,
+   "primary_assessment_objectives": [
+    "C"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 1,
+   "observed_tariffs": {
+    "1": 1
+   },
+   "modal_tariff": 1,
+   "papers": {
+    "P3": 1
+   },
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "rare",
+   "use_in_prompts": false,
+   "exact_mark_tariff": 1,
+   "used_at_level": true
+  },
+  {
+   "word": "Move",
+   "in_syllabus_table": false,
+   "primary_assessment_objectives": [
+    "C"
+   ],
+   "assessment_objectives_provenance": "judgement",
+   "observed_count": 1,
+   "observed_tariffs": {
+    "3": 1
+   },
+   "modal_tariff": 3,
+   "papers": {
+    "P3": 1
+   },
+   "observation_provenance": "corpus: Paper 2 and 3 parts 2021-2024 (assessment_evidence.json)",
+   "verdict": "rare",
+   "use_in_prompts": false,
+   "exact_mark_tariff": 3,
+   "used_at_level": true
+  }
+ ],
+ "ao_mark_budget": {
+  "per_paper_marks": {
+   "P1": {
+    "A": 20,
+    "B": 20,
+    "C": 0
+   },
+   "P2": {
+    "A": 30,
+    "B": 30,
+    "C": 0
+   },
+   "P3": {
+    "A": 0,
+    "B": 0,
+    "C": 40
+   }
+  },
+  "weighted_share_percent": {
+   "A": 35.7,
+   "B": 35.7,
+   "C": 28.6
+  },
+  "stated_qualification_weight_percent": {
+   "A": 40,
+   "B": 40,
+   "C": 20
+  },
+  "arithmetic_note": "Targets use the stated 40/40/20. The grid's marks (A 50, B 50, C 40 of 140) give 35.7/35.7/28.6; the syllabus states the grid is approximate (printed p.23). All AO calculations downstream are marks-equivalent, never item counts."
+ },
+ "flashcard_subtype_ao_map": [
+  {
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A",
+    "B",
+    "C"
+   ],
+   "tests": "A definition or statement of a fact, stated precisely with the key terms",
+   "blooms_level": "Remember"
+  },
+  {
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A",
+    "B",
+    "C"
+   ],
+   "tests": "The features, parts or properties of a structure, with what each does",
+   "blooms_level": "Remember"
+  },
+  {
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A",
+    "B",
+    "C"
+   ],
+   "tests": "The difference between two confusable terms or structures",
+   "blooms_level": "Understand"
+  },
+  {
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "A",
+    "B",
+    "C"
+   ],
+   "tests": "An ordered sequence: stages of a process or the steps of a method",
+   "blooms_level": "Apply"
+  },
+  {
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "A",
+    "B",
+    "C"
+   ],
+   "tests": "The reason for a step, a structure or a condition",
+   "blooms_level": "Understand"
+  },
+  {
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "A",
+    "B",
+    "C"
+   ],
+   "tests": "How something happens, explained biologically",
+   "blooms_level": "Understand"
+  },
+  {
+   "subtype": "LIM",
+   "assessment_objectives": [
+    "A",
+    "B",
+    "C"
+   ],
+   "tests": "A limitation or source of error in a procedure and what it does to the result",
+   "blooms_level": "Analyse"
+  },
+  {
+   "subtype": "APP",
+   "assessment_objectives": [
+    "A",
+    "B",
+    "C"
+   ],
+   "tests": "Using an idea on a given case, data set, diagram or specimen",
+   "blooms_level": "Apply"
+  },
+  {
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "A",
+    "B",
+    "C"
+   ],
+   "tests": "A cause traced through to its consequence in several steps",
+   "blooms_level": "Analyse"
+  },
+  {
+   "subtype": "EVAL",
+   "assessment_objectives": [
+    "A",
+    "B",
+    "C"
+   ],
+   "tests": "Judging a claim, method or conclusion against evidence and giving a justified decision",
+   "blooms_level": "Evaluate"
+  },
+  {
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "A",
+    "B",
+    "C"
+   ],
+   "tests": "A calculation with the equation, substitution, answer, unit and sensible significant figures",
+   "blooms_level": "Apply"
+  },
+  {
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "A",
+    "B",
+    "C"
+   ],
+   "tests": "Reading a graph, table, diagram or micrograph for a value, pattern or conclusion",
+   "blooms_level": "Analyse"
+  },
+  {
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A",
+    "B",
+    "C"
+   ],
+   "tests": "Telling a correct idea from the error it is confused with",
+   "blooms_level": "Understand"
+  },
+  {
+   "subtype": "SYNTH",
+   "assessment_objectives": [
+    "A",
+    "B",
+    "C"
+   ],
+   "tests": "Two objectives joined in one problem",
+   "blooms_level": "Create"
+  }
+ ],
+ "flashcard_subtype_ao_map_note": "Permitted AO set per subtype. Which AO an item carries is set by the slot plan (objective type and paper): content topics use A and B, Paper 3 topics C.",
+ "blooms_taxonomy": {
+  "scheme": "Revised Bloom's taxonomy (Anderson and Krathwohl).",
+  "why_both": "The assessment objective says what the examination credits. The Bloom level says what the learner is asked to do. Every item carries both.",
+  "levels": [
+   {
+    "level": "Remember",
+    "means": "Recall a fact, term or list as stated."
+   },
+   {
+    "level": "Understand",
+    "means": "Explain an idea in the learner's own words, or tell it apart from a neighbouring one."
+   },
+   {
+    "level": "Apply",
+    "means": "Use the idea on a case, figure, diagram or specimen the learner has not been given the answer to."
+   },
+   {
+    "level": "Analyse",
+    "means": "Break a situation into parts and trace a cause through to its consequence."
+   },
+   {
+    "level": "Evaluate",
+    "means": "Weigh options against a criterion and reach a justified decision."
+   },
+   {
+    "level": "Create",
+    "means": "Build something new from two or more ideas."
+   }
+  ],
+  "by_subtype": {
+   "DEF": "Remember",
+   "FEATURE": "Remember",
+   "DIST": "Understand",
+   "PROC": "Apply",
+   "WHY": "Understand",
+   "MECH": "Understand",
+   "LIM": "Analyse",
+   "APP": "Apply",
+   "CHAIN": "Analyse",
+   "EVAL": "Evaluate",
+   "CALC": "Apply",
+   "INTERP": "Analyse",
+   "MISCON": "Understand",
+   "SYNTH": "Create"
+  },
+  "by_performance_task": {
+   "multiple_choice_set": "Apply",
+   "short_answer": "Apply",
+   "calculation": "Apply",
+   "practical_task": "Analyse"
+  },
+  "required_on_every_item": true
+ },
+ "item_mix_target": {
+  "basis": "marks-equivalent",
+  "target_share_percent": {
+   "A": 40,
+   "B": 40,
+   "C": 20
+  },
+  "note": "Balance the SUBJECT against this, never a single topic."
+ },
+ "command_words_in_use": [
+  "State",
+  "Explain",
+  "Describe",
+  "Discuss",
+  "Outline",
+  "Suggest",
+  "Calculate",
+  "Sketch",
+  "Construct",
+  "Compare",
+  "Name",
+  "Identify",
+  "Use",
+  "Complete",
+  "Plot",
+  "Make",
+  "Prepare",
+  "Draw",
+  "Record",
+  "Look",
+  "Fill",
+  "Take",
+  "Move"
+ ],
+ "command_words_listed_but_never_used": [
+  "Define",
+  "List",
+  "Give",
+  "Deduce",
+  "Predict",
+  "Comment",
+  "Find",
+  "Measure",
+  "Determine",
+  "Estimate",
+  "Show",
+  "Recognise",
+  "Classify"
+ ],
+ "command_words_used_but_not_listed": [
+  "Name",
+  "Identify",
+  "Use",
+  "Complete",
+  "Plot",
+  "Make",
+  "Prepare",
+  "Draw",
+  "Record",
+  "Look",
+  "Fill",
+  "Take",
+  "Move"
+ ]
+}

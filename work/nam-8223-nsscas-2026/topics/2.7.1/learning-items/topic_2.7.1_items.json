@@ -1,0 +1,1410 @@
+{
+ "dataset_id": "ITEMS-8223-2.7.1",
+ "topic_id": "2.7.1",
+ "items": [
+  {
+   "item_id": "ITEM-8223-2.7.1-001-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-001",
+    "CLM-8223-2.7.1-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 1,
+   "prompt": "State what is meant by a double circulation in a mammal.",
+   "canonical_answer": "A double circulation is one in which the blood passes through the heart twice on one complete circuit of the body: once on its way to the lungs and once on its way to the body tissues.",
+   "marking_guidance": [
+    "1 mark for the key words: the blood passes through the heart twice in one complete circuit. The statement may name the two parts, the pulmonary circulation to the lungs and the systemic circulation to the body, but the idea of two passes through the heart carries the mark.",
+    "Reject two hearts, and reject a statement that gives only the two destinations without saying that the blood returns to the heart between them."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-001": 1,
+    "CLM-8223-2.7.1-002": 1
+   },
+   "authored_hash": "e1f77c9b35ee3a6e1fcb34057d818d053c87f3a660c0b1a5884a844f7f34dd55"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-002-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "A transverse section of a blood vessel shows a thick wall and a narrow, round lumen. State one feature that identifies it as an artery and not a vein.",
+   "canonical_answer": "The wall is thick compared with the width of the lumen, with a thick middle layer of smooth muscle and elastic fibres.",
+   "marking_guidance": [
+    "1 mark for one feature of the structure from: a thick wall in relation to the lumen; a thick middle layer of smooth muscle and elastic fibres; a narrow lumen. There are more creditworthy points than the tariff, which is 1.",
+    "Reject a wide lumen, valves, or a thin wall, which are features of a vein, and reject a feature that is true of both vessels, such as an endothelial lining."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-005": 1
+   },
+   "authored_hash": "08dba75137e374344d175a66a9eedc2688af622910ad96782101d9076dce208c"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-003-APP",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-005",
+    "CLM-8223-2.7.1-006",
+    "CLM-8223-2.7.1-007",
+    "CLM-8223-2.7.1-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A student is making a plan diagram from a photomicrograph in which two vessels lie side by side at the same magnification. Our measurements of the section are: vessel X has an outer width of 1.2 mm and a lumen width of 0.3 mm; vessel Y has an outer width of 1.0 mm and a lumen width of 0.8 mm. Explain which vessel the student should label as the vein.",
+   "canonical_answer": "Vessel Y should be labelled as the vein. The wall thickness on each side is (outer width − lumen width) ÷ 2. For X this is (1.2 − 0.3) ÷ 2 = 0.45 mm and for Y it is (1.0 − 0.8) ÷ 2 = 0.1 mm. Y therefore has a thin wall and a wide lumen, because blood in a vein is at low pressure, so it needs little strength and a wide lumen gives little resistance. X has a thick wall and a narrow lumen, which suits blood at high pressure in an artery.",
+   "marking_guidance": [
+    "2 marks: the identification of Y from the given data, using the thin wall and wide lumen in this case (1); the reason, that blood in a vein is at low pressure so a thick wall is not needed, or that the artery needs a thick wall because the blood is at high pressure (1).",
+    "The wall thicknesses are worked out from the information given and are correct: 0.45 mm and 0.1 mm. A learner who names Y without using the figures or the reason earns 1 mark at most, because the answer must rest on the specimen described. Both reasons are creditworthy, but the tariff is 2."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-005": 1,
+    "CLM-8223-2.7.1-006": 1,
+    "CLM-8223-2.7.1-007": 1,
+    "CLM-8223-2.7.1-009": 1
+   },
+   "authored_hash": "f439a8ab2f2fd8972d2b762462d36f619a80b7300bf1697a5811d56bdfa4905f"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-004-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-007",
+    "CLM-8223-2.7.1-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by the lumen of a blood vessel.",
+   "canonical_answer": "The lumen is the space inside a blood vessel through which the blood flows.",
+   "marking_guidance": [
+    "1 mark for the key words: the space (or central cavity) inside the vessel, through which blood flows.",
+    "Reject the wall of the vessel, or the blood itself. The term is the space and not its contents."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-007": 1,
+    "CLM-8223-2.7.1-010": 1
+   },
+   "authored_hash": "34756e0217565e1ebe1a90685413dadddb41848a1017705edaa45c9bdf8f640d"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-005-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Explain how the structure of a capillary wall makes a capillary suited to the exchange of oxygen between blood and the surrounding cells.",
+   "canonical_answer": "The wall is a single layer of thin endothelial cells, so oxygen has a very short distance to diffuse from the blood to the cells, and diffusion is therefore fast. The lumen is about as wide as one red blood cell, which brings the cell close to the wall and slows its passage, so there is time for oxygen to leave.",
+   "marking_guidance": [
+    "2 marks from these points: the wall is one cell thick, which gives a short diffusion distance and so fast diffusion; the lumen is as wide as a red blood cell, which presses the cell against the wall and slows it, which gives more time; a dense network gives a large surface area; gaps between the cells let fluid out. The cap is 2 marks.",
+    "Each mark needs the feature and how it helps. A feature with no effect, such as thin walls alone, earns no mark unless it is linked to a short diffusion distance because of the single cell layer."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-010": 1
+   },
+   "authored_hash": "ad4f15945e0aacc840899d6db0e6882ea2c58fe343aee2217f3950e444878340"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-006-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Two white blood cells are measured in a stained blood film. Our readings are in the table.\n\n| Cell | Diameter (µm) | Nucleus | Cytoplasm |\n|---|---|---|---|\n| P | 19 | one kidney-shaped nucleus, about half the width of the cell | a large amount, pale |\n| Q | 8 | one round nucleus filling most of the cell | a thin rim |\n\nDescribe the features in the table that show which cell is the monocyte and which is the lymphocyte.",
+   "canonical_answer": "Cell P is the monocyte: it is the larger cell, at 19 µm, and its single nucleus is kidney-shaped with a large amount of pale cytoplasm around it. Cell Q is the lymphocyte: it is smaller, at 8 µm, and its single round nucleus fills most of the cell, so only a thin rim of cytoplasm is left.",
+   "marking_guidance": [
+    "2 marks: cell P identified as the monocyte from the larger size, the kidney-shaped nucleus and the large amount of pale cytoplasm (1); cell Q identified as the lymphocyte from the smaller size, the round nucleus filling the cell and the thin rim of cytoplasm (1).",
+    "The readings in the table each show a feature: the values for diameter give relative size, and the description of the nucleus gives its shape. Credit needs the cell named together with at least one feature taken from the table. Naming the cells without the features earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-013": 1
+   },
+   "authored_hash": "e27a01b62ac350bca156e7e8323785890d04e867d9d53067320c16078775fb0e"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-007-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-011",
+    "CLM-8223-2.7.1-012",
+    "CLM-8223-2.7.1-014"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "In an electron micrograph (our description) a red blood cell measures 14 mm across the image and a neighbouring white blood cell measures 21 mm. The red blood cell is known to be 7 µm across in life. The white cell has a nucleus of four lobes joined by thin strands. Describe how the actual size of the white cell is found and what the nucleus shows about the cell.",
+   "canonical_answer": "The white cell is 21 ÷ 14 = 1.5 times the width of the red cell, so its actual size is 1.5 × 7 = 10.5 µm. A nucleus of several lobes joined by thin strands shows a neutrophil, a cell with one nucleus that has two to five lobes, and the size of about 10.5 µm agrees.",
+   "marking_guidance": [
+    "2 marks: the actual size found by comparing the image sizes and scaling by the known 7 µm, with the value 10.5 µm (1); the lobed nucleus joined by strands means a neutrophil, a cell with a single nucleus (1).",
+    "The working is credited if the substitution is correct, 21 ÷ 14 = 1.5 and 1.5 × 7 = 10.5 µm, and the unit is given. The figure shows the cell is in the size range of a neutrophil but the nucleus carries the identification. Reject three nuclei."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-011": 1,
+    "CLM-8223-2.7.1-012": 1,
+    "CLM-8223-2.7.1-014": 1
+   },
+   "authored_hash": "710fc05407db8d9e6b778c472c2d3c127c89897d4ca8d355a242729b74929d3f"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-008-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-015",
+    "CLM-8223-2.7.1-016"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 1,
+   "prompt": "State what is meant by tissue fluid.",
+   "canonical_answer": "Tissue fluid is the fluid that fills the spaces between the cells of a tissue, formed from blood plasma that has left the capillaries.",
+   "marking_guidance": [
+    "1 mark for the key words: fluid in the spaces between cells, formed from plasma that has left the capillaries. Either part of the statement can carry the mark if it is clear that the fluid surrounds the cells.",
+    "Reject blood, and reject lymph, which is the fluid inside lymph vessels."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-015": 1,
+    "CLM-8223-2.7.1-016": 1
+   },
+   "authored_hash": "17be7f4f7457bbeb72162eb5eefe2cdeaa2033696258aaf2f5c7b48c8ee5221e"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-009-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-018"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by lymph.",
+   "canonical_answer": "Lymph is the fluid inside lymph vessels, formed from tissue fluid that has drained into lymph capillaries instead of returning to the blood capillaries.",
+   "marking_guidance": [
+    "1 mark for the key words: fluid in the lymph vessels, formed from tissue fluid that drained into lymph capillaries.",
+    "Reject a statement that lymph is blood, and reject tissue fluid itself, which lies between cells and not in a vessel."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-018": 1
+   },
+   "authored_hash": "c68e61b9ed7be56368b664bb47f2b48e4fb3d2ca6ec68e3df2f5be105c174880"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-010-DIST",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-019"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one difference in composition between blood and tissue fluid.",
+   "canonical_answer": "Blood contains red blood cells, whereas tissue fluid contains none; alternatively, blood contains large plasma proteins, whereas tissue fluid contains little or none.",
+   "marking_guidance": [
+    "1 mark for one difference stated for both fluids, for example red blood cells (or platelets) in blood and not in tissue fluid, or large plasma proteins in blood and little or none in tissue fluid, or more white cells in blood. The contrast needs both fluids; whereas, while or unlike is a useful link.",
+    "Reject a difference of position or pressure, which is not composition. The tariff is 1 although several differences are creditworthy."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-019": 1
+   },
+   "authored_hash": "83bcdc62dcf156cf55035d3863057eabe6ac5a85b6cc926f3f1350fbc174d789"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-011-PROC",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-022",
+    "CLM-8223-2.7.1-023"
+   ],
+   "item_type": "flashcard",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 3,
+   "prompt": "Describe, in order, what happens to a carbon dioxide molecule from the moment it diffuses from a respiring muscle cell into a red blood cell until hydrogen ions have been taken up by haemoglobin.",
+   "canonical_answer": "First, the carbon dioxide combines with water, a reaction catalysed by the enzyme carbonic anhydrase, to form carbonic acid, CO₂ + H₂O ⇌ H₂CO₃. Then the carbonic acid dissociates into hydrogen ions and hydrogencarbonate ions, H₂CO₃ ⇌ H⁺ + HCO₃⁻. Finally, the hydrogen ions bind to haemoglobin to form haemoglobinic acid, and the hydrogencarbonate ions leave the cell into the plasma.",
+   "marking_guidance": [
+    "3 marks, one for each stage in the correct order: carbonic anhydrase catalyses the combination of carbon dioxide and water to form carbonic acid (1); the carbonic acid dissociates into hydrogen ions and hydrogencarbonate ions (1); hydrogen ions bind to haemoglobin forming haemoglobinic acid, with the hydrogencarbonate ions leaving the cell (1).",
+    "The sequence is the point: stages out of order, or the product named without the stage that makes it, earn no mark. The result, a stable pH inside the cell because haemoglobin is a buffer, is a further creditworthy point but the tariff is 3."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-022": 1,
+    "CLM-8223-2.7.1-023": 1
+   },
+   "authored_hash": "030f4385d6db1a2177a55677f72194b44ca77c1117d46f18554426f768055f0c"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-012-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-021"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Describe how haemoglobin carries oxygen from the lungs to the respiring tissues and releases it there.",
+   "canonical_answer": "Each haemoglobin molecule has four haem groups, and each binds one oxygen molecule, forming oxyhaemoglobin where the partial pressure of oxygen is high, as in the lungs. Because the partial pressure of oxygen is low in respiring tissues, the reaction reverses and oxyhaemoglobin releases its oxygen.",
+   "marking_guidance": [
+    "2 marks: oxygen binds to the haem groups (up to four molecules per haemoglobin) to form oxyhaemoglobin in the lungs, where the partial pressure of oxygen is high (1); oxygen is released in the tissues, because the partial pressure of oxygen is low there (1).",
+    "Each mark needs the place and the condition that causes the change. Naming haemoglobin and oxygen without how the binding depends on partial pressure earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-021": 1
+   },
+   "authored_hash": "dd73f2dd2c93572b3db9246481fac90349a1196e979df6801f7e9dfbc8dc13df"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-013-APP",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-022",
+    "CLM-8223-2.7.1-023",
+    "CLM-8223-2.7.1-027"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "In a laboratory test (our own set-up) blood is exposed to a high level of carbon dioxide while an inhibitor of carbonic anhydrase is present. Explain why less carbon dioxide is carried as hydrogencarbonate ions than in the same blood without the inhibitor.",
+   "canonical_answer": "Carbonic anhydrase catalyses the combination of carbon dioxide and water to form carbonic acid, which dissociates into hydrogen ions and hydrogencarbonate ions. With the enzyme inhibited, this reaction is too slow, so fewer hydrogencarbonate ions form in the red blood cells and fewer pass into the plasma.",
+   "marking_guidance": [
+    "2 marks: the enzyme speeds the reaction of carbon dioxide with water to form carbonic acid, which then gives hydrogen ions and hydrogencarbonate ions (1); with the enzyme inhibited the reaction is too slow, so fewer hydrogencarbonate ions are made and enter the plasma (1).",
+    "The answer must apply the information in this situation, an inhibited enzyme, and give the reason that follows from it. A statement that the enzyme is important without the reaction earns no mark. A further creditworthy point is that less haemoglobinic acid forms."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-022": 1,
+    "CLM-8223-2.7.1-023": 1,
+    "CLM-8223-2.7.1-027": 1
+   },
+   "authored_hash": "0309c9d04e5bda5305312726dec2ddde42f952e1b84df08f592e25ad38737e78"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-014-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-025"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by carboxyhaemoglobin.",
+   "canonical_answer": "Carboxyhaemoglobin is the stable compound formed when carbon monoxide binds to the haem groups of haemoglobin.",
+   "marking_guidance": [
+    "1 mark for the key words: the compound formed when carbon monoxide binds to haemoglobin (at the haem group). Stability can be added but does not replace the statement.",
+    "Reject oxyhaemoglobin, which holds oxygen, and reject carbaminohaemoglobin, which holds carbon dioxide on the polypeptide chains."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-025": 1
+   },
+   "authored_hash": "70a09e071d60a46a52c9106b052a84f7ccca959444ecc6aa7bbc2a6f3e9d6dd8"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-015-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-025",
+    "CLM-8223-2.7.1-026"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one feature of the binding of carbon monoxide to haemoglobin that makes carbon monoxide harmful.",
+   "canonical_answer": "Haemoglobin binds carbon monoxide more than 200 times as strongly as it binds oxygen, and the carbon monoxide is released very slowly, so haem groups are occupied and cannot carry oxygen.",
+   "marking_guidance": [
+    "1 mark for one feature: it binds much more strongly than oxygen (an affinity more than 200 times greater), or it is released very slowly, or it occupies the haem groups so that less oxygen is carried. There are several creditworthy points but the tariff is 1.",
+    "Reject a statement that carbon monoxide is a poison with no feature of the binding."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-025": 1,
+    "CLM-8223-2.7.1-026": 1
+   },
+   "authored_hash": "a25fb9ae3640a86b2bd8bce6858ed1bd5287610b90b0ee7fa73fed1bb6886026"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-016-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-09"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-027"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State the main form in which carbon dioxide is carried in the plasma.",
+   "canonical_answer": "Hydrogencarbonate ions, which carry about 85% of the carbon dioxide transported.",
+   "marking_guidance": [
+    "1 mark for hydrogencarbonate ions (HCO₃⁻). The point about 85% is creditworthy extra but not needed for the mark.",
+    "Reject carbaminohaemoglobin, which is carried inside red blood cells and not in the plasma, and reject carbonic acid."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-027": 1
+   },
+   "authored_hash": "7f93adae5da232035f81c6f57ca5492eb0a6a6e2e44349cd1aaacc8e4d530a62"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-017-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-09"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-029"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Describe how carbon dioxide that is carried as hydrogencarbonate ions in the plasma leaves the blood when it reaches the lungs.",
+   "canonical_answer": "Because the partial pressure of carbon dioxide in the alveoli is low, hydrogencarbonate ions move from the plasma into the red blood cells, where they combine with hydrogen ions to form carbonic acid. Carbonic anhydrase then converts the carbonic acid to carbon dioxide and water, and the carbon dioxide diffuses out of the cell, through the plasma and into the alveoli.",
+   "marking_guidance": [
+    "2 marks: hydrogencarbonate ions move back into red blood cells and form carbonic acid with hydrogen ions, which carbonic anhydrase changes into carbon dioxide and water (1); the carbon dioxide diffuses out down the gradient of partial pressure into the alveoli (1).",
+    "Each mark needs how and why: the low partial pressure in the alveoli causes the movement and the enzyme causes the conversion. A bare statement that carbon dioxide is breathed out earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-029": 1
+   },
+   "authored_hash": "82bf5629017f3b9bf23683e1b40bc5a9389551624ce683c4f56fd187a5b29518"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-018-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-10"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-030"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by an oxygen dissociation curve.",
+   "canonical_answer": "An oxygen dissociation curve is a graph that plots the percentage saturation of haemoglobin with oxygen against the partial pressure of oxygen.",
+   "marking_guidance": [
+    "1 mark for the key words: a graph of percentage saturation of haemoglobin with oxygen against the partial pressure of oxygen, with both quantities named.",
+    "Reject a statement that gives only oxygen against haemoglobin with no partial pressure or saturation."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-030": 1
+   },
+   "authored_hash": "47110426b90b2437187ad65a6b58547f976e66b2d25d847837b84596836a6bd7"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-019-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-10"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-032"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Explain why the oxygen dissociation curve of adult haemoglobin is steep in its middle part.",
+   "canonical_answer": "When the first oxygen molecule binds to haemoglobin, the shape of the molecule changes, which makes it easier for the next oxygen molecules to bind. Because binding becomes easier, a small increase in the partial pressure of oxygen causes a large increase in the percentage saturation.",
+   "marking_guidance": [
+    "2 marks: the binding of the first oxygen molecule changes the shape of the haemoglobin (1); this makes it easier for further oxygen molecules to bind, so saturation rises steeply for a small rise in partial pressure (1).",
+    "Each mark needs the cause and what it leads to. A statement that the curve is S-shaped, or that haemoglobin has a high affinity, with no change of shape earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-032": 1
+   },
+   "authored_hash": "193e9217d7ef04116f78a8af607999ef78431383770c423b6e7f2b0556351afc"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-020-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-11"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-030",
+    "CLM-8223-2.7.1-034"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by the partial pressure of oxygen.",
+   "canonical_answer": "The partial pressure of oxygen is the part of the total pressure of a mixture of gases that is due to oxygen, measured in kilopascals (kPa).",
+   "marking_guidance": [
+    "1 mark for the key words: the part of the total gas pressure that is due to oxygen. The unit is a creditworthy extra.",
+    "Reject the concentration of oxygen in the blood, or the percentage of oxygen in the air, which are not pressures."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-030": 1,
+    "CLM-8223-2.7.1-034": 1
+   },
+   "authored_hash": "0da3c271c12e48991ef88c9e43bb141e7d118209908049fbd19d0b014ad54cce"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-021-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-11"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-035"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Explain why it is an advantage that the oxygen dissociation curve is steep at the partial pressures of oxygen found in respiring tissues.",
+   "canonical_answer": "In respiring tissues the partial pressure of oxygen is on the steep part of the curve, where a small fall in partial pressure causes a large fall in the percentage saturation of haemoglobin. Because the saturation falls so much, oxyhaemoglobin releases a large amount of oxygen to the cells, and more is released where the partial pressure is lower, in more active tissue.",
+   "marking_guidance": [
+    "2 marks, explaining how the shape of the curve helps: a small fall in partial pressure of oxygen produces a large fall in saturation on the steep part of the curve (1); so a large amount of oxygen is released to the cells, and more in active tissue where the pressure is lower (1).",
+    "Each mark needs the link from the shape of the curve to the amount of oxygen released. A statement that the curve is steep with no consequence earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-035": 1
+   },
+   "authored_hash": "bcee60915c471a466577bcf28b738e9ec97614141646f1c477d78958836e41e3"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-022-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-12"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-037"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by the Bohr shift.",
+   "canonical_answer": "The Bohr shift is the shift of the oxygen dissociation curve to the right when the partial pressure of carbon dioxide rises and the pH falls, so that haemoglobin has a lower affinity for oxygen.",
+   "marking_guidance": [
+    "1 mark for the key words: the curve shifts to the right as the carbon dioxide level rises (or the pH falls), so that haemoglobin has a lower affinity for oxygen at a given partial pressure of oxygen.",
+    "Reject a shift to the left, which is the opposite change, and reject a statement about the shape of the curve only."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-037": 1
+   },
+   "authored_hash": "198026837224e6b0bbb70273900e72d08de3f6b38298a5bdcd223d72e4944b67"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-023-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-12"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-038",
+    "CLM-8223-2.7.1-039"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Explain why the Bohr shift is important in a muscle during vigorous exercise.",
+   "canonical_answer": "In vigorous exercise the muscle respires faster and makes more carbon dioxide, which forms carbonic acid and releases hydrogen ions, so the pH falls. The hydrogen ions bind to haemoglobin and lower its affinity for oxygen, so the curve shifts to the right. Haemoglobin therefore releases more oxygen at the same partial pressure, which supplies the muscle with the extra oxygen it needs for respiration.",
+   "marking_guidance": [
+    "2 marks: faster respiration makes more carbon dioxide, which lowers the pH (more hydrogen ions) and shifts the curve to the right, lowering the affinity of haemoglobin for oxygen (1); so more oxygen is released at the same partial pressure, which supports faster respiration (1).",
+    "Each mark needs the cause and what it leads to. A statement that the curve shifts right, with no reason why more oxygen is released, earns no mark. Further points: the shift reverses in the lungs, which helps oxygen to load."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-038": 1,
+    "CLM-8223-2.7.1-039": 1
+   },
+   "authored_hash": "74097334a8ed90d403e87cf72914f00afa8abc515cd034ca0fbd7ae50bcac694"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-024-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-13"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-042",
+    "CLM-8223-2.7.1-043"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by the red blood cell count.",
+   "canonical_answer": "The red blood cell count is the number of red blood cells in a given volume of blood, for example per mm³.",
+   "marking_guidance": [
+    "1 mark for the key words: the number of red blood cells in a stated volume of blood. The unit per mm³ is a creditworthy extra.",
+    "Reject the total number of red blood cells in the body, and reject the percentage of the blood volume that is red cells, which is a different measure."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-042": 1,
+    "CLM-8223-2.7.1-043": 1
+   },
+   "authored_hash": "8e255e03484f95a728124e56c0fdb66fabd577d979433da8b442eb3a2bef842a"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-025-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-13"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-041",
+    "CLM-8223-2.7.1-042",
+    "CLM-8223-2.7.1-043"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Explain how a higher red blood cell count helps a person who has lived for several weeks at high altitude.",
+   "canonical_answer": "At high altitude the partial pressure of oxygen in the air is lower, so haemoglobin leaving the lungs is less saturated. A higher red blood cell count means more haemoglobin in each litre of blood, so the blood can carry more oxygen even at the lower saturation. Because more oxygen is carried, delivery to the respiring tissues is closer to what it was at low altitude.",
+   "marking_guidance": [
+    "2 marks: the lower partial pressure of oxygen at altitude means less saturated haemoglobin (1); more red blood cells means more haemoglobin per litre of blood, so more oxygen is carried and delivered to the tissues (1).",
+    "Each mark needs the cause and the effect. A statement that the person has more red cells with no reason why this helps earns no mark. A further point is that thicker blood may increase the work of the heart; the tariff is 2."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-041": 1,
+    "CLM-8223-2.7.1-042": 1,
+    "CLM-8223-2.7.1-043": 1
+   },
+   "authored_hash": "65090b86556efb4ce39243518f93047d186d4d6c0bd914c9f994759155971252"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-026-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A student draws a neutrophil with three separate round nuclei because the nucleus looked like three parts under the microscope. Explain the error.",
+   "canonical_answer": "The error is to treat the lobes as separate nuclei. In fact a neutrophil has one nucleus divided into several lobes, joined by thin strands that are hard to see or lie outside the plane of the section. The drawing should show one nucleus made of connected lobes, and the test is to ask how many nuclei the cell has: one.",
+   "marking_guidance": [
+    "2 marks: the error named, that the lobes were drawn or described as three nuclei (1); the correct idea, that there is one nucleus with several lobes joined by thin strands, or the test that asks how many nuclei there are (1).",
+    "The card is a discrimination, not a definition of a neutrophil. A learner who says the nucleus is lobed but does not say that the cell has only one earns 1 mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-012": 1
+   },
+   "authored_hash": "3d2d9c378261653eef29eedbe86945f090a291b6c7c002424e315dd869ed498f"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-027-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-10"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-033"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner writes: In the lungs oxygen has a high affinity for haemoglobin. Explain the error in this statement and write a correct version.",
+   "canonical_answer": "The error is in which substance has the affinity. In fact it is haemoglobin that has an affinity for oxygen, meaning that it binds oxygen readily. A correct version is: in the lungs haemoglobin has a high affinity for oxygen. The test is to ask which substance is described as having an affinity: haemoglobin.",
+   "marking_guidance": [
+    "2 marks: the error named, that oxygen is wrongly given the affinity (1); the correct idea, that haemoglobin has the affinity for oxygen, written as a correct sentence, or the test (1).",
+    "The card is a discrimination between two wordings of one idea. A learner who writes a correct sentence with no comment on the error can earn 1 mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-033": 1
+   },
+   "authored_hash": "b15a864c93590756d14d00e0183b6240235b36ba57b3d5bfe6139cff35071471"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-028-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-12"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-038"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner writes: During exercise the blood pH falls because there are fewer hydrogen ions, and this shifts the curve to the right. Explain the error.",
+   "canonical_answer": "The error is about pH. In fact a lower pH means a higher concentration of hydrogen ions, not a lower one. The extra hydrogen ions come from the carbonic acid made from carbon dioxide, and they bind to haemoglobin and lower its affinity for oxygen, which is the Bohr shift. The test is to ask what happens to the hydrogen ion concentration as the pH falls: it increases.",
+   "marking_guidance": [
+    "2 marks: the error named, that a fall in pH is wrongly linked to fewer hydrogen ions (1); the correct idea, that a lower pH is a higher hydrogen ion concentration, which lowers the affinity of haemoglobin for oxygen, or the test (1).",
+    "The card is a discrimination between two readings of one scale, not a repeat of the definition of the Bohr shift."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-038": 1
+   },
+   "authored_hash": "d8feb6c40a205041b6ae42a9bbfa79772b6f080e9f364ebc2737fb71fa98a3d9"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-029-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-12"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-040"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner writes: Respiration in the lungs produces the oxygen that diffuses into the blood, and that is why haemoglobin picks it up. Explain the errors.",
+   "canonical_answer": "The error is to confuse respiration with breathing. In fact respiration is a set of reactions in cells that release energy from glucose, using oxygen and producing carbon dioxide, so it does not produce oxygen. Oxygen enters the blood by diffusion from the air in the alveoli, which is gas exchange that follows breathing. The test is to ask whether it is the movement of gas at the lungs or a reaction in cells.",
+   "marking_guidance": [
+    "2 marks: the error named, that respiration is confused with breathing or gas exchange, or that oxygen is said to be produced in respiration (1); the correct idea, that respiration is a reaction in cells that uses oxygen and produces carbon dioxide, and oxygen enters the blood by diffusion from the alveoli, or the test (1).",
+    "The card is a discrimination between two near-neighbour terms and not a definition of respiration repeated."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-040": 1
+   },
+   "authored_hash": "7bd5894ca4b1b4107e53fd0e95237e5d40babd66040acf0f403d53c44fc2a764"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-030-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-09"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-027",
+    "CLM-8223-2.7.1-028"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner writes: Most carbon dioxide is carried by haemoglobin as carbaminohaemoglobin, so the plasma carries very little. Explain the error.",
+   "canonical_answer": "The error is to treat carbaminohaemoglobin as the main form. In fact about 85% of the carbon dioxide is carried as hydrogencarbonate ions in the plasma, and only about 10% as carbaminohaemoglobin in red blood cells. The test is to ask which form carries most of the carbon dioxide: the hydrogencarbonate ion in the plasma.",
+   "marking_guidance": [
+    "2 marks: the error named, that carbaminohaemoglobin is wrongly given as the main form (1); the correct idea, that most carbon dioxide travels as hydrogencarbonate ions in the plasma (about 85%) and a smaller share as carbaminohaemoglobin (about 10%), or the test that tells the forms apart (1).",
+    "The card is a discrimination between two forms. The figures are approximate and the mark is for the right form, not the exact percentage."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-027": 1,
+    "CLM-8223-2.7.1-028": 1
+   },
+   "authored_hash": "676b89c487a383de10ecef98d6bb71bfc1dcf85298855e94649237c4042ed032"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-031-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-007",
+    "CLM-8223-2.7.1-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner writes: Veins have a thick wall and a narrow lumen so that they can stand high pressure, and arteries have valves to stop blood flowing backwards. Explain the error.",
+   "canonical_answer": "The learner has swapped the structures. It is arteries that have a thick wall and a narrow lumen, because their blood is at high pressure; veins have a thin wall, a wide lumen and valves, because their blood is at low pressure and would otherwise flow backwards. The test is to ask which vessel has valves and a wide lumen: it is the vein.",
+   "marking_guidance": [
+    "2 marks: the error named, that the structures of artery and vein are swapped (1); the correct idea with its reason, that arteries have a thick wall and narrow lumen for high pressure and veins have thin walls, wide lumens and valves for low pressure, or the test that tells them apart (1).",
+    "This is a discrimination between two near-neighbour answers and not a repeat of what an artery is. A learner who only restates the correct structures without saying that the error is a swap earns 1 mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-007": 1,
+    "CLM-8223-2.7.1-009": 1
+   },
+   "authored_hash": "b22d7c2cb96656ebb698d5fc15c62ad421420970161e79d6af47e3e88b31e417"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-P01",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-03",
+    "OBJ-8223-2.7.1-07",
+    "OBJ-8223-2.7.1-09",
+    "OBJ-8223-2.7.1-10",
+    "OBJ-8223-2.7.1-11",
+    "OBJ-8223-2.7.1-12"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-005",
+    "CLM-8223-2.7.1-007",
+    "CLM-8223-2.7.1-009",
+    "CLM-8223-2.7.1-010",
+    "CLM-8223-2.7.1-022",
+    "CLM-8223-2.7.1-023",
+    "CLM-8223-2.7.1-027",
+    "CLM-8223-2.7.1-028",
+    "CLM-8223-2.7.1-031",
+    "CLM-8223-2.7.1-032",
+    "CLM-8223-2.7.1-034",
+    "CLM-8223-2.7.1-035",
+    "CLM-8223-2.7.1-036",
+    "CLM-8223-2.7.1-037",
+    "CLM-8223-2.7.1-038",
+    "CLM-8223-2.7.1-039"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": null,
+   "mark_tariff": 12,
+   "difficulty": 3,
+   "prompt": "Twelve questions. Choose one option for each.\n\n1. Which blood vessel has valves and a wide lumen?\nA  artery\nB  vein\nC  capillary\nD  arteriole\n\n2. Which feature of a capillary wall helps oxygen to reach the cells quickly?\nA  It is made of thick smooth muscle.\nB  It is one cell thick.\nC  It contains valves.\nD  It contains elastic fibres.\n\n3. What do the elastic fibres in the wall of an artery do?\nA  They close to stop blood flowing backwards.\nB  They stretch and recoil to even out surges of blood.\nC  They contract to make the lumen wider.\nD  They let fluid leave the blood.\n\n4. Which form carries most of the carbon dioxide in the blood?\nA  carbaminohaemoglobin in red blood cells\nB  carbon dioxide dissolved in the plasma\nC  hydrogencarbonate ions in the plasma\nD  carbonic acid in the plasma\n\n5. What is the job of carbonic anhydrase in a red blood cell?\nA  It binds oxygen to haemoglobin.\nB  It catalyses the reaction of carbon dioxide with water.\nC  It carries hydrogencarbonate ions into the plasma.\nD  It binds hydrogen ions to haemoglobin.\n\n6. What is formed when hydrogen ions bind to haemoglobin inside a red blood cell?\nA  carboxyhaemoglobin\nB  oxyhaemoglobin\nC  carbaminohaemoglobin\nD  haemoglobinic acid\n\n7. Our approximate readings from a dissociation curve give 97% saturation of haemoglobin in blood leaving the lungs and 75% in blood leaving a resting muscle. What percentage of the haemoglobin saturation has been released in the muscle?\nA  75\nB  97\nC  22\nD  172\n\n8. Why is it an advantage that the oxygen dissociation curve is flat at the partial pressure of oxygen in the lungs?\nA  The haemoglobin releases oxygen quickly.\nB  The haemoglobin stays nearly fully saturated if the pressure falls a little.\nC  The haemoglobin binds carbon dioxide instead.\nD  The haemoglobin unloads most of its oxygen.\n\n9. What happens to the oxygen dissociation curve when the partial pressure of carbon dioxide in the blood rises?\nA  It shifts to the left, so haemoglobin loads oxygen more readily.\nB  It shifts to the right, so haemoglobin releases oxygen more readily.\nC  It becomes a straight line.\nD  It does not change because haemoglobin binds oxygen only.\n\n10. The pH of the blood in an exercising muscle falls. What does this mean for the hydrogen ion concentration?\nA  It decreases.\nB  It increases.\nC  It stays the same.\nD  It becomes zero.\n\n11. Which statement uses the word affinity correctly?\nA  Oxygen has a high affinity for haemoglobin in the lungs.\nB  Haemoglobin has a high affinity for oxygen in the lungs.\nC  Oxygen and haemoglobin both have an affinity for the plasma.\nD  Haemoglobin has an affinity for respiration.\n\n12. A carbon dioxide molecule diffuses into a red blood cell in a respiring tissue. Which sequence shows what happens next?\nA  carbonic acid forms, then it dissociates, then hydrogen ions bind to haemoglobin\nB  hydrogen ions bind to haemoglobin, then carbonic acid forms, then it dissociates\nC  carbonic acid dissociates, then carbon dioxide is made, then hydrogen ions are released\nD  hydrogencarbonate ions bind to haemoglobin, then hydrogen ions leave the cell",
+   "canonical_answer": "Key: 1 B, 2 B, 3 B, 4 C, 5 B, 6 D, 7 C, 8 B, 9 B, 10 B, 11 B, 12 A.\n1. Veins carry blood at low pressure, so they have a wide lumen and valves (B). A and D are vessels at high pressure with a narrow lumen and no valves, the error of swapping artery and vein; C has a lumen as narrow as one red cell.\n2. A wall one cell thick gives a short diffusion distance (B). A describes the wall of an artery, C is a feature of veins, and D belongs to arteries; none of them shortens the distance for diffusion.\n3. The fibres stretch as blood surges in and recoil afterwards (B). A is the job of valves in veins; C wrongly gives the elastic fibres the role of smooth muscle, which changes the width of the lumen; D describes the gaps in a capillary wall.\n4. About 85% travels as hydrogencarbonate ions in the plasma (C). A is the form that carries only about 10%, the confusion of hydrogencarbonate with carbon dioxide bound to haemoglobin; B carries only about 5%; D is formed briefly and dissociates at once.\n5. The enzyme catalyses CO₂ + H₂O ⇌ H₂CO₃ (B). A is the job of haemoglobin itself, which is not an enzyme; C is done by diffusion of the ions out of the cell; D is the formation of haemoglobinic acid, which needs no enzyme.\n6. Hydrogen ions and haemoglobin form haemoglobinic acid (D). A is formed with carbon monoxide, B with oxygen and C with carbon dioxide bound to the chains; each is a near-neighbour name.\n7. The release is 97 − 75 = 22 percentage points (C). A is the saturation that remains, B is the saturation leaving the lungs, and D adds the two figures instead of subtracting.\n8. On the flat part, a small fall in pressure causes a very small fall in saturation (B). A and D describe what happens on the steep part, in the tissues; C confuses the oxygen curve with carbon dioxide transport.\n9. More carbon dioxide gives more hydrogen ions, which lower the affinity and shift the curve to the right (B). A reverses the direction, C has no basis in the binding, and D ignores the effect of carbon dioxide on haemoglobin.\n10. A lower pH means a higher hydrogen ion concentration (B). A is the error of reading pH as a concentration rather than an inverse scale, C ignores the change that the pH shows, and D has no basis.\n11. Affinity is a property of haemoglobin: it binds oxygen readily (B). A gives the affinity to oxygen, the commonest error; C and D name substances that are not the ones that bind.\n12. Carbonic acid forms, dissociates to hydrogen ions and hydrogencarbonate ions, and the hydrogen ions bind to haemoglobin (A). B puts the binding before the ions exist, C runs the reaction backwards, and D gives hydrogencarbonate ions the job of the hydrogen ions.",
+   "marking_guidance": [
+    "Key: the correct option for each of the 12 questions is given in the first line of the answer, one mark each. For each question the answer says why the key is right and which error each distractor comes from.",
+    "The distractors are built from errors that learners make: swapping the structures of artery and vein, confusing hydrogencarbonate with carbon dioxide bound to haemoglobin, reading pH as the opposite of hydrogen ion concentration, and giving the affinity to oxygen instead of to haemoglobin. Each wrong option is explained by its error."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-005": 1,
+    "CLM-8223-2.7.1-007": 1,
+    "CLM-8223-2.7.1-009": 1,
+    "CLM-8223-2.7.1-010": 1,
+    "CLM-8223-2.7.1-022": 1,
+    "CLM-8223-2.7.1-023": 1,
+    "CLM-8223-2.7.1-027": 1,
+    "CLM-8223-2.7.1-028": 1,
+    "CLM-8223-2.7.1-031": 1,
+    "CLM-8223-2.7.1-032": 1,
+    "CLM-8223-2.7.1-034": 1,
+    "CLM-8223-2.7.1-035": 1,
+    "CLM-8223-2.7.1-036": 1,
+    "CLM-8223-2.7.1-037": 1,
+    "CLM-8223-2.7.1-038": 1,
+    "CLM-8223-2.7.1-039": 1
+   },
+   "authored_hash": "22e43c908d28b01637b11e1df8ffc3d3652fcb9f747b39c14bb94acaf961c06e"
+  },
+  {
+   "item_id": "ITEM-8223-2.7.1-P02",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-13",
+    "OBJ-8223-2.7.1-10"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.7.1-041",
+    "CLM-8223-2.7.1-042",
+    "CLM-8223-2.7.1-043",
+    "CLM-8223-2.7.1-031",
+    "CLM-8223-2.7.1-032"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "State",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "A hiker lives near sea level and then spends three weeks at a camp on a high mountain. The table gives our readings for the red blood cell count of her blood. At the camp her blood leaves the lungs about 87% saturated with oxygen, compared with about 97% at home (our approximate values).\n\n| Time at camp (days) | Red blood cell count (million per mm³) |\n|---|---|\n| 0 | 5.0 |\n| 7 | 5.6 |\n| 21 | 6.3 |\n\n(a) State the increase in the red blood cell count between day 0 and day 21, and express it as a percentage of the day 0 count. [2]\n(b) Describe how the body brings about the rise in the red blood cell count. [2]\n(c) Explain why the haemoglobin of the blood leaving the lungs is less saturated at the camp than at home. [2]\n(d) Explain how the higher red blood cell count helps the hiker at the camp. [2]",
+   "canonical_answer": "(a) The increase is 6.3 − 5.0 = 1.3 million per mm³. As a percentage of day 0 it is 1.3 ÷ 5.0 = 0.26, which is 26%.\n(b) The kidneys detect the low oxygen content of the blood and release the hormone erythropoietin, which stimulates the bone marrow to make more red blood cells over a period of days to weeks.\n(c) The air pressure is lower at altitude, so the partial pressure of oxygen in the air and in the alveoli is lower. Less oxygen diffuses into the blood, and on the oxygen dissociation curve a lower partial pressure of oxygen corresponds to a lower percentage saturation of haemoglobin.\n(d) More red blood cells mean more haemoglobin in each litre of blood, so the blood carries more oxygen even though each haemoglobin molecule is less saturated. Delivery of oxygen to the respiring tissues is therefore closer to what it was at home.",
+   "marking_guidance": [
+    "Marks and points: (a) 1 mark for the increase of 1.3 million per mm³ with the unit, 1 mark for 26% (1.3 ÷ 5.0 = 0.26, which is 26%); (b) 2 marks from three points: the kidneys detect the low oxygen content, they release erythropoietin, the bone marrow makes more red blood cells (the rise takes days to weeks); (c) 2 marks from three points: lower air pressure at altitude gives a lower partial pressure of oxygen in the alveoli, so less oxygen diffuses into the blood, so the saturation read from the curve is lower.",
+    "(d) 2 marks from three points: more haemoglobin per litre of blood, more oxygen carried at the lower saturation, delivery to tissues closer to normal; a further creditworthy point is that thicker blood may increase the work of the heart. Parts (a) and (b) credit AO A (4 marks); parts (c) and (d) credit AO B (4 marks). Each answer must use the data or situation given and give the reason, because the term or the figure alone does not earn the mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.7.1 claim ledger and the syllabus objective. Single source; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.7.1-041": 1,
+    "CLM-8223-2.7.1-042": 1,
+    "CLM-8223-2.7.1-043": 1,
+    "CLM-8223-2.7.1-031": 1,
+    "CLM-8223-2.7.1-032": 1
+   },
+   "authored_hash": "b32492e744ec87ef3b6677ec644a019846638aa4151aea8237b8df688fadbda6"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{"topic_id": "4.4", "deviations": [
+ {"from": "Slots 029-INTERP and 030-INTERP instruct with Describe only",
+  "to": "Each prompt keeps Describe as its opening command word and adds a second clause opening with state (the range or material the conclusion applies to); tariff unchanged",
+  "why": "C-15 requires OBJ-8223-4.4-12 to be practised with one of its own command words (state/name), but both slots the work order gives it are Describe; the registry's command words for this objective and the slot command-word map disagree"},
+ {"from": "Work order objective titles/syllabus_text for OBJ-8223-4.4-07 and -11 to -15 are fragments (e.g. 'from the patterns and trends in data', 'whereas a random error')",
+  "to": "Taught the full skill the title states; no content change",
+  "why": "The transcribed syllabus text for these objectives is truncated or missing its verb, so the registry text cannot be quoted as the objective"},
+ {"from": "Practical task slots P01/P02 carry no command word in the work order",
+  "to": "P01 uses State and P02 Describe as opening command word, mark_tariff 10 each",
+  "why": "Both are allowed words in this subject; the exemplar practical task also carries a command word"}]}

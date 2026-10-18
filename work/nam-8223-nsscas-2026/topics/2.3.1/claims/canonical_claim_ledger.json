@@ -1,0 +1,382 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-2.3.1",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-2.3.1-001",
+   "objective_ids": [
+    "OBJ-8223-2.3.1-01"
+   ],
+   "text": "The fluid mosaic model describes a cell surface membrane as a bilayer of phospholipid molecules, two layers thick, with protein molecules scattered through and across it like the tiles of a mosaic; the phospholipids and many of the proteins can move sideways within their layer, which makes the membrane fluid.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus 8223 topic 2.3.1, objective 01, fluid mosaic model",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.3.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; biological detail is our own standard-biology statement, unverified)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.1-002",
+   "objective_ids": [
+    "OBJ-8223-2.3.1-01"
+   ],
+   "text": "A phospholipid has a polar, hydrophilic head that contains a phosphate group, and two non-polar, hydrophobic fatty acid tails; glycerol joins the head to the tails, but it is the phosphate group that makes the head polar. In water the molecules form a bilayer with the heads facing outwards towards the water on both sides and the tails facing inwards, away from it.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus 8223 topic 2.3.1, objective 01, phospholipids",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.3.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; biological detail is our own standard-biology statement, unverified)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.1-003",
+   "objective_ids": [
+    "OBJ-8223-2.3.1-01"
+   ],
+   "text": "Cholesterol molecules lie between the phospholipids among the fatty acid tails; some proteins span the whole bilayer and others lie against one surface; glycolipids (lipids with a carbohydrate chain) and glycoproteins (proteins with a carbohydrate chain) have their chains projecting from the outer surface of the membrane.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus 8223 topic 2.3.1, objective 01, components",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.3.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; biological detail is our own standard-biology statement, unverified)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.1-004",
+   "objective_ids": [
+    "OBJ-8223-2.3.1-01"
+   ],
+   "text": "A cell surface membrane is one membrane made of two layers of phospholipid; a double membrane is an envelope of two separate membranes, such as the envelope around the nucleus, a mitochondrion or a chloroplast, so the bilayer of a cell surface membrane is not a double membrane.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus 8223 topic 2.3.1, objective 01; glossary homonym membrane; register MC-8223-2.3.1-03",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.3.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; biological detail is our own standard-biology statement, unverified)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.1-005",
+   "objective_ids": [
+    "OBJ-8223-2.3.1-02"
+   ],
+   "text": "The cell surface membrane is the boundary of the cell: it separates the cytoplasm from the surroundings and is partially permeable, so it controls which substances enter and leave the cell.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus 8223 topic 2.3.1, objective 02, roles",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.3.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; biological detail is our own standard-biology statement, unverified)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.1-006",
+   "objective_ids": [
+    "OBJ-8223-2.3.1-02"
+   ],
+   "text": "The cell surface membrane carries receptors that detect signal molecules from other cells and antigens that identify the cell, so it also takes part in cell signalling and cell recognition.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus 8223 topic 2.3.1, objective 02, roles",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.3.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; biological detail is our own standard-biology statement, unverified)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.1-007",
+   "objective_ids": [
+    "OBJ-8223-2.3.1-03"
+   ],
+   "text": "The hydrophobic core of the phospholipid bilayer resists the passage of ions and polar molecules, which are water-soluble, but small non-polar molecules such as oxygen and carbon dioxide tend to dissolve in the core and pass through, so the bilayer is a partially permeable barrier.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus 8223 topic 2.3.1, objective 03, phospholipids",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.3.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; biological detail is our own standard-biology statement, unverified)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.1-008",
+   "objective_ids": [
+    "OBJ-8223-2.3.1-03"
+   ],
+   "text": "Cholesterol sits among the fatty acid tails and regulates the fluidity of the membrane: at warm temperatures it tends to restrict the movement of the tails, making the membrane more stable, and at low temperatures it tends to stop the tails packing closely, so the membrane does not become stiff; it also tends to reduce leakage of ions and small polar molecules between the phospholipids.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus 8223 topic 2.3.1, objective 03, cholesterol; register MC-8223-2.3.1-01",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.3.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; biological detail is our own standard-biology statement, unverified)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.1-009",
+   "objective_ids": [
+    "OBJ-8223-2.3.1-03"
+   ],
+   "text": "A channel protein has a water-filled pore through the bilayer through which specific ions or small polar molecules pass by facilitated diffusion; a carrier protein binds a specific molecule on one side, changes shape and releases it on the other side, and can move it by facilitated diffusion or, using energy from ATP, against its concentration gradient by active transport.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus 8223 topic 2.3.1, objective 03, transport proteins",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.3.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; biological detail is our own standard-biology statement, unverified)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.1-010",
+   "objective_ids": [
+    "OBJ-8223-2.3.1-03"
+   ],
+   "text": "A cell surface receptor is a protein, often a glycoprotein, with a binding site complementary in shape to one specific signal molecule; a cell surface antigen is a molecule on the outer surface, usually a glycoprotein or glycolipid, that identifies the cell and can trigger an immune response if it is non-self.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus 8223 topic 2.3.1, objective 03, receptors and antigens",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.3.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; biological detail is our own standard-biology statement, unverified)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.1-011",
+   "objective_ids": [
+    "OBJ-8223-2.3.1-04"
+   ],
+   "text": "In cell signalling a signalling cell releases a signal molecule such as a hormone, the molecule reaches the target cells (in the blood for a hormone, or by diffusion over a short distance), binds to a cell surface receptor on a target cell because its shape is complementary to the receptor, and the binding triggers a specific response inside the target cell.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus 8223 topic 2.3.1, objective 04, process",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.3.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; biological detail is our own standard-biology statement, unverified)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.1-012",
+   "objective_ids": [
+    "OBJ-8223-2.3.1-04"
+   ],
+   "text": "The response is specific because only cells that carry the matching receptor bind the signal molecule, so a molecule that reaches many cells produces a response in those with the receptor and none in those without it, and different target cells can carry different receptors and respond differently to one molecule.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus 8223 topic 2.3.1, objective 04, specificity",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.3.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; biological detail is our own standard-biology statement, unverified)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.1-013",
+   "objective_ids": [
+    "OBJ-8223-2.3.1-04"
+   ],
+   "text": "In cell signalling the signal is the molecule released, not the cell that releases it, and it is a chemical binding to a receptor rather than an electrical nerve impulse along a neurone.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus 8223 topic 2.3.1, objective 04; register MC-8223-2.3.1-04",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.3.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; biological detail is our own standard-biology statement, unverified)."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,452 @@
+{
+ "unit_id": "CU-8223-2.2",
+ "title": "Cell structure",
+ "objective_ids": [
+  "OBJ-8223-2.2-01",
+  "OBJ-8223-2.2-02",
+  "OBJ-8223-2.2-03",
+  "OBJ-8223-2.2-04",
+  "OBJ-8223-2.2-05",
+  "OBJ-8223-2.2-06",
+  "OBJ-8223-2.2-07",
+  "OBJ-8223-2.2-08",
+  "OBJ-8223-2.2-09",
+  "OBJ-8223-2.2-10"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_structure_function",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 2880,
+  "target": 3500,
+  "max": 4120
+ },
+ "blocks": [
+  {
+   "block_id": "2.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "How to recognise each part of a eukaryotic cell and say what it does; what plant and animal cells look like in electron micrographs; how to draw plan diagrams and make wet mounts; how a plant cell and an animal cell differ; the structure of a bacterium and how it compares with a eukaryotic cell; the part ATP plays in cells; and the structure of a virus.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "bedf8af0b80176a227dfd893332aa5acbeee4f0846eacd9c0c99275863f0e159"
+  },
+  {
+   "block_id": "2.2-b2",
+   "block_type": "plain_explanation",
+   "heading": "Cells, organelles and the two cell types",
+   "text": "Every living thing is made of one or more cells. Cells of one kind that work together form a tissue, and tissues form organs, so the order from small to large is organelle, cell, tissue, organ, organism. An organelle is a structure inside a cell with its own job. Keeping the levels apart matters: a mitochondrion is an organelle, a palisade cell is a cell, and a leaf is an organ.\n\nThere are two basic kinds of cell. A eukaryotic cell has a nucleus and membrane-bound organelles; animal cells, plant cells and fungal cells are all eukaryotic. A prokaryotic cell has neither a nucleus nor membrane-bound organelles; a bacterium is the example you must know. The names of the two types are eukaryotic and prokaryotic. An animal cell is one kind of eukaryotic cell, and a bacterium is an example of a prokaryote, so neither is a name for a type.",
+   "claim_ids": [
+    "CLM-8223-2.2-025"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.2-025": 1
+   },
+   "authored_hash": "087b819c95d6640796ab748147b1246995bdb55ec83442a11bf15263137e593a"
+  },
+  {
+   "block_id": "2.2-b3",
+   "block_type": "components",
+   "heading": "The nucleus, ribosomes and endoplasmic reticulum",
+   "text": "The nucleus is the control centre of the cell. It is surrounded by the nuclear envelope, a double membrane with pores through it. The pores let messenger RNA leave for the cytoplasm and let proteins enter. Inside the nucleus the chromatin holds the cell's DNA. Because the DNA carries the instructions for making proteins, the nucleus controls which proteins a cell makes and so controls what the cell does. One or more dense spots called nucleoli sit inside; a nucleolus is where ribosomal RNA is made and where ribosome subunits begin to be assembled.\n\nRibosomes are the site of protein synthesis. In the cytoplasm and on the rough endoplasmic reticulum they are the larger 80S type; inside mitochondria and chloroplasts they are the smaller 70S type. Rough endoplasmic reticulum (RER) is a network of flattened, membrane-bound sacs with ribosomes attached to its outer surface. A protein made on those ribosomes passes into the sacs, where it is carried onwards. Smooth endoplasmic reticulum (SER) has the same kind of membrane sacs but no ribosomes. It is where lipids are made and processed, so it is plentiful in cells that make a lot of lipid.",
+   "claim_ids": [
+    "CLM-8223-2.2-001",
+    "CLM-8223-2.2-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.2-001": 1,
+    "CLM-8223-2.2-005": 1
+   },
+   "authored_hash": "685e3f921dc286aa15a2d3a83d67915536d0701cc0b7cd59c11fa59695209453"
+  },
+  {
+   "block_id": "2.2-b4",
+   "block_type": "components",
+   "heading": "The cell surface membrane, cell wall, vacuole and plasmodesmata",
+   "text": "The cell surface membrane forms the boundary of the cell. It is partially permeable, which means that it lets some substances cross and holds others back, so it controls what enters and leaves the cytoplasm.\n\nA plant cell has a cell wall outside the membrane. The wall is made of cellulose, which is rigid, so it supports the cell and stops it bursting when water enters by osmosis. The wall is fully permeable: it holds the cell in shape but does not control which substances pass through. Narrow channels called plasmodesmata cross the walls of neighbouring plant cells. Each is lined with cell surface membrane, so the cytoplasm of one cell is joined to the cytoplasm of the next and substances can pass between them.\n\nMature plant cells have a large permanent vacuole, bounded by a single membrane called the tonoplast. The vacuole holds cell sap, a solution of sugars, ions and pigments. Its pressure on the wall keeps the cell firm, and the tonoplast controls which substances pass between the sap and the cytoplasm.",
+   "claim_ids": [
+    "CLM-8223-2.2-002",
+    "CLM-8223-2.2-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.2-002": 1,
+    "CLM-8223-2.2-003": 1
+   },
+   "authored_hash": "39bcff212db99801307299c15801327703e0c5e0e8c0f99c67b6470a92aaf43f"
+  },
+  {
+   "block_id": "2.2-b5",
+   "block_type": "components",
+   "heading": "Mitochondria and chloroplasts",
+   "text": "A mitochondrion is enclosed by two membranes. The inner membrane is folded into cristae, which project into a fluid matrix. The later stages of aerobic respiration take place here, and they produce most of the ATP in a typical animal cell. Cells that use a great deal of energy, such as muscle and liver cells, contain many mitochondria.\n\nA chloroplast is also enclosed by two membranes. Inside is a fluid stroma containing stacks of flattened thylakoid membranes called grana, and photosynthesis takes place here. The pigment that absorbs light is held in the thylakoid membranes. Mitochondria and chloroplasts both contain 70S ribosomes and a small circular molecule of DNA, which means that each can make some of its own proteins.",
+   "claim_ids": [
+    "CLM-8223-2.2-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.2-004": 1
+   },
+   "authored_hash": "58f113de759249c613e4f5ae622061893461eeac0ea5dcf2d976d2bf2d9c2d0d"
+  },
+  {
+   "block_id": "2.2-b6",
+   "block_type": "process",
+   "heading": "From gene to secreted protein: the ER, Golgi body and lysosomes",
+   "text": "The organelles that make and process a protein work in a set order. Take an enzyme that a cell secretes. First, the gene for the enzyme in the nucleus is copied to messenger RNA, which leaves through a nuclear pore. Second, the mRNA is read by ribosomes on the rough endoplasmic reticulum, which make the polypeptide, and it passes into the sacs. Third, the protein is carried in vesicles to the Golgi body. Fourth, the Golgi body modifies it, for example by adding carbohydrate groups, and packages it in vesicles. Finally, a vesicle moves to the cell surface membrane, fuses with it and releases the protein outside the cell.\n\nThe Golgi body is a stack of flattened sacs that processes and packages, while the RER is a continuous network of sacs that makes and carries. Some Golgi vesicles do not leave the cell but become lysosomes. A lysosome is a small, round sac with a single membrane that holds hydrolytic enzymes. These digest worn-out organelles, material the cell has taken in, and invading microbes, and the membrane keeps the enzymes away from the rest of the cell.",
+   "claim_ids": [
+    "CLM-8223-2.2-005",
+    "CLM-8223-2.2-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.2-005": 1,
+    "CLM-8223-2.2-006": 1
+   },
+   "authored_hash": "fb2b8c6e3fa97a130044cde81c997e0c08bc7a3110586e04552f82f11ec35bea"
+  },
+  {
+   "block_id": "2.2-b7",
+   "block_type": "components",
+   "heading": "Centrioles, cilia and microvilli",
+   "text": "Centrioles are a pair of short hollow cylinders made of microtubules, lying beside the nucleus in animal cells. They organise the spindle when a nucleus divides. The cells of flowering plants generally do not have them.\n\nCilia and microvilli are both projections of the cell surface membrane, so they are easily confused, but they do different jobs. Cilia are long and hair-like, contain microtubules and beat in a coordinated way. In the lining of the trachea the beating moves mucus, with trapped dust and microbes, up and away from the lungs. Microvilli are far shorter, finger-like folds of the membrane that do not beat. They increase the surface area of the cell, so that more of a substance can be absorbed or secreted across it, as on the cells lining the small intestine. A simple test separates them: if the structure moves material along, it is a cilium; if it provides area for absorption, it is a microvillus.",
+   "claim_ids": [
+    "CLM-8223-2.2-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.2-007": 1
+   },
+   "authored_hash": "c9acefc1ff896a7b3a426744c5e3df37e000c1e4599bc72b751236255faf1da1"
+  },
+  {
+   "block_id": "2.2-b8",
+   "block_type": "plain_explanation",
+   "heading": "Plant and animal cells in the electron microscope",
+   "text": "The electron microscope uses a beam of electrons instead of light. Electrons have a much shorter wavelength than light, so the microscope has a much higher resolution: it can show two points as separate when they are far closer together than a light microscope could resolve. Resolution is the smallest distance at which two points can be seen as separate, and it is not the same as magnification, which is how many times larger the image is than the object. A high magnification without good resolution only gives a larger blur. What the electron microscope reveals is ultrastructure, the fine detail inside organelles. Electron micrographs are in shades of grey.\n\nBoth plant and animal cells show a nucleus with its double envelope and pores, mitochondria with cristae, rough and smooth endoplasmic reticulum, Golgi bodies, lysosomes, ribosomes and a cell surface membrane. A plant cell also shows a cell wall, chloroplasts, a large permanent vacuole and plasmodesmata. An animal cell shows centrioles and, depending on its type, microvilli or cilia.",
+   "claim_ids": [
+    "CLM-8223-2.2-008",
+    "CLM-8223-2.2-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.2-008": 1,
+    "CLM-8223-2.2-009": 1
+   },
+   "authored_hash": "dab0588d77dcb4abed5c6ef4e04a1e6dee2de948cadccf625a0866cc7a48d253"
+  },
+  {
+   "block_id": "2.2-b9",
+   "block_type": "analysis_chain",
+   "heading": "Interpreting an electron micrograph",
+   "text": "To interpret a micrograph, match each feature to a structure and then to a function. Dark dots lining a membrane network are ribosomes on RER, so the cell makes proteins, probably for export. A structure with two membranes and an inner membrane folded inwards is a mitochondrion, so the cell carries out aerobic respiration, and many of them mean a high demand for ATP. A double membrane enclosing stacks of flattened sacs is a chloroplast, so the cell photosynthesises. A stack of curved sacs with small vesicles at its edge is a Golgi body, so the cell processes and packages proteins.\n\nOne caution. A micrograph shows a very thin slice, so an organelle can look round, oval or like a long strip, depending on the angle at which it was cut. Judge by the membranes and the internal pattern, not by the outline alone.",
+   "claim_ids": [
+    "CLM-8223-2.2-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.2-010": 1
+   },
+   "authored_hash": "99b1f780e4ce27d620224eca02ff336424502b013bc4bb1f86051c41cd1ac687"
+  },
+  {
+   "block_id": "2.2-b10",
+   "block_type": "process",
+   "heading": "Drawing a low power plan diagram",
+   "text": "A plan diagram shows the outlines of tissues and their proportions. It does not show individual cells. You make it under the low power objective, where whole tissues fit in the field of view.\n\nUse a sharp pencil and clear single lines, with no shading and no colour. Draw each tissue in the same proportion as it has in the section: a tissue that is a third of the width of the leaf is a third of the width of the diagram. Draw what you can see, and make the drawing large enough to fill most of the space. Write a title. Write the labels outside the drawing and join each to its tissue with a straight line drawn with a ruler. Lines must not cross, and each should touch the tissue and not stop in the air.",
+   "claim_ids": [
+    "CLM-8223-2.2-011",
+    "CLM-8223-2.2-013"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.2-011": 1,
+    "CLM-8223-2.2-013": 1
+   },
+   "authored_hash": "b8320ab45ab8985f4b76e41a7f453c237a685ff616ae899c4f695185767636f9"
+  },
+  {
+   "block_id": "2.2-b11",
+   "block_type": "components",
+   "heading": "Tissues in a transverse section of a leaf, root and stem",
+   "text": "A plan diagram of a leaf shows the tissues in this order from top to bottom: upper epidermis, a layer of palisade mesophyll, spongy mesophyll with air spaces, and a lower epidermis with stomata. A vascular bundle, with xylem above phloem, runs through the midrib.\n\nIn a typical dicotyledonous root the outer layer is the epidermis, inside it is a wide cortex, and in the centre is the vascular tissue, with the xylem arranged in a star shape. In a typical dicotyledonous stem the outer layer is the epidermis, inside it is the cortex, the vascular bundles lie in a ring, and a pith fills the centre. The position of the vascular tissue is the quickest way to tell root from stem: it is central in a root and in a ring in a stem.",
+   "claim_ids": [
+    "CLM-8223-2.2-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.2-012": 1
+   },
+   "authored_hash": "0c5b9f9c3c262711dc656cce5a65e762baf7427af9605103711387fea59ad09d"
+  },
+  {
+   "block_id": "2.2-b12",
+   "block_type": "plain_explanation",
+   "heading": "Comparing a palisade cell and a liver cell",
+   "text": "A palisade mesophyll cell and a liver cell (hepatocyte) are both eukaryotic cells, so both have a cell surface membrane, nucleus, mitochondria, ribosomes, endoplasmic reticulum and Golgi body. Most of the differences follow from what each cell does.\n\nThe palisade cell is long and column-shaped, packed with chloroplasts, because it carries out photosynthesis; the large permanent vacuole pushes the cytoplasm and chloroplasts to the edge, close to the light and to the air spaces. Its rigid cell wall holds the cell in shape. The liver cell is roughly cuboidal and has no cell wall, no chloroplasts and no large permanent vacuole. It has a large central nucleus and many mitochondria, because its many metabolic reactions need ATP, and extensive endoplasmic reticulum and Golgi bodies, because it makes and processes proteins and lipids. It also contains granules of glycogen, an energy store.",
+   "claim_ids": [
+    "CLM-8223-2.2-014",
+    "CLM-8223-2.2-015"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.2-014": 1,
+    "CLM-8223-2.2-015": 1
+   },
+   "authored_hash": "791659c7bd7a4b722c6251396ec22b275c9bd8bca8183a1f709de78bb1cbfa83"
+  },
+  {
+   "block_id": "2.2-b13",
+   "block_type": "process",
+   "heading": "Making a temporary wet mount",
+   "text": "A temporary slide, or wet mount, lets you look at living or freshly prepared cells. The steps are in this order. Place a drop of water on a clean slide; for animal cells a drop of dilute saline is gentler, because plain water can make animal cells swell. Take a thin piece of tissue: peel the inner epidermis from an onion scale with forceps, or, for cheek cells, gently scrape the inside of your cheek with a clean cotton bud. Lay the specimen flat in the drop. Add a drop of stain, such as iodine solution for onion or methylene blue for cheek cells. Lower a coverslip onto it at an angle, supported by a mounted needle, and blot any excess liquid from the edge with filter paper.\n\nEach step has a reason. The specimen is thin, ideally one cell thick, so that light passes through and cells do not overlap. The stain gives contrast, because most cells are almost colourless. The coverslip is lowered at an angle so that air bubbles are not trapped; it also holds the specimen flat and keeps it moist, and dry cells shrivel and distort. Cheek cells are your own, so used slides and cotton buds go into disinfectant and slides are not shared. The marks for handling the specimen are earned at the bench; these notes help you plan and explain the procedure.",
+   "claim_ids": [
+    "CLM-8223-2.2-016",
+    "CLM-8223-2.2-017"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.2-016": 1,
+    "CLM-8223-2.2-017": 1
+   },
+   "authored_hash": "e79305b95281a9cc31c3f495a1c4bdb9a9d0d26432a45fd8eb27af5a73a470f6"
+  },
+  {
+   "block_id": "2.2-b14",
+   "block_type": "process",
+   "heading": "Observing and drawing cells under the light microscope",
+   "text": "Find the specimen under low power first, then move to high power and sharpen the image with the fine focus. Draw under high power, because cells are too small to show detail at low power.\n\nA drawing of cells shows the outlines of a few cells and the structures you can see, not every cell in the field. Use a sharp pencil and clear lines with no shading. Make the drawing large, rule the label lines to the side, give it a title, and write the magnification beside it. In a stained onion epidermis you can see the cell wall, the cytoplasm and the nucleus, and sometimes a large vacuole; in a leaf section the palisade cells show chloroplasts. You cannot see ribosomes, the membranes inside organelles or the double membrane of the nuclear envelope. They are smaller than the resolution of the light microscope, and an electron microscope is needed to show them.",
+   "claim_ids": [
+    "CLM-8223-2.2-018",
+    "CLM-8223-2.2-019"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.2-018": 1,
+    "CLM-8223-2.2-019": 1
+   },
+   "authored_hash": "964ce41239bdaf445c6fdfee5042fb39f22a83bd93a09ee83ac81eba7cdccb01"
+  },
+  {
+   "block_id": "2.2-b15",
+   "block_type": "worked_application",
+   "heading": "Worked example: the magnification of a drawing",
+   "text": "A learner draws one onion cell. The drawing is 36 mm long. Using a graticule and stage micrometer, the learner finds that the cell is 0.12 mm long. Magnification is the size of the image divided by the actual size of the object, with both lengths in the same unit.\n\nmagnification = image size ÷ actual size\nmagnification = 36 mm ÷ 0.12 mm = 300\n\nThe magnification is ×300. Magnification has no unit, because the two lengths cancel. The learner writes ×300 beside the drawing. If the lengths are given in different units, for example the image in mm and the object in μm, convert one of them first, since 1 mm is 1000 μm.",
+   "claim_ids": [
+    "CLM-8223-2.2-020"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.2-020": 1
+   },
+   "authored_hash": "7dda7ebe026eae7f4f2e49f2317704dbccc9709d43ce2edcf7121ed9428c1ecd"
+  },
+  {
+   "block_id": "2.2-b16",
+   "block_type": "plain_explanation",
+   "heading": "The prokaryotic cell: a typical bacterium",
+   "text": "A typical bacterium is a prokaryote and is unicellular. Its diameter is usually about 1 to 5 μm. It has a cell surface membrane, a cell wall made of peptidoglycan, and cytoplasm that contains 70S ribosomes. Its DNA is a single loop, lying free in a region of the cytoplasm called the nucleoid.\n\nThere is no nucleus, so the DNA is not enclosed by a nuclear envelope. The DNA is described as naked because it is not wound around histone proteins, and it is circular instead of forming long linear chromosomes. A bacterium has no double membrane-bound organelles: no mitochondria, chloroplasts, endoplasmic reticulum or Golgi body. The reactions that these organelles carry out in a eukaryotic cell take place in the cytoplasm or at the cell surface membrane.\n\nPeptidoglycan is a network of sugar chains cross-linked by short peptides. It is chemically different from cellulose, but like cellulose it gives strength, gives the cell its shape, and stops the cell bursting when water enters. Some bacteria also carry small circular DNA molecules called plasmids and a flagellum for movement, but these are not present in every bacterium.",
+   "claim_ids": [
+    "CLM-8223-2.2-021",
+    "CLM-8223-2.2-022",
+    "CLM-8223-2.2-023"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.2-021": 1,
+    "CLM-8223-2.2-022": 1,
+    "CLM-8223-2.2-023": 1
+   },
+   "authored_hash": "17786006fba4ac8ba8ef0d443421d26ec903997fdf69b26fb3bc48b9c7d29362"
+  },
+  {
+   "block_id": "2.2-b17",
+   "block_type": "plain_explanation",
+   "heading": "Comparing prokaryotic and eukaryotic cells",
+   "text": "Both kinds of cell have a cell surface membrane, cytoplasm, ribosomes and DNA. The differences are about how these are organised.\n\nA eukaryotic cell has its DNA inside a nucleus enclosed by a nuclear envelope; a prokaryotic cell has its DNA free in the cytoplasm. Eukaryotic DNA is linear and associated with histones; prokaryotic DNA is circular and naked. A eukaryotic cell has many membrane-bound organelles; a prokaryotic cell has none. The ribosomes in the cytoplasm of a eukaryotic cell are 80S; in a prokaryotic cell they are 70S. A plant cell wall is cellulose, a bacterial wall is peptidoglycan, and an animal cell has no wall. Prokaryotic cells are small, typically 1 to 5 μm across, whereas many eukaryotic cells are around 10 to 100 μm, so a typical bacterium is several times narrower than a typical eukaryotic cell.\n\nAn answer that compares must state both sides of each difference. 'Has no nucleus' is half a comparison; 'has no nucleus whereas the eukaryotic cell has one' is a whole one.",
+   "claim_ids": [
+    "CLM-8223-2.2-024"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.2-024": 1
+   },
+   "authored_hash": "c817771f772e9ef2bbdad39169860a2ef1406ae3feb329d3dfa9d676948ae7d9"
+  },
+  {
+   "block_id": "2.2-b18",
+   "block_type": "plain_explanation",
+   "heading": "ATP: where it is made and what it does",
+   "text": "ATP (adenosine triphosphate) is the cell's immediate source of energy. It is made in mitochondria, using energy released in aerobic respiration, and in chloroplasts, using energy from light in the light-dependent stage of photosynthesis. ATP made in a chloroplast is mainly used inside the chloroplast to build sugars. ATP is also made in the cytoplasm in the first stage of respiration, glycolysis, but the syllabus asks for the two organelles.\n\nA cell cannot store energy in large amounts as ATP. Instead it recycles a small store. When the terminal phosphate group of ATP is removed by hydrolysis, ATP becomes ADP and phosphate and releases a small amount of energy that the cell can use directly. That energy drives processes such as active transport, protein synthesis, muscle contraction and cell division. ADP and phosphate are then joined together again, using energy from respiration or light, to remake ATP.",
+   "claim_ids": [
+    "CLM-8223-2.2-027",
+    "CLM-8223-2.2-028"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.2-027": 1,
+    "CLM-8223-2.2-028": 1
+   },
+   "authored_hash": "dbb6a8a63563b5587c69cd83afb54915721aaa329158078b7d6c9456755973d2"
+  },
+  {
+   "block_id": "2.2-b19",
+   "block_type": "plain_explanation",
+   "heading": "Viruses are non-cellular",
+   "text": "A virus is not a cell. It is non-cellular, which means it has no cell surface membrane, no cytoplasm and no ribosomes. At the centre is a core of nucleic acid, which is either DNA or RNA depending on the virus. The core is surrounded by a protein coat called the capsid.\n\nSome viruses have a further layer outside the capsid, an envelope made of phospholipid. The envelope is taken from the cell membrane of the host cell in which the virus was made. A virus without an envelope is described as naked. A virus has no metabolism of its own and depends on a living host cell to reproduce, which is why it is non-cellular rather than a very small cell.",
+   "claim_ids": [
+    "CLM-8223-2.2-029",
+    "CLM-8223-2.2-030"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.2-029": 1,
+    "CLM-8223-2.2-030": 1
+   },
+   "authored_hash": "1ec2660d952764657e4359919b629e0063b90dee85574117971192970a0681ac"
+  },
+  {
+   "block_id": "2.2-b20",
+   "block_type": "misconception",
+   "heading": "Common errors in cell structure",
+   "text": "Organelles, cells and organisms are different levels. Microvilli are folds of the cell surface membrane, and villi are folds of the gut lining made of many cells; neither is a cell. Use the test: is it a structure inside a cell, a whole cell, or a whole organism?\n\nMicrovilli are not cilia. Microvilli are short, do not beat and give surface area for absorption; cilia are longer and beat to move material.\n\nThe Golgi body and the endoplasmic reticulum are not the same. Rough ER is a continuous network of flattened sacs studded with ribosomes; the Golgi body is a stack of flattened sacs that pinches off vesicles. In the route of a secreted protein the Golgi body comes after the ribosomes on the RER, not before them, because it modifies a protein that has already been made.\n\n70S ribosomes are not found in the cytoplasm of a eukaryotic cell. The cytoplasm of a eukaryotic cell has 80S ribosomes; 70S ribosomes belong to prokaryotes and to the mitochondria and chloroplasts of eukaryotes.\n\nAn animal cell and a bacterium are not the two cell types. The two types are eukaryotic and prokaryotic, told apart by whether the cell has a nucleus and membrane-bound organelles.",
+   "claim_ids": [
+    "CLM-8223-2.2-025",
+    "CLM-8223-2.2-026",
+    "CLM-8223-2.2-006",
+    "CLM-8223-2.2-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.2-025": 1,
+    "CLM-8223-2.2-026": 1,
+    "CLM-8223-2.2-006": 1,
+    "CLM-8223-2.2-007": 1
+   },
+   "authored_hash": "8322831002198691db5206e23608adeed940b307e4ed1faa3811d92559efdc70"
+  },
+  {
+   "block_id": "2.2-b21",
+   "block_type": "worked_application",
+   "heading": "Worked example: reading a description of a micrograph",
+   "text": "A learner is told that an electron micrograph of a cell from the lining of a goat's small intestine shows a large nucleus with a double envelope, many mitochondria with folded inner membranes, finger-like folds on the surface facing the gut, and dark dots lining a membrane network.\n\nThe double envelope marks the nucleus. The folded inner membranes mark mitochondria, so the cell has a high demand for ATP, which fits active transport in absorption. The finger-like folds on the surface are microvilli, which provide surface area for absorption. They are not cilia, because cilia would be longer and would beat to move material. The dark dots on the membrane network are 80S ribosomes on rough ER, so the cell makes proteins, for example digestive enzymes in its membrane. The cell shows no cell wall, no chloroplasts and no large permanent vacuole, so it is an animal cell, and it is a eukaryotic cell because it has a nucleus and membrane-bound organelles.",
+   "claim_ids": [
+    "CLM-8223-2.2-010",
+    "CLM-8223-2.2-005",
+    "CLM-8223-2.2-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.2-010": 1,
+    "CLM-8223-2.2-005": 1,
+    "CLM-8223-2.2-007": 1
+   },
+   "authored_hash": "5a5222a4222f8e86160ae830fecbd910acfdddfff725875c51127cd536703b36"
+  },
+  {
+   "block_id": "2.2-b22",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "The structure of the cell surface membrane, and why it is called partially permeable, is taught in topic 2.3.1, and the movement of substances across it, including osmosis and active transport, in topic 2.3.2. Magnification and resolution of the light microscope are developed in topic 2.1, and drawing and measuring specimens in topic 4.2; the calculation of magnification is practised in topic 5.3. The synthesis of a protein at a ribosome is explained in topic 3.2.2, and the spindle that centrioles organise in topic 3.1.2. Viruses and bacteria as agents of disease are taught in topic 2.8.1 and the action of antibiotics on bacterial walls in topic 2.8.2.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "49fa14c280985c0f44b8994358701b510b0865e71bedb94d6ad32bc7dc5b55e9"
+  }
+ ],
+ "word_count": 3519,
+ "qa_status": "review_required",
+ "notes": []
+}

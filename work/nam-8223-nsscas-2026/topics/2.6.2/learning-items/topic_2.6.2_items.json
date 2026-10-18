@@ -1,0 +1,1233 @@
+{
+ "dataset_id": "ITEMS-8223-2.6.2",
+ "topic_id": "2.6.2",
+ "items": [
+  {
+   "item_id": "ITEM-8223-2.6.2-001-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-001",
+    "CLM-8223-2.6.2-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by transpiration.",
+   "canonical_answer": "Transpiration is the loss of water vapour from a plant to the atmosphere, mainly through the stomata of its leaves, after water has evaporated from the wet cell walls inside the leaf.",
+   "marking_guidance": [
+    "1 mark. The key words that carry the mark: loss of water vapour, from a plant (or its leaves), to the atmosphere.",
+    "The definition means water vapour leaving, so a statement of 'water loss' with no mention of vapour, or of the evaporation and diffusion steps, is too vague."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-001": 1,
+    "CLM-8223-2.6.2-002": 1
+   },
+   "authored_hash": "f572211a063f3bb3079223c781d1988ecd1a494aafef798df39170417577ff5d"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-002-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-002",
+    "CLM-8223-2.6.2-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Explain how water leaves a leaf during transpiration, from the cells inside the leaf to the air outside.",
+   "canonical_answer": "Liquid water evaporates from the wet cell walls of the mesophyll cells into the air spaces of the leaf, so the air spaces become humid. The water vapour then diffuses out through the open stomata, down a concentration gradient from the humid air spaces to the drier air outside.",
+   "marking_guidance": [
+    "2 marks: evaporation from the wet walls of the mesophyll cells into the air spaces (1); diffusion of the vapour out through the stomata down a concentration gradient (1).",
+    "The two steps must be kept apart and in order: the answer explains how the liquid becomes vapour and then how it leaves. Diffusion of liquid water, or evaporation from the stomata themselves, earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-002": 1,
+    "CLM-8223-2.6.2-003": 1
+   },
+   "authored_hash": "9a986e918ea11400e2d8e018f2f4267a6b2dbdd8b0190f21bfd571da82dadfe4"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-025-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A leaf is in a chamber at 25 °C where the humidity of the outside air stays the same all day. These are our readings of the rate of water loss from the leaf.\n\n| Time | State of the stomata | Rate of water loss (mg per minute) |\n|---|---|---|\n| 09:00 | open | 6.0 |\n| 13:00 | mostly closed | 0.6 |\n\nDescribe what the table shows about how water vapour leaves the leaf.",
+   "canonical_answer": "The rate of water loss is ten times greater at 09:00, when the stomata are open (6.0 mg per minute), than at 13:00, when they are mostly closed (0.6 mg per minute), because 6.0 ÷ 0.6 = 10. The outside air is the same at both times, so the stomata must be the route by which most water vapour leaves: open stomata allow it to diffuse out down its gradient.",
+   "marking_guidance": [
+    "2 marks: the values compared, with the rate much higher when the stomata are open (6.0 against 0.6 mg per minute) (1); the reading of the data that means the stomata are the main route for water vapour, because the outside air did not change (1).",
+    "Both points use the table. A statement about the stomata with no figure from the table, or a conclusion that ignores the unchanged outside air, earns one mark at most."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-003": 1
+   },
+   "authored_hash": "89d4c4c15b9bb1e806921810b2df223a362085235754328c68486f0ce4ba1d59"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-003-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by water potential.",
+   "canonical_answer": "Water potential is a measure of the tendency of water molecules to move from one place to another; pure water has the highest water potential, 0 kPa, and a solution has a lower (more negative) water potential.",
+   "marking_guidance": [
+    "1 mark. The key words that carry the mark: the tendency of water molecules to move (from one region to another).",
+    "This statement means a tendency to move, not an amount of water. A reference to pure water as the highest value, 0 kPa, is a creditworthy extra but the tariff is 1."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-004": 1
+   },
+   "authored_hash": "f1eee50f181056f8de92b38703ea50dcec9d4b74e171a5716a564d5321b89d9b"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-004-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "Water moves from moist soil through a root and a leaf to the air outside along a gradient of water potential. State which of the soil water, the root xylem, the leaf mesophyll cells and the air outside a leaf in dry weather has the lowest water potential.",
+   "canonical_answer": "The air outside the leaf in dry weather.",
+   "marking_guidance": [
+    "1 mark: the air outside the leaf (the atmosphere). The feature of the gradient is that the water potential becomes lower, more negative, along the route and is lowest in dry air, so water is drawn towards it.",
+    "Reject the soil, which has the highest water potential of the four. One point is asked for, so a list of several parts earns the mark only if the air outside is clearly the one named as lowest."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-006": 1
+   },
+   "authored_hash": "42b857add7137a20c5ac35092f65b697e52948d2275182f1ebc160d8defe0bc9"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-023-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-005",
+    "CLM-8223-2.6.2-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner draws an arrow to show water moving from a root xylem vessel, water potential −600 kPa, into a neighbouring cortex cell, water potential −300 kPa, and says water moves towards the cell with 'more water'. Explain the error.",
+   "canonical_answer": "The error is the direction of the arrow. In fact water moves by osmosis from a higher (less negative) water potential to a lower (more negative) one, so the net movement is from the cortex cell at −300 kPa into the xylem at −600 kPa, not the other way. The test is to ask from which region to which region the water moves: compare the two values and the water goes towards the more negative one.",
+   "marking_guidance": [
+    "2 marks: the error named, the arrow drawn in the wrong direction, from lower to higher water potential (1); the correct idea, that water moves from the cortex cell at −300 kPa to the xylem at −600 kPa, from higher to lower water potential, or the test that separates the two directions (1).",
+    "The card is a discrimination between the two directions, not a repeat of the definition of osmosis. A statement that 'more water' means higher water potential is not enough without the direction."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-005": 1,
+    "CLM-8223-2.6.2-006": 1
+   },
+   "authored_hash": "61094bd83324df45ee471cead2c43ad7d33d95f5376f9d0c4d0de22dcfe78847"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-026-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "These are our values of water potential along the pathway of water through a plant growing in moist soil.\n\n| Position | Water potential (kPa) |\n|---|---|\n| Soil water | −50 |\n| Root hair cell | −200 |\n| Root xylem | −600 |\n| Leaf mesophyll cell | −900 |\n| Air outside the leaf | −9000 |\n\nDescribe what the values show about the movement of water from the soil to the air.",
+   "canonical_answer": "The water potential becomes more negative at each position along the route, from −50 kPa in the soil to −9000 kPa in the air outside the leaf, so there is a water potential gradient all the way along. This means water moves down the gradient, from higher to lower water potential, from the soil into the root hair cell, up through the xylem and mesophyll and out to the air.",
+   "marking_guidance": [
+    "2 marks: the trend read from the table, the values becoming more negative from −50 to −9000 kPa (1); the reading that water moves down this gradient, from higher to lower water potential, from soil towards the air (1).",
+    "The values give the direction when the comparison is made, which means reading the trend: naming the highest and lowest values without the direction of movement earns one mark at most."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-006": 1
+   },
+   "authored_hash": "e15f370237ddfe7dcb7fa6f637f3db8876b10bbc62bdc7fdb7ea41db13f5d8e8"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-005-PROC",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "prompt": "Describe how a potometer is set up and used to estimate the rate of transpiration of a leafy shoot in a classroom.",
+   "canonical_answer": "First, the shoot is cut under water and fitted into the potometer under water, with airtight joints and dry leaves, so that no air enters the xylem. Then an air bubble is introduced into the capillary tube and its starting position is marked. Next, the distance the bubble moves in a measured time, such as 5 minutes, is recorded. The rate of water uptake, an estimate of the rate of transpiration, is the distance divided by the time, in mm per minute, and is more reliable as a mean of repeats.",
+   "marking_guidance": [
+    "3 marks from five points, in order: shoot cut and fitted under water with airtight joints, so no air enters; air bubble introduced and start position marked; distance moved in a measured time recorded; rate found as distance divided by time (result in mm per minute); repeats and a mean.",
+    "The sequence is the point: first the setting up, then the bubble, then the reading, and the result as a rate. Cap: 3 marks. A description that omits the order, or that names the potometer without the steps, earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-008": 1
+   },
+   "authored_hash": "d7cd819691fd85566ffaba65b042b3ac6ca1d8b802c5940a5c3b7b0f0c0ef202"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-006-WHY",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-008",
+    "CLM-8223-2.6.2-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "The water in the xylem of a transpiring shoot is under tension. Explain why the stem is cut under water and fitted to the potometer under water.",
+   "canonical_answer": "The reason is that air entering the cut end of the xylem can form a bubble, which breaks the continuous column of water held together by cohesion, so water can no longer be pulled up the shoot. Then the movement of the bubble in the capillary tube would not give a true reading of water uptake, because the xylem is blocked.",
+   "marking_guidance": [
+    "2 marks: the reason, air would enter the xylem and break the water column (1); because of this, uptake would stop or be blocked, so the reading would not be a true measure of uptake (1).",
+    "The explanation must give a reason in terms of the water column; 'to keep it fresh' or 'to stop it drying out' earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-008": 1,
+    "CLM-8223-2.6.2-013": 1
+   },
+   "authored_hash": "9b9cf8a7490c3531850964475829e5d75207b7411aaf9c417139ec81f3d99cec"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-007-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by cohesion of water molecules.",
+   "canonical_answer": "Cohesion is the attraction between water molecules, caused by hydrogen bonds.",
+   "marking_guidance": [
+    "1 mark. The key words that carry the mark: attraction between water molecules, hydrogen bonds (either is enough with the other implied).",
+    "The term means attraction between water molecules themselves; attraction between water and another surface is adhesion and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-012": 1
+   },
+   "authored_hash": "f59bbfc10d65ce64fd176a3cfc52846ad8daaa5d5a57e6237a9af4560be3518d"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-008-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-012",
+    "CLM-8223-2.6.2-013",
+    "CLM-8223-2.6.2-014"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Explain how cohesion allows evaporation from the leaves of a tall tree to raise water through its xylem.",
+   "canonical_answer": "Evaporation from the mesophyll cell walls lowers their water potential, so water is pulled out of the top of the xylem. Because water molecules are held together by hydrogen bonds, cohesion, the pull is passed down a continuous column of water in the xylem, so water is drawn up from the roots.",
+   "marking_guidance": [
+    "2 marks: evaporation from the leaf cell walls pulls water out of the xylem, creating tension (1); cohesion between water molecules, by hydrogen bonds, means the pull is passed down an unbroken column so water rises from the roots (1).",
+    "A further creditworthy point is adhesion to cellulose walls helping to hold the column up, but the tariff is 2 and the cap is 2 marks. The explanation must say how the pull is transmitted, because of cohesion."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-012": 1,
+    "CLM-8223-2.6.2-013": 1,
+    "CLM-8223-2.6.2-014": 1
+   },
+   "authored_hash": "677e056ed7ee8ae85a6dd32104e1b6c79cbaa30e4a2a4db2a6d2c324002caf60"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-009-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-015"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State what is meant by the apoplastic pathway for water in a root.",
+   "canonical_answer": "The apoplastic pathway is the movement of water through the cell walls and the spaces between cells, without crossing a cell surface membrane.",
+   "marking_guidance": [
+    "1 mark. The key words that carry the mark: through the cell walls (and spaces between cells).",
+    "The term means the walls, not the cytoplasm. A description of movement through cytoplasm and plasmodesmata is the symplastic pathway and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-015": 1
+   },
+   "authored_hash": "dad7665bb4ada0f3225bd873f49925a073dc43b47fb8818fe932a5e4e4c755f3"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-010-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-017"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Explain how the Casparian strip changes the route taken by water as it crosses the endodermis of a root.",
+   "canonical_answer": "The Casparian strip is a band of waterproof suberin in the walls of the endodermal cells. It blocks the apoplastic pathway, so the water has to leave the cell walls and cross the cell surface membrane into the cytoplasm of the endodermal cells, which means it enters the xylem by the symplastic route.",
+   "marking_guidance": [
+    "2 marks: the strip is waterproof suberin in the endodermal walls and blocks the apoplastic pathway (1); the water is forced to cross the cell surface membrane into the cytoplasm, the symplastic route (1).",
+    "A further creditworthy point is that the membrane lets the plant control which mineral ions pass into the xylem; the tariff is 2 and the cap is 2 marks."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-017": 1
+   },
+   "authored_hash": "779b8cef6c4fde4d1b0fbe66d8733c20d36b20315ca98dd40da9b732c530c6d9"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-011-APP",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-015",
+    "CLM-8223-2.6.2-017"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A dye whose molecules cannot cross a cell surface membrane is added to the water around the roots of a seedling. After some time the dye is seen in the cell walls of the cortex but not in the xylem. Explain these observations.",
+   "canonical_answer": "The dye moved through the cell walls of the cortex, the apoplastic pathway, which water uses and which needs no membrane to be crossed. At the endodermis the Casparian strip blocks the apoplast, and because the dye cannot cross the cell surface membrane it cannot enter the cytoplasm, so it cannot reach the xylem.",
+   "marking_guidance": [
+    "2 marks, applied to this situation: the dye is in the cortex because it moves in the cell walls, the apoplastic pathway (1); it does not reach the xylem because the Casparian strip blocks the apoplast and the dye cannot cross the membrane given in the information (1).",
+    "The answer must use the dye described here; a general account of the Casparian strip with no link to the dye earns one mark at most."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-015": 1,
+    "CLM-8223-2.6.2-017": 1
+   },
+   "authored_hash": "3698a74bee533db066d78dd3ba9a50623c0c3bfdb65257e58e14e19016a5dcc9"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-019-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-015",
+    "CLM-8223-2.6.2-016"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "A learner writes that the apoplast is the cytoplasm of root cells joined by plasmodesmata, and that the symplast is the cell walls. Explain the error.",
+   "canonical_answer": "The error is that the two terms have been swapped. In fact the apoplast is the cell walls and the spaces between cells, and the symplast is the cytoplasm of cells joined by plasmodesmata. The test is to ask which pathway runs through the cell walls, which is the apoplast, and which through the cytoplasm, which is the symplast.",
+   "marking_guidance": [
+    "2 marks: the error named, the apoplast and symplast the wrong way round (1); the correct idea, the apoplast is the walls and the symplast is the cytoplasm through plasmodesmata, or the test that separates them (1).",
+    "The card is a discrimination, and the two pathways are not the same: a bare definition of one term, with no statement that the learner has them swapped, earns one mark at most."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-015": 1,
+    "CLM-8223-2.6.2-016": 1
+   },
+   "authored_hash": "f18166a31f5e4b09dead57d72a8ec5d87bcbd386b96e1dae0fb1a576ca98bde4"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-024-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-015",
+    "CLM-8223-2.6.2-016",
+    "CLM-8223-2.6.2-017"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "Two tracers are added to the water around a root. Tracer X cannot cross a cell surface membrane; tracer Y can. These are our results after one hour.\n\n| Position | Tracer X | Tracer Y |\n|---|---|---|\n| Cell walls of the cortex | present | present |\n| Cytoplasm of cortex cells | absent | present |\n| Walls of the endodermis, outside the Casparian strip | present | present |\n| Walls beyond the Casparian strip | absent | present |\n| Xylem | absent | present |\n\nDescribe what the table shows about the routes taken by the two tracers.",
+   "canonical_answer": "Tracer X is found only in cell walls up to the Casparian strip and is absent from the cytoplasm and the xylem, so it moves in the apoplast and is stopped at the strip. Tracer Y is found in the cytoplasm as well as the walls and reaches the xylem, which means it can cross the cell surface membrane into the symplast and pass the strip by that route.",
+   "marking_guidance": [
+    "2 marks: tracer X in walls but not cytoplasm or xylem, so it follows the apoplast and is stopped at the Casparian strip (1); tracer Y in the cytoplasm and in the xylem, so it crosses a membrane and follows the symplast past the strip (1).",
+    "Each point is read from the table and shows a route; reading the columns without naming the route earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-015": 1,
+    "CLM-8223-2.6.2-016": 1,
+    "CLM-8223-2.6.2-017": 1
+   },
+   "authored_hash": "22bcdc6d48be6fb86975b0cdd10c0c0b69b38e615cbed683ae8a3d6eab210e84"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-012-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-020"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "A transverse section of a leaf from a desert plant has a thick layer of wax outside the upper epidermis. The stomata, on the lower surface only, lie at the bottom of pits lined with hairs. State one feature of this section that reduces water loss by transpiration.",
+   "canonical_answer": "Any one: the thick waxy cuticle, the stomata sunk in pits, or the hairs.",
+   "marking_guidance": [
+    "1 mark for any one feature named: a thick waxy cuticle, sunken stomata in pits, or hairs on the epidermis.",
+    "The feature must come from the section described; a feature not in the description, such as rolled leaves, earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-020": 1
+   },
+   "authored_hash": "35ec258524b4c94015279ebd3599060dbc864ba2ba0fe7fd572f418807571c07"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-013-APP",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-020"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A transverse section of a leaf from a desert grass shows the leaf rolled into a tube. The lower epidermis, which carries the stomata, is on the inside of the tube, and hairs line the inside surface. Explain how this arrangement reduces water loss.",
+   "canonical_answer": "The rolled leaf encloses the stomata in a space where water vapour builds up, so the air there is humid and the water vapour concentration gradient between the air spaces and the outside is lower. The hairs trap humid air and reduce air movement, which also keeps the gradient low, so less water vapour diffuses out.",
+   "marking_guidance": [
+    "2 marks, applied to this section: the rolled leaf encloses the stomata in humid air, because vapour builds up in the tube (1); the hairs trap humid air and cut air movement, so the gradient is lower and less vapour diffuses out (1).",
+    "The answer is about this leaf, with its rolling and hairs; 'it has a waxy cuticle' is not in the description and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-020": 1
+   },
+   "authored_hash": "0e8325d3cf962a1bce64d39ad98f0a8a62f06fe797c86a179f223315d4bffc7f"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-020-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-020",
+    "CLM-8223-2.6.2-021"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner says that many layers of epidermis is a feature that every xerophyte has. Explain the error.",
+   "canonical_answer": "The error is that one feature is treated as shared by every xerophyte. In fact xerophytes show different combinations of adaptations, such as a thick cuticle, hairs, sunken stomata and rolled leaves, and some have extra layers of epidermis while others do not. The test is to ask whether all xerophytes share the same set of adaptations; the answer is no, so each feature has to be read from the plant in question.",
+   "marking_guidance": [
+    "2 marks: the error named, a single feature taken to be present in every xerophyte (1); the correct idea, that xerophytes have different combinations of adaptations, with an example such as a thick cuticle or hairs, or the test that separates the two (1).",
+    "The card is a discrimination, not a list of xerophyte features: a list with no statement of the error earns one mark at most."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-020": 1,
+    "CLM-8223-2.6.2-021": 1
+   },
+   "authored_hash": "ba142389c2bbac8fb7acfdb39d5dfe9184d68c7a32ddd00b067073ee6ef93916"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-014-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-023",
+    "CLM-8223-2.6.2-024"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State how assimilates such as sucrose and amino acids move from a source to a sink in a plant.",
+   "canonical_answer": "They move in the sieve tubes of the phloem, from the source, where they are loaded, to the sink, where they are removed; this transport is translocation.",
+   "marking_guidance": [
+    "1 mark. The key words that carry the mark: in the phloem (sieve tubes), from source to sink.",
+    "The statement means movement in the phloem; xylem, diffusion alone or active transport alone earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-023": 1,
+    "CLM-8223-2.6.2-024": 1
+   },
+   "authored_hash": "ee3b0a0a538304fb8014d6202952b3030dd097501c0ea5cefb5afea8cd81465b"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-021-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-023"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner writes that sucrose moves from the leaves to the roots by translation. Explain the error.",
+   "canonical_answer": "The error is a confusion of two words. Translation is the making of a polypeptide at a ribosome, in fact, and the transport of sucrose and other assimilates in the phloem is translocation. The test is to ask which word names sucrose transport in phloem: translocation is the movement of assimilates, translation is protein synthesis.",
+   "marking_guidance": [
+    "2 marks: the error named, translation used for the transport of sucrose (1); the correct idea, that the movement of assimilates in the phloem is translocation and translation is making a polypeptide at a ribosome, or the test (1).",
+    "The two words are not the same; a card that gives only the definition of translocation, with no reference to the confusion, earns one mark at most."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-023": 1
+   },
+   "authored_hash": "8b1f154d851cf2ae927c21e17dda55dcffbeac6f6b1f3ef17401afd9e2961f7b"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-015-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-027"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by a co-transporter protein in the cell surface membrane of a companion cell.",
+   "canonical_answer": "A co-transporter is a carrier protein in the membrane that moves two different substances together in the same direction: here hydrogen ions move in down their concentration gradient and carry sucrose with them.",
+   "marking_guidance": [
+    "1 mark. The key words that carry the mark: a protein that moves two substances together (hydrogen ions and sucrose) in the same direction.",
+    "The term means two substances moved together; a pump that uses ATP is a different protein, and a statement that the hydrogen ions bond to sucrose earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-027": 1
+   },
+   "authored_hash": "426f9c80214aa20d3fae7cc227eb06af43a0944dae9c9986a5754abc549e7549"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-016-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-026",
+    "CLM-8223-2.6.2-027",
+    "CLM-8223-2.6.2-028"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Explain how sucrose is moved into a companion cell against its concentration gradient.",
+   "canonical_answer": "Proton pumps in the cell surface membrane use ATP to pump hydrogen ions out of the companion cell, so the hydrogen ion concentration is higher outside. The hydrogen ions then move back in down their concentration gradient through a co-transporter protein, which brings sucrose into the cell with them.",
+   "marking_guidance": [
+    "2 marks: hydrogen ions pumped out by active transport using ATP, which creates a concentration gradient (1); the ions return through a co-transporter protein, which brings sucrose in with them (1).",
+    "A further creditworthy point is that sucrose then passes into the sieve tube through plasmodesmata; the tariff is 2 and the cap is 2 marks. The direction of the hydrogen ions is the point that decides each mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-026": 1,
+    "CLM-8223-2.6.2-027": 1,
+    "CLM-8223-2.6.2-028": 1
+   },
+   "authored_hash": "f6fc701dd6d0a2ab459b1adc9183d3ce81d47206e6756fba67610003340f8f49"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-022-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-027"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner says that hydrogen ions bond with sucrose and carry it across the membrane of the companion cell. Explain the error.",
+   "canonical_answer": "The error is that the hydrogen ions are said to bond with sucrose. In fact the ions are first pumped out of the companion cell, and then move back in down their concentration gradient through a co-transporter protein, which carries sucrose in with them. The test is to ask which direction the hydrogen ions move through the co-transporter, and what comes with them: in, down the gradient, together with sucrose.",
+   "marking_guidance": [
+    "2 marks: the error named, bonding of hydrogen ions to sucrose (1); the correct idea, that ions return through the co-transporter protein down their gradient and bring sucrose with them, or the test (1).",
+    "The card is a discrimination, not a repeat of the loading sequence. The ions are not the same as a carrier molecule bound to sucrose."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-027": 1
+   },
+   "authored_hash": "275653e52861c97d1f843e4b1e9c77f824e467ca6052c5d9a5b6e1ca2fc7770b"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-017-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-09"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-030"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by mass flow in the phloem.",
+   "canonical_answer": "Mass flow is the bulk movement of phloem sap, the water and its dissolved assimilates together, from a region of higher hydrostatic pressure to a region of lower hydrostatic pressure.",
+   "marking_guidance": [
+    "1 mark. The key words that carry the mark: bulk movement of the sap (water and dissolved assimilates) together, down a pressure gradient.",
+    "The term means a whole liquid moving together; movement of individual molecules by diffusion is not mass flow."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-030": 1
+   },
+   "authored_hash": "6e8f3989da5f94a61232ed0f660f2ef2dab66132dda9f3d3d4f4931af1a4e9d6"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-018-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-09"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-029",
+    "CLM-8223-2.6.2-030"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Explain how a hydrostatic pressure gradient forms in a sieve tube between a source and a sink.",
+   "canonical_answer": "At the source, loading sucrose lowers the water potential in the sieve tube, so water enters by osmosis and the hydrostatic pressure rises. At the sink, sucrose is removed, so the water potential rises, water leaves and the pressure falls. This leaves a high pressure at the source and a lower one at the sink.",
+   "marking_guidance": [
+    "2 marks from four points: loading lowers the water potential and water enters by osmosis; the pressure at the source rises; removal of sucrose at the sink raises the water potential and water leaves; the pressure at the sink falls.",
+    "Both ends are needed, because the gradient is the difference between them. Cap: 2 marks. The answer explains how each pressure is caused."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-029": 1,
+    "CLM-8223-2.6.2-030": 1
+   },
+   "authored_hash": "574836640bcf6102ccf837e9913010a4be09b90bf94a2bf0ac961100d3a2e3f5"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-P01",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-01",
+    "OBJ-8223-2.6.2-02",
+    "OBJ-8223-2.6.2-03",
+    "OBJ-8223-2.6.2-04",
+    "OBJ-8223-2.6.2-05",
+    "OBJ-8223-2.6.2-06",
+    "OBJ-8223-2.6.2-07",
+    "OBJ-8223-2.6.2-08",
+    "OBJ-8223-2.6.2-09"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-001",
+    "CLM-8223-2.6.2-002",
+    "CLM-8223-2.6.2-003",
+    "CLM-8223-2.6.2-004",
+    "CLM-8223-2.6.2-005",
+    "CLM-8223-2.6.2-006",
+    "CLM-8223-2.6.2-007",
+    "CLM-8223-2.6.2-008",
+    "CLM-8223-2.6.2-009",
+    "CLM-8223-2.6.2-010",
+    "CLM-8223-2.6.2-011",
+    "CLM-8223-2.6.2-012",
+    "CLM-8223-2.6.2-013",
+    "CLM-8223-2.6.2-014",
+    "CLM-8223-2.6.2-015",
+    "CLM-8223-2.6.2-016",
+    "CLM-8223-2.6.2-017",
+    "CLM-8223-2.6.2-018",
+    "CLM-8223-2.6.2-019",
+    "CLM-8223-2.6.2-020",
+    "CLM-8223-2.6.2-021",
+    "CLM-8223-2.6.2-022",
+    "CLM-8223-2.6.2-023",
+    "CLM-8223-2.6.2-024",
+    "CLM-8223-2.6.2-025",
+    "CLM-8223-2.6.2-026",
+    "CLM-8223-2.6.2-027",
+    "CLM-8223-2.6.2-028",
+    "CLM-8223-2.6.2-029",
+    "CLM-8223-2.6.2-030",
+    "CLM-8223-2.6.2-031"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": null,
+   "mark_tariff": 12,
+   "difficulty": 3,
+   "prompt": "Twelve questions. Choose one option for each.\n\n1. Which term names the loss of water vapour from the leaves of a plant to the atmosphere?\nA  transpiration\nB  translocation\nC  translation\nD  osmosis\n\n2. Where does liquid water evaporate inside a leaf during transpiration?\nA  from the waxy cuticle\nB  from the wet walls of the mesophyll cells\nC  from the phloem sieve tubes\nD  from the root hairs\n\n3. Cell P has a water potential of −300 kPa and neighbouring cell Q has −500 kPa. Which statement describes the net movement of water between them?\nA  from Q to P, because Q has more water\nB  from Q to P, because Q has a higher water potential\nC  no net movement, because both values are negative\nD  from P to Q, down the water potential gradient\n\n4. Which statement describes the apoplastic pathway in a root?\nA  through the cytoplasm of cells joined by plasmodesmata\nB  through the vacuoles of successive cells\nC  through the cell walls and the spaces between cells\nD  through the xylem vessels\n\n5. What is the effect of the Casparian strip on the movement of water in a root?\nA  it lets the apoplastic pathway continue into the xylem\nB  it blocks the apoplastic pathway, so water crosses a cell surface membrane\nC  it blocks the symplastic pathway, so water stays in the walls\nD  it pumps water into the xylem using ATP\n\n6. The air bubble in a potometer capillary moves 24 mm in 6 minutes. What is the rate of movement of the bubble?\nA  0.25 mm per minute\nB  24 mm per minute\nC  144 mm per minute\nD  4 mm per minute\n\n7. Which change tends to increase the rate of transpiration of a leaf?\nA  an increase in the humidity of the air\nB  a decrease in the temperature\nC  an increase in wind speed\nD  a decrease in the light intensity\n\n8. Which term describes the attraction between water molecules and the cellulose in the walls of xylem vessels?\nA  adhesion\nB  cohesion\nC  translocation\nD  evaporation\n\n9. Hairs on the surface of a xerophyte leaf reduce water loss. How do they do this?\nA  they absorb water from the air into the leaf\nB  they reflect all light away from the leaf\nC  they close the stomata\nD  they trap humid air next to the surface, which lowers the water vapour gradient\n\n10. In spring a potato tuber releases sucrose to feed new shoots. How is the tuber described?\nA  a sink, because it stores starch\nB  a source, because it releases assimilates\nC  a sink, because it uses oxygen\nD  a source, because it makes sucrose by photosynthesis\n\n11. How do hydrogen ions move through the co-transporter protein in the membrane of a companion cell during loading?\nA  out of the cell, bonded to sucrose\nB  out of the cell, using ATP\nC  into the cell, down their concentration gradient, with sucrose\nD  into the cell, against their concentration gradient, using ATP\n\n12. In a sieve tube, where is the hydrostatic pressure highest, and why?\nA  at the source, because loading draws water in by osmosis\nB  at the sink, because water enters there\nC  at the sink, because sucrose collects there\nD  at the source, because water leaves there",
+   "canonical_answer": "Key: 1 A, 2 B, 3 D, 4 C, 5 B, 6 D, 7 C, 8 A, 9 D, 10 B, 11 C, 12 A.\n1. Transpiration is the loss of water vapour (A). B is the transport of assimilates in phloem; C is making a polypeptide at a ribosome; D is the net movement of water through a membrane, which is not the loss of vapour from the leaf.\n2. The wet mesophyll walls are the internal surface (B). A is the outer surface, which loses little; C holds assimilates, not the evaporating surface; D are in the root.\n3. Water moves from the higher to the lower water potential, from P to Q (D). A has the direction reversed and uses 'more water' as the reason; B wrongly takes −500 as higher; C treats a negative value as zero.\n4. The apoplast is the cell walls and spaces (C). A is the symplast; B is the vacuolar route; D is the vessels that carry water after the endodermis, not the pathway across the root.\n5. The waterproof strip blocks the walls and forces water into the cytoplasm (B). A reverses the effect; C swaps the apoplast and symplast; D gives the strip an active role it does not have.\n6. 24 ÷ 6 = 4 mm per minute (D). A divides the time by the distance; B gives the distance without the time; C multiplies instead of dividing.\n7. Moving air carries away the humid air beside the leaf and keeps the gradient steep (C). A lessens the gradient; B slows evaporation; D tends to close the stomata.\n8. Attraction between water and another surface is adhesion (A). B is the attraction between water molecules, the near-neighbour term; C is the movement of assimilates in phloem; D is the change from liquid to vapour.\n9. Hairs trap a layer of humid air and so lower the gradient (D). A gives them an absorbing role; B and C are not what hairs do.\n10. A storage organ releasing reserves is a source (B). A would describe a tuber while it is filling; C gives respiration as the reason, which does not define a sink; D is wrong because the tuber does not photosynthesise.\n11. The ions return down the gradient and bring sucrose with them (C). A is the bonding error from the misconception register; B describes the proton pump, not the co-transporter; D wrongly makes the return movement active.\n12. Loading at the source lowers water potential, water enters and the pressure rises (A). B and C put the high pressure at the sink, where removal of sucrose lets water leave; D reverses the movement of water.",
+   "marking_guidance": [
+    "The key: one mark per correct option, twelve marks in all; about half the questions test recall and half test application to a described measurement, pair of values or situation.",
+    "Each distractor is a named error: apoplast and symplast swapped, translocation and translation confused, cohesion and adhesion confused, water moving the wrong way down the water potential gradient, hydrogen ions bonded to sucrose (the misconception register first), and a rate found by the wrong operation."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-001": 1,
+    "CLM-8223-2.6.2-002": 1,
+    "CLM-8223-2.6.2-003": 1,
+    "CLM-8223-2.6.2-004": 1,
+    "CLM-8223-2.6.2-005": 1,
+    "CLM-8223-2.6.2-006": 1,
+    "CLM-8223-2.6.2-007": 1,
+    "CLM-8223-2.6.2-008": 1,
+    "CLM-8223-2.6.2-009": 1,
+    "CLM-8223-2.6.2-010": 1,
+    "CLM-8223-2.6.2-011": 1,
+    "CLM-8223-2.6.2-012": 1,
+    "CLM-8223-2.6.2-013": 1,
+    "CLM-8223-2.6.2-014": 1,
+    "CLM-8223-2.6.2-015": 1,
+    "CLM-8223-2.6.2-016": 1,
+    "CLM-8223-2.6.2-017": 1,
+    "CLM-8223-2.6.2-018": 1,
+    "CLM-8223-2.6.2-019": 1,
+    "CLM-8223-2.6.2-020": 1,
+    "CLM-8223-2.6.2-021": 1,
+    "CLM-8223-2.6.2-022": 1,
+    "CLM-8223-2.6.2-023": 1,
+    "CLM-8223-2.6.2-024": 1,
+    "CLM-8223-2.6.2-025": 1,
+    "CLM-8223-2.6.2-026": 1,
+    "CLM-8223-2.6.2-027": 1,
+    "CLM-8223-2.6.2-028": 1,
+    "CLM-8223-2.6.2-029": 1,
+    "CLM-8223-2.6.2-030": 1,
+    "CLM-8223-2.6.2-031": 1
+   },
+   "authored_hash": "0857f1deea4c82fbc2b00c98194cda3fb368d3f608ac9a097270ef9f0488fd73"
+  },
+  {
+   "item_id": "ITEM-8223-2.6.2-P02",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-03",
+    "OBJ-8223-2.6.2-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.6.2-008",
+    "CLM-8223-2.6.2-009",
+    "CLM-8223-2.6.2-012",
+    "CLM-8223-2.6.2-013"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "State",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "A class in Walvis Bay set up a potometer with a leafy shoot and recorded the distance moved by the air bubble in 5 minutes under three conditions. These are our readings.\n\n| Condition | Distance moved by the bubble in 5 minutes (mm) |\n|---|---|\n| A: still air, shade | 10 |\n| B: still air, bright light | 25 |\n| C: moving air from a fan, bright light | 40 |\n\n(a) State the rate of movement of the bubble in condition B, in mm per minute. [1]\n(b) Describe the effect of moving air on the movement of the bubble, using values from the table. [2]\n(c) Explain the effect of moving air on the rate of transpiration. [2]\n(d) Explain how cohesion allows water to be drawn up the stem as the leaves lose water. [2]\n(e) State one reason why the potometer gives only an estimate of the rate of transpiration. [1]",
+   "canonical_answer": "(a) 25 ÷ 5 = 5 mm per minute.\n(b) The bubble moves further in moving air: 40 mm in condition C compared with 25 mm in condition B, with the light the same, which is 15 mm more in 5 minutes (a rate of 8 mm per minute against 5 mm per minute).\n(c) Moving air carries away the humid air that builds up beside the leaf, so the water vapour concentration gradient between the air spaces and the outside stays steep, and water vapour diffuses out faster, so transpiration is faster.\n(d) Evaporation from the leaf cell walls pulls water out of the xylem, creating tension, and because water molecules are held together by hydrogen bonds, cohesion, the pull is passed down a continuous column of water, so water is drawn up the stem.\n(e) A little of the water taken up is used in photosynthesis or stays in the cells, so uptake is not exactly the same as water lost.",
+   "marking_guidance": [
+    "Marks and points: (a) 1 mark for 5 mm per minute, with the unit; (b) 2 marks from three points: the bubble moves further in moving air, with values from the table (40 mm against 25 mm), a comparison with the light kept the same; (c) 2 marks from three points: moving air removes humid air from beside the leaf, the water vapour gradient stays steeper, so vapour diffuses out faster; (d) 2 marks from three points: evaporation pulls water out of the xylem, hydrogen bonds between water molecules (cohesion), a continuous column so the pull is passed down; (e) 1 mark for one of: water used in photosynthesis, water stays in the cells, leaks in the apparatus.",
+    "Parts (a), (b) and (e) credit AO A (4 marks); parts (c) and (d) credit AO B (4 marks). Each reason must use the condition described, not a general statement, and a rate needs its unit because the unit is part of the answer."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.6.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.6.2-008": 1,
+    "CLM-8223-2.6.2-009": 1,
+    "CLM-8223-2.6.2-012": 1,
+    "CLM-8223-2.6.2-013": 1
+   },
+   "authored_hash": "14e34d20595d2876bef29f808c2f10d86dfce9c3b0fd40d337c9fde100681796"
+  }
+ ]
+}

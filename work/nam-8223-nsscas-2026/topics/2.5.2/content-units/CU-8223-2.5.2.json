@@ -1,0 +1,253 @@
+{
+ "unit_id": "CU-8223-2.5.2",
+ "title": "Factors that affect enzyme action",
+ "objective_ids": [
+  "OBJ-8223-2.5.2-01",
+  "OBJ-8223-2.5.2-02",
+  "OBJ-8223-2.5.2-03",
+  "OBJ-8223-2.5.2-04"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_explanation",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 1260,
+  "target": 1793,
+  "max": 1800
+ },
+ "blocks": [
+  {
+   "block_id": "2.5.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "How temperature, pH, enzyme concentration, substrate concentration and inhibitor concentration change the rate of an enzyme-catalysed reaction, how the maximum rate (Vmax) is used to find the Michaelis-Menten constant (Km), how competitive and non-competitive inhibitors differ, and what happens to an enzyme's activity when it is immobilised in alginate.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "24e8ff60058d2681e61a4933a0a946c32d17be58aa12367f8feb559e18ea535d"
+  },
+  {
+   "block_id": "2.5.2-b2",
+   "block_type": "plain_explanation",
+   "heading": "Temperature and the rate of reaction",
+   "text": "Temperature changes the rate of an enzyme-catalysed reaction in two opposing ways. Below the optimum temperature, a rise gives enzyme and substrate molecules more kinetic energy, so they move faster and collide more often, and a larger share of the collisions has enough energy to react. More enzyme-substrate complexes form each second, so the rate rises.\n\nAt the optimum temperature the rate is at its highest; the reaction does not stop. Well above the optimum, the molecule vibrates so strongly that the hydrogen bonds and ionic bonds holding its tertiary structure break. The active site loses its shape, the substrate no longer fits, and because the change is permanent the enzyme is denatured. The rate falls and reaches zero once the enzyme molecules have all been denatured. A modest rise that stays below the optimum does not denature an enzyme: for a human enzyme with an optimum near 37 °C, warming from 25 °C to 35 °C raises the rate.",
+   "claim_ids": [
+    "CLM-8223-2.5.2-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.5.2-001": 1
+   },
+   "authored_hash": "fe9c9f1240b76f9ef03350f570a7427667b7f1cf41b63bf3be24a12729a42310"
+  },
+  {
+   "block_id": "2.5.2-b3",
+   "block_type": "plain_explanation",
+   "heading": "pH, buffer solutions and the rate of reaction",
+   "text": "Each enzyme has an optimum pH, at which its active site has the shape and charge that bind its substrate best. The R groups of the amino acids in and around the active site carry charges that depend on the pH of the solution. A small shift away from the optimum changes those charges and weakens some ionic and hydrogen bonds, so the active site changes shape slightly and binds the substrate less well. The rate falls, and the change is reversible: returning the pH to the optimum restores the activity.\n\nFar from the optimum, in strongly acidic or strongly alkaline solution, so many bonds break that the tertiary structure is lost permanently. The enzyme is denatured and does not recover.\n\nA buffer solution resists changes in pH. In an investigation of pH, a buffer of each chosen pH is added to the reaction mixture so that the pH stays at the value being tested while the reaction runs.",
+   "claim_ids": [
+    "CLM-8223-2.5.2-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.5.2-002": 1
+   },
+   "authored_hash": "d01f78909b9fe2eb7ca433fc4de97009cac52ca31601487c54114394ec266468"
+  },
+  {
+   "block_id": "2.5.2-b4",
+   "block_type": "plain_explanation",
+   "heading": "Enzyme concentration and substrate concentration",
+   "text": "When there is excess substrate, each extra enzyme molecule provides another active site, so the rate is proportional to the enzyme concentration: doubling the enzyme concentration doubles the rate. If the substrate runs short, extra enzyme finds little substrate to bind and the rate levels off.\n\nAt a fixed enzyme concentration, a low substrate concentration leaves many active sites empty, so a rise in substrate concentration brings a steep rise in rate. As more active sites are occupied at any moment the curve flattens. When all the active sites are occupied the enzyme is saturated and the rate reaches its maximum. A further rise in substrate concentration then makes no difference, because the number of active sites, and so the enzyme concentration, now limits the rate.\n\nThe amount of substrate also fixes how much product can form in total. A change in temperature or enzyme concentration changes how quickly the product forms but not the total, provided the reaction is left to finish and the temperature is not so far above the optimum that the enzyme is denatured before it does.",
+   "claim_ids": [
+    "CLM-8223-2.5.2-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.5.2-003": 1
+   },
+   "authored_hash": "c22b1cf59eb10ed37d3e3fd1296f4d5e4fb74652b25bd9b89ba71e9de1455e20"
+  },
+  {
+   "block_id": "2.5.2-b5",
+   "block_type": "process",
+   "heading": "Inhibitor concentration and investigating a factor",
+   "text": "An inhibitor is a substance that lowers the rate of an enzyme-catalysed reaction. At a fixed substrate concentration, a rise in inhibitor concentration affects more enzyme molecules at any moment, so the rate falls further. How far it falls depends on the kind of inhibitor, described below.\n\nTo investigate any of these factors, the rate is measured as the amount of product formed, or of substrate used up, per unit time, or as 1 ÷ the time taken for a set change. In a catalase investigation using liver from a butchery in Oshakati, the rate is the volume of oxygen collected in one minute, in cm³ per minute. The factor under test is changed in steps and all the other factors are held constant, so that any change in rate can be put down to the factor being tested.",
+   "claim_ids": [
+    "CLM-8223-2.5.2-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.5.2-004": 1
+   },
+   "authored_hash": "b65dd1af5736b714d764ef01b3c8354f32b18e4464172beab478c3a1b482cc29"
+  },
+  {
+   "block_id": "2.5.2-b6",
+   "block_type": "misconception",
+   "heading": "Three errors to avoid",
+   "text": "First, the optimum is the point of the fastest rate, not the point at which the reaction stops: the rate rises up to it and falls on either side. Second, a change in pH does not by itself denature an enzyme: a small change near the optimum slows the reaction reversibly, and denaturation is the permanent loss of shape far from the optimum. Third, temperature controls how fast the product forms, not the total: with the same substrate and a reaction run to completion, two temperatures below the optimum give the same total product.",
+   "claim_ids": [
+    "CLM-8223-2.5.2-001",
+    "CLM-8223-2.5.2-002",
+    "CLM-8223-2.5.2-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.5.2-001": 1,
+    "CLM-8223-2.5.2-002": 1,
+    "CLM-8223-2.5.2-003": 1
+   },
+   "authored_hash": "4d5050370b6bce3b47cc2828631229afbf93bc47fdb1555e7a4788f61d248f9c"
+  },
+  {
+   "block_id": "2.5.2-b7",
+   "block_type": "plain_explanation",
+   "heading": "Vmax and the Michaelis-Menten constant, Km",
+   "text": "Vmax is the maximum rate of reaction, reached at a fixed enzyme concentration when all the active sites are occupied. On a graph of rate against substrate concentration, Vmax is the level at which the curve flattens. The curve approaches it gradually, so Vmax is read from the plateau and not from one point.\n\nThe Michaelis-Menten constant, Km, is the substrate concentration at which the rate is half of Vmax. It is derived in three steps. Read Vmax from the plateau. Halve it to get ½ Vmax. Read across from ½ Vmax to the curve, then down to the substrate concentration axis. The value read is Km. It is a concentration, with units such as mmol dm⁻³, and not a rate.\n\nKm is used to compare the affinity of different enzymes for their substrates. An enzyme with a low Km reaches half its maximum rate at a low substrate concentration, which shows that it binds its substrate readily: its affinity is high. An enzyme with a high Km needs much more substrate to reach half its maximum rate, so its affinity is lower. Km is therefore taken as an inverse measure of affinity. Km does not change when more enzyme is added, whereas Vmax does.",
+   "claim_ids": [
+    "CLM-8223-2.5.2-005",
+    "CLM-8223-2.5.2-006",
+    "CLM-8223-2.5.2-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.5.2-005": 1,
+    "CLM-8223-2.5.2-006": 1,
+    "CLM-8223-2.5.2-007": 1
+   },
+   "authored_hash": "367157f55b61cf6aaff81bf069c2f2571327305e456ebe165e299e23f0ff269b"
+  },
+  {
+   "block_id": "2.5.2-b8",
+   "block_type": "worked_application",
+   "heading": "Worked example: finding Km from a table",
+   "text": "A student measures the rate of an enzyme at eight substrate concentrations from 0.5 mmol dm⁻³ to 64 mmol dm⁻³. The rates, in µmol min⁻¹, are 20, 33, 50, 67, 80, 89, 94 and 97, in that order. The concentrations double each time and the rises get smaller, so the rate levels off towards about 100 µmol min⁻¹. Step one: Vmax is about 100 µmol min⁻¹. Step two: ½ Vmax = 100 ÷ 2 = 50 µmol min⁻¹. Step three: a rate of 50 µmol min⁻¹ is recorded at 2 mmol dm⁻³, so Km = 2 mmol dm⁻³. A second enzyme for the same substrate has a Km of 8 mmol dm⁻³. It needs 8 ÷ 2 = 4 times the substrate concentration to reach half its maximum rate, so its affinity is lower.",
+   "claim_ids": [
+    "CLM-8223-2.5.2-005",
+    "CLM-8223-2.5.2-006",
+    "CLM-8223-2.5.2-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.5.2-005": 1,
+    "CLM-8223-2.5.2-006": 1,
+    "CLM-8223-2.5.2-007": 1
+   },
+   "authored_hash": "4c12a692ac3466047ec5cad5cf0f827cb8e232fa62b57c6f45d6c0697a73f79c"
+  },
+  {
+   "block_id": "2.5.2-b9",
+   "block_type": "components",
+   "heading": "Competitive and non-competitive reversible inhibitors",
+   "text": "A reversible inhibitor binds to an enzyme by weak bonds and can detach again, so the enzyme recovers its activity when the inhibitor is removed or diluted. The inhibitors that matter here are competitive and non-competitive.\n\nA competitive inhibitor has a shape similar to the substrate and binds to the active site. While it is there the substrate cannot bind, so the two compete for the active site and the rate falls. Raising the substrate concentration means substrate molecules win the active sites more often, so more substrate overcomes the inhibition and the same Vmax is reached, though a higher substrate concentration is needed to reach it. On a graph the inhibited curve is lower at low substrate concentration and rises to meet the same plateau.\n\nA non-competitive inhibitor binds at a different site on the enzyme, not at the active site. Its binding changes the shape of the enzyme, including the active site, so the substrate fits poorly or the reaction runs more slowly even when substrate is bound. The two do not compete for the same site, so extra substrate cannot remove the effect. Some of the enzyme is out of action at any substrate concentration, so Vmax is lowered. On a graph the inhibited curve levels off at a lower plateau. In both kinds, a higher inhibitor concentration affects more enzyme molecules and lowers the rate further.",
+   "claim_ids": [
+    "CLM-8223-2.5.2-008",
+    "CLM-8223-2.5.2-009",
+    "CLM-8223-2.5.2-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.5.2-008": 1,
+    "CLM-8223-2.5.2-009": 1,
+    "CLM-8223-2.5.2-010": 1
+   },
+   "authored_hash": "a9af4357d814a40a1be428161f52b2172ccaba3c9d55a73db1bbedaa110b7450"
+  },
+  {
+   "block_id": "2.5.2-b10",
+   "block_type": "interpretation",
+   "heading": "Telling the two inhibitors apart from data",
+   "text": "Compare the plateau of the inhibited curve with the plateau of the uninhibited curve. If the inhibited curve reaches the same Vmax, even though it needs more substrate to get there, the inhibitor is competitive. If it levels off at a lower Vmax, the inhibitor is non-competitive. The test is: can adding more substrate restore the original maximum rate? If it can, the inhibitor is competitive; if it cannot, it is non-competitive.\n\nExample: with an inhibitor present, the rate at 1 mmol dm⁻³ of substrate is 14 µmol min⁻¹ against 33 µmol min⁻¹ without it. At 64 mmol dm⁻³ the rates are 91 and 97 µmol min⁻¹. The gap closing as substrate rises shows that more substrate is overcoming the inhibitor at the active site, so it is competitive.",
+   "claim_ids": [
+    "CLM-8223-2.5.2-008",
+    "CLM-8223-2.5.2-009",
+    "CLM-8223-2.5.2-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.5.2-008": 1,
+    "CLM-8223-2.5.2-009": 1,
+    "CLM-8223-2.5.2-010": 1
+   },
+   "authored_hash": "385a8b7d9b67bc26073ff4ced345f8131f13ac1b6c92b7bace523d2e6d25d159"
+  },
+  {
+   "block_id": "2.5.2-b11",
+   "block_type": "process",
+   "heading": "Immobilising an enzyme in alginate",
+   "text": "An immobilised enzyme is held in place, here inside a gel, instead of being dissolved in the reaction mixture. To immobilise an enzyme in alginate, the enzyme is mixed with sodium alginate solution and the mixture is dripped from a syringe into calcium chloride solution. Calcium ions link the alginate chains, so each drop sets into a bead of gel with enzyme molecules trapped inside. The beads are rinsed and then added to the substrate.\n\nCompared with the free enzyme in solution, the beads usually give a lower initial rate. The substrate must diffuse through the gel to reach the trapped enzyme, and the product must diffuse out, which takes time. The enzyme itself is unchanged. The benefits are practical. The beads are separated from the product by straining, so the product is free of enzyme, and the beads can be reused for several batches, which saves the cost of the enzyme. Held in the gel, an enzyme also tends to be better protected from changes in conditions, so it can keep its activity beyond the range that a free enzyme tolerates; this is a tendency that varies with the enzyme and the support.",
+   "claim_ids": [
+    "CLM-8223-2.5.2-011",
+    "CLM-8223-2.5.2-012",
+    "CLM-8223-2.5.2-013"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.5.2-011": 1,
+    "CLM-8223-2.5.2-012": 1,
+    "CLM-8223-2.5.2-013": 1
+   },
+   "authored_hash": "ef98861bb16d9a564be92bb5ed2848c033d80417b15d777f814e09aa967e2b38"
+  },
+  {
+   "block_id": "2.5.2-b12",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "The structure of an enzyme, its active site and how it lowers activation energy are taught in 2.5.1, the preceding enzyme topic. The tertiary structure of proteins and the bonds that hold it are taught in the topic on proteins. Diffusion, which slows the reaction in alginate beads, is taught in 2.3.1.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "a2b1a44cb80933c25ed4e4172199653cd681a6e1bbea73be85bf879e059c2e0d"
+  }
+ ],
+ "word_count": 1793,
+ "qa_status": "review_required",
+ "notes": [
+  "Facts are our own statements of standard biology and are unverified."
+ ]
+}

@@ -1,0 +1,580 @@
+{
+ "work_order_id": "WO-8223-2.1",
+ "topic_id": "2.1",
+ "topic_title": "The microscope",
+ "topic": "2.1 The microscope",
+ "generated_by": "build/make_work_order.py — regenerate, never edit",
+ "standard": "v0.2.0-draft",
+ "authoring_note": "Every slot below is decided. Write the prose; do not redesign the plan. If a slot is genuinely wrong for the objective, say so in your report rather than silently changing it.",
+ "output_files": {
+  "claims": "claims/canonical_claim_ledger.json",
+  "content_units": [
+   "content-units/CU-8223-2.1.json"
+  ],
+  "learning_items": "learning-items/topic_2.1_items.json",
+  "notes": "2.1-the-microscope.md",
+  "flashcards_when_published": "2.1-the-microscope-flashcards.json"
+ },
+ "assessable_objective_count": 5,
+ "claims_plan": {
+  "per_objective": "2 to 4",
+  "approximate_total": [
+   10,
+   20
+  ]
+ },
+ "content_units": [
+  {
+   "unit_id": "CU-8223-2.1",
+   "file": "content-units/CU-8223-2.1.json",
+   "sub_topic": "2.1",
+   "objective_ids": [
+    "OBJ-8223-2.1-01",
+    "OBJ-8223-2.1-02",
+    "OBJ-8223-2.1-03",
+    "OBJ-8223-2.1-04",
+    "OBJ-8223-2.1-05"
+   ],
+   "objectives": [
+    {
+     "objective_id": "OBJ-8223-2.1-01",
+     "title": "state and explain the principles of microscopy",
+     "syllabus_text": "state and explain the principles of microscopy",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.1-02",
+     "title": "explain and distinguish between resolution and magnification, with reference to light-and electron microscope",
+     "syllabus_text": "explain and distinguish between resolution and magnification, with reference to light-and electron microscope",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.1-03",
+     "title": "use an eyepiece graticule and stage micrometer scale to measure cells and be familiar with units (millimetre, micrometre and nanometre)",
+     "syllabus_text": "use an eyepiece graticule and stage micrometer scale to measure cells and be familiar with units (millimetre, micrometre and nanometre)",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.1-04",
+     "title": "calculate actual sizes of specimens from drawings, photomicrographs and electron micrographs",
+     "syllabus_text": "calculate actual sizes of specimens from drawings, photomicrographs and electron micrographs",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.1-05",
+     "title": "calculate the linear magnifications of drawings, photomicrographs and electron micrographs",
+     "syllabus_text": "calculate the linear magnifications of drawings, photomicrographs and electron micrographs",
+     "depth_tier": 2
+    }
+   ],
+   "word_budget": [
+    1590,
+    2270
+   ],
+   "blocks_required": [
+    "a definition or plain explanation block for every objective above",
+    "at least one worked example or analysis chain where the objectives are tier 2 or higher",
+    "a cross-link block naming the topics this one connects to"
+   ]
+  }
+ ],
+ "item_slots": [
+  {
+   "slot": "ITEM-8223-2.1-001-DEF",
+   "objective_id": "OBJ-8223-2.1-01",
+   "objective_title": "state and explain the principles of microscopy",
+   "syllabus_text": "state and explain the principles of microscopy",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.1-002-MECH",
+   "objective_id": "OBJ-8223-2.1-01",
+   "objective_title": "state and explain the principles of microscopy",
+   "syllabus_text": "state and explain the principles of microscopy",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "how|because|so that|which|then|causes|cause|leads|results"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.1-015-MISCON",
+   "objective_id": "OBJ-8223-2.1-01",
+   "objective_title": "state and explain the principles of microscopy",
+   "syllabus_text": "state and explain the principles of microscopy",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "error|mistake|confusion|confused|wrongly|in fact|not the same|instead|test"
+   ],
+   "misconception_entry": "MC-8223-2.1-02",
+   "reason": "discriminates misconception MC-8223-2.1-02 (1 examiner statements): Not knowing that a scanning electron microscope shows surface detail only"
+  },
+  {
+   "slot": "ITEM-8223-2.1-003-DEF",
+   "objective_id": "OBJ-8223-2.1-02",
+   "objective_title": "explain and distinguish between resolution and magnification, with reference to light-and electron microscope",
+   "syllabus_text": "explain and distinguish between resolution and magnification, with reference to light-and electron microscope",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.1-004-DIST",
+   "objective_id": "OBJ-8223-2.1-02",
+   "objective_title": "explain and distinguish between resolution and magnification, with reference to light-and electron microscope",
+   "syllabus_text": "explain and distinguish between resolution and magnification, with reference to light-and electron microscope",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "difference|differences|whereas|contrast|distinction|both|while|unlike|compare"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.1-014-MISCON",
+   "objective_id": "OBJ-8223-2.1-02",
+   "objective_title": "explain and distinguish between resolution and magnification, with reference to light-and electron microscope",
+   "syllabus_text": "explain and distinguish between resolution and magnification, with reference to light-and electron microscope",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "error|mistake|confusion|confused|wrongly|in fact|not the same|instead|test"
+   ],
+   "misconception_entry": "MC-8223-2.1-01",
+   "reason": "discriminates misconception MC-8223-2.1-01 (2 examiner statements): Confusing magnification with resolution, or saying the image has high resolution instead of the microscope"
+  },
+  {
+   "slot": "ITEM-8223-2.1-005-DEF",
+   "objective_id": "OBJ-8223-2.1-03",
+   "objective_title": "use an eyepiece graticule and stage micrometer scale to measure cells and be familiar with units (millimetre, micrometre and nanometre)",
+   "syllabus_text": "use an eyepiece graticule and stage micrometer scale to measure cells and be familiar with units (millimetre, micrometre and nanometre)",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.1-006-CALC",
+   "objective_id": "OBJ-8223-2.1-03",
+   "objective_title": "use an eyepiece graticule and stage micrometer scale to measure cells and be familiar with units (millimetre, micrometre and nanometre)",
+   "syllabus_text": "use an eyepiece graticule and stage micrometer scale to measure cells and be familiar with units (millimetre, micrometre and nanometre)",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "equation|formula|working|substitution|substitute|step",
+    "answer|result|final",
+    "unit|units|significant figures"
+   ],
+   "reason": "instructs with Calculate, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.1-007-CALC",
+   "objective_id": "OBJ-8223-2.1-03",
+   "objective_title": "use an eyepiece graticule and stage micrometer scale to measure cells and be familiar with units (millimetre, micrometre and nanometre)",
+   "syllabus_text": "use an eyepiece graticule and stage micrometer scale to measure cells and be familiar with units (millimetre, micrometre and nanometre)",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "equation|formula|working|substitution|substitute|step",
+    "answer|result|final",
+    "unit|units|significant figures"
+   ],
+   "reason": "instructs with Calculate, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.1-008-DEF",
+   "objective_id": "OBJ-8223-2.1-04",
+   "objective_title": "calculate actual sizes of specimens from drawings, photomicrographs and electron micrographs",
+   "syllabus_text": "calculate actual sizes of specimens from drawings, photomicrographs and electron micrographs",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.1-009-CALC",
+   "objective_id": "OBJ-8223-2.1-04",
+   "objective_title": "calculate actual sizes of specimens from drawings, photomicrographs and electron micrographs",
+   "syllabus_text": "calculate actual sizes of specimens from drawings, photomicrographs and electron micrographs",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "equation|formula|working|substitution|substitute|step",
+    "answer|result|final",
+    "unit|units|significant figures"
+   ],
+   "reason": "instructs with Calculate, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.1-010-CALC",
+   "objective_id": "OBJ-8223-2.1-04",
+   "objective_title": "calculate actual sizes of specimens from drawings, photomicrographs and electron micrographs",
+   "syllabus_text": "calculate actual sizes of specimens from drawings, photomicrographs and electron micrographs",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "equation|formula|working|substitution|substitute|step",
+    "answer|result|final",
+    "unit|units|significant figures"
+   ],
+   "reason": "instructs with Calculate, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.1-011-DEF",
+   "objective_id": "OBJ-8223-2.1-05",
+   "objective_title": "calculate the linear magnifications of drawings, photomicrographs and electron micrographs",
+   "syllabus_text": "calculate the linear magnifications of drawings, photomicrographs and electron micrographs",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.1-012-CALC",
+   "objective_id": "OBJ-8223-2.1-05",
+   "objective_title": "calculate the linear magnifications of drawings, photomicrographs and electron micrographs",
+   "syllabus_text": "calculate the linear magnifications of drawings, photomicrographs and electron micrographs",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "equation|formula|working|substitution|substitute|step",
+    "answer|result|final",
+    "unit|units|significant figures"
+   ],
+   "reason": "instructs with Calculate, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.1-013-CALC",
+   "objective_id": "OBJ-8223-2.1-05",
+   "objective_title": "calculate the linear magnifications of drawings, photomicrographs and electron micrographs",
+   "syllabus_text": "calculate the linear magnifications of drawings, photomicrographs and electron micrographs",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "equation|formula|working|substitution|substitute|step",
+    "answer|result|final",
+    "unit|units|significant figures"
+   ],
+   "reason": "instructs with Calculate, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.1-016-MISCON",
+   "objective_id": "OBJ-8223-2.1-05",
+   "objective_title": "calculate the linear magnifications of drawings, photomicrographs and electron micrographs",
+   "syllabus_text": "calculate the linear magnifications of drawings, photomicrographs and electron micrographs",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "error|mistake|confusion|confused|wrongly|in fact|not the same|instead|test"
+   ],
+   "misconception_entry": "MC-8223-2.1-03",
+   "reason": "discriminates misconception MC-8223-2.1-03 (1 examiner statements): Quoting only the eyepiece lens or only the objective lens as the magnification"
+  }
+ ],
+ "performance_tasks": [
+  {
+   "slot": "ITEM-8223-2.1-P01",
+   "item_type": "multiple_choice_set",
+   "brief": "A set of 12 four-option multiple-choice questions on this topic in the style of Paper 1, one mark each: about half recall and half application, diagram, graph or sequence, every distractor built from a known error (the misconception register first), the key and the reason each distractor is wrong on the back.",
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "key|correct option|correct answer",
+    "distractor|distractors|wrong option|wrong options|error"
+   ],
+   "objective_ids": "choose 2-4 objectives from this topic that the task genuinely exercises"
+  },
+  {
+   "slot": "ITEM-8223-2.1-P02",
+   "item_type": "short_answer",
+   "brief": "A Paper 2 style structured question: four or five linked parts around one stimulus (a data table, a graph described by its axes and values, a labelled structure described in words, or a short scenario), about 8 marks, mixing state, describe, explain and suggest, each part with its own mark allocation and more creditworthy points on the scheme than marks.",
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "mark|marks|point|points",
+    "unit|units|term|terms|because|reason"
+   ],
+   "objective_ids": "choose 2-4 objectives from this topic that the task genuinely exercises"
+  }
+ ],
+ "planned_item_count": 18,
+ "planned_ao_mix_by_item_count": {
+  "A": {
+   "planned_share_percent": 56,
+   "target_percent": 40
+  },
+  "B": {
+   "planned_share_percent": 44,
+   "target_percent": 40
+  },
+  "C": {
+   "planned_share_percent": 0,
+   "target_percent": 20
+  }
+ },
+ "planned_blooms_mix": {
+  "Remember": {
+   "items": 5,
+   "share_percent": 28
+  },
+  "Understand": {
+   "items": 5,
+   "share_percent": 28
+  },
+  "Apply": {
+   "items": 8,
+   "share_percent": 44
+  },
+  "Analyse": {
+   "items": 0,
+   "share_percent": 0
+  },
+  "Evaluate": {
+   "items": 0,
+   "share_percent": 0
+  },
+  "Create": {
+   "items": 0,
+   "share_percent": 0
+  }
+ },
+ "planned_ao_mix_by_marks": {
+  "A": {
+   "planned_share_percent": 48,
+   "syllabus_weight_percent": 40
+  },
+  "B": {
+   "planned_share_percent": 52,
+   "syllabus_weight_percent": 40
+  },
+  "C": {
+   "planned_share_percent": 0,
+   "syllabus_weight_percent": 20
+  }
+ },
+ "marks_equivalent_total": 46,
+ "ao_mix_note": "The syllabus states its AO weights as a share of MARKS, so planned_ao_mix_by_marks is the one that answers \"does this resource match the exam\". It values each card at the tariff of the question it models, split across the AOs the card declares, and values each performance task at the marks of the paper part it models. The count-based mix below is reported only because it is what a reader expects to see; do not balance against it. AO shares by ITEM COUNT: Every objective needs one recall anchor, so AO1 has a structural floor of about 31% in this topic (5 objectives against 16 slots) and cannot reach the None% target by count however many other cards are added - padding the bank to chase it makes the resource worse. The framework already measures the AO4 share in practice time rather than by count for the same reason. Treat AO1 above target as expected, and AO2/AO3/AO4 below target as the thing worth fixing.",
+ "excluded_constructs": [
+  {
+   "construct": "species concepts other than the biological, morphological, ecological and behavioural concepts",
+   "pattern": "\\b(?:phylogenetic|cohesion|recognition|evolutionary|genotypic cluster)\\s+species\\s+concept",
+   "source": {
+    "printed_page": 5,
+    "topic": "1.1",
+    "quote": "limited to the biological, morphological, ecological and behavioural concepts"
+   }
+  },
+  {
+   "construct": "mesosomes",
+   "pattern": "\\bmesosomes?\\b",
+   "source": {
+    "printed_page": 8,
+    "topic": "2.2",
+    "quote": "no reference to mesosomes required"
+   }
+  },
+  {
+   "construct": "calculations of water potential",
+   "pattern": "\\bcalculat\\w*\\s+(?:the\\s+)?(?:water|solute|pressure)\\s+potential|\\bψ\\s*=\\s*ψ|\\bwater potential\\s*=\\s*solute potential|\\bΨs\\b|\\bΨp\\b",
+   "source": {
+    "printed_page": 9,
+    "topic": "2.3.2",
+    "quote": "no calculations involving water potential will be set"
+   }
+  },
+  {
+   "construct": "solute potential, pressure potential and osmotic potential as terms",
+   "pattern": "\\b(?:solute|pressure|osmotic)\\s+potential\\b",
+   "source": {
+    "printed_page": 9,
+    "topic": "2.3.2",
+    "quote": "Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected"
+   }
+  },
+  {
+   "construct": "roles of water beyond solvent action, specific heat capacity and latent heat of vaporisation",
+   "pattern": "\\b(?:ice floats|ice is less dense|maximum density|surface tension)\\b",
+   "source": {
+    "printed_page": 11,
+    "topic": "2.4.2",
+    "quote": "limited to solvent action, specific heat capacity and latent heat of vapourisation"
+   }
+  },
+  {
+   "construct": "chloride shift",
+   "pattern": "\\bchloride shift\\b|\\bhamburger shift\\b",
+   "source": {
+    "printed_page": 14,
+    "topic": "2.7.1",
+    "quote": "details of the chloride shift are not required"
+   }
+  },
+  {
+   "construct": "nervous and hormonal control of the heart",
+   "pattern": "\\b(?:vagus nerve|cardiac centre|cardiovascular centre|cardioaccelerator|medulla oblongata)\\b|\\b(?:sympathetic|parasympathetic)\\b[^.]{0,60}\\bheart\\b|\\b(?:adrenaline|noradrenaline|acetylcholine)\\b[^.]{0,60}\\bheart (?:rate|beat)",
+   "source": {
+    "printed_page": 15,
+    "topic": "2.7.2",
+    "quote": "reference should be made to the sinoatrial node, the atrioventricular node and the Purkyne tissue, but not to nervous and hormonal control"
+   }
+  },
+  {
+   "construct": "non-infectious disease examples other than sickle cell anaemia and lung cancer",
+   "pattern": "\\b(?:non-?infectious|not infectious)\\b[^.]{0,80}\\b(?:diabetes|coronary heart disease|scurvy|rickets|kwashiorkor|cystic fibrosis|haemophilia|huntington|osteoporosis)\\b|\\b(?:diabetes|coronary heart disease|scurvy|rickets|kwashiorkor|cystic fibrosis|haemophilia|huntington|osteoporosis)\\b[^.]{0,80}\\b(?:non-?infectious|not infectious)\\b",
+   "source": {
+    "printed_page": 15,
+    "topic": "2.8.1",
+    "quote": "limited to sickle cell anaemia and lung cancer"
+   }
+  },
+  {
+   "construct": "detailed life cycle of the malarial parasite",
+   "pattern": "\\b(?:sporozoites?|merozoites?|gametocytes?|schizonts?|hypnozoites?|oocysts?|trophozoites?|exo-?erythrocytic)\\b",
+   "source": {
+    "printed_page": 15,
+    "topic": "2.8.1",
+    "quote": "a detailed study of the life cycle of the malarial parasite is not required"
+   }
+  },
+  {
+   "construct": "T-lymphocyte types other than T-helper and T-killer cells",
+   "pattern": "\\b(?:regulatory T|suppressor T|T-?regulatory|Tregs?|memory T cells?|gamma-?delta)\\b",
+   "source": {
+    "printed_page": 16,
+    "topic": "2.9.1",
+    "quote": "limited to T-helper cells and T-killer cells"
+   }
+  },
+  {
+   "construct": "chromosome structure beyond DNA, histone proteins, chromatids, centromere and telomeres",
+   "pattern": "\\b(?:kinetochores?|nucleosomes?|euchromatin|heterochromatin|cohesins?|condensins?)\\b",
+   "source": {
+    "printed_page": 18,
+    "topic": "3.1.1",
+    "quote": "limited to DNA, histone proteins, chromatids, centromere and telomeres"
+   }
+  },
+  {
+   "construct": "structural formulae of nucleotides and bases",
+   "pattern": "\\bstructural formulae? of (?:the )?(?:nucleotides?|bases?|purines?|pyrimidines?|adenine|guanine|cytosine|thymine|uracil)\\b|\\bC5H5N5\\b|\\bC4H5N3O\\b|\\bC5H5N5O\\b|\\bC4H4N2O2\\b",
+   "source": {
+    "printed_page": 19,
+    "topic": "3.2.1",
+    "quote": "structural formulae are not required"
+   }
+  }
+ ],
+ "adjacent_topics": [],
+ "excluded_constructs_status": "declared",
+ "subtype_waivers": []
+}

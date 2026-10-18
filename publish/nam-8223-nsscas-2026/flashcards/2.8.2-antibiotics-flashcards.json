@@ -1,0 +1,716 @@
+{
+ "topic_number": "2.8.2",
+ "topic_title": "Antibiotics",
+ "topic": "2.8.2 Antibiotics",
+ "qualification": "Namibia Senior Secondary Certificate Advanced Subsidiary level (NSSCAS) Biology 8223 (syllabus vNIED 2020, examined 2021-2025)",
+ "item_count": 15,
+ "items": [
+  {
+   "item_id": "ITEM-8223-2.8.2-001-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.8.2-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by an antibiotic.",
+   "canonical_answer": "An antibiotic is a chemical that kills bacteria or stops them growing, without harming the cells of the person who takes it at the proper dose.",
+   "marking_guidance": [
+    "1 mark: the key words, kills bacteria or stops their growth. The definition names bacteria. An answer that says an antibiotic kills germs, viruses or all microorganisms is wrong, because antibiotics do not act on viruses."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.8.2 from the topic claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.8.2-001": 1
+   },
+   "authored_hash": "ff04c0a161e20c27ccf48d1147bca0e2be0ca2fa4a30d1a513d3ddf2a376cbc7",
+   "objective_titles": [
+    "describe how penicillin acts on bacteria and why antibiotics do not affect viruses and eukaryotic cells"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.8.2-002-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.8.2-001",
+    "CLM-8223-2.8.2-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State the structural feature of a bacterial cell, absent from the cells of a human, that penicillin prevents the bacterium from building.",
+   "canonical_answer": "The cell wall.",
+   "marking_guidance": [
+    "1 mark: the cell wall, the structure that penicillin stops being built. The part is the wall, so cell membrane, cell surface membrane or cytoplasm earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.8.2 from the topic claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.8.2-001": 1,
+    "CLM-8223-2.8.2-004": 1
+   },
+   "authored_hash": "90c784c14eafeeca82dc5b0429904551a66a762ee118079bf1de736217bff54b",
+   "objective_titles": [
+    "describe how penicillin acts on bacteria and why antibiotics do not affect viruses and eukaryotic cells"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.8.2-007-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.8.2-001",
+    "CLM-8223-2.8.2-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A health worker at a clinic in Katima Mulilo tells a patient that penicillin will cure the patient's malaria because malaria is caused by a bacterium. Explain the error.",
+   "canonical_answer": "The error is a confusion of a eukaryote with a bacterium. In fact malaria is caused by Plasmodium, a single-celled eukaryote, and penicillin acts only on the cell wall that bacteria build. Plasmodium has no such wall, so penicillin has nothing to act on. The test is to ask whether the organism is a prokaryote, a virus or a eukaryote: only a bacterium is a prokaryote with the wall that penicillin targets.",
+   "marking_guidance": [
+    "2 marks: the error named, that Plasmodium is wrongly called a bacterium and is in fact a eukaryote (1); the reason penicillin does not work, that it acts on the bacterial cell wall and Plasmodium has no such wall (1).",
+    "The card is a discrimination, using the test of whether the organism is a prokaryote, a virus or a eukaryote, and not a repeat of what penicillin does. An answer that says only that penicillin kills bacteria earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Malaria treatment in a Zambezi Region clinic",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.8.2 from the topic claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.8.2-001": 1,
+    "CLM-8223-2.8.2-004": 1
+   },
+   "authored_hash": "3a7b75fcf0024a6d2edc3007419c33b276e6c5627d250c40ab1ee0a51357957b",
+   "objective_titles": [
+    "describe how penicillin acts on bacteria and why antibiotics do not affect viruses and eukaryotic cells"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.8.2-008-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.8.2-001",
+    "CLM-8223-2.8.2-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner writes that penicillin kills bacteria by damaging both their cell wall and their cell surface membrane. Explain the error.",
+   "canonical_answer": "The error is the confusion of the wall with the membrane. In fact penicillin prevents the bacterium building its cell wall; it does not attack the cell surface membrane. Without a strong wall the growing cell takes in water by osmosis and bursts. The test is to ask which structure penicillin stops being built: the answer is the cell wall.",
+   "marking_guidance": [
+    "2 marks: the error named, that the membrane is wrongly given as a target, with the wall as the only structure involved (1); the correct idea, that penicillin prevents wall building so the cell takes in water and bursts (1).",
+    "The test that separates the two is which structure is stopped being built. A mark is not credited for describing bursting without saying the wall is not built."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.8.2 from the topic claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.8.2-001": 1,
+    "CLM-8223-2.8.2-002": 1
+   },
+   "authored_hash": "2df9fa6c248629cc77eba46f624859d476ab5a13fd7c8c3306adfe34d0513e4b",
+   "objective_titles": [
+    "describe how penicillin acts on bacteria and why antibiotics do not affect viruses and eukaryotic cells"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.8.2-010-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.8.2-001",
+    "CLM-8223-2.8.2-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A laboratory in Oshakati grew a culture of bacteria and counted the living cells at hourly intervals. At the start of hour 1, one sample of the culture was left alone and another had penicillin added. These are our readings.\n\n| Time (h) | Living cells without penicillin (thousand per cm3) | Living cells with penicillin (thousand per cm3) |\n|---|---|---|\n| 0 | 10 | 10 |\n| 1 | 20 | 18 |\n| 2 | 40 | 12 |\n| 3 | 80 | 5 |\n| 4 | 160 | 2 |\n\nDescribe what the data show about the effect of penicillin on the culture.",
+   "canonical_answer": "Without penicillin the number of living cells doubles each hour, from 10 to 160 thousand per cm3. With penicillin the number rises slightly in the first hour, to 18, and then falls to 2 thousand per cm3 by hour 4. This shows that penicillin stops the population growing and kills the bacteria, which fits bacteria bursting once their walls cannot be built as they grow.",
+   "marking_guidance": [
+    "2 marks: the data for the sample without penicillin read correctly, rising from 10 to 160 thousand per cm3 (1); the data for the sample with penicillin read correctly, a small rise then a fall to 2 thousand per cm3, so penicillin stops growth and kills cells (1).",
+    "Each mark uses values read from the table, and the reading means the culture was killed, not just slowed. A statement about penicillin with no figures from the table earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Laboratory culture counts with and without penicillin",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.8.2 from the topic claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.8.2-001": 1,
+    "CLM-8223-2.8.2-002": 1
+   },
+   "authored_hash": "b35112be6edefc92323c097de3f031824feb21e89f75dbc75714355b79fb895c",
+   "objective_titles": [
+    "describe how penicillin acts on bacteria and why antibiotics do not affect viruses and eukaryotic cells"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.8.2-003-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.8.2-005",
+    "CLM-8223-2.8.2-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by antibiotic resistance.",
+   "canonical_answer": "Antibiotic resistance is the ability of bacteria to survive and reproduce in the presence of an antibiotic that would normally kill them or stop their growth.",
+   "marking_guidance": [
+    "1 mark: the key words, bacteria survive the antibiotic. The definition is about bacteria. An answer that says the antibiotic or the patient is resistant is wrong."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.8.2 from the topic claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.8.2-005": 1,
+    "CLM-8223-2.8.2-007": 1
+   },
+   "authored_hash": "0a7170fd32682fcf93f8482559bd981a5232fa84a47177008191b87d98ed2289",
+   "objective_titles": [
+    "outline how bacteria become resistant to antibiotics with reference to mutation and selection"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.8.2-004-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.8.2-005",
+    "CLM-8223-2.8.2-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Describe two features of the mutations that give bacteria resistance to an antibiotic.",
+   "canonical_answer": "The mutation is a random change in the sequence of bases in the DNA of a bacterium. It arises by chance, whether or not the antibiotic is present, and the antibiotic does not cause it. It is passed to offspring when the bacterium divides.",
+   "marking_guidance": [
+    "2 marks for any two of three points: a random change in the sequence of bases in DNA; arising by chance, not caused by the antibiotic; inherited by the offspring of the bacterium.",
+    "The features are of the mutation. An answer that says the bacteria mutate in order to survive, or because the antibiotic is present, earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.8.2 from the topic claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.8.2-005": 1,
+    "CLM-8223-2.8.2-006": 1
+   },
+   "authored_hash": "f24e58090f461f1accaab7ac05d37b66023a3a9a746945418b212dd23b7e1953",
+   "objective_titles": [
+    "outline how bacteria become resistant to antibiotics with reference to mutation and selection"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.8.2-009-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.8.2-007",
+    "CLM-8223-2.8.2-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner studying tuberculosis treatment in Windhoek writes: 'After the course of antibiotics, the patient's body became resistant to the antibiotic.' Explain the error.",
+   "canonical_answer": "The error is a confusion about what becomes resistant. In fact it is bacteria that become resistant, not the patient. A chance mutation gives a few bacteria resistance, and the antibiotic then selects them because they survive and reproduce while the other bacteria are killed. The test is to ask what becomes resistant and how: bacteria, by mutation and selection.",
+   "marking_guidance": [
+    "2 marks: the error named, that the patient (or the antibiotic) is wrongly said to become resistant when the bacteria are in fact resistant (1); the correct idea, that a chance mutation is followed by selection, so the resistant bacteria survive and reproduce (1).",
+    "The card is a discrimination and the test is what becomes resistant, and how. An answer that gives only a definition of resistance earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Tuberculosis treatment in Windhoek",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.8.2 from the topic claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.8.2-007": 1,
+    "CLM-8223-2.8.2-006": 1
+   },
+   "authored_hash": "657c18d13cad8cd5422c545e83db88b43ff2c8ed11be1a26354ce76e8465a153",
+   "objective_titles": [
+    "outline how bacteria become resistant to antibiotics with reference to mutation and selection"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.8.2-011-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.8.2-006",
+    "CLM-8223-2.8.2-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A hospital laboratory in Rundu tested bacteria taken from patients each year and recorded how many prescriptions of one antibiotic were written. These are our values.\n\n| Year | Prescriptions of the antibiotic (thousand) | Bacteria resistant to it (per cent) |\n|---|---|---|\n| 2019 | 20 | 4 |\n| 2020 | 35 | 9 |\n| 2021 | 50 | 15 |\n| 2022 | 70 | 24 |\n\nDescribe the pattern shown by the data and say what it means for the bacteria.",
+   "canonical_answer": "As prescriptions rise each year from 20 to 70 thousand, the percentage of resistant bacteria also rises each year, from 4 per cent to 24 per cent. This means that more use is linked to a larger share of resistant bacteria, which is consistent with selection: with more antibiotic present, more non-resistant bacteria die and the resistant ones survive and reproduce.",
+   "marking_guidance": [
+    "2 marks: the data read correctly, prescriptions and the percentage resistant both rising each year, from 20 to 70 thousand and from 4 to 24 per cent (1); the reading, that greater use selects for resistant bacteria, which survive and reproduce (1).",
+    "The table gives an association, so an answer that says it proves the antibiotic caused the mutations is wrong, because the mutations arise by chance and the antibiotic selects."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Hospital data on prescriptions and resistance",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.8.2 from the topic claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.8.2-006": 1,
+    "CLM-8223-2.8.2-008": 1
+   },
+   "authored_hash": "45addd236d76db34d3fae1e5d993205e3e1e94a109ff7dc8799fa7efe9625194",
+   "objective_titles": [
+    "outline how bacteria become resistant to antibiotics with reference to mutation and selection"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.8.2-005-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.8.2-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by multidrug-resistant bacteria.",
+   "canonical_answer": "Multidrug-resistant bacteria are bacteria that are resistant to more than one antibiotic, so fewer drugs are left to treat the infection they cause.",
+   "marking_guidance": [
+    "1 mark: the key words, resistant to more than one antibiotic. The term is about bacteria resisting several drugs. A statement that the patient is resistant, or that the bacteria are resistant to a single antibiotic, earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.8.2 from the topic claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.8.2-009": 1
+   },
+   "authored_hash": "76bd2a11f2e72310348ef1fbe60a69cc3da863158daee228527817e42e96387b",
+   "objective_titles": [
+    "discuss the consequences of antibiotic resistance and the steps that can be taken to reduce its impact"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.8.2-006-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.8.2-009",
+    "CLM-8223-2.8.2-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A patient in Ongwediva takes an antibiotic for a common cold. Explain how this can increase antibiotic resistance.",
+   "canonical_answer": "The cold is caused by a virus, so the antibiotic does not act on it. The antibiotic still reaches bacteria elsewhere in the body, which kills those without resistance and leaves any chance mutants to survive and reproduce. This raises the proportion of resistant bacteria, which can then spread to other people.",
+   "marking_guidance": [
+    "2 marks: the antibiotic acts on other bacteria in the body, not on the virus, which kills the non-resistant ones (1); the resistant bacteria then survive and reproduce, which raises the proportion of resistant bacteria and can lead to spread (1).",
+    "The mechanism is selection of resistant bacteria. An answer that says the patient becomes resistant, or that the virus becomes resistant to the antibiotic, earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "A patient taking an antibiotic for a viral cold",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.8.2 from the topic claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.8.2-009": 1,
+    "CLM-8223-2.8.2-010": 1
+   },
+   "authored_hash": "c610062442cbbbe64948e67f1f455a07b0b9a3216e33b0b6543287b31a6c9af3",
+   "objective_titles": [
+    "discuss the consequences of antibiotic resistance and the steps that can be taken to reduce its impact"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.8.2-012-APP",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.8.2-006",
+    "CLM-8223-2.8.2-010",
+    "CLM-8223-2.8.2-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A patient in Rundu is prescribed a combination of antibiotics for six months to treat tuberculosis. After eight weeks the patient feels well and stops taking the tablets. Explain why, in this case, stopping early makes resistant TB more likely.",
+   "canonical_answer": "Because the antibiotics have killed most but not all of the TB bacteria, a few survive, and the survivors are more likely to include bacteria with reduced susceptibility. When the tablets stop, these survivors reproduce and pass their features to their offspring, so the population is more resistant than before. The patient can then pass resistant bacteria to other people.",
+   "marking_guidance": [
+    "2 marks, each tied to the situation given: some bacteria survive because the course was not completed, and the survivors are more likely to be less susceptible (1); they then reproduce and pass on resistance, so the population is more resistant and the infection can spread (1).",
+    "An answer that says the antibiotic or the patient has become resistant earns no mark. This case is about the survival and reproduction of bacteria, so the reason must refer to the bacteria."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "A TB patient stopping a course early",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.8.2 from the topic claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.8.2-006": 1,
+    "CLM-8223-2.8.2-010": 1,
+    "CLM-8223-2.8.2-011": 1
+   },
+   "authored_hash": "bd396324a1a148559927a356496a615e26884e5b7dd3e6cb113520652dee32ba",
+   "objective_titles": [
+    "discuss the consequences of antibiotic resistance and the steps that can be taken to reduce its impact"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.8.2-013-CHAIN",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.8.2-006",
+    "CLM-8223-2.8.2-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CHAIN",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A hospital ward in Windhoek greatly increases its use of one antibiotic. Explain, as a chain of cause and effect, how this change can lead to infections that the antibiotic cannot treat.",
+   "canonical_answer": "When the ward uses the antibiotic more, more bacteria are exposed to it, so there is a stronger selection pressure. Non-resistant bacteria are killed, while chance mutants that resist it survive and reproduce, so their share of the population increases. The result is that more infections are caused by bacteria that the antibiotic cannot kill, and so it cannot treat them.",
+   "marking_guidance": [
+    "2 marks for the chain in order: the change, more use, increases the selection pressure, so non-resistant bacteria die and resistant ones survive and reproduce (1); the effect, that resistant bacteria become common, so the antibiotic fails to treat the infections that follow (1).",
+    "The steps must run in order, because the consequence follows from the change. A mention of resistance with no cause and effect earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "A hospital ward increasing antibiotic use",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.8.2 from the topic claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.8.2-006": 1,
+    "CLM-8223-2.8.2-009": 1
+   },
+   "authored_hash": "8930bb41118ca303d587faf839a1273b419360fabd0f730d3f47d99bf9cd0ff4",
+   "objective_titles": [
+    "discuss the consequences of antibiotic resistance and the steps that can be taken to reduce its impact"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.8.2-P01",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-01",
+    "OBJ-8223-2.8.2-02",
+    "OBJ-8223-2.8.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.8.2-001",
+    "CLM-8223-2.8.2-002",
+    "CLM-8223-2.8.2-003",
+    "CLM-8223-2.8.2-004",
+    "CLM-8223-2.8.2-005",
+    "CLM-8223-2.8.2-006",
+    "CLM-8223-2.8.2-007",
+    "CLM-8223-2.8.2-008",
+    "CLM-8223-2.8.2-009",
+    "CLM-8223-2.8.2-010",
+    "CLM-8223-2.8.2-011",
+    "CLM-8223-2.8.2-012"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": null,
+   "mark_tariff": 12,
+   "difficulty": 3,
+   "prompt": "Twelve questions. Choose one option for each.\n\n1. Which structure does penicillin prevent growing bacteria from building?\nA  cell surface membrane\nB  cell wall\nC  ribosomes\nD  cytoplasm\n\n2. What happens to a growing bacterial cell in dilute surroundings when penicillin has stopped its wall being built?\nA  It loses water by osmosis and shrinks.\nB  Its membrane dissolves and the cytoplasm leaks out.\nC  Its DNA is copied faster.\nD  It takes in water by osmosis and bursts.\n\n3. Why does penicillin not harm the cells of a patient?\nA  Human cells have no bacterial-type cell wall for it to act on.\nB  Human cells are protected by antibodies.\nC  Human cells destroy penicillin in their nuclei.\nD  The membrane of a human cell is impermeable to drugs.\n\n4. A patient with influenza takes penicillin. Why does it not treat the influenza?\nA  Viruses mutate too fast for any drug to reach them.\nB  Influenza viruses are too small to be seen.\nC  A virus has no cell wall for penicillin to act on and reproduces inside host cells.\nD  Penicillin kills the virus but too slowly to notice.\n\n5. Which disease agent is most likely to be killed by penicillin?\nA  the virus that causes HIV infection\nB  a bacterium that causes a throat infection\nC  Plasmodium, which causes malaria\nD  the virus that causes measles\n\n6. Which statement about antibiotic resistance is correct?\nA  The patient's cells become resistant.\nB  The antibiotic changes shape and becomes resistant.\nC  The antibiotic causes the mutation that gives resistance.\nD  Bacteria with a chance mutation survive and reproduce when the antibiotic is present.\n\n7. Which statement describes the mutations that give bacteria resistance?\nA  They arise by chance, whether or not the antibiotic is present.\nB  They arise in response to the antibiotic being present.\nC  They arise in the cells of the patient.\nD  They arise because the bacteria need to survive.\n\n8. A population of bacteria is exposed again and again to the same antibiotic. What happens to the proportion of resistant bacteria?\nA  It decreases.\nB  It stays the same.\nC  It increases because non-resistant bacteria die and resistant bacteria reproduce.\nD  It increases because each bacterium mutates to become resistant.\n\n9. Over five years in a hospital, the percentage of resistant bacteria rose from 5 per cent to 30 per cent as use of one antibiotic doubled. Which statement is consistent with these data?\nA  The antibiotic made the bacteria resistant.\nB  More use selected for resistant bacteria, which reproduced.\nC  The patients developed resistance.\nD  The bacteria needed the antibiotic.\n\n10. Why are several antibiotics given together to treat tuberculosis?\nA  so that the patient's cells become resistant to all of them\nB  because tuberculosis is caused by a virus\nC  so that the course can be stopped when the patient feels well\nD  because a bacterium resistant to one is likely to be killed by another\n\n11. A patient stops taking antibiotics early because she feels better. Why does this make resistant bacteria more likely?\nA  Surviving bacteria, which are more likely to be less susceptible, multiply again.\nB  The antibiotic stays in the body and mutates the bacteria.\nC  The patient's immune system becomes weaker.\nD  The patient's body adapts, so the antibiotic stops working.\n\n12. Which step would reduce the spread of antibiotic resistance?\nA  prescribing antibiotics for colds and influenza\nB  using antibiotics routinely at low doses in healthy farm animals\nC  testing which antibiotic kills the bacteria from a patient and prescribing a suitable one\nD  giving a strong antibiotic to each patient on admission",
+   "canonical_answer": "Key: 1 B, 2 D, 3 A, 4 C, 5 B, 6 D, 7 A, 8 C, 9 B, 10 D, 11 A, 12 C.\n1. Penicillin prevents wall building (B). A is the membrane, the common error, because penicillin does not act on the membrane; C and D are structures that penicillin does not act on.\n2. Water enters by osmosis and the weak wall cannot hold the cell, so it bursts (D). A reverses the direction of water movement; B repeats the membrane error; C has no link to wall building.\n3. Human cells have no such wall, so penicillin has no target (A). B confuses the immune system with the way penicillin acts; C invents a role for the nucleus; D is an error, since many substances cross a membrane.\n4. A virus has no wall and uses host cells to reproduce (C). A gives a vague reason that is not the mechanism; B is a fact about size that is irrelevant; D wrongly says penicillin kills viruses.\n5. A bacterium has the wall that penicillin acts on (B). A and D are viruses; C is the near-neighbour error, calling a eukaryote a bacterium.\n6. Bacteria become resistant by chance mutation and selection (D). A and B give resistance to the patient or the antibiotic, the register error; C says the antibiotic causes the mutation, but mutations arise by chance.\n7. The mutations arise by chance (A). B and D make the mutation directed by the antibiotic or by need; C moves it to the patient's cells.\n8. Selection raises the proportion of survivors that resist (C). A reverses the effect; B ignores selection; D says each bacterium changes in response, but mutation is by chance and few bacteria carry it.\n9. The pattern is consistent with selection (B). A repeats the idea that the antibiotic causes resistance; C blames the patient; D has no link to the data.\n10. A bacterium resistant to one drug is likely to be killed by another, and mutations to all at once are very unlikely (D). A gives resistance to the patient; B is a wrong cause, since TB is bacterial; C is the error of stopping early.\n11. Survivors reproduce when treatment stops (A). B says the antibiotic causes mutation; C has no support in the information; D says the patient adapts, the register error.\n12. A sensitivity test lets a suitable antibiotic be chosen (C). A treats a viral illness and adds selection pressure; B exposes many bacteria at low doses, which selects resistant ones; D raises the selection pressure with no need.",
+   "marking_guidance": [
+    "The key: one mark per correct option, twelve marks in all; about half the questions test recall and half test application to a data pattern, a described case or a sequence.",
+    "Each distractor is a named error: membrane given as the target of penicillin, a eukaryote called a bacterium, resistance given to the patient or the antibiotic, mutation said to be caused by the antibiotic, and the wrong direction of water movement."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.8.2 from the topic claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.8.2-001": 1,
+    "CLM-8223-2.8.2-002": 1,
+    "CLM-8223-2.8.2-003": 1,
+    "CLM-8223-2.8.2-004": 1,
+    "CLM-8223-2.8.2-005": 1,
+    "CLM-8223-2.8.2-006": 1,
+    "CLM-8223-2.8.2-007": 1,
+    "CLM-8223-2.8.2-008": 1,
+    "CLM-8223-2.8.2-009": 1,
+    "CLM-8223-2.8.2-010": 1,
+    "CLM-8223-2.8.2-011": 1,
+    "CLM-8223-2.8.2-012": 1
+   },
+   "authored_hash": "6ba982fb0925d987a36508bc56517ff622103b928e097b213fc6d6eb8cd89fb5",
+   "objective_titles": [
+    "describe how penicillin acts on bacteria and why antibiotics do not affect viruses and eukaryotic cells",
+    "outline how bacteria become resistant to antibiotics with reference to mutation and selection",
+    "discuss the consequences of antibiotic resistance and the steps that can be taken to reduce its impact"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.8.2-P02",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-01",
+    "OBJ-8223-2.8.2-02",
+    "OBJ-8223-2.8.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.8.2-003",
+    "CLM-8223-2.8.2-005",
+    "CLM-8223-2.8.2-006",
+    "CLM-8223-2.8.2-007",
+    "CLM-8223-2.8.2-010",
+    "CLM-8223-2.8.2-011"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "State",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "A man in Katutura is diagnosed with tuberculosis, which is treated with a combination of antibiotics for six months. After eight weeks he feels well and stops taking the tablets. Months later he is ill again, and the laboratory finds that the TB bacteria in his lungs now resist one of the antibiotics.\n\n(a) State the type of organism that causes tuberculosis. [1]\n(b) Explain why the same antibiotics would have no effect if his illness had been influenza. [2]\n(c) Explain how bacteria that resist the antibiotic came to be common in his lungs. [3]\n(d) Suggest two steps that could reduce the spread of resistant TB. [2]",
+   "canonical_answer": "(a) A bacterium.\n(b) Influenza is caused by a virus, which has no cell wall for the antibiotic to act on, and the virus reproduces inside host cells, so the antibiotics have no target.\n(c) A chance mutation gave a few bacteria resistance, whether or not the antibiotic was present. When the antibiotic was taken it killed the non-resistant bacteria, so the resistant ones survived, and when he stopped they reproduced and passed the resistance to their offspring, so resistant bacteria became common.\n(d) Taking the antibiotics as prescribed for the full course, a supervised programme that helps patients to complete treatment, treating with several antibiotics together, a sensitivity test to choose the drugs, and keeping infectious patients apart.",
+   "marking_guidance": [
+    "Marks and points: (a) 1 mark for bacterium; (b) 2 marks from three points: the cause is a virus, it has no cell wall, the antibiotic has no target or the virus reproduces inside host cells; (c) 3 marks from four points: chance mutation, antibiotic kills the non-resistant bacteria, survivors reproduce, offspring inherit resistance.",
+    "(d) 2 marks for two different steps from the five given in the answer, each with a reason because it lowers the chance of survivors or of spread. Parts (a) and (b) credit AO A (3 marks); parts (c) and (d) credit AO B (5 marks). The bacteria become resistant, not the man, and an answer that says the man became resistant earns no mark in (c)."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "A TB patient who stopped treatment early",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.8.2 from the topic claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.8.2-003": 1,
+    "CLM-8223-2.8.2-005": 1,
+    "CLM-8223-2.8.2-006": 1,
+    "CLM-8223-2.8.2-007": 1,
+    "CLM-8223-2.8.2-010": 1,
+    "CLM-8223-2.8.2-011": 1
+   },
+   "authored_hash": "aaaed55261d9e0045670d89bea76a0a23fe4f51ebdf8685cff289a887ae64d9c",
+   "objective_titles": [
+    "describe how penicillin acts on bacteria and why antibiotics do not affect viruses and eukaryotic cells",
+    "outline how bacteria become resistant to antibiotics with reference to mutation and selection",
+    "discuss the consequences of antibiotic resistance and the steps that can be taken to reduce its impact"
+   ]
+  }
+ ]
+}

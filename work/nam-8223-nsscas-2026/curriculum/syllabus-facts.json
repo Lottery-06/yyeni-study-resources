@@ -1,0 +1,2241 @@
+{
+ "facts_id": "SYLFACTS-NAM-NSSCAS-8223",
+ "generated_at": "2026-10-18T11:00:22Z",
+ "generated_by": "work/nam-8223-nsscas-2026/planning/transcribe_syllabus_8223.py",
+ "authority": "NSSCAS Biology Syllabus 8223 (NIED 2020), signed off 26 November 2020, Advanced Subsidiary Level, Grade 12, for implementation and first examination in 2021.",
+ "source_document": "Syllabi/Namibian Curricula/NSSCAS/NSSCAS_Biology_signed_off_and_approved_syllabus_26_November_2020.pdf",
+ "pages_in_document": 50,
+ "page_numbering": "page = the number printed on the syllabus page; pdf_page = the PDF page index (printed page + 3).",
+ "rule": "STEP ZERO of the pipeline. Every value here is transcribed from the syllabus and carries the page that states it. Nothing downstream may assert an AO weighting, a per-paper split, a paper structure or a command word that is not in this file. A value without a citation is a value we do not have. Values marked computed or derived are arithmetic on transcribed values, not syllabus statements.",
+ "route": "NSSCAS Advanced Subsidiary Level (Grade 12)",
+ "papers_sat": [
+  "Paper 1 Theory: Multiple choice questions",
+  "Paper 2 Theory: Structured questions",
+  "Paper 3 Advanced Practical Skills"
+ ],
+ "first_exam": "2021",
+ "assessment_objectives": [
+  {
+   "code": "A",
+   "name": "Knowledge with understanding",
+   "can_do": [
+    {
+     "code": "A1",
+     "text": "scientific phenomena, facts, laws, definitions, concepts and theories",
+     "source": {
+      "page": 20,
+      "pdf_page": 23,
+      "section": "6 Assessment objectives"
+     }
+    },
+    {
+     "code": "A2",
+     "text": "scientific vocabulary, terminology and conventions, (including symbols, quantities, units)",
+     "source": {
+      "page": 20,
+      "pdf_page": 23,
+      "section": "6 Assessment objectives"
+     }
+    },
+    {
+     "code": "A3",
+     "text": "scientific instruments and apparatus, including techniques of operation and aspects of safety",
+     "source": {
+      "page": 20,
+      "pdf_page": 23,
+      "section": "6 Assessment objectives"
+     }
+    },
+    {
+     "code": "A4",
+     "text": "scientific quantities and their determination",
+     "source": {
+      "page": 20,
+      "pdf_page": 23,
+      "section": "6 Assessment objectives"
+     }
+    },
+    {
+     "code": "A5",
+     "text": "scientific and technological applications with their social, economic and environmental implications",
+     "source": {
+      "page": 20,
+      "pdf_page": 23,
+      "section": "6 Assessment objectives"
+     }
+    }
+   ],
+   "source": {
+    "page": 20,
+    "pdf_page": 23,
+    "section": "6 Assessment objectives"
+   },
+   "verbatim": "A Knowledge with understanding",
+   "qualification_weight_percent": 40,
+   "weight_source": {
+    "page": 23,
+    "pdf_page": 26,
+    "section": "8 Specification grid"
+   },
+   "weight_verbatim": "A Knowledge with understanding 40% (not more than 20% recall) 20 30 0",
+   "weight_status": "printed in the grid; the grid itself says the weightings are approximate"
+  },
+  {
+   "code": "B",
+   "name": "Handling information and solving problems",
+   "can_do": [
+    {
+     "code": "B1",
+     "text": "locate, select, organise and present information from a variety of sources",
+     "source": {
+      "page": 20,
+      "pdf_page": 23,
+      "section": "6 Assessment objectives"
+     }
+    },
+    {
+     "code": "B2",
+     "text": "translate information from one form to another",
+     "source": {
+      "page": 20,
+      "pdf_page": 23,
+      "section": "6 Assessment objectives"
+     }
+    },
+    {
+     "code": "B3",
+     "text": "manipulate numerical and other data",
+     "source": {
+      "page": 20,
+      "pdf_page": 23,
+      "section": "6 Assessment objectives"
+     }
+    },
+    {
+     "code": "B4",
+     "text": "use information to identify patterns, report trends and draw inferences",
+     "source": {
+      "page": 20,
+      "pdf_page": 23,
+      "section": "6 Assessment objectives"
+     }
+    },
+    {
+     "code": "B5",
+     "text": "present reasoned explanations for phenomena, patterns and relationships",
+     "source": {
+      "page": 20,
+      "pdf_page": 23,
+      "section": "6 Assessment objectives"
+     }
+    },
+    {
+     "code": "B6",
+     "text": "make predictions and hypotheses and solve problems",
+     "source": {
+      "page": 20,
+      "pdf_page": 23,
+      "section": "6 Assessment objectives"
+     }
+    },
+    {
+     "code": "B7",
+     "text": "apply knowledge, including principles, to new situations",
+     "source": {
+      "page": 20,
+      "pdf_page": 23,
+      "section": "6 Assessment objectives"
+     }
+    },
+    {
+     "code": "B8",
+     "text": "demonstrate an awareness of the limitations of biological theories and models",
+     "source": {
+      "page": 20,
+      "pdf_page": 23,
+      "section": "6 Assessment objectives"
+     }
+    }
+   ],
+   "source": {
+    "page": 20,
+    "pdf_page": 23,
+    "section": "6 Assessment objectives"
+   },
+   "verbatim": "B HANDLING INFORMATION AND SOLVING PROBLEMS",
+   "qualification_weight_percent": 40,
+   "weight_source": {
+    "page": 23,
+    "pdf_page": 26,
+    "section": "8 Specification grid"
+   },
+   "weight_verbatim": "B Handling information, application and solving problems 40% 20 30 0",
+   "weight_status": "printed in the grid; the grid itself says the weightings are approximate"
+  },
+  {
+   "code": "C",
+   "name": "Practical (experimental and investigative) skills and abilities",
+   "can_do": [
+    {
+     "code": "C1",
+     "text": "Follow a sequence of instructions,using appropriate techniques, handling apparatus and materials competently and having due regard for safety",
+     "source": {
+      "page": 21,
+      "pdf_page": 24,
+      "section": "6 Assessment objectives"
+     }
+    },
+    {
+     "code": "C2",
+     "text": "make and record estimates, observations and measurements accurately",
+     "source": {
+      "page": 21,
+      "pdf_page": 24,
+      "section": "6 Assessment objectives"
+     }
+    },
+    {
+     "code": "C3",
+     "text": "handle and process experimental observations and data, including dealing with anomalous or inconsistent results",
+     "source": {
+      "page": 21,
+      "pdf_page": 24,
+      "section": "6 Assessment objectives"
+     }
+    },
+    {
+     "code": "C4",
+     "text": "apply scientific knowledge and understanding to make interpretations and to draw appropriate conclusions from practical observations and data",
+     "source": {
+      "page": 21,
+      "pdf_page": 24,
+      "section": "6 Assessment objectives"
+     }
+    },
+    {
+     "code": "C5",
+     "text": "plan, design and carry out investigations (based on concepts familiar to learners) and suggest modifications in the light of experience",
+     "source": {
+      "page": 21,
+      "pdf_page": 24,
+      "section": "6 Assessment objectives"
+     }
+    }
+   ],
+   "source": {
+    "page": 21,
+    "pdf_page": 24,
+    "section": "6 Assessment objectives"
+   },
+   "verbatim": "C PRACTICAL (experimental and investigative) SKILLS AND ABILITIES",
+   "qualification_weight_percent": 20,
+   "weight_source": {
+    "page": 23,
+    "pdf_page": 26,
+    "section": "8 Specification grid"
+   },
+   "weight_verbatim": "C Practical (experimental and investigative) skills and abilities 20% 0 0 40",
+   "weight_status": "printed in the grid; the grid itself says the weightings are approximate"
+  }
+ ],
+ "papers": [
+  {
+   "paper_id": "P1",
+   "label": "Paper 1",
+   "name": "Theory: Multiple choice questions",
+   "marks": 40,
+   "duration_minutes": 60,
+   "description": "This paper consists of forty multiple-choice items of the four-choice type. The questions will be based on content described as specific objectives and will test abilities in assessment objectives A and B. Candidates will answer all questions. Candidates will answer on an answer sheet.",
+   "source": {
+    "page": 22,
+    "pdf_page": 25,
+    "section": "7 Scheme of assessment"
+   },
+   "verbatim": "1 hour 40",
+   "verbatim_page": {
+    "page": 22,
+    "pdf_page": 25,
+    "section": "7 Scheme of assessment"
+   },
+   "ao_marks": {
+    "A": 20,
+    "B": 20,
+    "C": 0
+   },
+   "ao_marks_source": {
+    "page": 23,
+    "pdf_page": 26,
+    "section": "8 Specification grid"
+   },
+   "ao_split_percent_derived_from_marks": {
+    "A": 50,
+    "B": 50,
+    "C": 0
+   },
+   "weight_percent_printed_table": 29,
+   "weight_table_verbatim": "Paper 1 Paper 2 Paper 3 (Advanced Practical Skills) 29% 42% 29%",
+   "weight_source": {
+    "page": 23,
+    "pdf_page": 26,
+    "section": "7 Scheme of assessment, Weighting of papers"
+   }
+  },
+  {
+   "paper_id": "P2",
+   "label": "Paper 2",
+   "name": "Theory: Structured questions",
+   "marks": 60,
+   "duration_minutes": 75,
+   "description": "This paper will consist of compulsory short- answer, structured and free-response questionsa variable number of questions, of variable mark value.The questions will test skills and abilities in Assessment Objectives A and B. Learners will answer all questions on the question paper [booklet].",
+   "source": {
+    "page": 22,
+    "pdf_page": 25,
+    "section": "7 Scheme of assessment"
+   },
+   "verbatim": "1 hour 15 minutes 60",
+   "verbatim_page": {
+    "page": 22,
+    "pdf_page": 25,
+    "section": "7 Scheme of assessment"
+   },
+   "ao_marks": {
+    "A": 30,
+    "B": 30,
+    "C": 0
+   },
+   "ao_marks_source": {
+    "page": 23,
+    "pdf_page": 26,
+    "section": "8 Specification grid"
+   },
+   "ao_split_percent_derived_from_marks": {
+    "A": 50,
+    "B": 50,
+    "C": 0
+   },
+   "weight_percent_printed_table": 42,
+   "weight_table_verbatim": "Paper 1 Paper 2 Paper 3 (Advanced Practical Skills) 29% 42% 29%",
+   "weight_source": {
+    "page": 23,
+    "pdf_page": 26,
+    "section": "7 Scheme of assessment, Weighting of papers"
+   }
+  },
+  {
+   "paper_id": "P3",
+   "label": "Paper 3",
+   "name": "Advanced Practical Skills",
+   "marks": 40,
+   "duration_minutes": 120,
+   "description": "This paper requires learners to carry out practical work in timed conditions. Learners will be expected to collect, record and analyse data so that they can answer questions related to the activity. The paper will consist of two experiments drawn from different areas of Biology. Learners will answer all questions. Learners will answer on the question paper. These questions may be based on the practical work in this syllabus with which the learner is familiar. They may also include practical exercises unfamiliar to the learner, but if this is the case then sufficient explanation and instruction will be given to enable the learner to use knowledge of practical work in other areas to complete the task satisfactorily. Centres are expected to have standard laboratory facilities available for all of their learners.",
+   "source": {
+    "page": 22,
+    "pdf_page": 25,
+    "section": "7 Scheme of assessment"
+   },
+   "verbatim": "2 hours 40",
+   "verbatim_page": {
+    "page": 22,
+    "pdf_page": 25,
+    "section": "7 Scheme of assessment"
+   },
+   "ao_marks": {
+    "A": 0,
+    "B": 0,
+    "C": 40
+   },
+   "ao_marks_source": {
+    "page": 23,
+    "pdf_page": 26,
+    "section": "8 Specification grid"
+   },
+   "ao_split_percent_derived_from_marks": {
+    "A": 0,
+    "B": 0,
+    "C": 100
+   },
+   "weight_percent_printed_table": 29,
+   "weight_table_verbatim": "Paper 1 Paper 2 Paper 3 (Advanced Practical Skills) 29% 42% 29%",
+   "weight_source": {
+    "page": 23,
+    "pdf_page": 26,
+    "section": "7 Scheme of assessment, Weighting of papers"
+   }
+  }
+ ],
+ "paper_total_marks": {
+  "value": 140,
+  "source": {
+   "page": 22,
+   "pdf_page": 25,
+   "section": "7 Scheme of assessment"
+  },
+  "verbatim": "TOTAL 140"
+ },
+ "conflicts_and_qualifiers": [
+  {
+   "id": "SYL-CONFLICT-PAPER-WEIGHTS",
+   "statement": "Three figures for paper weighting disagree.",
+   "values": {
+    "prose_77_23": "Paper 1 and 2 will constitute 77% of the final assessment while Paper 3 will constitute 23%.",
+    "table_printed": "29% / 42% / 29%",
+    "computed_from_marks_40_60_40_of_140": [
+     28.6,
+     42.9,
+     28.6
+    ]
+   },
+   "sources": [
+    {
+     "page": 23,
+     "pdf_page": 26,
+     "section": "7 Scheme of assessment"
+    },
+    {
+     "page": 23,
+     "pdf_page": 26,
+     "section": "7 Scheme of assessment"
+    }
+   ],
+   "quotes": [
+    "Paper 1 and 2 will constitute 77% of the final assessment while Paper 3 will constitute 23%.",
+    "Paper 1 Paper 2 Paper 3 (Advanced Practical Skills) 29% 42% 29%"
+   ],
+   "qualified_by_syllabus_as_approximate": false,
+   "status": "computed"
+  },
+  {
+   "id": "SYLCONFLICT-AO-WEIGHTS",
+   "statement": "The printed AO percentages (40/40/20) differ from the grid's marks (A 20+30 = 50, B 20+30 = 50, C 40, of 140).",
+   "values": {
+    "printed": [
+     40,
+     40,
+     20
+    ],
+    "computed_from_grid_marks": [
+     35.7,
+     35.7,
+     28.6
+    ]
+   },
+   "sources": [
+    {
+     "page": 23,
+     "pdf_page": 26,
+     "section": "8 Specification grid"
+    }
+   ],
+   "quotes": [
+    "A Knowledge with understanding 40% (not more than 20% recall) 20 30 0",
+    "C Practical (experimental and investigative) skills and abilities 20% 0 0 40"
+   ],
+   "qualified_by_syllabus_as_approximate": true,
+   "status": "computed"
+  },
+  {
+   "id": "SYL-QUALIFIER-GRID-APPROXIMATE",
+   "statement": "The syllabus says the grid is only a general idea and the balance on each paper may vary slightly.",
+   "verbatim": "The Specification Grid in section 8 gives a general idea of how marks are allocated to assessment objectives in the different components. However, the balance on each paper may vary slightly.",
+   "sources": [
+    {
+     "page": 23,
+     "pdf_page": 26,
+     "section": "7 Scheme of assessment"
+    }
+   ]
+  },
+  {
+   "id": "SYL-LINCOLN-XREF",
+   "statement": "The 1.2 objective points to the Mathematical requirements for the Lincoln index, but Annexe C (Mathematical requirements) contains no Lincoln index or formula and does not say it will be supplied. Only Simpson's Index of Diversity appears there.",
+   "quotes": [
+    "mark-release-recapture using the Lincoln index (as shown in the Mathematical requirements)"
+   ],
+   "sources": [
+    {
+     "page": 5,
+     "pdf_page": 8,
+     "section": "3 Learning content, 1.2 Biodiversity"
+    }
+   ],
+   "absence_checked_in": {
+    "page": 43,
+    "pdf_page": 46,
+    "section": "Annexe C Mathematical requirements"
+   },
+   "absence_check": "no occurrence of 'Lincoln' on the Annexe C pages (searched by the transcription script)",
+   "status": "checked-by-search"
+  }
+ ],
+ "command_words": [
+  {
+   "word": "Define (the term(s)...).",
+   "meaning": "is intended literally. Only a formal statement or equivalent paraphrase is required",
+   "source": {
+    "page": 25,
+    "pdf_page": 28,
+    "section": "10 Glossary of terms used in science papers"
+   },
+   "verbatim": "Define (the term(s)...). is intended literally. Only a formal statement or equivalent paraphrase is required"
+  },
+  {
+   "word": "What do you understand by/What is meant by (the term(s)...)",
+   "meaning": "normally implies that a definition should be given, together with some relevant comment on the significance or context of the term(s) concerned, especially where two or more terms are included in the question. The amount of supplementary comment intended should be interpreted in the light of the indicated mark value.",
+   "source": {
+    "page": 25,
+    "pdf_page": 28,
+    "section": "10 Glossary of terms used in science papers"
+   },
+   "verbatim": "What do you understand by/What is meant by (the term(s)...) normally implies that a definition should be given, together with some relevant comment on the significance or context of the term(s) concerned, especially where two or more terms are included in the question. The amount of supplementary comment intended should be interpreted in the light of the indicated mark value."
+  },
+  {
+   "word": "State",
+   "meaning": "implies a concise answer with little or no supporting argument, e.g. a numerical answer that can be obtained 'by inspection'.",
+   "source": {
+    "page": 25,
+    "pdf_page": 28,
+    "section": "10 Glossary of terms used in science papers"
+   },
+   "verbatim": "State implies a concise answer with little or no supporting argument, e.g. a numerical answer that can be obtained 'by inspection'."
+  },
+  {
+   "word": "List",
+   "meaning": "requires a number of points with no elaboration. If a specific number of points is requested, this number should not be exceeded.",
+   "source": {
+    "page": 25,
+    "pdf_page": 28,
+    "section": "10 Glossary of terms used in science papers"
+   },
+   "verbatim": "List requires a number of points with no elaboration. If a specific number of points is requested, this number should not be exceeded."
+  },
+  {
+   "word": "Explain",
+   "meaning": "may imply reasoning or some reference to theory, depending on the context.It is another way of asking candidates to give reasons for. The candidate needs to make sure that the examiner is told why something happens.",
+   "source": {
+    "page": 25,
+    "pdf_page": 28,
+    "section": "10 Glossary of terms used in science papers"
+   },
+   "verbatim": "Explain may imply reasoning or some reference to theory, depending on the context.It is another way of asking candidates to give reasons for. The candidate needs to make sure that the examiner is told why something happens."
+  },
+  {
+   "word": "Give a reason/ give reasons",
+   "meaning": "this is another way of asking candidates to explain why something happens.",
+   "source": {
+    "page": 25,
+    "pdf_page": 28,
+    "section": "10 Glossary of terms used in science papers"
+   },
+   "verbatim": "Give a reason/ give reasons this is another way of asking candidates to explain why something happens."
+  },
+  {
+   "word": "Describe",
+   "meaning": "requires candidates to state in words (using diagrams where appropriate) the main points of the topic. It is often used with reference either to particular phenomena or to particular experiments. For particular phenomena, the term usually implies that the answer should include reference to (visual) observations associated with the phenomena. In other contexts, describe and give an account ofshould be interpreted more generally, i.e. the candidate has greater discretion about the nature and the organisation of the material to be included in the answer. Describe and explainmay be coupled in a similar way to state and explain.Describe a processmeansgive a step-by-step description of what happens during the process.",
+   "source": {
+    "page": 25,
+    "pdf_page": 28,
+    "section": "10 Glossary of terms used in science papers"
+   },
+   "verbatim": "Describe requires candidates to state in words (using diagrams where appropriate) the main points of the topic. It is often used with reference either to particular phenomena or to particular experiments. For particular phenomena, the term usually implies that the answer should include reference to (visual) observations associated with the phenomena. In other contexts, describe and give an account ofshould be interpreted more generally, i.e. the candidate has greater discretion about the nature and the organisation of the material to be included in the answer. Describe and explainmay be coupled in a similar way to state and explain.Describe a processmeansgive a step-by-step description of what happens during the process."
+  },
+  {
+   "word": "Discuss",
+   "meaning": "requires candidates to give a critical account of the points involved in the topic.",
+   "source": {
+    "page": 25,
+    "pdf_page": 28,
+    "section": "10 Glossary of terms used in science papers"
+   },
+   "verbatim": "Discuss requires candidates to give a critical account of the points involved in the topic."
+  },
+  {
+   "word": "Outline",
+   "meaning": "implies brevity, i.e. restricting the answer to giving essentials.",
+   "source": {
+    "page": 25,
+    "pdf_page": 28,
+    "section": "10 Glossary of terms used in science papers"
+   },
+   "verbatim": "Outline implies brevity, i.e. restricting the answer to giving essentials."
+  },
+  {
+   "word": "Deduce",
+   "meaning": "follow the guidance for predict, but a supporting statement is also required. For example, reference to a law, a principle or the necessary reasoning should be included in the answer.",
+   "source": {
+    "page": 25,
+    "pdf_page": 28,
+    "section": "10 Glossary of terms used in science papers"
+   },
+   "verbatim": "Deduce follow the guidance for predict, but a supporting statement is also required. For example, reference to a law, a principle or the necessary reasoning should be included in the answer."
+  },
+  {
+   "word": "predict",
+   "meaning": "implies that the candidate is not expected to produce the required answer by recall but by making a logical connection between other pieces of information. Such information may be wholly given in the question or may depend on answers extracted in an earlier part of the question.",
+   "source": {
+    "page": 25,
+    "pdf_page": 28,
+    "section": "10 Glossary of terms used in science papers"
+   },
+   "verbatim": "predict implies that the candidate is not expected to produce the required answer by recall but by making a logical connection between other pieces of information. Such information may be wholly given in the question or may depend on answers extracted in an earlier part of the question."
+  },
+  {
+   "word": "Comment",
+   "meaning": "is intended as an open-ended instruction, inviting candidates to recall or infer points ofinterest relevant to the context of the question, taking account of the number of marks available.",
+   "source": {
+    "page": 25,
+    "pdf_page": 28,
+    "section": "10 Glossary of terms used in science papers"
+   },
+   "verbatim": "Comment is intended as an open-ended instruction, inviting candidates to recall or infer points ofinterest relevant to the context of the question, taking account of the number of marks available."
+  },
+  {
+   "word": "Suggest",
+   "meaning": "Suggest: may imply that there is no single correct answer (for example, in biology, there are a number of factors that might limit the rate of photosynthesis in a plant in a glasshouse). Suggest: may also imply that the candidate must apply their general knowledge and understanding of biology to a 'novel' situation, one that may not formally be 'in the syllabus'. Many data-response and problem-solving questions are of this type.",
+   "source": {
+    "page": 26,
+    "pdf_page": 29,
+    "section": "10 Glossary of terms used in science papers"
+   },
+   "verbatim": "Suggest Suggest: may imply that there is no single correct answer (for example, in biology, there are a number of factors that might limit the rate of photosynthesis in a plant in a glasshouse). Suggest: may also imply that the candidate must apply their general knowledge and understanding of biology to a 'novel' situation, one that may not formally be 'in the syllabus'. Many data-response and problem-solving questions are of this type."
+  },
+  {
+   "word": "Find",
+   "meaning": "is a general term that may variously be interpreted as calculate, measure, determine, etc.",
+   "source": {
+    "page": 26,
+    "pdf_page": 29,
+    "section": "10 Glossary of terms used in science papers"
+   },
+   "verbatim": "Find is a general term that may variously be interpreted as calculate, measure, determine, etc."
+  },
+  {
+   "word": "Calculate",
+   "meaning": "is used when a numerical answer is required. In general, working should be shown, especially where two or more steps are involved.The candidate should give suitable units where possible.",
+   "source": {
+    "page": 26,
+    "pdf_page": 29,
+    "section": "10 Glossary of terms used in science papers"
+   },
+   "verbatim": "Calculate is used when a numerical answer is required. In general, working should be shown, especially where two or more steps are involved.The candidate should give suitable units where possible."
+  },
+  {
+   "word": "Measure",
+   "meaning": "implies that the quantity concerned can be directly obtained from a suitable measuringinstrument, e.g. length, using a rule, or angle, using a protractor.The candidate should give suitable units where possible.",
+   "source": {
+    "page": 26,
+    "pdf_page": 29,
+    "section": "10 Glossary of terms used in science papers"
+   },
+   "verbatim": "Measure implies that the quantity concerned can be directly obtained from a suitable measuringinstrument, e.g. length, using a rule, or angle, using a protractor.The candidate should give suitable units where possible."
+  },
+  {
+   "word": "Determine",
+   "meaning": "often implies that the quantity concerned cannot be measured directly but is obtained by calculation, substituting measured or known values of other quantities into a standard formula. It may also be used when the candidate must carry out a procedure to find a numerical answer.",
+   "source": {
+    "page": 26,
+    "pdf_page": 29,
+    "section": "10 Glossary of terms used in science papers"
+   },
+   "verbatim": "Determine often implies that the quantity concerned cannot be measured directly but is obtained by calculation, substituting measured or known values of other quantities into a standard formula. It may also be used when the candidate must carry out a procedure to find a numerical answer."
+  },
+  {
+   "word": "Estimate",
+   "meaning": "implies a reasoned order of magnitude statement or calculation of the quantity concerned. Candidates should make any necessary simplifying assumptions about points of principle and about the values of quantities not otherwise included in the question.",
+   "source": {
+    "page": 26,
+    "pdf_page": 29,
+    "section": "10 Glossary of terms used in science papers"
+   },
+   "verbatim": "Estimate implies a reasoned order of magnitude statement or calculation of the quantity concerned. Candidates should make any necessary simplifying assumptions about points of principle and about the values of quantities not otherwise included in the question."
+  },
+  {
+   "word": "Show",
+   "meaning": "make an algebraic deduction to prove a given equation. The candidate must state clearly the terms being used.",
+   "source": {
+    "page": 26,
+    "pdf_page": 29,
+    "section": "10 Glossary of terms used in science papers"
+   },
+   "verbatim": "Show make an algebraic deduction to prove a given equation. The candidate must state clearly the terms being used."
+  },
+  {
+   "word": "Sketch",
+   "meaning": "when applied to graph work, implies that the shape and/or position of the curve need only be qualitatively correct, but candidates should be aware that, depending on the context, some quantitative aspects may be looked for, e.g. passing through the origin, having an intercept, asymptote or discontinuity at a particular value. In diagrams, sketch implies that a simple, freehand drawing is acceptable though care should be taken over proportions and the clear exposition of important details.",
+   "source": {
+    "page": 26,
+    "pdf_page": 29,
+    "section": "10 Glossary of terms used in science papers"
+   },
+   "verbatim": "Sketch when applied to graph work, implies that the shape and/or position of the curve need only be qualitatively correct, but candidates should be aware that, depending on the context, some quantitative aspects may be looked for, e.g. passing through the origin, having an intercept, asymptote or discontinuity at a particular value. In diagrams, sketch implies that a simple, freehand drawing is acceptable though care should be taken over proportions and the clear exposition of important details."
+  },
+  {
+   "word": "Construct",
+   "meaning": "is often used in relation to chemical equations where a candidate is expected to write a balanced equation, not by factual recall but by analogy or by using information in the question.",
+   "source": {
+    "page": 26,
+    "pdf_page": 29,
+    "section": "10 Glossary of terms used in science papers"
+   },
+   "verbatim": "Construct is often used in relation to chemical equations where a candidate is expected to write a balanced equation, not by factual recall but by analogy or by using information in the question."
+  },
+  {
+   "word": "Compare",
+   "meaning": "requires candidates to provide both the similarities and differences between things orconcepts.",
+   "source": {
+    "page": 26,
+    "pdf_page": 29,
+    "section": "10 Glossary of terms used in science papers"
+   },
+   "verbatim": "Compare requires candidates to provide both the similarities and differences between things orconcepts."
+  },
+  {
+   "word": "Recognise",
+   "meaning": "identify facts, characteristics or concepts that are relevant and/or appropriate to understanding a situation, event, process or phenomenon.",
+   "source": {
+    "page": 26,
+    "pdf_page": 29,
+    "section": "10 Glossary of terms used in science papers"
+   },
+   "verbatim": "Recognise identify facts, characteristics or concepts that are relevant and/or appropriate to understanding a situation, event, process or phenomenon."
+  },
+  {
+   "word": "Classify",
+   "meaning": "requires candidates to group things based on common characteristics.",
+   "source": {
+    "page": 26,
+    "pdf_page": 29,
+    "section": "10 Glossary of terms used in science papers"
+   },
+   "verbatim": "Classify requires candidates to group things based on common characteristics."
+  }
+ ],
+ "command_word_table": {
+  "page": 25,
+  "section": "10 Glossary of terms used in science papers",
+  "count": 24,
+  "note": "The syllabus calls its glossary 'neither exhaustive nor definitive' and says a term's meaning depends partly on its context. 'predict' is lower-case in the source. A word the papers use that is not listed is recorded separately as observed-not-listed; a word listed but never used as listed-not-observed. Neither is guessed."
+ },
+ "themes": {
+  "1": {
+   "title": "Classification Of Living Organisms",
+   "page": 5
+  },
+  "2": {
+   "title": "Organisation And Maintenance Of The Organism",
+   "page": 7
+  },
+  "3": {
+   "title": "Development Of The Organism And The Continuity Of Life",
+   "page": 18
+  }
+ },
+ "content_outline": [
+  {
+   "id": "1.1",
+   "theme": "1",
+   "title": "Classification",
+   "general": [
+    {
+     "text": "know how the hierarchical classification systems are used",
+     "page": 5,
+     "variants": [
+      {
+       "page": 5,
+       "text": "know how the hierarchical classification systems are used"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "use and describe the binomial system of naming organisms",
+     "page": 5
+    },
+    {
+     "text": "describe the use of a hierarchical classification system for living organisms",
+     "page": 5
+    },
+    {
+     "text": "explain the concept of natural classification, based on homologous features and evolutionary relationships",
+     "page": 5
+    },
+    {
+     "text": "construct dichotomous keys for the identification of locally occurring organisms",
+     "page": 5
+    },
+    {
+     "text": "discuss the meaning of the term species, limited to the biological, morphological, ecological and behavioural concepts",
+     "page": 5
+    }
+   ],
+   "pages": [
+    5
+   ],
+   "parent_id": null,
+   "is_leaf": true
+  },
+  {
+   "id": "1.2",
+   "theme": "1",
+   "title": "Biodiversity",
+   "general": [
+    {
+     "text": "know three levels of biodiversity, the importance of random sampling and assess their distribution and abundance of organisms in their locality",
+     "page": 5,
+     "variants": [
+      {
+       "page": 5,
+       "text": "know three levels of biodiversity, the importance of random sampling and assess their distribution and abundance of organisms in their locality"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "define ecosystem and niche",
+     "page": 5
+    },
+    {
+     "text": "explain that biodiversity can be assessed at differentlevels: - the number and range of different ecosystems and habitats - the number of species and their relative abundance - the genetic variation within each species",
+     "page": 5
+    },
+    {
+     "text": "explain the importance of random sampling in determining the biodiversity of an area",
+     "page": 5
+    },
+    {
+     "text": "use Simpson's Index of Diversity (D) to calculate the biodiversity of an area, and state the significance of different values of D (the formula for Simpson's Index of Diversity will be provided, as shown in the Mathematical requirements) (formula: D = 1 – (Ʃ )2 )",
+     "page": 5
+    },
+    {
+     "text": "describe and usesuitable methods to assess the distribution and abundance of organisms in an area, limited to frame quadrats, line transects, belttransects and mark-release-recapture using the Lincoln index (as shown in the Mathematical requirements)",
+     "page": 5
+    },
+    {
+     "text": "investigate the distribution and abundance of species in a local area,using the methods above/ suitable methods",
+     "page": 5
+    }
+   ],
+   "pages": [
+    5
+   ],
+   "parent_id": null,
+   "is_leaf": true
+  },
+  {
+   "id": "1.3",
+   "theme": "1",
+   "title": "Conservation",
+   "general": [
+    {
+     "text": "realise the importance of maintaining biodiversity and know the actions required at local, national and global levels",
+     "page": 6,
+     "variants": [
+      {
+       "page": 6,
+       "text": "realise the importance of maintaining biodiversity and know the actions required at local, national and global levels"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "discuss the reasons for the need to maintain biodiversity",
+     "page": 6
+    },
+    {
+     "text": "explain the importance of reducing the pollution of water ways with reference to bioaccumulation and eutrophication",
+     "page": 6
+    },
+    {
+     "text": "outline the roles of zoos, botanic gardens, conserved areas (national parks and marine parks), 'frozen zoos' and seed banks, in the conservation of endangered species",
+     "page": 6
+    },
+    {
+     "text": "explain why it may be necessary to limit the population of species, for example by culling or contraception, in order to reduce pressure of other species",
+     "page": 6
+    },
+    {
+     "text": "explain, using examples, the importance of controlling alien species",
+     "page": 6
+    },
+    {
+     "text": "describe how degraded habitats may be restored limited to local or regional examples",
+     "page": 6
+    },
+    {
+     "text": "investigate the negative impact of rhino and elephant poaching on the tourism sector locally (Namibia) and regionally (South Africa and Botswana)",
+     "page": 6
+    }
+   ],
+   "pages": [
+    6
+   ],
+   "parent_id": null,
+   "is_leaf": true
+  },
+  {
+   "id": "2.1",
+   "theme": "2",
+   "title": "The microscope",
+   "general": [
+    {
+     "text": "know and understand the principles of light and electron microscopy",
+     "page": 7,
+     "variants": [
+      {
+       "page": 7,
+       "text": "know and understand the principles of light and electron microscopy"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "state and explain the principles of microscopy",
+     "page": 7
+    },
+    {
+     "text": "explain and distinguish between resolution and magnification, with reference to light-and electron microscope",
+     "page": 7
+    },
+    {
+     "text": "use an eyepiece graticule and stage micrometer scale to measure cells and be familiar with units (millimetre, micrometre and nanometre)",
+     "page": 7
+    },
+    {
+     "text": "calculate actual sizes of specimens from drawings, photomicrographs and electron micrographs",
+     "page": 7
+    },
+    {
+     "text": "calculate the linear magnifications of drawings, photomicrographs and electron micrographs",
+     "page": 7
+    }
+   ],
+   "pages": [
+    7
+   ],
+   "parent_id": null,
+   "is_leaf": true
+  },
+  {
+   "id": "2.2",
+   "theme": "2",
+   "title": "Cell structure",
+   "general": [
+    {
+     "text": "know and understand the cellular nature of all living organisms and the difference between prokaryotic and eukaryotic cells and viruses",
+     "page": 7,
+     "variants": [
+      {
+       "page": 7,
+       "text": "know and understand the cellular nature of all living organisms and the difference between prokaryotic and eukaryotic cells and viruses"
+      },
+      {
+       "page": 8,
+       "text": "know and understand the cellular nature of all living organisms and the difference between prokaryotic and eukaryotic cells and viruses"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "identify and recognise the following parts of a eukaryotic cell and outline the functions of the: - cell surface membrane - nucleus, nuclear envelope and nucleolus - mitochondrion - ribosomes (80S in the cytoplasm and 70S in chloroplasts and mitochondria) - chloroplast - rough and smooth endoplasmic reticulum - Golgi body (Golgi apparatus or Golgi complex) - lysosomes - cell wall - centrioles - cilia - microvilli - plasmodesmata - large permanent vacuoles and - tonoplast",
+     "page": 7
+    },
+    {
+     "text": "describe and interpret the structure of plant and animal cells as seen with an electron microscope",
+     "page": 8
+    },
+    {
+     "text": "draw and label low power plan diagrams of tissues and organs (including a transverse section of stems, roots and leaves)",
+     "page": 8
+    },
+    {
+     "text": "compare the structure of a typical plant (palisade) and animal (liver) cells",
+     "page": 8
+    },
+    {
+     "text": "make temporary slides (wet mounts) of plant and animal cells (for example: epidermal cells from a leaf or an onion, epithelial cells from the trachea of a sheep or human cheek cells)",
+     "page": 8
+    },
+    {
+     "text": "make observations and drawings of cells as seen under a light microscope (including cells within transverse sections of stems,roots and leaves)",
+     "page": 8
+    },
+    {
+     "text": "outline key structural features of typical prokaryotic cells as found in a typical bacterium (including: unicellular, 1–5μm diameter, peptidoglycan cell walls, naked circular DNA, 70S ribosomes, absence of double membrane-bound organelles)",
+     "page": 8
+    },
+    {
+     "text": "compare and contrast the structure of prokaryotic cells with eukaryotic cells (no reference to mesosomes required)",
+     "page": 8
+    },
+    {
+     "text": "state that ATP is produced in mitochondria and chloroplasts and outline its role in cells",
+     "page": 8
+    },
+    {
+     "text": "state that all viruses are non-cellular and have a nucleic acid core (either DNA or RNA), a capsid made of protein, and some viruses have an outer envelope made of phospholipid",
+     "page": 8
+    }
+   ],
+   "pages": [
+    7,
+    8
+   ],
+   "parent_id": null,
+   "is_leaf": true
+  },
+  {
+   "id": "2.3",
+   "theme": "2",
+   "title": "Cell membranes and transport",
+   "general": [],
+   "specific": [],
+   "pages": [
+    9
+   ],
+   "parent_id": null,
+   "is_leaf": false
+  },
+  {
+   "id": "2.3.1",
+   "theme": "2",
+   "title": "Fluid mosaic membranes",
+   "general": [
+    {
+     "text": "know and understand the structure and functions of cell surface membranes in relation to cell signalling",
+     "page": 9,
+     "variants": [
+      {
+       "page": 9,
+       "text": "know and understand the structure and functions of cell surface membranes in relation to cell signalling"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "describe the fluid mosaic model of membrane structure, including the components phospholipids, cholesterol, glycolipids, proteins and glycoproteins",
+     "page": 9
+    },
+    {
+     "text": "outline the roles of the cell surface membrane",
+     "page": 9
+    },
+    {
+     "text": "describe the roles in cell surface membranes of phospholipids, cholesterol, carrierproteins, channelproteins, cell surface receptors and cell surface antigens",
+     "page": 9
+    },
+    {
+     "text": "outline the process of cell signalling involving the release of chemicals that combine with cell surface receptors on target cells, leading to specific responses",
+     "page": 9
+    }
+   ],
+   "pages": [
+    9
+   ],
+   "parent_id": "2.3",
+   "is_leaf": true
+  },
+  {
+   "id": "2.3.2",
+   "theme": "2",
+   "title": "Movement of substances into and out of cells",
+   "general": [
+    {
+     "text": "understand how substances enter and exit cells by a variety of mechanisms",
+     "page": 9,
+     "variants": [
+      {
+       "page": 9,
+       "text": "understand how substances enter and exit cells by a variety of mechanisms"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "describe and explain the processes of diffusion, facilitated diffusion, osmosis, active transport, endocytosis and exocytosis (no calculations involving water potential will be set)",
+     "page": 9
+    },
+    {
+     "text": "investigate simple diffusion and osmosis using plant tissue and non- living materials, such as glucose solutions, Visking tubing and agar",
+     "page": 9
+    },
+    {
+     "text": "calculate surface areas and volumes of simple shapes (e.g. cubes) to illustrate the principle that surface area to volume ratios decrease with increasing size",
+     "page": 9
+    },
+    {
+     "text": "explain the movement of water between cells and solutionswith different water potentials and explain the different effect son plant cells (using the terms turgid, flaccid, plasmolysis) and animal cells (Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected)",
+     "page": 9
+    },
+    {
+     "text": "investigate the effects of immersing plant tissues in solutions of different water potential, using the results to estimate the water potential of the tissues",
+     "page": 9
+    }
+   ],
+   "pages": [
+    9
+   ],
+   "parent_id": "2.3",
+   "is_leaf": true
+  },
+  {
+   "id": "2.4",
+   "theme": "2",
+   "title": "Biological molecules",
+   "general": [],
+   "specific": [],
+   "pages": [
+    10
+   ],
+   "parent_id": null,
+   "is_leaf": false
+  },
+  {
+   "id": "2.4.1",
+   "theme": "2",
+   "title": "Carbohydrates and lipids",
+   "general": [
+    {
+     "text": "know the structure and properties of biological molecules and understand the relationship between molecular structures and their functions",
+     "page": 10,
+     "variants": [
+      {
+       "page": 10,
+       "text": "know the structure and properties of biological molecules and understand the relationship between molecular structures and their functions"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "define the terms monomer, polymer, macromolecule, monosaccharide, disaccharide and polysaccharide",
+     "page": 10
+    },
+    {
+     "text": "describe and draw the ring forms of α-glucose and ᵦ-glucose",
+     "page": 10
+    },
+    {
+     "text": "describe the formation of a glycosidic bond by condensation,with reference both to polysaccharides and to disaccharides, including sucrose",
+     "page": 10
+    },
+    {
+     "text": "describe the breakage of glycosidic bonds in polysaccharides and disaccharides by hydrolysis, with reference to the non-reducing sugar test",
+     "page": 10
+    },
+    {
+     "text": "describe the molecular structure of the polysaccharides starch (amylose and amylopectin) and glycogen and relate their structures to their functions in living organisms",
+     "page": 10
+    },
+    {
+     "text": "describe the molecular structure of the polysaccharide cellulose and outline how the arrangement of cellulose molecules contributes to the function of plant cell walls",
+     "page": 10
+    },
+    {
+     "text": "describe the molecular structure of a triglyceride with reference to the formation of ester bonds and relate the structure of triglycerides to their functions in living organisms",
+     "page": 10
+    },
+    {
+     "text": "describe the structure of a phospholipid and relate the structure to the functions of phospholipids in living organisms",
+     "page": 10
+    },
+    {
+     "text": "describe and carry out the Benedict's test for reducing sugars, the iodine test for starch and the emulsion test for lipids",
+     "page": 10
+    },
+    {
+     "text": "describe and carry out a semi-quantitative Benedict's test on a reducing sugar solution by standardising the test and using the results (time to first colour change or comparison to colour standards) to estimate the concentration",
+     "page": 10
+    },
+    {
+     "text": "describe and carry out a test to identify the presence of non-reducing sugars, using acid hydrolysis and Benedict's solution",
+     "page": 10
+    },
+    {
+     "text": "carry out a semi-quantitative Benedict's test on a reducing sugar using dilution, standardising the test and using the results (colour standards or time to first colour change) to estimate the concentration",
+     "page": 10
+    }
+   ],
+   "pages": [
+    10
+   ],
+   "parent_id": "2.4",
+   "is_leaf": true
+  },
+  {
+   "id": "2.4.2",
+   "theme": "2",
+   "title": "Proteins and water",
+   "general": [
+    {
+     "text": "know the basic structure of protein molecules and understand how their structures relate to their functions",
+     "page": 11,
+     "variants": [
+      {
+       "page": 11,
+       "text": "know the basic structure of protein molecules and understand how their structures relate to their functions"
+      }
+     ]
+    },
+    {
+     "text": "know the important roles of globular and fibrous proteins in biological processes",
+     "page": 11,
+     "variants": [
+      {
+       "page": 11,
+       "text": "know the important roles of globular and fibrous proteins in biological processes"
+      }
+     ]
+    },
+    {
+     "text": "know the properties of the water molecule and the role of water in living organisms",
+     "page": 11,
+     "variants": [
+      {
+       "page": 11,
+       "text": "know the properties of the water molecule and the role of water in living organisms"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "describe the structure of an amino acid and the formation and breakage of a peptide bond",
+     "page": 11
+    },
+    {
+     "text": "explain the meaning of the terms primary structure, secondarystructure, tertiary structure and quaternary structure of proteins",
+     "page": 11
+    },
+    {
+     "text": "describe the types of bonding (hydrogen,ionic, disulfide and hydrophobic interactions) that hold these molecules in shape",
+     "page": 11
+    },
+    {
+     "text": "describe the molecular structure of haemoglobin as an example of a globular protein, and of collagen as an example of a fibrous protein and relate these structures to their functions (appreciate that the haemoglobin molecule is composed of two alpha (α) chains and two beta (β) chains, although when describing the chains the terms α-globin and β-globin may be used. There should be a distinction between collagen molecules and collagen fibres)",
+     "page": 11
+    },
+    {
+     "text": "state the importance of iron in the haemoglobin molecule.",
+     "page": 11
+    },
+    {
+     "text": "carry out biuret test to identify the content of solutions, food substances and biological specimens",
+     "page": 11
+    },
+    {
+     "text": "explain that water is a polar molecule and explain how hydrogen bonding occurs between water molecules",
+     "page": 11
+    },
+    {
+     "text": "relate the properties of water to its roles in living organisms (limited to solvent action, specific heat capacity and latent heat of vapourisation)",
+     "page": 11
+    }
+   ],
+   "pages": [
+    11
+   ],
+   "parent_id": "2.4",
+   "is_leaf": true
+  },
+  {
+   "id": "2.5",
+   "theme": "2",
+   "title": "Enzymes",
+   "general": [],
+   "specific": [],
+   "pages": [
+    11
+   ],
+   "parent_id": null,
+   "is_leaf": false
+  },
+  {
+   "id": "2.5.1",
+   "theme": "2",
+   "title": "Mode of action of enzymes",
+   "general": [
+    {
+     "text": "know how the structure of enzymes relate to their function",
+     "page": 11,
+     "variants": [
+      {
+       "page": 11,
+       "text": "know how the structure of enzymes relate to their function"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "explain the nature of enzymes as globular proteins that catalyse metabolic reactions",
+     "page": 11
+    },
+    {
+     "text": "state that enzymes function as intracellular and as extracellular enzymes",
+     "page": 11
+    },
+    {
+     "text": "explain the mode of enzyme action in terms of an active site, enzyme- substrate complex, lowering of activation energy and enzyme specificity (the lock and key hypothesis and theinduced fit hypothesis should be included)",
+     "page": 11
+    },
+    {
+     "text": "investigate the progress of an enzyme-catalysed reaction by measuring formation or rates offormation of products and by-products, (for example using catalase) or rates of disappearance of substrate (for example, using amylase)",
+     "page": 11
+    }
+   ],
+   "pages": [
+    11
+   ],
+   "parent_id": "2.5",
+   "is_leaf": true
+  },
+  {
+   "id": "2.5.2",
+   "theme": "2",
+   "title": "Factors that affect enzyme action",
+   "general": [
+    {
+     "text": "understand the importance of the factors that affect the rate of enzyme- catalysed reactions",
+     "page": 12,
+     "variants": [
+      {
+       "page": 12,
+       "text": "understand the importance of the factors that affect the rate of enzyme- catalysed reactions"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "investigate and explain the factors that affect the rate of enzyme catalysed reactions - temperature, - pH (using buffer solutions) - enzyme concentration - substrate concentration - inhibitor concentration)",
+     "page": 12
+    },
+    {
+     "text": "explain how the maximum rate of reaction (Vmax) is used to derive the Michaelis-Menten constant (Km) which is used to compare the affinity of different enzymes for their substrates",
+     "page": 12
+    },
+    {
+     "text": "explain the effects of reversible inhibitors both competitive and non- competitive,on the enzyme activity",
+     "page": 12
+    },
+    {
+     "text": "investigate and explain the effect of immobilising an enzyme in alginate on its activity as compared with its activity when free in solution",
+     "page": 12
+    }
+   ],
+   "pages": [
+    12
+   ],
+   "parent_id": "2.5",
+   "is_leaf": true
+  },
+  {
+   "id": "2.6",
+   "theme": "2",
+   "title": "Transport in plants",
+   "general": [],
+   "specific": [],
+   "pages": [
+    12
+   ],
+   "parent_id": null,
+   "is_leaf": false
+  },
+  {
+   "id": "2.6.1",
+   "theme": "2",
+   "title": "Structure of transport tissues",
+   "general": [
+    {
+     "text": "know the structural components of xylem and phloem and relate these to their functions",
+     "page": 12,
+     "variants": [
+      {
+       "page": 12,
+       "text": "know the structural components of xylem and phloem and relate these to their functions"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "identify and label the various parts of the transverse sections of stems, roots and leaves of herbaceous dicotyledonous plants, using an eyepiece graticule to show correct proportions",
+     "page": 12
+    },
+    {
+     "text": "describe the structure of xylem vessel elements, phloem sieve tube elements and companion cells",
+     "page": 12
+    },
+    {
+     "text": "relate the structure of xylem vessel elements, phloem sieve tube elements and companion cells to their functions",
+     "page": 12
+    },
+    {
+     "text": "draw and label from prepared slides the structure of xylem vessel elements, phloem sieve tube elements and companion cells (use a light microscope to recognise the structures)",
+     "page": 12
+    }
+   ],
+   "pages": [
+    12
+   ],
+   "parent_id": "2.6",
+   "is_leaf": true
+  },
+  {
+   "id": "2.6.2",
+   "theme": "2",
+   "title": "Mechanisms of transport in plants",
+   "general": [
+    {
+     "text": "understand mass flow in relation to the movement of xylem and phloem sap",
+     "page": 13,
+     "variants": [
+      {
+       "page": 13,
+       "text": "understand mass flow in relation to the movement of xylem and phloem sap"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "explain that transpiration involves the evaporation of water from the internal surfaces of leaves followed by diffusion of water vapour to the atmosphere",
+     "page": 13
+    },
+    {
+     "text": "describe,in terms of water potential, the movement of water: - between plant cells - between the plant and its environment (no calculations involving water potential will be set)",
+     "page": 13
+    },
+    {
+     "text": "investigate experimentally and explain the factors that affect transpiration rate using simple potometer, epidermal peels and grids for determining surface area",
+     "page": 13
+    },
+    {
+     "text": "explain how hydrogen bonding of water molecules is involved with movement in the xylem by cohesion-tension in transpiration pull and adhesion to cellulose cell walls",
+     "page": 13
+    },
+    {
+     "text": "describe the pathways and explain the mechanisms by which water and mineral ions are transported from soil to xylem and from roots to leaves (include reference to the symplastic pathway, apoplastic pathway and Casparian strip)",
+     "page": 13
+    },
+    {
+     "text": "make annotated drawings of transverse sections of leaves from xerophytic plants to explain how they are adapted to reduce water loss by transpiration",
+     "page": 13
+    },
+    {
+     "text": "state how assimilates, such as sucrose and amino acids, move between sources (e.g. leaves and storage organs) and sinks, (e.g. buds, flowers, fruits, roots and storage organs) in phloem sieve tubes",
+     "page": 13
+    },
+    {
+     "text": "explain how sucrose is loaded into phloem sieve tubes by companion cells using proton pumping and the co-transporter mechanism in their cell surface membranes",
+     "page": 13
+    },
+    {
+     "text": "explain mass flow in phloem sap down a hydrostatic pressure gradient from source to sink",
+     "page": 13
+    }
+   ],
+   "pages": [
+    13
+   ],
+   "parent_id": "2.6",
+   "is_leaf": true
+  },
+  {
+   "id": "2.7",
+   "theme": "2",
+   "title": "Transport in animals (mammals)",
+   "general": [],
+   "specific": [],
+   "pages": [
+    14
+   ],
+   "parent_id": null,
+   "is_leaf": false
+  },
+  {
+   "id": "2.7.1",
+   "theme": "2",
+   "title": "Mammalian circulatory system",
+   "general": [
+    {
+     "text": "know the structure and function of the mammalian circulatory system and the components of blood",
+     "page": 14,
+     "variants": [
+      {
+       "page": 14,
+       "text": "know the structure and function of the mammalian circulatory system and the components of blood"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "state that the mammalian circulatory system is a closed double circulation consisting of a heart, blood vessels and blood",
+     "page": 14
+    },
+    {
+     "text": "observe and make plan diagrams of the structure of arteries and veins, using prepared microscope slides and be able to recognise these vessels using the light microscope or from photomicrographs",
+     "page": 14
+    },
+    {
+     "text": "explain the relationship between the structure and function of arteries, veins and capillaries",
+     "page": 14
+    },
+    {
+     "text": "recognise and draw the structure of red blood cells, monocytes, neutrophils and lymphocytes using prepared slides, photomicrographs and electron micrographs",
+     "page": 14
+    },
+    {
+     "text": "state the functions of tissue fluid and describe the formation of tissue fluid in a capillary network",
+     "page": 14
+    },
+    {
+     "text": "state and explain the differences between blood, tissue fluid and lymph",
+     "page": 14
+    },
+    {
+     "text": "describe the role of red blood cells in carrying oxygen and carbon dioxide with reference to the role of: - haemoglobin - carbonic anhydrase - the formation of haemoglobinic acid - the formation of carbamino-haemoglobin (details of the chloride shift are not required)",
+     "page": 14
+    },
+    {
+     "text": "describe how carbon monoxide binds with haemoglobin to form carboxyhaemoglob in reducing the affinity of haemoglobin for oxygen",
+     "page": 14
+    },
+    {
+     "text": "describe the role of plasma in the transport of carbon dioxide",
+     "page": 14
+    },
+    {
+     "text": "describe and explain the oxygen dissociation curve of adult haemoglobin",
+     "page": 14
+    },
+    {
+     "text": "explain the importance of the oxygen dissociation curve at partial pressures of oxygen in the lungs and in respiring tissues",
+     "page": 14
+    },
+    {
+     "text": "describe the Bohr shift and explain the importance of the Bohr shift",
+     "page": 14
+    },
+    {
+     "text": "describe and explain the significance of the increase in the red blood cell count of humans at high altitude",
+     "page": 14
+    }
+   ],
+   "pages": [
+    14
+   ],
+   "parent_id": "2.7",
+   "is_leaf": true
+  },
+  {
+   "id": "2.7.2",
+   "theme": "2",
+   "title": "Mammalian heart",
+   "general": [
+    {
+     "text": "know the structure and functions of the heart",
+     "page": 15,
+     "variants": [
+      {
+       "page": 15,
+       "text": "know the structure and functions of the heart"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "describe the external and internal structure of the mammalian heart",
+     "page": 15
+    },
+    {
+     "text": "observe and make plan diagrams of the structure of the external and internal structure of the mammalian heart",
+     "page": 15
+    },
+    {
+     "text": "explain the differences in the thickness of the walls of the: - atria and ventricles - left ventricle and right ventricle",
+     "page": 15
+    },
+    {
+     "text": "describe the cardiac cycle (including blood pressure changes during systole and diastole)and the opening and closing of valves",
+     "page": 15
+    },
+    {
+     "text": "interpret graphs showing the changes in blood pressure during the cardiac cycle",
+     "page": 15
+    },
+    {
+     "text": "explain how heart action is initiated and controlled (reference should be made to the sinoatrial node, the atrioventricular node and the Purkyne tissue, but not to nervous and hormonal control)",
+     "page": 15
+    }
+   ],
+   "pages": [
+    15
+   ],
+   "parent_id": "2.7",
+   "is_leaf": true
+  },
+  {
+   "id": "2.8",
+   "theme": "2",
+   "title": "Disease",
+   "general": [],
+   "specific": [],
+   "pages": [
+    15
+   ],
+   "parent_id": null,
+   "is_leaf": false
+  },
+  {
+   "id": "2.8.1",
+   "theme": "2",
+   "title": "Infectious disease",
+   "general": [
+    {
+     "text": "understand the biology of pathogens and know the mode of their transmission",
+     "page": 15,
+     "variants": [
+      {
+       "page": 15,
+       "text": "understand the biology of pathogens and know the mode of their transmission"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "define the term disease and explain the difference between an infectious disease and a non-infectious disease (limited to sickle cell anaemia and lung cancer)",
+     "page": 15
+    },
+    {
+     "text": "state the name and type of pathogen that causes each of the following diseases: - cholera – caused by the bacterium Vibrio cholerae - malaria – caused by the protoctistsPlasmodium falciparum, Plasmodium malariae, Plasmodium ovaleand Plasmodium vivax - tuberculosis (TB) – caused by the bacteria Mycobacterium tuberculosis and Mycobacterium bovis - HIV/AIDS – caused by the human immunodeficiency virus (HIV) - measles - caused byMorbillivirus",
+     "page": 15
+    },
+    {
+     "text": "explain how cholera, malaria, TB and HIV/AIDS are transmitted",
+     "page": 15
+    },
+    {
+     "text": "discuss the biological, social and economic factors that need to be considered in the prevention and control of cholera, measles, malaria, TB and HIV/AIDS (a detailed study of the life cycle of the malarial parasite is not required)",
+     "page": 15
+    },
+    {
+     "text": "discuss the factors that influence the global patterns of distribution of malaria",
+     "page": 15
+    }
+   ],
+   "pages": [
+    15
+   ],
+   "parent_id": "2.8",
+   "is_leaf": true
+  },
+  {
+   "id": "2.8.2",
+   "theme": "2",
+   "title": "Antibiotics",
+   "general": [
+    {
+     "text": "know that penicillin is used to control bacterial infections and know the consequences of antibiotic resistance",
+     "page": 16,
+     "variants": [
+      {
+       "page": 16,
+       "text": "know that penicillin is used to control bacterial infections and know the consequences of antibiotic resistance"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "describe how penicillin acts on bacteria and why antibiotics do not affect viruses and eukaryotic cells",
+     "page": 16
+    },
+    {
+     "text": "outline how bacteria become resistant to antibiotics with reference to mutation and selection",
+     "page": 16
+    },
+    {
+     "text": "discuss the consequences of antibiotic resistance and the steps that can be taken to reduce its impact",
+     "page": 16
+    }
+   ],
+   "pages": [
+    16
+   ],
+   "parent_id": "2.8",
+   "is_leaf": true
+  },
+  {
+   "id": "2.9",
+   "theme": "2",
+   "title": "The immune system",
+   "general": [],
+   "specific": [],
+   "pages": [
+    16
+   ],
+   "parent_id": null,
+   "is_leaf": false
+  },
+  {
+   "id": "2.9.1",
+   "theme": "2",
+   "title": "The response of the immune system to pathogens",
+   "general": [
+    {
+     "text": "understand the roles of the cells and molecules of the immune system and their functions in protecting the body against infectious diseases",
+     "page": 16,
+     "variants": [
+      {
+       "page": 16,
+       "text": "understand the roles of the cells and molecules of the immune system and their functions in protecting the body against infectious diseases"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "describe the mode of action of phagocytes (macrophages and neutrophils)",
+     "page": 16
+    },
+    {
+     "text": "describe the sequence of events that occurs during a primary immune response with reference to the roles of: - macrophages - B-lymphocytes, including plasma cells - T-lymphocytes, limited to T-helper cells and T-killer cells",
+     "page": 16
+    },
+    {
+     "text": "explain what is meant by an antigen and state the difference between self antigens and non-self antigens",
+     "page": 16
+    },
+    {
+     "text": "explain the role of memory cells in the secondary immune response and in long-term immunity",
+     "page": 16
+    }
+   ],
+   "pages": [
+    16
+   ],
+   "parent_id": "2.9",
+   "is_leaf": true
+  },
+  {
+   "id": "2.9.2",
+   "theme": "2",
+   "title": "Antibodies and vaccination",
+   "general": [
+    {
+     "text": "recognise the role of antibodies and vaccination in the prevention of infectious diseases",
+     "page": 16,
+     "variants": [
+      {
+       "page": 16,
+       "text": "recognise the role of antibodies and vaccination in the prevention of infectious diseases"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "relate the molecular structure of antibodies to their functions(see 2.4.2)",
+     "page": 16
+    },
+    {
+     "text": "outline the hybridoma method for the production of monoclonal antibodies",
+     "page": 16
+    },
+    {
+     "text": "outline the use of monoclonal antibodies in the diagnosis of disease and in the treatment of disease",
+     "page": 16
+    },
+    {
+     "text": "describe the differences between active and passive immunity and between natural and artificial immunity",
+     "page": 16
+    },
+    {
+     "text": "explain that vaccines contain antigens that stimulate immune responses to provide long-term immunity",
+     "page": 16
+    },
+    {
+     "text": "explain how vaccination programmes can help to control the spread of infectious diseases",
+     "page": 16
+    }
+   ],
+   "pages": [
+    16
+   ],
+   "parent_id": "2.9",
+   "is_leaf": true
+  },
+  {
+   "id": "2.10",
+   "theme": "2",
+   "title": "Human gas exchange and smoking",
+   "general": [],
+   "specific": [],
+   "pages": [
+    17
+   ],
+   "parent_id": null,
+   "is_leaf": false
+  },
+  {
+   "id": "2.10.1",
+   "theme": "2",
+   "title": "The gas exchange system",
+   "general": [
+    {
+     "text": "know the gross structure of the gas exchange system and understand the function of various parts",
+     "page": 17,
+     "variants": [
+      {
+       "page": 17,
+       "text": "know the gross structure of the gas exchange system and understand the function of various parts"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "describe the gross structure of the human gas exchange system",
+     "page": 17
+    },
+    {
+     "text": "investigate and observe the gross structure of lungs and associated organs of a sheep or other mammal (dissect)",
+     "page": 17
+    },
+    {
+     "text": "describe the distribution in the gas exchange system of cartilage, ciliated epithelium, smooth muscle, capillaries and squamous epithelium of alveoli",
+     "page": 17
+    },
+    {
+     "text": "recognise cartilage, ciliated epithelium, smooth muscle, capillaries and squamous epithelium of alveoli in microscope slides, photomicrographs and electron micrographs",
+     "page": 17
+    },
+    {
+     "text": "recognise trachea, bronchi, bronchioles and alveoli in microscope slides, photomicrographs and electron micrographs and make plan diagrams of transverse sections of the walls of the trachea and bronchus",
+     "page": 17
+    },
+    {
+     "text": "describe the functions of ciliated epithelial cells, goblet cells and mucous glands in maintaining the health of the gas exchange system",
+     "page": 17
+    },
+    {
+     "text": "describe the functions in the gas exchange system of cartilage, smooth muscle, elastic fibres and squamous epithelium",
+     "page": 17
+    },
+    {
+     "text": "describe the process of gas exchange between air in the alveoli and the bloodin the capillaries",
+     "page": 17
+    }
+   ],
+   "pages": [
+    17
+   ],
+   "parent_id": "2.10",
+   "is_leaf": true
+  },
+  {
+   "id": "2.10.2",
+   "theme": "2",
+   "title": "Smoking and its impact on the gas exchange and circulatory system",
+   "general": [
+    {
+     "text": "understand the impact of smoking on one's health",
+     "page": 17,
+     "variants": [
+      {
+       "page": 17,
+       "text": "understand the impact of smoking on one's health"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "describe the effects of tar and carcinogens in tobacco smoke on the gas exchange system with reference to lung cancer and chronic obstructive pulmonary disease (COPD)",
+     "page": 17
+    },
+    {
+     "text": "describe the short-term effects of nicotine and carbon monoxide on the cardiovascular system",
+     "page": 17
+    },
+    {
+     "text": "conduct a survey, possibly with the use of a questionnaire, on the incidence of hay fever and/ or asthma",
+     "page": 17
+    }
+   ],
+   "pages": [
+    17
+   ],
+   "parent_id": "2.10",
+   "is_leaf": true
+  },
+  {
+   "id": "3.1",
+   "theme": "3",
+   "title": "Mitotic cell cycle",
+   "general": [],
+   "specific": [],
+   "pages": [
+    18
+   ],
+   "parent_id": null,
+   "is_leaf": false
+  },
+  {
+   "id": "3.1.1",
+   "theme": "3",
+   "title": "Replication and division of nuclei and cells",
+   "general": [
+    {
+     "text": "acknowledge the significance of the cell cycle and replication in the uniformity of daughter cells",
+     "page": 18,
+     "variants": [
+      {
+       "page": 18,
+       "text": "acknowledge the significance of the cell cycle and replication in the uniformity of daughter cells"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "describe the structure of a chromosome, limited to DNA, histone proteins, chromatids, centromere and telomeres",
+     "page": 18
+    },
+    {
+     "text": "explain the importance of mitosis in the production of genetically identical cells, growth, cell replacement, repair of tissues and asexual reproduction",
+     "page": 18
+    },
+    {
+     "text": "observe and draw the mitotic stages visible in temporary root tip squash preparations and in prepared slides of root tips of species such as those of Vicia faba and Allium cepa",
+     "page": 18
+    },
+    {
+     "text": "outline the mitotic cell cycle, including interphase (growth in G1 and G2 phases and DNA replication in S phase), mitosis and cytokinesis",
+     "page": 18
+    },
+    {
+     "text": "outline the significance of telomeres in permitting continued replication and preventing the loss of genes",
+     "page": 18
+    },
+    {
+     "text": "outline the role of stem cells in cell replacement and tissue repair by mitosis",
+     "page": 18
+    },
+    {
+     "text": "explain how uncontrolled cell division can result in the formation of a tumour",
+     "page": 18
+    }
+   ],
+   "pages": [
+    18
+   ],
+   "parent_id": "3.1",
+   "is_leaf": true
+  },
+  {
+   "id": "3.1.2",
+   "theme": "3",
+   "title": "Chromosome behaviour in mitosis",
+   "general": [
+    {
+     "text": "know the events that occur during mitosis/cell cycle",
+     "page": 18,
+     "variants": [
+      {
+       "page": 18,
+       "text": "know the events that occur during mitosis/cell cycle"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "describe, with the aid of photomicrographs and diagrams, the behaviour of chromosomes in plant and animal cells during the mitotic cell cycle and the associated behaviour of the nuclear envelope, cell surface membrane and the spindle(names of the main stages of mitosis, prophase, metaphase, anaphase and telophase, are expected)",
+     "page": 18
+    },
+    {
+     "text": "interpret photomicrographs, diagrams and microscope slides of mitosis and identify the main stages of mitosis",
+     "page": 18
+    }
+   ],
+   "pages": [
+    18
+   ],
+   "parent_id": "3.1",
+   "is_leaf": true
+  },
+  {
+   "id": "3.2",
+   "theme": "3",
+   "title": "Nucleic acids and protein synthesis",
+   "general": [],
+   "specific": [],
+   "pages": [
+    19
+   ],
+   "parent_id": null,
+   "is_leaf": false
+  },
+  {
+   "id": "3.2.1",
+   "theme": "3",
+   "title": "Structure and replication of DNA",
+   "general": [
+    {
+     "text": "know the structure of nucleic acids and understand their role in the storage of genetic information and how that information is used in the synthesis of proteins",
+     "page": 19,
+     "variants": [
+      {
+       "page": 19,
+       "text": "know the structure of nucleic acids and understand their role in the storage of genetic information and how that information is used in the synthesis of proteins"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "describe the structure of nucleotides, including the phosphorylated nucleotide ATP (structural formulae are not required)",
+     "page": 19
+    },
+    {
+     "text": "state that adenine and guanine are purines with a double ring structure, and that cytosine, thymine and uracil are pyrimidines with a single ring structure (structural formulae for bases are not required)",
+     "page": 19
+    },
+    {
+     "text": "describe the structure of RNA and DNA and explain the importance of base pairing and the different hydrogen bonding between bases",
+     "page": 19
+    },
+    {
+     "text": "describe the semi-conservative replication of DNA during S phase",
+     "page": 19
+    },
+    {
+     "text": "design and make a model of DNA to illustrate the semi-conservative replication of DNA during interphase",
+     "page": 19
+    }
+   ],
+   "pages": [
+    19
+   ],
+   "parent_id": "3.2",
+   "is_leaf": true
+  },
+  {
+   "id": "3.2.2",
+   "theme": "3",
+   "title": "Protein synthesis",
+   "general": [
+    {
+     "text": "understand the genetic code and how DNA codes for polypeptides",
+     "page": 19,
+     "variants": [
+      {
+       "page": 19,
+       "text": "understand the genetic code and how DNA codes for polypeptides"
+      }
+     ]
+    }
+   ],
+   "specific": [
+    {
+     "text": "state that a polypeptide is coded for by a gene and that a gene is a sequence of nucleotides that forms part of a DNA molecule",
+     "page": 19
+    },
+    {
+     "text": "state the features of the genetic code",
+     "page": 19
+    },
+    {
+     "text": "describe how the information in DNA is used during transcription and translation to construct polypeptides, including the role of messenger RNA (mRNA), transfer RNA (tRNA) and the ribosomes",
+     "page": 19
+    },
+    {
+     "text": "state that a gene mutation is a change in the sequence of nucleotides that may result in an altered polypeptide",
+     "page": 19
+    },
+    {
+     "text": "explain that a gene mutation occurs by substitution or deletion or insertion of base pairs in DNA and outline how each of these types of mutation may affect the polypeptide produced",
+     "page": 19
+    },
+    {
+     "text": "describe the way in which the nucleotide sequence codes for the amino acid sequence in a polypeptide with reference to the nucleotide sequence for HbA (normal) and HbS (sickle cell) alleles of the gene for the β-globin polypeptide",
+     "page": 19
+    },
+    {
+     "text": "design and make a model of RNA to contrast it with the DNA model",
+     "page": 19
+    }
+   ],
+   "pages": [
+    19
+   ],
+   "parent_id": "3.2",
+   "is_leaf": true
+  }
+ ],
+ "limits_stated_in_content": [
+  {
+   "topic": "1.1",
+   "page": 5,
+   "limit": "limited to the biological, morphological, ecological and behavioural concepts",
+   "in_objective": "discuss the meaning of the term species, limited to the biological, morphological, ecological and behavioural concepts"
+  },
+  {
+   "topic": "1.2",
+   "page": 5,
+   "limit": "limited to frame quadrats, line transects, belttransects and mark-release-recapture using the Lincoln index",
+   "in_objective": "describe and usesuitable methods to assess the distribution and abundance of organisms in an area, limited to frame quadrats, line transects, belttransects and mark-release-recapture using the Lincoln index (as shown in the Mathematical requirements)"
+  },
+  {
+   "topic": "1.3",
+   "page": 6,
+   "limit": "limited to local or regional examples",
+   "in_objective": "describe how degraded habitats may be restored limited to local or regional examples"
+  },
+  {
+   "topic": "2.2",
+   "page": 8,
+   "limit": "no reference to mesosomes required",
+   "in_objective": "compare and contrast the structure of prokaryotic cells with eukaryotic cells (no reference to mesosomes required)"
+  },
+  {
+   "topic": "2.3.2",
+   "page": 9,
+   "limit": "no calculations involving water potential will be set",
+   "in_objective": "describe and explain the processes of diffusion, facilitated diffusion, osmosis, active transport, endocytosis and exocytosis (no calculations involving water potential will be set)"
+  },
+  {
+   "topic": "2.3.2",
+   "page": 9,
+   "limit": "Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected",
+   "in_objective": "explain the movement of water between cells and solutionswith different water potentials and explain the different effect son plant cells (using the terms turgid, flaccid, plasmolysis) and animal cells (Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected)"
+  },
+  {
+   "topic": "2.4.2",
+   "page": 11,
+   "limit": "limited to solvent action, specific heat capacity and latent heat of vapourisation",
+   "in_objective": "relate the properties of water to its roles in living organisms (limited to solvent action, specific heat capacity and latent heat of vapourisation)"
+  },
+  {
+   "topic": "2.6.2",
+   "page": 13,
+   "limit": "no calculations involving water potential will be set",
+   "in_objective": "describe,in terms of water potential, the movement of water: - between plant cells - between the plant and its environment (no calculations involving water potential will be set)"
+  },
+  {
+   "topic": "2.7.1",
+   "page": 14,
+   "limit": "details of the chloride shift are not required",
+   "in_objective": "describe the role of red blood cells in carrying oxygen and carbon dioxide with reference to the role of: - haemoglobin - carbonic anhydrase - the formation of haemoglobinic acid - the formation of carbamino-haemoglobin (details of the chloride shift are not required)"
+  },
+  {
+   "topic": "2.7.2",
+   "page": 15,
+   "limit": "reference should be made to the sinoatrial node, the atrioventricular node and the Purkyne tissue, but not to nervous and hormonal control",
+   "in_objective": "explain how heart action is initiated and controlled (reference should be made to the sinoatrial node, the atrioventricular node and the Purkyne tissue, but not to nervous and hormonal control)"
+  },
+  {
+   "topic": "2.8.1",
+   "page": 15,
+   "limit": "limited to sickle cell anaemia and lung cancer",
+   "in_objective": "define the term disease and explain the difference between an infectious disease and a non-infectious disease (limited to sickle cell anaemia and lung cancer)"
+  },
+  {
+   "topic": "2.8.1",
+   "page": 15,
+   "limit": "a detailed study of the life cycle of the malarial parasite is not required",
+   "in_objective": "discuss the biological, social and economic factors that need to be considered in the prevention and control of cholera, measles, malaria, TB and HIV/AIDS (a detailed study of the life cycle of the malarial parasite is not required)"
+  },
+  {
+   "topic": "2.9.1",
+   "page": 16,
+   "limit": "limited to T-helper cells and T-killer cells",
+   "in_objective": "describe the sequence of events that occurs during a primary immune response with reference to the roles of: - macrophages - B-lymphocytes, including plasma cells - T-lymphocytes, limited to T-helper cells and T-killer cells"
+  },
+  {
+   "topic": "3.1.1",
+   "page": 18,
+   "limit": "limited to DNA, histone proteins, chromatids, centromere and telomeres",
+   "in_objective": "describe the structure of a chromosome, limited to DNA, histone proteins, chromatids, centromere and telomeres"
+  },
+  {
+   "topic": "3.2.1",
+   "page": 19,
+   "limit": "structural formulae are not required",
+   "in_objective": "describe the structure of nucleotides, including the phosphorylated nucleotide ATP (structural formulae are not required)"
+  },
+  {
+   "topic": "3.2.1",
+   "page": 19,
+   "limit": "structural formulae for bases are not required",
+   "in_objective": "state that adenine and guanine are purines with a double ring structure, and that cytosine, thymine and uracil are pyrimidines with a single ring structure (structural formulae for bases are not required)"
+  }
+ ],
+ "content_requirements_stated": [
+  {
+   "topic": "1.2",
+   "page": 5,
+   "requirement": "the formula for Simpson's Index of Diversity will be provided, as shown in the Mathematical requirements",
+   "in_objective": "use Simpson's Index of Diversity (D) to calculate the biodiversity of an area, and state the significance of different values of D (the formula for Simpson's Index of Diversity will be provided, as shown in the Mathematical requirements) (formula: D = 1 – (Ʃ )2 )"
+  },
+  {
+   "topic": "2.3.2",
+   "page": 9,
+   "requirement": "Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected",
+   "in_objective": "explain the movement of water between cells and solutionswith different water potentials and explain the different effect son plant cells (using the terms turgid, flaccid, plasmolysis) and animal cells (Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected)"
+  },
+  {
+   "topic": "2.4.2",
+   "page": 11,
+   "requirement": "appreciate that the haemoglobin molecule is composed of two alpha (α) chains and two beta (β) chains, although when describing the chains the terms α-globin and β-globin may be used. There should be a distinction between collagen molecules and collagen fibres",
+   "in_objective": "describe the molecular structure of haemoglobin as an example of a globular protein, and of collagen as an example of a fibrous protein and relate these structures to their functions (appreciate that the haemoglobin molecule is composed of two alpha (α) chains and two beta (β) chains, although when describing the chains the terms α-globin and β-globin may be used. There should be a distinction between collagen molecules and collagen fibres)"
+  },
+  {
+   "topic": "2.5.1",
+   "page": 11,
+   "requirement": "the lock and key hypothesis and theinduced fit hypothesis should be included",
+   "in_objective": "explain the mode of enzyme action in terms of an active site, enzyme- substrate complex, lowering of activation energy and enzyme specificity (the lock and key hypothesis and theinduced fit hypothesis should be included)"
+  },
+  {
+   "topic": "2.6.2",
+   "page": 13,
+   "requirement": "include reference to the symplastic pathway, apoplastic pathway and Casparian strip",
+   "in_objective": "describe the pathways and explain the mechanisms by which water and mineral ions are transported from soil to xylem and from roots to leaves (include reference to the symplastic pathway, apoplastic pathway and Casparian strip)"
+  },
+  {
+   "topic": "2.7.2",
+   "page": 15,
+   "requirement": "reference should be made to the sinoatrial node, the atrioventricular node and the Purkyne tissue, but not to nervous and hormonal control",
+   "in_objective": "explain how heart action is initiated and controlled (reference should be made to the sinoatrial node, the atrioventricular node and the Purkyne tissue, but not to nervous and hormonal control)"
+  },
+  {
+   "topic": "3.1.2",
+   "page": 18,
+   "requirement": "names of the main stages of mitosis, prophase, metaphase, anaphase and telophase, are expected",
+   "in_objective": "describe, with the aid of photomicrographs and diagrams, the behaviour of chromosomes in plant and animal cells during the mitotic cell cycle and the associated behaviour of the nuclear envelope, cell surface membrane and the spindle(names of the main stages of mitosis, prophase, metaphase, anaphase and telophase, are expected)"
+  }
+ ],
+ "formulas_as_printed": [
+  {
+   "topic": "1.2",
+   "page": 5,
+   "pdf_page": 8,
+   "text_layer": "D = 1 – (Ʃ )2",
+   "as_printed": "D = 1 - (Σ n/N)^2, with n over N stacked beside Σ inside the brackets and the square outside the brackets",
+   "verified_from": "page image, viewed 2026-10-18 (the text layer drops the fraction)",
+   "note": "The syllabus says the formula will be provided (p. 5, and Annexe C p. 43, whose text layer is identical). As printed it squares the sum. The standard Simpson's index of diversity is D = 1 - Σ(n/N)^2, which squares each term and then sums. Recorded as printed; not corrected here. The plan must decide how a card handles it."
+  }
+ ],
+ "transcribed_notes": []
+}

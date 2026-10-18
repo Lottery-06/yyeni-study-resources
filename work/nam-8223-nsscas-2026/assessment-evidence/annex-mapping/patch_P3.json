@@ -1,0 +1,638 @@
+{
+ "patch_id": "ANNEX-PATCH-P3",
+ "patches": {
+  "EV-8223-2021-P3-Q1a": {
+   "add_objective_ids": [
+    "OBJ-8223-4.1-09",
+    "OBJ-8223-4.1-11",
+    "OBJ-8223-4.1-02"
+   ],
+   "confidence": "medium",
+   "reason": "Follows a set-up procedure, reads gas volumes and works across a concentration range."
+  },
+  "EV-8223-2021-P3-Q1b": {
+   "add_objective_ids": [
+    "OBJ-8223-5.1-01",
+    "OBJ-8223-4.3-04"
+   ],
+   "confidence": "medium",
+   "reason": "Dilution-based concentration calculation with working shown."
+  },
+  "EV-8223-2021-P3-Q1c": {
+   "add_objective_ids": [
+    "OBJ-8223-5.1-01",
+    "OBJ-8223-4.3-04",
+    "OBJ-8223-4.3-05"
+   ],
+   "confidence": "medium",
+   "reason": "Rate calculation from volume and time, to sensible significant figures."
+  },
+  "EV-8223-2021-P3-Q1d-i": {
+   "add_objective_ids": [
+    "OBJ-8223-4.3-06",
+    "OBJ-8223-4.3-07",
+    "OBJ-8223-4.3-08",
+    "OBJ-8223-4.3-09",
+    "OBJ-8223-4.3-10",
+    "OBJ-8223-5.2-01",
+    "OBJ-8223-5.2-03"
+   ],
+   "confidence": "high",
+   "reason": "Plotting a line graph with axes, scale, points and line."
+  },
+  "EV-8223-2021-P3-Q1d-ii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.4-06",
+    "OBJ-8223-4.4-15",
+    "OBJ-8223-5.2-02"
+   ],
+   "confidence": "high",
+   "reason": "Describes a trend from graph data and explains it with enzyme knowledge."
+  },
+  "EV-8223-2021-P3-Q1d-iii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.4-11"
+   ],
+   "confidence": "medium",
+   "reason": "Predicts the trend expected with an inhibitor."
+  },
+  "EV-8223-2021-P3-Q1e": {
+   "add_objective_ids": [
+    "OBJ-8223-4.4-07",
+    "OBJ-8223-4.4-08"
+   ],
+   "confidence": "high",
+   "reason": "Identifies a source of error and its effect on results."
+  },
+  "EV-8223-2021-P3-Q1f": {
+   "add_objective_ids": [
+    "OBJ-8223-4.1-04"
+   ],
+   "confidence": "medium",
+   "reason": "Describes a biological molecule test to identify protein."
+  },
+  "EV-8223-2021-P3-Q2a-i": {
+   "add_objective_ids": [
+    "OBJ-8223-5.3-02"
+   ],
+   "confidence": "high",
+   "reason": "Overall magnification from eyepiece and objective."
+  },
+  "EV-8223-2021-P3-Q2a-ii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.2-07",
+    "OBJ-8223-4.2-09"
+   ],
+   "confidence": "high",
+   "reason": "Cell drawing of observable features with clear unshaded lines."
+  },
+  "EV-8223-2021-P3-Q2b-i": {
+   "add_objective_ids": [
+    "OBJ-8223-5.3-02",
+    "OBJ-8223-4.2-04",
+    "OBJ-8223-5.1-03",
+    "OBJ-8223-4.2-10"
+   ],
+   "confidence": "high",
+   "reason": "Actual size from magnification, converted to micrometres, working shown."
+  },
+  "EV-8223-2021-P3-Q2b-ii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.4-17",
+    "OBJ-8223-4.1-06",
+    "OBJ-8223-4.1-08"
+   ],
+   "confidence": "high",
+   "reason": "Extends an investigation with fair-test controls and sampling."
+  },
+  "EV-8223-2021-P3-Q2c-i": {
+   "add_objective_ids": [
+    "OBJ-8223-4.2-06",
+    "OBJ-8223-4.2-09"
+   ],
+   "confidence": "high",
+   "reason": "Plan diagram with tissue layers, no cells, clear lines."
+  },
+  "EV-8223-2021-P3-Q2c-ii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.2-08",
+    "OBJ-8223-4.2-11"
+   ],
+   "confidence": "high",
+   "reason": "Compares observable features of two sections."
+  },
+  "EV-8223-2021-P3-Q2c-iii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.2-12"
+   ],
+   "confidence": "high",
+   "reason": "Explains how an observed feature adapts the specimen to its habitat."
+  },
+  "EV-8223-2022-P3-Q1a-i": {
+   "add_objective_ids": [
+    "OBJ-8223-4.1-11",
+    "OBJ-8223-4.1-12"
+   ],
+   "confidence": "medium",
+   "reason": "Reads a colour chart to record a measurement."
+  },
+  "EV-8223-2022-P3-Q1a-ii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.1-02",
+    "OBJ-8223-4.1-09"
+   ],
+   "confidence": "medium",
+   "reason": "Follows a dilution procedure to make a concentration range."
+  },
+  "EV-8223-2022-P3-Q1a-iii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.3-01",
+    "OBJ-8223-4.3-02",
+    "OBJ-8223-4.1-12"
+   ],
+   "confidence": "high",
+   "reason": "Designs a ruled results table including colour observations."
+  },
+  "EV-8223-2022-P3-Q1b-i": {
+   "add_objective_ids": [
+    "OBJ-8223-4.1-06"
+   ],
+   "confidence": "medium",
+   "reason": "Why a variable (starting temperature) is standardised."
+  },
+  "EV-8223-2022-P3-Q1b-ii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.4-08"
+   ],
+   "confidence": "medium",
+   "reason": "Identifies a source of inaccuracy."
+  },
+  "EV-8223-2022-P3-Q1c-i": {
+   "add_objective_ids": [
+    "OBJ-8223-4.3-06",
+    "OBJ-8223-4.3-07",
+    "OBJ-8223-4.3-08",
+    "OBJ-8223-4.3-09",
+    "OBJ-8223-4.3-10",
+    "OBJ-8223-5.2-01",
+    "OBJ-8223-5.2-03"
+   ],
+   "confidence": "high",
+   "reason": "Plotting a graph from a table with axes, scale and points."
+  },
+  "EV-8223-2022-P3-Q1c-ii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.4-02"
+   ],
+   "confidence": "high",
+   "reason": "Reads an unknown value from the candidate graph."
+  },
+  "EV-8223-2022-P3-Q1c-iii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.4-06",
+    "OBJ-8223-4.4-15",
+    "OBJ-8223-5.2-02"
+   ],
+   "confidence": "high",
+   "reason": "Describes a trend using graph data and explains it."
+  },
+  "EV-8223-2022-P3-Q1c-iv": {
+   "add_objective_ids": [
+    "OBJ-8223-4.4-16",
+    "OBJ-8223-4.1-06",
+    "OBJ-8223-4.1-08"
+   ],
+   "confidence": "medium",
+   "reason": "Improvements for accuracy and reliability, such as standardising and repeating."
+  },
+  "EV-8223-2022-P3-Q2a-i": {
+   "add_objective_ids": [
+    "OBJ-8223-4.2-06",
+    "OBJ-8223-4.2-09",
+    "OBJ-8223-4.2-01"
+   ],
+   "confidence": "high",
+   "reason": "Plan diagram from a slide with correct proportions and clean lines."
+  },
+  "EV-8223-2022-P3-Q2a-ii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.2-03",
+    "OBJ-8223-4.2-04",
+    "OBJ-8223-5.3-02",
+    "OBJ-8223-4.2-10"
+   ],
+   "confidence": "high",
+   "reason": "Graticule calibration and actual-size calculation with steps."
+  },
+  "EV-8223-2022-P3-Q2a-iii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.4-08",
+    "OBJ-8223-4.4-07"
+   ],
+   "confidence": "medium",
+   "reason": "Source of measurement error with the graticule."
+  },
+  "EV-8223-2022-P3-Q2b-i": {
+   "add_objective_ids": [
+    "OBJ-8223-4.2-08",
+    "OBJ-8223-4.2-11",
+    "OBJ-8223-4.3-02"
+   ],
+   "confidence": "medium",
+   "reason": "Table design comparing observable features of two drawings."
+  },
+  "EV-8223-2022-P3-Q2b-ii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.2-12"
+   ],
+   "confidence": "low",
+   "reason": "Links an observed feature to function, short recall-like item."
+  },
+  "EV-8223-2022-P3-Q2c": {
+   "add_objective_ids": [
+    "OBJ-8223-4.2-12"
+   ],
+   "confidence": "high",
+   "reason": "Visible adaptations explained using biological knowledge."
+  },
+  "EV-8223-2023-P3-Q1a": {
+   "add_objective_ids": [
+    "OBJ-8223-4.1-02",
+    "OBJ-8223-4.1-09"
+   ],
+   "confidence": "high",
+   "reason": "Plans and shows a dilution series across a range."
+  },
+  "EV-8223-2023-P3-Q1bi": {
+   "add_objective_ids": [
+    "OBJ-8223-4.3-01",
+    "OBJ-8223-4.3-02",
+    "OBJ-8223-4.1-08"
+   ],
+   "confidence": "high",
+   "reason": "Results table with repeats, headings and mean."
+  },
+  "EV-8223-2023-P3-Q1bii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.4-06",
+    "OBJ-8223-4.4-15"
+   ],
+   "confidence": "high",
+   "reason": "Describes a correlation and explains it biologically."
+  },
+  "EV-8223-2023-P3-Q1biii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.4-08",
+    "OBJ-8223-4.4-07"
+   ],
+   "confidence": "medium",
+   "reason": "Identifies a timing source of error."
+  },
+  "EV-8223-2023-P3-Q1c": {
+   "add_objective_ids": [
+    "OBJ-8223-4.1-06"
+   ],
+   "confidence": "high",
+   "reason": "Names and describes standardised variables."
+  },
+  "EV-8223-2023-P3-Q1di": {
+   "add_objective_ids": [
+    "OBJ-8223-4.3-06",
+    "OBJ-8223-4.3-07",
+    "OBJ-8223-4.3-08",
+    "OBJ-8223-4.3-09",
+    "OBJ-8223-4.3-10",
+    "OBJ-8223-5.2-01",
+    "OBJ-8223-5.2-03"
+   ],
+   "confidence": "high",
+   "reason": "Plots a graph from a data table."
+  },
+  "EV-8223-2023-P3-Q1dii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.4-02"
+   ],
+   "confidence": "high",
+   "reason": "Reads a value from the plotted graph."
+  },
+  "EV-8223-2023-P3-Q2a": {
+   "add_objective_ids": [
+    "OBJ-8223-4.2-07",
+    "OBJ-8223-4.2-09"
+   ],
+   "confidence": "high",
+   "reason": "Draws observed cells with clear lines and labelled organelles."
+  },
+  "EV-8223-2023-P3-Q2bi": {
+   "add_objective_ids": [
+    "OBJ-8223-4.2-11",
+    "OBJ-8223-4.2-12"
+   ],
+   "confidence": "medium",
+   "reason": "Compares photomicrographs and reasons with water potential knowledge."
+  },
+  "EV-8223-2023-P3-Q2bii": {
+   "add_objective_ids": [
+    "OBJ-8223-5.3-02",
+    "OBJ-8223-4.2-04",
+    "OBJ-8223-4.2-10",
+    "OBJ-8223-5.1-01",
+    "OBJ-8223-5.1-03"
+   ],
+   "confidence": "high",
+   "reason": "Measures, converts to actual size in micrometres and averages with steps."
+  },
+  "EV-8223-2023-P3-Q2biii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.2-08",
+    "OBJ-8223-4.2-11",
+    "OBJ-8223-4.3-02"
+   ],
+   "confidence": "high",
+   "reason": "Table comparing visible differences between photomicrographs."
+  },
+  "EV-8223-2023-P3-Q2ci": {
+   "add_objective_ids": [
+    "OBJ-8223-4.3-06",
+    "OBJ-8223-4.3-07",
+    "OBJ-8223-4.3-09",
+    "OBJ-8223-4.3-10",
+    "OBJ-8223-5.2-01"
+   ],
+   "confidence": "medium",
+   "reason": "Sketch graph from data points, plotting and line choice."
+  },
+  "EV-8223-2023-P3-Q2cii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.4-06",
+    "OBJ-8223-4.4-15"
+   ],
+   "confidence": "high",
+   "reason": "Describes a relationship from data and links to membranes."
+  },
+  "EV-8223-2023-P3-Q2ciii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.1-06"
+   ],
+   "confidence": "high",
+   "reason": "Names variables to keep constant."
+  },
+  "EV-8223-2023-P3-Q2civ": {
+   "add_objective_ids": [
+    "OBJ-8223-4.4-16",
+    "OBJ-8223-4.1-08"
+   ],
+   "confidence": "medium",
+   "reason": "Improvements for reliability, such as repeats."
+  },
+  "EV-8223-2024-P3-Q1a-i": {
+   "add_objective_ids": [
+    "OBJ-8223-4.1-09",
+    "OBJ-8223-4.1-11",
+    "OBJ-8223-4.3-01"
+   ],
+   "confidence": "medium",
+   "reason": "Follows a sampling procedure, counts and records in a table."
+  },
+  "EV-8223-2024-P3-Q1a-ii": {
+   "add_objective_ids": [
+    "OBJ-8223-5.1-01",
+    "OBJ-8223-5.1-07",
+    "OBJ-8223-4.3-04"
+   ],
+   "confidence": "medium",
+   "reason": "Lincoln index calculation with working."
+  },
+  "EV-8223-2024-P3-Q1b-i": {
+   "add_objective_ids": [
+    "OBJ-8223-4.3-01",
+    "OBJ-8223-4.3-02"
+   ],
+   "confidence": "high",
+   "reason": "Designs a closed results table with headings."
+  },
+  "EV-8223-2024-P3-Q1b-ii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.3-11",
+    "OBJ-8223-5.2-01"
+   ],
+   "confidence": "medium",
+   "reason": "Draws separated bars for categorical data."
+  },
+  "EV-8223-2024-P3-Q1b-iii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.4-12"
+   ],
+   "confidence": "medium",
+   "reason": "Draws a conclusion from index values."
+  },
+  "EV-8223-2024-P3-Q1c-i": {
+   "add_objective_ids": [
+    "OBJ-8223-4.4-06",
+    "OBJ-8223-5.2-02"
+   ],
+   "confidence": "high",
+   "reason": "Describes trends in tabulated data."
+  },
+  "EV-8223-2024-P3-Q1c-ii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.4-05"
+   ],
+   "confidence": "high",
+   "reason": "Identifies and handles an anomalous result."
+  },
+  "EV-8223-2024-P3-Q1d": {
+   "add_objective_ids": [
+    "OBJ-8223-4.1-03",
+    "OBJ-8223-4.1-07",
+    "OBJ-8223-4.1-08"
+   ],
+   "confidence": "medium",
+   "reason": "Sampling precautions for a representative, reliable sample."
+  },
+  "EV-8223-2024-P3-Q2a-i": {
+   "add_objective_ids": [
+    "OBJ-8223-4.2-03",
+    "OBJ-8223-5.3-02",
+    "OBJ-8223-4.2-10"
+   ],
+   "confidence": "high",
+   "reason": "Calibrates a graticule with calculation."
+  },
+  "EV-8223-2024-P3-Q2a-ii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.2-04",
+    "OBJ-8223-5.3-02",
+    "OBJ-8223-5.1-03",
+    "OBJ-8223-4.2-10"
+   ],
+   "confidence": "high",
+   "reason": "Actual size from calibrated graticule in micrometres."
+  },
+  "EV-8223-2024-P3-Q2b": {
+   "add_objective_ids": [
+    "OBJ-8223-4.2-06",
+    "OBJ-8223-4.2-09"
+   ],
+   "confidence": "high",
+   "reason": "Plan drawing with proportion, no cells, clear lines."
+  },
+  "EV-8223-2024-P3-Q2c": {
+   "add_objective_ids": [
+    "OBJ-8223-4.2-08",
+    "OBJ-8223-4.2-11",
+    "OBJ-8223-4.3-02"
+   ],
+   "confidence": "high",
+   "reason": "Table comparing observable features of micrographs."
+  },
+  "EV-8223-2024-P3-Q2d-i": {
+   "add_objective_ids": [
+    "OBJ-8223-4.3-06",
+    "OBJ-8223-4.3-07",
+    "OBJ-8223-4.3-08",
+    "OBJ-8223-4.3-11",
+    "OBJ-8223-5.2-01",
+    "OBJ-8223-5.2-03",
+    "OBJ-8223-5.2-04",
+    "OBJ-8223-5.2-05"
+   ],
+   "confidence": "high",
+   "reason": "Draws a histogram with axes, scale and joined bars."
+  },
+  "EV-8223-2024-P3-Q2d-ii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.4-06",
+    "OBJ-8223-5.2-02"
+   ],
+   "confidence": "high",
+   "reason": "Describes a trend from a graph or table."
+  },
+  "EV-8223-2025-P3-Q1a-i": {
+   "add_objective_ids": [
+    "OBJ-8223-4.1-02",
+    "OBJ-8223-4.1-09"
+   ],
+   "confidence": "medium",
+   "reason": "Shows a serial dilution procedure with halving concentrations."
+  },
+  "EV-8223-2025-P3-Q1a-ii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.3-01",
+    "OBJ-8223-4.3-02",
+    "OBJ-8223-4.1-01",
+    "OBJ-8223-4.1-12"
+   ],
+   "confidence": "medium",
+   "reason": "Results table with variable headings and colour results."
+  },
+  "EV-8223-2025-P3-Q1a-iii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.4-06"
+   ],
+   "confidence": "medium",
+   "reason": "Describes a trend from the table."
+  },
+  "EV-8223-2025-P3-Q1a-iv": {
+   "add_objective_ids": [
+    "OBJ-8223-4.4-14",
+    "OBJ-8223-4.4-15"
+   ],
+   "confidence": "low",
+   "reason": "Uses results to support a mechanism statement; known from commentary only."
+  },
+  "EV-8223-2025-P3-Q1a-v": {
+   "add_objective_ids": [
+    "OBJ-8223-4.1-07",
+    "OBJ-8223-4.1-11",
+    "OBJ-8223-4.4-16"
+   ],
+   "confidence": "medium",
+   "reason": "Choosing more accurate measuring apparatus."
+  },
+  "EV-8223-2025-P3-Q1a-vi": {
+   "add_objective_ids": [
+    "OBJ-8223-4.4-08",
+    "OBJ-8223-4.4-16",
+    "OBJ-8223-4.1-06"
+   ],
+   "confidence": "medium",
+   "reason": "Errors in a step with an improvement for each."
+  },
+  "EV-8223-2025-P3-Q1b-i": {
+   "add_objective_ids": [
+    "OBJ-8223-4.4-13"
+   ],
+   "confidence": "high",
+   "reason": "Judges whether data support a hypothesis."
+  },
+  "EV-8223-2025-P3-Q1b-ii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.4-16",
+    "OBJ-8223-4.4-17"
+   ],
+   "confidence": "medium",
+   "reason": "Suggests modifications to improve the investigation."
+  },
+  "EV-8223-2025-P3-Q2a-i": {
+   "add_objective_ids": [
+    "OBJ-8223-4.2-06",
+    "OBJ-8223-4.2-09"
+   ],
+   "confidence": "medium",
+   "reason": "Plan diagram with tissue layers to scale."
+  },
+  "EV-8223-2025-P3-Q2a-ii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.2-03"
+   ],
+   "confidence": "medium",
+   "reason": "Graticule calibration value."
+  },
+  "EV-8223-2025-P3-Q2a-iii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.2-04"
+   ],
+   "confidence": "low",
+   "reason": "Measuring a lumen with graticule and giving units; calibration use not explicit."
+  },
+  "EV-8223-2025-P3-Q2b-i": {
+   "add_objective_ids": [
+    "OBJ-8223-5.1-05",
+    "OBJ-8223-4.3-05"
+   ],
+   "confidence": "low",
+   "reason": "Percentage calculation for table values; known from commentary only."
+  },
+  "EV-8223-2025-P3-Q2b-ii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.3-06",
+    "OBJ-8223-4.3-07",
+    "OBJ-8223-4.3-08",
+    "OBJ-8223-4.3-09",
+    "OBJ-8223-4.3-10",
+    "OBJ-8223-5.2-01",
+    "OBJ-8223-5.2-03"
+   ],
+   "confidence": "high",
+   "reason": "Line graph with axes, scales, points and key."
+  },
+  "EV-8223-2025-P3-Q2b-iii": {
+   "add_objective_ids": [
+    "OBJ-8223-4.4-06",
+    "OBJ-8223-4.4-12"
+   ],
+   "confidence": "medium",
+   "reason": "Compares two data series and concludes about elasticity."
+  },
+  "EV-8223-2025-P3-Q2c": {
+   "add_objective_ids": [
+    "OBJ-8223-4.2-08",
+    "OBJ-8223-4.2-11"
+   ],
+   "confidence": "low",
+   "reason": "Table comparing vein and artery features; likely observation-based."
+  }
+ },
+ "skipped_with_reason": {}
+}

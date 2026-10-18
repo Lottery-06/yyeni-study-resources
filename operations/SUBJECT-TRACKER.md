@@ -24,6 +24,8 @@ The first subject of each new kind is run by Vitalis before the team scales that
 | Board and level | Code | Subject | Workspace | Owner | Authoring tool | Status | Notes |
 |---|---|---|---|---|---|---|---|
 | Cambridge IGCSE | 0500 | First Language English | `cie-0500-igcse-2024-2026` | Vitalis | | in progress | planned; check its STATUS.md or the latest run before claiming |
+| Namibia NSSCAS | 8224 | Chemistry | `nam-8224-nsscas-2026` | Jeremy | Claude Code | in progress | NSSCAS pilot. Run with Vitalis's agreement (confirmed by Jeremy, 2026-10-18). Topic 1.1 is the step 4 exemplar slice. Not yet committed. |
+| Namibia NSSCAS | 8223 | Biology | `nam-8223-nsscas-2026` | Jeremy | Claude Code | in progress | Second NSSCAS subject, run in parallel with the 8224 pilot. Vitalis agreed (confirmed by Jeremy, 2026-10-18). Whole subject; Theme 3 (3.1.1–3.2.2) is the likely step 4 exemplar slice. Not yet committed. |
 | | | | | | | | |
 
 ## Published

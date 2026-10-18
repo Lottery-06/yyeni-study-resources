@@ -1,0 +1,358 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-2.5.1",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-2.5.1-001",
+   "objective_ids": [
+    "OBJ-8223-2.5.1-01"
+   ],
+   "text": "An enzyme is a globular protein that acts as a biological catalyst: it speeds up a metabolic reaction and is not used up by it. The polypeptide chain is folded into a compact, roughly spherical tertiary structure held by hydrogen bonds, ionic bonds, disulfide bonds and hydrophobic interactions between R groups.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "unit 2.5.1, learning outcomes",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus (the syllabus line on enzymes as globular proteins). Not checked against a second source; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus learning outcome, restated). Biology is our own statement and is unverified."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.5.1-002",
+   "objective_ids": [
+    "OBJ-8223-2.5.1-01"
+   ],
+   "text": "In a typical globular enzyme the hydrophilic R groups lie on the outside of the molecule and the hydrophobic R groups point towards the centre, so the enzyme is soluble in the water of the cytoplasm or of the fluid outside cells; the tertiary structure also forms the active site, so a change in the amino acid sequence changes the folding and so the shape of the active site.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "unit 2.5.1, learning outcomes",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus (the syllabus line on enzymes as globular proteins). Not checked against a second source; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus learning outcome, restated). Biology is our own statement and is unverified."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.5.1-003",
+   "objective_ids": [
+    "OBJ-8223-2.5.1-01"
+   ],
+   "text": "Metabolic reactions are the chemical reactions of living organisms; many would be too slow at the temperature of a cell because few collisions between molecules have enough energy to react. An enzyme speeds up a reaction without changing the products formed, and is released unchanged, so one enzyme molecule can catalyse the same reaction repeatedly and a small amount of enzyme can convert a large amount of substrate.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "unit 2.5.1, learning outcomes",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus (the syllabus line on enzymes catalysing metabolic reactions). Not checked against a second source; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus learning outcome, restated). Biology is our own statement and is unverified."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.5.1-004",
+   "objective_ids": [
+    "OBJ-8223-2.5.1-02"
+   ],
+   "text": "An intracellular enzyme is made in a cell and works inside a cell, for example catalase, which breaks down hydrogen peroxide to water and oxygen inside cells. An extracellular enzyme is made in a cell and secreted, so that it works outside the cell, for example amylase secreted by the salivary glands into the mouth.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "unit 2.5.1, learning outcomes",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus (the syllabus line on intracellular and extracellular enzymes). Not checked against a second source; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus learning outcome, restated). Biology is our own statement and is unverified."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.5.1-005",
+   "objective_ids": [
+    "OBJ-8223-2.5.1-02"
+   ],
+   "text": "Extracellular enzymes are made on ribosomes inside the cell and released by vesicles that fuse with the cell surface membrane; both intracellular and extracellular enzymes are globular proteins with an active site, and they differ in where they work.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "unit 2.5.1, learning outcomes",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus (the syllabus line on intracellular and extracellular enzymes). Not checked against a second source; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus learning outcome, restated). Biology is our own statement and is unverified."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.5.1-006",
+   "objective_ids": [
+    "OBJ-8223-2.5.1-03"
+   ],
+   "text": "The active site is a small region on the surface of an enzyme, formed by the folding of the chain so that a few R groups lie close together, with a shape and chemical properties that suit the substrate. The substrate binds to it by temporary bonds to form an enzyme-substrate complex; the reaction takes place, the products leave and the enzyme is free to bind another substrate. Enzyme specificity means that an enzyme catalyses one reaction, or a small set of closely related reactions, because only a substrate whose shape and charges suit the active site can bind.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "unit 2.5.1, learning outcomes",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus (the syllabus line on active site, enzyme-substrate complex and enzyme specificity). Not checked against a second source; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus learning outcome, restated). Biology is our own statement and is unverified."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.5.1-007",
+   "objective_ids": [
+    "OBJ-8223-2.5.1-03"
+   ],
+   "text": "The activation energy is the energy that reacting molecules must have for the reaction to take place. The enzyme lowers it because binding holds the substrate in the position needed to react and strains its bonds, so less energy is needed; at the temperature of a cell a larger share of molecules can then react, so the rate increases. The enzyme does not supply energy and does not change the energy of the reactants or of the products.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "unit 2.5.1, learning outcomes",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus (the syllabus line on lowering of activation energy). Not checked against a second source; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus learning outcome, restated). Biology is our own statement and is unverified."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.5.1-008",
+   "objective_ids": [
+    "OBJ-8223-2.5.1-03"
+   ],
+   "text": "In the lock and key hypothesis the active site has a fixed shape that is complementary to the substrate, as a key fits a lock, which explains specificity but treats the site as rigid. In the induced fit hypothesis the active site is not exactly complementary until the substrate binds; binding changes the shape of the enzyme slightly so that the active site moulds around the substrate, which strains its bonds, and the site returns to its original shape after the product leaves. Induced fit is the more widely accepted description.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "unit 2.5.1, learning outcomes",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus (the syllabus line naming both hypotheses). Not checked against a second source; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus learning outcome, restated). Biology is our own statement and is unverified."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.5.1-009",
+   "objective_ids": [
+    "OBJ-8223-2.5.1-03"
+   ],
+   "text": "An enzyme is not used up: when the product leaves, the enzyme is released unchanged and the active site is free to bind another substrate. During a reaction the substrate concentration falls as substrate is converted to product, and the amount of enzyme-substrate complex stays at a steady level while substrate is plentiful and falls only when the substrate runs low.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "unit 2.5.1, learning outcomes",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2025-P2-Q4c-i",
+     "locator": "Paper 2 Q4(c)(i)",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus (the syllabus line on mode of enzyme action; the examiner-report finding on enzymes used up). Not checked against a second source; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "second source: assessment-evidence record EV-8223-2025-P2-Q4c-i, which speaks to this claim. Biology is our own statement and is unverified."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.5.1-010",
+   "objective_ids": [
+    "OBJ-8223-2.5.1-04"
+   ],
+   "text": "The progress of the reaction catalysed by catalase, 2H₂O₂ → 2H₂O + O₂, can be followed by the formation of a product: a fixed volume of hydrogen peroxide solution is mixed with a fixed mass of fresh liver or potato in small pieces, the oxygen is collected in a gas syringe or in an inverted measuring cylinder over water, and its volume is read at regular intervals until no more forms.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "unit 2.5.1, learning outcomes",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus (the syllabus line on products and by-products using catalase). Not checked against a second source; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus learning outcome, restated). Biology is our own statement and is unverified."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.5.1-011",
+   "objective_ids": [
+    "OBJ-8223-2.5.1-04"
+   ],
+   "text": "The progress of the reaction catalysed by amylase can be followed by the disappearance of the substrate: starch and amylase are mixed at a fixed temperature, and a drop of the mixture is added to iodine solution at regular intervals; blue-black shows that starch is present and orange-brown shows that none is left, and the time taken to reach orange-brown is shorter when the rate is greater.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "unit 2.5.1, learning outcomes",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus (the syllabus line on disappearance of substrate using amylase). Not checked against a second source; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus learning outcome, restated). Biology is our own statement and is unverified."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.5.1-012",
+   "objective_ids": [
+    "OBJ-8223-2.5.1-04"
+   ],
+   "text": "The rate of reaction over an interval is the change in the amount of product (or of substrate) divided by the time taken. On a graph of product formed against time the rate at the start is the greatest and falls as substrate is used up, and the curve levels off when all of the substrate has been converted, although the enzyme has not been used up.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "unit 2.5.1, learning outcomes",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus (the syllabus line on rates of formation of products and disappearance of substrate). Not checked against a second source; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus learning outcome, restated). Biology is our own statement and is unverified."
+   ]
+  }
+ ]
+}

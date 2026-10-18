@@ -1,0 +1,10 @@
+{"topic_id": "4.1", "deviations": [
+ {"from": "Practical task slots P01/P02 carry no command word in the work order, and objective_ids say 'choose 2-4 objectives'",
+  "to": "P01 opens with State and P02 with Describe, mark_tariff 10 each; P01 lists 7 objectives (01, 02, 03, 05, 06, 07, 08) and P02 lists 5 (02, 04, 06, 10, 12)",
+  "why": "Both are allowed words in this subject; the planning task genuinely credits the variables, the technique for changing pH, extra values, the control, a standardised variable, the measurement of the dependent variable and the handling of an anomaly, so listing fewer would hide credited skills"},
+ {"from": "Work order says the second task is 'a second, different investigation' testing the same skills",
+  "to": "P02 is a Benedict's colour-standard estimate with a serial dilution, a written risk assessment and a qualitative description, and OBJ-8223-4.1-09 is practised on card 027-PROC through a diagram described in words",
+  "why": "C-31 requires an item practising the diagram form named in the wording of OBJ-8223-4.1-09, and no diagram renderer exists for biology, so the diagram is described in the prompt"},
+ {"from": "Slot 035-MISCON carries no field for the register entry in the exemplar items",
+  "to": "The item carries misconception_entry MC-8223-4.1-01 as the schema allows",
+  "why": "The schema accepts misconception_entry and it lets an app link the card to the register test"}]}

@@ -1,0 +1,527 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-1.1",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-1.1-001",
+   "objective_ids": [
+    "OBJ-8223-1.1-01"
+   ],
+   "text": "The binomial system gives each species a two-part Latin name: the genus name first, written with a capital letter, then the species name, written in lower case. In print the name is in italics and when handwritten each word is underlined, as in Panthera leo for the lion.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "support_type": "paraphrase",
+     "locator": "Syllabus 8223 topic 1.1, objective: use and describe the binomial system of naming organisms"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 1.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; the taxonomic examples are standard textbook biology, not checked against a second source)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-1.1-002",
+   "objective_ids": [
+    "OBJ-8223-1.1-01"
+   ],
+   "text": "A binomial name is used in the same form in every language, so it identifies an organism without the confusion of common names, which differ between languages and regions and can be shared by different organisms. Closely related species share a genus: the lion Panthera leo and the leopard Panthera pardus share the genus Panthera.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "support_type": "paraphrase",
+     "locator": "Syllabus 8223 topic 1.1, objective: use and describe the binomial system of naming organisms"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 1.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; the taxonomic examples are standard textbook biology, not checked against a second source)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-1.1-003",
+   "objective_ids": [
+    "OBJ-8223-1.1-01"
+   ],
+   "text": "After the full name has been given once, the genus can be shortened to its initial letter, as in P. leo. The species word is not used alone as a name, because the same species word can occur in different genera.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "support_type": "paraphrase",
+     "locator": "Syllabus 8223 topic 1.1, objective: use and describe the binomial system of naming organisms"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 1.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; the taxonomic examples are standard textbook biology, not checked against a second source)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-1.1-004",
+   "objective_ids": [
+    "OBJ-8223-1.1-02"
+   ],
+   "text": "A hierarchical classification system sorts organisms into taxa that sit inside larger taxa, with no overlap between taxa of the same rank. In order from largest to smallest the taxa are kingdom, phylum, class, order, family, genus and species.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "support_type": "paraphrase",
+     "locator": "Syllabus 8223 topic 1.1, objective: describe the use of a hierarchical classification system for living organisms"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 1.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; the taxonomic examples are standard textbook biology, not checked against a second source)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-1.1-005",
+   "objective_ids": [
+    "OBJ-8223-1.1-02"
+   ],
+   "text": "The lower the rank of a taxon, the fewer organisms it holds and the more features those organisms tend to share; the species is the lowest taxon. The lion is classified as kingdom Animalia, phylum Chordata, class Mammalia, order Carnivora, family Felidae, genus Panthera, species leo.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "support_type": "paraphrase",
+     "locator": "Syllabus 8223 topic 1.1, objective: describe the use of a hierarchical classification system for living organisms"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 1.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; the taxonomic examples are standard textbook biology, not checked against a second source)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-1.1-006",
+   "objective_ids": [
+    "OBJ-8223-1.1-02"
+   ],
+   "text": "A hierarchical system is used to organise the very large number of known organisms, to identify an unfamiliar organism by placing it in successively smaller taxa, to show how closely organisms are related and to let scientists everywhere share one scheme.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "support_type": "paraphrase",
+     "locator": "Syllabus 8223 topic 1.1, objective: describe the use of a hierarchical classification system for living organisms"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 1.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; the taxonomic examples are standard textbook biology, not checked against a second source)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-1.1-007",
+   "objective_ids": [
+    "OBJ-8223-1.1-03"
+   ],
+   "text": "A natural classification groups organisms using homologous features and evolutionary relationships, so that the members of a taxon are descended from a common ancestor.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "support_type": "paraphrase",
+     "locator": "Syllabus 8223 topic 1.1, objective: explain the concept of natural classification, based on homologous features and evolutionary relationships"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 1.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; the taxonomic examples are standard textbook biology, not checked against a second source)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-1.1-008",
+   "objective_ids": [
+    "OBJ-8223-1.1-03"
+   ],
+   "text": "Homologous features have the same basic structure because they are inherited from a common ancestor, although they may do different jobs. The forelimb bones of a human arm, a bat wing and a whale flipper are an example: the same set of upper arm, lower arm, wrist and hand bones is present in each.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "support_type": "paraphrase",
+     "locator": "Syllabus 8223 topic 1.1, objective: explain the concept of natural classification, based on homologous features and evolutionary relationships"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 1.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; the taxonomic examples are standard textbook biology, not checked against a second source)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-1.1-009",
+   "objective_ids": [
+    "OBJ-8223-1.1-03"
+   ],
+   "text": "Analogous features have a similar function but a different structure and origin, so they do not show common ancestry; the wing of a bat and the wing of a dragonfly are analogous. An artificial classification groups organisms by convenient features such as the ability to fly, and so it can place unrelated organisms together.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "support_type": "paraphrase",
+     "locator": "Syllabus 8223 topic 1.1, objective: explain the concept of natural classification, based on homologous features and evolutionary relationships"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 1.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; the taxonomic examples are standard textbook biology, not checked against a second source)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-1.1-010",
+   "objective_ids": [
+    "OBJ-8223-1.1-03"
+   ],
+   "text": "The more homologous features two organisms share, the more recently they tend to have shared a common ancestor, which is why organisms with many homologous features are placed in the same small taxon. Similar base sequences in the DNA of two organisms support the same inference.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "support_type": "paraphrase",
+     "locator": "Syllabus 8223 topic 1.1, objective: explain the concept of natural classification, based on homologous features and evolutionary relationships"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 1.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; the taxonomic examples are standard textbook biology, not checked against a second source)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-1.1-011",
+   "objective_ids": [
+    "OBJ-8223-1.1-04"
+   ],
+   "text": "A dichotomous key is a series of numbered couplets, each a pair of contrasting statements about observable features; each statement leads either to the name of an organism or to another couplet.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "support_type": "paraphrase",
+     "locator": "Syllabus 8223 topic 1.1, objective: construct dichotomous keys for the identification of locally occurring organisms"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 1.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; the taxonomic examples are standard textbook biology, not checked against a second source)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-1.1-012",
+   "objective_ids": [
+    "OBJ-8223-1.1-04"
+   ],
+   "text": "To construct a key, first choose features that can be seen clearly and that differ between the organisms, then write a couplet whose two statements split the set into two smaller sets. Repeat with each smaller set until every organism has its own name, and finally test the key by identifying each organism with it.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "support_type": "paraphrase",
+     "locator": "Syllabus 8223 topic 1.1, objective: construct dichotomous keys for the identification of locally occurring organisms"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 1.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; the taxonomic examples are standard textbook biology, not checked against a second source)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-1.1-013",
+   "objective_ids": [
+    "OBJ-8223-1.1-04"
+   ],
+   "text": "A key for local organisms should use features that can be seen in the field, such as the presence of horns, the number of leaflets or the type of body covering. Features that vary with age or season, such as size or flower colour, make poor choices, and a key identifies correctly just the organisms it was built for.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "support_type": "paraphrase",
+     "locator": "Syllabus 8223 topic 1.1, objective: construct dichotomous keys for the identification of locally occurring organisms"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 1.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; the taxonomic examples are standard textbook biology, not checked against a second source)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-1.1-014",
+   "objective_ids": [
+    "OBJ-8223-1.1-04"
+   ],
+   "text": "A complete dichotomous key in which each statement leads to a name or to another couplet has one couplet fewer than the number of organisms it identifies, so a key for six organisms has 5 couplets.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "support_type": "paraphrase",
+     "locator": "Syllabus 8223 topic 1.1, objective: construct dichotomous keys for the identification of locally occurring organisms"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 1.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; the taxonomic examples are standard textbook biology, not checked against a second source)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-1.1-015",
+   "objective_ids": [
+    "OBJ-8223-1.1-05"
+   ],
+   "text": "In the biological species concept a species is a group of organisms that can interbreed in natural conditions to produce fertile offspring, and that do not breed in this way with organisms of other such groups. An organism is a single individual; a species is the group into which it is placed.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "support_type": "paraphrase",
+     "locator": "Syllabus 8223 topic 1.1, objective: discuss the meaning of the term species, limited to the biological, morphological, ecological and behavioural concepts"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 1.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; the taxonomic examples are standard textbook biology, not checked against a second source)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-1.1-016",
+   "objective_ids": [
+    "OBJ-8223-1.1-05"
+   ],
+   "text": "In the morphological species concept a species is a group of organisms that share observable structural features and differ in them from other such groups. It can be applied to preserved specimens and fossils, but its weakness is that members of one species may differ in appearance, for example males and females or young and adults, while different species may look alike.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "support_type": "paraphrase",
+     "locator": "Syllabus 8223 topic 1.1, objective: discuss the meaning of the term species, limited to the biological, morphological, ecological and behavioural concepts"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 1.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; the taxonomic examples are standard textbook biology, not checked against a second source)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-1.1-017",
+   "objective_ids": [
+    "OBJ-8223-1.1-05"
+   ],
+   "text": "In the ecological species concept a species is defined by its niche, the role of the organism: the conditions it tolerates, the resources it uses and its interactions with other organisms. In the behavioural species concept a species is defined by shared behaviour, such as a courtship call or display, which leads members to mate with their own species.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "support_type": "paraphrase",
+     "locator": "Syllabus 8223 topic 1.1, objective: discuss the meaning of the term species, limited to the biological, morphological, ecological and behavioural concepts"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 1.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; the taxonomic examples are standard textbook biology, not checked against a second source)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-1.1-018",
+   "objective_ids": [
+    "OBJ-8223-1.1-05"
+   ],
+   "text": "The biological species concept depends on observing or testing interbreeding, so it cannot be applied to fossils, to preserved specimens or to organisms that reproduce asexually. A horse and a donkey can mate, but the offspring, a mule, is usually sterile, so by this concept they are separate species.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "support_type": "paraphrase",
+     "locator": "Syllabus 8223 topic 1.1, objective: discuss the meaning of the term species, limited to the biological, morphological, ecological and behavioural concepts"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 1.1 under standard v0.2.0-draft. Single source: the syllabus objective plus our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus objective restated; the taxonomic examples are standard textbook biology, not checked against a second source)."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,770 @@
+{
+ "work_order_id": "WO-8223-4.3",
+ "topic_id": "4.3",
+ "topic_title": "Recording and presenting data",
+ "topic": "4.3 Recording and presenting data",
+ "generated_by": "build/make_work_order.py — regenerate, never edit",
+ "standard": "v0.2.0-draft",
+ "authoring_note": "Every slot below is decided. Write the prose; do not redesign the plan. If a slot is genuinely wrong for the objective, say so in your report rather than silently changing it.",
+ "output_files": {
+  "claims": "claims/canonical_claim_ledger.json",
+  "content_units": [
+   "content-units/CU-8223-4.3.json"
+  ],
+  "learning_items": "learning-items/topic_4.3_items.json",
+  "notes": "4.3-recording-and-presenting-data.md",
+  "flashcards_when_published": "4.3-recording-and-presenting-data-flashcards.json"
+ },
+ "assessable_objective_count": 11,
+ "claims_plan": {
+  "per_objective": "2 to 4",
+  "approximate_total": [
+   22,
+   44
+  ]
+ },
+ "content_units": [
+  {
+   "unit_id": "CU-8223-4.3",
+   "file": "content-units/CU-8223-4.3.json",
+   "sub_topic": "4.3",
+   "objective_ids": [
+    "OBJ-8223-4.3-01",
+    "OBJ-8223-4.3-02",
+    "OBJ-8223-4.3-03",
+    "OBJ-8223-4.3-04",
+    "OBJ-8223-4.3-05",
+    "OBJ-8223-4.3-06",
+    "OBJ-8223-4.3-07",
+    "OBJ-8223-4.3-08",
+    "OBJ-8223-4.3-09",
+    "OBJ-8223-4.3-10",
+    "OBJ-8223-4.3-11"
+   ],
+   "objectives": [
+    {
+     "objective_id": "OBJ-8223-4.3-01",
+     "title": "Record raw data in a fully ruled table with no units in the body.",
+     "syllabus_text": "Record only the raw data (unprocessed results) as quantitative data and qualitative observations in a fully ruled table with no units in the body of the table",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-4.3-02",
+     "title": "Head table columns with the quantity and unit, independent variable first.",
+     "syllabus_text": "prepare a table with a heading for the independent variable in the left column or top row with appropriate units and a heading for the dependent variable with units",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-4.3-03",
+     "title": "Record measurements to the same number of significant figures, set by the instrument.",
+     "syllabus_text": "record quantitative data to the same number of significant figures dependent on the measuring instrument used",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-4.3-04",
+     "title": "Show every step and the reasoning in a calculation.",
+     "syllabus_text": "show calculations clearly showing all the steps in the calculation and their reasoning",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-4.3-05",
+     "title": "Give calculated values to the same number of significant figures as, or one more than, the least accurate measurement.",
+     "syllabus_text": "use the correct number of significant figures for calculated quantities. This should be the same number of significant figures as (or one more than) the measured quantity of least accuracy.",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-4.3-06",
+     "title": "Choose between a graph and a chart, then present it clearly and accurately.",
+     "syllabus_text": "select whether data should be shown as a graph or chart and then present the graph or chart clearly and accurately",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-4.3-07",
+     "title": "Put the independent variable on the x-axis and the dependent variable on the y-axis, both labelled with units.",
+     "syllabus_text": "axes with the independent variable on the x-axis, clearly labelled (to match the relevant table heading) with units where appropriate and the dependent variable (to match the relevant table heading) on the y-axis labelled with units, where appropriate",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-4.3-08",
+     "title": "Choose scales that use most of the grid and can be read easily.",
+     "syllabus_text": "a scale where both axes should use most or all of the grid available",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-4.3-09",
+     "title": "Plot every point accurately as a small cross or dot in a circle.",
+     "syllabus_text": "all points plotted accurately.",
+     "depth_tier": 1
+    },
+    {
+     "objective_id": "OBJ-8223-4.3-10",
+     "title": "Join plotted points correctly: line of best fit, smooth curve or ruled straight lines, without extrapolating.",
+     "syllabus_text": "for a graph (based on data provided) the plotted points should be connected with a clear, sharp and unbroken",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-4.3-11",
+     "title": "Draw bars separated for discrete or categorical data and joined for continuous data.",
+     "syllabus_text": "bars should be separated for discrete or categorical data and joined for continuous data",
+     "depth_tier": 1
+    }
+   ],
+   "word_budget": [
+    3440,
+    4910
+   ],
+   "blocks_required": [
+    "a definition or plain explanation block for every objective above",
+    "at least one worked example or analysis chain where the objectives are tier 2 or higher",
+    "a cross-link block naming the topics this one connects to"
+   ]
+  }
+ ],
+ "item_slots": [
+  {
+   "slot": "ITEM-8223-4.3-001-FEATURE",
+   "objective_id": "OBJ-8223-4.3-01",
+   "objective_title": "Record raw data in a fully ruled table with no units in the body.",
+   "syllabus_text": "Record only the raw data (unprocessed results) as quantitative data and qualitative observations in a fully ruled table with no units in the body of the table",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "feature|features|point|points|characteristic|characteristics|structure|function|part|parts"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.3-002-APP",
+   "objective_id": "OBJ-8223-4.3-01",
+   "objective_title": "Record raw data in a fully ruled table with no units in the body.",
+   "syllabus_text": "Record only the raw data (unprocessed results) as quantitative data and qualitative observations in a fully ruled table with no units in the body of the table",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.3-003-FEATURE",
+   "objective_id": "OBJ-8223-4.3-02",
+   "objective_title": "Head table columns with the quantity and unit, independent variable first.",
+   "syllabus_text": "prepare a table with a heading for the independent variable in the left column or top row with appropriate units and a heading for the dependent variable with units",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "feature|features|point|points|characteristic|characteristics|structure|function|part|parts"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.3-004-APP",
+   "objective_id": "OBJ-8223-4.3-02",
+   "objective_title": "Head table columns with the quantity and unit, independent variable first.",
+   "syllabus_text": "prepare a table with a heading for the independent variable in the left column or top row with appropriate units and a heading for the dependent variable with units",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.3-005-FEATURE",
+   "objective_id": "OBJ-8223-4.3-03",
+   "objective_title": "Record measurements to the same number of significant figures, set by the instrument.",
+   "syllabus_text": "record quantitative data to the same number of significant figures dependent on the measuring instrument used",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "feature|features|point|points|characteristic|characteristics|structure|function|part|parts"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.3-006-APP",
+   "objective_id": "OBJ-8223-4.3-03",
+   "objective_title": "Record measurements to the same number of significant figures, set by the instrument.",
+   "syllabus_text": "record quantitative data to the same number of significant figures dependent on the measuring instrument used",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.3-007-DEF",
+   "objective_id": "OBJ-8223-4.3-04",
+   "objective_title": "Show every step and the reasoning in a calculation.",
+   "syllabus_text": "show calculations clearly showing all the steps in the calculation and their reasoning",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.3-008-CALC",
+   "objective_id": "OBJ-8223-4.3-04",
+   "objective_title": "Show every step and the reasoning in a calculation.",
+   "syllabus_text": "show calculations clearly showing all the steps in the calculation and their reasoning",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "equation|formula|working|substitution|substitute|step",
+    "answer|result|final",
+    "unit|units|significant figures"
+   ],
+   "reason": "instructs with Calculate, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.3-009-CALC",
+   "objective_id": "OBJ-8223-4.3-04",
+   "objective_title": "Show every step and the reasoning in a calculation.",
+   "syllabus_text": "show calculations clearly showing all the steps in the calculation and their reasoning",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "equation|formula|working|substitution|substitute|step",
+    "answer|result|final",
+    "unit|units|significant figures"
+   ],
+   "reason": "instructs with Calculate, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.3-010-DEF",
+   "objective_id": "OBJ-8223-4.3-05",
+   "objective_title": "Give calculated values to the same number of significant figures as, or one more than, the least accurate measurement.",
+   "syllabus_text": "use the correct number of significant figures for calculated quantities. This should be the same number of significant figures as (or one more than) the measured quantity of least accuracy.",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.3-011-CALC",
+   "objective_id": "OBJ-8223-4.3-05",
+   "objective_title": "Give calculated values to the same number of significant figures as, or one more than, the least accurate measurement.",
+   "syllabus_text": "use the correct number of significant figures for calculated quantities. This should be the same number of significant figures as (or one more than) the measured quantity of least accuracy.",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "equation|formula|working|substitution|substitute|step",
+    "answer|result|final",
+    "unit|units|significant figures"
+   ],
+   "reason": "instructs with Calculate, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.3-012-CALC",
+   "objective_id": "OBJ-8223-4.3-05",
+   "objective_title": "Give calculated values to the same number of significant figures as, or one more than, the least accurate measurement.",
+   "syllabus_text": "use the correct number of significant figures for calculated quantities. This should be the same number of significant figures as (or one more than) the measured quantity of least accuracy.",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "equation|formula|working|substitution|substitute|step",
+    "answer|result|final",
+    "unit|units|significant figures"
+   ],
+   "reason": "instructs with Calculate, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.3-013-FEATURE",
+   "objective_id": "OBJ-8223-4.3-06",
+   "objective_title": "Choose between a graph and a chart, then present it clearly and accurately.",
+   "syllabus_text": "select whether data should be shown as a graph or chart and then present the graph or chart clearly and accurately",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "feature|features|point|points|characteristic|characteristics|structure|function|part|parts"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.3-014-APP",
+   "objective_id": "OBJ-8223-4.3-06",
+   "objective_title": "Choose between a graph and a chart, then present it clearly and accurately.",
+   "syllabus_text": "select whether data should be shown as a graph or chart and then present the graph or chart clearly and accurately",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.3-015-FEATURE",
+   "objective_id": "OBJ-8223-4.3-07",
+   "objective_title": "Put the independent variable on the x-axis and the dependent variable on the y-axis, both labelled with units.",
+   "syllabus_text": "axes with the independent variable on the x-axis, clearly labelled (to match the relevant table heading) with units where appropriate and the dependent variable (to match the relevant table heading) on the y-axis labelled with units, where appropriate",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "feature|features|point|points|characteristic|characteristics|structure|function|part|parts"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.3-016-APP",
+   "objective_id": "OBJ-8223-4.3-07",
+   "objective_title": "Put the independent variable on the x-axis and the dependent variable on the y-axis, both labelled with units.",
+   "syllabus_text": "axes with the independent variable on the x-axis, clearly labelled (to match the relevant table heading) with units where appropriate and the dependent variable (to match the relevant table heading) on the y-axis labelled with units, where appropriate",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.3-017-FEATURE",
+   "objective_id": "OBJ-8223-4.3-08",
+   "objective_title": "Choose scales that use most of the grid and can be read easily.",
+   "syllabus_text": "a scale where both axes should use most or all of the grid available",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "feature|features|point|points|characteristic|characteristics|structure|function|part|parts"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.3-018-APP",
+   "objective_id": "OBJ-8223-4.3-08",
+   "objective_title": "Choose scales that use most of the grid and can be read easily.",
+   "syllabus_text": "a scale where both axes should use most or all of the grid available",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.3-019-FEATURE",
+   "objective_id": "OBJ-8223-4.3-09",
+   "objective_title": "Plot every point accurately as a small cross or dot in a circle.",
+   "syllabus_text": "all points plotted accurately.",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 1,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "feature|features|point|points|characteristic|characteristics|structure|function|part|parts"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.3-020-APP",
+   "objective_id": "OBJ-8223-4.3-09",
+   "objective_title": "Plot every point accurately as a small cross or dot in a circle.",
+   "syllabus_text": "all points plotted accurately.",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.3-021-FEATURE",
+   "objective_id": "OBJ-8223-4.3-10",
+   "objective_title": "Join plotted points correctly: line of best fit, smooth curve or ruled straight lines, without extrapolating.",
+   "syllabus_text": "for a graph (based on data provided) the plotted points should be connected with a clear, sharp and unbroken",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "feature|features|point|points|characteristic|characteristics|structure|function|part|parts"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.3-022-APP",
+   "objective_id": "OBJ-8223-4.3-10",
+   "objective_title": "Join plotted points correctly: line of best fit, smooth curve or ruled straight lines, without extrapolating.",
+   "syllabus_text": "for a graph (based on data provided) the plotted points should be connected with a clear, sharp and unbroken",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.3-023-FEATURE",
+   "objective_id": "OBJ-8223-4.3-11",
+   "objective_title": "Draw bars separated for discrete or categorical data and joined for continuous data.",
+   "syllabus_text": "bars should be separated for discrete or categorical data and joined for continuous data",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 1,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "feature|features|point|points|characteristic|characteristics|structure|function|part|parts"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.3-024-APP",
+   "objective_id": "OBJ-8223-4.3-11",
+   "objective_title": "Draw bars separated for discrete or categorical data and joined for continuous data.",
+   "syllabus_text": "bars should be separated for discrete or categorical data and joined for continuous data",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, the shape this subtype needs"
+  }
+ ],
+ "performance_tasks": [
+  {
+   "slot": "ITEM-8223-4.3-P01",
+   "item_type": "practical_task",
+   "brief": "A Paper 3 style investigation task (about 10 marks): an experiment described in words with our own readings in a table. The learner decides variables, controls and how to measure, draws up the results table (quantity and unit headings, consistent significant figures), plots or describes the graph, calculates a value with working, identifies sources of error and suggests an improvement. Readings are ours and are labelled as such.",
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "table|heading|headings|column|columns",
+    "graph|plot|axis|axes|uncertainty|error|scale",
+    "limitation|limitations|improvement|improvements|conclusion|control|variable"
+   ],
+   "objective_ids": "choose 2-4 objectives from this topic that the task genuinely exercises"
+  },
+  {
+   "slot": "ITEM-8223-4.3-P02",
+   "item_type": "practical_task",
+   "brief": "A second Paper 3 style task (about 10 marks), different in setting from the first and fitted to this topic. Where the topic concerns microscopy, drawing or measuring specimens: a specimen or photomicrograph described in words with measurements given, asking what a plan diagram or cell drawing would show, a graticule calibration or actual-size or magnification calculation with working in micrometres, a comparison of two specimens by observable features only, and an improvement. Otherwise: a second, different investigation (a different experiment, data set or results table) testing the same skills as this topic's objectives. Values and readings are ours and are labelled as such.",
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "table|heading|headings|column|columns",
+    "graph|plot|axis|axes|uncertainty|error|scale",
+    "limitation|limitations|improvement|improvements|conclusion|control|variable"
+   ],
+   "objective_ids": "choose 2-4 objectives from this topic that the task genuinely exercises"
+  }
+ ],
+ "planned_item_count": 26,
+ "planned_ao_mix_by_item_count": {
+  "A": {
+   "planned_share_percent": 0,
+   "target_percent": 40
+  },
+  "B": {
+   "planned_share_percent": 0,
+   "target_percent": 40
+  },
+  "C": {
+   "planned_share_percent": 100,
+   "target_percent": 20
+  }
+ },
+ "planned_blooms_mix": {
+  "Remember": {
+   "items": 11,
+   "share_percent": 42
+  },
+  "Understand": {
+   "items": 0,
+   "share_percent": 0
+  },
+  "Apply": {
+   "items": 13,
+   "share_percent": 50
+  },
+  "Analyse": {
+   "items": 2,
+   "share_percent": 8
+  },
+  "Evaluate": {
+   "items": 0,
+   "share_percent": 0
+  },
+  "Create": {
+   "items": 0,
+   "share_percent": 0
+  }
+ },
+ "planned_ao_mix_by_marks": {
+  "A": {
+   "planned_share_percent": 0,
+   "syllabus_weight_percent": 40
+  },
+  "B": {
+   "planned_share_percent": 0,
+   "syllabus_weight_percent": 40
+  },
+  "C": {
+   "planned_share_percent": 100,
+   "syllabus_weight_percent": 20
+  }
+ },
+ "marks_equivalent_total": 57,
+ "ao_mix_note": "The syllabus states its AO weights as a share of MARKS, so planned_ao_mix_by_marks is the one that answers \"does this resource match the exam\". It values each card at the tariff of the question it models, split across the AOs the card declares, and values each performance task at the marks of the paper part it models. The count-based mix below is reported only because it is what a reader expects to see; do not balance against it. AO shares by ITEM COUNT: Every objective needs one recall anchor, so AO1 has a structural floor of about 46% in this topic (11 objectives against 24 slots) and cannot reach the None% target by count however many other cards are added - padding the bank to chase it makes the resource worse. The framework already measures the AO4 share in practice time rather than by count for the same reason. Treat AO1 above target as expected, and AO2/AO3/AO4 below target as the thing worth fixing.",
+ "excluded_constructs": [
+  {
+   "construct": "species concepts other than the biological, morphological, ecological and behavioural concepts",
+   "pattern": "\\b(?:phylogenetic|cohesion|recognition|evolutionary|genotypic cluster)\\s+species\\s+concept",
+   "source": {
+    "printed_page": 5,
+    "topic": "1.1",
+    "quote": "limited to the biological, morphological, ecological and behavioural concepts"
+   }
+  },
+  {
+   "construct": "mesosomes",
+   "pattern": "\\bmesosomes?\\b",
+   "source": {
+    "printed_page": 8,
+    "topic": "2.2",
+    "quote": "no reference to mesosomes required"
+   }
+  },
+  {
+   "construct": "calculations of water potential",
+   "pattern": "\\bcalculat\\w*\\s+(?:the\\s+)?(?:water|solute|pressure)\\s+potential|\\bψ\\s*=\\s*ψ|\\bwater potential\\s*=\\s*solute potential|\\bΨs\\b|\\bΨp\\b",
+   "source": {
+    "printed_page": 9,
+    "topic": "2.3.2",
+    "quote": "no calculations involving water potential will be set"
+   }
+  },
+  {
+   "construct": "solute potential, pressure potential and osmotic potential as terms",
+   "pattern": "\\b(?:solute|pressure|osmotic)\\s+potential\\b",
+   "source": {
+    "printed_page": 9,
+    "topic": "2.3.2",
+    "quote": "Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected"
+   }
+  },
+  {
+   "construct": "roles of water beyond solvent action, specific heat capacity and latent heat of vaporisation",
+   "pattern": "\\b(?:ice floats|ice is less dense|maximum density|surface tension)\\b",
+   "source": {
+    "printed_page": 11,
+    "topic": "2.4.2",
+    "quote": "limited to solvent action, specific heat capacity and latent heat of vapourisation"
+   }
+  },
+  {
+   "construct": "chloride shift",
+   "pattern": "\\bchloride shift\\b|\\bhamburger shift\\b",
+   "source": {
+    "printed_page": 14,
+    "topic": "2.7.1",
+    "quote": "details of the chloride shift are not required"
+   }
+  },
+  {
+   "construct": "nervous and hormonal control of the heart",
+   "pattern": "\\b(?:vagus nerve|cardiac centre|cardiovascular centre|cardioaccelerator|medulla oblongata)\\b|\\b(?:sympathetic|parasympathetic)\\b[^.]{0,60}\\bheart\\b|\\b(?:adrenaline|noradrenaline|acetylcholine)\\b[^.]{0,60}\\bheart (?:rate|beat)",
+   "source": {
+    "printed_page": 15,
+    "topic": "2.7.2",
+    "quote": "reference should be made to the sinoatrial node, the atrioventricular node and the Purkyne tissue, but not to nervous and hormonal control"
+   }
+  },
+  {
+   "construct": "non-infectious disease examples other than sickle cell anaemia and lung cancer",
+   "pattern": "\\b(?:non-?infectious|not infectious)\\b[^.]{0,80}\\b(?:diabetes|coronary heart disease|scurvy|rickets|kwashiorkor|cystic fibrosis|haemophilia|huntington|osteoporosis)\\b|\\b(?:diabetes|coronary heart disease|scurvy|rickets|kwashiorkor|cystic fibrosis|haemophilia|huntington|osteoporosis)\\b[^.]{0,80}\\b(?:non-?infectious|not infectious)\\b",
+   "source": {
+    "printed_page": 15,
+    "topic": "2.8.1",
+    "quote": "limited to sickle cell anaemia and lung cancer"
+   }
+  },
+  {
+   "construct": "detailed life cycle of the malarial parasite",
+   "pattern": "\\b(?:sporozoites?|merozoites?|gametocytes?|schizonts?|hypnozoites?|oocysts?|trophozoites?|exo-?erythrocytic)\\b",
+   "source": {
+    "printed_page": 15,
+    "topic": "2.8.1",
+    "quote": "a detailed study of the life cycle of the malarial parasite is not required"
+   }
+  },
+  {
+   "construct": "T-lymphocyte types other than T-helper and T-killer cells",
+   "pattern": "\\b(?:regulatory T|suppressor T|T-?regulatory|Tregs?|memory T cells?|gamma-?delta)\\b",
+   "source": {
+    "printed_page": 16,
+    "topic": "2.9.1",
+    "quote": "limited to T-helper cells and T-killer cells"
+   }
+  },
+  {
+   "construct": "chromosome structure beyond DNA, histone proteins, chromatids, centromere and telomeres",
+   "pattern": "\\b(?:kinetochores?|nucleosomes?|euchromatin|heterochromatin|cohesins?|condensins?)\\b",
+   "source": {
+    "printed_page": 18,
+    "topic": "3.1.1",
+    "quote": "limited to DNA, histone proteins, chromatids, centromere and telomeres"
+   }
+  },
+  {
+   "construct": "structural formulae of nucleotides and bases",
+   "pattern": "\\bstructural formulae? of (?:the )?(?:nucleotides?|bases?|purines?|pyrimidines?|adenine|guanine|cytosine|thymine|uracil)\\b|\\bC5H5N5\\b|\\bC4H5N3O\\b|\\bC5H5N5O\\b|\\bC4H4N2O2\\b",
+   "source": {
+    "printed_page": 19,
+    "topic": "3.2.1",
+    "quote": "structural formulae are not required"
+   }
+  }
+ ],
+ "adjacent_topics": [],
+ "excluded_constructs_status": "declared",
+ "subtype_waivers": []
+}

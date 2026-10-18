@@ -1,0 +1,784 @@
+{
+ "work_order_id": "WO-8223-2.6.2",
+ "topic_id": "2.6.2",
+ "topic_title": "Mechanisms of transport in plants",
+ "topic": "2.6.2 Mechanisms of transport in plants",
+ "generated_by": "build/make_work_order.py — regenerate, never edit",
+ "standard": "v0.2.0-draft",
+ "authoring_note": "Every slot below is decided. Write the prose; do not redesign the plan. If a slot is genuinely wrong for the objective, say so in your report rather than silently changing it.",
+ "output_files": {
+  "claims": "claims/canonical_claim_ledger.json",
+  "content_units": [
+   "content-units/CU-8223-2.6.2.json"
+  ],
+  "learning_items": "learning-items/topic_2.6.2_items.json",
+  "notes": "2.6.2-mechanisms-of-transport-in-plants.md",
+  "flashcards_when_published": "2.6.2-mechanisms-of-transport-in-plants-flashcards.json"
+ },
+ "assessable_objective_count": 9,
+ "claims_plan": {
+  "per_objective": "2 to 4",
+  "approximate_total": [
+   18,
+   36
+  ]
+ },
+ "content_units": [
+  {
+   "unit_id": "CU-8223-2.6.2",
+   "file": "content-units/CU-8223-2.6.2.json",
+   "sub_topic": "2.6.2",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-01",
+    "OBJ-8223-2.6.2-02",
+    "OBJ-8223-2.6.2-03",
+    "OBJ-8223-2.6.2-04",
+    "OBJ-8223-2.6.2-05",
+    "OBJ-8223-2.6.2-06",
+    "OBJ-8223-2.6.2-07",
+    "OBJ-8223-2.6.2-08",
+    "OBJ-8223-2.6.2-09"
+   ],
+   "objectives": [
+    {
+     "objective_id": "OBJ-8223-2.6.2-01",
+     "title": "explain that transpiration involves the evaporation of water from the internal surfaces of leaves followed by diffusion of water vapour to the atmosphere",
+     "syllabus_text": "explain that transpiration involves the evaporation of water from the internal surfaces of leaves followed by diffusion of water vapour to the atmosphere",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.6.2-02",
+     "title": "describe,in terms of water potential, the movement of water: - between plant cells - between the plant and its environment (no calculations involving water potential will be set)",
+     "syllabus_text": "describe,in terms of water potential, the movement of water: - between plant cells - between the plant and its environment (no calculations involving water potential will be set)",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.6.2-03",
+     "title": "investigate experimentally and explain the factors that affect transpiration rate using simple potometer, epidermal peels and grids for determining surface area",
+     "syllabus_text": "investigate experimentally and explain the factors that affect transpiration rate using simple potometer, epidermal peels and grids for determining surface area",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.6.2-04",
+     "title": "explain how hydrogen bonding of water molecules is involved with movement in the xylem by cohesion-tension in transpiration pull and adhesion to cellulose cell walls",
+     "syllabus_text": "explain how hydrogen bonding of water molecules is involved with movement in the xylem by cohesion-tension in transpiration pull and adhesion to cellulose cell walls",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.6.2-05",
+     "title": "describe the pathways and explain the mechanisms by which water and mineral ions are transported from soil to xylem and from roots to leaves (include reference to the symplastic pathway, apoplastic pathway and Casparian strip)",
+     "syllabus_text": "describe the pathways and explain the mechanisms by which water and mineral ions are transported from soil to xylem and from roots to leaves (include reference to the symplastic pathway, apoplastic pathway and Casparian strip)",
+     "depth_tier": 3
+    },
+    {
+     "objective_id": "OBJ-8223-2.6.2-06",
+     "title": "make annotated drawings of transverse sections of leaves from xerophytic plants to explain how they are adapted to reduce water loss by transpiration",
+     "syllabus_text": "make annotated drawings of transverse sections of leaves from xerophytic plants to explain how they are adapted to reduce water loss by transpiration",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.6.2-07",
+     "title": "state how assimilates, such as sucrose and amino acids, move between sources (e.g. leaves and storage organs) and sinks, (e.g. buds, flowers, fruits, roots and storage organs) in phloem sieve tubes",
+     "syllabus_text": "state how assimilates, such as sucrose and amino acids, move between sources (e.g. leaves and storage organs) and sinks, (e.g. buds, flowers, fruits, roots and storage organs) in phloem sieve tubes",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.6.2-08",
+     "title": "explain how sucrose is loaded into phloem sieve tubes by companion cells using proton pumping and the co-transporter mechanism in their cell surface membranes",
+     "syllabus_text": "explain how sucrose is loaded into phloem sieve tubes by companion cells using proton pumping and the co-transporter mechanism in their cell surface membranes",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.6.2-09",
+     "title": "explain mass flow in phloem sap down a hydrostatic pressure gradient from source to sink",
+     "syllabus_text": "explain mass flow in phloem sap down a hydrostatic pressure gradient from source to sink",
+     "depth_tier": 2
+    }
+   ],
+   "word_budget": [
+    2760,
+    3950
+   ],
+   "blocks_required": [
+    "a definition or plain explanation block for every objective above",
+    "at least one worked example or analysis chain where the objectives are tier 2 or higher",
+    "a cross-link block naming the topics this one connects to"
+   ]
+  }
+ ],
+ "item_slots": [
+  {
+   "slot": "ITEM-8223-2.6.2-001-DEF",
+   "objective_id": "OBJ-8223-2.6.2-01",
+   "objective_title": "explain that transpiration involves the evaporation of water from the internal surfaces of leaves followed by diffusion of water vapour to the atmosphere",
+   "syllabus_text": "explain that transpiration involves the evaporation of water from the internal surfaces of leaves followed by diffusion of water vapour to the atmosphere",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-002-MECH",
+   "objective_id": "OBJ-8223-2.6.2-01",
+   "objective_title": "explain that transpiration involves the evaporation of water from the internal surfaces of leaves followed by diffusion of water vapour to the atmosphere",
+   "syllabus_text": "explain that transpiration involves the evaporation of water from the internal surfaces of leaves followed by diffusion of water vapour to the atmosphere",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "how|because|so that|which|then|causes|cause|leads|results"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-025-INTERP",
+   "objective_id": "OBJ-8223-2.6.2-01",
+   "objective_title": "explain that transpiration involves the evaporation of water from the internal surfaces of leaves followed by diffusion of water vapour to the atmosphere",
+   "syllabus_text": "explain that transpiration involves the evaporation of water from the internal surfaces of leaves followed by diffusion of water vapour to the atmosphere",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "added to reach the framework B target of 50%"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-003-DEF",
+   "objective_id": "OBJ-8223-2.6.2-02",
+   "objective_title": "describe,in terms of water potential, the movement of water: - between plant cells - between the plant and its environment (no calculations involving water potential will be set)",
+   "syllabus_text": "describe,in terms of water potential, the movement of water: - between plant cells - between the plant and its environment (no calculations involving water potential will be set)",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-004-FEATURE",
+   "objective_id": "OBJ-8223-2.6.2-02",
+   "objective_title": "describe,in terms of water potential, the movement of water: - between plant cells - between the plant and its environment (no calculations involving water potential will be set)",
+   "syllabus_text": "describe,in terms of water potential, the movement of water: - between plant cells - between the plant and its environment (no calculations involving water potential will be set)",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "feature|features|point|points|characteristic|characteristics|structure|function|part|parts"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-023-MISCON",
+   "objective_id": "OBJ-8223-2.6.2-02",
+   "objective_title": "describe,in terms of water potential, the movement of water: - between plant cells - between the plant and its environment (no calculations involving water potential will be set)",
+   "syllabus_text": "describe,in terms of water potential, the movement of water: - between plant cells - between the plant and its environment (no calculations involving water potential will be set)",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "error|mistake|confusion|confused|wrongly|in fact|not the same|instead|test"
+   ],
+   "misconception_entry": "MC-8223-2.6.2-05",
+   "reason": "discriminates misconception MC-8223-2.6.2-05 (1 examiner statements): Showing water movement without a direction, or in the wrong direction"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-026-INTERP",
+   "objective_id": "OBJ-8223-2.6.2-02",
+   "objective_title": "describe,in terms of water potential, the movement of water: - between plant cells - between the plant and its environment (no calculations involving water potential will be set)",
+   "syllabus_text": "describe,in terms of water potential, the movement of water: - between plant cells - between the plant and its environment (no calculations involving water potential will be set)",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "added to reach the framework B target of 50%"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-005-PROC",
+   "objective_id": "OBJ-8223-2.6.2-03",
+   "objective_title": "investigate experimentally and explain the factors that affect transpiration rate using simple potometer, epidermal peels and grids for determining surface area",
+   "syllabus_text": "investigate experimentally and explain the factors that affect transpiration rate using simple potometer, epidermal peels and grids for determining surface area",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "order|sequence|first|then|step|steps|stage|stages|start",
+    "result|so|therefore|finally|end|product|outcome"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-006-WHY",
+   "objective_id": "OBJ-8223-2.6.2-03",
+   "objective_title": "investigate experimentally and explain the factors that affect transpiration rate using simple potometer, epidermal peels and grids for determining surface area",
+   "syllabus_text": "investigate experimentally and explain the factors that affect transpiration rate using simple potometer, epidermal peels and grids for determining surface area",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "reason|purpose|why|because|so that|need|needed"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-007-DEF",
+   "objective_id": "OBJ-8223-2.6.2-04",
+   "objective_title": "explain how hydrogen bonding of water molecules is involved with movement in the xylem by cohesion-tension in transpiration pull and adhesion to cellulose cell walls",
+   "syllabus_text": "explain how hydrogen bonding of water molecules is involved with movement in the xylem by cohesion-tension in transpiration pull and adhesion to cellulose cell walls",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-008-MECH",
+   "objective_id": "OBJ-8223-2.6.2-04",
+   "objective_title": "explain how hydrogen bonding of water molecules is involved with movement in the xylem by cohesion-tension in transpiration pull and adhesion to cellulose cell walls",
+   "syllabus_text": "explain how hydrogen bonding of water molecules is involved with movement in the xylem by cohesion-tension in transpiration pull and adhesion to cellulose cell walls",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "how|because|so that|which|then|causes|cause|leads|results"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-009-DEF",
+   "objective_id": "OBJ-8223-2.6.2-05",
+   "objective_title": "describe the pathways and explain the mechanisms by which water and mineral ions are transported from soil to xylem and from roots to leaves (include reference to the symplastic pathway, apoplastic pathway and Casparian strip)",
+   "syllabus_text": "describe the pathways and explain the mechanisms by which water and mineral ions are transported from soil to xylem and from roots to leaves (include reference to the symplastic pathway, apoplastic pathway and Casparian strip)",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-010-MECH",
+   "objective_id": "OBJ-8223-2.6.2-05",
+   "objective_title": "describe the pathways and explain the mechanisms by which water and mineral ions are transported from soil to xylem and from roots to leaves (include reference to the symplastic pathway, apoplastic pathway and Casparian strip)",
+   "syllabus_text": "describe the pathways and explain the mechanisms by which water and mineral ions are transported from soil to xylem and from roots to leaves (include reference to the symplastic pathway, apoplastic pathway and Casparian strip)",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "how|because|so that|which|then|causes|cause|leads|results"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-011-APP",
+   "objective_id": "OBJ-8223-2.6.2-05",
+   "objective_title": "describe the pathways and explain the mechanisms by which water and mineral ions are transported from soil to xylem and from roots to leaves (include reference to the symplastic pathway, apoplastic pathway and Casparian strip)",
+   "syllabus_text": "describe the pathways and explain the mechanisms by which water and mineral ions are transported from soil to xylem and from roots to leaves (include reference to the symplastic pathway, apoplastic pathway and Casparian strip)",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-019-MISCON",
+   "objective_id": "OBJ-8223-2.6.2-05",
+   "objective_title": "describe the pathways and explain the mechanisms by which water and mineral ions are transported from soil to xylem and from roots to leaves (include reference to the symplastic pathway, apoplastic pathway and Casparian strip)",
+   "syllabus_text": "describe the pathways and explain the mechanisms by which water and mineral ions are transported from soil to xylem and from roots to leaves (include reference to the symplastic pathway, apoplastic pathway and Casparian strip)",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "error|mistake|confusion|confused|wrongly|in fact|not the same|instead|test"
+   ],
+   "misconception_entry": "MC-8223-2.6.2-01",
+   "reason": "discriminates misconception MC-8223-2.6.2-01 (2 examiner statements): Mixing up the apoplast (cell walls) with the symplast (cytoplasm)"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-024-INTERP",
+   "objective_id": "OBJ-8223-2.6.2-05",
+   "objective_title": "describe the pathways and explain the mechanisms by which water and mineral ions are transported from soil to xylem and from roots to leaves (include reference to the symplastic pathway, apoplastic pathway and Casparian strip)",
+   "syllabus_text": "describe the pathways and explain the mechanisms by which water and mineral ions are transported from soil to xylem and from roots to leaves (include reference to the symplastic pathway, apoplastic pathway and Casparian strip)",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "added to reach the framework B target of 50%"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-012-FEATURE",
+   "objective_id": "OBJ-8223-2.6.2-06",
+   "objective_title": "make annotated drawings of transverse sections of leaves from xerophytic plants to explain how they are adapted to reduce water loss by transpiration",
+   "syllabus_text": "make annotated drawings of transverse sections of leaves from xerophytic plants to explain how they are adapted to reduce water loss by transpiration",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "feature|features|point|points|characteristic|characteristics|structure|function|part|parts"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-013-APP",
+   "objective_id": "OBJ-8223-2.6.2-06",
+   "objective_title": "make annotated drawings of transverse sections of leaves from xerophytic plants to explain how they are adapted to reduce water loss by transpiration",
+   "syllabus_text": "make annotated drawings of transverse sections of leaves from xerophytic plants to explain how they are adapted to reduce water loss by transpiration",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-020-MISCON",
+   "objective_id": "OBJ-8223-2.6.2-06",
+   "objective_title": "make annotated drawings of transverse sections of leaves from xerophytic plants to explain how they are adapted to reduce water loss by transpiration",
+   "syllabus_text": "make annotated drawings of transverse sections of leaves from xerophytic plants to explain how they are adapted to reduce water loss by transpiration",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "error|mistake|confusion|confused|wrongly|in fact|not the same|instead|test"
+   ],
+   "misconception_entry": "MC-8223-2.6.2-02",
+   "reason": "discriminates misconception MC-8223-2.6.2-02 (1 examiner statements): Assuming many epidermal layers is a feature every xerophyte has"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-014-DEF",
+   "objective_id": "OBJ-8223-2.6.2-07",
+   "objective_title": "state how assimilates, such as sucrose and amino acids, move between sources (e.g. leaves and storage organs) and sinks, (e.g. buds, flowers, fruits, roots and storage organs) in phloem sieve tubes",
+   "syllabus_text": "state how assimilates, such as sucrose and amino acids, move between sources (e.g. leaves and storage organs) and sinks, (e.g. buds, flowers, fruits, roots and storage organs) in phloem sieve tubes",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-021-MISCON",
+   "objective_id": "OBJ-8223-2.6.2-07",
+   "objective_title": "state how assimilates, such as sucrose and amino acids, move between sources (e.g. leaves and storage organs) and sinks, (e.g. buds, flowers, fruits, roots and storage organs) in phloem sieve tubes",
+   "syllabus_text": "state how assimilates, such as sucrose and amino acids, move between sources (e.g. leaves and storage organs) and sinks, (e.g. buds, flowers, fruits, roots and storage organs) in phloem sieve tubes",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "error|mistake|confusion|confused|wrongly|in fact|not the same|instead|test"
+   ],
+   "misconception_entry": "MC-8223-2.6.2-03",
+   "reason": "discriminates misconception MC-8223-2.6.2-03 (1 examiner statements): Writing 'translation' (or diffusion or active transport) for the movement of sucrose in the phloem"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-015-DEF",
+   "objective_id": "OBJ-8223-2.6.2-08",
+   "objective_title": "explain how sucrose is loaded into phloem sieve tubes by companion cells using proton pumping and the co-transporter mechanism in their cell surface membranes",
+   "syllabus_text": "explain how sucrose is loaded into phloem sieve tubes by companion cells using proton pumping and the co-transporter mechanism in their cell surface membranes",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-016-MECH",
+   "objective_id": "OBJ-8223-2.6.2-08",
+   "objective_title": "explain how sucrose is loaded into phloem sieve tubes by companion cells using proton pumping and the co-transporter mechanism in their cell surface membranes",
+   "syllabus_text": "explain how sucrose is loaded into phloem sieve tubes by companion cells using proton pumping and the co-transporter mechanism in their cell surface membranes",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "how|because|so that|which|then|causes|cause|leads|results"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-022-MISCON",
+   "objective_id": "OBJ-8223-2.6.2-08",
+   "objective_title": "explain how sucrose is loaded into phloem sieve tubes by companion cells using proton pumping and the co-transporter mechanism in their cell surface membranes",
+   "syllabus_text": "explain how sucrose is loaded into phloem sieve tubes by companion cells using proton pumping and the co-transporter mechanism in their cell surface membranes",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "error|mistake|confusion|confused|wrongly|in fact|not the same|instead|test"
+   ],
+   "misconception_entry": "MC-8223-2.6.2-04",
+   "reason": "discriminates misconception MC-8223-2.6.2-04 (1 examiner statements): Saying hydrogen ions bond with sucrose during loading"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-017-DEF",
+   "objective_id": "OBJ-8223-2.6.2-09",
+   "objective_title": "explain mass flow in phloem sap down a hydrostatic pressure gradient from source to sink",
+   "syllabus_text": "explain mass flow in phloem sap down a hydrostatic pressure gradient from source to sink",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-018-MECH",
+   "objective_id": "OBJ-8223-2.6.2-09",
+   "objective_title": "explain mass flow in phloem sap down a hydrostatic pressure gradient from source to sink",
+   "syllabus_text": "explain mass flow in phloem sap down a hydrostatic pressure gradient from source to sink",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "how|because|so that|which|then|causes|cause|leads|results"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  }
+ ],
+ "performance_tasks": [
+  {
+   "slot": "ITEM-8223-2.6.2-P01",
+   "item_type": "multiple_choice_set",
+   "brief": "A set of 12 four-option multiple-choice questions on this topic in the style of Paper 1, one mark each: about half recall and half application, diagram, graph or sequence, every distractor built from a known error (the misconception register first), the key and the reason each distractor is wrong on the back.",
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "key|correct option|correct answer",
+    "distractor|distractors|wrong option|wrong options|error"
+   ],
+   "objective_ids": "choose 2-4 objectives from this topic that the task genuinely exercises"
+  },
+  {
+   "slot": "ITEM-8223-2.6.2-P02",
+   "item_type": "short_answer",
+   "brief": "A Paper 2 style structured question: four or five linked parts around one stimulus (a data table, a graph described by its axes and values, a labelled structure described in words, or a short scenario), about 8 marks, mixing state, describe, explain and suggest, each part with its own mark allocation and more creditworthy points on the scheme than marks.",
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "mark|marks|point|points",
+    "unit|units|term|terms|because|reason"
+   ],
+   "objective_ids": "choose 2-4 objectives from this topic that the task genuinely exercises"
+  }
+ ],
+ "planned_item_count": 28,
+ "planned_ao_mix_by_item_count": {
+  "A": {
+   "planned_share_percent": 62,
+   "target_percent": 40
+  },
+  "B": {
+   "planned_share_percent": 38,
+   "target_percent": 40
+  },
+  "C": {
+   "planned_share_percent": 0,
+   "target_percent": 20
+  }
+ },
+ "planned_blooms_mix": {
+  "Remember": {
+   "items": 9,
+   "share_percent": 32
+  },
+  "Understand": {
+   "items": 11,
+   "share_percent": 39
+  },
+  "Apply": {
+   "items": 5,
+   "share_percent": 18
+  },
+  "Analyse": {
+   "items": 3,
+   "share_percent": 11
+  },
+  "Evaluate": {
+   "items": 0,
+   "share_percent": 0
+  },
+  "Create": {
+   "items": 0,
+   "share_percent": 0
+  }
+ },
+ "planned_ao_mix_by_marks": {
+  "A": {
+   "planned_share_percent": 53,
+   "syllabus_weight_percent": 40
+  },
+  "B": {
+   "planned_share_percent": 47,
+   "syllabus_weight_percent": 40
+  },
+  "C": {
+   "planned_share_percent": 0,
+   "syllabus_weight_percent": 20
+  }
+ },
+ "marks_equivalent_total": 64,
+ "ao_mix_note": "The syllabus states its AO weights as a share of MARKS, so planned_ao_mix_by_marks is the one that answers \"does this resource match the exam\". It values each card at the tariff of the question it models, split across the AOs the card declares, and values each performance task at the marks of the paper part it models. The count-based mix below is reported only because it is what a reader expects to see; do not balance against it. AO shares by ITEM COUNT: Every objective needs one recall anchor, so AO1 has a structural floor of about 35% in this topic (9 objectives against 26 slots) and cannot reach the None% target by count however many other cards are added - padding the bank to chase it makes the resource worse. The framework already measures the AO4 share in practice time rather than by count for the same reason. Treat AO1 above target as expected, and AO2/AO3/AO4 below target as the thing worth fixing.",
+ "excluded_constructs": [
+  {
+   "construct": "species concepts other than the biological, morphological, ecological and behavioural concepts",
+   "pattern": "\\b(?:phylogenetic|cohesion|recognition|evolutionary|genotypic cluster)\\s+species\\s+concept",
+   "source": {
+    "printed_page": 5,
+    "topic": "1.1",
+    "quote": "limited to the biological, morphological, ecological and behavioural concepts"
+   }
+  },
+  {
+   "construct": "mesosomes",
+   "pattern": "\\bmesosomes?\\b",
+   "source": {
+    "printed_page": 8,
+    "topic": "2.2",
+    "quote": "no reference to mesosomes required"
+   }
+  },
+  {
+   "construct": "calculations of water potential",
+   "pattern": "\\bcalculat\\w*\\s+(?:the\\s+)?(?:water|solute|pressure)\\s+potential|\\bψ\\s*=\\s*ψ|\\bwater potential\\s*=\\s*solute potential|\\bΨs\\b|\\bΨp\\b",
+   "source": {
+    "printed_page": 9,
+    "topic": "2.3.2",
+    "quote": "no calculations involving water potential will be set"
+   }
+  },
+  {
+   "construct": "solute potential, pressure potential and osmotic potential as terms",
+   "pattern": "\\b(?:solute|pressure|osmotic)\\s+potential\\b",
+   "source": {
+    "printed_page": 9,
+    "topic": "2.3.2",
+    "quote": "Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected"
+   }
+  },
+  {
+   "construct": "roles of water beyond solvent action, specific heat capacity and latent heat of vaporisation",
+   "pattern": "\\b(?:ice floats|ice is less dense|maximum density|surface tension)\\b",
+   "source": {
+    "printed_page": 11,
+    "topic": "2.4.2",
+    "quote": "limited to solvent action, specific heat capacity and latent heat of vapourisation"
+   }
+  },
+  {
+   "construct": "chloride shift",
+   "pattern": "\\bchloride shift\\b|\\bhamburger shift\\b",
+   "source": {
+    "printed_page": 14,
+    "topic": "2.7.1",
+    "quote": "details of the chloride shift are not required"
+   }
+  },
+  {
+   "construct": "nervous and hormonal control of the heart",
+   "pattern": "\\b(?:vagus nerve|cardiac centre|cardiovascular centre|cardioaccelerator|medulla oblongata)\\b|\\b(?:sympathetic|parasympathetic)\\b[^.]{0,60}\\bheart\\b|\\b(?:adrenaline|noradrenaline|acetylcholine)\\b[^.]{0,60}\\bheart (?:rate|beat)",
+   "source": {
+    "printed_page": 15,
+    "topic": "2.7.2",
+    "quote": "reference should be made to the sinoatrial node, the atrioventricular node and the Purkyne tissue, but not to nervous and hormonal control"
+   }
+  },
+  {
+   "construct": "non-infectious disease examples other than sickle cell anaemia and lung cancer",
+   "pattern": "\\b(?:non-?infectious|not infectious)\\b[^.]{0,80}\\b(?:diabetes|coronary heart disease|scurvy|rickets|kwashiorkor|cystic fibrosis|haemophilia|huntington|osteoporosis)\\b|\\b(?:diabetes|coronary heart disease|scurvy|rickets|kwashiorkor|cystic fibrosis|haemophilia|huntington|osteoporosis)\\b[^.]{0,80}\\b(?:non-?infectious|not infectious)\\b",
+   "source": {
+    "printed_page": 15,
+    "topic": "2.8.1",
+    "quote": "limited to sickle cell anaemia and lung cancer"
+   }
+  },
+  {
+   "construct": "detailed life cycle of the malarial parasite",
+   "pattern": "\\b(?:sporozoites?|merozoites?|gametocytes?|schizonts?|hypnozoites?|oocysts?|trophozoites?|exo-?erythrocytic)\\b",
+   "source": {
+    "printed_page": 15,
+    "topic": "2.8.1",
+    "quote": "a detailed study of the life cycle of the malarial parasite is not required"
+   }
+  },
+  {
+   "construct": "T-lymphocyte types other than T-helper and T-killer cells",
+   "pattern": "\\b(?:regulatory T|suppressor T|T-?regulatory|Tregs?|memory T cells?|gamma-?delta)\\b",
+   "source": {
+    "printed_page": 16,
+    "topic": "2.9.1",
+    "quote": "limited to T-helper cells and T-killer cells"
+   }
+  },
+  {
+   "construct": "chromosome structure beyond DNA, histone proteins, chromatids, centromere and telomeres",
+   "pattern": "\\b(?:kinetochores?|nucleosomes?|euchromatin|heterochromatin|cohesins?|condensins?)\\b",
+   "source": {
+    "printed_page": 18,
+    "topic": "3.1.1",
+    "quote": "limited to DNA, histone proteins, chromatids, centromere and telomeres"
+   }
+  },
+  {
+   "construct": "structural formulae of nucleotides and bases",
+   "pattern": "\\bstructural formulae? of (?:the )?(?:nucleotides?|bases?|purines?|pyrimidines?|adenine|guanine|cytosine|thymine|uracil)\\b|\\bC5H5N5\\b|\\bC4H5N3O\\b|\\bC5H5N5O\\b|\\bC4H4N2O2\\b",
+   "source": {
+    "printed_page": 19,
+    "topic": "3.2.1",
+    "quote": "structural formulae are not required"
+   }
+  }
+ ],
+ "adjacent_topics": [],
+ "excluded_constructs_status": "declared",
+ "subtype_waivers": []
+}

@@ -1,0 +1,378 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-2.8.2",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-2.8.2-001",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-01"
+   ],
+   "text": "Penicillin is an antibiotic that prevents growing bacteria from building and repairing their cell walls. It blocks the enzymes that join the strands of the wall together, so each new section of wall is weak.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.16, topic 2.8.2, objective 1",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2022-P2-Q2e",
+     "locator": "Q2(e)",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.8.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line paraphrased; the 2022 report evidence speaks to wall, not membrane). Penicillin acts on the cell wall, not the cell surface membrane. The syllabus line says only 'how penicillin acts'; the mechanism detail (blocking the enzymes that cross-link the wall) is standard biology we added."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.2-002",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-01"
+   ],
+   "text": "Bacteria growing in dilute surroundings, such as body fluids, have a cytoplasm with a lower water potential than their surroundings, so water enters by osmosis. A strong cell wall resists this swelling. When penicillin has prevented the wall being built, the weakened wall cannot hold the cell, so the growing bacterium takes in water and bursts.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.16, topic 2.8.2, objective 1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.8.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. The bursting depends on the cell growing and on dilute surroundings; non-growing bacteria are much less affected, which is why penicillin acts on growing cells."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.2-003",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-01"
+   ],
+   "text": "Antibiotics such as penicillin do not act on viruses. A virus has no cell wall and no metabolism of its own, and it can reproduce only inside a host cell using the host cell's machinery, so an antibiotic that blocks wall building has nothing to act on.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.16, topic 2.8.2, objective 1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.8.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. 'Only' here is definitional: viruses are obligate intracellular parasites. Colds, influenza and HIV infection are viral, so an antibiotic is not a treatment for them."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.2-004",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-01"
+   ],
+   "text": "Penicillin does not harm the cells of a patient, or other eukaryotic cells such as those of Plasmodium, because they have no bacterial-type (peptidoglycan) cell wall for it to act on. Human cells are eukaryotic and have a cell surface membrane but no cell wall.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.16, topic 2.8.2, objective 1",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2022-P2-Q2e",
+     "locator": "Q2(e)",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.8.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus wording and standard biology differ slightly: the syllabus says 'antibiotics do not affect eukaryotic cells', but some antibiotics do affect eukaryotic structures (for example some act on mitochondria, and antifungal drugs target fungi, which are eukaryotes). We follow the biology we can justify and teach the point for penicillin and for antibiotics that act on a bacterial structure such as the wall. Fungi have walls but of a different material (chitin), so penicillin has no target in them either."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.2-005",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-02"
+   ],
+   "text": "A mutation is a random change in the sequence of bases in DNA. It arises by chance during copying of the DNA, whether or not an antibiotic is present, and the antibiotic does not cause it. Occasionally a mutation in a gene gives a bacterium a protein that lets it survive the antibiotic, for example an enzyme that breaks down penicillin.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.16, topic 2.8.2, objective 2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.8.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Mutation is a chance event; an antibiotic can increase the mutation rate only in unusual cases, which is outside the syllabus, so the claim says the antibiotic does not cause the resistance mutation."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.2-006",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-02"
+   ],
+   "text": "When an antibiotic is present it acts as a selection pressure: bacteria without the resistance mutation are killed or stop growing, and the resistant bacteria survive. The survivors reproduce by binary fission and pass the resistance allele to their offspring, so over generations the proportion of resistant bacteria in the population rises.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.16, topic 2.8.2, objective 2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2024-P2-Q2d",
+     "locator": "Q2(d)",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.8.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Selection acts on a variation that already exists in the population; the antibiotic selects, it does not create the variation."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.2-007",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-02"
+   ],
+   "text": "It is bacteria that become resistant to an antibiotic, by chance mutation followed by selection. The antibiotic does not become resistant, and the patient does not become resistant: the patient's own cells are not changed, and the patient can carry resistant bacteria.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.16, topic 2.8.2, objective 2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2024-P2-Q2d",
+     "locator": "Q2(d)",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.8.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Glossary homonym rule: antibiotic resistance belongs to bacteria, not to the antibiotic or the patient. Misconception MC-8223-2.8.2-03."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.2-008",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-02"
+   ],
+   "text": "Under favourable conditions some bacteria divide about every 20 to 30 minutes, so a single resistant survivor can give rise to a very large population of resistant bacteria within days. This is a tendency: it depends on food, warmth and the species.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.16, topic 2.8.2, objective 2",
+     "support_type": "derivation"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.8.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. The doubling time quoted is a typical value for fast-growing species under ideal conditions; many bacteria divide more slowly."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.2-009",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-03"
+   ],
+   "text": "Antibiotic resistance has consequences for patients and for health services. Infections that were once easy to treat can persist or spread, so illness lasts longer, more patients need hospital care, treatment costs more, and more patients may die. Where bacteria are resistant to more than one antibiotic, fewer drugs remain to treat them, and the alternatives tend to be more expensive, slower or more toxic.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.16, topic 2.8.2, objective 3",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2024-P2-Q2d",
+     "locator": "Q2(d)",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.8.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. The consequences are stated as tendencies. Multidrug-resistant tuberculosis is the worked example; its treatment is longer and uses more toxic drugs than the usual six-month course for drug-susceptible TB."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.2-010",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-03"
+   ],
+   "text": "Resistance can be slowed by using antibiotics only when a bacterial infection needs them, not for viral illnesses such as colds and influenza, and by taking them as prescribed, at the right dose and for the length of course the prescriber sets, so that few bacteria are left to multiply. A laboratory sensitivity test, which finds which antibiotic kills the bacteria from a patient, lets a doctor choose a suitable one.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.16, topic 2.8.2, objective 3",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.8.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. The advice to finish a prescribed course is standard teaching and is essential for long TB regimens. For some short infections recent evidence suggests shorter courses can work, so the claim says 'as prescribed' rather than 'finish every tablet'."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.2-011",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-03"
+   ],
+   "text": "Treating tuberculosis with a combination of several antibiotics at once reduces the chance of resistance. A bacterium that already resists one antibiotic is still likely to be killed by another, and the chance that one bacterium gains separate resistance mutations to all of the drugs at the same time is extremely small.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.16, topic 2.8.2, objective 3",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.8.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Applies to bacterial infections treated with several antibiotics together, such as TB; chance mutations to different drugs are independent events, so their joint probability is the product of small probabilities."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.2-012",
+   "objective_ids": [
+    "OBJ-8223-2.8.2-03"
+   ],
+   "text": "Other steps that reduce the impact of resistance include good hygiene such as handwashing and keeping patients with resistant infections apart in hospital, vaccination against bacterial diseases so fewer people need antibiotics, restricting routine antibiotic use in healthy farm animals, and research to develop new antibiotics.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.16, topic 2.8.2, objective 3",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.8.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. These steps reduce selection pressure or spread; they are measures that tend to slow resistance, not guarantees."
+   ]
+  }
+ ]
+}

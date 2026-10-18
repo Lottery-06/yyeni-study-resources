@@ -1,0 +1,638 @@
+{
+ "registry_id": "OBJREG-NAM-NSSCAS-8223-THEME3-PARTIAL",
+ "qualification_profile_id": "nied-8223-nsscas-2021-2025-v1",
+ "subject_profile_id": "yyeni-subject-biology-nsscas-v0.1.0-NOT-YET-WRITTEN",
+ "objectives": [
+  {
+   "objective_id": "OBJ-8223-3.1.1-01",
+   "parent_id": null,
+   "topic_id": "3.1.1",
+   "syllabus_text": "describe the structure of a chromosome, limited to DNA, histone proteins, chromatids, centromere and telomeres",
+   "learner_objective": "Describe the structure of a chromosome: DNA, histone proteins, chromatids, centromere and telomeres.",
+   "level": "NSSCAS",
+   "route_status": "core",
+   "mandatory": true,
+   "objective_type": "bio_description",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_words": [
+    "describe"
+   ],
+   "prerequisite_ids": [],
+   "related_ids": [],
+   "cross_topic_concept_ids": [
+    "CONCEPT-DNA-PROTEIN"
+   ],
+   "depth_tier": 2,
+   "source_coverage": {
+    "rating": 0,
+    "action": "generate_gap",
+    "rationale": "No NSSCAS Biology revision notes exist in the repo or Drive (the 8223 notes folder holds only .gitkeep); evidence is limited to the syllabus, papers 2021-2024 and the 2025 examiner report."
+   },
+   "status": "planned"
+  },
+  {
+   "objective_id": "OBJ-8223-3.1.1-02",
+   "parent_id": null,
+   "topic_id": "3.1.1",
+   "syllabus_text": "explain the importance of mitosis in the production of genetically identical cells, growth, cell replacement, repair of tissues and asexual reproduction",
+   "learner_objective": "Explain why mitosis matters: genetically identical cells, growth, replacement, repair and asexual reproduction.",
+   "level": "NSSCAS",
+   "route_status": "core",
+   "mandatory": true,
+   "objective_type": "bio_explanation",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_words": [
+    "explain"
+   ],
+   "prerequisite_ids": [],
+   "related_ids": [],
+   "cross_topic_concept_ids": [],
+   "depth_tier": 2,
+   "source_coverage": {
+    "rating": 0,
+    "action": "generate_gap",
+    "rationale": "No NSSCAS Biology revision notes exist in the repo or Drive (the 8223 notes folder holds only .gitkeep); evidence is limited to the syllabus, papers 2021-2024 and the 2025 examiner report."
+   },
+   "status": "planned"
+  },
+  {
+   "objective_id": "OBJ-8223-3.1.1-03",
+   "parent_id": null,
+   "topic_id": "3.1.1",
+   "syllabus_text": "observe and draw the mitotic stages visible in temporary root tip squash preparations and in prepared slides of root tips of species such as those of Vicia faba and Allium cepa",
+   "learner_objective": "Observe and draw the mitotic stages in root tip squashes and prepared root tip slides.",
+   "level": "NSSCAS",
+   "route_status": "core",
+   "mandatory": true,
+   "objective_type": "bio_practical",
+   "assessment_objectives": [
+    "A",
+    "C"
+   ],
+   "command_words": [
+    "observe",
+    "draw"
+   ],
+   "prerequisite_ids": [],
+   "related_ids": [],
+   "cross_topic_concept_ids": [
+    "CONCEPT-MICROSCOPY"
+   ],
+   "depth_tier": 2,
+   "source_coverage": {
+    "rating": 0,
+    "action": "generate_gap",
+    "rationale": "No NSSCAS Biology revision notes exist in the repo or Drive (the 8223 notes folder holds only .gitkeep); evidence is limited to the syllabus, papers 2021-2024 and the 2025 examiner report. Practical objective: hands-on manipulation is not carded; planning, variables, data handling and evaluation are."
+   },
+   "status": "planned"
+  },
+  {
+   "objective_id": "OBJ-8223-3.1.1-04",
+   "parent_id": null,
+   "topic_id": "3.1.1",
+   "syllabus_text": "outline the mitotic cell cycle, including interphase (growth in G1 and G2 phases and DNA replication in S phase), mitosis and cytokinesis",
+   "learner_objective": "Outline the mitotic cell cycle: interphase (G1, S, G2), mitosis and cytokinesis.",
+   "level": "NSSCAS",
+   "route_status": "core",
+   "mandatory": true,
+   "objective_type": "bio_description",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_words": [
+    "outline"
+   ],
+   "prerequisite_ids": [],
+   "related_ids": [],
+   "cross_topic_concept_ids": [],
+   "depth_tier": 2,
+   "source_coverage": {
+    "rating": 0,
+    "action": "generate_gap",
+    "rationale": "No NSSCAS Biology revision notes exist in the repo or Drive (the 8223 notes folder holds only .gitkeep); evidence is limited to the syllabus, papers 2021-2024 and the 2025 examiner report."
+   },
+   "status": "planned"
+  },
+  {
+   "objective_id": "OBJ-8223-3.1.1-05",
+   "parent_id": null,
+   "topic_id": "3.1.1",
+   "syllabus_text": "outline the significance of telomeres in permitting continued replication and preventing the loss of genes",
+   "learner_objective": "Outline why telomeres matter: they permit continued replication and prevent loss of genes.",
+   "level": "NSSCAS",
+   "route_status": "core",
+   "mandatory": true,
+   "objective_type": "bio_explanation",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_words": [
+    "outline"
+   ],
+   "prerequisite_ids": [
+    "OBJ-8223-3.1.1-01"
+   ],
+   "related_ids": [],
+   "cross_topic_concept_ids": [],
+   "depth_tier": 2,
+   "source_coverage": {
+    "rating": 0,
+    "action": "generate_gap",
+    "rationale": "No NSSCAS Biology revision notes exist in the repo or Drive (the 8223 notes folder holds only .gitkeep); evidence is limited to the syllabus, papers 2021-2024 and the 2025 examiner report."
+   },
+   "status": "planned"
+  },
+  {
+   "objective_id": "OBJ-8223-3.1.1-06",
+   "parent_id": null,
+   "topic_id": "3.1.1",
+   "syllabus_text": "outline the role of stem cells in cell replacement and tissue repair by mitosis",
+   "learner_objective": "Outline how stem cells replace cells and repair tissue by mitosis.",
+   "level": "NSSCAS",
+   "route_status": "core",
+   "mandatory": true,
+   "objective_type": "bio_description",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_words": [
+    "outline"
+   ],
+   "prerequisite_ids": [],
+   "related_ids": [],
+   "cross_topic_concept_ids": [],
+   "depth_tier": 1,
+   "source_coverage": {
+    "rating": 0,
+    "action": "generate_gap",
+    "rationale": "No NSSCAS Biology revision notes exist in the repo or Drive (the 8223 notes folder holds only .gitkeep); evidence is limited to the syllabus, papers 2021-2024 and the 2025 examiner report."
+   },
+   "status": "planned"
+  },
+  {
+   "objective_id": "OBJ-8223-3.1.1-07",
+   "parent_id": null,
+   "topic_id": "3.1.1",
+   "syllabus_text": "explain how uncontrolled cell division can result in the formation of a tumour",
+   "learner_objective": "Explain how uncontrolled cell division can form a tumour.",
+   "level": "NSSCAS",
+   "route_status": "core",
+   "mandatory": true,
+   "objective_type": "bio_explanation",
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "command_words": [
+    "explain"
+   ],
+   "prerequisite_ids": [
+    "OBJ-8223-3.1.1-04"
+   ],
+   "related_ids": [],
+   "cross_topic_concept_ids": [],
+   "depth_tier": 2,
+   "source_coverage": {
+    "rating": 0,
+    "action": "generate_gap",
+    "rationale": "No NSSCAS Biology revision notes exist in the repo or Drive (the 8223 notes folder holds only .gitkeep); evidence is limited to the syllabus, papers 2021-2024 and the 2025 examiner report."
+   },
+   "status": "planned"
+  },
+  {
+   "objective_id": "OBJ-8223-3.1.2-01",
+   "parent_id": null,
+   "topic_id": "3.1.2",
+   "syllabus_text": "describe, with the aid of photomicrographs and diagrams, the behaviour of chromosomes in plant and animal cells during the mitotic cell cycle and the associated behaviour of the nuclear envelope, cell surface membrane and the spindle (names of the main stages of mitosis, prophase, metaphase, anaphase and telophase, are expected)",
+   "learner_objective": "Describe what chromosomes, the nuclear envelope, the cell surface membrane and the spindle do in prophase, metaphase, anaphase and telophase.",
+   "level": "NSSCAS",
+   "route_status": "core",
+   "mandatory": true,
+   "objective_type": "bio_description",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_words": [
+    "describe"
+   ],
+   "prerequisite_ids": [
+    "OBJ-8223-3.1.1-01",
+    "OBJ-8223-3.1.1-04"
+   ],
+   "related_ids": [],
+   "cross_topic_concept_ids": [],
+   "depth_tier": 3,
+   "source_coverage": {
+    "rating": 0,
+    "action": "generate_gap",
+    "rationale": "No NSSCAS Biology revision notes exist in the repo or Drive (the 8223 notes folder holds only .gitkeep); evidence is limited to the syllabus, papers 2021-2024 and the 2025 examiner report."
+   },
+   "status": "planned"
+  },
+  {
+   "objective_id": "OBJ-8223-3.1.2-02",
+   "parent_id": null,
+   "topic_id": "3.1.2",
+   "syllabus_text": "interpret photomicrographs, diagrams and microscope slides of mitosis and identify the main stages of mitosis",
+   "learner_objective": "Interpret images of mitosis and identify the stage shown.",
+   "level": "NSSCAS",
+   "route_status": "core",
+   "mandatory": true,
+   "objective_type": "bio_interpretation",
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "command_words": [
+    "interpret",
+    "identify"
+   ],
+   "prerequisite_ids": [
+    "OBJ-8223-3.1.2-01"
+   ],
+   "related_ids": [],
+   "cross_topic_concept_ids": [
+    "CONCEPT-MICROSCOPY"
+   ],
+   "depth_tier": 2,
+   "source_coverage": {
+    "rating": 0,
+    "action": "generate_gap",
+    "rationale": "No NSSCAS Biology revision notes exist in the repo or Drive (the 8223 notes folder holds only .gitkeep); evidence is limited to the syllabus, papers 2021-2024 and the 2025 examiner report."
+   },
+   "status": "planned"
+  },
+  {
+   "objective_id": "OBJ-8223-3.2.1-01",
+   "parent_id": null,
+   "topic_id": "3.2.1",
+   "syllabus_text": "describe the structure of nucleotides, including the phosphorylated nucleotide ATP (structural formulae are not required)",
+   "learner_objective": "Describe the structure of a nucleotide, including ATP as a phosphorylated nucleotide.",
+   "level": "NSSCAS",
+   "route_status": "core",
+   "mandatory": true,
+   "objective_type": "bio_description",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_words": [
+    "describe"
+   ],
+   "prerequisite_ids": [],
+   "related_ids": [],
+   "cross_topic_concept_ids": [
+    "CONCEPT-ATP"
+   ],
+   "depth_tier": 2,
+   "source_coverage": {
+    "rating": 0,
+    "action": "generate_gap",
+    "rationale": "No NSSCAS Biology revision notes exist in the repo or Drive (the 8223 notes folder holds only .gitkeep); evidence is limited to the syllabus, papers 2021-2024 and the 2025 examiner report."
+   },
+   "status": "planned"
+  },
+  {
+   "objective_id": "OBJ-8223-3.2.1-02",
+   "parent_id": null,
+   "topic_id": "3.2.1",
+   "syllabus_text": "state that adenine and guanine are purines with a double ring structure, and that cytosine, thymine and uracil are pyrimidines with a single ring structure (structural formulae for bases are not required)",
+   "learner_objective": "State which bases are purines (double ring) and which are pyrimidines (single ring).",
+   "level": "NSSCAS",
+   "route_status": "core",
+   "mandatory": true,
+   "objective_type": "bio_definition",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_words": [
+    "state"
+   ],
+   "prerequisite_ids": [
+    "OBJ-8223-3.2.1-01"
+   ],
+   "related_ids": [],
+   "cross_topic_concept_ids": [],
+   "depth_tier": 1,
+   "source_coverage": {
+    "rating": 0,
+    "action": "generate_gap",
+    "rationale": "No NSSCAS Biology revision notes exist in the repo or Drive (the 8223 notes folder holds only .gitkeep); evidence is limited to the syllabus, papers 2021-2024 and the 2025 examiner report."
+   },
+   "status": "planned"
+  },
+  {
+   "objective_id": "OBJ-8223-3.2.1-03",
+   "parent_id": null,
+   "topic_id": "3.2.1",
+   "syllabus_text": "describe the structure of RNA and DNA and explain the importance of base pairing and the different hydrogen bonding between bases",
+   "learner_objective": "Describe the structure of RNA and DNA and explain why base pairing and the different hydrogen bonding between bases matter.",
+   "level": "NSSCAS",
+   "route_status": "core",
+   "mandatory": true,
+   "objective_type": "bio_explanation",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_words": [
+    "describe",
+    "explain"
+   ],
+   "prerequisite_ids": [
+    "OBJ-8223-3.2.1-01",
+    "OBJ-8223-3.2.1-02"
+   ],
+   "related_ids": [],
+   "cross_topic_concept_ids": [
+    "CONCEPT-DNA-PROTEIN"
+   ],
+   "depth_tier": 3,
+   "source_coverage": {
+    "rating": 0,
+    "action": "generate_gap",
+    "rationale": "No NSSCAS Biology revision notes exist in the repo or Drive (the 8223 notes folder holds only .gitkeep); evidence is limited to the syllabus, papers 2021-2024 and the 2025 examiner report."
+   },
+   "status": "planned"
+  },
+  {
+   "objective_id": "OBJ-8223-3.2.1-04",
+   "parent_id": null,
+   "topic_id": "3.2.1",
+   "syllabus_text": "describe the semi-conservative replication of DNA during S phase",
+   "learner_objective": "Describe semi-conservative replication of DNA in S phase.",
+   "level": "NSSCAS",
+   "route_status": "core",
+   "mandatory": true,
+   "objective_type": "bio_description",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_words": [
+    "describe"
+   ],
+   "prerequisite_ids": [
+    "OBJ-8223-3.2.1-03",
+    "OBJ-8223-3.1.1-04"
+   ],
+   "related_ids": [],
+   "cross_topic_concept_ids": [],
+   "depth_tier": 2,
+   "source_coverage": {
+    "rating": 0,
+    "action": "generate_gap",
+    "rationale": "No NSSCAS Biology revision notes exist in the repo or Drive (the 8223 notes folder holds only .gitkeep); evidence is limited to the syllabus, papers 2021-2024 and the 2025 examiner report."
+   },
+   "status": "planned"
+  },
+  {
+   "objective_id": "OBJ-8223-3.2.1-05",
+   "parent_id": null,
+   "topic_id": "3.2.1",
+   "syllabus_text": "design and make a model of DNA to illustrate the semi-conservative replication of DNA during interphase",
+   "learner_objective": "Design and make a model of DNA showing semi-conservative replication.",
+   "level": "NSSCAS",
+   "route_status": "core",
+   "mandatory": true,
+   "objective_type": "bio_practical",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_words": [
+    "design",
+    "make"
+   ],
+   "prerequisite_ids": [
+    "OBJ-8223-3.2.1-04"
+   ],
+   "related_ids": [],
+   "cross_topic_concept_ids": [],
+   "depth_tier": 2,
+   "source_coverage": {
+    "rating": 0,
+    "action": "generate_gap",
+    "rationale": "No NSSCAS Biology revision notes exist in the repo or Drive (the 8223 notes folder holds only .gitkeep); evidence is limited to the syllabus, papers 2021-2024 and the 2025 examiner report. Practical objective: hands-on manipulation is not carded; planning, variables, data handling and evaluation are."
+   },
+   "status": "planned"
+  },
+  {
+   "objective_id": "OBJ-8223-3.2.2-01",
+   "parent_id": null,
+   "topic_id": "3.2.2",
+   "syllabus_text": "state that a polypeptide is coded for by a gene and that a gene is a sequence of nucleotides that forms part of a DNA molecule",
+   "learner_objective": "State that a gene is a sequence of nucleotides in DNA that codes for a polypeptide.",
+   "level": "NSSCAS",
+   "route_status": "core",
+   "mandatory": true,
+   "objective_type": "bio_definition",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_words": [
+    "state"
+   ],
+   "prerequisite_ids": [],
+   "related_ids": [],
+   "cross_topic_concept_ids": [
+    "CONCEPT-DNA-PROTEIN"
+   ],
+   "depth_tier": 1,
+   "source_coverage": {
+    "rating": 0,
+    "action": "generate_gap",
+    "rationale": "No NSSCAS Biology revision notes exist in the repo or Drive (the 8223 notes folder holds only .gitkeep); evidence is limited to the syllabus, papers 2021-2024 and the 2025 examiner report."
+   },
+   "status": "planned"
+  },
+  {
+   "objective_id": "OBJ-8223-3.2.2-02",
+   "parent_id": null,
+   "topic_id": "3.2.2",
+   "syllabus_text": "state the features of the genetic code",
+   "learner_objective": "State the features of the genetic code.",
+   "level": "NSSCAS",
+   "route_status": "core",
+   "mandatory": true,
+   "objective_type": "bio_description",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_words": [
+    "state"
+   ],
+   "prerequisite_ids": [
+    "OBJ-8223-3.2.2-01"
+   ],
+   "related_ids": [],
+   "cross_topic_concept_ids": [],
+   "depth_tier": 1,
+   "source_coverage": {
+    "rating": 0,
+    "action": "generate_gap",
+    "rationale": "No NSSCAS Biology revision notes exist in the repo or Drive (the 8223 notes folder holds only .gitkeep); evidence is limited to the syllabus, papers 2021-2024 and the 2025 examiner report."
+   },
+   "status": "planned"
+  },
+  {
+   "objective_id": "OBJ-8223-3.2.2-03",
+   "parent_id": null,
+   "topic_id": "3.2.2",
+   "syllabus_text": "describe how the information in DNA is used during transcription and translation to construct polypeptides, including the role of messenger RNA (mRNA), transfer RNA (tRNA) and the ribosomes",
+   "learner_objective": "Describe transcription and translation, including the roles of mRNA, tRNA and ribosomes.",
+   "level": "NSSCAS",
+   "route_status": "core",
+   "mandatory": true,
+   "objective_type": "bio_description",
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "command_words": [
+    "describe"
+   ],
+   "prerequisite_ids": [
+    "OBJ-8223-3.2.2-01",
+    "OBJ-8223-3.2.2-02",
+    "OBJ-8223-3.2.1-03"
+   ],
+   "related_ids": [],
+   "cross_topic_concept_ids": [
+    "CONCEPT-PROTEIN-STRUCTURE"
+   ],
+   "depth_tier": 3,
+   "source_coverage": {
+    "rating": 0,
+    "action": "generate_gap",
+    "rationale": "No NSSCAS Biology revision notes exist in the repo or Drive (the 8223 notes folder holds only .gitkeep); evidence is limited to the syllabus, papers 2021-2024 and the 2025 examiner report."
+   },
+   "status": "planned"
+  },
+  {
+   "objective_id": "OBJ-8223-3.2.2-04",
+   "parent_id": null,
+   "topic_id": "3.2.2",
+   "syllabus_text": "state that a gene mutation is a change in the sequence of nucleotides that may result in an altered polypeptide",
+   "learner_objective": "State that a gene mutation is a change in nucleotide sequence that may alter the polypeptide.",
+   "level": "NSSCAS",
+   "route_status": "core",
+   "mandatory": true,
+   "objective_type": "bio_definition",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_words": [
+    "state"
+   ],
+   "prerequisite_ids": [
+    "OBJ-8223-3.2.2-01"
+   ],
+   "related_ids": [],
+   "cross_topic_concept_ids": [],
+   "depth_tier": 1,
+   "source_coverage": {
+    "rating": 0,
+    "action": "generate_gap",
+    "rationale": "No NSSCAS Biology revision notes exist in the repo or Drive (the 8223 notes folder holds only .gitkeep); evidence is limited to the syllabus, papers 2021-2024 and the 2025 examiner report."
+   },
+   "status": "planned"
+  },
+  {
+   "objective_id": "OBJ-8223-3.2.2-05",
+   "parent_id": null,
+   "topic_id": "3.2.2",
+   "syllabus_text": "explain that a gene mutation occurs by substitution or deletion or insertion of base pairs in DNA and outline how each of these types of mutation may affect the polypeptide produced",
+   "learner_objective": "Explain that mutations arise by substitution, deletion or insertion of base pairs and outline the effect of each on the polypeptide.",
+   "level": "NSSCAS",
+   "route_status": "core",
+   "mandatory": true,
+   "objective_type": "bio_explanation",
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "command_words": [
+    "explain",
+    "outline"
+   ],
+   "prerequisite_ids": [
+    "OBJ-8223-3.2.2-04",
+    "OBJ-8223-3.2.2-03"
+   ],
+   "related_ids": [],
+   "cross_topic_concept_ids": [
+    "CONCEPT-PROTEIN-STRUCTURE"
+   ],
+   "depth_tier": 3,
+   "source_coverage": {
+    "rating": 0,
+    "action": "generate_gap",
+    "rationale": "No NSSCAS Biology revision notes exist in the repo or Drive (the 8223 notes folder holds only .gitkeep); evidence is limited to the syllabus, papers 2021-2024 and the 2025 examiner report."
+   },
+   "status": "planned"
+  },
+  {
+   "objective_id": "OBJ-8223-3.2.2-06",
+   "parent_id": null,
+   "topic_id": "3.2.2",
+   "syllabus_text": "describe the way in which the nucleotide sequence codes for the amino acid sequence in a polypeptide with reference to the nucleotide sequence for HbA(normal) and HbS(sickle cell) alleles of the gene for the β-globin polypeptide",
+   "learner_objective": "Describe how the nucleotide sequence codes for the amino acid sequence, using the HbA and HbS alleles of the beta-globin gene.",
+   "level": "NSSCAS",
+   "route_status": "core",
+   "mandatory": true,
+   "objective_type": "bio_explanation",
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "command_words": [
+    "describe"
+   ],
+   "prerequisite_ids": [
+    "OBJ-8223-3.2.2-05"
+   ],
+   "related_ids": [],
+   "cross_topic_concept_ids": [
+    "CONCEPT-PROTEIN-STRUCTURE"
+   ],
+   "depth_tier": 3,
+   "source_coverage": {
+    "rating": 0,
+    "action": "generate_gap",
+    "rationale": "No NSSCAS Biology revision notes exist in the repo or Drive (the 8223 notes folder holds only .gitkeep); evidence is limited to the syllabus, papers 2021-2024 and the 2025 examiner report."
+   },
+   "status": "planned"
+  },
+  {
+   "objective_id": "OBJ-8223-3.2.2-07",
+   "parent_id": null,
+   "topic_id": "3.2.2",
+   "syllabus_text": "design and make a model of RNA to contrast it with the DNA model",
+   "learner_objective": "Design and make a model of RNA to contrast with the DNA model.",
+   "level": "NSSCAS",
+   "route_status": "core",
+   "mandatory": true,
+   "objective_type": "bio_practical",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_words": [
+    "design",
+    "make"
+   ],
+   "prerequisite_ids": [
+    "OBJ-8223-3.2.1-05"
+   ],
+   "related_ids": [],
+   "cross_topic_concept_ids": [],
+   "depth_tier": 1,
+   "source_coverage": {
+    "rating": 0,
+    "action": "generate_gap",
+    "rationale": "No NSSCAS Biology revision notes exist in the repo or Drive (the 8223 notes folder holds only .gitkeep); evidence is limited to the syllabus, papers 2021-2024 and the 2025 examiner report. Practical objective: hands-on manipulation is not carded; planning, variables, data handling and evaluation are."
+   },
+   "status": "planned"
+  }
+ ]
+}

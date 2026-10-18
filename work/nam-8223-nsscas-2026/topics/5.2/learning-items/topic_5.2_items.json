@@ -1,0 +1,1569 @@
+{
+ "dataset_id": "ITEMS-8223-5.2",
+ "topic_id": "5.2",
+ "items": [
+  {
+   "item_id": "ITEM-8223-5.2-001-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-5.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 1,
+   "prompt": "State one feature of a correctly drawn line graph of a table of results, other than the plotted points themselves.",
+   "canonical_answer": "Each axis is labelled with its quantity and unit in the form quantity / unit, for example Time / min.",
+   "marking_guidance": [
+    "1 mark: one feature of the graph. Accept: the independent variable on the x-axis and the dependent variable on the y-axis; axes labelled with quantity and unit; an even scale that lets the points fill the grid; a title or caption saying what the graph shows. A point about the table and not the graph earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-001": 1
+   },
+   "authored_hash": "9de4c43b16f4cb95ac0350406f026939f6140e1562b5f03da8d93f7323112a32"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-002-APP",
+   "objective_ids": [
+    "OBJ-8223-5.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "A helper in Walvis Bay records how a bowl of dough rises. These are our readings.\n\n| Time / min | Volume of dough / cm³ |\n|---|---|\n| 0 | 250 |\n| 10 | 290 |\n| 20 | 345 |\n| 30 | 410 |\n| 40 | 485 |\n\nExplain which quantity goes on the x-axis of a graph of these results and how that axis is labelled.",
+   "canonical_answer": "Time goes on the x-axis because it is the independent variable: the helper chose the times at which the volume was read, and the volume was measured as the dependent variable. The axis is labelled Time / min, worded as in the table heading.",
+   "marking_guidance": [
+    "2 marks: (1) time on the x-axis, with the reason that it is the independent variable (the quantity that was chosen), so volume goes on the y-axis; (1) the label Time / min, the quantity and its unit as the table gives them, in this case a solidus between them.",
+    "A label that gives the quantity without its unit, such as Time, earns no mark for the label. The reason must refer to the data given, because naming the axis alone does not explain the choice."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-001": 1
+   },
+   "authored_hash": "37bd2a6dd32438ee6efbf67e0006f07bc8942e9c235c64990d9d28a7de0da702"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-026-DEF",
+   "objective_ids": [
+    "OBJ-8223-5.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by a plotted point on a graph.",
+   "canonical_answer": "A plotted point is a mark placed at the position given by one pair of values from the table, its x value and its y value.",
+   "marking_guidance": [
+    "1 mark: the meaning of the term. Key words: one pair of values, x value and y value, position on the grid. A statement that a plotted point is any mark on the paper earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-001": 1
+   },
+   "authored_hash": "3b32ac793c4ea13b5f022273bfa9d1d62a6eaff7f6a6eda7ad408aeac066dad2"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-003-INTERP",
+   "objective_ids": [
+    "OBJ-8223-5.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-003",
+    "CLM-8223-5.2-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "A student counts bacteria in a flask of nutrient broth. These are our readings.\n\n| Time / h | Number of bacteria / thousands per cm³ |\n|---|---|\n| 0 | 4 |\n| 2 | 6 |\n| 4 | 11 |\n| 6 | 20 |\n| 8 | 33 |\n| 10 | 34 |\n\nA line graph of these readings has time on the x-axis and the number of bacteria on the y-axis. Describe the trend that the graph shows.",
+   "canonical_answer": "The number of bacteria increases from 4 to 34 thousands per cm³ over the 10 h. The line is steeper from 4 h to 8 h, where the number increases from 11 to 33 thousands per cm³, than at the start, and it becomes almost level between 8 h and 10 h, where the number increases by only 1 thousand per cm³.",
+   "marking_guidance": [
+    "2 marks, from three points: (1) the direction with values and units from the table, an increase from 4 to 34 thousands per cm³ (or a change of 30 thousands per cm³); (1) the line steepens between 4 h and 8 h; (1) the line flattens between 8 h and 10 h.",
+    "The reading of the table means the graph is described by its values, not only by the words rising or falling. A description that gives no values from the data can earn at most 1 mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-003": 1,
+    "CLM-8223-5.2-004": 1
+   },
+   "authored_hash": "a1d5937afa8558dc21555b0be824d8b3fbc3fbfbeba5da6e2696ccb9e44c47c7"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-004-INTERP",
+   "objective_ids": [
+    "OBJ-8223-5.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-003",
+    "CLM-8223-5.2-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "The dissolved oxygen in the water of a farm dam is read from 18:00. These are our readings.\n\n| Time after 18:00 / h | Dissolved oxygen / mg dm⁻³ |\n|---|---|\n| 0 | 9.0 |\n| 3 | 7.5 |\n| 6 | 6.0 |\n| 9 | 4.5 |\n| 12 | 4.5 |\n\nA line graph of these readings has time on the x-axis. Describe what the graph shows between 0 h and 9 h, and state the oxygen reading that the line gives at 4.5 h.",
+   "canonical_answer": "Between 0 h and 9 h the oxygen decreases in a straight line from 9.0 to 4.5 mg dm⁻³, a decrease of 0.5 mg dm⁻³ each hour. The value read at 4.5 h is 9.0 - 0.5 × 4.5 = 6.75 mg dm⁻³, about 6.8 mg dm⁻³, which is an interpolation between the points at 3 h and 6 h.",
+   "marking_guidance": [
+    "2 marks: (1) the description with values from the table: a steady decrease from 9.0 to 4.5 mg dm⁻³ between 0 h and 9 h; (1) the reading at 4.5 h of 6.75 mg dm⁻³ (6.7 to 6.8 accepted) with its unit.",
+    "The reading is the midpoint of the values at 3 h and 6 h, so it gives (7.5 + 6.0) ÷ 2 = 6.75 mg dm⁻³ as a check. Reading a value of 7.5 or 6.0 from a plotted point instead of from the line between them earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-003": 1,
+    "CLM-8223-5.2-004": 1
+   },
+   "authored_hash": "f6c5bc8f6ebcf278d0619e9cc88f72b313ce894077304577ab8d136f0ed9fc96"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-027-DEF",
+   "objective_ids": [
+    "OBJ-8223-5.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by interpolation when a value is read from a line graph.",
+   "canonical_answer": "Interpolation is reading a value from the line at a position between two plotted points, within the range of the readings.",
+   "marking_guidance": [
+    "1 mark: the meaning of the term. Key words: a value read between plotted points, within the range of the data. Reading beyond the last plotted point is extrapolation and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-003": 1
+   },
+   "authored_hash": "59e3be4623077f3d0bb753d87b3ac5c9bf17aa32c00cf42c9f6a229b1dcf44e5"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-032-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-5.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one feature of a good description of a trend on a line graph.",
+   "canonical_answer": "It quotes values with their units from the axes, for example the starting value and the finishing value, or the size of the change.",
+   "marking_guidance": [
+    "1 mark: one feature of the description. Accept: states the direction (increase, decrease or no change); quotes values with units from the axes; says where the line is steeper or flatter; names a level part. A point such as it is neat earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-004": 1
+   },
+   "authored_hash": "f067be9ad54d979366cd73d4c4bad3bc2b7643149fad4f43feb5b2333b7c2627"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-005-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-5.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 1,
+   "prompt": "State one feature of a suitable scale for the axis of a graph.",
+   "canonical_answer": "Each large square stands for an easy step, such as 1, 2 or 5 units (or those numbers multiplied by ten), so that the small squares are simple to plot and read.",
+   "marking_guidance": [
+    "1 mark: one feature of the scale. Accept: an easy step of 1, 2 or 5 units or multiples by ten; the step is the smallest easy step that lets the largest value fit; the points fill most of the grid. A step of 3 or 7 is an awkward step and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-005": 1
+   },
+   "authored_hash": "a32799521a2f03005d7a25eac425e9d313919c47a6cfad382f9bfdd9fb1993cf"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-006-APP",
+   "objective_ids": [
+    "OBJ-8223-5.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-005",
+    "CLM-8223-5.2-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "A student plots a graph of the volume of gas collected, which runs from 0 to 68 cm³, on a grid 8 large squares tall. The student chooses 20 cm³ for each large square on the y-axis. Explain why this is a poor choice and state a better scale.",
+   "canonical_answer": "With 20 cm³ per large square the highest point reaches only 68 ÷ 20 = 3.4 of the 8 large squares, so the points are squeezed into the lower part of the grid and are hard to read. A better scale is 10 cm³ per large square, because 68 ÷ 8 = 8.5 is rounded up to the next easy step, which is 10, and the highest point is then 68 ÷ 10 = 6.8 large squares high.",
+   "marking_guidance": [
+    "2 marks: (1) the reason in this case: the highest point is only 3.4 large squares of the 8, so the points are crowded into the lower part of the grid; (1) a scale of 10 cm³ per large square, with the reason that it is the next easy step above 8.5 and the points then fill most of the grid.",
+    "A scale of 5 cm³ per large square earns no mark, because it needs 68 ÷ 5 = 13.6 large squares and the data run off the grid. The data given decide the scale, so a scale with no reason refers to nothing."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-005": 1,
+    "CLM-8223-5.2-006": 1
+   },
+   "authored_hash": "95a3b848975147955054f92ca90280f68e89597911185aad4cb779c55f15523f"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-028-DEF",
+   "objective_ids": [
+    "OBJ-8223-5.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by a linear scale on the axis of a graph.",
+   "canonical_answer": "A linear scale is one in which equal distances along the axis stand for equal amounts, so the numbers are marked at regular intervals.",
+   "marking_guidance": [
+    "1 mark: the meaning of the term. Key words: equal distances stand for equal amounts, regular intervals. A scale that starts at zero is a separate point and is not the definition."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-006": 1
+   },
+   "authored_hash": "1341c60d58b11fd4ab95dc1fcb8b73d159b925868293b77f1d15cff90b3949fc"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-007-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-5.2-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one feature of a frequency table of the lengths of leaves sorted into classes.",
+   "canonical_answer": "The classes are of equal width and do not overlap, for example 20 to under 30 mm and 30 to under 40 mm.",
+   "marking_guidance": [
+    "1 mark: one feature of the table. Accept: classes of equal width; classes that do not overlap; the frequencies add up to the total number of leaves measured; a count of leaves in each class. A feature of a graph and not of the table earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-007": 1
+   },
+   "authored_hash": "e2fe5a0d820b3976a64ec97d9f577c1ebc13707d62e7ff98d5a34030389983d7"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-008-APP",
+   "objective_ids": [
+    "OBJ-8223-5.2-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A survey counts 80 trees in a patch of woodland in Kavango: 36 mopane, 20 camel thorn, 12 sickle bush and 12 of other species. Explain how the sector angle for mopane is worked out for a pie chart of these counts, and state its size.",
+   "canonical_answer": "The whole circle is 360° and mopane is 36 of the 80 trees, so the angle is the frequency divided by the total, multiplied by 360: 36 ÷ 80 × 360 = 162°.",
+   "marking_guidance": [
+    "2 marks: (1) the method in this case, frequency ÷ total × 360 (or the fraction 36 out of 80 of the circle), because the sectors share the 360° of the circle; (1) the answer of 162° with the degree unit.",
+    "An answer of 45° or 45 per cent shows the share without the multiplication by 360 and earns the method mark at most. The data given supply the total of 80, so the total must be used, not 360."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-008": 1
+   },
+   "authored_hash": "59d995dfd8c5616d9a0dd0d62ff891af39addb86058d48eff7cc64a6af8f269c"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-022-DEF",
+   "objective_ids": [
+    "OBJ-8223-5.2-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State what is meant by the frequency of a class in a frequency distribution.",
+   "canonical_answer": "The frequency of a class is the number of individuals or readings that fall in that class.",
+   "marking_guidance": [
+    "1 mark: the meaning of the term. Key words: the number (count) of individuals or readings in the class. The width of the class or the value of the class boundaries earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-007": 1
+   },
+   "authored_hash": "b2205f4021b61953602cbc1f3a4c3072a330069791d0bb5cec36f756236e72a6"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-034-DIST",
+   "objective_ids": [
+    "OBJ-8223-5.2-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State one difference between a bar chart of soil types and a histogram of leaf lengths in classes.",
+   "canonical_answer": "The bars of a histogram touch because the scale of leaf length runs on without a break, whereas the bars of a bar chart are separated by gaps because each soil type is a separate category.",
+   "marking_guidance": [
+    "1 mark: one difference, stated for both charts: touching bars against separated bars, with the reason; or class boundaries on a continuous x-axis against category names under the bars. A statement about one chart only earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-009": 1
+   },
+   "authored_hash": "9d60a1c19c3550539d521d3920f3b2df42c9914d435c5ac1d636550264b1f60f"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-009-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-5.2-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one feature of the data that makes a bar chart a suitable way to display them.",
+   "canonical_answer": "The variable along the x-axis is made of named categories (or whole-number counts), so no values exist between the bars.",
+   "marking_guidance": [
+    "1 mark: one feature of the data. Accept: named categories such as species or farms; counts in whole steps; no values between the categories. A feature of the bars, such as their width, is a feature of the chart and not of the data, and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-010": 1
+   },
+   "authored_hash": "b7729366c10fea5061129cb9e68ad474707dc990aab5772bc68c0aaabaff4a6e"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-010-APP",
+   "objective_ids": [
+    "OBJ-8223-5.2-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-010",
+    "CLM-8223-5.2-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A student has two sets of results. In set P, the numbers of birds counted at five named waterholes. In set Q, the temperature of a water bath (20, 30, 40, 50 and 60 °C) and the volume of gas that yeast gives off at each temperature. Explain which type of graph or chart suits set Q and why a bar chart suits set P.",
+   "canonical_answer": "A line graph suits set Q because temperature is a continuous variable chosen by the student, with a second variable measured at each value, and values of the volume exist between the plotted points. A bar chart suits set P because the waterholes are named categories, so there are no values between the bars.",
+   "marking_guidance": [
+    "2 marks: (1) a line graph for set Q, with the reason: a continuous variable chosen by the student and a second variable measured at each value; (1) a bar chart for set P, with the reason: named categories with no values between them.",
+    "A histogram for set Q earns no mark, because the data are not counts in classes of one variable. Each choice is awarded in this case only when its reason is given, because a type named without a reason is a guess."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-010": 1,
+    "CLM-8223-5.2-011": 1
+   },
+   "authored_hash": "1159252e50f6eef4a9eaa55df761367f953dcefb71e8d815d2e325e4ce8ae64f"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-023-DEF",
+   "objective_ids": [
+    "OBJ-8223-5.2-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-009",
+    "CLM-8223-5.2-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State what is meant by a histogram.",
+   "canonical_answer": "A histogram is a chart of a frequency distribution of a continuous measurement, with the class boundaries along the x-axis, touching bars and the frequency of each class as the height of its bar.",
+   "marking_guidance": [
+    "1 mark: the meaning of the term. Key words: continuous measurement sorted into classes, touching bars, height of a bar is the frequency of a class. A chart with gaps between the bars describes a bar chart and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-009": 1,
+    "CLM-8223-5.2-010": 1
+   },
+   "authored_hash": "3dc59d091d9e81be320b5b4ee5a8c8b47388aa388d712c8661f334a03259efc9"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-035-DIST",
+   "objective_ids": [
+    "OBJ-8223-5.2-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State one difference between a histogram and a line graph.",
+   "canonical_answer": "In a histogram the height of each touching bar is the number of individuals in a class of one measured variable, whereas a line graph plots a measured variable against a second, chosen variable.",
+   "marking_guidance": [
+    "1 mark: one difference, stated for both: a histogram shows the frequency of one variable in classes, whereas a line graph relates two variables point by point. A statement that one has bars and the other has a line, with no reason, earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-011": 1
+   },
+   "authored_hash": "260df931e9cba272f76838c7c039c99cffcd83aaa21cdca306b67626181443ac"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-011-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-5.2-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one feature of a line of best fit drawn on a graph of points that scatter about a straight trend.",
+   "canonical_answer": "It is one thin straight line placed so that there are about as many points above it as below it, and it need not pass through any plotted point.",
+   "marking_guidance": [
+    "1 mark: one feature of the line. Accept: about as many points above as below; passes through or close to the points; a single thin ruled line; it need not pass through a plotted point or the origin. A line that joins every point is a different feature and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-013": 1
+   },
+   "authored_hash": "0815ce16c0e89df92a5b6d67c0e61fc943c9372712698718431f8af86efb8a6d"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-012-APP",
+   "objective_ids": [
+    "OBJ-8223-5.2-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-012",
+    "CLM-8223-5.2-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A student measures the height of a seedling every 2 days. These are our readings.\n\n| Time / days | Height / mm |\n|---|---|\n| 0 | 11 |\n| 2 | 17 |\n| 4 | 20 |\n| 6 | 27 |\n| 8 | 29 |\n| 10 | 36 |\n\nThe points lie close to a straight trend with some scatter. Explain whether the student should join them with ruled straight lines from point to point or draw a line of best fit.",
+   "canonical_answer": "The student should draw a line of best fit, because the points scatter on both sides of a straight trend, and the scatter is likely to come from small errors in measurement. Ruled lines from point to point would give a zigzag that treats these small differences as real changes in growth, so a single line shows the steady rise better.",
+   "marking_guidance": [
+    "2 marks: (1) a line of best fit chosen, with the reason that the points scatter about a straight trend and the scatter is likely to come from errors in measurement; (1) the reason against ruled lines: a zigzag would treat the small differences in this data as real changes.",
+    "A choice with no reason from the data earns no mark. The steps in the table, 6, 3, 7, 2 and 7 mm, are uneven, which is the information that supports a line of best fit here, because the scatter is uneven."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-012": 1,
+    "CLM-8223-5.2-013": 1
+   },
+   "authored_hash": "9f986a8fe432b2fb501c958a08352c9ad05f3f8d264670e80276b7c436a4d928"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-024-DEF",
+   "objective_ids": [
+    "OBJ-8223-5.2-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State what is meant by a line of best fit.",
+   "canonical_answer": "A line of best fit is a line, straight or curved, drawn smoothly through or close to the points of a graph to show their trend, with about as many points on one side as the other.",
+   "marking_guidance": [
+    "1 mark: the meaning of the term. Key words: a line (straight or curved) through or close to the points, showing the trend, with points balanced on each side. A line that joins every point with ruled segments earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-013": 1
+   },
+   "authored_hash": "2b265af879c81c9600222f0dc2f835d17fc84c52d7ca3f48fdb65f3624d3a6ec"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-036-DIST",
+   "objective_ids": [
+    "OBJ-8223-5.2-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-012",
+    "CLM-8223-5.2-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State one difference between ruled straight lines joining plotted points and a line of best fit.",
+   "canonical_answer": "Ruled straight lines pass through every plotted point, joining each point to the next, whereas a line of best fit passes close to the points with about as many on each side and need not touch any of them.",
+   "marking_guidance": [
+    "1 mark: one difference, stated for both: ruled lines pass through every point, whereas a best fit line balances the points either side; or ruled lines make no claim about the trend, whereas a best fit line shows it. A statement about one only earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-012": 1,
+    "CLM-8223-5.2-013": 1
+   },
+   "authored_hash": "180aac2e8bd3f07a1e480d19ab71e41adc672d39a38c4bd1304827f4d0d6026e"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-013-DEF",
+   "objective_ids": [
+    "OBJ-8223-5.2-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-014"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by the rate of change shown by a straight line on a graph.",
+   "canonical_answer": "It is the gradient of the line, the change in y divided by the change in x, with the unit of y per unit of x.",
+   "marking_guidance": [
+    "1 mark: the meaning of the term. Key words: gradient, change in y divided by change in x (or the change in y for each unit increase in x). The height of the line is not the rate and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-014": 1
+   },
+   "authored_hash": "32be7cc1d035cd9122a1b534e788b1c4106efec627cb42bc72ba0bdc6b6558da"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-014-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.2-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-014",
+    "CLM-8223-5.2-015"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "On a graph of the fresh mass of a pumpkin seedling in g (y-axis) against time in days (x-axis), a straight line passes through (2 days, 3.1 g) and (10 days, 7.1 g). Calculate the rate of change of mass.",
+   "canonical_answer": "Rate of change = change in y ÷ change in x. The change in mass is 7.1 - 3.1 = 4.0 g and the change in time is 10 - 2 = 8 days, so the rate is 4.0 ÷ 8 = 0.5 g day⁻¹.",
+   "marking_guidance": [
+    "Working: the equation rate = change in y ÷ change in x with the substitution of 4.0 g and 8 days - 1 mark.",
+    "Final answer: 0.5 g day⁻¹ (0.5 g per day), with the unit - 1 mark. A result of 0.5 with no unit loses the answer mark, and 3.1 ÷ 2 or 7.1 ÷ 10 uses a single y value, not the change."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-014": 1,
+    "CLM-8223-5.2-015": 1
+   },
+   "authored_hash": "994c8222d063fdf01ae9482c0113fa071f4b9560838f7fa996abeeacf0e24134"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-015-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.2-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-014",
+    "CLM-8223-5.2-015"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "On a graph of the concentration of glucose in a fermenter in g dm⁻³ (y-axis) against time in hours (x-axis), a straight line passes through (0 h, 20 g dm⁻³) and (6 h, 8 g dm⁻³). Calculate the rate of change of concentration.",
+   "canonical_answer": "Rate of change = change in y ÷ change in x. The change in concentration is 8 - 20 = -12 g dm⁻³ and the change in time is 6 - 0 = 6 h, so the rate is -12 ÷ 6 = -2 g dm⁻³ h⁻¹.",
+   "marking_guidance": [
+    "Working: the equation rate = change in y ÷ change in x with the substitution of -12 g dm⁻³ and 6 h - 1 mark.",
+    "Final answer: -2 g dm⁻³ h⁻¹ with its unit and the minus sign, which means the concentration decreases - 1 mark. An answer of 2 g dm⁻³ h⁻¹ without the sign loses the answer mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-014": 1,
+    "CLM-8223-5.2-015": 1
+   },
+   "authored_hash": "f0960358e953c307b3a3c51dd58e2429235638a5eb96f9b5650a3fd97fb3be1a"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-030-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-5.2-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-016"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State one feature of a straight line on a graph that shows the rate of change is zero.",
+   "canonical_answer": "The line is horizontal, so y does not change as x changes.",
+   "marking_guidance": [
+    "1 mark: one feature of the line. Accept: horizontal or level; no change in y as x changes; gradient of 0. A line close to the x-axis is not the feature, because a horizontal line high on the graph also has a rate of zero."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-016": 1
+   },
+   "authored_hash": "88ff2c8a600a6c21928c87c289507578c1feef4bf55e9864d6de5e6c30195a40"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-016-DEF",
+   "objective_ids": [
+    "OBJ-8223-5.2-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-017"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State what is meant by a tangent to a curve on a graph.",
+   "canonical_answer": "A tangent is a straight line that touches the curve at one point and has the same direction as the curve at that point.",
+   "marking_guidance": [
+    "1 mark: the meaning of the term. Key words: a straight line, touches the curve at one point, same direction (slope) as the curve there. A line that joins two points on the curve is a chord and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-017": 1
+   },
+   "authored_hash": "6e187457b750f873284eb88ddb5e8b7f65336b52f30414d2292fde2e38c8da8c"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-017-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.2-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-017",
+    "CLM-8223-5.2-018"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A graph shows the volume of carbon dioxide in cm³ (y-axis) against time in seconds (x-axis) for a reaction, and its curve flattens with time. A tangent drawn to the curve at 30 s passes through (10 s, 6 cm³) and (50 s, 34 cm³). Calculate the rate of the reaction at 30 s.",
+   "canonical_answer": "Rate = change in y ÷ change in x using the tangent. The change in volume is 34 - 6 = 28 cm³ and the change in time is 50 - 10 = 40 s, so the rate is 28 ÷ 40 = 0.7 cm³ s⁻¹.",
+   "marking_guidance": [
+    "Working: the equation rate = change in y ÷ change in x for the tangent, with the substitution of 28 cm³ and 40 s - 1 mark.",
+    "Final answer: 0.7 cm³ s⁻¹ with its unit - 1 mark. Values read from the curve instead of the tangent give a mean rate and earn no answer mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-017": 1,
+    "CLM-8223-5.2-018": 1
+   },
+   "authored_hash": "5188612504c2809a4b09278d5bdde7139dc52afce08e74d6982647ce28c66ea8"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-018-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.2-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-017",
+    "CLM-8223-5.2-018"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A graph shows the concentration of a substrate in mmol dm⁻³ (y-axis) against time in minutes (x-axis), and its curve falls less steeply as time passes. A tangent drawn to the curve at 40 min passes through (10 min, 36 mmol dm⁻³) and (70 min, 12 mmol dm⁻³). Calculate the rate of change of concentration at 40 min.",
+   "canonical_answer": "Rate = change in y ÷ change in x using the tangent. The change in concentration is 12 - 36 = -24 mmol dm⁻³ and the change in time is 70 - 10 = 60 min, so the rate is -24 ÷ 60 = -0.4 mmol dm⁻³ min⁻¹.",
+   "marking_guidance": [
+    "Working: the equation rate = change in y ÷ change in x for the tangent, with the substitution of -24 mmol dm⁻³ and 60 min - 1 mark.",
+    "Final answer: -0.4 mmol dm⁻³ min⁻¹ with its unit and the negative sign, which means the concentration is decreasing - 1 mark. A positive 0.4 loses the answer mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-017": 1,
+    "CLM-8223-5.2-018": 1
+   },
+   "authored_hash": "fd2e4f70624a332b21e54fda18d82694e90373c6be4e5b6fa5a8845215cfab79"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-019-APP",
+   "objective_ids": [
+    "OBJ-8223-5.2-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-019"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A graph of the volume of oxygen against time for a reaction has a curve that flattens with time, and 46 cm³ has been collected after 120 s. A tangent at 80 s has a gradient of 0.16 cm³ s⁻¹. A student gives 46 ÷ 120 = 0.38 cm³ s⁻¹ as the rate at 80 s. Explain why 0.16 cm³ s⁻¹ is the better answer for the rate at 80 s.",
+   "canonical_answer": "The value 0.38 cm³ s⁻¹ is the mean rate over the whole 120 s, which includes the fast early part of the run. The curve is flatter at 80 s than its average, so the mean rate is greater than the rate at that moment. The tangent gradient is the rate at the single point 80 s, so 0.16 cm³ s⁻¹ is the better answer.",
+   "marking_guidance": [
+    "2 marks: (1) 0.38 cm³ s⁻¹ is a mean over the whole 120 s, including the faster early part, so it does not describe 80 s; (1) the tangent gives the rate at the single point, because the curve is flatter at 80 s than its average, so the rate there is less.",
+    "The data show 46 ÷ 120 = 0.3833 cm³ s⁻¹, which matches the student's answer, so the arithmetic is not the error. The mistake is the choice of interval."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-019": 1
+   },
+   "authored_hash": "ea67fbf00166b6a297179f6f07d367e7b20a9fe9ba1a74286d4662dcd1af5d84"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-029-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-5.2-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-018"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 4,
+   "prompt": "State one feature of a correctly drawn tangent to a curve.",
+   "canonical_answer": "It touches the curve at the point and has the same direction as the curve there, with the curve about the same distance from the line on each side of the point.",
+   "marking_guidance": [
+    "1 mark: one feature of the tangent. Accept: touches the curve at one point; same slope as the curve at that point; a thin sharp ruled line; long enough to run well beyond the point so that two points far apart can be read. A line through two plotted points is not a tangent and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-018": 1
+   },
+   "authored_hash": "492de6157ec030330558f849d8b2a3bf9303abc1d6551992147ee85e7445fd1e"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-033-DIST",
+   "objective_ids": [
+    "OBJ-8223-5.2-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-019"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 4,
+   "prompt": "State one difference between the rate found from a tangent and the mean rate between two points on a curve.",
+   "canonical_answer": "A tangent gives the rate at a single point on the curve, whereas the mean rate between two points is an average over the interval between them.",
+   "marking_guidance": [
+    "1 mark: one difference, stated for both: rate at a single point against an average over an interval; or a tangent touches the curve at one point, whereas the mean rate uses two points on the curve. A statement about one only earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-019": 1
+   },
+   "authored_hash": "56c5cb0b8400f7d514f25c8d870105603dd44a1eed8cd9d45e4281f516c437a3"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-020-INTERP",
+   "objective_ids": [
+    "OBJ-8223-5.2-09"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-020",
+    "CLM-8223-5.2-021"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "On a graph of the mass of a plant culture in g (y-axis) against time in days (x-axis), a straight line passes through (0 days, 2.0 g) and (10 days, 6.0 g). Describe how this line is written as an equation of the form y = mx + c, stating what m and c show.",
+   "canonical_answer": "The gradient is m = (6.0 - 2.0) ÷ (10 - 0) = 0.4 g per day, which shows how much the mass increases each day. The intercept is c = 2.0 g, the mass when x = 0, so the equation is y = 2.0 + 0.4x.",
+   "marking_guidance": [
+    "2 marks: (1) m = 0.4 g per day, found from the change in y over the change in x, and what it shows, the increase in mass for each day; (1) c = 2.0 g, the value of y at x = 0, and the equation y = 2.0 + 0.4x.",
+    "The graph gives the two values as a reading from the points, and the answer means the line starts at 2.0 g. An equation written with m and c exchanged, y = 0.4 + 2.0x, earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-020": 1,
+    "CLM-8223-5.2-021": 1
+   },
+   "authored_hash": "41106f643a80bb5133c13e6d04c1ff214f03be05f18dc7f7c1ba6b9364371c3f"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-021-INTERP",
+   "objective_ids": [
+    "OBJ-8223-5.2-09"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-020",
+    "CLM-8223-5.2-021"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "These are our readings of the height of a seedling.\n\n| Time / days | Height / cm |\n|---|---|\n| 0 | 5.0 |\n| 2 | 9.0 |\n| 4 | 13.0 |\n| 6 | 17.0 |\n\nDescribe the pattern in the table in words and write the equation that gives the height y in cm at time x in days.",
+   "canonical_answer": "The height increases by 4.0 cm every 2 days, which is 2.0 cm each day, from 5.0 cm at the start. The equation is y = 5.0 + 2.0x, which gives 5.0 + 2.0 × 6 = 17.0 cm at 6 days, matching the table.",
+   "marking_guidance": [
+    "2 marks: (1) the pattern in words with values from the table: a steady increase of 2.0 cm each day (4.0 cm every 2 days) from 5.0 cm; (1) the equation y = 5.0 + 2.0x.",
+    "The table gives the values 5.0 and 2.0 for c and m, and substituting x = 6 shows the equation gives 17.0, so the equation matches the data. An equation with no starting height, y = 2.0x, earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-020": 1,
+    "CLM-8223-5.2-021": 1
+   },
+   "authored_hash": "0d2d9b9edfb09637c252809af09719f2b98fbcf4d0142dd65cb66aca9325db4f"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-025-DEF",
+   "objective_ids": [
+    "OBJ-8223-5.2-09"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-020"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State what is meant by the gradient m in the equation y = mx + c.",
+   "canonical_answer": "The gradient m is the change in y for each increase of 1 in x, that is, change in y ÷ change in x, the steepness of the line.",
+   "marking_guidance": [
+    "1 mark: the meaning of the term. Key words: change in y for each 1 unit increase in x, or change in y ÷ change in x. The value of y where the line crosses the y-axis is c, not m, and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-020": 1
+   },
+   "authored_hash": "430199dee879fc8a3b1bd077074def21fdd63ee0a236457bd132bd4332799f7f"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-031-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-5.2-09"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-020"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State one feature of the straight line y = 3.0 + 0.5x that can be read directly from its equation.",
+   "canonical_answer": "The line crosses the y-axis at 3.0, the value of y when x = 0 (or its gradient is 0.5).",
+   "marking_guidance": [
+    "1 mark: one feature of the line. Accept: the y-intercept of 3.0 (the line crosses the y-axis at 3.0); the gradient of 0.5 (y increases by 0.5 for each 1 in x). A value of y at x = 10 is a calculated value and not a feature read directly."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-020": 1
+   },
+   "authored_hash": "d6dabcd9131a98fbbbc2344a8e7ce932b11a4f04fc701affc598c7671b0e3d8b"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-P01",
+   "objective_ids": [
+    "OBJ-8223-5.2-03",
+    "OBJ-8223-5.2-05",
+    "OBJ-8223-5.2-07",
+    "OBJ-8223-5.2-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-005",
+    "CLM-8223-5.2-006",
+    "CLM-8223-5.2-010",
+    "CLM-8223-5.2-011",
+    "CLM-8223-5.2-014",
+    "CLM-8223-5.2-015",
+    "CLM-8223-5.2-016",
+    "CLM-8223-5.2-017",
+    "CLM-8223-5.2-018",
+    "CLM-8223-5.2-019"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": null,
+   "mark_tariff": 12,
+   "difficulty": 3,
+   "prompt": "Twelve questions. Choose one option for each.\n\n1. Which of these is an easy step to use for each large square of an axis?\nA  3 units\nB  7 units\nC  5 units\nD  6 units\n\n2. The y-values run from 0 to 47 cm³ on a grid 10 large squares tall. Which scale per large square uses the grid well without running the data off it?\nA  4 cm³\nB  5 cm³\nC  10 cm³\nD  20 cm³\n\n3. The x-values run from 0 to 45 min on a grid 9 large squares wide. Which scale per large square is best?\nA  3 min\nB  10 min\nC  4 min\nD  5 min\n\n4. Which display suits the number of birds counted at each of five named waterholes?\nA  a bar chart\nB  a histogram\nC  a line graph\nD  a line of best fit\n\n5. The heights of 60 maize plants are sorted into classes 10 cm wide. Which display shows how many plants are in each class?\nA  a bar chart with gaps between the bars\nB  a histogram with touching bars\nC  a line graph of height against plant number\nD  a pie chart with a sector for each plant\n\n6. A student changes the temperature of a water bath from 20 °C to 60 °C and measures the volume of gas from yeast at each temperature. Which display suits the results?\nA  a bar chart with separated bars\nB  a histogram\nC  a line graph\nD  a pie chart\n\n7. How is the rate of change shown by a straight line on a graph calculated?\nA  the y value at the right-hand end of the line\nB  the y-intercept of the line\nC  the area between the line and the x-axis\nD  change in y ÷ change in x\n\n8. A straight line on a graph of mass in g (y-axis) against time in h (x-axis) passes through (0 h, 12 g) and (4 h, 36 g). What is the rate of change?\nA  6 g h⁻¹\nB  3 g h⁻¹\nC  9 g h⁻¹\nD  0.17 g h⁻¹\n\n9. A straight line on a graph of volume in cm³ (y-axis) against time in min (x-axis) passes through (0 min, 30 cm³) and (5 min, 10 cm³). What is the rate of change?\nA  4 cm³ min⁻¹\nB  6 cm³ min⁻¹\nC  -4 cm³ min⁻¹\nD  -0.25 cm³ min⁻¹\n\n10. How is the rate of change at one point on a curve found?\nA  from the gradient of a line joining the first and last points of the curve\nB  from the height of the curve at that point\nC  from the area under the curve\nD  from the gradient of the tangent at that point\n\n11. A tangent to a curve of volume in cm³ (y-axis) against time in s (x-axis) at 10 s passes through (0 s, 2 cm³) and (20 s, 18 cm³). What is the rate at 10 s?\nA  0.9 cm³ s⁻¹\nB  0.8 cm³ s⁻¹\nC  1.25 cm³ s⁻¹\nD  0.1 cm³ s⁻¹\n\n12. A graph of the volume of oxygen against time for a reaction gives a curve that is still rising at 10 s and at 60 s but is flatter at 60 s. How does the rate at 60 s compare with the rate at 10 s?\nA  less, because the tangent at 60 s is less steep\nB  greater, because the volume at 60 s is greater\nC  the same, because both points are on one curve\nD  zero, because the curve has flattened",
+   "canonical_answer": "Key: 1 C, 2 B, 3 D, 4 A, 5 B, 6 C, 7 D, 8 A, 9 C, 10 D, 11 B, 12 A.\n1. 5 units is an easy step, because 1, 2 or 5 and their multiples by ten make each small square a simple amount (C). Wrong options: A 3 units, B 7 units and D 6 units make a small square stand for an awkward amount such as 0.3, 0.7 or 0.6, which invites slips in plotting.\n2. 47 ÷ 10 = 4.7 is the smallest step that fits, and the next easy step above it is 5 cm³, which puts the highest point at 9.4 large squares (B). Wrong options: A 4 cm³ is smaller than 4.7, so the highest point would be at 11.75 large squares and run off the grid; C 10 cm³ fills only 4.7 of the 10 large squares; D 20 cm³ fills only 2.35.\n3. 45 ÷ 9 = 5, an easy step that uses the whole width (D). Wrong options: A 3 min would need 15 large squares, so the data run off the grid; B 10 min fills only 4.5 of the 9 large squares; C 4 min would need 11.25 large squares and is not an easy step.\n4. The waterholes are named categories, so separated bars are used and no values exist between them (A). Wrong options: B a histogram is for a continuous measurement sorted into classes; C a line graph would suggest values between waterholes; D a line of best fit is a way of joining points on a graph, not a display of categories.\n5. The plant heights are a continuous measurement sorted into classes, and the touching bars show the frequency of each class (B). Wrong options: A gaps between bars treat the classes as separate categories; C height against plant number plots a measurement against a label, not a frequency; D a sector for each plant would need 60 sectors and does not show classes.\n6. Temperature is a continuous variable chosen by the student with the volume measured at each value, so a line graph is used (C). Wrong options: A separated bars treat temperatures as categories; B a histogram shows the frequency of one variable in classes, not one variable against another; D a pie chart shows shares of a total, not a change with temperature.\n7. The rate is the gradient, change in y ÷ change in x (D). Wrong options: A the height of a line is a value of y, not a rate (the misconception that a high line means a fast rate); B the intercept is the value of y at x = 0; C the area between a line and the axis is not a gradient.\n8. The change in y is 36 - 12 = 24 g and the change in x is 4 - 0 = 4 h, so the rate is 24 ÷ 4 = 6 g h⁻¹ (A). Wrong options: B divides the first y value by the time, 12 ÷ 4 = 3; C divides the last y value by the time, 36 ÷ 4 = 9; D inverts the division, 4 ÷ 24 = 0.17.\n9. The change in y is 10 - 30 = -20 cm³ and the change in x is 5 - 0 = 5 min, so the rate is -20 ÷ 5 = -4 cm³ min⁻¹ (C). Wrong options: A drops the minus sign, so the answer wrongly shows an increase; B divides the first y value by the time, 30 ÷ 5 = 6; D inverts the division and keeps the sign, 5 ÷ 20 = 0.25.\n10. The gradient of the tangent at the point is the rate there (D). Wrong options: A a line joining the first and last points gives a mean rate over the whole curve; B the height of the curve is a value of y, not a rate; C the area under a curve is not a gradient.\n11. The change in y is 18 - 2 = 16 cm³ and the change in x is 20 - 0 = 20 s, so the rate is 16 ÷ 20 = 0.8 cm³ s⁻¹ (B). Wrong options: A divides the final y value by the time, 18 ÷ 20 = 0.9; C inverts the division, 20 ÷ 16 = 1.25; D divides the starting y value by the time, 2 ÷ 20 = 0.1.\n12. The curve is flatter at 60 s, so the tangent there is less steep and the rate is less (A). Wrong options: B confuses the volume collected with the rate of collecting; C treats one curve as having one rate, when the steepness changes along it; D the stem says the curve is still rising at 60 s, so the rate is above 0.",
+   "marking_guidance": [
+    "The key: one mark for each correct option, twelve marks in all; the first, fourth, seventh and tenth questions test recall of a definition or method and the others test application to a described graph, scale or set of values.",
+    "Each distractor is a named error: a scale that runs the data off the grid or fills too little of it, a display chosen for the wrong kind of variable, a y value used instead of a change in y, a division inverted, a sign dropped, and a mean rate used where the rate at a point is wanted. The reasons are on the back, one for the key and one for each wrong option."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-005": 1,
+    "CLM-8223-5.2-006": 1,
+    "CLM-8223-5.2-010": 1,
+    "CLM-8223-5.2-011": 1,
+    "CLM-8223-5.2-014": 1,
+    "CLM-8223-5.2-015": 1,
+    "CLM-8223-5.2-016": 1,
+    "CLM-8223-5.2-017": 1,
+    "CLM-8223-5.2-018": 1,
+    "CLM-8223-5.2-019": 1
+   },
+   "authored_hash": "b7b4e8f52cb327f9505fafe8d6e45fb2b3e10293a88efb7749ba07672f8bec83"
+  },
+  {
+   "item_id": "ITEM-8223-5.2-P02",
+   "objective_ids": [
+    "OBJ-8223-5.2-02",
+    "OBJ-8223-5.2-05",
+    "OBJ-8223-5.2-06",
+    "OBJ-8223-5.2-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.2-003",
+    "CLM-8223-5.2-004",
+    "CLM-8223-5.2-010",
+    "CLM-8223-5.2-012",
+    "CLM-8223-5.2-013",
+    "CLM-8223-5.2-014",
+    "CLM-8223-5.2-015"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Describe",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "A student in Katima Mulilo collects the gas given off by yeast in a sugar solution at 30 °C and reads the volume on a syringe every 5 minutes. These are our readings.\n\n| Time / min | Volume of gas collected / cm³ |\n|---|---|\n| 0 | 0 |\n| 5 | 6 |\n| 10 | 13 |\n| 15 | 19 |\n| 20 | 26 |\n| 25 | 32 |\n| 30 | 39 |\n\nThe student plots the points on a graph with time on the x-axis and volume on the y-axis, and draws one ruled straight line of best fit through (0 min, 0 cm³) and (30 min, 39 cm³).\n\n(a) State which of a bar chart, a histogram or a line graph suits these results. [1]\n(b) Describe the pattern shown by the table. [2]\n(c) Explain why a line of best fit is drawn instead of ruled straight lines from each point to the next. [2]\n(d) Calculate the rate of gas production shown by the line of best fit. [2]\n(e) Suggest one reason why a volume read at 45 min from the line extended past 30 min is less reliable than a volume read at 12 min. [1]",
+   "canonical_answer": "(a) A line graph, because time is a continuous variable chosen by the student and the volume is measured at each value.\n(b) The volume increases steadily from 0 to 39 cm³ over the 30 min, by 6 or 7 cm³ in each 5 min step, so the points lie close to a straight line.\n(c) The points scatter slightly on either side of a straight trend, because the steps alternate between 6 and 7 cm³, which is likely to be caused by small errors in reading the syringe. Ruled lines from point to point would give a zigzag that treats these small differences as real changes, whereas one line of best fit shows the steady rate.\n(d) Rate = change in y ÷ change in x. The change in volume is 39 - 0 = 39 cm³ and the change in time is 30 - 0 = 30 min, so the rate is 39 ÷ 30 = 1.3 cm³ min⁻¹.\n(e) A value at 45 min is an extrapolation beyond the readings taken, so the trend may not continue, for example if the sugar is used up; 12 min lies between readings, so it is an interpolation.",
+   "marking_guidance": [
+    "Marks and points: (a) 1 mark for a line graph; a bar chart or histogram earns no mark. (b) 2 marks from three points: the direction with values (an increase from 0 to 39 cm³); steady steps of 6 to 7 cm³ in each 5 min; the points close to a straight line. (c) 2 marks from three points: the points scatter about a straight trend; the scatter is likely to come from errors in measurement; ruled lines would give a zigzag that treats small differences as real changes.",
+    "(d) 1 mark for the equation change in y ÷ change in x with the substitution of 39 cm³ and 30 min, and 1 mark for the final answer of 1.3 cm³ min⁻¹ with its unit; the answer without the unit earns 1 mark. (e) 1 mark: the volume at 45 min is an extrapolation past the last reading, so the trend may not continue; a reason such as the sugar being used up is accepted as the reason in this case. Each part carries its own marks.",
+    "Part (a) credits AO A (1 mark); parts (b), (c), (d) and (e) credit AO B (7 marks). A term such as extrapolation must be used correctly, because the reason depends on it, and the final answer needs its unit."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.2 from the topic 5.2 claim ledger. Our own scenario, data and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.2-003": 1,
+    "CLM-8223-5.2-004": 1,
+    "CLM-8223-5.2-010": 1,
+    "CLM-8223-5.2-012": 1,
+    "CLM-8223-5.2-013": 1,
+    "CLM-8223-5.2-014": 1,
+    "CLM-8223-5.2-015": 1
+   },
+   "authored_hash": "04bb81dce793eabb36ce742557ab7164092bfdefaf353ec0c4ed9d585d6200e7"
+  }
+ ]
+}

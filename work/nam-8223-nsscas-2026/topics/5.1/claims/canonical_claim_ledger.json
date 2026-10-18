@@ -1,0 +1,534 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-5.1",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-5.1-001",
+   "objective_ids": [
+    "OBJ-8223-5.1-01"
+   ],
+   "text": "The mean of a set of values is their total divided by the number of values; the median is the middle value when the values are put in order, and the mode is the value that occurs most often.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.1 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line restated here (\"understand averages, decimals, fractions, percentages, ratios and reciprocals\"); no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus line restated: \"understand averages, decimals, fractions, percentages, ratios and reciprocals\". Arithmetic examples recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.1-002",
+   "objective_ids": [
+    "OBJ-8223-5.1-01"
+   ],
+   "text": "A fraction a/b is turned into a decimal by dividing a by b, and the decimal is turned into a percentage by multiplying by 100; for example 3/8 = 0.375 = 37.5 per cent.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.1 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line restated here (\"understand averages, decimals, fractions, percentages, ratios and reciprocals\"); no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus line restated: \"understand averages, decimals, fractions, percentages, ratios and reciprocals\". Arithmetic examples recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.1-003",
+   "objective_ids": [
+    "OBJ-8223-5.1-01"
+   ],
+   "text": "The reciprocal of a number x is 1 ÷ x, so a number multiplied by its reciprocal gives 1; the reciprocal of 4 is 0.25, and a rate per hour is the reciprocal of the time taken for one event.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.1 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line restated here (\"understand averages, decimals, fractions, percentages, ratios and reciprocals\"); no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus line restated: \"understand averages, decimals, fractions, percentages, ratios and reciprocals\". Arithmetic examples recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.1-004",
+   "objective_ids": [
+    "OBJ-8223-5.1-02"
+   ],
+   "text": "A number in standard form is written A × 10ⁿ, where A is at least 1 and less than 10 and n is a whole number; n is positive for numbers of 10 or more and negative for numbers smaller than 1.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.1 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line restated here (\"recognise and use expressions in decimal and standard form\"); no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus line restated: \"recognise and use expressions in decimal and standard form\". Arithmetic examples recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.1-005",
+   "objective_ids": [
+    "OBJ-8223-5.1-02"
+   ],
+   "text": "To change a decimal into standard form, count the places the decimal point moves to leave one non-zero digit before it: the count is n, negative when the point moves to the right, so 0.0000032 = 3.2 × 10⁻⁶.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.1 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line restated here (\"recognise and use expressions in decimal and standard form\"); no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus line restated: \"recognise and use expressions in decimal and standard form\". Arithmetic examples recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.1-006",
+   "objective_ids": [
+    "OBJ-8223-5.1-02"
+   ],
+   "text": "A more negative power of ten gives a smaller number: 1.6 × 10⁻⁸ is smaller than 1.6 × 10⁻², because 10⁻⁸ is one hundred millionth and 10⁻² is one hundredth; powers are compared before the leading numbers.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.1 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line restated here (\"recognise and use expressions in decimal and standard form\"); no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus line restated: \"recognise and use expressions in decimal and standard form\". Arithmetic examples recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.1-007",
+   "objective_ids": [
+    "OBJ-8223-5.1-03"
+   ],
+   "text": "The prefixes are giga (G) 10⁹, mega (M) 10⁶, kilo (k) 10³, milli (m) 10⁻³, micro (µ) 10⁻⁶ and nano (n) 10⁻⁹, each multiplying the unit that follows it.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.1 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line restated here (\"understand and use the prefixes: giga (G), mega (M), kilo (k), milli (m), micro\"); no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus line restated: \"understand and use the prefixes: giga (G), mega (M), kilo (k), milli (m), micro\". Arithmetic examples recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.1-008",
+   "objective_ids": [
+    "OBJ-8223-5.1-03"
+   ],
+   "text": "To convert between units with prefixes, multiply when changing to a smaller unit and divide when changing to a larger one, using the factor between them: 1 mm = 1000 µm and 1 µm = 1000 nm.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.1 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line restated here (\"understand and use the prefixes: giga (G), mega (M), kilo (k), milli (m), micro\"); no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus line restated: \"understand and use the prefixes: giga (G), mega (M), kilo (k), milli (m), micro\". Arithmetic examples recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.1-009",
+   "objective_ids": [
+    "OBJ-8223-5.1-04"
+   ],
+   "text": "The significant figures of a number are the digits that carry information about its size, counted from the first non-zero digit; zeros after the first non-zero digit count, and zeros before it do not.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.1 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line restated here (\"take account of accuracy in numerical work and handle calculations so that significant figures are neither lost unnecessarily nor carried beyond what is justified\"); no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus line restated: \"take account of accuracy in numerical work and handle calculations so that significant figures are neither lost unnecessarily nor carried beyond what is justified\". Arithmetic examples recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.1-010",
+   "objective_ids": [
+    "OBJ-8223-5.1-04"
+   ],
+   "text": "In a calculation with several steps, the working values are not rounded, or are kept to at least one more significant figure than the final answer, and the rounding is done once, at the end.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.1 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line restated here (\"take account of accuracy in numerical work and handle calculations so that significant figures are neither lost unnecessarily nor carried beyond what is justified\"); no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus line restated: \"take account of accuracy in numerical work and handle calculations so that significant figures are neither lost unnecessarily nor carried beyond what is justified\". Arithmetic examples recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.1-011",
+   "objective_ids": [
+    "OBJ-8223-5.1-04"
+   ],
+   "text": "The final answer of a calculation is given to the same number of significant figures as the least precise measurement used (or one more), because more figures would claim an accuracy the measurements do not have.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.1 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line restated here (\"take account of accuracy in numerical work and handle calculations so that significant figures are neither lost unnecessarily nor carried beyond what is justified\"); no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus line restated: \"take account of accuracy in numerical work and handle calculations so that significant figures are neither lost unnecessarily nor carried beyond what is justified\". Arithmetic examples recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.1-012",
+   "objective_ids": [
+    "OBJ-8223-5.1-05"
+   ],
+   "text": "A percentage is a part expressed per hundred: percentage = part ÷ whole × 100, and x per cent of a quantity Q is x ÷ 100 × Q.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.1 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line restated here (\"calculate percentages and percentage changes\"); no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus line restated: \"calculate percentages and percentage changes\". Arithmetic examples recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.1-013",
+   "objective_ids": [
+    "OBJ-8223-5.1-05"
+   ],
+   "text": "Percentage change = (new value - original value) ÷ original value × 100; a positive result is an increase and a negative result is a decrease.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.1 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line restated here (\"calculate percentages and percentage changes\"); no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus line restated: \"calculate percentages and percentage changes\". Arithmetic examples recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.1-014",
+   "objective_ids": [
+    "OBJ-8223-5.1-05"
+   ],
+   "text": "A percentage change is measured against the original value, so a rise of 50 per cent followed by a fall of 50 per cent leaves a quantity 25 per cent below where it started.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.1 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line restated here (\"calculate percentages and percentage changes\"); no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus line restated: \"calculate percentages and percentage changes\". Arithmetic examples recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.1-015",
+   "objective_ids": [
+    "OBJ-8223-5.1-06"
+   ],
+   "text": "Percentage error = absolute error ÷ measured (or accepted) value × 100, where the absolute error is the uncertainty of a reading or the size of the difference between a measured value and the accepted value.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.1 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line restated here (\"express errors in experimental work as percentage errors\"); no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus line restated: \"express errors in experimental work as percentage errors\". Arithmetic examples recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.1-016",
+   "objective_ids": [
+    "OBJ-8223-5.1-06"
+   ],
+   "text": "For the same absolute error, the percentage error is smaller when the quantity measured is larger, so measuring a larger quantity with the same instrument reduces the percentage error.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.1 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line restated here (\"express errors in experimental work as percentage errors\"); no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus line restated: \"express errors in experimental work as percentage errors\". Arithmetic examples recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.1-017",
+   "objective_ids": [
+    "OBJ-8223-5.1-06"
+   ],
+   "text": "When a reading is taken from a scale, the absolute error is commonly taken as half of the smallest division of the scale, so a ruler marked in millimetres gives ±0.5 mm.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.1 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line restated here (\"express errors in experimental work as percentage errors\"); no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus line restated: \"express errors in experimental work as percentage errors\". Arithmetic examples recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.1-018",
+   "objective_ids": [
+    "OBJ-8223-5.1-07"
+   ],
+   "text": "A ratio compares quantities measured in the same unit, written a : b, and is simplified by dividing all its terms by a common factor; it has no unit.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.1 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line restated here (\"recognise and use ratios\"); no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus line restated: \"recognise and use ratios\". Arithmetic examples recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.1-019",
+   "objective_ids": [
+    "OBJ-8223-5.1-07"
+   ],
+   "text": "To share a quantity in a ratio, add the terms to find the number of parts, divide the quantity by that number to find one part, and multiply by each term.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.1 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line restated here (\"recognise and use ratios\"); no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus line restated: \"recognise and use ratios\". Arithmetic examples recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.1-020",
+   "objective_ids": [
+    "OBJ-8223-5.1-07"
+   ],
+   "text": "A ratio such as 5 : 3 compares one part with another part, whereas the fraction 5/8 compares one part with the whole of 8 parts.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.1 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line restated here (\"recognise and use ratios\"); no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus line restated: \"recognise and use ratios\". Arithmetic examples recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.1-021",
+   "objective_ids": [
+    "OBJ-8223-5.1-08"
+   ],
+   "text": "Two quantities are in direct proportion when their ratio stays the same, so doubling one doubles the other; a graph of them is a straight line through the origin.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.1 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line restated here (\"use direct and inverse proportion\"); no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus line restated: \"use direct and inverse proportion\". Arithmetic examples recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.1-022",
+   "objective_ids": [
+    "OBJ-8223-5.1-08"
+   ],
+   "text": "Two quantities are in inverse proportion when their product stays the same, so doubling one halves the other.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.1 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line restated here (\"use direct and inverse proportion\"); no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus line restated: \"use direct and inverse proportion\". Arithmetic examples recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.1-023",
+   "objective_ids": [
+    "OBJ-8223-5.1-08"
+   ],
+   "text": "To use proportion, find the constant (the ratio for direct proportion, the product for inverse proportion) from one known pair of values and then apply it to the new value; this holds only if the stated condition, such as a fixed amount of solute or an even spread of cells, is met.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.1 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line restated here (\"use direct and inverse proportion\"); no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus line restated: \"use direct and inverse proportion\". Arithmetic examples recomputed by hand and by the check suite."
+   ]
+  }
+ ]
+}

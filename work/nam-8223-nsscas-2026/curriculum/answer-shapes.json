@@ -1,0 +1,628 @@
+{
+ "_provenance": {
+  "derived_from": "assessment_evidence.json (404 records from papers 2021-2024 and the 2025 report), the syllabus facts, and the printed pages of the 2021, 2022, 2024 and 2025 NSSCAS examiners reports cited per entry",
+  "derivation_policy": "structure only. No mark-scheme or report wording is reproduced in learner-facing output.",
+  "validation": "Computed parts are counts over the evidence file. 'points listed' is read from the evidence records' own descriptions of each part's marking points (n=18 parts with a readable count); it is a count of ideas on the scheme, not a quote.",
+  "limits": "2023 has no scheme, so contributes no shape. 2025 has few stated tariffs and no command words. 2021 Paper 3 and some 2022 and 2024 Paper 3 parts have schemes with a different number of points than their tariff (flagged in the evidence notes)."
+ },
+ "8223": {
+  "subject": "NSSCAS Biology 8223",
+  "paper_architecture": {
+   "P1": {
+    "name": "Theory: Multiple choice questions",
+    "marks": 40,
+    "duration_minutes": 60,
+    "ao_marks": {
+     "A": 20,
+     "B": 20,
+     "C": 0
+    },
+    "syllabus_page": 22,
+    "description": "This paper consists of forty multiple-choice items of the four-choice type. The questions will be based on content described as specific objectives and will test abilities in assessment objectives A and B. Candidates will answer all questions. Candidates will answer on an answer sheet."
+   },
+   "P2": {
+    "name": "Theory: Structured questions",
+    "marks": 60,
+    "duration_minutes": 75,
+    "ao_marks": {
+     "A": 30,
+     "B": 30,
+     "C": 0
+    },
+    "syllabus_page": 22,
+    "description": "This paper will consist of compulsory short- answer, structured and free-response questionsa variable number of questions, of variable mark value.The questions will test skills and abilities in Assessment Objectives A and B. Learners will answer all questions on the question paper [booklet]."
+   },
+   "P3": {
+    "name": "Advanced Practical Skills",
+    "marks": 40,
+    "duration_minutes": 120,
+    "ao_marks": {
+     "A": 0,
+     "B": 0,
+     "C": 40
+    },
+    "syllabus_page": 22,
+    "description": "This paper requires learners to carry out practical work in timed conditions. Learners will be expected to collect, record and analyse data so that they can answer questions related to the activity. The paper will consist of two experiments drawn from different areas of Biology. Learners will answer all questions. Learners will answer on the question paper. These questions may be based on the practical work in this syllabus with which the learner is familiar. They may also include practical exercises unfamiliar to the learner, but if this is the case then sufficient explanation and instruction will be given to enable the learner to use knowledge of practical work in other areas to complete the task satisfactorily. Centres are expected to have standard laboratory facilities available for all of their learners."
+   }
+  },
+  "points_vs_tariff_paper_2_2021_2024_by_command_word": {
+   "describe": {
+    "parts": 5,
+    "points_gt_tariff": 4,
+    "points_eq_tariff": 1,
+    "points_lt_tariff": 0
+   },
+   "suggest": {
+    "parts": 4,
+    "points_gt_tariff": 3,
+    "points_eq_tariff": 1,
+    "points_lt_tariff": 0
+   },
+   "outline": {
+    "parts": 3,
+    "points_gt_tariff": 3,
+    "points_eq_tariff": 0,
+    "points_lt_tariff": 0
+   },
+   "explain": {
+    "parts": 3,
+    "points_gt_tariff": 3,
+    "points_eq_tariff": 0,
+    "points_lt_tariff": 0
+   },
+   "state": {
+    "parts": 2,
+    "points_gt_tariff": 2,
+    "points_eq_tariff": 0,
+    "points_lt_tariff": 0
+   },
+   "discuss": {
+    "parts": 1,
+    "points_gt_tariff": 1,
+    "points_eq_tariff": 0,
+    "points_lt_tariff": 0
+   }
+  },
+  "points_vs_tariff_overall": {
+   "parts": 18,
+   "more_points_than_marks": 16,
+   "equal": 2,
+   "fewer": 0
+  },
+  "command_word_tariffs_papers_2_3_2021_2024": [
+   {
+    "word": "describe",
+    "count": 27,
+    "modal_tariff": 1,
+    "tariffs_seen": {
+     "1": 7,
+     "2": 7,
+     "3": 5,
+     "4": 4,
+     "5": 2,
+     "6": 1,
+     "8": 1
+    },
+    "papers": {
+     "P2": 21,
+     "P3": 6
+    },
+    "years": [
+     2021,
+     2022,
+     2023,
+     2024
+    ],
+    "in_syllabus_glossary": true
+   },
+   {
+    "word": "state",
+    "count": 22,
+    "modal_tariff": 1,
+    "tariffs_seen": {
+     "1": 11,
+     "2": 8,
+     "3": 1,
+     "4": 2
+    },
+    "papers": {
+     "P2": 16,
+     "P3": 6
+    },
+    "years": [
+     2021,
+     2022,
+     2023,
+     2024
+    ],
+    "in_syllabus_glossary": true
+   },
+   {
+    "word": "explain",
+    "count": 18,
+    "modal_tariff": 2,
+    "tariffs_seen": {
+     "1": 2,
+     "2": 8,
+     "3": 6,
+     "4": 2
+    },
+    "papers": {
+     "P2": 18
+    },
+    "years": [
+     2021,
+     2022,
+     2023,
+     2024
+    ],
+    "in_syllabus_glossary": true
+   },
+   {
+    "word": "use",
+    "count": 17,
+    "modal_tariff": 1,
+    "tariffs_seen": {
+     "1": 6,
+     "2": 5,
+     "3": 1,
+     "4": 5
+    },
+    "papers": {
+     "P2": 7,
+     "P3": 10
+    },
+    "years": [
+     2021,
+     2022,
+     2023,
+     2024
+    ],
+    "in_syllabus_glossary": false
+   },
+   {
+    "word": "name",
+    "count": 12,
+    "modal_tariff": 2,
+    "tariffs_seen": {
+     "1": 5,
+     "2": 5,
+     "4": 1,
+     "5": 1
+    },
+    "papers": {
+     "P2": 12
+    },
+    "years": [
+     2021,
+     2022,
+     2023,
+     2024
+    ],
+    "in_syllabus_glossary": false
+   },
+   {
+    "word": "suggest",
+    "count": 11,
+    "modal_tariff": 2,
+    "tariffs_seen": {
+     "1": 2,
+     "2": 6,
+     "3": 3
+    },
+    "papers": {
+     "P2": 8,
+     "P3": 3
+    },
+    "years": [
+     2021,
+     2022,
+     2023,
+     2024
+    ],
+    "in_syllabus_glossary": true
+   },
+   {
+    "word": "identify",
+    "count": 9,
+    "modal_tariff": 2,
+    "tariffs_seen": {
+     "1": 2,
+     "2": 5,
+     "3": 2
+    },
+    "papers": {
+     "P2": 5,
+     "P3": 4
+    },
+    "years": [
+     2021,
+     2022,
+     2023,
+     2024
+    ],
+    "in_syllabus_glossary": false
+   },
+   {
+    "word": "calculate",
+    "count": 7,
+    "modal_tariff": 1,
+    "tariffs_seen": {
+     "1": 5,
+     "2": 2
+    },
+    "papers": {
+     "P2": 4,
+     "P3": 3
+    },
+    "years": [
+     2021,
+     2023,
+     2024
+    ],
+    "in_syllabus_glossary": true
+   },
+   {
+    "word": "outline",
+    "count": 5,
+    "modal_tariff": 3,
+    "tariffs_seen": {
+     "2": 1,
+     "3": 3,
+     "4": 1
+    },
+    "papers": {
+     "P2": 4,
+     "P3": 1
+    },
+    "years": [
+     2021,
+     2024
+    ],
+    "in_syllabus_glossary": true
+   },
+   {
+    "word": "complete",
+    "count": 4,
+    "modal_tariff": 3,
+    "tariffs_seen": {
+     "2": 1,
+     "3": 2,
+     "4": 1
+    },
+    "papers": {
+     "P2": 2,
+     "P3": 2
+    },
+    "years": [
+     2021,
+     2023
+    ],
+    "in_syllabus_glossary": false
+   },
+   {
+    "word": "plot",
+    "count": 4,
+    "modal_tariff": 4,
+    "tariffs_seen": {
+     "4": 4
+    },
+    "papers": {
+     "P3": 4
+    },
+    "years": [
+     2021,
+     2022,
+     2023,
+     2024
+    ],
+    "in_syllabus_glossary": false
+   },
+   {
+    "word": "make",
+    "count": 4,
+    "modal_tariff": 5,
+    "tariffs_seen": {
+     "3": 1,
+     "4": 1,
+     "5": 2
+    },
+    "papers": {
+     "P3": 4
+    },
+    "years": [
+     2021,
+     2022,
+     2024
+    ],
+    "in_syllabus_glossary": false
+   },
+   {
+    "word": "prepare",
+    "count": 4,
+    "modal_tariff": 4,
+    "tariffs_seen": {
+     "4": 3,
+     "5": 1
+    },
+    "papers": {
+     "P3": 4
+    },
+    "years": [
+     2022,
+     2023,
+     2024
+    ],
+    "in_syllabus_glossary": false
+   },
+   {
+    "word": "discuss",
+    "count": 4,
+    "modal_tariff": 2,
+    "tariffs_seen": {
+     "2": 2,
+     "3": 1,
+     "4": 1
+    },
+    "papers": {
+     "P2": 3,
+     "P3": 1
+    },
+    "years": [
+     2023,
+     2024
+    ],
+    "in_syllabus_glossary": true
+   },
+   {
+    "word": "draw",
+    "count": 3,
+    "modal_tariff": 3,
+    "tariffs_seen": {
+     "1": 1,
+     "3": 1,
+     "4": 1
+    },
+    "papers": {
+     "P2": 1,
+     "P3": 2
+    },
+    "years": [
+     2021,
+     2024
+    ],
+    "in_syllabus_glossary": false
+   },
+   {
+    "word": "record",
+    "count": 2,
+    "modal_tariff": 1,
+    "tariffs_seen": {
+     "1": 2
+    },
+    "papers": {
+     "P2": 2
+    },
+    "years": [
+     2024
+    ],
+    "in_syllabus_glossary": false
+   },
+   {
+    "word": "construct",
+    "count": 1,
+    "modal_tariff": 4,
+    "tariffs_seen": {
+     "4": 1
+    },
+    "papers": {
+     "P3": 1
+    },
+    "years": [
+     2022
+    ],
+    "in_syllabus_glossary": true
+   },
+   {
+    "word": "look",
+    "count": 1,
+    "modal_tariff": 4,
+    "tariffs_seen": {
+     "4": 1
+    },
+    "papers": {
+     "P3": 1
+    },
+    "years": [
+     2022
+    ],
+    "in_syllabus_glossary": false
+   },
+   {
+    "word": "compare",
+    "count": 1,
+    "modal_tariff": 2,
+    "tariffs_seen": {
+     "2": 1
+    },
+    "papers": {
+     "P2": 1
+    },
+    "years": [
+     2023
+    ],
+    "in_syllabus_glossary": true
+   },
+   {
+    "word": "fill in",
+    "count": 1,
+    "modal_tariff": 3,
+    "tariffs_seen": {
+     "3": 1
+    },
+    "papers": {
+     "P2": 1
+    },
+    "years": [
+     2023
+    ],
+    "in_syllabus_glossary": false
+   },
+   {
+    "word": "sketch",
+    "count": 1,
+    "modal_tariff": 2,
+    "tariffs_seen": {
+     "2": 1
+    },
+    "papers": {
+     "P3": 1
+    },
+    "years": [
+     2023
+    ],
+    "in_syllabus_glossary": true
+   },
+   {
+    "word": "take",
+    "count": 1,
+    "modal_tariff": 1,
+    "tariffs_seen": {
+     "1": 1
+    },
+    "papers": {
+     "P3": 1
+    },
+    "years": [
+     2024
+    ],
+    "in_syllabus_glossary": false
+   },
+   {
+    "word": "move",
+    "count": 1,
+    "modal_tariff": 3,
+    "tariffs_seen": {
+     "3": 1
+    },
+    "papers": {
+     "P3": 1
+    },
+    "years": [
+     2024
+    ],
+    "in_syllabus_glossary": false
+   }
+  ],
+  "mark_scheme_conventions": [
+   {
+    "convention": "mp numbering",
+    "meaning": "Marking points are numbered; a later point can depend on an earlier one (a point is not credited unless the one it depends on is).",
+    "seen_in_report_years": [
+     2021,
+     2024,
+     2025
+    ]
+   },
+   {
+    "convention": "alternative wording (AW)",
+    "meaning": "A different wording of the same idea earns the same credit.",
+    "seen_in_report_years": [
+     2021,
+     2022,
+     2024,
+     2025
+    ]
+   },
+   {
+    "convention": "or reverse argument (ora)",
+    "meaning": "The argument made the other way round earns the same credit.",
+    "seen_in_report_years": [
+     2021
+    ]
+   },
+   {
+    "convention": "accept / reject / ignore lists",
+    "meaning": "Some answers are explicitly accepted, rejected or ignored (2025 uses A and R prefixes); a reject on a wrong word can cancel an otherwise right answer.",
+    "seen_in_report_years": [
+     2021,
+     2022,
+     2024,
+     2025
+    ]
+   },
+   {
+    "convention": "maximum cap per category",
+    "meaning": "Marks from one group of points are capped (for example a maximum of 2 for the explanation, or 1 for only listing stages).",
+    "seen_in_report_years": [
+     2024,
+     2025
+    ]
+   },
+   {
+    "convention": "error carried forward (ecf)",
+    "meaning": "A wrong answer in one part is not penalised again where it feeds a later part that is otherwise correct.",
+    "seen_in_report_years": [
+     2021,
+     2024,
+     2025
+    ]
+   },
+   {
+    "convention": "list rule",
+    "meaning": "Where a question asks for a number of items, only the first answers on the answer lines are marked.",
+    "seen_in_report_years": [
+     2021
+    ],
+    "verified_page": "2021 report printed p.38"
+   },
+   {
+    "convention": "any valid point (AVP)",
+    "meaning": "A creditworthy point not on the scheme can earn a mark.",
+    "seen_in_report_years": [
+     2021
+    ]
+   }
+  ],
+  "mark_scheme_conventions_note": "Years come from a count of these conventions inside each report's Biology section (page ranges not asserted except where a verified_page is given).",
+  "answer_style_rules_from_reports": [
+   {
+    "rule": "Answer describe, explain, suggest, discuss, give a reason and outline questions in full sentences; use bullet points only when asked to list or state.",
+    "seen": {
+     "2021": "report printed p.37",
+     "2022": "report printed p.42",
+     "2024": "report printed p.39 (bullets)",
+     "2025": "report printed p.43"
+    },
+    "verified_pages": true
+   },
+   {
+    "rule": "Use the number of marks to decide how many steps or reasons to give.",
+    "seen": "syllabus section 10, printed p.26"
+   },
+   {
+    "rule": "Refer to the data given at least once, with the unit, to reach the top mark on a data question.",
+    "seen": {
+     "2025": "report printed p.46"
+    },
+    "verified_pages": true
+   },
+   {
+    "rule": "Terminology and spelling are credited: a misspelled or wrong term (for example 'PH' for pH) can lose the mark.",
+    "seen": {
+     "2024": "report printed p.39",
+     "2025": "report printed p.43 and p.50"
+    },
+    "verified_pages": true
+   },
+   {
+    "rule": "Answer the question set: describing a graph is not explaining it; naming a stage is not giving its reason.",
+    "seen": {
+     "2022": "Biology Paper 2 and 3 commentary",
+     "2025": "Biology Paper 2 and 3 commentary"
+    },
+    "verified_pages": false
+   }
+  ]
+ }
+}

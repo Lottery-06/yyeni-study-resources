@@ -1,0 +1,395 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-2.9.1",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-2.9.1-001",
+   "objective_ids": [
+    "OBJ-8223-2.9.1-01"
+   ],
+   "text": "Phagocytosis is the engulfing and digestion of a pathogen by a phagocyte: the phagocyte binds the pathogen, its cell surface membrane flows round it and encloses it in a vesicle, lysosomes fuse with the vesicle and release hydrolytic enzymes, and the enzymes break the pathogen down. Phagocytosis does not depend on the antigen, so it acts on a wide range of pathogens.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.1 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard cell biology; the vesicle is called a phagosome in many texts, a term the syllabus does not require."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.1-002",
+   "objective_ids": [
+    "OBJ-8223-2.9.1-01"
+   ],
+   "text": "Neutrophils and macrophages are both phagocytes. A neutrophil has a nucleus with several lobes, is short-lived, is abundant in blood and increases in number in the blood during a bacterial infection, and moves to infected tissue to engulf bacteria. A macrophage is larger, lives for longer in the tissues, and engulfs and digests pathogens there.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.1 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard teaching. Cell lifespans are tendencies, not fixed values, so no figures are stated."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.1-003",
+   "objective_ids": [
+    "OBJ-8223-2.9.1-01",
+    "OBJ-8223-2.9.1-02"
+   ],
+   "text": "After a macrophage has engulfed and digested a pathogen it places antigens from the pathogen on its own cell surface membrane, so that a T-helper cell can bind them: the macrophage presents antigens on its membrane and does not simply release or display loose fragments.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.1",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2021-P2-Q3b-i",
+     "locator": "examiner-report finding on this point",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.1 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. JUDGEMENT: neutrophils can also display antigens to a limited degree in current research, but the syllabus and standard teaching at this level treat presentation as the macrophage's role, and the claim is written as the macrophage's role without saying that neutrophils never do so."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.1-004",
+   "objective_ids": [
+    "OBJ-8223-2.9.1-02"
+   ],
+   "text": "In a primary immune response a T-helper cell with a receptor complementary to the antigen presented on a macrophage binds it and is activated; the activated T-helper cell divides by mitosis to form a clone of identical T-helper cells.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.1 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Clonal selection, stated at syllabus level."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.1-005",
+   "objective_ids": [
+    "OBJ-8223-2.9.1-02"
+   ],
+   "text": "Activated T-helper cells release chemical signals (cytokines) that stimulate B-lymphocytes whose receptors fit the same antigen, and T-killer cells, to divide.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.1 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. In some cases B-lymphocytes respond to an antigen with little help from T-helper cells; the claim states the sequence taught at this level and is written as the usual route."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.1-006",
+   "objective_ids": [
+    "OBJ-8223-2.9.1-02",
+    "OBJ-8223-2.9.1-04"
+   ],
+   "text": "A stimulated B-lymphocyte clones by mitosis into plasma cells and memory cells; plasma cells secrete antibodies, which are protein molecules, so antibodies are not cells and are not made by cloning.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.1",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2021-P2-Q3b-ii",
+     "locator": "examiner-report finding on this point",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.1 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Written to keep antibody (a protein) apart from plasma cell (a cell)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.1-007",
+   "objective_ids": [
+    "OBJ-8223-2.9.1-02"
+   ],
+   "text": "T-killer cells destroy body cells that are infected and display a non-self antigen on their surface. A primary immune response is slow, taking several days to produce plenty of antibody, because only a few lymphocytes match a given antigen and these must be selected and must divide.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.1 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Mechanism of killing is not stated in more detail than the syllabus requires."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.1-008",
+   "objective_ids": [
+    "OBJ-8223-2.9.1-03"
+   ],
+   "text": "An antigen is a molecule, usually a protein or glycoprotein, on the surface of a cell or pathogen that triggers an immune response.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.1 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Matches glossary term antigen. Antigens that are not on a cell surface are not discussed."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.1-009",
+   "objective_ids": [
+    "OBJ-8223-2.9.1-03"
+   ],
+   "text": "Self antigens are antigens on the body's own cells, which the immune system learns early in life not to respond to; non-self antigens are antigens that are not part of the body, such as those on pathogens, cells from another organism and transplanted tissue, and they trigger an immune response.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.1 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard teaching on self-tolerance, stated in outline."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.1-010",
+   "objective_ids": [
+    "OBJ-8223-2.9.1-03",
+    "OBJ-8223-2.9.1-02"
+   ],
+   "text": "Antibodies and lymphocyte receptors are specific: each has a binding site complementary in shape to one antigen, so it binds that antigen and not others. A pathogen carries many antigens, so the body can respond to several at once.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.1 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard teaching."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.1-011",
+   "objective_ids": [
+    "OBJ-8223-2.9.1-04"
+   ],
+   "text": "Memory cells are long-lived cells formed when lymphocytes clone in the primary immune response; they remain in the body, carrying receptors for the antigen that stimulated them.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.1 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Memory cells are taught as memory cells in general, not by subtype."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.1-012",
+   "objective_ids": [
+    "OBJ-8223-2.9.1-04"
+   ],
+   "text": "In the secondary immune response, memory cells meeting the same antigen again are numerous and quickly stimulated, so they divide rapidly into plasma cells; antibody therefore appears sooner, rises to a higher concentration and stays high for longer than in the primary response, and the pathogen tends to be destroyed before it causes symptoms.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.1 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Stated as a tendency; the size of the difference varies by pathogen."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.1-013",
+   "objective_ids": [
+    "OBJ-8223-2.9.1-04"
+   ],
+   "text": "Long-term immunity depends on memory cells persisting after the first infection. Its duration varies with the pathogen, from several years to life, and it fails to protect when a pathogen's antigens change so that the memory cells no longer match.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.1 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Duration is a tendency; no universal figure is stated."
+   ]
+  }
+ ]
+}

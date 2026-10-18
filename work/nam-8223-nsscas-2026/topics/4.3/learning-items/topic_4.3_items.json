@@ -1,0 +1,1156 @@
+{
+ "dataset_id": "ITEMS-8223-4.3",
+ "topic_id": "4.3",
+ "items": [
+  {
+   "item_id": "ITEM-8223-4.3-001-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-4.3-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-001",
+    "CLM-8223-4.3-002",
+    "CLM-8223-4.3-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one feature of the body of a raw data table by naming one type of entry that is not written in it.",
+   "canonical_answer": "A unit written beside a value (the unit belongs in the column heading), or a calculated value such as a mean or a rate (processed data, kept apart from the raw readings).",
+   "marking_guidance": [
+    "1 mark: one feature of the body of the table, given as something that stays out: a unit beside a value, or a calculated value such as a mean or a rate. Naming a measured reading itself earns no mark, because the readings are what the body holds."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-001": 1,
+    "CLM-8223-4.3-002": 1,
+    "CLM-8223-4.3-003": 1
+   },
+   "authored_hash": "3c0a193b9bbaf1faf42f511642a37ed46817f7365a21ca68a8b085202068210b"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-002-APP",
+   "objective_ids": [
+    "OBJ-8223-4.3-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-001",
+    "CLM-8223-4.3-002",
+    "CLM-8223-4.3-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A learner records the masses of three potato cylinders as 2.51 g, 2.49 g and 2.50 g in the body of a table, and writes the mean, 2.50 g, in the fourth cell of the same column. Explain two changes that make this a correct table of raw data.",
+   "canonical_answer": "The unit is written once in the column heading, as Mass / g, so the cells hold 2.51, 2.49 and 2.50 alone, because the heading gives the unit for the whole column. The mean, 2.51 + 2.49 + 2.50 = 7.50 and 7.50 ÷ 3 = 2.50, is calculated from the three readings, so it is processed data; it is moved to a separate column or table, because a raw data table holds the readings as they were taken.",
+   "marking_guidance": [
+    "2 marks, tied to the given data: the unit moves to the heading as Mass / g and the body holds numbers alone, because the heading covers the column (1); the mean is removed from the column of readings and placed in a separate column or table, because it is calculated, not observed (1).",
+    "An answer that only says to take out the units, with no reason and no mention of the heading, earns no more than 1 mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-001": 1,
+    "CLM-8223-4.3-002": 1,
+    "CLM-8223-4.3-003": 1
+   },
+   "authored_hash": "72ce32b8e589114498accacd3c423a807e383eacee3344befbc26ba273a3d1f1"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-003-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-4.3-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-004",
+    "CLM-8223-4.3-005",
+    "CLM-8223-4.3-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State where the heading for the independent variable is placed in a results table.",
+   "canonical_answer": "In the left-hand column of the table (or in the top row, if the table runs across the page).",
+   "marking_guidance": [
+    "1 mark: the position, which is the left column or the top row. This is a feature of the layout of the table; the dependent variable goes in the next column or row and earns no mark here."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-004": 1,
+    "CLM-8223-4.3-005": 1,
+    "CLM-8223-4.3-006": 1
+   },
+   "authored_hash": "e74b404b62c60272e2c47a7ff338683120a6194ed1d1e814758c4adbd3887d37"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-004-APP",
+   "objective_ids": [
+    "OBJ-8223-4.3-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-004",
+    "CLM-8223-4.3-005",
+    "CLM-8223-4.3-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A learner gives bean seedlings 0, 10, 20, 30 and 40 cm³ of water each day and measures the height of each seedling after 10 days in millimetres. Her table has two columns, Height first and Water second. Explain how the columns should be ordered and headed.",
+   "canonical_answer": "The water should be in the left column, because it is the independent variable, the quantity the learner changes, and the height should be in the next column, because it is the dependent variable that is measured. The headings should be Volume of water each day / cm³ and Height of seedling after 10 days / mm, because the unit in each heading says what the values in the column are measured in.",
+   "marking_guidance": [
+    "2 marks, tied to the given situation: the independent variable, the volume of water, in the left column, with the height beside it, because the learner changes the water and measures the height (1); headings in the form quantity / unit for both columns, because the unit is stated once in the heading (1).",
+    "A heading with the quantity but no unit, such as Height, earns no mark for the second point."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-004": 1,
+    "CLM-8223-4.3-005": 1,
+    "CLM-8223-4.3-006": 1
+   },
+   "authored_hash": "c8f8d63217437eb7865020fd26a31a009701f38409aa8fb353ad73d15aa8fe70"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-005-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-4.3-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-007",
+    "CLM-8223-4.3-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what decides the number of decimal places to which a reading is recorded.",
+   "canonical_answer": "The measuring instrument: the smallest division on an analogue scale, or the digits shown on a digital display.",
+   "marking_guidance": [
+    "1 mark: the measuring instrument (its scale divisions or its display). This is the feature that sets the figures; the learner's preference, or the size of the quantity, is not the reason and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-007": 1,
+    "CLM-8223-4.3-008": 1
+   },
+   "authored_hash": "07a37114c7d677ab5575e8a7aa3cec44a525d7b635e900ec558fb856f1766d99"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-006-APP",
+   "objective_ids": [
+    "OBJ-8223-4.3-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-007",
+    "CLM-8223-4.3-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A learner reads a digital balance that shows 3.40 g and writes 3.4 g in the table. She reads a ruler marked in millimetres and writes a length of exactly 6 cm as 6. Explain why both entries should be changed.",
+   "canonical_answer": "The balance entry should be 3.40 g, because the final zero is a digit the balance displays and it tells the reader that the balance is precise to 0.01 g. The ruler entry should be 6.0 cm, because the smallest division of the ruler is 1 mm, which is 0.1 cm, so lengths are written to one decimal place and a bare 6 suggests a coarser instrument.",
+   "marking_guidance": [
+    "2 marks, tied to the given readings: 3.40 g, because all the digits on a digital display are written, including a final zero (1); 6.0 cm, because the ruler divisions are 0.1 cm, so the length is given to one decimal place like the other lengths from the same instrument (1).",
+    "Saying only that the numbers must look the same, with no reference to the instrument, earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-007": 1,
+    "CLM-8223-4.3-008": 1
+   },
+   "authored_hash": "1baf52af39a1725bf4044e22fcd1163723462f5fd345356e9d6873da3504cd98"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-007-DEF",
+   "objective_ids": [
+    "OBJ-8223-4.3-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-009",
+    "CLM-8223-4.3-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by the substitution step in a calculation.",
+   "canonical_answer": "Writing the measured values, with their units, in place of the quantities in the equation, before any arithmetic is done.",
+   "marking_guidance": [
+    "1 mark: a statement that the measured values replace the quantities in the equation before the arithmetic is carried out. The key words are values and equation. The term does not refer to the final answer, so a statement about rounding earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-009": 1,
+    "CLM-8223-4.3-010": 1
+   },
+   "authored_hash": "2f0a13ec998c31dc6db6c5701417da76fe0794fd1a3571ea0b3e6cf595ee8d79"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-008-CALC",
+   "objective_ids": [
+    "OBJ-8223-4.3-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-009",
+    "CLM-8223-4.3-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A dried maize grain has a mass of 1.60 g before soaking and 2.34 g after soaking, each read from a balance that reads to 0.01 g. Calculate the percentage change in mass, showing every step and the reason for dividing by the mass before soaking.",
+   "canonical_answer": "Percentage change in mass = change in mass ÷ mass before soaking × 100. The change is 2.34 - 1.60 = 0.74 g. The change is divided by the mass before soaking because percentage change is measured against where the quantity began. 0.74 ÷ 1.60 × 100 = 46.25. The change, 0.74 g, has two significant figures, so the answer is 46 per cent to two significant figures (46.3 per cent is also accepted).",
+   "marking_guidance": [
+    "2 marks. Working: the equation with the substitution 0.74 ÷ 1.60 × 100, and the reason for dividing by the mass before soaking (1). Final answer: 46 per cent, with the unit and two significant figures (1).",
+    "The calculator display, 46.25, is the unrounded result and is not the final answer; 46.3 is accepted as one more significant figure."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-009": 1,
+    "CLM-8223-4.3-010": 1
+   },
+   "authored_hash": "f04db2d266974e3cdc1e396fa6cab2363fd0bb80d1cccfb536a8a87d23ddb013"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-009-CALC",
+   "objective_ids": [
+    "OBJ-8223-4.3-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-009",
+    "CLM-8223-4.3-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A seedling is 18 mm tall on day 2 and 66 mm tall on day 10, measured with a ruler marked in millimetres. Calculate the mean rate of growth in mm per day, showing the equation, the substitution and the answer with its unit.",
+   "canonical_answer": "Mean rate of growth = change in height ÷ time taken. The change in height is 66 - 18 = 48 mm and the time taken is 10 - 2 = 8 days. 48 ÷ 8 = 6, so the mean rate is 6.0 mm day⁻¹ to two significant figures (6.00 is also accepted).",
+   "marking_guidance": [
+    "2 marks. Working: the equation rate = change in height ÷ time, with the substitution 48 ÷ 8 (1). Final answer: 6.0 mm day⁻¹, with its unit and two significant figures (1).",
+    "An answer of 6 with no unit earns no mark for the final answer."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-009": 1,
+    "CLM-8223-4.3-010": 1
+   },
+   "authored_hash": "2f59d1e72a30ccac5687ea877d61cd672bc6c23debab153682d063839a8c8806"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-010-DEF",
+   "objective_ids": [
+    "OBJ-8223-4.3-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-011",
+    "CLM-8223-4.3-012",
+    "CLM-8223-4.3-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State the rule that sets the number of significant figures for a calculated value.",
+   "canonical_answer": "A calculated value is given to the same number of significant figures as, or one more than, the measured quantity of least accuracy that was used, which is the measurement with the fewest significant figures.",
+   "marking_guidance": [
+    "1 mark: the statement of the rule, naming the measured quantity of least accuracy, the one with the fewest significant figures. The key words are same as, or one more than."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-011": 1,
+    "CLM-8223-4.3-012": 1,
+    "CLM-8223-4.3-013": 1
+   },
+   "authored_hash": "b105efe6dec124927f66cede3c1b46fbb981a9befcd903437aa3c98fcb0a2f6c"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-011-CALC",
+   "objective_ids": [
+    "OBJ-8223-4.3-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-011",
+    "CLM-8223-4.3-012",
+    "CLM-8223-4.3-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A learner dissolves 0.482 g of glucose in water to make 25 cm³ of solution. The balance reads to 0.001 g and the measuring cylinder is read to 1 cm³. Calculate the concentration in g cm⁻³, giving the answer to a suitable number of significant figures and stating how many you used.",
+   "canonical_answer": "Concentration = mass ÷ volume. 0.482 ÷ 25 = 0.01928. The mass has three significant figures and the volume has two, so the volume is the measured quantity of least accuracy, and the answer is 0.019 g cm⁻³ to two significant figures (0.0193 g cm⁻³ to three is also accepted).",
+   "marking_guidance": [
+    "2 marks. Working: the equation concentration = mass ÷ volume with the substitution 0.482 ÷ 25 (1). Final answer: 0.019 g cm⁻³ with its unit and two significant figures; 0.0193 is accepted as one more (1).",
+    "An answer of 0.01928 has more significant figures than the measurements justify and earns no mark for the final answer."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-011": 1,
+    "CLM-8223-4.3-012": 1,
+    "CLM-8223-4.3-013": 1
+   },
+   "authored_hash": "fa3804dfc55b02879cb007cac829c4c7c4c5cabe9afefa7f0da4c6d728c5e090"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-012-CALC",
+   "objective_ids": [
+    "OBJ-8223-4.3-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-011",
+    "CLM-8223-4.3-012",
+    "CLM-8223-4.3-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Three leaf lengths are measured with a ruler marked in millimetres and recorded as 8.2 cm, 7.9 cm and 8.6 cm. Calculate the mean length, giving the unit and the number of significant figures used.",
+   "canonical_answer": "Mean = total of the lengths ÷ number of readings. 8.2 + 7.9 + 8.6 = 24.7, and 24.7 ÷ 3 = 8.2333. The lengths have two significant figures and the 3 is an exact count, so the mean is 8.2 cm to two significant figures (8.23 cm to three is also accepted).",
+   "marking_guidance": [
+    "2 marks. Working: the total 24.7 divided by 3, with the equation (1). Final answer: 8.2 cm, with its unit and two significant figures; 8.23 is accepted as one more (1).",
+    "The 3 is an exact count of readings and does not limit the significant figures, so an answer of 8 cm loses accuracy and earns no mark for the final answer."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-011": 1,
+    "CLM-8223-4.3-012": 1,
+    "CLM-8223-4.3-013": 1
+   },
+   "authored_hash": "1981704f8c66a65316487a9aa2ae62d019830a11b2a5761184c48196f14b557e"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-013-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-4.3-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-014",
+    "CLM-8223-4.3-015"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State the kind of independent variable for which a line graph, not a bar chart, is chosen.",
+   "canonical_answer": "A continuous variable, one that can take any value in a range, such as time, distance or temperature.",
+   "marking_guidance": [
+    "1 mark: a continuous variable, with the idea that values exist between the plotted points. This is the feature of the data that decides the form; a categorical or discrete variable is the case for a bar chart and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-014": 1,
+    "CLM-8223-4.3-015": 1
+   },
+   "authored_hash": "fd18220502b44479cd33e612aac89d2410c00ed96e6df51f46984c4d8dedfc29"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-014-APP",
+   "objective_ids": [
+    "OBJ-8223-4.3-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-014",
+    "CLM-8223-4.3-015"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A learner counts the mean number of insects caught in traps set in four habitats: grassland, mopane woodland, riverbank and bare ground. Explain which form of display suits the results.",
+   "canonical_answer": "A bar chart, because the habitat is categorical, so there are no values between one habitat and the next, and a line joining the points would suggest values that do not exist.",
+   "marking_guidance": [
+    "2 marks, tied to the given data: a bar chart (1); because the independent variable, the habitat, is categorical and has no values between the categories, so a line would not be justified (1).",
+    "A line graph with the reason that it shows a trend earns no marks, because the reason does not fit categories."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-014": 1,
+    "CLM-8223-4.3-015": 1
+   },
+   "authored_hash": "adfa1825b68330b499201d5c18cd13a70f3a6d55c6d2730f7a12b6afc7561a0b"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-015-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-4.3-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-016",
+    "CLM-8223-4.3-017"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State which axis carries the dependent variable on a graph.",
+   "canonical_answer": "The y-axis, the vertical axis up the side of the graph.",
+   "marking_guidance": [
+    "1 mark: the y-axis (vertical). This is the feature of the axes that places the measured quantity; the independent variable goes on the x-axis and earns no mark here."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-016": 1,
+    "CLM-8223-4.3-017": 1
+   },
+   "authored_hash": "f8af2c6dab01ddc7edc2e4dbad6f7d844f012e7d5768f686982df50a30fab0ad"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-016-APP",
+   "objective_ids": [
+    "OBJ-8223-4.3-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-016",
+    "CLM-8223-4.3-017"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A table has the columns Light intensity / lux and Mean number of bubbles per minute. Explain how the axes of the graph should be labelled.",
+   "canonical_answer": "The x-axis should be labelled Light intensity / lux and the y-axis should be labelled Mean number of bubbles per minute, because each label is worded to match the heading of the table column it comes from, and the light intensity is the independent variable, so it goes on the x-axis.",
+   "marking_guidance": [
+    "2 marks, tied to the given table: the x-axis labelled Light intensity / lux, with its unit, because it is the independent variable (1); the y-axis labelled Mean number of bubbles per minute, matching the heading, because it is the dependent variable (1).",
+    "A label that omits the unit lux, or swaps the two axes, earns no mark for that axis."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-016": 1,
+    "CLM-8223-4.3-017": 1
+   },
+   "authored_hash": "6a357e6436eadcb71f8f53394fc95f08c837d7af0c20ab33d8f375fd301f40b6"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-017-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-4.3-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-018",
+    "CLM-8223-4.3-019",
+    "CLM-8223-4.3-020"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State how much of the grid the plotted points should cover.",
+   "canonical_answer": "Most or all of the grid, in both directions.",
+   "marking_guidance": [
+    "1 mark: most or all of the grid. This is the feature of a well chosen scale; a statement that the points fill about half the grid does not match the standard and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-018": 1,
+    "CLM-8223-4.3-019": 1,
+    "CLM-8223-4.3-020": 1
+   },
+   "authored_hash": "ad907cdc740677cf32429d1f2b9bc17aa20f2c9f0cfa8a8b037b73218ed3651d"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-018-APP",
+   "objective_ids": [
+    "OBJ-8223-4.3-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-018",
+    "CLM-8223-4.3-019",
+    "CLM-8223-4.3-020"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "The values on the y-axis of a graph run from 0 to 46 mm and the graph paper is 10 large squares tall. A learner is choosing between 4, 5 and 10 mm per large square. Explain which scale should be chosen.",
+   "canonical_answer": "The scale should be 5 mm per large square. The smallest step that fits is 46 ÷ 10 = 4.6 mm per large square, and the next easy step above 4.6 is 5, so the axis runs from 0 to 50 mm and the data use 9.2 of the 10 squares. A step of 4 mm would run the top value off the grid, and a step of 10 mm would use less than half of the height.",
+   "marking_guidance": [
+    "2 marks, tied to the given data: 5 mm per large square (1); because 46 ÷ 10 = 4.6 and the next easy step above that is 5, so the data fill most of the grid, while 4 does not fit and 10 uses too little of it (1).",
+    "Choosing 10 mm because it is an easy number, with no reference to how much of the grid is used, earns no marks."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-018": 1,
+    "CLM-8223-4.3-019": 1,
+    "CLM-8223-4.3-020": 1
+   },
+   "authored_hash": "8f34f167fd7c9b32a81e2bc966576f5de729f8a46a56480598d19b40e042b9af"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-019-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-4.3-09"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-021",
+    "CLM-8223-4.3-022"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 1,
+   "prompt": "State how a plotted point should be marked on a graph.",
+   "canonical_answer": "With a small neat cross, or with a dot inside a small circle, centred on the position of the point.",
+   "marking_guidance": [
+    "1 mark: a small cross or a dot in a circle, centred on the point. This is the feature that keeps the position clear; a large dot or blob hides the position and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-021": 1,
+    "CLM-8223-4.3-022": 1
+   },
+   "authored_hash": "73736d2c28d190ad916ca8258dd400531002548903eafcb6e81acfc70d1bd9d8"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-020-APP",
+   "objective_ids": [
+    "OBJ-8223-4.3-09"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-021",
+    "CLM-8223-4.3-022"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "A graph has an x-axis with 10 cm per large square and a y-axis with 5 mm per large square, and each large square holds ten small squares in both directions. Explain how to place the point x = 36 cm, y = 23 mm.",
+   "canonical_answer": "On the x-axis, 36 cm is three large squares and six small squares from the start, because 30 cm + 6 cm = 36 cm and each small square is 1 cm. On the y-axis, 23 mm is four large squares and six small squares, because 20 mm + 3 mm = 23 mm and each small square is 0.5 mm, so 6 × 0.5 = 3. The point is marked with a small cross centred on that position.",
+   "marking_guidance": [
+    "2 marks, tied to the given scales: the x position, three large squares and six small squares, because each small square is 1 cm (1); the y position, four large squares and six small squares, because each small square is 0.5 mm (1).",
+    "The mark should be a small cross or a dot in a circle; a position found by guessing between the lines, with no use of the scale, earns no marks."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-021": 1,
+    "CLM-8223-4.3-022": 1
+   },
+   "authored_hash": "b17bf68f9ddb61e433377342e19d27a9ebd8b87ceb42ab99db195f615f482879"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-021-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-4.3-10"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-023",
+    "CLM-8223-4.3-024",
+    "CLM-8223-4.3-025"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what happens to a line or curve at the first and the last plotted point.",
+   "canonical_answer": "It starts at the first plotted point and stops at the last, and is not extended beyond them, because there are no readings outside the points.",
+   "marking_guidance": [
+    "1 mark: the line starts and stops at the first and last points (it is not extended). This is the feature that avoids extrapolating; extending the line to the axes or the origin earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-023": 1,
+    "CLM-8223-4.3-024": 1,
+    "CLM-8223-4.3-025": 1
+   },
+   "authored_hash": "a1c587a36676b97d48d4cb580e99ad80a58498ea1f6444b7470693e13f4ca6d8"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-022-APP",
+   "objective_ids": [
+    "OBJ-8223-4.3-10"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-023",
+    "CLM-8223-4.3-024",
+    "CLM-8223-4.3-025"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A learner counts the number of seeds, out of 50, that have germinated on each of days 1 to 6: 4, 15, 31, 41, 46 and 48. She joins the six points with five ruled straight segments and extends the line back to the origin. Her own measurements follow a curved trend. Explain two corrections.",
+   "canonical_answer": "The points should be joined by one smooth curve, not straight segments, because the trend of her measurements is curved and ruled segments give a jagged shape the data do not show. The line should start at the first point, day 1, and not at the origin, because no reading was taken at day 0, so extending it would claim a value that was not measured.",
+   "marking_guidance": [
+    "2 marks, tied to the given data: a smooth curve instead of ruled segments, because the trend is curved (1); the line starts at the first plotted point and is not extended to the origin, because no reading was obtained there (1).",
+    "Saying only that the line should be neater, with no change of form and no mention of the origin, earns no marks."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-023": 1,
+    "CLM-8223-4.3-024": 1,
+    "CLM-8223-4.3-025": 1
+   },
+   "authored_hash": "8ddf275e43d41ad833aae209434b583e7373ae33b234c11c9820f7119d3a5e05"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-023-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-4.3-11"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-026",
+    "CLM-8223-4.3-027"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 1,
+   "prompt": "State one feature of the bars in a bar chart of categorical data.",
+   "canonical_answer": "The bars are separated by gaps (and are of equal width).",
+   "marking_guidance": [
+    "1 mark: one feature of the bars: separated by gaps, or of equal width. Bars that touch are the feature for continuous classes and earn no mark here."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-026": 1,
+    "CLM-8223-4.3-027": 1
+   },
+   "authored_hash": "2f356986c69bee2fad4bc5debb522397b26834632ac4c8d5e8976b48502d55ec"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-024-APP",
+   "objective_ids": [
+    "OBJ-8223-4.3-11"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-026",
+    "CLM-8223-4.3-027"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "A learner sorts the lengths of 38 shoots, measured to the nearest millimetre, into classes 10 to under 20 mm, 20 to under 30 mm, 30 to under 40 mm and so on. Explain whether the bars of her chart should touch.",
+   "canonical_answer": "The bars should touch, because shoot length is a continuous quantity and each class begins where the one before it ends, so there is no gap in the scale.",
+   "marking_guidance": [
+    "2 marks, tied to the given data: the bars touch (1); because the lengths are continuous and the classes follow on from one another with no gap (1).",
+    "Separated bars with the reason that the classes are different earn no marks."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-026": 1,
+    "CLM-8223-4.3-027": 1
+   },
+   "authored_hash": "654adf27facdbd36a028a0e737eef34b49cefda76dc46ae011786ad3299ff260"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-P01",
+   "objective_ids": [
+    "OBJ-8223-4.3-03",
+    "OBJ-8223-4.3-05",
+    "OBJ-8223-4.3-07",
+    "OBJ-8223-4.3-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-007",
+    "CLM-8223-4.3-008",
+    "CLM-8223-4.3-011",
+    "CLM-8223-4.3-012",
+    "CLM-8223-4.3-013",
+    "CLM-8223-4.3-016",
+    "CLM-8223-4.3-017",
+    "CLM-8223-4.3-018",
+    "CLM-8223-4.3-019",
+    "CLM-8223-4.3-020"
+   ],
+   "item_type": "practical_task",
+   "subtype": null,
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "State",
+   "mark_tariff": 10,
+   "difficulty": 3,
+   "prompt": "A student grows three maize seedlings on a sunny windowsill in the same soil, watering each with the same volume of water each day. At the same time on each of the days shown, he measures the height of each seedling with a ruler marked in millimetres. The table shows his readings. These are our own invented readings, not taken from any published source.\n\n| Time / days | Height of seedling 1 / mm | Height of seedling 2 / mm | Height of seedling 3 / mm |\n|---|---|---|---|\n| 2 | 14 | 16 | 15 |\n| 4 | 31 | 33 | 29 |\n| 6 | 52 | 55 | 51 |\n| 8 | 71 | 74 | 70 |\n| 10 | 86 | 90 | 85 |\n| 12 | 97 | 100 | 96 |\n\n(a) State the independent variable and the dependent variable in this investigation. [2]\n(b) Explain why each height is written as a whole number of millimetres. [2]\n(c) Calculate the mean height of the three seedlings at day 6, showing every step and stating the number of significant figures used. [2]\n(d) The mean heights are to be plotted on graph paper with a grid 12 large squares wide and 10 large squares tall. Describe how the axes, their labels and their scales should be set up. [3]\n(e) Suggest one improvement to the investigation that would make the means more reliable. [1]",
+   "canonical_answer": "(a) The independent variable is the time in days, which the student chooses. The dependent variable is the height of the seedlings in millimetres, which is measured.\n(b) The ruler is marked in millimetres, so each height is read to the nearest millimetre, and the readings are written to the same number of decimal places, which is none. Writing 14.0 would claim a precision of 0.1 mm that the ruler cannot give, because the smallest division is the limit.\n(c) Mean = total of the heights ÷ number of seedlings, because the three heights are added and divided by 3. 52 + 55 + 51 = 158, and 158 ÷ 3 = 52.667. The heights have two significant figures and the 3 is an exact count, so the mean is 53 mm to two significant figures (52.7 mm to three is also accepted).\n(d) The independent variable, time, is on the x-axis, labelled Time / days, and the dependent variable, the mean height, is on the y-axis, labelled Mean height / mm, each worded as in the table headings. The x-axis has 1 day per large square, because 12 ÷ 12 = 1, from 0 to 12 days. The y-axis has 10 mm per large square, from 0 to 100 mm, because the largest mean, (97 + 100 + 96) ÷ 3 = 293 ÷ 3 = 97.667 mm, is divided by the 10 squares to give 9.77 and rounded up to the next easy step of 10. Both axes then use most of the grid.\n(e) Measure more seedlings at each time, for example ten, so that the mean is less affected by one unusual seedling.",
+   "marking_guidance": [
+    "Table and headings: the table is given with the quantity and unit in each column heading and the body holding numbers alone, so the readings are read against the headings; part (a) credits one mark for each variable, so 2 marks.",
+    "Part (b), 2 marks: the ruler is marked in millimetres, so the reading is to the nearest millimetre (1); the same number of decimal places for each reading, because more places would claim more precision than the instrument gives (1). Part (c), 2 marks: working with the equation and the substitution 158 ÷ 3, with the reason for dividing by 3 (1); final answer 53 mm with its unit and two significant figures (1).",
+    "Part (d), 3 marks: the correct variable on each axis with labels in the form quantity / unit worded to match the table headings (1); the scale on the x-axis, 1 day per large square (1); the scale on the y-axis, 10 mm per large square, with both axes using most of the grid (1). A graph with the axes swapped earns no mark for the first point.",
+    "Part (e), 1 mark: one improvement that acts on the variable that limits reliability, such as measuring more seedlings, with the reason that the mean is then less affected by one unusual value. Be more careful is not an improvement."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-007": 1,
+    "CLM-8223-4.3-008": 1,
+    "CLM-8223-4.3-011": 1,
+    "CLM-8223-4.3-012": 1,
+    "CLM-8223-4.3-013": 1,
+    "CLM-8223-4.3-016": 1,
+    "CLM-8223-4.3-017": 1,
+    "CLM-8223-4.3-018": 1,
+    "CLM-8223-4.3-019": 1,
+    "CLM-8223-4.3-020": 1
+   },
+   "authored_hash": "4cc6066fda137128c61e30c33b1ef6abd7ccbd6dbe786aaf6563177518c486a6"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-P02",
+   "objective_ids": [
+    "OBJ-8223-4.3-05",
+    "OBJ-8223-4.3-06",
+    "OBJ-8223-4.3-07",
+    "OBJ-8223-4.3-08",
+    "OBJ-8223-4.3-11"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-011",
+    "CLM-8223-4.3-012",
+    "CLM-8223-4.3-013",
+    "CLM-8223-4.3-014",
+    "CLM-8223-4.3-015",
+    "CLM-8223-4.3-016",
+    "CLM-8223-4.3-017",
+    "CLM-8223-4.3-018",
+    "CLM-8223-4.3-019",
+    "CLM-8223-4.3-020",
+    "CLM-8223-4.3-026",
+    "CLM-8223-4.3-027"
+   ],
+   "item_type": "practical_task",
+   "subtype": null,
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 10,
+   "difficulty": 3,
+   "prompt": "A student investigates how soil type affects the growth of mahangu (pearl millet) seedlings. She sows 20 seeds in each of three trays for each of four soil types, keeps the trays in the same place with the same watering, and after 14 days dries all the seedlings from each tray and weighs them on a balance that reads to 0.1 g. These are our own invented readings, not taken from any published source.\n\nTable 1\n\n| Soil type | Dry mass, tray 1 / g | Dry mass, tray 2 / g | Dry mass, tray 3 / g |\n|---|---|---|---|\n| Sand | 2.4 | 2.6 | 2.2 |\n| Loam | 4.1 | 3.9 | 4.3 |\n| Clay | 3.0 | 3.2 | 2.8 |\n| Compost mix | 5.2 | 5.0 | 5.4 |\n\nIn a second sowing in loam, the shoot lengths of 38 seedlings were measured to the nearest millimetre and sorted into classes. These are also our own invented readings.\n\nTable 2\n\n| Length of shoot / mm | Number of seedlings |\n|---|---|\n| 10 to under 20 | 4 |\n| 20 to under 30 | 9 |\n| 30 to under 40 | 14 |\n| 40 to under 50 | 8 |\n| 50 to under 60 | 3 |\n\n(a) Identify the independent variable in Table 1 and explain why it means the results are shown as a bar chart and not as a line graph. [2]\n(b) Calculate the mean dry mass for clay, showing every step and stating the number of significant figures used. [2]\n(c) Describe how the mean dry masses should be shown as a bar chart on a grid 12 large squares tall, including the axes and their labels, the scale on the vertical axis and the bars. [3]\n(d) Describe how the bars of a chart of Table 2 would differ from the bars in (c), and explain why. [2]\n(e) Suggest one improvement that would make the comparison between the soil types more reliable. [1]",
+   "canonical_answer": "(a) The independent variable is the soil type. It is categorical, so there are no values between one soil type and the next, and a line joining the points would suggest values that do not exist, so a bar chart is used.\n(b) Mean = total of the dry masses ÷ number of trays, because the three masses are added and divided by 3. 3.0 + 3.2 + 2.8 = 9.0, and 9.0 ÷ 3 = 3.0. The masses have two significant figures and the 3 is an exact count, so the mean is 3.0 g to two significant figures (3.00 g is also accepted).\n(c) The independent variable, soil type, is on the x-axis, labelled Soil type, and the dependent variable, the mean dry mass, is on the y-axis, labelled Mean dry mass / g, each worded to match the table headings. The scale on the y-axis is 0.5 g per large square, from 0 to 6.0 g, because the largest mean is 5.2 g, 5.2 ÷ 12 = 0.43 and the next easy step above that is 0.5, so the tallest bar is 5.2 ÷ 0.5 = 10.4 large squares of the 12. The four bars, for sand, loam, clay and compost mix, are of equal width and are separated by gaps, with the height of each bar equal to its mean (2.4 g, 4.1 g, 3.0 g and 5.2 g).\n(d) The bars of the chart of Table 2 would touch, with no gaps, because shoot length is continuous and each class begins where the one before it ends. The x-axis would be labelled Length of shoot / mm with the class boundaries 10, 20, 30, 40, 50 and 60 at the edges of the bars, and the y-axis would be labelled Number of seedlings.\n(e) Use more trays for each soil type, so that the mean is less affected by one unusual tray.",
+   "marking_guidance": [
+    "Table and headings: both tables are given with the quantity and unit in each column heading and the body holding values alone, and part (a), 2 marks, credits the independent variable, soil type (1), with the reason that it is categorical, so a bar chart and not a line graph (1).",
+    "Part (b), 2 marks: working with the equation, the total 9.0 and the division by 3, with the reason for dividing by 3 (1); final answer 3.0 g with its unit and two significant figures (1). An answer of 3 g loses the accuracy of the measurements.",
+    "Part (c), 3 marks: the correct variable on each axis with labels in the form quantity / unit worded to match the table headings, soil type on the x-axis (1); a scale of 0.5 g per large square with the tallest bar using most of the grid (1); four bars of equal width, separated by gaps, with heights drawn from the means (1). A line joining the tops of the bars earns no mark for the bars.",
+    "Part (d), 2 marks: the bars touch (1); because the lengths are continuous and the classes follow on with no gap, with the axis labelled with the class boundaries (1). Part (e), 1 mark: one improvement, such as more trays for each soil type, with the reason that the mean is less affected by one unusual tray. Be more careful is not an improvement."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.3 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-011": 1,
+    "CLM-8223-4.3-012": 1,
+    "CLM-8223-4.3-013": 1,
+    "CLM-8223-4.3-014": 1,
+    "CLM-8223-4.3-015": 1,
+    "CLM-8223-4.3-016": 1,
+    "CLM-8223-4.3-017": 1,
+    "CLM-8223-4.3-018": 1,
+    "CLM-8223-4.3-019": 1,
+    "CLM-8223-4.3-020": 1,
+    "CLM-8223-4.3-026": 1,
+    "CLM-8223-4.3-027": 1
+   },
+   "authored_hash": "d027c7c418e99a380d335224498ac90b5e04934b3234a9bce3f7d35c9e2cd500"
+  }
+ ]
+}

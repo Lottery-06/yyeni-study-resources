@@ -1,0 +1,305 @@
+{
+ "unit_id": "CU-8223-3.1.1",
+ "title": "Replication and division of nuclei and cells",
+ "objective_ids": [
+  "OBJ-8223-3.1.1-01",
+  "OBJ-8223-3.1.1-02",
+  "OBJ-8223-3.1.1-03",
+  "OBJ-8223-3.1.1-04",
+  "OBJ-8223-3.1.1-05",
+  "OBJ-8223-3.1.1-06",
+  "OBJ-8223-3.1.1-07"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_process",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 2060,
+  "target": 2505,
+  "max": 2950
+ },
+ "word_count": 2619,
+ "qa_status": "review_required",
+ "notes": [
+  "Authored for topic 3.1.1 from the work order."
+ ],
+ "blocks": [
+  {
+   "block_id": "3.1.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "How a chromosome is built, why mitosis matters, how to recognise the stages of mitosis in a root tip, the mitotic cell cycle, what telomeres do, how stem cells replace and repair tissue, and how uncontrolled division can produce a tumour.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "6b8c2509aaf2f262a4b21be5c423f51deedf25de10a46b92a2ce928020a5f653"
+  },
+  {
+   "block_id": "3.1.1-b2",
+   "block_type": "plain_explanation",
+   "heading": "The structure of a chromosome",
+   "text": "A chromosome is one very long molecule of DNA combined with proteins called histones. In a nucleus that is not dividing, the DNA and its histones are spread through the nucleus as loosely coiled chromatin, and separate chromosomes cannot be seen. When a cell is about to divide, the chromatin coils and folds tightly. Each chromosome then becomes a short, thick structure that a light microscope can show. This condensed form is the chromosome.\n\nThe histones are the reason the DNA can be packed. The DNA is wound around the histone proteins, and this winding is coiled further. A DNA molecule is far longer than the nucleus that holds it. Without this packing the molecules would tangle, and they could not be moved safely when the cell divides.\n\nBefore DNA is replicated, a chromosome consists of one chromatid, which is one DNA molecule with its histones. After replication, each chromosome consists of two sister chromatids. They are identical copies of one another and are joined at the centromere. The centromere is the region where the two chromatids are held together. During mitosis the spindle fibres attach at the centromere, so it is the point at which the chromosome is pulled.",
+   "claim_ids": [
+    "CLM-8223-3.1.1-001",
+    "CLM-8223-3.1.1-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.1.1-001": 1,
+    "CLM-8223-3.1.1-002": 1
+   },
+   "authored_hash": "2d7785dcd228b265dc8468ee45e7da621e806f2dd861f9dd36436a4096889d37"
+  },
+  {
+   "block_id": "3.1.1-b3",
+   "block_type": "components",
+   "heading": "Telomeres and the parts of a replicated chromosome",
+   "text": "Each end of each chromatid has a telomere. A telomere is a cap of DNA made of a short sequence of bases repeated many times. It does not code for a polypeptide, so it contains no genes. Its function is to protect the genes that lie behind it, a point developed under the significance of telomeres below.\n\nThe parts of a replicated chromosome can be counted. It has one molecule of DNA with histones in each of its two chromatids, one centromere joining them, and a telomere at each end of each chromatid. Two chromatids with two ends each give four telomeres. A chromosome that has not yet been replicated has one chromatid and so two telomeres.\n\nThe table shows the count for a cell with four chromosomes, before and after DNA replication. The numbers are ours, to practise the counting.\n\n| Stage | Chromosomes | Chromatids | Centromeres | Telomeres |\n|---|---|---|---|---|\n| G1, before replication | 4 | 4 | 4 | 8 |\n| G2, after replication | 4 | 8 | 4 | 16 |\n\nReplication doubles the chromatids and the telomeres, because each new chromatid has two ends. It does not change the number of chromosomes or centromeres, because the two chromatids of a chromosome share one centromere.",
+   "claim_ids": [
+    "CLM-8223-3.1.1-002",
+    "CLM-8223-3.1.1-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.1.1-002": 1,
+    "CLM-8223-3.1.1-003": 1
+   },
+   "authored_hash": "f0ae5621791390b17f66bcb258f0712ca735f46ad09ab62305e26949caf2ba4c"
+  },
+  {
+   "block_id": "3.1.1-b4",
+   "block_type": "misconception",
+   "heading": "Four pairs of terms to keep apart",
+   "text": "Several terms in this topic sound alike, and confusing them is a common error.\n\nThe centromere and the centrosome are not the same. The centromere is part of a chromosome and holds the sister chromatids together. The centrosome is an organelle in animal cells, a pair of centrioles, and it organises the spindle. A quick test is to ask which one holds chromatids together and which one makes the spindle.\n\nChromatin and chromosome are two forms of the same material. Chromatin is DNA with histones, loosely coiled, in a nucleus that is not dividing. A chromosome is that DNA condensed for division.\n\nA chromatid and a telomere are not the same. A chromatid is one whole copy of the chromosome, one DNA molecule with its histones. A telomere is only the end of it. To test a label, ask whether it names the whole chromatid or the end of it.\n\nCounting is the fourth source of error. A telomere is not one per chromosome. A replicated chromosome has two chromatids and so four telomeres, and the error is to count two.",
+   "claim_ids": [
+    "CLM-8223-3.1.1-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.1.1-004": 1
+   },
+   "authored_hash": "9914e6eb4190187e2ae2f6ca063692a1bef0c9d736e5f538554e555ea93b7116"
+  },
+  {
+   "block_id": "3.1.1-b5",
+   "block_type": "plain_explanation",
+   "heading": "Why mitosis is important",
+   "text": "Mitosis is the division of a nucleus to give two nuclei with the same number and kind of chromosomes as the parent nucleus. It is followed by cytokinesis, which divides the cytoplasm, so one cell becomes two.\n\nThe two cells are genetically identical for a reason that can be traced step by step. DNA is replicated before mitosis begins, so each chromosome already consists of two identical sister chromatids. During mitosis the chromatids are separated, and one chromatid from each chromosome goes to each end of the cell. Each new nucleus therefore receives one copy of every chromosome, and the copies are identical.\n\nGenetically identical cells are what several processes need. In growth, an organism increases the number of its cells by mitosis, and each new cell has the same genes as the cell that divided. In cell replacement, cells that wear out or are lost, such as cells at the surface of the skin, are replaced by new ones with the same genes. In repair of tissues, a wound is closed by new cells that match the damaged ones. In asexual reproduction, one parent produces offspring by mitosis, as when a strawberry plant sends out runners that root and grow into new plants. These offspring are genetically identical to the parent, which is why a farmer can multiply a good variety of plant without it changing.",
+   "claim_ids": [
+    "CLM-8223-3.1.1-005",
+    "CLM-8223-3.1.1-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.1.1-005": 1,
+    "CLM-8223-3.1.1-006": 1
+   },
+   "authored_hash": "8ca3287ca2857dcb568b8b6652eddbc75f2177f8772b9c5a693148f3958245b3"
+  },
+  {
+   "block_id": "3.1.1-b6",
+   "block_type": "process",
+   "heading": "Looking at mitosis in a root tip",
+   "text": "Cells divide by mitosis in the meristem, the region a few millimetres behind the tip of a root. The root cap at the very tip is not the place to look. Roots of broad bean, Vicia faba, and onion, Allium cepa, are commonly used.\n\nIn a temporary squash preparation, the tip of a young root is cut off and softened in warm dilute acid, which makes it easy to separate the cells. It is stained so that the chromosomes show clearly, placed on a slide and covered, and then squashed gently so that the cells spread out in a layer one cell thick. Light can then pass through, and individual cells can be seen under a light microscope. A prepared slide shows the same region in a permanent form. The manipulation is learned at the bench, and the notes here cover what to look for.\n\nMost cells in the field of view are in interphase. They have a nucleus that is intact and chromosomes that cannot be seen as separate structures. A cell in mitosis is recognised from what its chromosomes are doing. In prophase they have condensed and are visible as thick structures, each made of two chromatids. In metaphase they are lined up across the equator, the plane midway between the two ends of the cell. In anaphase the chromatids have separated into two sets that move towards opposite poles, and the chromosomes are often V-shaped as they are pulled by the centromere. In telophase the chromosomes have reached the poles and are becoming thin and loosely coiled again, and in a plant cell a new cell wall begins to form between the two sets.\n\nWhen drawing a stage, draw what is seen and not what the textbook shows. Use clear single lines and no shading. Draw in proportion, make the chromosomes the size and arrangement that you see, and label with straight lines that do not cross.",
+   "claim_ids": [
+    "CLM-8223-3.1.1-007",
+    "CLM-8223-3.1.1-008",
+    "CLM-8223-3.1.1-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.1.1-007": 1,
+    "CLM-8223-3.1.1-008": 1,
+    "CLM-8223-3.1.1-009": 1
+   },
+   "authored_hash": "254da21375e2cef9af45a9995729bf76ce8b3317885ac6fb2031546f1aab9912"
+  },
+  {
+   "block_id": "3.1.1-b7",
+   "block_type": "interpretation",
+   "heading": "Counting cells in each stage",
+   "text": "A count of cells in each stage tells you how long each stage lasts relative to the others. A stage seen in many cells lasts a large share of the cycle, and a stage seen in few cells is brief. This holds when the cells are dividing at different times, as they tend to in a root tip, and it does not hold when they divide in step.\n\nThe table shows a count of 100 cells in an onion root tip. The numbers are ours.\n\n| Stage | Number of cells |\n|---|---|\n| Interphase | 78 |\n| Prophase | 12 |\n| Metaphase | 4 |\n| Anaphase | 2 |\n| Telophase | 4 |\n\nThe total is 78 + 12 + 4 + 2 + 4 = 100 cells. Interphase is the stage of 78 cells, so it is the longest. Among the stages of mitosis, prophase is seen most often and anaphase least often, so anaphase is the briefest. If the whole cycle took 20 hours, the time in a stage would be its fraction of the cells multiplied by 20 hours. For anaphase this is 2 ÷ 100 × 20 = 0.4 hours, which is 24 minutes.",
+   "claim_ids": [
+    "CLM-8223-3.1.1-008",
+    "CLM-8223-3.1.1-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.1.1-008": 1,
+    "CLM-8223-3.1.1-012": 1
+   },
+   "authored_hash": "ae54ea3a4dc221d0aede601d0bb296de9d6b57aac0aad6eac01544d9ad26b9f2"
+  },
+  {
+   "block_id": "3.1.1-b8",
+   "block_type": "process",
+   "heading": "The mitotic cell cycle",
+   "text": "The mitotic cell cycle is the series of events by which a cell grows and divides to give two cells. It has three parts in order: interphase, mitosis and cytokinesis. The two daughter cells then begin interphase again, so the cycle repeats.\n\nInterphase is the longest part and has three phases. In G1 the cell grows after the division that made it. It makes proteins and organelles, and it builds up what is needed for DNA replication. In S phase, the DNA is replicated, and each chromosome becomes two sister chromatids. In G2 the cell grows further and prepares for mitosis, for instance by making the proteins of the spindle, with the copied DNA already in place.\n\nMitosis follows and shares the chromatids between two nuclei. Cytokinesis then divides the cytoplasm. In an animal cell the cell surface membrane pinches inwards at the equator. In a plant cell a cell plate forms across the equator and becomes a new cell wall. The result is two cells, each with a nucleus identical to the other and to the parent nucleus.\n\nThe order matters. DNA is replicated in S phase, before mitosis, because mitosis has to share two copies of each chromosome. Growth in G1 comes first because each daughter cell begins with about half of the cytoplasm of the parent and has to grow before it can copy its DNA.\n\nData on DNA mass show the cycle. Suppose the DNA mass in one nucleus is 4 arbitrary units from 0 to 6 hours, rises to 8 units between 6 and 12 hours, stays at 8 units until 18 hours and falls to 4 units by 19 hours. The rise is DNA replication in S phase, the steady stage at 8 units is G2 and the fall is the sharing of the DNA between two nuclei by mitosis and the division of the cell.",
+   "claim_ids": [
+    "CLM-8223-3.1.1-010",
+    "CLM-8223-3.1.1-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.1.1-010": 1,
+    "CLM-8223-3.1.1-011": 1
+   },
+   "authored_hash": "0eabae0179a8866fa69bd4e3996614bbb7cbd5956164321e3ffff9480a9ecaab"
+  },
+  {
+   "block_id": "3.1.1-b9",
+   "block_type": "plain_explanation",
+   "heading": "The significance of telomeres",
+   "text": "A telomere is made of DNA, and it is copied when the chromosome is replicated. A short length of DNA at the end of each chromatid is not copied each time the DNA is replicated. The telomere therefore becomes a little shorter at each replication.\n\nThis loss would be a serious problem if the end of the chromatid carried genes, because each replication would remove part of a gene. The telomere holds no genes. It is a buffer of repeated sequence that is used up first. Each time the DNA is replicated, a little of the telomere is lost and the genes behind it are kept intact. That is how a telomere permits continued replication and prevents the loss of genes. The cell can divide many times before the loss reaches the genes.\n\nThe protection is not unlimited. After many divisions, the telomeres can become very short, and the genes next to them are then at risk. A cell with very short telomeres tends to stop dividing or to die, and this limits the number of times that most body cells divide. Telomeres are a buffer that wears down with use, not a permanent seal.",
+   "claim_ids": [
+    "CLM-8223-3.1.1-013",
+    "CLM-8223-3.1.1-014",
+    "CLM-8223-3.1.1-015"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.1.1-013": 1,
+    "CLM-8223-3.1.1-014": 1,
+    "CLM-8223-3.1.1-015": 1
+   },
+   "authored_hash": "6880d5e86acc9bd02f636811d74a4d6cdd1059f881a121c416c9316f478607f6"
+  },
+  {
+   "block_id": "3.1.1-b10",
+   "block_type": "misconception",
+   "heading": "Telomeres are not a cap that stops shortening",
+   "text": "Two errors are common. The first is to think of a telomere as a plastic or hard cap, like the tip of a shoelace. A telomere is DNA, made of a short sequence repeated many times. Because it is DNA, it takes part in replication and can be copied and lengthened or shortened. The test is to ask what a telomere is made of.\n\nThe second error is to say that a telomere stops the chromosome getting shorter. In fact the telomere itself loses a little length at each replication, and its loss protects the genes behind it. The correct idea is that the telomere gets shorter instead of the genes. The test is to ask whether the telomere shortens, and what that shortening protects.",
+   "claim_ids": [
+    "CLM-8223-3.1.1-016"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.1.1-016": 1
+   },
+   "authored_hash": "5d8fa75b425d9af9cfe736c917d3d8d39119d6b532de2f48aba29e14a97f9f0f"
+  },
+  {
+   "block_id": "3.1.1-b11",
+   "block_type": "plain_explanation",
+   "heading": "Stem cells in replacement and repair",
+   "text": "A stem cell is an unspecialised cell that divides by mitosis. Its daughter cells can become specialised, with the shape and contents needed for one job. Some daughter cells stay as stem cells, so the supply is kept and does not run out.\n\nStem cells replace and repair tissue by mitosis. In the deep layer of the skin, stem cells divide, and the daughter cells that specialise move to the surface and replace skin cells that wear away. In bone marrow, stem cells divide to give new blood cells to replace those that are lost. After a graze, the stem cells near the wound divide by mitosis, and their daughter cells specialise to become new skin cells that close the gap. Because mitosis gives genetically identical cells, the new cells match the ones they replace.",
+   "claim_ids": [
+    "CLM-8223-3.1.1-017",
+    "CLM-8223-3.1.1-018"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.1.1-017": 1,
+    "CLM-8223-3.1.1-018": 1
+   },
+   "authored_hash": "7bb551385b03a43337fd4f04660ff33d73026ae13217be8ba124c96f86d77c02"
+  },
+  {
+   "block_id": "3.1.1-b12",
+   "block_type": "plain_explanation",
+   "heading": "Uncontrolled division and tumours",
+   "text": "The cell cycle is controlled. Genes make proteins that start and stop division in response to signals, for example when tissue needs more cells or when the cell is damaged. A mutation in one of these genes can change the protein so that the cell no longer responds to the signals that restrain division. The cell then divides repeatedly by mitosis.\n\nMitosis gives genetically identical cells, so each daughter cell has the same mutation and also divides without restraint. The number of cells rises, and the mass of cells that forms is a tumour. A tumour grows when cells are made faster than cells are lost.\n\nTelomeres add a further limit. Telomerase is an enzyme that adds repeats of the telomere sequence to the ends of chromatids, so it replaces the DNA lost at each replication. It is active in stem cells and in many tumour cells, but its activity is low in most normal body cells. A cell with active telomerase avoids the shortening that would limit its divisions, and so it can keep dividing. Telomerase does not break telomeres down, and it does not speed up mitosis. It adds telomere DNA.",
+   "claim_ids": [
+    "CLM-8223-3.1.1-019",
+    "CLM-8223-3.1.1-020",
+    "CLM-8223-3.1.1-021"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.1.1-019": 1,
+    "CLM-8223-3.1.1-020": 1,
+    "CLM-8223-3.1.1-021": 1
+   },
+   "authored_hash": "df3ecb38bf58233f9a0d6c63e913e2baf5faf59799fc093e4b8b6e6bbca28ccb"
+  },
+  {
+   "block_id": "3.1.1-b13",
+   "block_type": "worked_application",
+   "heading": "Worked example: a graze and a telomere count",
+   "text": "A learner in Oshakati grazes a knee. Over a week the wound closes. The explanation has a chain of cause and effect. Stem cells at the edge of the wound divide by mitosis. Their daughter cells specialise into skin cells and fill the gap, and because mitosis gives identical cells the new cells carry the same genes as the old ones.\n\nEach stem cell divides many times, so the telomeres of its chromatids become shorter at each replication. The genes behind the telomeres are kept for a number of divisions, and the stem cell continues to divide.\n\nNow count the telomeres. A cell in G2 has 6 chromosomes. Each has two chromatids, so there are 6 × 2 = 12 chromatids. Each chromatid has a telomere at each end, so there are 12 × 2 = 24 telomeres. Before replication the same cell had 6 chromatids, and 6 × 2 = 12 telomeres.",
+   "claim_ids": [
+    "CLM-8223-3.1.1-001",
+    "CLM-8223-3.1.1-003",
+    "CLM-8223-3.1.1-013",
+    "CLM-8223-3.1.1-014",
+    "CLM-8223-3.1.1-018"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.1.1-001": 1,
+    "CLM-8223-3.1.1-003": 1,
+    "CLM-8223-3.1.1-013": 1,
+    "CLM-8223-3.1.1-014": 1,
+    "CLM-8223-3.1.1-018": 1
+   },
+   "authored_hash": "863497e21b07f486b25ba63a9afba54d348dca11a2ce024aa52d59c17090f7ce"
+  },
+  {
+   "block_id": "3.1.1-b14",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "Cell structure, including the nucleus and the centrosome, is taught in 2.2. The stages of mitosis and the behaviour of the nuclear envelope and the spindle are taught in 3.1.2. The structure of DNA and how it is replicated are taught in 3.2.1.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "82c85669947b4abc570b9e23fef85207ab57c4bad546c49b6cc3473b5681290e"
+  }
+ ]
+}

@@ -1,0 +1,536 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-2.3.2",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-2.3.2-001",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-01",
+    "OBJ-8223-2.3.2-03"
+   ],
+   "text": "Diffusion is the net movement of particles from a region of higher concentration to a region of lower concentration, down a concentration gradient, as a result of their random movement, and it needs no energy from respiration. Other things being equal the rate tends to be faster with a steeper gradient, a shorter distance, a larger surface area and a higher temperature; cell surface membranes share the same basic phospholipid bilayer, so the speed of crossing differs between cells because of distance, surface area and gradient, not membrane thickness.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 9, topic 2.3.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2022-P2-Q1a",
+     "locator": "examiner report finding on this topic",
+     "support_type": "correction"
+    },
+    {
+     "source_id": "EV-8223-2025-P2-Q1c-ii",
+     "locator": "examiner report finding on this topic",
+     "support_type": "correction"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.3.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Includes the correction for MC-8223-2.3.2-03."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.2-002",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-01"
+   ],
+   "text": "In facilitated diffusion, particles that cannot easily cross the phospholipid bilayer, such as ions and glucose, pass through channel proteins or carrier proteins in the membrane down their concentration gradient; it needs no energy from respiration, and the number of proteins can limit the rate.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 9, topic 2.3.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.3.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Channel and carrier proteins are named in the syllabus topic on membranes; this claim restates the process line."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.2-003",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-01"
+   ],
+   "text": "Active transport is the movement of particles through carrier proteins against their concentration gradient, from lower to higher concentration, using energy from respiration (ATP); it slows if respiration is blocked. Concentration figures alone do not show it: evidence needs movement against the gradient together with evidence of energy use, such as uptake falling when respiration is blocked.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 9, topic 2.3.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2021-P2-Q6a-i",
+     "locator": "examiner report finding on this topic",
+     "support_type": "correction"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.3.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Includes the correction for MC-8223-2.3.2-06."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.2-004",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-01"
+   ],
+   "text": "In endocytosis the cell surface membrane surrounds material and pinches off as a vesicle inside the cell; in exocytosis a vesicle fuses with the cell surface membrane and releases its contents outside. Both need energy from respiration. Neither is osmosis, which is the movement of water down a water potential gradient and encloses nothing in a vesicle.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 9, topic 2.3.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2024-P2-Q2c-i",
+     "locator": "examiner report finding on this topic",
+     "support_type": "correction"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.3.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Includes the correction for MC-8223-2.3.2-02."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.2-005",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-01",
+    "OBJ-8223-2.3.2-04"
+   ],
+   "text": "Osmosis is the net movement of water molecules from a region of higher water potential to a region of lower water potential through a partially permeable membrane; it continues until the water potentials are equal and needs no energy from respiration.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 9, topic 2.3.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.3.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Water movement is described in terms of water potential only, as the syllabus requires."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.2-006",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-02"
+   ],
+   "text": "A Visking tubing bag filled with glucose solution and placed in distilled water gains mass because water enters by osmosis; the bag must be rinsed and blotted dry before each weighing so that the mass change reflects water that crossed the tubing, and a bag of distilled water in distilled water acts as a control. Glucose can be shown to leave the bag by testing the water outside with Benedict's solution.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 9, topic 2.3.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.3.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Procedure is a standard school investigation; no second source checked."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.2-007",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-02",
+    "OBJ-8223-2.3.2-03"
+   ],
+   "text": "Agar cubes containing alkali and an indicator that changes colour in acid let diffusion be timed: cubes of different side placed in the same dilute acid at the same temperature lose their colour at the centre after a time that increases as the cube gets larger, because the acid has further to diffuse.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 9, topic 2.3.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.3.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard school investigation; the readings used in items are invented and labelled as ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.2-008",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-03"
+   ],
+   "text": "For a cube of side L, the surface area is 6 × L × L and the volume is L × L × L, so the surface area to volume ratio is surface area ÷ volume.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 9, topic 2.3.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.3.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Arithmetic and definitional."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.2-009",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-03"
+   ],
+   "text": "For cubes the surface area to volume ratio decreases as the size increases: doubling the side makes the surface area four times larger but the volume eight times larger, so the ratio halves (cubes of side 1 cm, 2 cm and 4 cm have ratios of 6, 3 and 1.5).",
+   "claim_type": "inference",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 9, topic 2.3.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.3.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Arithmetic, checked: 6 × 1 × 1 ÷ 1 = 6; 24 ÷ 8 = 3; 96 ÷ 64 = 1.5."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.2-010",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-03"
+   ],
+   "text": "Substances cross the cell surface membrane, so the surface area to volume ratio that matters for exchange is that of the cell, which falls as the cell grows; a large multicellular body needs exchange surfaces and a transport system because diffusion over its thickness would be too slow, whatever its habitat.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 9, topic 2.3.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2021-P2-Q1c",
+     "locator": "examiner report finding on this topic",
+     "support_type": "correction"
+    },
+    {
+     "source_id": "EV-8223-2025-P2-Q1c-ii",
+     "locator": "examiner report finding on this topic",
+     "support_type": "correction"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.3.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Includes the corrections for MC-8223-2.3.2-01 and MC-8223-2.3.2-05."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.2-011",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-03"
+   ],
+   "text": "Paramecium is a single-celled animal-like organism with no cell wall; being small it has a large surface area to volume ratio and exchanges gases by diffusion across its cell surface membrane. It is not a bacterium or a virus.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 9, topic 2.3.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2025-P2-Q1c-ii",
+     "locator": "examiner report finding on this topic",
+     "support_type": "correction"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.3.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Includes the correction for MC-8223-2.3.2-04. The biology of Paramecium beyond this is not taught here."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.2-012",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-04"
+   ],
+   "text": "Water potential is higher in pure water and falls as more solute is dissolved, so a more concentrated solution has a lower water potential; water moves by osmosis from the higher to the lower water potential, whether the surroundings are a solution or another cell.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 9, topic 2.3.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.3.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Described in terms of water potential only; no values are used."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.2-013",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-04"
+   ],
+   "text": "A plant cell in a solution of higher water potential gains water by osmosis, swells until the cell wall resists, and becomes turgid; in a solution of lower water potential it loses water, becomes flaccid, and with greater loss the cell surface membrane pulls away from the cell wall, which is plasmolysis.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 9, topic 2.3.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.3.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Terms turgid, flaccid and plasmolysis are the syllabus terms."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.2-014",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-04"
+   ],
+   "text": "An animal cell has no cell wall, so in a solution of higher water potential than its cytoplasm it gains water and can burst, and in a solution of lower water potential it loses water and shrinks.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 9, topic 2.3.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.3.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Single source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.2-015",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-05"
+   ],
+   "text": "To estimate the water potential of plant tissue, equal pieces are placed in solutions of known concentrations for the same time and the percentage change in mass is found for each; a gain means the solution had a higher water potential than the tissue, a loss means it was lower, and the concentration at which there is no change in mass has the same water potential as the tissue.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 9, topic 2.3.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.3.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard school investigation; the estimate is a concentration read from a graph, not a calculated water potential."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.2-016",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-05"
+   ],
+   "text": "Percentage change in mass is (final mass − initial mass) ÷ initial mass × 100; it is used instead of the change in mass because pieces of tissue differ slightly in their starting mass, and a mean of repeats improves reliability.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 9, topic 2.3.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.3.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Arithmetic and definitional."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.3.2-017",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-05"
+   ],
+   "text": "The concentration at which a plotted line of percentage change in mass crosses zero is an estimate whose precision is limited by the gap between the concentrations tested; narrower steps near the crossing give a better estimate.",
+   "claim_type": "inference",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 9, topic 2.3.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.3.2 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Single source."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,359 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-2.10.2",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-2.10.2-001",
+   "objective_ids": [
+    "OBJ-8223-2.10.2-01"
+   ],
+   "text": "Tar is a sticky mixture of particles in tobacco smoke that condenses on the lining of the airways and alveoli. Many of the chemicals in tar are carcinogens, substances that can cause cancer. Tar and its carcinogens are separate from nicotine and carbon monoxide, which pass into the blood.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2021-P1-Q30",
+     "locator": "assessment-evidence/assessment_evidence.json",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.2 under standard v0.2.0-draft. Single source: our own statement of standard biology, consistent with the syllabus line it restates; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own biology).",
+    "Syllabus wording and biology differ slightly: the syllabus lists tar and carcinogens side by side, but in standard biology the carcinogens of tobacco smoke are largely carried in the tar, so they are taught together here and tar is not treated as a second, separate cause of cancer."
+   ],
+   "revision": 1
+  },
+  {
+   "claim_id": "CLM-8223-2.10.2-002",
+   "objective_ids": [
+    "OBJ-8223-2.10.2-01"
+   ],
+   "text": "Carcinogens from tar reach the epithelial cells lining the bronchi and can damage their DNA, causing mutations. A mutation in a gene that controls cell division may let the cell divide out of control, and over years of smoking further mutations build up, so a tumour forms. The tumour can block a bronchus, destroy lung tissue and reduce the surface area for gas exchange, and cells that break away can start tumours elsewhere.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.2 under standard v0.2.0-draft. Single source: our own statement of standard biology, consistent with the syllabus line it restates; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own biology).",
+    "Mutations accumulating over years is standard cancer biology; it explains why lung cancer tends to appear after long exposure."
+   ],
+   "revision": 1
+  },
+  {
+   "claim_id": "CLM-8223-2.10.2-003",
+   "objective_ids": [
+    "OBJ-8223-2.10.2-01"
+   ],
+   "text": "Chronic obstructive pulmonary disease (COPD) is a long-term disease in which airflow is obstructed and the damage is not fully reversible; it includes chronic bronchitis and emphysema. In chronic bronchitis, tar and other irritants paralyse and then destroy the cilia, goblet cells enlarge and make more mucus, the mucus is not swept out and collects in the airways, the smoker coughs persistently, bacteria multiply so infection and inflammation follow, and the narrowed airways restrict airflow.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2025-P2-Q2b-i",
+     "locator": "assessment-evidence/assessment_evidence.json",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.2 under standard v0.2.0-draft. Single source: our own statement of standard biology, consistent with the syllabus line it restates; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own biology).",
+    "Syllabus wording and biology differ slightly: the syllabus attributes COPD to tar; in standard biology COPD results from the irritants in smoke as a whole (tar, other particles and gases) acting over years, so the claim says tar and other irritants. Asthma is a separate condition and is not part of COPD."
+   ],
+   "revision": 1
+  },
+  {
+   "claim_id": "CLM-8223-2.10.2-004",
+   "objective_ids": [
+    "OBJ-8223-2.10.2-01"
+   ],
+   "text": "In emphysema, tar and other irritants in smoke inflame the lung tissue and white blood cells collect there and release the enzyme elastase, which digests the elastic fibres in the alveolar walls. The alveoli lose their elastic recoil, so air is trapped on breathing out, and their walls break down so that neighbouring alveoli merge into fewer, larger air spaces with a smaller total surface area for gas exchange; less oxygen diffuses into the blood and the person is breathless.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2025-P2-Q2b-ii",
+     "locator": "assessment-evidence/assessment_evidence.json",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.2 under standard v0.2.0-draft. Single source: our own statement of standard biology, consistent with the syllabus line it restates; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own biology).",
+    "Same attribution note as the chronic bronchitis claim: irritants in smoke as a whole, with tar named as the syllabus names it."
+   ],
+   "revision": 1
+  },
+  {
+   "claim_id": "CLM-8223-2.10.2-005",
+   "objective_ids": [
+    "OBJ-8223-2.10.2-02"
+   ],
+   "text": "Within minutes of smoking, nicotine stimulates the nervous system so that the heart rate increases, and it narrows the small arteries (arterioles), which raises blood pressure. Nicotine also tends to make platelets stickier, which raises the chance that a blood clot forms. These effects last for minutes to hours, so they are short-term effects.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2024-P1-Q34",
+     "locator": "assessment-evidence/assessment_evidence.json",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.2 under standard v0.2.0-draft. Single source: our own statement of standard biology, consistent with the syllabus line it restates; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.7
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own biology).",
+    "Heart rate and blood pressure effects are well established. The effect on platelet stickiness is stated in many teaching sources but the evidence is less consistent, so it is written as a tendency and left unverified.",
+    "The body's nervous and hormonal control of the heart is outside this syllabus, so the mechanism is given only as nicotine stimulating the nervous system."
+   ],
+   "revision": 1
+  },
+  {
+   "claim_id": "CLM-8223-2.10.2-006",
+   "objective_ids": [
+    "OBJ-8223-2.10.2-02"
+   ],
+   "text": "Carbon monoxide, formed when tobacco burns with too little oxygen, diffuses across the alveolar wall into red blood cells and binds to haemoglobin much more strongly than oxygen does, more than 200 times as strongly, forming carboxyhaemoglobin, which cannot carry oxygen. Each litre of blood then carries less oxygen, so the tissues, including the heart muscle, receive less oxygen.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2024-P1-Q34",
+     "locator": "assessment-evidence/assessment_evidence.json",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.2 under standard v0.2.0-draft. Single source: our own statement of standard biology, consistent with the syllabus line it restates; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own biology).",
+    "The affinity figure is given as more than 200 times, a commonly quoted lower bound; the exact ratio depends on conditions."
+   ],
+   "revision": 1
+  },
+  {
+   "claim_id": "CLM-8223-2.10.2-007",
+   "objective_ids": [
+    "OBJ-8223-2.10.2-02"
+   ],
+   "text": "Together, nicotine and carbon monoxide leave the heart working harder while its own oxygen supply falls: nicotine raises heart rate and blood pressure, and carbon monoxide lowers the oxygen content of the blood so the heart tends to beat faster to deliver more blood. Damage to artery walls over years is a longer-term effect.",
+   "claim_type": "inference",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.2 under standard v0.2.0-draft. Single source: our own statement of standard biology, consistent with the syllabus line it restates; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own biology).",
+    "Each substance has its own mechanism; the combined statement is our synthesis of the two claims above."
+   ],
+   "revision": 1
+  },
+  {
+   "claim_id": "CLM-8223-2.10.2-008",
+   "objective_ids": [
+    "OBJ-8223-2.10.2-03"
+   ],
+   "text": "Planning a questionnaire survey of hay fever or asthma means stating the question, defining each condition and a time period in the questionnaire so that each respondent answers the same question, using short closed questions, choosing a random sample large enough to represent the population, testing the questionnaire on a few people first, and obtaining permission and keeping answers anonymous.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.2 under standard v0.2.0-draft. Single source: our own statement of standard biology, consistent with the syllabus line it restates; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own biology).",
+    "Planning, recording and interpretation are what a written paper can test; the survey itself is practical work done in class."
+   ],
+   "revision": 1
+  },
+  {
+   "claim_id": "CLM-8223-2.10.2-009",
+   "objective_ids": [
+    "OBJ-8223-2.10.2-03"
+   ],
+   "text": "Recording a questionnaire survey means preparing a results table before collecting the questionnaires, numbering each completed questionnaire, entering each response exactly as given in a tally, and recording the number of people surveyed as well as the number reporting each condition.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.2 under standard v0.2.0-draft. Single source: our own statement of standard biology, consistent with the syllabus line it restates; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own biology)."
+   ],
+   "revision": 1
+  },
+  {
+   "claim_id": "CLM-8223-2.10.2-010",
+   "objective_ids": [
+    "OBJ-8223-2.10.2-03"
+   ],
+   "text": "The proportion of the sample reporting a condition is calculated as number reporting ÷ number surveyed × 100 and written as a percentage. Samples of different sizes are compared using these percentages and not the raw counts.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.2 under standard v0.2.0-draft. Single source: our own statement of standard biology, consistent with the syllabus line it restates; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own biology).",
+    "Syllabus wording and biology differ slightly: the syllabus says incidence, which strictly means new cases in a stated period. A questionnaire that asks about new diagnoses in a stated period measures incidence; one that asks who currently has or has ever had the condition measures prevalence, the proportion affected. The notes teach the distinction and word the questionnaire for new diagnoses in twelve months."
+   ],
+   "revision": 1
+  },
+  {
+   "claim_id": "CLM-8223-2.10.2-011",
+   "objective_ids": [
+    "OBJ-8223-2.10.2-03"
+   ],
+   "text": "A survey result describes the sample, and it is a good estimate of the population only if the sample was chosen at random and is large enough. Answers are self-reported and may be inaccurate, hay fever is seasonal so the time of year of the survey affects the result, and a difference between two groups shows an association but does not show its cause.",
+   "claim_type": "evaluative",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.2 under standard v0.2.0-draft. Single source: our own statement of standard biology, consistent with the syllabus line it restates; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own biology)."
+   ],
+   "revision": 1
+  }
+ ]
+}

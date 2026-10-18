@@ -1,0 +1,395 @@
+{
+ "dataset_id": "ITEMS-8223-3.1.2",
+ "topic_id": "3.1.2",
+ "items": [
+  {
+   "item_id": "ITEM-8223-3.1.2-001-PROC",
+   "objective_ids": [
+    "OBJ-8223-3.1.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.2-001",
+    "CLM-8223-3.1.2-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 3,
+   "prompt": "Describe the behaviour of the chromosomes in a dividing animal cell, in order, from prophase to the end of anaphase.",
+   "canonical_answer": "First, in prophase, the chromosomes condense and become visible, each as two sister chromatids joined at the centromere. Then, in metaphase, they line up across the equator of the cell, attached to spindle fibres at their centromeres. Finally, in anaphase, the centromeres divide and the shortening spindle fibres pull the sister chromatids to opposite poles. The result is two identical sets of chromosomes, one at each pole.",
+   "marking_guidance": [
+    "3 marks, one for each stage in the correct order: prophase (chromosomes condense and become visible as two chromatids), metaphase (lined up at the equator on the spindle), anaphase (centromeres divide, chromatids pulled to opposite poles).",
+    "The sequence is the point: a stage described out of order, or the stages named without what the chromosomes do, earns no mark. The end result, two sets of chromosomes at the poles, is a further creditworthy point but the tariff is 3."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 structural exemplar from the topic 3.1.2 claim ledger. Illustrative and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.2-001": 1,
+    "CLM-8223-3.1.2-002": 1
+   },
+   "authored_hash": "b888eb78be6df1203e7076ec4729b7731d7126865c43b088d7289735186d075d"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.2-002-MECH",
+   "objective_ids": [
+    "OBJ-8223-3.1.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.2-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Describe how the spindle moves the sister chromatids to opposite poles during anaphase.",
+   "canonical_answer": "Spindle fibres are attached to each chromosome at its centromere. The centromeres divide, then the spindle fibres shorten, which pulls each chromatid towards the pole it faces, with the centromere leading.",
+   "marking_guidance": [
+    "2 marks: the spindle fibres shorten, which pulls the chromatids towards the poles (the mechanism); the fibres are attached at the centromeres, which divide first (what is pulled, and where).",
+    "A learner who writes that the fibres push the chromatids apart has the mechanism the wrong way round and earns neither mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 structural exemplar from the topic 3.1.2 claim ledger. Illustrative and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.2-002": 1
+   },
+   "authored_hash": "6f65c2dddac3d0ab4ae3a68390b57626696ea56ae95b50a5388a0557e53763f4"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.2-003-APP",
+   "objective_ids": [
+    "OBJ-8223-3.1.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.2-002",
+    "CLM-8223-3.1.2-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A cell from the root tip of a mahangu seedling shows two groups of thin, uncoiled chromosomes at opposite ends of the cell and a new cell plate forming across the middle. Explain why this cell is in telophase and not anaphase.",
+   "canonical_answer": "Because the chromosomes have reached the poles and are decondensing into chromatin, the cell is past anaphase, when they would still be condensed and moving apart. The cell plate forming across the middle shows that cytokinesis is under way, which follows the separation of the chromosomes, so the cell is in telophase.",
+   "marking_guidance": [
+    "2 marks, each tied to the given information: the chromosomes are at the poles and decondensing, because anaphase chromosomes are still condensed and moving; the cell plate is forming, which belongs to the end of division.",
+    "An answer that names telophase without using what this cell shows earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 structural exemplar from the topic 3.1.2 claim ledger. Illustrative and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.2-002": 1,
+    "CLM-8223-3.1.2-004": 1
+   },
+   "authored_hash": "a2ab29d9b0f535a327c7c0dbc1e8f82b1318c62337f43ba270086f702342b9bb"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.2-006-MISCON",
+   "objective_ids": [
+    "OBJ-8223-3.1.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.2-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "A learner says that the chromosomes condense again in telophase, so the two new nuclei are ready to divide. Explain the error.",
+   "canonical_answer": "The error is a confusion of telophase with prophase. In fact the chromosomes decondense in telophase: they uncoil into chromatin as the nuclear envelope re-forms around each group. They condense again at the start of the next division, in prophase. The test is to ask whether the chromosomes are becoming shorter and thicker (condensing, as in prophase) or longer and thinner (decondensing, as in telophase). In telophase they are at the poles and thinning.",
+   "marking_guidance": [
+    "2 marks: the error named, that chromosomes decondense instead of condensing in telophase (1); the correct idea, that they condense again only when the cell next divides, in prophase, or the test that separates the two (1).",
+    "The card is a discrimination between the two directions of change, not a repeat of the definition of telophase."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 structural exemplar from the topic 3.1.2 claim ledger. Illustrative and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.2-005": 1
+   },
+   "authored_hash": "4811911ab74ae5a953c3ad0b283d7951af9e949db9db4bc876c5df5169873cd2"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.2-007-DEF",
+   "objective_ids": [
+    "OBJ-8223-3.1.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.2-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 4,
+   "prompt": "State what is meant by metaphase.",
+   "canonical_answer": "Metaphase is the stage of mitosis in which the chromosomes are lined up across the equator of the cell, attached to the spindle fibres at their centromeres.",
+   "marking_guidance": [
+    "1 mark: the key words, chromosomes lined up at the equator of the cell. The definition is a position; separating chromatids describe anaphase, not metaphase."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 structural exemplar from the topic 3.1.2 claim ledger. Illustrative and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.2-001": 1
+   },
+   "authored_hash": "5ffc3e9f754ad53166b3d9743f94ef97dc669d07e4c35918bbec761bcd2ec823"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.2-004-INTERP",
+   "objective_ids": [
+    "OBJ-8223-3.1.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.2-006",
+    "CLM-8223-3.1.2-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A diagram of a dividing animal cell shows a spindle, no nuclear envelope, and twelve V-shaped chromosomes, six moving towards each pole with the centromere leading. Describe the features in the diagram that show the cell is in anaphase.",
+   "canonical_answer": "The chromosomes are in two separate groups, one moving to each pole, so the sister chromatids have separated. They are V-shaped because the spindle fibres pull at the centromere while the arms trail behind. The nuclear envelope is absent, which fits a stage between the end of prophase and telophase.",
+   "marking_guidance": [
+    "2 marks from three points: the chromosomes in two groups moving to opposite poles (so the chromatids have separated); V-shaped with the centromere leading; no nuclear envelope.",
+    "Each point must be read from the diagram and shows the stage; naming anaphase alone earns no mark because the question asks for the features."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 structural exemplar from the topic 3.1.2 claim ledger. Illustrative and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.2-006": 1,
+    "CLM-8223-3.1.2-007": 1
+   },
+   "authored_hash": "2e3e0dead9017af31becda5951568f2132177cba77ce8378d2933c70f260be0b"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.2-005-INTERP",
+   "objective_ids": [
+    "OBJ-8223-3.1.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.2-006",
+    "CLM-8223-3.1.2-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A photomicrograph of a plant root-tip cell shows eight X-shaped chromosomes in a straight line across the middle of the cell, with no nuclear envelope. Describe what the photomicrograph shows that identifies metaphase rather than anaphase.",
+   "canonical_answer": "The chromosomes are in a line across the equator, not in two groups moving apart. Each is X-shaped, which means its two sister chromatids are still joined at the centromere; in anaphase they would be separate and V-shaped.",
+   "marking_guidance": [
+    "2 marks: lined up at the equator, not moving to opposite poles; X-shaped, so the chromatids are still joined at the centromere.",
+    "The photomicrograph gives the evidence; a value of 8 chromosomes does not by itself separate metaphase from other stages and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 structural exemplar from the topic 3.1.2 claim ledger. Illustrative and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.2-006": 1,
+    "CLM-8223-3.1.2-007": 1
+   },
+   "authored_hash": "3d5fe384423bd306f1b26563fec067b072f7601b2ba2e66976d47257b9fe69d5"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.2-P01",
+   "objective_ids": [
+    "OBJ-8223-3.1.2-01",
+    "OBJ-8223-3.1.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.2-001",
+    "CLM-8223-3.1.2-002",
+    "CLM-8223-3.1.2-003",
+    "CLM-8223-3.1.2-004",
+    "CLM-8223-3.1.2-005",
+    "CLM-8223-3.1.2-006",
+    "CLM-8223-3.1.2-007"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": null,
+   "mark_tariff": 12,
+   "difficulty": 3,
+   "prompt": "Twelve questions. Choose one option for each.\n\n1. Which stage of mitosis has the chromosomes lined up across the equator of the cell?\nA  prophase\nB  metaphase\nC  anaphase\nD  telophase\n\n2. Which statement describes the nuclear envelope during mitosis?\nA  It stays intact while the chromosomes separate inside it.\nB  It breaks down in anaphase and re-forms in prophase.\nC  It breaks down by the end of prophase and re-forms in telophase.\nD  It re-forms in metaphase and breaks down in telophase.\n\n3. To which part of a chromosome are the spindle fibres attached?\nA  the centrosome\nB  the end of a chromatid\nC  the nucleolus\nD  the centromere\n\n4. What moves the sister chromatids to the poles in anaphase?\nA  spindle fibres that lengthen and push the chromatids apart\nB  spindle fibres that shorten and pull at the centromeres\nC  the chromatids shortening along their own length\nD  the nuclear envelope pulling them apart\n\n5. How is the cytoplasm divided in an animal cell?\nA  The cell surface membrane pinches inwards at the equator.\nB  A cell plate forms across the equator.\nC  The nuclear envelope grows outwards to the cell edge.\nD  The spindle fibres form a new cell wall.\n\n6. A cell has 8 chromosomes at the start of prophase, each made of two sister chromatids. How many chromatids are present at metaphase?\nA  8\nB  16\nC  4\nD  32\n\n7. The same cell completes anaphase. How many chromosomes are at each pole at the end of anaphase?\nA  4\nB  16\nC  8\nD  2\n\n8. A diagram shows two groups of V-shaped chromosomes moving towards opposite ends of a cell, with no nuclear envelope. Which stage does it show?\nA  prophase\nB  metaphase\nC  telophase\nD  anaphase\n\n9. A photomicrograph shows a plant cell with two groups of thin, uncoiled chromosomes at opposite ends, a nuclear envelope forming around each group, and a cell plate across the middle. Which stage does it show?\nA  telophase\nB  anaphase\nC  metaphase\nD  prophase\n\n10. Which statement about the chromosomes at the end of mitosis is correct?\nA  They condense and become shorter and thicker.\nB  They are broken down and replaced.\nC  They decondense into chromatin.\nD  They are copied again before the nuclei form.\n\n11. Which feature is seen in prophase?\nA  The chromosomes are in a line across the equator.\nB  The chromosomes decondense into chromatin.\nC  The centromeres divide.\nD  The chromosomes condense and each is visible as two chromatids.\n\n12. Which difference is seen when a plant cell and an animal cell divide their cytoplasm?\nA  A spindle forms in the plant cell but not in the animal cell.\nB  The chromosomes decondense in the animal cell but not in the plant cell.\nC  A cell plate forms in the plant cell, whereas the cell surface membrane of the animal cell pinches inwards.\nD  The nuclear envelope re-forms in the animal cell but not in the plant cell.",
+   "canonical_answer": "Key: 1 B, 2 C, 3 D, 4 B, 5 A, 6 B, 7 C, 8 D, 9 A, 10 C, 11 D, 12 C.\n1. The chromosomes line up at the equator in metaphase (B). A is the stage where they condense and are not yet aligned; C is the stage where they separate; D is the stage where they are at the poles.\n2. The envelope breaks down by the end of prophase and re-forms in telophase (C). A is an error from picturing mitosis inside an intact nucleus; B puts the breakdown and re-forming in the wrong stages; D reverses the order.\n3. Spindle fibres attach at the centromere (D). A is the centrosome, which organises the spindle (a near-neighbour term); B is the end of a chromatid, not an attachment point; C is the nucleolus, which lies inside the nucleus.\n4. The fibres shorten and pull at the centromeres (B). A has the direction of force reversed; C wrongly makes the chromatids move themselves; D gives the nuclear envelope a role it does not have in separation.\n5. In an animal cell the cell surface membrane pinches inwards (A). B is the plant method, a cell plate; C and D invent roles for the nuclear envelope and spindle that they do not have.\n6. 8 chromosomes × 2 chromatids: 8 × 2 = 16 (B). A counts chromosomes, not chromatids; C halves the number; D doubles it twice.\n7. The 16 chromatids become separate chromosomes and are shared equally, 16 ÷ 2 = 8 at each pole (C). B is the total number in the whole cell, not the number at one pole; A halves the count again; D has no basis.\n8. V-shaped chromosomes moving to opposite ends is anaphase (D). A has chromosomes scattered, not moving apart; B has them in a line; C has them at the poles and thinning.\n9. Chromosomes at the poles, uncoiled, with a nuclear envelope re-forming and a cell plate, is telophase (A). B has condensed chromosomes still moving; C has them in a line; D has no nuclear envelope and condensing chromosomes.\n10. The chromosomes decondense into chromatin in telophase (C). A is the register error, saying they condense again at the end of mitosis; B and D confuse the end of mitosis with other processes: the chromosomes are not broken down, and DNA is copied before mitosis begins, not at its end.\n11. In prophase the chromosomes condense and each is visible as two chromatids (D). A is metaphase; B is telophase; C is anaphase.\n12. A cell plate forms in the plant cell and the cell surface membrane pinches in the animal cell (C). A reverses the spindle's presence, since both cell types form a spindle; B and D confuse the nuclei with the cytoplasm: chromosomes decondense and the envelope re-forms in both.",
+   "marking_guidance": [
+    "The key: one mark per correct option, twelve marks in all; about half the questions test recall and half test application to a described diagram, photomicrograph, sequence or count.",
+    "Each distractor is a named error: a stage out of order, centromere and centrosome confused, the plant method given to an animal cell, chromosomes condensing at the end of mitosis (the misconception register first), chromatids counted as chromosomes."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 structural exemplar from the topic 3.1.2 claim ledger. Illustrative and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.2-001": 1,
+    "CLM-8223-3.1.2-002": 1,
+    "CLM-8223-3.1.2-003": 1,
+    "CLM-8223-3.1.2-004": 1,
+    "CLM-8223-3.1.2-005": 1,
+    "CLM-8223-3.1.2-006": 1,
+    "CLM-8223-3.1.2-007": 1
+   },
+   "authored_hash": "8bfe0ee710c08992b0f1438e2ebab10d318a0783440d8b0104096b31b7c3f8b1"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.2-P02",
+   "objective_ids": [
+    "OBJ-8223-3.1.2-01",
+    "OBJ-8223-3.1.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.2-001",
+    "CLM-8223-3.1.2-002",
+    "CLM-8223-3.1.2-003",
+    "CLM-8223-3.1.2-007"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "State",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "A class in Katima Mulilo examined a squash of mahangu root tip under a light microscope. These are our descriptions of three cells.\n\n| Cell | What can be seen |\n|---|---|\n| A | Eight X-shaped chromosomes in a line across the middle of the cell; no nuclear envelope |\n| B | Two groups of V-shaped chromosomes, one near each end of the cell; no nuclear envelope |\n| C | Two groups of thin, uncoiled chromosomes at opposite ends; a nuclear envelope around each group; a new cell plate across the middle |\n\n(a) State the stage of mitosis shown by cell A, and name the part of each chromosome to which the spindle fibres are attached. [2]\n(b) Explain why the chromosomes in cell B are V-shaped. [2]\n(c) Describe what happens to the nuclear envelope between cell A and cell C. [2]\n(d) Suggest why the chromosomes in cell C look thinner than those in cell B. [2]",
+   "canonical_answer": "(a) Metaphase; the centromere.\n(b) The spindle fibres are attached at the centromere, which therefore leads as they pull each chromatid to a pole, while the arms trail behind, so each chromosome looks V-shaped.\n(c) The nuclear envelope has already broken down by cell A, by the end of prophase, and it stays absent through anaphase. It re-forms around each group of chromosomes in telophase, giving two nuclei, as in cell C.\n(d) In telophase the chromosomes decondense, uncoiling into chromatin, so they become longer and thinner than the condensed chromosomes of anaphase.",
+   "marking_guidance": [
+    "Marks and points: (a) 1 mark for metaphase, 1 mark for the centromere; (b) 2 marks from three points: fibres attached at the centromere, the centromere leads, the arms trail; (c) 2 marks from three points: breakdown by the end of prophase, absent until telophase, re-forms around each group.",
+    "(d) 2 marks from three points: the chromosomes decondense, into chromatin, because telophase follows anaphase, so they uncoil and thin. Parts (a) and (c) credit AO A (4 marks); parts (b) and (d) credit AO B (4 marks). The reason must use the cells described, not a general statement."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 structural exemplar from the topic 3.1.2 claim ledger. Illustrative and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.2-001": 1,
+    "CLM-8223-3.1.2-002": 1,
+    "CLM-8223-3.1.2-003": 1,
+    "CLM-8223-3.1.2-007": 1
+   },
+   "authored_hash": "79540ff21841cc79c4a85e15564454730c310bcd878f0b260b718ce10adb1f1d"
+  }
+ ]
+}

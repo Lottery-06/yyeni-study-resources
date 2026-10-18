@@ -1,0 +1,2199 @@
+{
+ "topic_number": "4.4",
+ "topic_title": "Analysis, conclusions and evaluation",
+ "topic": "4.4 Analysis, conclusions and evaluation",
+ "qualification": "Namibia Senior Secondary Certificate Advanced Subsidiary level (NSSCAS) Biology 8223 (syllabus vNIED 2020, examined 2021-2025)",
+ "item_count": 48,
+ "items": [
+  {
+   "item_id": "ITEM-8223-4.4-001-DEF",
+   "objective_ids": [
+    "OBJ-8223-4.4-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-001",
+    "CLM-8223-4.4-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by the number of significant figures in a measured value.",
+   "canonical_answer": "The significant figures of a value are the digits that carry information about its size, counted from the first digit that is not zero. For example 0.0450 has three significant figures.",
+   "marking_guidance": [
+    "1 mark: the statement of the definition with its key words, digits that carry information about the size and counted from the first digit that is not zero. A statement that counts all the digits after the decimal point, or all the zeros, is a different term (decimal places) and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-001": 1,
+    "CLM-8223-4.4-003": 1
+   },
+   "authored_hash": "3f6d2acac15e1e18ace3398299fcbff1c59b7d24691aa7e4f51255a887f5cb32",
+   "objective_titles": [
+    "Calculate an answer to the correct number of significant figures from results or data."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-002-CALC",
+   "objective_ids": [
+    "OBJ-8223-4.4-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-001",
+    "CLM-8223-4.4-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A learner in a school garden near Rundu measures the water taken up by a leafy shoot in a potometer. The shoot takes up 2.9 cm³ of water in 7.0 min (these are our own invented readings). Calculate the mean rate of water uptake, giving the unit and the number of significant figures you use.",
+   "canonical_answer": "Rate = volume ÷ time, so 2.9 ÷ 7.0 = 0.41428. Both measurements have two significant figures, so the rate is 0.41 cm³ min⁻¹ to two significant figures.",
+   "marking_guidance": [
+    "Working: the equation rate = volume ÷ time and the substitution 2.9 ÷ 7.0, 1 mark (the first step).",
+    "Final answer: 0.41 cm³ min⁻¹ with its unit and two significant figures, 1 mark; 0.414 is accepted as one more than the measurements. The calculator display 0.4142857 is unrounded and earns no mark, and an answer with no unit earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-001": 1,
+    "CLM-8223-4.4-002": 1
+   },
+   "authored_hash": "23714c0a880e9a73f91c9f7c086d578e28e419ccbae5367ccf5ddf7618006a32",
+   "objective_titles": [
+    "Calculate an answer to the correct number of significant figures from results or data."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-003-CALC",
+   "objective_ids": [
+    "OBJ-8223-4.4-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-001",
+    "CLM-8223-4.4-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A student counts 47 bubbles of carbon dioxide released from a mixture of yeast and sugar solution in 2.5 min (our own invented count). Calculate the number of bubbles released per minute, giving the unit and the number of significant figures you use.",
+   "canonical_answer": "Rate = number of bubbles ÷ time, so 47 ÷ 2.5 = 18.8. Both measurements have two significant figures, so the rate is 19 bubbles min⁻¹ to two significant figures.",
+   "marking_guidance": [
+    "Working: the formula number ÷ time and the substitution 47 ÷ 2.5, 1 mark.",
+    "Final answer: 19 bubbles min⁻¹ with its unit and two significant figures, 1 mark; 18.8 is accepted as one more than the measurements. An answer that gives 18.80 claims more accuracy than the data support and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-001": 1,
+    "CLM-8223-4.4-002": 1
+   },
+   "authored_hash": "eaf276a7c83666db8d9899b25790a06c9fbb533a190ede7c4507da1b5eef0907",
+   "objective_titles": [
+    "Calculate an answer to the correct number of significant figures from results or data."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-004-INTERP",
+   "objective_ids": [
+    "OBJ-8223-4.4-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "The line of best fit on a graph of the mass of a bean seedling (our own invented values) is straight between 0 days and 10 days. It passes through the points (0 days, 12 mg) and (10 days, 32 mg), and the mass rises steadily between them. Describe how the mass of the seedling at 6 days is found from the graph, and state its value.",
+   "canonical_answer": "Find 6 days on the horizontal axis and draw a line upward to the line of best fit, then draw a line across to the vertical axis and read the mass. The line rises 20 mg in 10 days, which is 2 mg per day, so the mass at 6 days is 12 + 6 × 2 = 24 mg.",
+   "marking_guidance": [
+    "2 marks from the graph reading: the method, a line up from 6 days to the line of best fit and across to the mass axis (1); the value 24 mg with its unit (1).",
+    "The data in the table of points show that the value must lie between 12 and 32 mg, so a reading outside that range means the lines were drawn wrongly."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-004": 1
+   },
+   "authored_hash": "90e2b85d348c7e5b2a33b1d1176cea08c3c99ad7c4b7a6bc11e8a3a884487869",
+   "objective_titles": [
+    "Find an unknown value from graph coordinates, intercepts or extrapolation."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-005-INTERP",
+   "objective_ids": [
+    "OBJ-8223-4.4-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A learner collects oxygen from pondweed and records the volume at 2, 4, 6, 8 and 10 min as 5, 10, 15, 20 and 25 cm³ (our own invented readings). The points lie on a straight line through the origin. Describe how extrapolation is used to find the time at which 30 cm³ would be collected, and state that time.",
+   "canonical_answer": "Extend the straight line beyond 10 min until it reaches 30 cm³ on the vertical axis, then read down to the time axis. The volume increases by 2.5 cm³ each minute, so 30 ÷ 2.5 = 12 min. The value is a prediction beyond the data and is less certain than one read inside the range.",
+   "marking_guidance": [
+    "2 marks: the method, extending the line beyond the plotted data and reading across from 30 cm³ and down to the time axis (1); the value 12 min with its unit (1).",
+    "Full credit does not need the caution about certainty, but it shows that the answer treats the extended section as less certain than the plotted data, since the pattern may not continue."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-005": 1
+   },
+   "authored_hash": "deda9c6a5ea45f3f04542b19e3e759367eb5a7ba8274f559ed3f4ad0fdaed830",
+   "objective_titles": [
+    "Find an unknown value from graph coordinates, intercepts or extrapolation."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-006-INTERP",
+   "objective_ids": [
+    "OBJ-8223-4.4-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-006",
+    "CLM-8223-4.4-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner heats equal volumes of Benedict's solution with 1 cm³ of glucose standards of 0.0, 1.0, 2.0, 4.0 and 8.0 per cent, with the same heating time for each. The colours are blue, green, yellow, orange and brick-red in that order. A solution of unknown glucose concentration, tested in the same way, gives a colour between the yellow and the orange. Describe how the learner estimates the concentration of the unknown, and state the estimate.",
+   "canonical_answer": "The colour of the unknown is compared with the colours of the standards, which were tested in the same way. The unknown lies between yellow (2.0 per cent) and orange (4.0 per cent), so its glucose concentration is estimated to lie between 2.0 and 4.0 per cent.",
+   "marking_guidance": [
+    "2 marks from the results: comparing the colour of the unknown with standards of known concentration tested in the same way (1); the estimate given as a range, between 2.0 and 4.0 per cent glucose, which shows the concentration lies between the two standards (1).",
+    "A single exact value with no range, such as 3.0 per cent stated as certain, goes beyond what colours ranked by eye can show. The values are read from the graph or table of data."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-006": 1,
+    "CLM-8223-4.4-007": 1
+   },
+   "authored_hash": "fd762d5f7aaa2873a9e2ca94f5294ff2bf6e31bb53bb6d5b9ada65e0047ef4dc",
+   "objective_titles": [
+    "Estimate the concentration of an unknown solution from qualitative results."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-007-INTERP",
+   "objective_ids": [
+    "OBJ-8223-4.4-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-006",
+    "CLM-8223-4.4-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Starch solutions of 0.2, 0.6 and 1.0 per cent are each tested with iodine solution and produce blue colours that are pale, medium and dark blue-black. An unknown starch solution tested in the same way is darker than the medium blue and paler than the dark blue-black. Describe why this result gives the concentration of the unknown only as a range, and state the range.",
+   "canonical_answer": "The colours are ranked by eye against standards that are 0.4 per cent apart, so the unknown can only be placed between two standards and cannot be matched to an exact value. It is darker than the 0.6 per cent standard and paler than the 1.0 per cent standard, so its concentration lies between 0.6 and 1.0 per cent.",
+   "marking_guidance": [
+    "2 marks: the reason, colours are compared by eye and ranked against standards a fixed interval apart, so the data cannot give an exact value (1); the range 0.6 to 1.0 per cent starch (1).",
+    "An answer that gives the range with no reason, or the reason with no range, earns 1 mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-006": 1,
+    "CLM-8223-4.4-007": 1
+   },
+   "authored_hash": "1061b8d2849615545b06e904e02dd479950d374327be4e53a451d45c43200b61",
+   "objective_titles": [
+    "Estimate the concentration of an unknown solution from qualitative results."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-008-APP",
+   "objective_ids": [
+    "OBJ-8223-4.4-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-006",
+    "CLM-8223-4.4-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "In a Benedict's test, the colour of an unknown glucose solution lies between the 2.0 per cent and the 4.0 per cent standard, so its concentration is only known to lie between 2.0 and 4.0 per cent. Explain how the learner could narrow this estimate.",
+   "canonical_answer": "The learner could prepare more standards at closer intervals between 2.0 and 4.0 per cent, for example 2.5, 3.0 and 3.5 per cent, and test them together with the unknown using the same volumes and the same heating time. The unknown can then be matched to a narrower interval, because the standards are closer together.",
+   "marking_guidance": [
+    "2 marks in this case: more standards at closer intervals within 2.0 to 4.0 per cent, with example values (1); the standards and the unknown treated identically, because otherwise the colours cannot be compared, or the result that the estimate is narrower (1).",
+    "Making more standards outside the 2.0 to 4.0 per cent range does not narrow the estimate here and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-006": 1,
+    "CLM-8223-4.4-007": 1
+   },
+   "authored_hash": "c9eb718bd93b176434f12d979716e8628882638ae4440c1c90eef351d694d1c2",
+   "objective_titles": [
+    "Estimate the concentration of an unknown solution from qualitative results."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-009-INTERP",
+   "objective_ids": [
+    "OBJ-8223-4.4-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-008",
+    "CLM-8223-4.4-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Solution Y was tested with four reagents. With Benedict's reagent heated in a water bath it gave a brick-red colour, with iodine solution it gave a blue-black colour, with biuret reagent it stayed blue, and with ethanol and then water it stayed clear. These are our own invented results. Identify the biological molecules that solution Y contains, and say what the other two results show.",
+   "canonical_answer": "Solution Y contains a reducing sugar, shown by the brick-red colour with Benedict's reagent, and starch, shown by the blue-black colour with iodine. The blue biuret result and the clear ethanol result are negative, so no protein or lipid was found.",
+   "marking_guidance": [
+    "2 marks: reducing sugar and starch both identified from their positive tests (1); the negative biuret and ethanol results used to show no protein or lipid was found (1).",
+    "Each test indicates only the substance it detects, so the result of one test cannot rule out a substance tested by another. The values are read from the graph or table of data."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-008": 1,
+    "CLM-8223-4.4-010": 1
+   },
+   "authored_hash": "032fc9be1d01c7b7ed5b1e4105cb14092d54be7885443eac2ad887d6333b7ba5",
+   "objective_titles": [
+    "Identify the contents of an unknown solution using biological molecule tests."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-010-INTERP",
+   "objective_ids": [
+    "OBJ-8223-4.4-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-009",
+    "CLM-8223-4.4-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Solution Z stayed blue when heated with Benedict's reagent. A second sample of Z was boiled with dilute hydrochloric acid, neutralised with sodium hydrogencarbonate and heated again with Benedict's reagent, and it then gave an orange colour. Z gave negative results with iodine solution, biuret reagent and ethanol (our own invented results). Identify the substance in Z and explain how the results show it.",
+   "canonical_answer": "Z contains a non-reducing sugar. It gave no colour change with Benedict's reagent before the acid treatment, so it is not a reducing sugar. After the acid had broken it into reducing sugars, it gave a positive result. The other tests were negative, so no starch, protein or lipid was found.",
+   "marking_guidance": [
+    "2 marks: the non-reducing sugar identified (1); the reason from the results, negative before the acid treatment and positive afterwards because the sugar had been broken into reducing sugars (1).",
+    "An answer of reducing sugar is not credited, because the result before the acid treatment was negative. The values are read from the graph or table of data. The answer shows what the data mean."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-009": 1,
+    "CLM-8223-4.4-010": 1
+   },
+   "authored_hash": "2af113ce74a48c2a431da751e583c48d75b069cc31ac6902d3746d6a5b7011c1",
+   "objective_titles": [
+    "Identify the contents of an unknown solution using biological molecule tests."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-011-INTERP",
+   "objective_ids": [
+    "OBJ-8223-4.4-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-011",
+    "CLM-8223-4.4-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A learner measures the distance moved by a bubble in a potometer in 5.0 min, five times, with the same shoot and the same conditions. The distances are 41, 43, 42, 61 and 44 mm (our own invented readings). Identify the anomalous result and state the mean that should be used.",
+   "canonical_answer": "The anomalous result is 61 mm, because it is much greater than the other four readings, which lie between 41 and 44 mm. It is left out and the mean is calculated from the rest: (41 + 43 + 42 + 44) ÷ 4 = 170 ÷ 4 = 42.5 mm.",
+   "marking_guidance": [
+    "2 marks: the anomalous result 61 mm identified, with the reason that it lies far outside the other repeats (1); the mean calculated from the remaining four values, 42.5 mm with its unit (1).",
+    "A mean that includes 61 mm, 46.2 mm, earns no mark for the calculation because the anomaly must be left out before the mean is found. The answer shows what the data mean."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-011": 1,
+    "CLM-8223-4.4-012": 1
+   },
+   "authored_hash": "52c284a80db19b633e78b8e4c208e3da1a965c3c57fd71d36a901e6c839d297d",
+   "objective_titles": [
+    "Identify anomalous results and leave them out before calculating a mean."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-012-INTERP",
+   "objective_ids": [
+    "OBJ-8223-4.4-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-011",
+    "CLM-8223-4.4-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Potato cylinders were weighed before and after 3 h in sucrose solutions. The change in mass at 0.0, 0.2, 0.4, 0.6 and 0.8 mol dm⁻³ was +0.60, +0.41, +0.88, −0.14 and −0.37 g (our own invented readings). Identify the anomalous result, using the pattern in the table of values, and state how it should be treated.",
+   "canonical_answer": "The result at 0.4 mol dm⁻³, +0.88 g, is anomalous. The other values decrease steadily from +0.60 g to −0.37 g, so a value between +0.41 and −0.14 g was expected at 0.4 mol dm⁻³. It should be left out of any calculation or line of best fit, and the measurement repeated if possible, with the omission stated.",
+   "marking_guidance": [
+    "2 marks: the result at 0.4 mol dm⁻³ (+0.88 g) identified, with the reason from the pattern, that it breaks the steady decrease of the other values (1); the treatment, left out of calculations and the omission stated (1).",
+    "Choosing a different value, such as the first or the last, shows that the pattern in the data has not been read."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-011": 1,
+    "CLM-8223-4.4-012": 1
+   },
+   "authored_hash": "ca5a5490be10328119d63bc9f4e07869e0453c174d00f4861328ebd4936e5c70",
+   "objective_titles": [
+    "Identify anomalous results and leave them out before calculating a mean."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-013-INTERP",
+   "objective_ids": [
+    "OBJ-8223-4.4-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-013",
+    "CLM-8223-4.4-014"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A learner records the number of bubbles per minute released by pondweed at six light intensities. At 10, 20, 30, 40, 50 and 60 arbitrary units the rates are 6, 12, 18, 23, 24 and 24 bubbles per minute (our own invented readings). Describe the pattern in the data, quoting values.",
+   "canonical_answer": "As light intensity increases from 10 to 40 arbitrary units, the rate increases steadily from 6 to 23 bubbles per minute. Above 40 arbitrary units the rate levels off, at 24 bubbles per minute at both 50 and 60 units.",
+   "marking_guidance": [
+    "2 marks from the data in the table: the steady increase from 10 to 40 units quoted with values (1); the levelling off above 40 units quoted with values (1).",
+    "A statement of the trend with no values from the table, or a reason for the levelling off in place of the description, earns no mark for that part. The answer shows what the data mean."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-013": 1,
+    "CLM-8223-4.4-014": 1
+   },
+   "authored_hash": "ee7d1dbd2a3cb3952cc646a09dc3347e9a2b17609457b26b0894633e50a790d1",
+   "objective_titles": [
+    "Describe patterns and trends in tables and graphs, using the data."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-014-INTERP",
+   "objective_ids": [
+    "OBJ-8223-4.4-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-013",
+    "CLM-8223-4.4-014"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A line graph shows the number of yeast cells in a growing culture, in millions per cm³, at 0, 2, 4, 6, 8 and 10 h. The values read from the graph are 1.0, 1.4, 2.5, 4.4, 5.8 and 6.1 (our own invented values). Describe the pattern shown by the graph, using the data.",
+   "canonical_answer": "The number of cells increases throughout, from 1.0 to 6.1 million per cm³. The increase is slow at first, 0.4 million per cm³ in the first 2 h, steepest between 4 and 6 h, when it increases by 1.9 million per cm³, and then slows, with only 0.3 million per cm³ added between 8 and 10 h.",
+   "marking_guidance": [
+    "2 marks from the graph values: the increase over the whole period quoted with values, from 1.0 to 6.1 million per cm³ (1); the change of steepness shown, steepest between 4 and 6 h and slowest at the start and the end, with values (1).",
+    "The table of values shows the change in each interval, so the steepest section can be found from the differences."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-013": 1,
+    "CLM-8223-4.4-014": 1
+   },
+   "authored_hash": "6fb38f1a327218401ab5a98126f479fe836abfa3124410ef229a2188eb8871ff",
+   "objective_titles": [
+    "Describe patterns and trends in tables and graphs, using the data."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-015-LIM",
+   "objective_ids": [
+    "OBJ-8223-4.4-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-015",
+    "CLM-8223-4.4-016"
+   ],
+   "item_type": "flashcard",
+   "subtype": "LIM",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Describe the difference between a random error and a systematic error in a set of readings.",
+   "canonical_answer": "A random error is an unpredictable difference that is sometimes above and sometimes below the true value, so repeat readings are scattered, and its effect is reduced by repeating and calculating a mean. A systematic error is a difference in the same direction and of a similar size in all the readings, so all the values are shifted, and repeating and averaging does not remove it.",
+   "marking_guidance": [
+    "2 marks: random error described as scatter above and below the true value, which varies between readings (1); systematic error described as a similar difference in the same direction in all readings (1).",
+    "The limitation of each error is also credited when stated: averaging reduces random error and has no effect on a systematic error, so an answer that swaps these has the error the wrong way round."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-015": 1,
+    "CLM-8223-4.4-016": 1
+   },
+   "authored_hash": "24668ca8f0641af8617cd3c4b6895a77efc6342352046d3427e99f930e1eb9bb",
+   "objective_titles": [
+    "Identify systematic and random errors and say how each affects results."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-016-EVAL",
+   "objective_ids": [
+    "OBJ-8223-4.4-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-015",
+    "CLM-8223-4.4-016"
+   ],
+   "item_type": "flashcard",
+   "subtype": "EVAL",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Evaluate",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 5,
+   "prompt": "A balance that was not zeroed reads 0.30 g with nothing on the pan. It is used to weigh potato cylinders before and after they are put in sucrose solution. The masses before and after are both read 0.30 g too high (our own situation). Explain why the trend in the mass changes between the solutions is not affected by this error.",
+   "canonical_answer": "This is a systematic error. It adds the same 0.30 g to every reading, so the differences between readings do not change, and the change in mass of each cylinder is the same as it would have been. The direction of the trend, such as a decrease in mass as the concentration increases, is therefore not affected, although the individual masses are less accurate.",
+   "marking_guidance": [
+    "2 marks: the error adds the same 0.30 g to all readings, so it is systematic (1); the differences and the direction of the trend are unchanged as a result, because the same shift cancels in the change in mass (1).",
+    "The conclusion about the trend is not affected by the error, although the values are less accurate."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-015": 1,
+    "CLM-8223-4.4-016": 1
+   },
+   "authored_hash": "541e7b6dc32a848efd7d09922d037e52c758694c0e749e900856e72f43f435ce",
+   "objective_titles": [
+    "Identify systematic and random errors and say how each affects results."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-017-APP",
+   "objective_ids": [
+    "OBJ-8223-4.4-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-015",
+    "CLM-8223-4.4-016"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner times how long a solution takes to turn clear, judging the end-point by eye. Five timings of the same mixture are 41, 47, 43, 39 and 45 s (our own invented readings). Explain what type of error causes the differences between the readings, and how its effect can be reduced.",
+   "canonical_answer": "The differences are caused by random error. The end-point is judged by eye each time, so the judgement varies and the readings are scattered above and below the true time. The effect can be reduced by repeating the timing and calculating a mean, because the errors above and below the true value partly cancel.",
+   "marking_guidance": [
+    "2 marks in this situation: random error identified, because the end-point is judged by eye and the readings vary in both directions (1); repeating and calculating a mean, because the errors partly cancel (1).",
+    "An answer of systematic error is not credited, because the data given show scatter in both directions."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-015": 1,
+    "CLM-8223-4.4-016": 1
+   },
+   "authored_hash": "88f7a1315a0d6802315c7ce4c5ecc7cd4e2570405865ad84d7ef63ea12fbd3c1",
+   "objective_titles": [
+    "Identify systematic and random errors and say how each affects results."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-018-LIM",
+   "objective_ids": [
+    "OBJ-8223-4.4-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-017",
+    "CLM-8223-4.4-018"
+   ],
+   "item_type": "flashcard",
+   "subtype": "LIM",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner investigates how the distance of a lamp from a piece of pondweed affects the number of bubbles released in 3 min. The learner counts bubbles by eye, including when they are released quickly, and the experiment is done on a bench by a window over 30 min while the sunlight changes. Describe two significant sources of error in this investigation.",
+   "canonical_answer": "The sunlight from the window changes during the 30 min, so the light reaching the pondweed changes for a reason other than the distance, which makes the results less accurate. Counting bubbles by eye when they are released quickly is difficult, so some bubbles are missed and bubbles of different sizes are counted as equal, which makes the counts less accurate.",
+   "marking_guidance": [
+    "2 marks: one significant source of error named and its effect on accuracy given (1) and a second named with its effect (1).",
+    "A vague source such as human error identifies no specific variable or measurement, and the error must be one that may change during the recording of results or one that makes a measurement difficult."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-017": 1,
+    "CLM-8223-4.4-018": 1
+   },
+   "authored_hash": "191fed54bef577248cb5f89aebc96237965575e9712311d8f536f7d66b3b1849",
+   "objective_titles": [
+    "Identify the significant sources of error in an investigation."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-019-EVAL",
+   "objective_ids": [
+    "OBJ-8223-4.4-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-017",
+    "CLM-8223-4.4-018",
+    "CLM-8223-4.4-019"
+   ],
+   "item_type": "flashcard",
+   "subtype": "EVAL",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Evaluate",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 5,
+   "prompt": "A timing by stopwatch has an error of about 0.3 s from reaction time. In investigation A the mean time is 8 s, and in investigation B it is 240 s. Explain why the stopwatch is a more significant source of error in A than in B.",
+   "canonical_answer": "The same error of 0.3 s is a larger fraction of the shorter time. In A, 0.3 ÷ 8 × 100 = 3.75 per cent, and in B, 0.3 ÷ 240 × 100 = 0.125 per cent. The error is therefore much more significant in A, because it is a larger percentage of the measured time.",
+   "marking_guidance": [
+    "2 marks: the same actual error is a larger proportion of the smaller measurement (1); supported by the values, 3.75 per cent compared with 0.125 per cent (1).",
+    "The size of the effect on the result, because of the percentage, is what makes the source significant, not the size of the error alone. The judgement uses the criterion that the results support the conclusion."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-017": 1,
+    "CLM-8223-4.4-018": 1,
+    "CLM-8223-4.4-019": 1
+   },
+   "authored_hash": "0e47058203ff8a4c73f5228915ecf43c734470ac7a283748cd93537519a2b1d9",
+   "objective_titles": [
+    "Identify the significant sources of error in an investigation."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-020-APP",
+   "objective_ids": [
+    "OBJ-8223-4.4-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-017",
+    "CLM-8223-4.4-018"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner grows maize seedlings in pots on a windowsill to find the effect of the mass of fertiliser on height after 14 days. The pot with the most fertiliser stands nearest the window, and each pot is watered until the soil looks damp. The same type of soil and the same seed packet are used. Identify the two variables that may change and make the results less accurate.",
+   "canonical_answer": "The first is the light received, because the pots nearer the window receive more light. The second is the volume of water given to each pot, because watering until the soil looks damp gives different volumes. Both may change the height of the seedlings for a reason other than the fertiliser.",
+   "marking_guidance": [
+    "2 marks in this case: the light received, from the position of the pots (1); the volume of water given (1).",
+    "The soil and the seed packet are given as the same, so they are not variables that change here, and naming them earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-017": 1,
+    "CLM-8223-4.4-018": 1
+   },
+   "authored_hash": "377d294384ac4ad3e6f92d76c13a19da6674d94396e2f315ac5ec8e1f754267b",
+   "objective_titles": [
+    "Identify the significant sources of error in an investigation."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-021-LIM",
+   "objective_ids": [
+    "OBJ-8223-4.4-09"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-019",
+    "CLM-8223-4.4-020"
+   ],
+   "item_type": "flashcard",
+   "subtype": "LIM",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Describe how the percentage error of a measurement is calculated from its actual error.",
+   "canonical_answer": "The actual error, the amount by which the measurement could differ from the true value, is divided by the measured value, and the result is multiplied by 100 to give a percentage. For example, an actual error of ±0.5 cm³ on a reading of 4.0 cm³ gives 0.5 ÷ 4.0 × 100 = 12.5 per cent.",
+   "marking_guidance": [
+    "2 marks: the actual error is divided by the measured value (1); and multiplied by 100 to give a percentage (1).",
+    "An answer that divides the measurement by the error has the uncertainty the wrong way round, and the result would not be an error as a percentage of the measurement."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-019": 1,
+    "CLM-8223-4.4-020": 1
+   },
+   "authored_hash": "f764f1b9062afa662ad650306d058f275c9402926959d79d6dd960002c11636d",
+   "objective_titles": [
+    "Calculate actual and percentage error and judge confidence in the results."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-022-EVAL",
+   "objective_ids": [
+    "OBJ-8223-4.4-09"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-019",
+    "CLM-8223-4.4-020"
+   ],
+   "item_type": "flashcard",
+   "subtype": "EVAL",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Evaluate",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 5,
+   "prompt": "A measuring cylinder has an actual error of ±0.5 cm³ at each reading. A learner could measure either 4.0 cm³ or 25.0 cm³ of an enzyme solution. Explain which volume would give more confidence in the accuracy of the measurement.",
+   "canonical_answer": "The 25.0 cm³ volume would give more confidence. The percentage error for 4.0 cm³ is 0.5 ÷ 4.0 × 100 = 12.5 per cent, and for 25.0 cm³ it is 0.5 ÷ 25.0 × 100 = 2.0 per cent. The same actual error is a smaller percentage of the larger volume, so the measurement is closer to the true value.",
+   "marking_guidance": [
+    "2 marks: the larger volume, 25.0 cm³, chosen because the same actual error is a smaller proportion of it (1); supported by the percentage errors, 12.5 per cent and 2.0 per cent (1).",
+    "A judgement without the values from the calculation is credited for the first mark only."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-019": 1,
+    "CLM-8223-4.4-020": 1
+   },
+   "authored_hash": "7c9cb4007ba2fbec236ef491c57bb5ae22d94c619bcce97049d918678c1e8772",
+   "objective_titles": [
+    "Calculate actual and percentage error and judge confidence in the results."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-023-APP",
+   "objective_ids": [
+    "OBJ-8223-4.4-09"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-019",
+    "CLM-8223-4.4-020",
+    "CLM-8223-4.4-021"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "In an investigation of light intensity, a bubble moves 48 mm at one setting and 51 mm at another. Each distance is measured with a ruler that has an actual error of ±0.5 mm, and each was measured once (our own invented readings). Explain whether the difference of 3 mm is likely to be due to the measuring.",
+   "canonical_answer": "The percentage errors are about 1 per cent each, since 0.5 ÷ 48 × 100 = 1.04 per cent and 0.5 ÷ 51 × 100 = 0.98 per cent. The two actual errors could add to at most 1.0 mm, which is less than the difference of 3 mm, so the difference is unlikely to be due to the measuring. Other sources of error, such as having no repeats, are not removed by this.",
+   "marking_guidance": [
+    "2 marks in this case: the actual errors compared with the difference, at most 1.0 mm compared with 3.0 mm, or the percentage errors of about 1 per cent (1); the judgement that the difference is unlikely to be due to the measuring, with the point that other errors remain because each was measured once (1).",
+    "The ruler's error is only one source, so a statement that the result is certainly correct is not credited."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-019": 1,
+    "CLM-8223-4.4-020": 1,
+    "CLM-8223-4.4-021": 1
+   },
+   "authored_hash": "7108784e7e11d362ba4c61ec15a11eb923c11ac0eb8d8dcc2c259d06fa01bbf5",
+   "objective_titles": [
+    "Calculate actual and percentage error and judge confidence in the results."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-046-MISCON",
+   "objective_ids": [
+    "OBJ-8223-4.4-09"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-021"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "A learner finds that the percentage error of a length measurement is 1 per cent and says, my results are reliable. Explain the error in this statement.",
+   "canonical_answer": "The error is a confusion of accuracy with reliability. In fact a small percentage error shows that the measurement is close to the true value, which is accuracy, and says nothing about whether repeating the work gives consistent results, which is reliability. The test is to ask whether the statement is about closeness to the true value or about agreement between repeats. A percentage error of 1 per cent on one reading is about closeness, so reliability would need repeats that agree.",
+   "marking_guidance": [
+    "2 marks: the error named, accuracy and reliability confused, a small percentage error is about closeness to the true value and not agreement between repeats (1); the correct idea or the test that tells them apart, closeness to the true value or agreement between repeats (1).",
+    "The card is a discrimination between two different terms and not a repeat of the definition of percentage error."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-021": 1
+   },
+   "authored_hash": "bfa9f8bf9876ed1f676c913c794f963957cc94a69703031229c86690caa40fb1",
+   "objective_titles": [
+    "Calculate actual and percentage error and judge confidence in the results."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-024-LIM",
+   "objective_ids": [
+    "OBJ-8223-4.4-10"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-022"
+   ],
+   "item_type": "flashcard",
+   "subtype": "LIM",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner investigates the effect of the volume of water given to maize seedlings on their height after 14 days. Describe how two other variables should be standardised to reduce error in the results.",
+   "canonical_answer": "The type and volume of soil should be the same in each pot, so that nutrients and the space for roots are the same. The pots should stand in the same place so that each receives the same light. The seeds should come from the same packet. Because only the volume of water differs, any difference in height is not due to these variables.",
+   "marking_guidance": [
+    "2 marks: one other variable named with how it is kept the same, for example the same soil in each pot (1); a second named with how it is kept the same, for example all pots in the same position for light (1).",
+    "The volume of water is the independent variable and does not earn a mark, since it is the variable that is meant to change. Each point names an error and its effect on the result."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-022": 1
+   },
+   "authored_hash": "580497d117cbe65f2b50f7c61deae523792fa260abb90c7fcf4ffa1485d6625a",
+   "objective_titles": [
+    "Judge how standardising variables affects confidence in a conclusion."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-025-EVAL",
+   "objective_ids": [
+    "OBJ-8223-4.4-10"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-022",
+    "CLM-8223-4.4-023"
+   ],
+   "item_type": "flashcard",
+   "subtype": "EVAL",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Evaluate",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 5,
+   "prompt": "In an investigation into the effect of fertiliser on the height of maize seedlings, the pots with fertiliser were all placed in the sunniest part of the school garden and the pots without it in the shade. The seedlings with fertiliser were taller. Explain why standardising the other variables would increase confidence in the conclusion.",
+   "canonical_answer": "If the pots stood in the same light, the fertiliser would be the only variable that differed, so the difference in height could be attributed to the fertiliser. As it was, the taller seedlings could have grown taller because of the extra light, so the investigator cannot tell which variable caused the difference, and confidence in the conclusion is low.",
+   "marking_guidance": [
+    "2 marks: with other variables standardised, the difference in height can be attributed to the fertiliser (1); in this case the light also differed, so the result could be due to the light and confidence in the conclusion is reduced (1).",
+    "The data show the seedlings with fertiliser were taller, so the trend can still be reported, but the cause is not secure."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-022": 1,
+    "CLM-8223-4.4-023": 1
+   },
+   "authored_hash": "5254d19d63008a5007b0f545b6c9a726af11b50e0c0b012faba4066887576b3e",
+   "objective_titles": [
+    "Judge how standardising variables affects confidence in a conclusion."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-026-APP",
+   "objective_ids": [
+    "OBJ-8223-4.4-10"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-022",
+    "CLM-8223-4.4-023"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner uses pieces of liver as a source of catalase and measures the height of foam produced with hydrogen peroxide of different concentrations. The pieces of liver in the different tubes have masses between 0.8 g and 2.4 g (our own situation). Explain how this affects the confidence in a conclusion about the effect of the concentration of hydrogen peroxide.",
+   "canonical_answer": "The mass of liver was not standardised. A tube with more liver has more enzyme, with more active sites, so more foam could be produced because of the extra enzyme and not because of the concentration of hydrogen peroxide. The cause of a difference in foam height is uncertain, so confidence in the conclusion about concentration is reduced.",
+   "marking_guidance": [
+    "2 marks in this case: the different masses of liver mean different amounts of enzyme, which could change the foam height (1); so the difference may not be due to the hydrogen peroxide and the confidence in the conclusion is reduced (1).",
+    "Naming a variable that was standardised, such as the type of liver, earns no mark here."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-022": 1,
+    "CLM-8223-4.4-023": 1
+   },
+   "authored_hash": "bc9aa744f334d34bea1c11a17a20a0c2d42644489933499e167b8547da44f67d",
+   "objective_titles": [
+    "Judge how standardising variables affects confidence in a conclusion."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-027-INTERP",
+   "objective_ids": [
+    "OBJ-8223-4.4-11"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-024",
+    "CLM-8223-4.4-025"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Yeast produces carbon dioxide at 0, 8, 15 and 21 bubbles per minute in sugar solutions of 0, 2, 4 and 6 per cent (our own invented readings). Use the pattern to explain what you predict for the rate in an 8 per cent sugar solution.",
+   "canonical_answer": "The rate is predicted to increase further, to about 26 to 28 bubbles per minute, because each increase of 2 per cent in the sugar concentration has added between 6 and 8 bubbles per minute. The prediction assumes the pattern continues. It could be lower if the enzymes of the yeast were working at their maximum rate, so that the rate levels off.",
+   "marking_guidance": [
+    "2 marks from the data: the direction and a value that follows the pattern, an increase to about 26 to 28 bubbles per minute, with the reason from the values (1); the recognition that the pattern may not continue, for example the rate may level off at a higher concentration (1).",
+    "A prediction that gives no reason from the data earns no mark for the first point, because the pattern shows why the value is expected."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-024": 1,
+    "CLM-8223-4.4-025": 1
+   },
+   "authored_hash": "163fc6d74d683d0585579d0e6a9a74a4224e63ebc632892ab31cd983b5e82957",
+   "objective_titles": [
+    "Predict a trend from information or results provided."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-028-INTERP",
+   "objective_ids": [
+    "OBJ-8223-4.4-11"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-024",
+    "CLM-8223-4.4-025"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Lettuce seeds are placed in salt solutions and the number of seeds out of 20 that germinate is counted. At 0, 0.5, 1.0 and 1.5 per cent salt, the numbers are 19, 15, 9 and 3 (our own invented counts). Use the pattern to explain what you predict for 2.0 per cent salt.",
+   "canonical_answer": "A number below 3 is predicted, probably close to 0. Each increase of 0.5 per cent salt has reduced germination by 4 to 6 seeds, but the number of seeds cannot be less than zero, so the decrease must slow as zero is approached. As the salt concentration of the solution increases, its water potential decreases, so less water moves into the seeds by osmosis, and seeds taking up less water germinate less.",
+   "marking_guidance": [
+    "2 marks from the data: the direction and the value, a number below 3 and not less than 0, given with the pattern as the reason (1); the biological reason, a lower water potential outside means less water enters the seeds by osmosis (1).",
+    "A prediction of a negative number of seeds goes beyond what is possible and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-024": 1,
+    "CLM-8223-4.4-025": 1
+   },
+   "authored_hash": "02b046766c11d8f42450793ea78bec16a553cb52712d6bc5c6ec948552e09290",
+   "objective_titles": [
+    "Predict a trend from information or results provided."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-029-INTERP",
+   "objective_ids": [
+    "OBJ-8223-4.4-12"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-026",
+    "CLM-8223-4.4-027"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Foam height in a catalase investigation is 12, 25, 36 and 47 mm at hydrogen peroxide concentrations of 0.5, 1.0, 1.5 and 2.0 per cent (our own invented readings). Describe the conclusion that these data support.",
+   "canonical_answer": "Foam height increases as the concentration of hydrogen peroxide increases, from 12 mm at 0.5 per cent to 47 mm at 2.0 per cent. This applies to the range tested, 0.5 to 2.0 per cent, because no other concentrations were tested.",
+   "marking_guidance": [
+    "2 marks from the data: the conclusion stating the relationship in words, foam height increases as the concentration increases, with values (1); the conclusion limited to the range tested, 0.5 to 2.0 per cent (1).",
+    "A conclusion about what happens at concentrations above 2.0 per cent goes beyond the data and earns no mark. The answer shows what the data mean."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-026": 1,
+    "CLM-8223-4.4-027": 1
+   },
+   "authored_hash": "347f2b96afd62ba6d0b4bb8bdf37bbd2e12f0e19c563a38989531a6ab26eb5f1",
+   "objective_titles": [
+    "Draw a conclusion from the patterns and trends in data."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-030-INTERP",
+   "objective_ids": [
+    "OBJ-8223-4.4-12"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-026",
+    "CLM-8223-4.4-027"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A learner counts the stomata in ten samples of leaf from one plant species. The mean density is 45 per mm² on the upper surface and 210 per mm² on the lower surface (our own invented counts). Describe the conclusion these data support, and state the material to which it applies.",
+   "canonical_answer": "The lower surface had more stomata than the upper surface in this species, about 4.7 times as many, since 210 ÷ 45 = 4.67. The conclusion is limited to the samples from this species and does not show what happens in other species.",
+   "marking_guidance": [
+    "2 marks from the data: the lower surface has more stomata than the upper, with the values or the ratio (1); the conclusion limited to this species or these samples (1).",
+    "A conclusion about all plants goes beyond the material tested and earns no mark. The answer shows what the data mean."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-026": 1,
+    "CLM-8223-4.4-027": 1
+   },
+   "authored_hash": "5789ed4934d5b2a17d22c69d822fd5fd819daf8ebe39678f7e728d248f79dd8c",
+   "objective_titles": [
+    "Draw a conclusion from the patterns and trends in data."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-031-INTERP",
+   "objective_ids": [
+    "OBJ-8223-4.4-13"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-028",
+    "CLM-8223-4.4-029"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner's hypothesis is that the greater the concentration of sucrose in the surrounding solution, the less water potato cylinders gain. The change in mass at 0.0, 0.2, 0.4, 0.6 and 0.8 mol dm⁻³ sucrose is +0.62, +0.35, +0.08, −0.19 and −0.41 g (our own invented readings). Describe whether the data support the hypothesis.",
+   "canonical_answer": "The data support the hypothesis. As the concentration of sucrose increases from 0.0 to 0.8 mol dm⁻³, the change in mass decreases from a gain of 0.62 g to a loss of 0.41 g, so the cylinders gain less water as the prediction states.",
+   "marking_guidance": [
+    "2 marks from the data: the decision that they support the hypothesis (1); justified with values showing the decrease from +0.62 g to −0.41 g (1).",
+    "A decision with no values from the table to show it earns the first mark only. The answer shows what the data mean."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-028": 1,
+    "CLM-8223-4.4-029": 1
+   },
+   "authored_hash": "159adf147bf7f8f8963eec1b0b46cf1b0a555fc75c400aa03d1116c595754ccb",
+   "objective_titles": [
+    "Decide whether data support a given hypothesis."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-032-INTERP",
+   "objective_ids": [
+    "OBJ-8223-4.4-13"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-028",
+    "CLM-8223-4.4-029"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner's hypothesis is that the greater the mass of fertiliser given to a plant, the taller it grows. The mean heights at 0, 5, 10 and 15 g of fertiliser are 14.2, 18.9, 19.1 and 15.0 cm (our own invented values). Describe whether the data support the hypothesis.",
+   "canonical_answer": "The data support the hypothesis in part. The height increases from 14.2 cm at 0 g to 19.1 cm at 10 g, which matches the hypothesis, although the increase from 5 to 10 g is only 0.2 cm. At 15 g the height decreases to 15.0 cm, which does not match it.",
+   "marking_guidance": [
+    "2 marks from the data: the decision that they support it in part (1); the section that matches, 0 to 10 g, and the section that does not, the decrease at 15 g, with values (1).",
+    "A decision that the data fully support or completely fail to support the hypothesis does not fit the pattern in the data and earns no mark. The answer shows what the data mean."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-028": 1,
+    "CLM-8223-4.4-029": 1
+   },
+   "authored_hash": "2927b906518a9bb6c89e0a2e34ea228c22ea95518720d8d8301f0d44a76cdefe",
+   "objective_titles": [
+    "Decide whether data support a given hypothesis."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-033-APP",
+   "objective_ids": [
+    "OBJ-8223-4.4-13"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-028",
+    "CLM-8223-4.4-029"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner's hypothesis is that a higher light intensity increases the growth of pondweed. The learner tests three light intensities with one trial for each and finds growth increases each time the light intensity increases. Explain whether the learner can say the hypothesis is proved.",
+   "canonical_answer": "The learner cannot say it is proved. The data are consistent with the hypothesis, so they support it, but only three light intensities were tested, so a different range could show a different pattern, such as a levelling off. There was one trial for each, so the pattern could be due to chance.",
+   "marking_guidance": [
+    "2 marks in this case: the data support the hypothesis but do not prove it (1); the reason, only three values tested or only one trial for each, so another range may differ or the result may be due to chance (1).",
+    "A statement that the data prove the hypothesis is not credited."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-028": 1,
+    "CLM-8223-4.4-029": 1
+   },
+   "authored_hash": "c4de5dfdb2ab1d5a6d0eaf28114e0e80aa0d3fc8e01144e65c68194d4ab5ab5e",
+   "objective_titles": [
+    "Decide whether data support a given hypothesis."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-034-INTERP",
+   "objective_ids": [
+    "OBJ-8223-4.4-14"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-030",
+    "CLM-8223-4.4-031"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Potato cylinders are placed in sucrose solutions of known concentration and the percentage change in mass is +14, +7, 0, −7 and −14 per cent at 0.0, 0.2, 0.4, 0.6 and 0.8 mol dm⁻³ (our own invented readings). A cylinder in a solution of unknown concentration changes by −3.5 per cent. Describe how the concentration of the unknown is estimated, and state it.",
+   "canonical_answer": "Plot the percentage change against concentration and draw the line of best fit. Draw a line across from −3.5 per cent to the line and down to the concentration axis, and read the value. The value is 0.5 mol dm⁻³, which is halfway between 0.4 and 0.6 mol dm⁻³, since −3.5 per cent is halfway between 0 and −7 per cent.",
+   "marking_guidance": [
+    "2 marks from the table of known values: the method, reading across from −3.5 per cent to the line and down to the concentration axis, or placing it between the two nearest known concentrations (1); the value 0.5 mol dm⁻³ with its unit (1).",
+    "A value outside 0.4 to 0.6 mol dm⁻³ does not fit the data. The answer shows what the data mean."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-030": 1,
+    "CLM-8223-4.4-031": 1
+   },
+   "authored_hash": "8ec388720d3d4c702367975fe4f324aeb2b8461ff7539d43aecc7a8acbe0c0b5",
+   "objective_titles": [
+    "Draw a conclusion from results, including estimating an unknown concentration from known ones."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-035-INTERP",
+   "objective_ids": [
+    "OBJ-8223-4.4-14"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-030",
+    "CLM-8223-4.4-031"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner measures the volume of vitamin C solution needed to decolourise a fixed volume of a blue dye. Solutions of 0.1, 0.2, 0.4 and 0.8 per cent vitamin C need 8.0, 4.0, 2.0 and 1.0 cm³, giving a smooth curve (our own invented readings). A fruit juice needs 2.7 cm³. Describe how the concentration of vitamin C in the juice is estimated, and state it.",
+   "canonical_answer": "The volume of 2.7 cm³ is located on the vertical axis of the curve, and a line is drawn across to the curve and down to the concentration axis. The juice needs a volume between 4.0 cm³ (0.2 per cent) and 2.0 cm³ (0.4 per cent), so its concentration lies between 0.2 and 0.4 per cent, and the curve gives about 0.3 per cent.",
+   "marking_guidance": [
+    "2 marks from the values: the method, reading across from 2.7 cm³ to the curve and down to the concentration axis (1); the estimate between 0.2 and 0.4 per cent, about 0.3 per cent, with its unit (1).",
+    "Drawing a straight line between the points where the data fall on a curve gives a different value and the curve must be used."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-030": 1,
+    "CLM-8223-4.4-031": 1
+   },
+   "authored_hash": "e787ff2937ebe49e86e4a5dfd747088e6360a02ce2eeb1dd7c7a01c04634da6b",
+   "objective_titles": [
+    "Draw a conclusion from results, including estimating an unknown concentration from known ones."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-036-APP",
+   "objective_ids": [
+    "OBJ-8223-4.4-14"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-030",
+    "CLM-8223-4.4-031"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "The known sucrose solutions of 0.0 to 0.8 mol dm⁻³ gave percentage changes in mass from +14 to −14 per cent. A cylinder placed in a solution of unknown concentration changes by −20 per cent. Explain whether the concentration can be estimated reliably from the line, and what the learner should do.",
+   "canonical_answer": "It cannot be estimated reliably, because −20 per cent is beyond the range of the known concentrations, which ends at −14 per cent, so the line would have to be extended and nothing shows that the relationship continues there. The learner should dilute the unknown solution by a known factor, repeat the test so that the result falls inside the range, and then multiply the estimate by that factor.",
+   "marking_guidance": [
+    "2 marks in this case: the result is outside the range of the known concentrations, so the estimate is not reliable (1); the unknown is diluted by a known factor and retested so that the result falls inside the range (1).",
+    "An estimate that extends the line and gives a value as certain is not credited."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-030": 1,
+    "CLM-8223-4.4-031": 1
+   },
+   "authored_hash": "f698143f6aa75fae547a4fba88e04366437c3cfebd1c9ee52c8f7550ca445756",
+   "objective_titles": [
+    "Draw a conclusion from results, including estimating an unknown concentration from known ones."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-037-DEF",
+   "objective_ids": [
+    "OBJ-8223-4.4-15"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-032"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State what is meant by explaining data using biological knowledge.",
+   "canonical_answer": "It means stating the biological process that is responsible for the pattern in the data and showing how that process causes the change.",
+   "marking_guidance": [
+    "1 mark: the statement of the meaning with its key words, a biological process that causes the pattern. A statement that restates the pattern in the data is a description and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-032": 1
+   },
+   "authored_hash": "057893fa6051e47cdc9370d03722989b97078d20ac6b4f185ec250e759847bcd",
+   "objective_titles": [
+    "Explain data, observations, calculated values and conclusions using biological knowledge."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-038-MECH",
+   "objective_ids": [
+    "OBJ-8223-4.4-15"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-032",
+    "CLM-8223-4.4-033"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "The rate of an enzyme-controlled reaction at substrate concentrations of 1, 2, 3, 4, 5 and 6 per cent is 8, 15, 22, 26, 27 and 27 mm³ of product per minute, with the same concentration of enzyme in each (our own invented values). Explain why the rate levels off above 5 per cent.",
+   "canonical_answer": "At 5 per cent and above, the substrate occupies all of the active sites of the enzyme at any moment, so adding more substrate cannot increase the number of enzyme-substrate complexes formed each minute. The enzyme concentration, meaning the number of active sites, is limiting, so the rate stays at about 27 mm³ min⁻¹.",
+   "marking_guidance": [
+    "2 marks: all the active sites are occupied by substrate (1); so more substrate cannot increase the rate, because the enzyme concentration is the factor that limits it (1).",
+    "An answer that says the substrate has run out has the cause the wrong way round, because more substrate is present at higher concentrations."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-032": 1,
+    "CLM-8223-4.4-033": 1
+   },
+   "authored_hash": "a26ad9002f6ae15a9f755d3d905ce900a609b96b4645d1db38a4c8f14d170810",
+   "objective_titles": [
+    "Explain data, observations, calculated values and conclusions using biological knowledge."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-039-APP",
+   "objective_ids": [
+    "OBJ-8223-4.4-15"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-032",
+    "CLM-8223-4.4-033"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Potato cylinders placed in 0.8 mol dm⁻³ sucrose solution lose 0.41 g in mass over 3 h (our own invented reading). Explain this result using water potential.",
+   "canonical_answer": "The sucrose solution has a lower water potential than the contents of the potato cells. Water moves out of the cells by osmosis, down the water potential gradient, through the partially permeable cell surface membranes. The cells lose water, so the cylinders lose mass.",
+   "marking_guidance": [
+    "2 marks in this case: the solution has a lower water potential than the cells, so water moves out by osmosis down the water potential gradient (1); through the partially permeable membrane, so the cells lose water and the mass decreases (1).",
+    "An answer that says the sucrose moved into the cells instead of water moving out does not fit the loss of mass in the data."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-032": 1,
+    "CLM-8223-4.4-033": 1
+   },
+   "authored_hash": "87c41a45388e3424e92584c28d7788c03b2a4ff295077556c2097a46456aa03c",
+   "objective_titles": [
+    "Explain data, observations, calculated values and conclusions using biological knowledge."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-040-LIM",
+   "objective_ids": [
+    "OBJ-8223-4.4-16"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-034",
+    "CLM-8223-4.4-035"
+   ],
+   "item_type": "flashcard",
+   "subtype": "LIM",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner measures 5 cm³ of enzyme solution using a 100 cm³ beaker with markings every 10 cm³. Explain how this procedure could be improved to increase accuracy.",
+   "canonical_answer": "The volume should be measured with a graduated pipette or a syringe marked every 0.1 cm³. The scale divisions are far larger than 5 cm³ in the beaker, so the actual error is large and the percentage error is large. With smaller divisions, the actual error and the percentage error are smaller, so the volume is closer to the true value.",
+   "marking_guidance": [
+    "2 marks: a measuring instrument with smaller scale divisions named, a graduated pipette or a syringe (1); the reason, the actual error and percentage error are smaller so the measurement is more accurate (1).",
+    "Be more careful is not an improvement because it names no change."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-034": 1,
+    "CLM-8223-4.4-035": 1
+   },
+   "authored_hash": "feb0c9bc3ae0226f08729041dfb6545eab9ff93c5e5e28eaa24437f96a222660",
+   "objective_titles": [
+    "Suggest improvements that make the procedure or the observations more accurate."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-041-EVAL",
+   "objective_ids": [
+    "OBJ-8223-4.4-16"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-034",
+    "CLM-8223-4.4-035"
+   ],
+   "item_type": "flashcard",
+   "subtype": "EVAL",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Evaluate",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 5,
+   "prompt": "A learner times a colour change as 38, 41, 46, 40 and 43 s, judging the end-point by eye, and the stopwatch reads to 0.1 s (our own invented readings). Explain which change would be more effective in improving the results: a stopwatch that reads to 0.01 s, or repeating the timing and calculating a mean.",
+   "canonical_answer": "Repeating the timing and calculating a mean would be more effective. The readings are spread over 8 s, which is far greater than the 0.1 s the stopwatch can read, so a more precise stopwatch would not reduce the scatter. The scatter comes from judging the end-point by eye, which is a random error, and a mean reduces its effect.",
+   "marking_guidance": [
+    "2 marks: repeating and calculating a mean chosen, with the reason that the scatter is a random error from judging the end-point (1); the stopwatch rejected because 0.01 s is small compared with the 8 s spread in the results (1).",
+    "A judgement that the stopwatch is better because it is more precise does not use the values in the data."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-034": 1,
+    "CLM-8223-4.4-035": 1
+   },
+   "authored_hash": "37fc6e9d9fb3775981ad3dcf94771b6321acb540d7e7779e51a11bb518bd6c4f",
+   "objective_titles": [
+    "Suggest improvements that make the procedure or the observations more accurate."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-042-APP",
+   "objective_ids": [
+    "OBJ-8223-4.4-16"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-034",
+    "CLM-8223-4.4-035"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner counts bubbles of gas released from pondweed by eye, and the bubbles are released quickly and vary in size. Explain how the procedure could be improved to make the observations more accurate.",
+   "canonical_answer": "The gas should be collected in a gas syringe or an inverted measuring cylinder and its volume measured over a fixed time. Counting misses some bubbles and treats large and small bubbles as equal, whereas the volume measures the quantity of gas, so the measurement is more accurate.",
+   "marking_guidance": [
+    "2 marks in this case: collect and measure the volume of gas in a fixed time (1); the reason, counting misses bubbles and bubbles differ in size, so volume gives a more accurate measure of the gas (1).",
+    "Counting for a longer time does not address the size of the bubbles or the bubbles that are missed."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-034": 1,
+    "CLM-8223-4.4-035": 1
+   },
+   "authored_hash": "1cd4702457436e401aa3be2b0ac6c3aef792983cc6802a1aa204269a131290eb",
+   "objective_titles": [
+    "Suggest improvements that make the procedure or the observations more accurate."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-043-LIM",
+   "objective_ids": [
+    "OBJ-8223-4.4-17"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-036"
+   ],
+   "item_type": "flashcard",
+   "subtype": "LIM",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "An investigation has measured the number of bubbles per minute released by pondweed at different distances from a lamp. Explain how it could be modified to find the effect of the colour of the light.",
+   "canonical_answer": "The independent variable becomes the colour, so red, green and blue filters are placed between the lamp and the pondweed in turn. The lamp is kept at the same distance, and the same pondweed, the same volume of water and the same counting time are used, so only the colour differs. The bubbles per minute are counted for each colour, with repeats.",
+   "marking_guidance": [
+    "2 marks: the independent variable changed to the colour of light, using filters (1); the other variables standardised and the measurement stated, so that only the colour differs (1).",
+    "Changing the distance again is the original investigation and earns no mark. Each point names an error and its effect on the result."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-036": 1
+   },
+   "authored_hash": "88b61177d8b4eac922ce0625449c6ea671ee0baaf513623a95960dd3c4dada20",
+   "objective_titles": [
+    "Suggest how to modify or extend an investigation to answer a new question."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-044-EVAL",
+   "objective_ids": [
+    "OBJ-8223-4.4-17"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-037"
+   ],
+   "item_type": "flashcard",
+   "subtype": "EVAL",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Evaluate",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 5,
+   "prompt": "The rate of bubbles from pondweed levels off above a light intensity of 40 arbitrary units, and a learner suggests that carbon dioxide has become limiting. Explain how the investigation could be extended to test this suggestion.",
+   "canonical_answer": "Repeat the investigation at a light intensity above 40 arbitrary units, where the rate has levelled off, and add sodium hydrogencarbonate to the water to supply carbon dioxide. If carbon dioxide was limiting, the rate would increase. The pondweed, the distance and the time are kept the same, and a control without the hydrogencarbonate is run beside it.",
+   "marking_guidance": [
+    "2 marks: the extension, a high light intensity with carbon dioxide supplied, for example sodium hydrogencarbonate (1); the prediction that the rate increases if carbon dioxide was limiting, with the other variables kept the same (1).",
+    "The test must change only the carbon dioxide, so adding a different factor tests a different suggestion. The judgement uses the criterion that the results support the conclusion."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-037": 1
+   },
+   "authored_hash": "8bda53adec0d2cc9fe70ab0cb041a02c8e48232ec23c729fb352fc9452ccbc31",
+   "objective_titles": [
+    "Suggest how to modify or extend an investigation to answer a new question."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-045-APP",
+   "objective_ids": [
+    "OBJ-8223-4.4-17"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-036",
+    "CLM-8223-4.4-037"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Lettuce seeds germinate less in salt solutions of 0, 0.5, 1.0 and 1.5 per cent, with 20 seeds in each dish. A learner asks whether mahangu (pearl millet), a crop grown in dry areas, responds in the same way. Explain how the investigation could be modified to answer this question.",
+   "canonical_answer": "The material changes: mahangu seeds are tested at the same salt concentrations of 0, 0.5, 1.0 and 1.5 per cent, with the same number of seeds, 20 in each dish, the same volume of solution and the same time. The number of seeds that germinate is counted for each species at each concentration and compared, so that only the species differs.",
+   "marking_guidance": [
+    "2 marks in this case: mahangu seeds tested in the same salt concentrations (1); the other variables the same, 20 seeds, the same volume and time, and the number germinating counted, so that only the species differs (1).",
+    "Using different salt concentrations for mahangu would change two variables and the comparison would not be secure."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-036": 1,
+    "CLM-8223-4.4-037": 1
+   },
+   "authored_hash": "23fd23b96535dcf3a83cbd085404ce7fb62cc8593d709bcd3f62c35f9d9bec1f",
+   "objective_titles": [
+    "Suggest how to modify or extend an investigation to answer a new question."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-P01",
+   "objective_ids": [
+    "OBJ-8223-4.4-05",
+    "OBJ-8223-4.4-06",
+    "OBJ-8223-4.4-15",
+    "OBJ-8223-4.4-16"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-011",
+    "CLM-8223-4.4-012",
+    "CLM-8223-4.4-013",
+    "CLM-8223-4.4-014",
+    "CLM-8223-4.4-032",
+    "CLM-8223-4.4-033",
+    "CLM-8223-4.4-034",
+    "CLM-8223-4.4-035"
+   ],
+   "item_type": "practical_task",
+   "subtype": null,
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "State",
+   "mark_tariff": 10,
+   "difficulty": 3,
+   "prompt": "A student investigates how the concentration of hydrogen peroxide affects the rate at which an enzyme in liver, catalase, releases oxygen. Equal pieces of liver of the same mass were used, each with 10 cm³ of hydrogen peroxide solution, and the volume of oxygen collected in a gas syringe in 60 s was measured three times at each concentration. These are our own invented readings, not taken from any published source.\n\n| Concentration of hydrogen peroxide / % | Volume of oxygen, repeat 1 / cm³ | Volume of oxygen, repeat 2 / cm³ | Volume of oxygen, repeat 3 / cm³ |\n|---|---|---|---|\n| 0.5 | 3.1 | 3.3 | 3.2 |\n| 1.0 | 6.0 | 6.4 | 6.2 |\n| 1.5 | 9.5 | 9.3 | 14.1 |\n| 2.0 | 12.4 | 12.8 | 12.6 |\n| 2.5 | 13.9 | 14.1 | 14.0 |\n\n(a) State the independent variable and the dependent variable in this investigation. [2]\n(b) Identify the anomalous result in the table and calculate the mean volume of oxygen at 1.5 per cent, showing your working and giving the unit. [3]\n(c) Describe the pattern shown by the mean volumes of oxygen from 0.5 to 2.5 per cent, quoting values. [2]\n(d) State the factor that limits the rate of the reaction at 2.5 per cent. [1]\n(e) Identify one significant source of error in measuring the volume of oxygen and suggest one improvement that would increase accuracy. [2]",
+   "canonical_answer": "(a) The independent variable is the concentration of hydrogen peroxide. The dependent variable is the volume of oxygen collected in 60 s.\n(b) The anomalous result is 14.1 cm³ at 1.5 per cent, because it is much greater than the other two repeats, 9.5 and 9.3 cm³, and breaks the steady increase in the other values. It is left out. The mean is (9.5 + 9.3) ÷ 2 = 18.8 ÷ 2 = 9.4 cm³.\n(c) The means are 3.2, 6.2, 9.4, 12.6 and 14.0 cm³. The mean volume increases steadily from 3.2 cm³ at 0.5 per cent to 12.6 cm³ at 2.0 per cent, about 3 cm³ for each 0.5 per cent, and then increases by only 1.4 cm³ between 2.0 and 2.5 per cent, so it begins to level off.\n(d) The concentration of the enzyme, meaning the number of active sites of catalase, is limiting, because the substrate occupies nearly all the active sites.\n(e) One significant source of error is reading the volume on a syringe with large scale divisions, or oxygen released before the bung is in place, which makes the volume less accurate. An improvement is to use a syringe with smaller divisions, such as 0.1 cm³, so the actual error and the percentage error are smaller; or to put the bung in before the liver meets the solution, so that no gas is lost.",
+   "marking_guidance": [
+    "Table and headings: the table is given, with quantity and unit in each column heading and the body holding values alone, so the learner reads the readings against their headings; part (a) credits the two variables, 1 mark each.",
+    "Part (b), 3 marks: the anomalous result 14.1 cm³ at 1.5 per cent identified with the reason from the other repeats (1); the working (9.5 + 9.3) ÷ 2 with the anomaly left out (1); the answer 9.4 cm³ with its unit (1). A mean of 11.0 cm³ includes the anomaly and earns no mark for the answer.",
+    "Part (c), 2 marks from the data: the steady increase quoted with values (1); the levelling off between 2.0 and 2.5 per cent quoted with values, which fits the graph of the means if it were plotted with concentration on the x-axis and the mean volume on the y-axis (1). Part (d), 1 mark: the enzyme concentration, the number of active sites, as the limiting variable, because more substrate cannot increase the rate once the sites are occupied.",
+    "Part (e), 2 marks: one significant source of error named, with its effect on accuracy (1); one improvement that acts on it and says why it increases accuracy (1). Be more careful is not an improvement."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-011": 1,
+    "CLM-8223-4.4-012": 1,
+    "CLM-8223-4.4-013": 1,
+    "CLM-8223-4.4-014": 1,
+    "CLM-8223-4.4-032": 1,
+    "CLM-8223-4.4-033": 1,
+    "CLM-8223-4.4-034": 1,
+    "CLM-8223-4.4-035": 1
+   },
+   "authored_hash": "25b253ad54f90a0684fb5badd4afc95725fcec6866c8e8f593aa7534c8be99d5",
+   "objective_titles": [
+    "Identify anomalous results and leave them out before calculating a mean.",
+    "Describe patterns and trends in tables and graphs, using the data.",
+    "Explain data, observations, calculated values and conclusions using biological knowledge.",
+    "Suggest improvements that make the procedure or the observations more accurate."
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-4.4-P02",
+   "objective_ids": [
+    "OBJ-8223-4.4-02",
+    "OBJ-8223-4.4-09",
+    "OBJ-8223-4.4-10",
+    "OBJ-8223-4.4-14"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.4-004",
+    "CLM-8223-4.4-005",
+    "CLM-8223-4.4-019",
+    "CLM-8223-4.4-020",
+    "CLM-8223-4.4-021",
+    "CLM-8223-4.4-022",
+    "CLM-8223-4.4-023",
+    "CLM-8223-4.4-030",
+    "CLM-8223-4.4-031"
+   ],
+   "item_type": "practical_task",
+   "subtype": null,
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 10,
+   "difficulty": 3,
+   "prompt": "A student uses the dye DCPIP, which is blue and is decolourised by vitamin C, to estimate the vitamin C concentration of a fruit juice. For each solution, vitamin C solution was added drop by drop from a syringe to 1.0 cm³ of DCPIP until the blue colour disappeared, and the volume added was recorded. The juice was tested three times in the same way. The syringe has an actual error of ±0.05 cm³ at each reading. These are our own invented readings, not taken from any published source.\n\n| Concentration of vitamin C solution / mg cm⁻³ | Volume added to decolourise 1.0 cm³ of DCPIP / cm³ |\n|---|---|\n| 0.1 | 10.0 |\n| 0.2 | 5.0 |\n| 0.4 | 2.5 |\n| 0.5 | 2.0 |\n| 1.0 | 1.0 |\n\nFor the fruit juice, the volumes added in three repeats were 1.9 cm³, 2.0 cm³ and 2.1 cm³.\n\n(a) State two variables that should be kept the same for every solution, and say why. [2]\n(b) Calculate the mean volume of juice added, showing your working and giving the number of significant figures you use. [1]\n(c) Describe how you would plot a graph of the volume added against the concentration of vitamin C, including the axes, their labels and units, the scales and the line. [3]\n(d) Use your graph to estimate the vitamin C concentration of the juice, and state how it is read from the graph. [1]\n(e) Calculate the percentage error in the mean volume of juice added. [2]\n(f) Suggest one improvement that would increase confidence in the estimate. [1]",
+   "canonical_answer": "(a) Two variables kept the same are the volume of DCPIP, 1.0 cm³, and the rate at which the drops are added, or the same syringe, for each solution. They are standardised so that only the concentration of vitamin C changes, and a difference in volume can then be attributed to it.\n(b) Mean = (1.9 + 2.0 + 2.1) ÷ 3 = 6.0 ÷ 3 = 2.0 cm³, to two significant figures, the same as the readings.\n(c) The independent variable, the concentration of vitamin C in mg cm⁻³, goes on the x-axis, and the dependent variable, the volume added in cm³, goes on the y-axis, each labelled with its quantity and unit as in the table. The scales are even and the points fill more than half of the grid, for example 0.1 mg cm⁻³ per large square on the x-axis. The points are plotted accurately and a smooth curve is drawn, falling steeply and then more slowly, because the values do not lie on a straight line.\n(d) Read across from 2.0 cm³ on the vertical axis to the curve and down to the concentration axis. The concentration is about 0.5 mg cm⁻³.\n(e) Percentage error = actual error ÷ measured value × 100 = 0.05 ÷ 2.0 × 100 = 2.5 per cent, to two significant figures.\n(f) Repeat with more juice samples, or use a syringe with smaller divisions, or add standards between 0.4 and 1.0 mg cm⁻³, so that the estimate rests on more data and a smaller percentage error.",
+   "marking_guidance": [
+    "Variables in (a), 2 marks: one variable kept the same (1) and the reason, so that only the concentration changes and the result can be attributed to it (1); the independent variable, the concentration of vitamin C, does not earn a mark.",
+    "Calculation in (b), 1 mark: the working and the answer 2.0 cm³; (e), 2 marks: the equation actual error ÷ measured value × 100 with the substitution 0.05 ÷ 2.0 (1) and the answer 2.5 per cent (1). The answer carries the unit per cent and two significant figures.",
+    "Graph in (c), 3 marks: the correct variables on the axes with labels in the form quantity / unit, as in the table headings (1); the scales even and using more than half the grid (1); the points plotted and a smooth curve drawn, not straight lines between points (1). Reading in (d), 1 mark: 0.5 mg cm⁻³ (0.45 to 0.55 accepted), read across from the mean volume to the curve and down.",
+    "Improvement in (f), 1 mark: one change that acts on a specific source of error and says why it increases confidence in the conclusion, such as more repeats or a syringe with smaller divisions, so the error is smaller. Be more careful is not an improvement."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 4.4 from its claim ledger. Scenarios and readings are our own and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.4-004": 1,
+    "CLM-8223-4.4-005": 1,
+    "CLM-8223-4.4-019": 1,
+    "CLM-8223-4.4-020": 1,
+    "CLM-8223-4.4-021": 1,
+    "CLM-8223-4.4-022": 1,
+    "CLM-8223-4.4-023": 1,
+    "CLM-8223-4.4-030": 1,
+    "CLM-8223-4.4-031": 1
+   },
+   "authored_hash": "6809173a79300b1d0c47acf7424abe2b9e4add2b98dfa303dac6295591ac2afb",
+   "objective_titles": [
+    "Find an unknown value from graph coordinates, intercepts or extrapolation.",
+    "Calculate actual and percentage error and judge confidence in the results.",
+    "Judge how standardising variables affects confidence in a conclusion.",
+    "Draw a conclusion from results, including estimating an unknown concentration from known ones."
+   ]
+  }
+ ]
+}

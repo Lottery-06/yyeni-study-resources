@@ -1,0 +1,356 @@
+{
+ "dataset_id": "ITEMS-8223-4.3",
+ "topic_id": "4.3",
+ "items": [
+  {
+   "item_id": "ITEM-8223-4.3-001-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-4.3-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-001",
+    "CLM-8223-4.3-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one feature of the body of a table of raw data.",
+   "canonical_answer": "The body holds the values alone, with no units written in it (the unit is in the column heading).",
+   "marking_guidance": [
+    "1 mark: one feature of the body of the table: numbers or observations only, with no units. Naming a feature of the heading (quantity / unit) describes a different part of the table and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 structural exemplar from the topic 4.3 claim ledger. Illustrative and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-001": 1,
+    "CLM-8223-4.3-002": 1
+   },
+   "authored_hash": "d8dac6fb424e4a83186eeddeb8e00e4c59fbeba7fb133d542f980b9313462b97"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-002-APP",
+   "objective_ids": [
+    "OBJ-8223-4.3-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-001",
+    "CLM-8223-4.3-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A learner records the times of five heartbeat counts as 12 s, 14 s, 11 s, 13 s and 12 s, writing the unit beside each value in the table. Explain how the table should be changed.",
+   "canonical_answer": "The unit should be written once, in the column heading as Time / s, and the values left as 12, 14, 11, 13 and 12. This is because the heading already gives the unit for every value, so the body of the table holds numbers alone and is clear to read.",
+   "marking_guidance": [
+    "2 marks, tied to the given data: the unit moves to the heading, written as Time / s (1); the body holds only the numbers, because the heading covers every value in the column (1).",
+    "An answer that says to remove the units without saying where they go earns 1 mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 structural exemplar from the topic 4.3 claim ledger. Illustrative and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-001": 1,
+    "CLM-8223-4.3-002": 1
+   },
+   "authored_hash": "43f42f4e313fd68e1b442a7553c03eae6116772b814b9af4a00f42f9f9da7e4b"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-003-DEF",
+   "objective_ids": [
+    "OBJ-8223-4.3-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-003",
+    "CLM-8223-4.3-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State the rule that sets the number of significant figures for a calculated value.",
+   "canonical_answer": "A calculated value is given to the same number of significant figures as, or one more than, the measurement of least accuracy that was used.",
+   "marking_guidance": [
+    "1 mark: the statement of the rule, naming the measurement of least accuracy (the one with the fewest significant figures). The key words are same as, or one more than."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 structural exemplar from the topic 4.3 claim ledger. Illustrative and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-003": 1,
+    "CLM-8223-4.3-004": 1
+   },
+   "authored_hash": "db6d8f76bcf1cf48d485ac850d467cb6f45e29043d5189af52cbde21c4033b3c"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-004-CALC",
+   "objective_ids": [
+    "OBJ-8223-4.3-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-003",
+    "CLM-8223-4.3-004",
+    "CLM-8223-4.3-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A potometer bubble moves 36 mm in 4.0 min. Calculate the mean rate of movement, giving the unit and the number of significant figures used.",
+   "canonical_answer": "Rate = distance ÷ time, so 36 ÷ 4.0 = 9. Both measurements have two significant figures, so the rate is 9.0 mm min⁻¹ to two significant figures.",
+   "marking_guidance": [
+    "Working: the equation rate = distance ÷ time with the values substituted, 36 ÷ 4.0 - 1 mark (the first step).",
+    "Final answer: 9.0 mm min⁻¹ with its unit and two significant figures - 1 mark. Writing 9 loses the accuracy of the measurements."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 structural exemplar from the topic 4.3 claim ledger. Illustrative and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-003": 1,
+    "CLM-8223-4.3-004": 1,
+    "CLM-8223-4.3-005": 1
+   },
+   "authored_hash": "f15b78ac5fdaf2b2c0d4e8be7c9ba8ff6f14ec4b586ef8c86764321e23f979d3"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-005-CALC",
+   "objective_ids": [
+    "OBJ-8223-4.3-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-003",
+    "CLM-8223-4.3-004",
+    "CLM-8223-4.3-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A student counts 14 bubbles from a piece of pondweed in 3.0 min. Calculate the number of bubbles per minute, giving the unit and the number of significant figures used.",
+   "canonical_answer": "Rate = bubbles ÷ time, so 14 ÷ 3.0 = 4.667. Both measurements have two significant figures, so the rate is 4.7 bubbles min⁻¹ to two significant figures.",
+   "marking_guidance": [
+    "Working: the formula bubbles ÷ time, with the figures substituted, 14 ÷ 3.0 - 1 mark.",
+    "Final answer: 4.7 bubbles min⁻¹ with its unit and two significant figures - 1 mark (4.67 is accepted as one more than the measurements). The calculator display, 4.6666667, is an unrounded value and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 structural exemplar from the topic 4.3 claim ledger. Illustrative and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-003": 1,
+    "CLM-8223-4.3-004": 1,
+    "CLM-8223-4.3-005": 1
+   },
+   "authored_hash": "8ac1115cd9abf0a09ed1fc8d29e47c9184749d6c0297e497c98f6e431829b860"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-006-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-4.3-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-006",
+    "CLM-8223-4.3-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State which variable is placed on the x-axis of a graph.",
+   "canonical_answer": "The independent variable, the one the investigator changes, is placed on the x-axis.",
+   "marking_guidance": [
+    "1 mark: the independent variable. The dependent variable, the one measured, is the feature of the y-axis and earns no mark here."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 structural exemplar from the topic 4.3 claim ledger. Illustrative and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-006": 1,
+    "CLM-8223-4.3-007": 1
+   },
+   "authored_hash": "b4fd0ddffba1704c8235fc96a96a6d4f478612408f5f4fbaa4bba455a2c7703b"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-007-APP",
+   "objective_ids": [
+    "OBJ-8223-4.3-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-006",
+    "CLM-8223-4.3-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A student changes the distance of a lamp from a plant (10, 20, 30 cm) and counts the bubbles released in 3.0 min. The student draws a graph with the number of bubbles on the x-axis and the distance on the y-axis. Explain what is wrong with the axes.",
+   "canonical_answer": "The distance is the variable the student changed, so it is the independent variable and belongs on the x-axis. The number of bubbles is measured in response, so it is the dependent variable and belongs on the y-axis. The two axes have been placed the wrong way round.",
+   "marking_guidance": [
+    "2 marks, tied to the given situation: the distance is the independent variable, so it belongs on the x-axis (1); the number of bubbles is the dependent variable, so it belongs on the y-axis (1).",
+    "Naming the two variables without saying which axis each belongs on earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 structural exemplar from the topic 4.3 claim ledger. Illustrative and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-006": 1,
+    "CLM-8223-4.3-007": 1
+   },
+   "authored_hash": "617885f270f993d82715123fd9753d321882a772dbb04267da4a00892a5538f7"
+  },
+  {
+   "item_id": "ITEM-8223-4.3-P01",
+   "objective_ids": [
+    "OBJ-8223-4.3-01",
+    "OBJ-8223-4.3-05",
+    "OBJ-8223-4.3-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-4.3-001",
+    "CLM-8223-4.3-002",
+    "CLM-8223-4.3-003",
+    "CLM-8223-4.3-004",
+    "CLM-8223-4.3-005",
+    "CLM-8223-4.3-006",
+    "CLM-8223-4.3-007"
+   ],
+   "item_type": "practical_task",
+   "subtype": null,
+   "assessment_objectives": [
+    "C"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "State",
+   "mark_tariff": 10,
+   "difficulty": 3,
+   "prompt": "A student set up a lamp at different distances from a piece of pondweed in water and counted the bubbles of gas released from the cut stem in 3.0 minutes at each distance. The same piece of pondweed, the same lamp and the same water temperature were used each time. These are our own invented readings, not taken from any published source.\n\n| Distance from lamp / cm | Number of bubbles in 3.0 min |\n|---|---|\n| 10 | 57 |\n| 20 | 38 |\n| 30 | 24 |\n| 40 | 15 |\n| 50 | 11 |\n\n(a) State the independent variable and the dependent variable in this investigation. [2]\n(b) The units are written in the column headings and not beside the values in the table. Explain why. [2]\n(c) Calculate the number of bubbles per minute at 20 cm, showing your working and giving the number of significant figures you use. [2]\n(d) You will plot a graph of the number of bubbles per minute against the distance from the lamp on your own graph paper. State which variable goes on each axis and write the label, with its unit, for each axis. [4]",
+   "canonical_answer": "(a) The independent variable is the distance from the lamp. The dependent variable is the number of bubbles released in 3.0 minutes.\n(b) The heading gives the unit once for the whole column, so the body of the table can hold numbers alone. This keeps the table clear and every value is read against its heading.\n(c) Rate = bubbles ÷ time, so 38 ÷ 3.0 = 12.667. Both measurements have two significant figures, so the rate is 13 bubbles min⁻¹ to two significant figures (12.7 is also acceptable, as one more).\n(d) The distance, the independent variable, goes on the x-axis, labelled Distance from lamp / cm. The number of bubbles per minute, the dependent variable, goes on the y-axis, labelled Rate / bubbles min⁻¹. Both labels match the headings of the table columns they come from.",
+   "marking_guidance": [
+    "Table and headings: part (b) credits the unit in the column heading, the body numbers only - 2 marks; the table is given, so the learner explains its layout, not a new table.",
+    "Working and answer in (c): the substitution 38 ÷ 3.0 - 1 mark; 13 bubbles min⁻¹ with two significant figures - 1 mark. Variables in (a): 1 mark each.",
+    "Graph axes in (d): the independent variable on x and the dependent variable on y - 2 marks (1 each); each axis labelled with its quantity and unit to match the table - 2 marks (1 each). The control of the same pondweed, lamp and temperature is part of the scenario, not a mark here."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 structural exemplar from the topic 4.3 claim ledger. Illustrative and unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-4.3-001": 1,
+    "CLM-8223-4.3-002": 1,
+    "CLM-8223-4.3-003": 1,
+    "CLM-8223-4.3-004": 1,
+    "CLM-8223-4.3-005": 1,
+    "CLM-8223-4.3-006": 1,
+    "CLM-8223-4.3-007": 1
+   },
+   "authored_hash": "a346b8f883d8963e3d85fab1a5c273d767550674186824aa7a440bb29a217599"
+  }
+ ]
+}

@@ -1,0 +1,788 @@
+{
+ "dataset_id": "ITEMS-8223-1.3",
+ "topic_id": "1.3",
+ "items": [
+  {
+   "item_id": "ITEM-8223-1.3-001-DEF",
+   "objective_ids": [
+    "OBJ-8223-1.3-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.3-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by biodiversity.",
+   "canonical_answer": "Biodiversity is the variety of living organisms in an area, including the variety of species, the genetic variation within each species and the variety of ecosystems.",
+   "marking_guidance": [
+    "1 mark for the key words: variety of living organisms (or the variety of species, genetic variation and ecosystems). The statement is a definition of the term, so a description of one species alone earns no mark.",
+    "Reject a statement that biodiversity means the number of individuals; it means the variety."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.3 from the topic 1.3 claim ledger. Scenario and answer are our own. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.3-001": 1
+   },
+   "authored_hash": "9746ec31e26d9fe63879c0f04a3d1cfc8e10702f43918d71d485bec3e2b6c906"
+  },
+  {
+   "item_id": "ITEM-8223-1.3-002-MECH",
+   "objective_ids": [
+    "OBJ-8223-1.3-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.3-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A savanna community with many species is more likely to keep working after one species declines than a community with few species. Explain how.",
+   "canonical_answer": "A community with many species has many feeding links. When one species declines, other species can often take over part of its role, for example a predator switching to another prey, so the loss does not cause a chain of losses and the ecosystem keeps working. A community with few species has fewer links, so there is less chance that another species can fill the gap.",
+   "marking_guidance": [
+    "2 marks from three points: many species give many feeding links (1); another species can take over the role, for example a predator switching prey (1); so the loss is less likely to cause further losses, because the ecosystem has alternatives (1).",
+    "The mechanism is a tendency, so an answer that says the ecosystem is certain to survive does not earn the third point. The cause must lead to the result: more links, so other species fill the role."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.3 from the topic 1.3 claim ledger. Scenario and answer are our own. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.3-002": 1
+   },
+   "authored_hash": "d46e222d13c483118b7ff71371d84807ffeedcf5362787d84ed2272e1d8b0535"
+  },
+  {
+   "item_id": "ITEM-8223-1.3-003-DEF",
+   "objective_ids": [
+    "OBJ-8223-1.3-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.3-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by eutrophication.",
+   "canonical_answer": "Eutrophication is the enrichment of water with nutrients, mainly nitrates and phosphates, which causes a rapid growth of algae and plants.",
+   "marking_guidance": [
+    "1 mark for the key words: enrichment of water with nutrients (nitrates or phosphates). The definition is of the term and not of the damage that follows.",
+    "Accept fertiliser or sewage as the source if the nutrients are named. Reject a statement that only describes fish dying."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.3 from the topic 1.3 claim ledger. Scenario and answer are our own. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.3-004": 1
+   },
+   "authored_hash": "426cb1c46dd8003a6403e13eae3c8445d4f3081cc3e78c07b71fb90113367f20"
+  },
+  {
+   "item_id": "ITEM-8223-1.3-004-MECH",
+   "objective_ids": [
+    "OBJ-8223-1.3-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.3-004",
+    "CLM-8223-1.3-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Water from irrigated fields near Rundu, rich in nitrate from fertiliser, runs into a slow-moving backwater of the river. Explain how this can lead to the death of fish in the backwater.",
+   "canonical_answer": "The extra nitrate lets algae grow quickly and form a bloom across the surface, which cuts off light, so submerged plants die. Aerobic bacteria decompose the dead algae and plants and respire, which uses up the dissolved oxygen, so the fish do not get enough oxygen and die.",
+   "marking_guidance": [
+    "2 marks from four points: nitrate causes rapid algal growth, or a bloom (1); the bloom blocks light so submerged plants die (1); bacteria decompose the dead material and use up oxygen in respiration (1); fish die because of too little oxygen (1).",
+    "The chain matters: each point must lead to the next, because naming the bloom and the fish death without the bacteria and oxygen is a gap in the mechanism. The cap is 2 marks."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.3 from the topic 1.3 claim ledger. Scenario and answer are our own. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.3-004": 1,
+    "CLM-8223-1.3-005": 1
+   },
+   "authored_hash": "14106c4e964ff78ec20ab2f9fcc76fd279aea1ac9ecb5013faca7627dab7a7d0"
+  },
+  {
+   "item_id": "ITEM-8223-1.3-016-INTERP",
+   "objective_ids": [
+    "OBJ-8223-1.3-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.3-006",
+    "CLM-8223-1.3-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A study of a river that receives mine waste gave our readings of a persistent poison in the tissues of organisms in one food chain.\n\n| Organism | Concentration of the poison in tissue (µg per g) |\n|---|---|\n| Algae | 0.02 |\n| Small fish (tilapia) | 0.4 |\n| Tigerfish | 2.1 |\n| Fish eagle | 25 |\n\nDescribe what the table shows about the concentration of the poison along the food chain, and what this means for the fish eagle.",
+   "canonical_answer": "The values in the table increase at each step along the food chain, from 0.02 µg per g in algae to 25 µg per g in the fish eagle, so the top consumer holds the highest concentration. This means the poison is persistent and builds up in tissue, so the fish eagle is at the greatest risk of harm.",
+   "marking_guidance": [
+    "2 marks: the data show the concentration increasing at each feeding level, from 0.02 to 25 µg per g, with the highest value in the fish eagle (1); this means the poison builds up in the tissues of top consumers because it is not broken down or excreted, so they are most at risk (1).",
+    "The reading must come from the table, with a value quoted, and the means point must link the pattern to harm for the fish eagle. A statement that the water is polluted earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.3 from the topic 1.3 claim ledger. Scenario and answer are our own. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.3-006": 1,
+    "CLM-8223-1.3-007": 1
+   },
+   "authored_hash": "f4b750054dc4419d28c13fdf2ccb70b8d3990adc929b234f727e7b2cceb2eadc"
+  },
+  {
+   "item_id": "ITEM-8223-1.3-005-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-1.3-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.3-009",
+    "CLM-8223-1.3-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Describe the role of a seed bank and the role of a national park in the conservation of endangered species.",
+   "canonical_answer": "A seed bank stores seeds of wild plants, dried and kept cold, so that they stay alive for many years and can be grown later to rebuild a population. A national park protects a whole habitat and its species in their natural environment, with laws and ranger patrols that reduce poaching and habitat loss.",
+   "marking_guidance": [
+    "2 marks, one for each point: seed bank stores seeds dried and cold so they stay alive and can be grown later (1); national park protects habitat and species in situ, with legal protection or patrols against poaching (1).",
+    "Each feature of the role must be named: storing seeds, or protecting the habitat. A statement that both places help endangered species earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.3 from the topic 1.3 claim ledger. Scenario and answer are our own. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.3-009": 1,
+    "CLM-8223-1.3-010": 1
+   },
+   "authored_hash": "e51813095ad81c65da60728e4924cfb6189c0e9f95e40171dc6e9dc2fb020edc"
+  },
+  {
+   "item_id": "ITEM-8223-1.3-006-MECH",
+   "objective_ids": [
+    "OBJ-8223-1.3-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.3-010",
+    "CLM-8223-1.3-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "The wild population of a mammal has fallen to a handful of animals, and a frozen zoo holds stored sperm, eggs and embryos of the species. Describe how the frozen zoo can help to save the species.",
+   "canonical_answer": "The sperm, eggs and embryos are kept at a very low temperature, usually in liquid nitrogen, so the genetic material stays alive for many years. Later they can be used in artificial insemination or breeding to produce young, which causes the population to grow, and the stored material also brings back genetic variation that the small wild group has lost.",
+   "marking_guidance": [
+    "2 marks from three points: stored at very low temperature (liquid nitrogen) so it stays alive (1); used later for artificial insemination or breeding to produce offspring (1); keeps genetic variation, which the small population lacks, so that inbreeding is less likely (1).",
+    "The how must be a mechanism: storage keeps the material alive, which then leads to offspring. Naming the frozen zoo alone earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.3 from the topic 1.3 claim ledger. Scenario and answer are our own. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.3-010": 1,
+    "CLM-8223-1.3-011": 1
+   },
+   "authored_hash": "ff45e7745737db17134b5368a1d8c0ac58adf1a9034ceb558ee36c967abe0950"
+  },
+  {
+   "item_id": "ITEM-8223-1.3-007-DEF",
+   "objective_ids": [
+    "OBJ-8223-1.3-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.3-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by culling.",
+   "canonical_answer": "Culling is the selective killing of some animals in a population to reduce its size.",
+   "marking_guidance": [
+    "1 mark for the key words: selective killing of animals to reduce the size of a population. The term means a planned removal, not hunting for sport or poaching."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.3 from the topic 1.3 claim ledger. Scenario and answer are our own. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.3-012": 1
+   },
+   "authored_hash": "f452f58cf614ffa3e991ed9506fface63e07035e50ef39ef58a9776a2339e2ce"
+  },
+  {
+   "item_id": "ITEM-8223-1.3-008-MECH",
+   "objective_ids": [
+    "OBJ-8223-1.3-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.3-012",
+    "CLM-8223-1.3-013",
+    "CLM-8223-1.3-014"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A fenced reserve in northern Botswana holds many more elephants than its woodland can support. Explain how reducing the number of elephants could reduce pressure on other species.",
+   "canonical_answer": "A large elephant population feeds on trees and bark and strips the ground of cover, so woodland is lost. Fewer elephants cause less damage, so the woodland recovers, which leads to more food and shelter for the birds and browsers that depend on it.",
+   "marking_guidance": [
+    "2 marks from three points: too many elephants strip trees and ground cover (1); fewer elephants means less damage, so woodland recovers (1); other species have more food and shelter as a result (1).",
+    "The answer is for a fenced reserve where natural controls are weak, and it should link elephant numbers to the effect on other species because the question asks how pressure falls. Contraception or culling may be named as the way of limiting numbers."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.3 from the topic 1.3 claim ledger. Scenario and answer are our own. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.3-012": 1,
+    "CLM-8223-1.3-013": 1,
+    "CLM-8223-1.3-014": 1
+   },
+   "authored_hash": "f4ac25e43646af1c1f7f288dde747246b681497d89db8be54f659f9ba0a097aa"
+  },
+  {
+   "item_id": "ITEM-8223-1.3-009-DEF",
+   "objective_ids": [
+    "OBJ-8223-1.3-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.3-015"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by an alien species.",
+   "canonical_answer": "An alien species is a species that has been introduced, usually by human activity, into an area outside its natural range.",
+   "marking_guidance": [
+    "1 mark for the key words: introduced (by people) into an area outside its natural range. The term is not the same as invasive, which describes an alien species that spreads and harms native species."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.3 from the topic 1.3 claim ledger. Scenario and answer are our own. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.3-015": 1
+   },
+   "authored_hash": "5b92e86af5cd7dc5c613236aa701bb977525344f0e820531d7a8050201e5c127"
+  },
+  {
+   "item_id": "ITEM-8223-1.3-010-MECH",
+   "objective_ids": [
+    "OBJ-8223-1.3-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.3-015",
+    "CLM-8223-1.3-016",
+    "CLM-8223-1.3-017"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Salvinia, a floating plant from South America, has covered the surface of a dam in southern Africa. Explain, using this example, why the control of alien species is important.",
+   "canonical_answer": "Salvinia has no natural predators or competitors in the dam, so it spreads quickly into a thick mat. The mat cuts off light, so submerged native plants die, which reduces the oxygen and the food for the animals that live there. The number of native species falls, so the biodiversity of the dam is reduced.",
+   "marking_guidance": [
+    "2 marks from three points: the alien plant spreads fast because its natural predators and competitors are absent (1); the mat blocks light so native plants die, and oxygen falls (1); native species and biodiversity decrease as a result (1).",
+    "The answer must use the Salvinia example given, because the question asks for an example; a general statement that aliens are harmful earns no mark. Each cause must lead to a result."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.3 from the topic 1.3 claim ledger. Scenario and answer are our own. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.3-015": 1,
+    "CLM-8223-1.3-016": 1,
+    "CLM-8223-1.3-017": 1
+   },
+   "authored_hash": "aae616efe041386edf5541d33e35d72bfb44f8c46b0496d70e926b9699cfdbc4"
+  },
+  {
+   "item_id": "ITEM-8223-1.3-011-DEF",
+   "objective_ids": [
+    "OBJ-8223-1.3-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.3-018"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by habitat restoration.",
+   "canonical_answer": "Habitat restoration is the active repair of a degraded habitat, one already damaged, to bring back its native plants, animals and ecosystem functions.",
+   "marking_guidance": [
+    "1 mark for the key words: active repair of a damaged (degraded) habitat. The term means repairing damaged land, so protecting habitat that is intact does not earn the mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.3 from the topic 1.3 claim ledger. Scenario and answer are our own. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.3-018": 1
+   },
+   "authored_hash": "a35a73a4f98f72971995cc6d0242b1f185bd1fc307b049b5ba22d18002a70b0e"
+  },
+  {
+   "item_id": "ITEM-8223-1.3-012-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-1.3-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.3-019"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one action that helps to restore a communal rangeland in northern Namibia that has been degraded by overgrazing.",
+   "canonical_answer": "Livestock are removed for a period so that the grass can recover (reseeding with native grasses or thinning encroaching bush are also accepted).",
+   "marking_guidance": [
+    "1 mark for one point from: resting the land by removing livestock for a time or using rotational grazing; reseeding or replanting with native grasses; thinning encroaching thorn bush; stabilising bare soil. The feature must be an action on the damaged land.",
+    "Reject creating a new reserve, because that protects habitat and does not repair it."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.3 from the topic 1.3 claim ledger. Scenario and answer are our own. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.3-019": 1
+   },
+   "authored_hash": "c19a103515a496e115b6099464cccef31fc758aa001234865ff61b76971a0503"
+  },
+  {
+   "item_id": "ITEM-8223-1.3-015-MISCON",
+   "objective_ids": [
+    "OBJ-8223-1.3-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.3-018",
+    "CLM-8223-1.3-019",
+    "CLM-8223-1.3-020"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner says that the best way to restore a river bank near Katima Mulilo, now bare and covered in alien plants, is to declare it a nature reserve. Explain the error.",
+   "canonical_answer": "The error is a confusion between protecting a habitat and restoring one. A reserve keeps intact habitat safe from future damage, but it does not repair land that is already damaged: the bank stays bare and full of alien plants until the alien plants are removed and native plants are replanted. The test is to ask whether the habitat is still intact or already damaged. This bank is already damaged, so restoration actions are needed instead.",
+   "marking_guidance": [
+    "2 marks: the error named, that a reserve is a way to protect habitat and not to repair damaged habitat (1); the correct idea, that damaged land needs action such as removing alien plants and replanting native species, or the test of whether the habitat is intact or already damaged (1).",
+    "The card is a discrimination between protection and restoration, not a repeat of the definition of restoration."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.3 from the topic 1.3 claim ledger. Scenario and answer are our own. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.3-018": 1,
+    "CLM-8223-1.3-019": 1,
+    "CLM-8223-1.3-020": 1
+   },
+   "authored_hash": "22520b8bee69d950aa3317387d46c930bfca0d87df3d147e677cedcf0ea61d95"
+  },
+  {
+   "item_id": "ITEM-8223-1.3-013-PROC",
+   "objective_ids": [
+    "OBJ-8223-1.3-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.3-021",
+    "CLM-8223-1.3-022"
+   ],
+   "item_type": "flashcard",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "prompt": "Describe, in order, how the poaching of rhinos in a reserve can lead to a loss of income for a lodge and the people it employs.",
+   "canonical_answer": "First, poaching reduces the number of rhinos in the reserve. Then there are fewer sightings, so the reserve is less attractive and some tourists choose other destinations. Finally, fewer tourists spend money at the lodge, so its income falls and jobs for guides and staff are lost.",
+   "marking_guidance": [
+    "3 marks, one for each stage in the correct order: poaching reduces the number of rhinos (1); fewer sightings so tourists choose elsewhere (1); less income at the lodge, with jobs lost, as the result (1).",
+    "The sequence is the point: stages out of order, or a statement of lost income with no earlier step, earns no mark. A further creditworthy point is the cost of anti-poaching patrols, but the tariff is 3."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.3 from the topic 1.3 claim ledger. Scenario and answer are our own. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.3-021": 1,
+    "CLM-8223-1.3-022": 1
+   },
+   "authored_hash": "e8713d9dae0cec56d5a454708eee0523a91fe08ec048f33d1ffd96fbf337b8d8"
+  },
+  {
+   "item_id": "ITEM-8223-1.3-014-WHY",
+   "objective_ids": [
+    "OBJ-8223-1.3-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.3-021",
+    "CLM-8223-1.3-023"
+   ],
+   "item_type": "flashcard",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Explain why a reserve in South Africa that loses rhinos to poaching may receive fewer bookings from tourists.",
+   "canonical_answer": "Rhinos are among the animals tourists most want to see, so the reason is that the reserve becomes less attractive when there are fewer sightings. News of poaching can also damage its reputation as a safe place to see wildlife, because of which some tourists choose other destinations.",
+   "marking_guidance": [
+    "2 marks: because rhinos are a main attraction, so fewer rhinos means fewer sightings (1); news of poaching harms the reputation of the reserve, so tourists tend to choose other destinations (1).",
+    "The reason must be about the tourist's choice. A statement that there is less money earns no mark because it describes the result and not the reason."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.3 from the topic 1.3 claim ledger. Scenario and answer are our own. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.3-021": 1,
+    "CLM-8223-1.3-023": 1
+   },
+   "authored_hash": "0036908ab7640ca7a3b9b040d83a34134110ed612b389146e62fb6576e70b0de"
+  },
+  {
+   "item_id": "ITEM-8223-1.3-P01",
+   "objective_ids": [
+    "OBJ-8223-1.3-02",
+    "OBJ-8223-1.3-03",
+    "OBJ-8223-1.3-04",
+    "OBJ-8223-1.3-05",
+    "OBJ-8223-1.3-06",
+    "OBJ-8223-1.3-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.3-004",
+    "CLM-8223-1.3-005",
+    "CLM-8223-1.3-006",
+    "CLM-8223-1.3-007",
+    "CLM-8223-1.3-009",
+    "CLM-8223-1.3-010",
+    "CLM-8223-1.3-012",
+    "CLM-8223-1.3-013",
+    "CLM-8223-1.3-014",
+    "CLM-8223-1.3-015",
+    "CLM-8223-1.3-016",
+    "CLM-8223-1.3-017",
+    "CLM-8223-1.3-018",
+    "CLM-8223-1.3-019",
+    "CLM-8223-1.3-020",
+    "CLM-8223-1.3-021",
+    "CLM-8223-1.3-022"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": null,
+   "mark_tariff": 12,
+   "difficulty": 3,
+   "prompt": "Twelve questions. Choose one option for each.\n\n1. Which statement describes bioaccumulation?\nA  A rapid growth of algae after nutrients enter the water.\nB  The build-up of a persistent substance in the tissues of an organism over time.\nC  The movement of nutrients from the soil into a river.\nD  The breakdown of a poison by bacteria in the water.\n\n2. Why does the oxygen concentration in a dam fall after an algal bloom has died?\nA  Living algae release oxygen into the water faster than fish use it.\nB  Fertiliser in the water reacts directly with dissolved oxygen.\nC  Aerobic bacteria respire as they decompose the dead algae.\nD  Fish eat the dead algae and use more oxygen in respiration.\n\n3. A persistent poison passes along the food chain algae → small fish → tigerfish → fish eagle. In which organism is its concentration likely to be highest?\nA  algae\nB  small fish\nC  tigerfish\nD  fish eagle\n\n4. Which is an example of conservation in situ?\nA  Protecting black rhinos inside a national park.\nB  Breeding cheetahs in a zoo.\nC  Keeping wild plant seeds in a cold store.\nD  Keeping sperm of an endangered antelope in liquid nitrogen.\n\n5. Why are the seeds in a seed bank dried and kept cold?\nA  So that they germinate faster when they are planted.\nB  So that they stay alive for many years without germinating.\nC  So that animals cannot eat them.\nD  So that they change into a new species.\n\n6. Which action restores a degraded habitat?\nA  Declaring the damaged land a new nature reserve.\nB  Building a zoo beside the damaged land.\nC  Thinning encroaching bush and reseeding native grass on an overgrazed farm.\nD  Freezing sperm from animals that once lived on the land.\n\n7. Why might elephants be culled in a small fenced reserve?\nA  To make the elephants breed faster.\nB  To reduce the damage to woodland that other species depend on.\nC  To increase the number of tourists.\nD  To bring in elephants from other areas.\n\n8. Which is an advantage of contraception over culling for limiting an elephant population?\nA  It reduces the numbers faster.\nB  It costs less for each animal.\nC  It removes the need to monitor individual animals.\nD  No animals are killed.\n\n9. Why can an alien plant such as Salvinia spread quickly in a dam?\nA  Its natural predators and competitors are absent from the dam.\nB  It is able to make more oxygen than native plants.\nC  It was planted by the government.\nD  It grows best in water that has no nutrients.\n\n10. What must be shown about an insect before it is released as a biological control agent against an alien plant?\nA  That it breeds faster than the plant grows.\nB  That it is large enough to be seen.\nC  That it feeds on the target plant and not on native plants.\nD  That it has no natural predators.\n\n11. Which sequence shows how rhino poaching can reduce the income of a lodge near a reserve?\nA  poaching → fewer rhinos → fewer sightings → fewer bookings → less income\nB  fewer bookings → fewer rhinos → poaching → fewer sightings → less income\nC  less income → fewer sightings → poaching → fewer rhinos → fewer bookings\nD  fewer sightings → poaching → less income → fewer rhinos → fewer bookings\n\n12. A learner says that a bare, degraded river bank should be restored by declaring a reserve. Which statement is correct?\nA  A reserve restores habitat by itself, so the learner is right.\nB  A reserve is a type of zoo, so it cannot protect habitat.\nC  Restoration is the same as protection, so any reserve will do.\nD  A reserve protects intact habitat, so the damaged bank needs replanting and the removal of alien plants.",
+   "canonical_answer": "Key: 1 B, 2 C, 3 D, 4 A, 5 B, 6 C, 7 B, 8 D, 9 A, 10 C, 11 A, 12 D.\n1. Key B is the definition of bioaccumulation. Distractor A is an error: it describes eutrophication. Distractor C describes leaching, and distractor D is an error because a persistent substance is not broken down.\n2. Key C: decomposers use oxygen in respiration. Distractor A is an error that reverses the effect of photosynthesis in living algae. Distractor B is wrong because fertiliser does not react with oxygen directly. Distractor D is an error that credits fish and not the decomposers.\n3. Key D: the poison is passed on from many prey, so the top consumer tends to hold the highest concentration. Distractors A, B and C come from the error of thinking the first organism to take the poison up holds the most.\n4. Key A: conservation in the natural habitat is in situ. Distractors B, C and D are all kept outside the natural habitat (a zoo, a seed bank and a frozen zoo), which is the error of treating storage as in situ.\n5. Key B: dry, cold seeds are inactive and survive. Distractor A is an error about germination. Distractor C and distractor D have no basis in the biology of storage.\n6. Key C: restoration is an active repair of damaged land. Distractor A is the misconception that a reserve repairs habitat. Distractors B and D are conservation methods that do not repair the land.\n7. Key B: too many elephants strip woodland. Distractor A is wrong because culling reduces numbers. Distractors C and D are not reasons for culling.\n8. Key D: contraception does not kill. Distractor A is an error because contraception acts slowly. Distractor B is wrong because contraception costs more per animal. Distractor C is wrong because animals are tracked.\n9. Key A: with no natural enemies, the population is not held down. Distractors B, C and D are errors with no basis in the biology of invasion.\n10. Key C: the agent has to be tested for host-specificity. Distractors A, B and D are errors; none of them protects native plants.\n11. Key A is the correct chain. Distractors B, C and D are errors that put effects before their causes.\n12. Key D: protection and restoration are different. Distractor A is the misconception, distractor B is wrong about reserves, and distractor C is an error because restoration is not the same as protection.",
+   "marking_guidance": [
+    "12 marks, one for each correct option. The key is given for each question, with the reason for the correct option and the error behind each distractor.",
+    "About half the questions recall a term or fact (1, 4, 5, 7, 8, 9) and about half apply an idea to a situation, a sequence or a food chain (2, 3, 6, 10, 11, 12). Each distractor comes from a known error, and the misconception that a reserve restores habitat is used in 6 and 12."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.3 from the topic 1.3 claim ledger. Scenario and answer are our own. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.3-004": 1,
+    "CLM-8223-1.3-005": 1,
+    "CLM-8223-1.3-006": 1,
+    "CLM-8223-1.3-007": 1,
+    "CLM-8223-1.3-009": 1,
+    "CLM-8223-1.3-010": 1,
+    "CLM-8223-1.3-012": 1,
+    "CLM-8223-1.3-013": 1,
+    "CLM-8223-1.3-014": 1,
+    "CLM-8223-1.3-015": 1,
+    "CLM-8223-1.3-016": 1,
+    "CLM-8223-1.3-017": 1,
+    "CLM-8223-1.3-018": 1,
+    "CLM-8223-1.3-019": 1,
+    "CLM-8223-1.3-020": 1,
+    "CLM-8223-1.3-021": 1,
+    "CLM-8223-1.3-022": 1
+   },
+   "authored_hash": "84378831a32823b6f5ba02646f936c5873c4574f0dc77ca9352fee0b390b25f2"
+  },
+  {
+   "item_id": "ITEM-8223-1.3-P02",
+   "objective_ids": [
+    "OBJ-8223-1.3-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.3-004",
+    "CLM-8223-1.3-005"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "State",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "A town in Namibia releases some of its sewage into Omuramba Dam, which also receives run-off from irrigated fields. These are our readings, taken over one year at the same time of day.\n\n| Month | Nitrate (mg per dm³) | Algae (thousand cells per cm³) | Dissolved oxygen (mg per dm³) |\n|---|---|---|---|\n| August | 1.2 | 15 | 8.1 |\n| October | 3.8 | 90 | 8.4 |\n| December | 6.5 | 640 | 7.2 |\n| February | 6.9 | 210 | 2.1 |\n| April | 6.4 | 40 | 1.4 |\n\n(a) State one way in which nitrate from the town could enter the dam. [1]\n(b) State what is meant by eutrophication. [1]\n(c) Using the data, explain why the number of algae increased between August and December. [2]\n(d) Explain why the dissolved oxygen fell between December and April although the number of algae also fell. [2]\n(e) State two ways in which nitrate entering the dam could be reduced. [2]",
+   "canonical_answer": "(a) Fertiliser washes off the irrigated fields, or sewage from the town is released into the dam.\n(b) Eutrophication is the enrichment of water with nutrients, mainly nitrates and phosphates.\n(c) Nitrate rose from 1.2 to 6.5 mg per dm³, so more nutrient was available and the algae could grow and reproduce faster, which raised the count from 15 to 640 thousand cells per cm³.\n(d) The algae died after the bloom, and aerobic bacteria decomposed the dead cells and used up the dissolved oxygen in respiration, which is why the oxygen fell to 1.4 mg per dm³ even though fewer living algae were left.\n(e) Treat the sewage before release; apply less fertiliser, or at times that crops can use it; plant a strip of vegetation along the water to take up nutrients.",
+   "marking_guidance": [
+    "Marks and points: (a) 1 mark for fertiliser run-off or sewage; (b) 1 mark for the key words enrichment of water with nutrients; (c) 2 marks from three points: nitrate increases from 1.2 to 6.5 mg per dm³, algae use the extra nutrient to grow and reproduce, count rises to 640; (d) 2 marks from three points: dead algae are decomposed, by aerobic bacteria that respire, which uses up oxygen; (e) 2 marks for two of: treat sewage, less or better-timed fertiliser, vegetation strip beside the water.",
+    "Parts (a), (b) and (e) credit AO A (4 marks); parts (c) and (d) credit AO B (4 marks). Part (c) must quote a value from the table, because the question says using the data; part (d) earns the reason because the cause is the decomposers, not the fish. More creditworthy points are available than marks in (c), (d) and (e)."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.3 from the topic 1.3 claim ledger. Scenario and answer are our own. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.3-004": 1,
+    "CLM-8223-1.3-005": 1
+   },
+   "authored_hash": "1fdd87b0cfbbfbd5f9d0841514d268419467a1c6817416f4d1360465020e8727"
+  }
+ ]
+}

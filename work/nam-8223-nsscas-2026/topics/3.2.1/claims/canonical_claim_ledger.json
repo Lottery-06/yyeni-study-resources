@@ -1,0 +1,540 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-3.2.1",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-3.2.1-001",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-01"
+   ],
+   "text": "A nucleotide is made of three parts joined together: a phosphate group, a pentose (five-carbon) sugar and a nitrogenous base. The sugar is deoxyribose in a DNA nucleotide and ribose in an RNA nucleotide.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.19, topic 3.2.1",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2021-P1-Q38",
+     "locator": "examiner-report finding and creditworthy points recorded under this evidence id",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 3.2.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Unverified; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (the syllabus line is the one source named).",
+    "The syllabus limit that structural formulae are not required is respected: the structure is given in words only."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.2.1-002",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-01"
+   ],
+   "text": "ATP (adenosine triphosphate) is a phosphorylated nucleotide: its base is adenine, its sugar is ribose, and a chain of three phosphate groups is attached to the sugar, where a single nucleotide such as adenosine monophosphate has one.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.19, topic 3.2.1",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2023-P1-Q40",
+     "locator": "examiner-report finding and creditworthy points recorded under this evidence id",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 3.2.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Unverified; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (the syllabus line is the one source named).",
+    "Phosphorylated here means that extra phosphate groups have been added to the nucleotide."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.2.1-003",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-01"
+   ],
+   "text": "When the end phosphate group of ATP is removed by hydrolysis, ATP becomes ADP and a free phosphate group, and energy is released that the cell can use for processes that need it; ATP is made again by adding a phosphate group to ADP.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.19, topic 3.2.1",
+     "support_type": "derivation"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 3.2.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Unverified; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (the syllabus line is the one source named).",
+    "Extends the syllabus line slightly: the function of ATP is developed in the energy topics; here it explains why the extra phosphate groups matter. Biology stated as in standard texts."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.2.1-004",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-02"
+   ],
+   "text": "Adenine and guanine are purines, which have a double ring structure; cytosine, thymine and uracil are pyrimidines, which have a single ring structure.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.19, topic 3.2.1",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2021-P1-Q39",
+     "locator": "examiner-report finding and creditworthy points recorded under this evidence id",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 3.2.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Unverified; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (the syllabus line is the one source named).",
+    "Ring structure is given in words; no structural formula or molecular formula of any base is needed."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.2.1-005",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-02"
+   ],
+   "text": "DNA contains the bases adenine, guanine, cytosine and thymine; RNA contains adenine, guanine, cytosine and uracil, so uracil takes the place of thymine in RNA.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.19, topic 3.2.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 3.2.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Unverified; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (the syllabus line is the one source named).",
+    "Standard biology; the syllabus lists the three pyrimidines, which implies the DNA and RNA base sets."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.2.1-006",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-03"
+   ],
+   "text": "A DNA molecule is a double helix of two polynucleotide strands that run in opposite directions. Within each strand the sugar of one nucleotide is joined to the phosphate group of the next by a strong covalent bond, forming a sugar-phosphate backbone, and the bases point inwards, where each is paired with a base on the other strand.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.19, topic 3.2.1",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2022-P1-Q39",
+     "locator": "examiner-report finding and creditworthy points recorded under this evidence id",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 3.2.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Unverified; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (the syllabus line is the one source named).",
+    "Antiparallel strands and the covalent backbone are standard A level biology and are not named in the syllabus line."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.2.1-007",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-03"
+   ],
+   "text": "An RNA molecule is usually a single polynucleotide strand, its sugar is ribose and its bases include uracil instead of thymine, whereas DNA is a double helix of two strands, with deoxyribose and thymine. An RNA strand may fold back on itself so that some of its bases pair.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.19, topic 3.2.1",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2023-P2-Q2a",
+     "locator": "examiner-report finding and creditworthy points recorded under this evidence id",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 3.2.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Unverified; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (the syllabus line is the one source named).",
+    "Folded RNA with paired regions is taught further in topic 3.2.2 (Protein synthesis); here it is only noted."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.2.1-008",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-03"
+   ],
+   "text": "In complementary base pairing a purine pairs with a pyrimidine: adenine pairs with thymine (with uracil in RNA) through two hydrogen bonds, and cytosine pairs with guanine through three hydrogen bonds. Because every pair holds one purine and one pyrimidine, each pair has the same width along the helix.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.19, topic 3.2.1",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2021-P1-Q40",
+     "locator": "examiner-report finding and creditworthy points recorded under this evidence id",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 3.2.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Unverified; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (the syllabus line is the one source named).",
+    "Syllabus wording: the different hydrogen bonding between bases. The counts of two and three are standard biology."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.2.1-009",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-03"
+   ],
+   "text": "Base pairing matters because the base sequence of one strand fixes the base sequence of the other, so each strand can act as a template for an accurate copy of the molecule. Hydrogen bonds are weak singly, so the strands can be separated when the DNA is copied, but together they hold the helix stable. A region rich in cytosine and guanine tends to separate less easily than a region of equal length rich in adenine and thymine, because it has more hydrogen bonds per base pair.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.19, topic 3.2.1",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2023-P2-Q2b",
+     "locator": "examiner-report finding and creditworthy points recorded under this evidence id",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 3.2.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Unverified; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (the syllabus line is the one source named).",
+    "The tendency about cytosine-guanine rich regions is stated as a tendency; other factors (such as neighbouring bases) also affect how easily a region separates."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.2.1-010",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-04"
+   ],
+   "text": "DNA is replicated during S phase of interphase, before mitosis. The double helix is unwound and the hydrogen bonds between base pairs are broken, so each old strand is exposed as a template. Free nucleotides pair with the exposed bases by complementary base pairing, and neighbouring nucleotides are joined to form a new strand against each old strand. Replication begins at many places along a eukaryotic chromosome. Afterwards each chromosome consists of two sister chromatids, each holding one of the two new DNA molecules.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.19, topic 3.2.1",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2024-P1-Q38",
+     "locator": "examiner-report finding and creditworthy points recorded under this evidence id",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 3.2.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Unverified; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (the syllabus line is the one source named).",
+    "The syllabus says S phase; the model objective says interphase. S phase is the part of interphase in which replication happens, so the two are consistent."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.2.1-011",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-04"
+   ],
+   "text": "Two enzymes do most of the work of replication: helicase breaks the hydrogen bonds between the paired bases, which unwinds and separates the strands, and DNA polymerase joins the free nucleotides that have paired with the exposed bases of a template strand, building the new strand. The free nucleotides arrive as triphosphates, like ATP, and the energy released when two of their phosphate groups are lost drives the joining.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.19, topic 3.2.1",
+     "support_type": "derivation"
+    },
+    {
+     "source_id": "EV-8223-2022-P2-Q3d-i",
+     "locator": "examiner-report finding and creditworthy points recorded under this evidence id",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 3.2.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Unverified; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (the syllabus line is the one source named).",
+    "The syllabus objective does not name helicase or DNA polymerase. They are included because the papers ask about them in practice and because they explain how the process runs. Further replication enzymes seen in the corpus are not taught here because the objective does not call for them."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.2.1-012",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-04"
+   ],
+   "text": "In semi-conservative replication each new DNA molecule holds one whole original strand and one whole newly made strand. Both old strands act as templates, no old strand is split, and the two new molecules are identical to each other and to the original because of complementary base pairing. Conservative means an old strand is kept; semi means only one of the two strands in each new molecule is old.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.19, topic 3.2.1",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2022-P2-Q3d-ii",
+     "locator": "examiner-report finding and creditworthy points recorded under this evidence id",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 3.2.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Unverified; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (the syllabus line is the one source named).",
+    "Glossary sense: each new DNA molecule holds one whole original strand and one newly made strand. Describes molecules, not halves of strands."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.2.1-013",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-04"
+   ],
+   "text": "A new DNA molecule does not contain half of an old strand joined to half of a new strand. In semi-conservative replication each new molecule has one whole old strand and one whole new strand; the test is to ask how many old strands are in each new molecule, and the answer is one.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.19, topic 3.2.1",
+     "support_type": "correction"
+    },
+    {
+     "source_id": "EV-8223-2022-P2-Q3d-ii",
+     "locator": "examiner-report finding and creditworthy points recorded under this evidence id",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 3.2.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Unverified; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (the syllabus line is the one source named).",
+    "Misconception register entry MC-8223-3.2.1-01: confusing a DNA molecule with a strand, or saying half a strand is conserved."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.2.1-014",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-05"
+   ],
+   "text": "A model of DNA replication is planned in an order: build one molecule with two antiparallel backbones and complementary bases (A with T joined by two links, C with G by three); separate the strands by unhooking the links between base pairs; build a new strand against each old strand by adding complementary bases; and end with two molecules. The materials must let bases be joined and unjoined, for example paper strips, card tabs, beads or pipe cleaners.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.19, topic 3.2.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 3.2.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Unverified; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (the syllabus line is the one source named).",
+    "The syllabus objective is practical (design and make); only the planning and the reasoning are carded. The making itself is done by the learner."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.2.1-015",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-05"
+   ],
+   "text": "To illustrate semi-conservative replication, the original strands are made in one colour and the new strands in another, so that the two can be told apart. The model is judged correct when each of the two final molecules contains one strand of each colour, with every new base matching its partner by complementary base pairing.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.19, topic 3.2.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 3.2.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Unverified; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (the syllabus line is the one source named).",
+    "Two-colour convention is a common modelling choice, not a syllabus requirement."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.2.1-016",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-05"
+   ],
+   "text": "A paper or bead model of DNA replication has limits: it is usually flat, so it does not show the twisting of the helix; it does not show the enzymes at work; its links do not differ in strength as real hydrogen bonds do; and it does not show that replication begins at many places along a chromosome. These limits tend to be the points a learner raises when asked to evaluate a model.",
+   "claim_type": "evaluative",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.19, topic 3.2.1",
+     "support_type": "derivation"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 3.2.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Unverified; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (the syllabus line is the one source named).",
+    "Judgement: limits of a model are standard modelling reasoning applied to this topic; the syllabus gives no list."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,394 @@
+{
+ "unit_id": "CU-8223-4.2",
+ "title": "Microscopy, drawing and measuring specimens",
+ "objective_ids": [
+  "OBJ-8223-4.2-01",
+  "OBJ-8223-4.2-02",
+  "OBJ-8223-4.2-03",
+  "OBJ-8223-4.2-04",
+  "OBJ-8223-4.2-05",
+  "OBJ-8223-4.2-06",
+  "OBJ-8223-4.2-07",
+  "OBJ-8223-4.2-08",
+  "OBJ-8223-4.2-09",
+  "OBJ-8223-4.2-10",
+  "OBJ-8223-4.2-11",
+  "OBJ-8223-4.2-12"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_practical_skill",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 3670,
+  "target": 4455,
+  "max": 5240
+ },
+ "word_count": 5076,
+ "qa_status": "review_required",
+ "notes": [
+  "Measurements used in worked examples are our own invented values."
+ ],
+ "blocks": [
+  {
+   "block_id": "4.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "This section is about working with a light microscope and with what it shows: setting the instrument up, staining and mounting a specimen, calibrating the eyepiece graticule, measuring and counting, making plan diagrams and cell drawings, comparing specimens, and explaining what is seen. It is Paper 3 work.\n\nMarks for handling the microscope, focusing it, making the slide and drawing from the real specimen are earned at the bench, with the real equipment in front of you, and no note can replace that practice. What can be practised on paper is everything that follows from the specimen: what a drawing must show, how a graticule is calibrated, how an actual size or a magnification is calculated, how two specimens are compared and how an observation is explained.\n\nHow a microscope forms its image, and why resolution is not the same as magnification, are taught in 2.1, The microscope, and are not repeated here. The calibration of the graticule and the magnification formula are used here at the bench, so they are applied in full but not re-derived.\n\nThe measurements in the worked examples are our own invented values, written for teaching, and are not taken from any published source. A specimen is described in words, with its measurements in a table where there are several, so that you can picture the drawing and make it yourself at the bench.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {},
+   "authored_hash": "2c98a897a98ebf1391b2597c81d25c1358006adc20d27920c35f70f7c938ea6c"
+  },
+  {
+   "block_id": "4.2-b2",
+   "block_type": "process",
+   "heading": "Setting up the microscope",
+   "text": "A microscope is set up in a fixed order, and each step has a reason.\n\nFirst, the lowest-power objective lens is swung into position. It gives the widest field of view, so the specimen is easy to find, and it sits farthest from the slide, so there is little risk of the lens touching the glass. The slide is clipped to the stage with the specimen over the opening through which the light passes.\n\nThen, with the stage watched from the side and not through the eyepiece, the objective is lowered until it is close to the slide. Looking through the eyepiece, the coarse focus is turned so that the objective moves away from the slide, until the specimen comes into view, and the fine focus then makes it sharp. Focusing by moving the lens away from the slide, and not towards it, means that a slip cannot push the lens into the glass. The light source and the diaphragm are adjusted so that the field is evenly lit and the stained structures stand out. Too much light washes out a pale specimen.\n\nWhat is to be drawn decides the power. A plan diagram shows how the tissues are laid out, so it is made at low power, where a whole region from one surface of a section to the other fits in the field of view. A cell drawing shows the features of a few cells, so the area to be drawn is first placed in the centre of the field at low power, the next objective is swung in, and the image is sharpened with the fine focus alone. The specimen is already almost in focus at that point, and the coarse focus could drive the lens into the slide.\n\nThe field of view becomes smaller at each step up in power, which is why the area is centred first: anything at the edge of the field is lost when the power is raised. The result of this order is a sharp image at the power the drawing needs, with the slide and the lens undamaged.",
+   "claim_ids": [
+    "CLM-8223-4.2-001",
+    "CLM-8223-4.2-002",
+    "CLM-8223-4.2-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.2-001": 1,
+    "CLM-8223-4.2-002": 1,
+    "CLM-8223-4.2-003": 1
+   },
+   "authored_hash": "099e98ec75ff6511534ff58b657996d780620a9db3e9329e490f37a1a6ef56e1"
+  },
+  {
+   "block_id": "4.2-b3",
+   "block_type": "process",
+   "heading": "Staining and mounting a slide of cells",
+   "text": "Most cells are transparent, so few details show in an unstained specimen. A stain is a coloured solution that is taken up more by some structures than by others, and it raises the contrast between the parts. Iodine solution is a stain used on plant tissue such as a peeled layer of onion epidermis, and methylene blue is a stain used on human cheek cells. In each, the stain makes structures such as the nucleus easier to see against the cytoplasm.\n\nThe specimen must be thin enough for light to pass through, one cell thick where possible. A thin layer of epidermis is therefore peeled from the inner surface of an onion bulb scale with forceps, and cheek cells are collected as a light smear.\n\nThe slide is made in this order. First, a drop of stain, or of water when the specimen is to be looked at unstained, is placed in the middle of a clean slide. Then the thin piece of tissue is laid flat in the drop with forceps and spread out so that it is not folded. Next, a coverslip is held at an angle with one edge touching the edge of the drop, and lowered slowly onto the specimen with a mounted needle, so that the liquid spreads along the edge and the air is pushed out in front of it. Finally, any excess liquid at the edge of the coverslip is soaked up with filter paper, which also draws the stain through under the coverslip.\n\nEach step prevents a fault. A fold in the tissue makes two layers, and light cannot pass through them clearly. Air bubbles appear as round shapes with dark edges that hide the cells, and lowering the coverslip at an angle helps to avoid trapping them. The coverslip holds the specimen flat, so that it lies at one depth and is in focus together, and it keeps the stain off the objective lens. Excess stain left on the slide would dirty the stage and the lens.\n\nHandling the forceps, the needle and the coverslip so that the slide comes out well is a bench skill, and it is learned by making slides. What a note can do is give the order and the reason for each step, so that the slide you make at the bench is made in the right order.",
+   "claim_ids": [
+    "CLM-8223-4.2-004",
+    "CLM-8223-4.2-005",
+    "CLM-8223-4.2-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.2-004": 1,
+    "CLM-8223-4.2-005": 1,
+    "CLM-8223-4.2-006": 1
+   },
+   "authored_hash": "cfbd3e0b9075b6827819f9b8e1261f32fa5f39c3ee8c8a3e089a88913d40ab31"
+  },
+  {
+   "block_id": "4.2-b4",
+   "block_type": "process",
+   "heading": "Calibrating the eyepiece graticule",
+   "text": "An eyepiece graticule is a small glass disc, fitted in the eyepiece, with a ruler etched on it, often of 100 divisions. Its divisions are lines and nothing more: they have no length of their own. The length of specimen that one division stands for depends on the objective lens. A higher-power objective enlarges the specimen more, so a given cell spans more divisions and each division stands for a shorter length. The graticule has to be calibrated for each objective, which means working out the length of one division in micrometres (µm) for that objective.\n\nA stage micrometer is a slide with a scale of known length etched on it. A common form is a scale 1 mm long divided into 100 divisions of 0.01 mm. Because 1 mm = 1000 µm, each division of such a scale is 0.01 × 1000 = 10 µm. The scale printed on the slide in use is the one to read.\n\nThe steps are in this order. First, the stage micrometer is placed on the stage and its scale is focused with the objective that is to be calibrated. Then the eyepiece is turned, and the slide moved, until the graticule scale lies alongside the micrometer scale with their zero lines together. Next, the scales are read along to a place a long way from zero where a graticule line and a micrometer line coincide exactly, and the divisions of each between zero and that place are counted. A long stretch is used because a reading error of one division is a small fraction of a long stretch and a large fraction of a short one. Finally, the length is converted to micrometres and divided by the number of graticule divisions:\n\nlength of one division in µm = length on the stage micrometer in µm ÷ number of graticule divisions\n\nThe result holds for the objective used, on that microscope. When the objective is changed, the graticule is calibrated again, because the old value would give lengths that are wrong by the ratio of the two magnifications.",
+   "claim_ids": [
+    "CLM-8223-4.2-007",
+    "CLM-8223-4.2-008",
+    "CLM-8223-4.2-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.2-007": 1,
+    "CLM-8223-4.2-008": 1,
+    "CLM-8223-4.2-009": 1
+   },
+   "authored_hash": "7e94aa8c252905a5186505d8aa548594c6c6338e953638556b367bb26e22bb54"
+  },
+  {
+   "block_id": "4.2-b5",
+   "block_type": "worked_calculation",
+   "heading": "Two worked calibrations",
+   "text": "These readings are our own. Example 1, at the ×10 objective. On the stage micrometer, 50 graticule divisions line up exactly with 50 micrometer divisions of 0.01 mm each.\n\nEquation: length of one division = length on the micrometer ÷ number of graticule divisions.\nLength on the micrometer: 50 × 0.01 = 0.50 mm.\nConversion: 0.50 × 1000 = 500 µm.\nSubstitution: 500 ÷ 50 = 10 µm.\nAnswer: one graticule division is 10 µm at ×10.\n\nExample 2, at the ×40 objective on the same microscope. Now 100 graticule divisions line up exactly with 25 micrometer divisions.\n\nLength on the micrometer: 25 × 0.01 = 0.25 mm.\nConversion: 0.25 × 1000 = 250 µm.\nSubstitution: 250 ÷ 100 = 2.5 µm.\nAnswer: one graticule division is 2.5 µm at ×40.\n\nThe two answers agree with the reasoning above. The ×40 objective enlarges four times as much as the ×10 objective, so one division stands for a length four times shorter, and 10 ÷ 4 = 2.5 µm. A value that does not fit the change in magnification is a sign that a conversion or a count has gone wrong.",
+   "claim_ids": [
+    "CLM-8223-4.2-007",
+    "CLM-8223-4.2-008",
+    "CLM-8223-4.2-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.2-007": 1,
+    "CLM-8223-4.2-008": 1,
+    "CLM-8223-4.2-009": 1
+   },
+   "authored_hash": "742f07640c4e763756acae23c093b493b6b0a6f9029a9246dfb4dc33d36ff52b"
+  },
+  {
+   "block_id": "4.2-b6",
+   "block_type": "process",
+   "heading": "Actual sizes and the mean, in micrometres",
+   "text": "With the graticule calibrated for the objective in use, a cell or a tissue is measured by placing the graticule alongside it and counting the divisions it spans. The actual size follows from the calibration:\n\nactual size in µm = number of divisions × length of one division in µm\n\nCells in one tissue differ from one another, so a single cell is a poor guide. Several cells are measured, ten where the slide has enough of them, along the same direction, such as the length of each cell and not the length of one and the width of the next. The mean is then calculated:\n\nmean = total of the measurements ÷ number of measurements\n\nA mean is more representative than one value because an unusually large or small cell has less effect on it. The answer is stated in micrometres, the unit for cells and tissues in microscopy, with its unit written. Divisions can be added up and averaged first and converted at the end, or each cell can be converted and the lengths averaged. Both give the same mean, and the order is chosen so that the working is easy to follow.\n\nUnits need care. To change millimetres into micrometres, multiply by 1000, because 1 mm = 1000 µm. A cell 0.06 mm long is 0.06 × 1000 = 60 µm long. To change micrometres into millimetres, divide by 1000. An eyepiece division has no length of its own until it has been calibrated for the objective in use, so the calibration has to be applied and cannot be skipped.",
+   "claim_ids": [
+    "CLM-8223-4.2-010",
+    "CLM-8223-4.2-011",
+    "CLM-8223-4.2-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.2-010": 1,
+    "CLM-8223-4.2-011": 1,
+    "CLM-8223-4.2-012": 1
+   },
+   "authored_hash": "ef939fc79a11f3729941c8b5dafb185fafe65988a87e98dfc64acf9c9c472ebb"
+  },
+  {
+   "block_id": "4.2-b7",
+   "block_type": "worked_calculation",
+   "heading": "A worked mean and a confusion to avoid",
+   "text": "These readings are our own. At the ×40 objective one graticule division is 2.5 µm. The widths of five epidermal cells, measured across the same direction, are 12, 14, 13, 11 and 15 divisions.\n\nTotal: 12 + 14 + 13 + 11 + 15 = 65 divisions.\nMean in divisions: 65 ÷ 5 = 13 divisions.\nActual size: 13 × 2.5 = 32.5 µm.\nAnswer: the mean width is 32.5 µm.\n\nA mistake that costs marks is to convert between millimetres and micrometres wrongly, or to use an eyepiece division without scaling it against the stage micrometer. The error is the same in both: the number written is not in micrometres. The test is to work a small case through. How many micrometres is 0.7 mm? It is 0.7 × 1000 = 700 µm, not 7 µm or 0.0007 µm. How long is one eyepiece division if 40 divisions match 0.2 mm on the stage micrometer? First 0.2 × 1000 = 200 µm, then 200 ÷ 40 = 5 µm. If the learner instead treats one division as 1 µm, or divides 0.2 by 1000, each later size is wrong by a factor that the calibration would have exposed. The correct idea is to convert the stage micrometer length to micrometres, divide by the number of graticule divisions, and use that value for the objective in use.",
+   "claim_ids": [
+    "CLM-8223-4.2-010",
+    "CLM-8223-4.2-011",
+    "CLM-8223-4.2-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.2-010": 1,
+    "CLM-8223-4.2-011": 1,
+    "CLM-8223-4.2-012": 1
+   },
+   "authored_hash": "3accda014fa051acc56b00a654ab6fceb575f5af915bbd241fb607aff350de8c"
+  },
+  {
+   "block_id": "4.2-b8",
+   "block_type": "process",
+   "heading": "Estimating numbers of cells or organelles",
+   "text": "Counting every cell on a slide would take far too long, so the number is estimated from a sample. There are two common ways to do it.\n\nIn the first, the cells are counted in several fields of view. The mean count per field is found, and it is multiplied by the number of fields that would be needed to cover the whole specimen.\n\nIn the second, a grid of squares of known area, such as squares 1 mm by 1 mm, is placed over the specimen. The cells are counted in several squares, and the mean per square is found. Dividing by the area of one square gives the count per area, for example cells per mm². Multiplying the count per area by the total area gives the estimate for the whole slide. Organelles such as chloroplasts are estimated in the same way, by counting them in several cells, taking the mean per cell and multiplying by the number of cells.\n\nThe estimate is as good as the sample. Cells are seldom spread evenly, so one field may be crowded while the next is almost empty. The fields or squares are therefore chosen at random, and not because they look typical or full, and a larger sample gives a more reliable mean. The result is an estimate and not an exact count, so it is written to a sensible number of figures and not to the last cell.\n\nA cell that lies across the edge of a field is counted by a rule fixed before counting begins, for example counting those that touch the top and left edges and leaving out those that touch the bottom and right edges. The same rule is used in each field, so that the cells on the boundaries are not counted twice.",
+   "claim_ids": [
+    "CLM-8223-4.2-013",
+    "CLM-8223-4.2-014"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.2-013": 1,
+    "CLM-8223-4.2-014": 1
+   },
+   "authored_hash": "c26a34bf06034e4559427d49759132869eb76cf0926782b5a7846b4b4e6e770f"
+  },
+  {
+   "block_id": "4.2-b9",
+   "block_type": "worked_calculation",
+   "heading": "Two worked estimates",
+   "text": "These readings are our own. Example 3, using a grid. A thin section of a leaf is placed under a grid whose squares are each 1 mm by 1 mm, so each square has an area of 1 mm². The numbers of cells in five squares chosen at random are 34, 29, 31, 36 and 30.\n\nTotal: 34 + 29 + 31 + 36 + 30 = 160 cells.\nMean per square: 160 ÷ 5 = 32 cells.\nCount per area: 32 ÷ 1 = 32 cells per mm².\nThe section covers 400 mm², so the estimate for the whole section is 32 × 400 = 12 800 cells.\nAnswer: about 12 800 cells, written as an estimate.\n\nExample 4, using fields of view. A mean of 18 cells is counted per field. The specimen is large enough to need 150 fields to cover it.\nEstimate: 18 × 150 = 2700 cells.\nAnswer: about 2700 cells.\n\nIn both examples the answer states what was counted and what it was scaled to. If the five squares had all been taken from the crowded middle of the section, the mean would have been too high and the estimate would have been too large, which is why the squares are chosen at random.",
+   "claim_ids": [
+    "CLM-8223-4.2-013",
+    "CLM-8223-4.2-014"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.2-013": 1,
+    "CLM-8223-4.2-014": 1
+   },
+   "authored_hash": "cf510bb4d747a5aa5139abf066731aea97a7cbee51c0ebe56d066e652bdbaddc"
+  },
+  {
+   "block_id": "4.2-b10",
+   "block_type": "process",
+   "heading": "Plan diagrams",
+   "text": "A plan diagram is a drawing that shows the distribution of tissues in a specimen. It shows the outlines of the layers of tissue, in the right proportions, and no individual cells are drawn. It answers the question of what tissues there are and how thick and how placed each is in relation to the others, and it is made at low power so that a whole region of the section is in view.\n\nThe proportions are the skill. The thickness of each layer in the drawing is its thickness in the specimen multiplied by one factor, the same for each layer. If one layer is three times as thick as another in the specimen, it is drawn three times as thick on the page. The thicknesses are measured with the calibrated graticule, which gives them in micrometres, and the drawing is scaled up from those values.\n\nFor example, a leaf section has these thicknesses, our own values: upper epidermis 30 µm, palisade layer 90 µm, spongy layer 120 µm and lower epidermis 30 µm, a total of 30 + 90 + 120 + 30 = 270 µm. A drawing 108 mm tall means a factor of 108 mm ÷ 270 µm = 0.4 mm for each micrometre, so the layers are drawn 30 × 0.4 = 12 mm, 90 × 0.4 = 36 mm, 120 × 0.4 = 48 mm and 12 mm thick, which add to 108 mm. Each layer is then labelled with a ruled label line.\n\nA common error is to draw the cells in a plan diagram, as rows of small circles or boxes. The error confuses a plan diagram with a high-power drawing. In fact a plan diagram shows the layout of the tissues alone, and the cells are drawn in a cell drawing made at high power. The test is to ask whether the drawing shows cell outlines or only tissue regions. If it shows cell outlines, it is not a plan diagram. Drawing cells also takes a large amount of time, and the layers can then no longer be judged for their proportions at a glance.",
+   "claim_ids": [
+    "CLM-8223-4.2-015",
+    "CLM-8223-4.2-016",
+    "CLM-8223-4.2-017"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.2-015": 1,
+    "CLM-8223-4.2-016": 1,
+    "CLM-8223-4.2-017": 1
+   },
+   "authored_hash": "96cd53e9f321257410960360a360a9cad49b4d3036a3582ffe1129ddb7bc893b"
+  },
+  {
+   "block_id": "4.2-b11",
+   "block_type": "process",
+   "heading": "Cell drawings",
+   "text": "A cell drawing records the observable features of a few cells, made at high power. It is not a copy of a diagram in a book and it is not a drawing of the whole field. A few whole cells are chosen that are typical of the tissue and are drawn large.\n\nThe shapes of the cells are drawn as they appear, and they are drawn with their neighbours where the specimen shows cells touching. A plant cell wall has thickness, so it is drawn as two lines with a gap between them, and not as one line. The parts of the cell are drawn at their relative size. A nucleus is a small part of a cell, not half of it, and a large central vacuole is drawn as large as it appears. Contents that are visible at the magnification used are drawn and labelled: the nucleus, the chloroplasts in a leaf cell, a vacuole, the cytoplasm as the space between. The colour of a stain is not coloured in. It can be written in the label, for example nucleus, stained brown.\n\nThe word observable matters. A light microscope cannot resolve structures as small as ribosomes, and the folded inner membranes of mitochondria are also too small to see, so they are not drawn. A learner who draws them has copied from a textbook and has recorded an idea, not an observation. If a structure cannot be seen in the specimen, it is left out of the drawing, even when it is known to be present in the cell.\n\nLabels are written outside the drawing and joined to the structure by ruled lines. A title, the magnification and the name of the specimen complete the drawing. How these are set out is covered in the section on clear drawings.",
+   "claim_ids": [
+    "CLM-8223-4.2-018",
+    "CLM-8223-4.2-019",
+    "CLM-8223-4.2-020"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.2-018": 1,
+    "CLM-8223-4.2-019": 1,
+    "CLM-8223-4.2-020": 1
+   },
+   "authored_hash": "1e9fd2b6d714c4e45e0e5190d6c033d62ed3716db20ea3080205c59d60b35739"
+  },
+  {
+   "block_id": "4.2-b12",
+   "block_type": "process",
+   "heading": "Clear drawings",
+   "text": "A drawing is a record to be read by someone else, and its quality depends on clarity. Several habits give it.\n\nThe drawing is made in pencil, with a sharp point, in single, sharp, unbroken lines. A line that is drawn once and joined properly is clearer than a line that has been sketched over several times, or one that has gaps where the pencil was lifted. Because a mistake can be rubbed out cleanly, pencil is used, and the rubber is used fully, so that no old line is left showing.\n\nThere is no shading and no colouring. Shading hides the structure underneath it and makes lines hard to follow. Where a part is darker, or stained, it is labelled with the word and is not coloured in.\n\nThe drawing is made large. It should use most of the space available, with room left at the sides for labels, because a small drawing cannot show the shape of a cell wall or the position of a nucleus clearly. Plan diagrams and cell drawings are drawn in a space of their own, with a margin.\n\nLabels are written in a neat horizontal line, not on the drawing itself. Each label is joined to its structure by a ruled label line that touches the structure. Label lines do not cross each other and have no arrowheads. A title states what the drawing shows, and the magnification of the drawing is written beside it, calculated as shown in the section on calculations below.\n\nEach of these habits is a point to be practised at the bench with a real specimen. Marks for them are earned on the drawing you make, not on what you know about drawings.",
+   "claim_ids": [
+    "CLM-8223-4.2-023",
+    "CLM-8223-4.2-024"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.2-023": 1,
+    "CLM-8223-4.2-024": 1
+   },
+   "authored_hash": "7a7a477fd4b51021b8d5778cfaea52bbdc61cd73710a742eb925f786e038d319"
+  },
+  {
+   "block_id": "4.2-b13",
+   "block_type": "process",
+   "heading": "Comparing two specimens by observable features",
+   "text": "A comparison names the same feature in both specimens and states how it is alike or different. It uses only observable features: what can be seen in the specimen, slide or photomicrograph at the magnification used. Shape, size, the presence of a cell wall, the colour of the contents, the number of layers and the thickness of a layer are observable. What a structure does is not observable, and it is an interpretation, because it comes from knowledge and not from the specimen. A comparison keeps the two apart.\n\nA comparison is built in sentences that join the two specimens, using words such as whereas, both and unlike. Each sentence names the feature, the value or description for the first specimen and the value or description for the second. Our own example, for a peeled layer of onion epidermis and a smear of human cheek cells, both stained: the onion cells are rectangular and lie in a regular pattern of rows, whereas the cheek cells are rounded and lie scattered. The onion cells have a cell wall drawn as two lines, whereas the cheek cells have a cell surface membrane as the only boundary that can be seen. Both have a stained nucleus. The onion cells measure about 250 µm along their length, whereas the cheek cells measure about 60 µm across.\n\nStatements such as the onion cells are better at supporting the plant, or the cheek cells carry out respiration, are not observable features. They may be true, but they belong to an explanation, which is taught in the last section.\n\nA good comparison also includes at least one similarity as well as the differences, and it uses measured values where a graticule gives them. A table with the feature in one column and each specimen in the next columns keeps the comparison complete and easy to check.",
+   "claim_ids": [
+    "CLM-8223-4.2-021",
+    "CLM-8223-4.2-022"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.2-021": 1,
+    "CLM-8223-4.2-022": 1
+   },
+   "authored_hash": "575c02adecfb76cd7fa1dbc0993cefb3c3b7086808add50001753ef0e9e05f8a"
+  },
+  {
+   "block_id": "4.2-b14",
+   "block_type": "plain_explanation",
+   "heading": "Slides and photomicrographs",
+   "text": "A photomicrograph is a photograph of a specimen taken through a light microscope. Both a slide and a photomicrograph show the observable features of a specimen, and the same features are compared in both. The two differ in how they can be used.\n\nA slide is the real specimen. It can be refocused through its thickness, so that different depths come into sharp view in turn. Its light can be adjusted, and it can be measured against a calibrated graticule, which gives sizes directly in micrometres.\n\nA photomicrograph is a fixed image. It is in focus at one depth and cannot be refocused, so features at other depths may be blurred. It cannot be measured with a graticule. Its sizes are found by measuring the image with a ruler and using the magnification or the scale bar printed with it, by the method taught in 2.1, The microscope. Colour in a photomicrograph depends on the stain and on the camera, so colours are described with care.\n\nWhen two images are compared, one slide and one photomicrograph, or two photomicrographs, the comparison is made on observable features only, and the magnifications are checked first. A cell that looks larger in one image may be at a higher magnification and not larger in fact, so sizes are compared after they have been converted to actual sizes.\n\nFor example, our own values: cell A is 18 mm long on a photomicrograph at ×300, and cell B is 30 mm long on a photomicrograph at ×600. Cell A is 18 ÷ 300 = 0.06 mm, which is 60 µm, and cell B is 30 ÷ 600 = 0.05 mm, which is 50 µm. Cell B looks larger on the page, but cell A is the larger cell.",
+   "claim_ids": [
+    "CLM-8223-4.2-027",
+    "CLM-8223-4.2-028"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.2-027": 1,
+    "CLM-8223-4.2-028": 1
+   },
+   "authored_hash": "4bc4fd67715ca0b290219046a47932317d6749b2f0b28c9ffb06400d51b36023"
+  },
+  {
+   "block_id": "4.2-b15",
+   "block_type": "process",
+   "heading": "Showing every step in a calculation",
+   "text": "Calculations in microscopy include graticule calibration, actual size, magnification, count per area, means and ratios. In each of them, the steps are written out, because marks are given for correct working even when the final answer is wrong, and because a wrong step is easy to find on a page where each step is visible.\n\nThe steps are in this order. The equation is written first. Both lengths are then converted to one unit, usually micrometres. The values are substituted into the equation and the arithmetic is done. The answer is written with its unit, and, where the data allow, to a sensible number of significant figures.\n\nMagnification is the ratio of two lengths: magnification = image size ÷ actual size. Both are in the same unit, and the magnification has no unit, so it is written as ×800.\n\nExample 5, the magnification of a drawing, our own values. A drawing of a palisade cell is 52 mm long, and the cell measured 65 µm with the graticule.\nEquation: magnification = image size ÷ actual size.\nConversion: 52 × 1000 = 52 000 µm.\nSubstitution: 52 000 ÷ 65 = 800.\nAnswer: the drawing is ×800.\n\nExample 6, actual size from a photomicrograph. A cell is 45 mm long on a print at ×300.\nEquation: actual size = image size ÷ magnification.\nSubstitution: 45 ÷ 300 = 0.15 mm.\nConversion: 0.15 × 1000 = 150 µm.\nAnswer: the cell is 150 µm long.\n\nExample 7, a ratio. The palisade layer is 90 µm thick and the spongy layer is 120 µm thick. The ratio is 90 : 120. Dividing both numbers by 30 gives 3 : 4, which cannot be reduced further, so the ratio of the palisade layer to the spongy layer is 3 : 4.\n\nA learner who writes the answer to the first example as 0.65, with no unit and no working, has no way to earn the marks, and a reader cannot tell where the error is.",
+   "claim_ids": [
+    "CLM-8223-4.2-025",
+    "CLM-8223-4.2-026"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.2-025": 1,
+    "CLM-8223-4.2-026": 1
+   },
+   "authored_hash": "2b23265b69eef4fc71673c24a98284c5a3b9bb903e3745d9abed684ea2c91bdf"
+  },
+  {
+   "block_id": "4.2-b16",
+   "block_type": "plain_explanation",
+   "heading": "Explaining observations, values and adaptations",
+   "text": "Observing and drawing record what is there. The explanation says why it is there, using biological knowledge. An explanation links a feature that was seen, or a value that was calculated, to what it does for the organism. It is written after the observation, and is kept apart from it.\n\nAn adaptation is a feature of the structure of an organism that helps it to survive and reproduce in its habitat. A specimen is adapted to its habitat when its observable features suit the conditions there, and the explanation names the feature, the habitat and the way the feature helps.\n\nTwo examples, as tendencies. A leaf section from a plant on a dry, rocky hillside shows a thick waxy layer, the cuticle, on the outside of the upper epidermis. The wax is waterproof, so less water evaporates from the leaf surface, which helps the plant to survive where water is scarce. A leaf section from a water lily, which floats on a pond, shows large air spaces between the cells of the spongy layer, and stomata in the upper epidermis alone, which is in the air. The air spaces make the leaf buoyant, so it floats, and they allow gases to diffuse through the leaf.\n\nA calculated value is explained in the same way, by saying what it means. If the palisade layer is thicker in a leaf from a sunny habitat than in a leaf from a shaded one, it holds more chloroplasts near the lit surface, which supports more photosynthesis. This is a tendency that depends on the light the leaf receives, and one section is weak evidence, which is why several sections are measured.\n\nObservation and explanation stay apart in an answer. A statement of the form the palisade layer is 140 µm thick is an observation, and a statement of the form so there are many chloroplasts to absorb light is an explanation. Questions that ask what was seen are answered with observable features, and questions that ask for an explanation are answered with the link to function.",
+   "claim_ids": [
+    "CLM-8223-4.2-029",
+    "CLM-8223-4.2-030",
+    "CLM-8223-4.2-031"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.2-029": 1,
+    "CLM-8223-4.2-030": 1,
+    "CLM-8223-4.2-031": 1
+   },
+   "authored_hash": "1c4432211ee9cfc1ec590d2814da43c20e7785a82309df3426a3f8d8d0b4b5a4"
+  },
+  {
+   "block_id": "4.2-b17",
+   "block_type": "worked_application",
+   "heading": "From a specimen to an answer",
+   "text": "This example uses the steps of the section together. The values are our own. A student examines a transverse section of a leaf from a plant on a dry hillside at ×10, where one graticule division is 10 µm. The upper epidermis spans 5 divisions, the palisade layer 14 divisions, the spongy layer 12 divisions and the lower epidermis 3 divisions.\n\nActual sizes: the divisions are multiplied by 10 µm, so the layers are 50 µm, 140 µm, 120 µm and 30 µm thick, a total of 340 µm.\n\nPlan diagram: the student wants a drawing 68 mm tall. The conversion is 68 × 1000 = 68 000 µm, and 68 000 ÷ 340 = 200, so the drawing is ×200. The palisade layer is drawn 140 × 200 = 28 000 µm, which is 28 mm. No cells are drawn, the lines are sharp and unbroken, and each layer is labelled.\n\nComparison: a second section from a floating leaf has a palisade layer of 60 µm. The first section has a palisade layer that is 140 µm thick, whereas the second has one that is 60 µm thick. This is an observable difference with measured values.\n\nExplanation: the thick palisade layer holds many chloroplasts near the upper surface, which supports photosynthesis where light is strong, as a tendency. A single section is weak evidence for the habitat as a whole, so the student also measures further sections from other leaves.\n\nEach part uses one skill, and the answer to each is written with its own working, its unit and a sentence that says what it means.",
+   "claim_ids": [
+    "CLM-8223-4.2-002",
+    "CLM-8223-4.2-010",
+    "CLM-8223-4.2-016",
+    "CLM-8223-4.2-022",
+    "CLM-8223-4.2-025",
+    "CLM-8223-4.2-026",
+    "CLM-8223-4.2-029",
+    "CLM-8223-4.2-031"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.2-002": 1,
+    "CLM-8223-4.2-010": 1,
+    "CLM-8223-4.2-016": 1,
+    "CLM-8223-4.2-022": 1,
+    "CLM-8223-4.2-025": 1,
+    "CLM-8223-4.2-026": 1,
+    "CLM-8223-4.2-029": 1,
+    "CLM-8223-4.2-031": 1
+   },
+   "authored_hash": "c9d762f853b6181f10c563cab3b25f2c54036544410a1ffb91dd000e614eaa38"
+  },
+  {
+   "block_id": "4.2-b18",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "How the light microscope forms its image, the units of length and the formula for magnification are taught in 2.1, The microscope. The structures seen in cells are described in 2.2, Cell structure. Planning an investigation and choosing the measurements are taught in 4.1, Planning investigations and taking measurements. Recording and presenting results are taught in 4.3, Recording and presenting data, and drawing conclusions and judging the quality of data in 4.4, Analysis, conclusions and evaluation. The arithmetic of sizes and magnification is also met in 5.3, Size, magnification and biodiversity calculations.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {},
+   "authored_hash": "0b2858f4f2be2b82b5f40e8a8637eadc57003a758f8893ae2564acc8ebd45e20"
+  }
+ ]
+}

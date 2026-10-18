@@ -1,0 +1,11 @@
+{"topic_id": "2.3.2", "deviations": [
+ {"from": "2 to 4 claims per objective",
+  "to": "OBJ-01 carries 5 claims (diffusion, facilitated diffusion, active transport, endocytosis/exocytosis, osmosis) and OBJ-03 carries 6 (claims 1, 7 and 8-11), because the misconception corrections for MC-02, 03, 05, 06 were folded into the process claims they correct and claim 1 and claim 7 also serve OBJ-03",
+  "why": "OBJ-01 names six processes and OBJ-03 names six misconception entries in the registry; fewer claims would leave processes or corrections untaught. The checks accepted the counts."},
+ {"from": "P01 and P02 objective_ids to be chosen from the topic",
+  "to": "P01 exercises OBJ-01, 03 and 04; P02 exercises OBJ-01, 04 and 05",
+  "why": "These are the objectives each task genuinely practises; the work order leaves the choice to the author."},
+ {"from": "MISCON slots 015, 018 and 019 sit under OBJ-03 (surface area to volume ratio)",
+  "to": "Kept as planned; 018 (Paramecium has no cell wall) practises the cell-versus-organism idea only loosely",
+  "why": "The registry maps MC-8223-2.3.2-04 to OBJ-03; it is arguably a cell-structure error better mapped to topic 2.2."}
+]}

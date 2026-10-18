@@ -1,0 +1,379 @@
+{
+ "unit_id": "CU-8223-2.6.2",
+ "title": "Mechanisms of transport in plants",
+ "objective_ids": [
+  "OBJ-8223-2.6.2-01",
+  "OBJ-8223-2.6.2-02",
+  "OBJ-8223-2.6.2-03",
+  "OBJ-8223-2.6.2-04",
+  "OBJ-8223-2.6.2-05",
+  "OBJ-8223-2.6.2-06",
+  "OBJ-8223-2.6.2-07",
+  "OBJ-8223-2.6.2-08",
+  "OBJ-8223-2.6.2-09"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_explanation",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 2760,
+  "target": 3355,
+  "max": 3950
+ },
+ "blocks": [
+  {
+   "block_id": "2.6.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "How water leaves a plant as vapour, how water moves between cells and between the plant and the air in terms of water potential, how to investigate transpiration, how water is pulled up the xylem, the routes that water and mineral ions take through a root, how xerophyte leaves cut water loss, and how sucrose is loaded into the phloem and carried from sources to sinks by mass flow.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "3c7f8c38dda01a3525d6320fae2855c728cb973182d5fee9d73248f9897ef9ca"
+  },
+  {
+   "block_id": "2.6.2-b2",
+   "block_type": "plain_explanation",
+   "heading": "Transpiration",
+   "text": "Transpiration is the loss of water vapour from a plant to the atmosphere, mainly through the stomata of the leaves. A leaf has to let carbon dioxide in for photosynthesis, and the same openings let water vapour out.\n\nThe process has two steps, and they should be named separately. The first is evaporation. The mesophyll cells inside a leaf are loosely packed, with air spaces between them. Their cell walls are kept wet by water arriving from the xylem, so the walls form a large wet internal surface. Heat energy from the surroundings makes water evaporate from these walls into the air spaces, which stay humid, close to saturated with water vapour in a leaf that is well supplied with water.\n\nThe second step is diffusion. The air outside is usually drier than the air in the spaces, so there is a concentration gradient of water vapour between the two. When the stomata are open, the vapour diffuses down this gradient through the stomatal pores to the atmosphere. When the stomata are closed, much less escapes, because the waxy cuticle over the epidermis is a poor route for water vapour. The water lost is replaced by water drawn up the xylem from the roots.",
+   "claim_ids": [
+    "CLM-8223-2.6.2-001",
+    "CLM-8223-2.6.2-002",
+    "CLM-8223-2.6.2-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.2-001": 1,
+    "CLM-8223-2.6.2-002": 1,
+    "CLM-8223-2.6.2-003": 1
+   },
+   "authored_hash": "4771f33c4310981d68d37c63291963bb0fd4f3fadbc058f5d77166c91e381484"
+  },
+  {
+   "block_id": "2.6.2-b3",
+   "block_type": "plain_explanation",
+   "heading": "Water potential and osmosis",
+   "text": "Water potential is a measure of the tendency of water molecules to move from one place to another. It is measured in kilopascals (kPa). Pure water has the highest water potential, 0 kPa. Dissolved substances lower the water potential, so a solution has a negative value, and the more concentrated the solution, the more negative the value. A water potential of −700 kPa is therefore lower than one of −300 kPa. In this topic water movement is described by comparing values like these, and no calculation with them is needed.\n\nWater moves between cells by osmosis, which is the net movement of water through a partially permeable membrane from a region of higher water potential to a region of lower water potential. Water molecules cross in both directions, but more cross one way than the other. The direction is the point to hold on to: water moves down a water potential gradient, from the less negative value to the more negative value. Between a cell at −300 kPa and its neighbour at −700 kPa, the net movement is from the −300 kPa cell to the −700 kPa cell.\n\nA plant cell has a strong, fully permeable cell wall outside a partially permeable cell surface membrane. In a solution of higher water potential than its cytoplasm, the cell gains water, the vacuole swells and the cell becomes turgid, the wall stopping it from bursting. In a solution of lower water potential the cell loses water and becomes flaccid, and in a strong enough solution the cytoplasm shrinks away from the wall, which is called plasmolysis.",
+   "claim_ids": [
+    "CLM-8223-2.6.2-004",
+    "CLM-8223-2.6.2-005",
+    "CLM-8223-2.6.2-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.2-004": 1,
+    "CLM-8223-2.6.2-005": 1,
+    "CLM-8223-2.6.2-007": 1
+   },
+   "authored_hash": "ba5eb1f887b6f67e5ffa6b71da64fd41767046f5af61785e3eb2c144dcf50c0b"
+  },
+  {
+   "block_id": "2.6.2-b4",
+   "block_type": "process",
+   "heading": "Water movement between the plant and its environment",
+   "text": "The same rule explains how water crosses the whole plant. Take a plant in moist soil that is not very salty. The values below are invented to show the pattern.\n\nSoil water has a water potential of about −50 kPa. A root hair cell has a lower value, about −200 kPa, because its cytoplasm contains dissolved substances, so water enters the root hair cell by osmosis. Cells further in, in the cortex, have progressively lower values, about −350 kPa, and the xylem in the root is lower again, about −600 kPa, so water keeps moving inwards, cell to cell, towards the xylem.\n\nIn the leaf, water evaporates from the walls of the mesophyll cells. That lowers the water potential of those cells, about −900 kPa, and they draw water out of the xylem. The air spaces hold water vapour at a high humidity, and the air outside the leaf has a water potential far lower than any cell, about −9000 kPa where the air is dry. Water vapour therefore leaves the leaf down the gradient. Each step goes from a higher to a lower value, so the net movement is from the soil, up through the plant, to the atmosphere. Humid outside air has a less negative value, which makes the final step less steep and slows water loss.",
+   "claim_ids": [
+    "CLM-8223-2.6.2-005",
+    "CLM-8223-2.6.2-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.2-005": 1,
+    "CLM-8223-2.6.2-006": 1
+   },
+   "authored_hash": "a4f11eb64f90c1e3779cd0309928ae8ec021e797b921804f2423c718a463db0c"
+  },
+  {
+   "block_id": "2.6.2-b5",
+   "block_type": "process",
+   "heading": "Investigating transpiration with a potometer",
+   "text": "A potometer measures how fast a cut leafy shoot takes up water. Most of the water absorbed is lost by transpiration, so the rate of uptake is a good estimate of the rate of transpiration. It is only an estimate, because a little of the water is used in photosynthesis or stays in the cells.\n\nThe apparatus is set up in a definite order. The shoot is cut under water and fitted into the potometer under water. This matters because the water in the xylem is under tension, and air entering the cut end can form a bubble that breaks the column of water, so uptake stops. The joints are made airtight for the same reason, and the leaves are dried so that water on the surface does not interfere. The potometer is then lifted out of the water, one end of the capillary tube is raised from a beaker, and an air bubble is allowed to enter the tube. The position of the bubble is marked.\n\nThen the distance the bubble moves in a measured time, for example 5 minutes, is recorded. The rate is the distance divided by the time, and the result is more reliable as a mean of several readings. A reservoir tap lets the bubble be pushed back to the start between readings. Only one factor is changed at a time, such as moving the shoot from still air to a fan, with the others kept the same.",
+   "claim_ids": [
+    "CLM-8223-2.6.2-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.2-008": 1
+   },
+   "authored_hash": "403f5a28fdd008e4fcb38af473be7aa116f5e46a5c6f5b1f15f3dc96513be00c"
+  },
+  {
+   "block_id": "2.6.2-b6",
+   "block_type": "plain_explanation",
+   "heading": "Factors that affect transpiration, epidermal peels and grids",
+   "text": "Four factors in the surroundings tend to change the rate of transpiration, each by an effect on stomata, evaporation or the water vapour gradient. A higher light intensity tends to open the stomata, so more vapour can diffuse out. A higher temperature gives water molecules more kinetic energy, so evaporation and diffusion are faster. A stronger wind carries away the humid air that gathers beside the leaf, which keeps the gradient steep. A higher humidity of the air outside makes the gradient shallower and lowers the rate. These statements describe tendencies in moderate conditions, because very high temperatures can make stomata close.\n\nFeatures of the leaf matter too. A leaf with more stomata, or a larger surface area, tends to lose more water. Epidermal peels and grids are the tools for finding these two.\n\nFor a peel, a thin coat of clear varnish is painted on the leaf surface and left to dry. It is peeled off and mounted flat on a slide. Under a light microscope, the stomata in a field of known area are counted, and the number is converted to stomata per square millimetre. Counting the lower and upper surfaces of the same leaf, or leaves of two species, allows a comparison.\n\nFor the surface area, the outline of the leaf is traced onto squared paper. The whole squares and the squares more than half covered are counted. The count multiplied by the area of one square gives the area of the leaf. With this, a rate of water loss can be given per unit area, so a large leaf and a small leaf can be compared fairly.",
+   "claim_ids": [
+    "CLM-8223-2.6.2-009",
+    "CLM-8223-2.6.2-010",
+    "CLM-8223-2.6.2-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.2-009": 1,
+    "CLM-8223-2.6.2-010": 1,
+    "CLM-8223-2.6.2-011": 1
+   },
+   "authored_hash": "8c86bdb571999a528f0369cec4903f91533112dd945c31eed8df5e119a049be3"
+  },
+  {
+   "block_id": "2.6.2-b7",
+   "block_type": "process",
+   "heading": "Cohesion-tension in the xylem",
+   "text": "Water travels up the xylem, in some trees against more than 20 m of height, without any pumping by the plant. Three ideas explain it, and each depends on hydrogen bonds.\n\nA water molecule is polar: the oxygen end is slightly negative and the hydrogen ends are slightly positive. Hydrogen bonds therefore form between neighbouring water molecules. The attraction between water molecules is cohesion. It makes the water in a xylem vessel behave as a continuous column rather than separate drops.\n\nTranspiration supplies the pull. Water evaporates from the walls of the mesophyll cells, so those walls have a lower water potential and draw water from the nearest xylem vessel. That water is pulled out of the top of the column. Because of cohesion, the whole column is pulled up after it, and water enters the xylem at the roots to replace it. The column is under tension, which means it is being pulled, and the term for the whole mechanism is cohesion-tension. Because the xylem walls are lignified, they resist the inward pull and do not collapse. The energy comes from the heat that drives evaporation, not from the plant's own ATP.\n\nAdhesion adds support. Water molecules also form hydrogen bonds with the cellulose in the walls of the xylem vessels and the mesophyll cells. This attraction between water and a surface is adhesion. It helps hold the column up against gravity and keeps the walls wet. Cohesion and adhesion are different: cohesion is between water molecules, adhesion is between water and another surface.",
+   "claim_ids": [
+    "CLM-8223-2.6.2-012",
+    "CLM-8223-2.6.2-013",
+    "CLM-8223-2.6.2-014"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.2-012": 1,
+    "CLM-8223-2.6.2-013": 1,
+    "CLM-8223-2.6.2-014": 1
+   },
+   "authored_hash": "9f5516764d06a59866ffe627494dbc9e27028908150a4ebc3947a73a5f06f421"
+  },
+  {
+   "block_id": "2.6.2-b8",
+   "block_type": "process",
+   "heading": "Soil to xylem: the apoplastic, symplastic and vacuolar routes",
+   "text": "Water enters a root at the root hair cells and has to reach the xylem at the centre of the root. It can travel by three different routes, and they should be kept apart.\n\nThe apoplast is the cell walls and the spaces between cells. In the apoplastic pathway, water moves through the cell walls. It is pulled along by transpiration and held together by cohesion, and it does not cross any cell surface membrane on the way. The cellulose walls are fully permeable, so water moves easily through them.\n\nThe symplast is the cytoplasm of the cells, which are joined by narrow channels called plasmodesmata that pass through the walls. In the symplastic pathway, water crosses the cell surface membrane of a root hair cell and then moves from cell to cell through the cytoplasm and the plasmodesmata. It moves by osmosis, down the water potential gradient, because each cell nearer the xylem has a lower water potential.\n\nIn the vacuolar pathway, water also passes through the vacuoles of the cells, crossing the vacuole membrane as well as the cell surface membrane. The syllabus names the symplastic and apoplastic pathways, and many textbooks count the vacuolar route within the symplastic one, because water still moves cell to cell inside the cell surface membranes.\n\nA simple way to separate them is to ask where the water is. In the apoplast it is in walls. In the symplast it is in cytoplasm. In the vacuolar route it is in cytoplasm and vacuoles.",
+   "claim_ids": [
+    "CLM-8223-2.6.2-015",
+    "CLM-8223-2.6.2-016"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.2-015": 1,
+    "CLM-8223-2.6.2-016": 1
+   },
+   "authored_hash": "2eeb46bcdf605b977d5606ebc50cb3eefabf32d215473437cb9149bd9a6052ad"
+  },
+  {
+   "block_id": "2.6.2-b9",
+   "block_type": "process",
+   "heading": "The Casparian strip and the movement of mineral ions",
+   "text": "The innermost layer of the root cortex is the endodermis. In the walls of the endodermal cells there is a band of waterproof suberin, the Casparian strip. Water travelling in the apoplast reaches the endodermis and is stopped, because it cannot pass through the strip. It has to leave the wall and cross the cell surface membrane into the cytoplasm of an endodermal cell. From there it follows the symplastic route, through the cytoplasm, and enters the xylem.\n\nThis is useful to the plant. The cell surface membrane is partially permeable and holds transport proteins. Any mineral ion that has travelled in the walls must cross a membrane at the endodermis, so the plant can control which ions enter the xylem and in what amounts. The strip also directs the flow of water from the root into the xylem.\n\nMineral ions enter the root hair cells in two ways. Where the soil solution is more dilute than the cell, as in many soils, the ions are taken up by active transport through carrier proteins, which needs ATP from respiration. A respiratory poison therefore lowers ion uptake. Some ions enter by diffusion. Inside the root, ions move in the apoplast with the water and in the symplast, then enter the xylem. They are carried from the roots to the leaves in the xylem sap, in the same moving column as the water, and are taken into the cells of the leaf.",
+   "claim_ids": [
+    "CLM-8223-2.6.2-017",
+    "CLM-8223-2.6.2-018"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.2-017": 1,
+    "CLM-8223-2.6.2-018": 1
+   },
+   "authored_hash": "f7590f763391829e560e84405a7ecb6832b46ebbde51eb4a14c618c407cb94af"
+  },
+  {
+   "block_id": "2.6.2-b10",
+   "block_type": "components",
+   "heading": "Xerophyte leaves",
+   "text": "A xerophyte is a plant adapted to a habitat where water is scarce, such as a desert or a dry, windswept shore. Its structure reduces water loss by transpiration. Each feature works by cutting evaporation or by making the water vapour gradient less steep.\n\nA thick, waxy cuticle over the epidermis reduces evaporation through the epidermis itself, because wax repels water. Sunken stomata, set at the bottom of pits, hold a small pocket of still, humid air above the stomatal pore. Water vapour that diffuses into this pocket makes the air in it more humid, so the gradient from the air spaces to the outside is lower and diffusion is slower. Hairs on the epidermis trap a layer of humid air next to the surface and also reduce air movement, which has the same effect. In a rolled leaf, the lower epidermis, which carries the stomata, is on the inside of a tube, so the stomata open into an enclosed humid space. A small leaf, or one with a reduced surface area, has less surface from which water can escape.\n\nXerophytes tend to show different combinations of these features, and a plant need not have them all. Some plants have extra layers of epidermis, and others do not. A thick epidermis should not be assumed in any one plant, and a feature has to be read from the section in front of you.",
+   "claim_ids": [
+    "CLM-8223-2.6.2-019",
+    "CLM-8223-2.6.2-020",
+    "CLM-8223-2.6.2-021"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.2-019": 1,
+    "CLM-8223-2.6.2-020": 1,
+    "CLM-8223-2.6.2-021": 1
+   },
+   "authored_hash": "780b21f9167f76bd71779be48e51ab0007d0610d9288cc8a4b081bf0784ba940"
+  },
+  {
+   "block_id": "2.6.2-b11",
+   "block_type": "worked_application",
+   "heading": "Annotating a transverse section of a xerophyte leaf",
+   "text": "Drawing a transverse section is a practical skill, and this text describes what is to be drawn so that it can be understood without the image. Suppose a leaf section from a desert grass shows these parts: a thick layer of wax and cuticle over the epidermis on the outside, hairs inside the rolled leaf, stomata sunk in grooves on the inner surface, and mesophyll cells beneath the epidermis.\n\nThe drawing is made in proportion, from the outer surface inwards, showing the tissues as outlines with no shading. Each feature is labelled with a ruled line. Beside each label, an annotation says how that feature reduces water loss. For the wax: it reduces evaporation through the epidermis. For the hairs and the grooves: they trap humid air, so the gradient is shallower and diffusion of water vapour is slower. For the rolling of the leaf: it encloses the stomata in a humid space. A label alone names a feature; the annotation is what explains it.",
+   "claim_ids": [
+    "CLM-8223-2.6.2-020",
+    "CLM-8223-2.6.2-022"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.2-020": 1,
+    "CLM-8223-2.6.2-022": 1
+   },
+   "authored_hash": "bfe3a413b2800ea05f1e50513b35f2df95959aaeeca825a4f19bdaaffcae1542"
+  },
+  {
+   "block_id": "2.6.2-b12",
+   "block_type": "plain_explanation",
+   "heading": "Sources, sinks and translocation",
+   "text": "Assimilates are the products of photosynthesis that the plant carries around, such as sucrose and amino acids. They move in the phloem, in the sieve tubes. The transport of assimilates in the phloem is translocation. It should not be confused with translation, which is the making of a polypeptide at a ribosome. Neither word names diffusion or active transport alone.\n\nA source is a part of the plant where assimilates are loaded into the phloem. A mature leaf is a source, because it makes sucrose in photosynthesis. A storage organ, such as a tuber, is a source when it releases its reserves, for example to feed new shoots. A sink is a part where assimilates are removed to be used or stored. Buds, flowers, fruits and roots are sinks, because they use sucrose in respiration and growth. A storage organ is a sink while it is filling with reserves. The same organ can therefore be a sink at one time and a source at another.\n\nA sieve tube is a column of living cells joined end to end through perforated sieve plates, and each has a companion cell beside it. Assimilates move along the tube from the source to the sink. As sources and sinks lie in different places, the direction of flow in one sieve tube can be up or down the plant, depending on where its source and its sink are.",
+   "claim_ids": [
+    "CLM-8223-2.6.2-023",
+    "CLM-8223-2.6.2-024",
+    "CLM-8223-2.6.2-025"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.2-023": 1,
+    "CLM-8223-2.6.2-024": 1,
+    "CLM-8223-2.6.2-025": 1
+   },
+   "authored_hash": "5dcc1460bc14fb6bf21360a00880d27c3164e5d49cb8a4ac139636d72cfcc818"
+  },
+  {
+   "block_id": "2.6.2-b13",
+   "block_type": "process",
+   "heading": "Loading sucrose into the phloem",
+   "text": "Sucrose has to be loaded into the sieve tubes at a source, and this is done by the companion cells. In the cell surface membrane of a companion cell there are proton pumps. These are protein pumps that use ATP to move hydrogen ions out of the cell by active transport. The hydrogen ion concentration outside the cell therefore becomes higher than inside it.\n\nThe hydrogen ions now tend to diffuse back in. The membrane also holds co-transporter proteins, each of which has binding sites for a hydrogen ion and for a sucrose molecule. The hydrogen ions move back into the cell down their concentration gradient through the co-transporter, and the protein carries a sucrose molecule in with each of them. That brings sucrose into the companion cell even when its concentration in the cell is higher than outside. The energy for the movement of sucrose comes from the hydrogen ion gradient, which the pumps built using ATP.\n\nA common error is to say that hydrogen ions bond with sucrose and carry it across. They do not. The ions are pumped out first, and then pass back in through the protein, with the sucrose travelling alongside.\n\nSucrose builds up in the companion cell and passes into the sieve tube element through plasmodesmata. The companion cell contains many mitochondria, which supply the ATP the pumps use.",
+   "claim_ids": [
+    "CLM-8223-2.6.2-026",
+    "CLM-8223-2.6.2-027",
+    "CLM-8223-2.6.2-028"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.2-026": 1,
+    "CLM-8223-2.6.2-027": 1,
+    "CLM-8223-2.6.2-028": 1
+   },
+   "authored_hash": "f76c004729659e08a763226d8e8e35b96d34bbeeae74bd393b6c3f6e9b4eabf8"
+  },
+  {
+   "block_id": "2.6.2-b14",
+   "block_type": "process",
+   "heading": "Mass flow down a hydrostatic pressure gradient",
+   "text": "Once sucrose is in the sieve tube, the sap moves by mass flow. Mass flow is the bulk movement of a liquid and all it contains, here water with the dissolved assimilates, together in the same direction. It is driven by a difference in hydrostatic pressure, the pressure exerted by the liquid itself.\n\nAt the source, loading puts sucrose into the sieve tube, which lowers the water potential in the tube. Water enters from the nearby xylem by osmosis, down the water potential gradient. The extra water increases the volume of sap in the tube, and the hydrostatic pressure rises.\n\nAt the sink, sucrose leaves the sieve tube, to be used in respiration or to be stored, for example as starch. The water potential in the tube rises. Water leaves, by osmosis, towards the xylem, and the hydrostatic pressure falls.\n\nThere is now a high hydrostatic pressure at the source and a lower one at the sink, so the sap flows through the sieve tube, through the pores of the sieve plates, from source to sink, down the pressure gradient.\n\nThe flow along the tube does not need energy from the sieve tube, since it is driven by the pressure difference. But loading at the source needs ATP, and the sieve tube and companion cells have to be alive. Translocation as a whole therefore depends on metabolic energy, even though the flow along the tube is pressure-driven.",
+   "claim_ids": [
+    "CLM-8223-2.6.2-029",
+    "CLM-8223-2.6.2-030",
+    "CLM-8223-2.6.2-031"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.2-029": 1,
+    "CLM-8223-2.6.2-030": 1,
+    "CLM-8223-2.6.2-031": 1
+   },
+   "authored_hash": "ad6dae98a79f0780e3db6008810ffcb74a3d988825f688149d92b38123acd11d"
+  },
+  {
+   "block_id": "2.6.2-b15",
+   "block_type": "misconception",
+   "heading": "Three near neighbours to keep apart",
+   "text": "Three pairs of ideas are often mixed up. The apoplast is the cell walls and the spaces between cells, and the symplast is the cytoplasm joined by plasmodesmata; the test is to ask which runs through walls and which through cytoplasm. Translocation is the movement of assimilates in the phloem, and translation is the making of a polypeptide at a ribosome; the test is to ask which word names sucrose transport. Cohesion is attraction between water molecules and adhesion is attraction between water and another surface such as cellulose; the test is to ask what the water is sticking to.\n\nTwo more errors concern direction. Water moves from a higher to a lower water potential, so an arrow drawn from the more negative to the less negative value is wrong. In loading, hydrogen ions move back into the companion cell down their gradient through the co-transporter, and they carry sucrose with them without bonding to it.",
+   "claim_ids": [
+    "CLM-8223-2.6.2-015",
+    "CLM-8223-2.6.2-016",
+    "CLM-8223-2.6.2-023",
+    "CLM-8223-2.6.2-012",
+    "CLM-8223-2.6.2-014",
+    "CLM-8223-2.6.2-005",
+    "CLM-8223-2.6.2-027"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.2-015": 1,
+    "CLM-8223-2.6.2-016": 1,
+    "CLM-8223-2.6.2-023": 1,
+    "CLM-8223-2.6.2-012": 1,
+    "CLM-8223-2.6.2-014": 1,
+    "CLM-8223-2.6.2-005": 1,
+    "CLM-8223-2.6.2-027": 1
+   },
+   "authored_hash": "ea1e15f1de5cbeeebf5271d80831ce7277323577198ce2ddf3fdbf4d9c0508da"
+  },
+  {
+   "block_id": "2.6.2-b16",
+   "block_type": "worked_application",
+   "heading": "Worked example: reading a potometer",
+   "text": "A shoot is set up in a potometer in still air in the shade. The air bubble moves 18 mm in 6 minutes. The rate is the distance divided by the time: 18 ÷ 6 = 3 mm per minute. The shoot is moved in front of a fan and the bubble moves 30 mm in 6 minutes: 30 ÷ 6 = 5 mm per minute. The rate is higher in moving air, which carries away humid air beside the leaf and keeps the water vapour gradient steep.",
+   "claim_ids": [
+    "CLM-8223-2.6.2-008",
+    "CLM-8223-2.6.2-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.2-008": 1,
+    "CLM-8223-2.6.2-009": 1
+   },
+   "authored_hash": "86e4bb057a7983e81a70eb1f4b00f8d63a2d88b75a33ae45a97934760c5cfd5e"
+  },
+  {
+   "block_id": "2.6.2-b17",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "The xylem, the phloem and the structure of a leaf and a root are described in 2.6.1, Structure of transport tissues. Osmosis and water potential are met first in 2.3.2, Movement of substances into and out of cells. Hydrogen bonding in water is taught in 2.4.2, Proteins and water, and the cell surface membrane and its transport proteins in 2.3.1, Fluid mosaic membranes. The cell walls and plasmodesmata are described in 2.2, Cell structure, and using a light microscope for a peel in 2.1, The microscope.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "41c627e947b4c5623c173eb4f4260d688854c40e29c147bc4040b069e44262fa"
+  }
+ ],
+ "word_count": 3532,
+ "qa_status": "review_required",
+ "notes": []
+}

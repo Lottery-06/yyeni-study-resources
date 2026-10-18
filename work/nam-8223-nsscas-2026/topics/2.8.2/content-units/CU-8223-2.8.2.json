@@ -1,0 +1,245 @@
+{
+ "unit_id": "CU-8223-2.8.2",
+ "title": "Antibiotics",
+ "objective_ids": [
+  "OBJ-8223-2.8.2-01",
+  "OBJ-8223-2.8.2-02",
+  "OBJ-8223-2.8.2-03"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_description",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 990,
+  "target": 1200,
+  "max": 1410
+ },
+ "blocks": [
+  {
+   "block_id": "2.8.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "How penicillin stops growing bacteria building their cell walls, why antibiotics have no target in viruses or in eukaryotic cells, how bacteria become resistant through chance mutation and selection, and what resistance costs patients and health services, together with the steps that reduce its impact.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "18c5e86e3d3f181edd913f14cce014ee49a2dc838ef115861b9ceb45ad96825c"
+  },
+  {
+   "block_id": "2.8.2-b2",
+   "block_type": "plain_explanation",
+   "heading": "What penicillin does to a bacterium",
+   "text": "An antibiotic is a chemical that kills bacteria or stops them growing, without harming the cells of the person who takes it when used at the proper dose. Penicillin is the best-known example and controls bacterial infections such as some throat and skin infections.\n\nA bacterial cell is surrounded by a cell wall outside its cell surface membrane. The wall is built from strands that are joined to one another by enzymes, and a growing bacterium must keep adding new wall as it enlarges and divides. Penicillin prevents bacteria from building their cell walls: it blocks the enzymes that join the strands, so the new wall is weak. The target is the cell wall. Penicillin does not damage the cell surface membrane.",
+   "claim_ids": [
+    "CLM-8223-2.8.2-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.8.2-001": 1
+   },
+   "authored_hash": "e496c116c626802518b36924e33631fcde3a5a2ef9579901489ca3b35768bc7d"
+  },
+  {
+   "block_id": "2.8.2-b3",
+   "block_type": "process",
+   "heading": "Why growing bacteria burst",
+   "text": "Follow the chain of cause and effect. The cytoplasm of a bacterium contains dissolved substances, so it has a lower water potential than the dilute fluid around it, such as body fluid. Water therefore moves into the cell by osmosis.\n\nA strong cell wall resists this. As water enters, the cell swells until the wall pushes back and no more water can enter. When penicillin has stopped the wall from being built, the wall is too weak to push back. Water keeps entering, the cell swells beyond what its wall and membrane can hold, and the bacterium bursts. This is why penicillin kills growing bacteria.",
+   "claim_ids": [
+    "CLM-8223-2.8.2-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.8.2-002": 1
+   },
+   "authored_hash": "2a77020f915267f13e121fbf963092d73e8dc032e18a86c45bdc7579a4d24a83"
+  },
+  {
+   "block_id": "2.8.2-b4",
+   "block_type": "components",
+   "heading": "Why viruses and eukaryotic cells are not affected",
+   "text": "An antibiotic works because it acts on a structure or process that bacteria have. If a cell or particle lacks that target, the antibiotic does nothing to it.\n\nA virus has no cell wall. It also has no metabolism of its own: it is a nucleic acid inside a protein coat that can reproduce only inside a host cell, using the host cell's machinery. Penicillin therefore has no wall-building to stop. This is why an antibiotic does not treat the common cold, influenza or HIV infection, which are caused by viruses.\n\nThe cells of a person are eukaryotic. They have a cell surface membrane but no bacterial-type cell wall, so penicillin has nothing to block in them and does not harm them at normal doses. The same is true of other eukaryotic cells, such as the single-celled Plasmodium that causes malaria: it has no peptidoglycan wall, so penicillin does not cure malaria. Fungi do have walls, but made of a different material, so penicillin has no target in them either.",
+   "claim_ids": [
+    "CLM-8223-2.8.2-003",
+    "CLM-8223-2.8.2-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.8.2-003": 1,
+    "CLM-8223-2.8.2-004": 1
+   },
+   "authored_hash": "d8e15c90633df9a1aa6b3d3931e293c615552976c90db8f6b0cfe7d3f228e0ee"
+  },
+  {
+   "block_id": "2.8.2-b5",
+   "block_type": "misconception",
+   "heading": "Two confusions to avoid",
+   "text": "The first confusion is to say that penicillin acts on the cell membrane as well as the wall. It does not. The test is to ask which structure penicillin stops being built: the wall. The bacterium bursts because the wall is weak, not because the membrane is attacked.\n\nThe second is to call Plasmodium a bacterium or a virus. It is a single-celled eukaryote. Before saying whether penicillin will work on an organism, ask whether it is a prokaryote, a virus or a eukaryote. A bacterium has the wall that penicillin acts on.",
+   "claim_ids": [
+    "CLM-8223-2.8.2-001",
+    "CLM-8223-2.8.2-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.8.2-001": 1,
+    "CLM-8223-2.8.2-004": 1
+   },
+   "authored_hash": "fc44ab8aa103c8e590ede93c886d5dd5baf1548288285cc41dc86548d642c5a2"
+  },
+  {
+   "block_id": "2.8.2-b6",
+   "block_type": "plain_explanation",
+   "heading": "How a bacterium becomes resistant",
+   "text": "Antibiotic resistance is the ability of bacteria to survive and reproduce in the presence of an antibiotic that would normally kill them or stop their growth. Resistance belongs to the bacteria. The antibiotic does not become resistant, and the patient does not become resistant, although a patient can carry resistant bacteria.\n\nResistance begins with a mutation, a random change in the sequence of bases in DNA. Mutations arise by chance when DNA is copied, whether or not an antibiotic is present. The antibiotic does not cause them. Most mutations make no difference to survival, but occasionally one gives a bacterium a protein that lets it survive an antibiotic, for example an enzyme that breaks down penicillin.",
+   "claim_ids": [
+    "CLM-8223-2.8.2-005",
+    "CLM-8223-2.8.2-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.8.2-005": 1,
+    "CLM-8223-2.8.2-007": 1
+   },
+   "authored_hash": "d479d981232134c2f8f1336ebd5e5ff867b310fc27b6bcf0abc0fd6568589a93"
+  },
+  {
+   "block_id": "2.8.2-b7",
+   "block_type": "process",
+   "heading": "Mutation and selection, step by step",
+   "text": "Picture a large population of bacteria in a patient, with a very small number of cells that already carry a resistance mutation. The sequence runs as follows.\n\nFirst, the antibiotic is taken and acts as a selection pressure. Bacteria without the mutation are killed or stop growing. The resistant bacteria survive because the antibiotic cannot harm them. Next, the survivors reproduce by binary fission, and with more food and space available they multiply. Their offspring inherit the resistance allele. Over generations the proportion of resistant bacteria in the population rises, until most of the bacteria are resistant.\n\nUnder good conditions some bacteria divide about every 20 to 30 minutes, so one resistant survivor can give rise to a very large population in days. That speed is a tendency, since it depends on food, warmth and species.",
+   "claim_ids": [
+    "CLM-8223-2.8.2-006",
+    "CLM-8223-2.8.2-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.8.2-006": 1,
+    "CLM-8223-2.8.2-008": 1
+   },
+   "authored_hash": "005436153d928b2980f89d1d863961a0c59d7e64d503ee8d49ef52bdb4e0afef"
+  },
+  {
+   "block_id": "2.8.2-b8",
+   "block_type": "plain_explanation",
+   "heading": "The consequences of resistance",
+   "text": "When bacteria resist an antibiotic, an infection that was once easy to treat may persist or spread. For the patient, illness lasts longer and may end in death. For a health service, more patients need hospital care and treatment costs more. If the bacteria resist several antibiotics, few drugs remain, and the alternatives tend to be more expensive, slower or more toxic.\n\nTuberculosis shows this clearly. Drug-susceptible TB is treated with a combination of antibiotics for about six months. TB bacteria that resist the main drugs need a longer course of more toxic drugs, and the patient can pass resistant bacteria to others.",
+   "claim_ids": [
+    "CLM-8223-2.8.2-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.8.2-009": 1
+   },
+   "authored_hash": "2e0bb1095cd64a254cc6f456401d719c7fa2cd603dfb2f31287432b24aaf84c1"
+  },
+  {
+   "block_id": "2.8.2-b9",
+   "block_type": "plain_explanation",
+   "heading": "Steps that reduce the impact of resistance",
+   "text": "Each step cuts the selection pressure on bacteria or the spread of resistant bacteria.\n\nUse antibiotics only when a bacterial infection needs them. An antibiotic taken for a cold or for influenza cannot help, because the illness is viral, yet it still exposes the bacteria in the body and selects resistant ones. Take antibiotics as prescribed, at the right dose and for the length of course the prescriber sets, so that few bacteria are left to multiply. A laboratory sensitivity test finds which antibiotic kills the bacteria from a patient, so a suitable one is chosen.\n\nTB is treated with several antibiotics at once. A bacterium that resists one is still likely to be killed by another, and the chance that one bacterium gains separate mutations to resist all of them at the same time is extremely small.\n\nOther steps are handwashing, keeping patients with resistant infections apart in hospital, vaccination so that fewer people need antibiotics, restricting routine antibiotic use in healthy farm animals, and research to develop new antibiotics.",
+   "claim_ids": [
+    "CLM-8223-2.8.2-010",
+    "CLM-8223-2.8.2-011",
+    "CLM-8223-2.8.2-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.8.2-010": 1,
+    "CLM-8223-2.8.2-011": 1,
+    "CLM-8223-2.8.2-012": 1
+   },
+   "authored_hash": "aeec0a77549e6e5f701bdcfbe02cfb59fe9cdcf95516af8a56eee8be935b5358"
+  },
+  {
+   "block_id": "2.8.2-b10",
+   "block_type": "interpretation",
+   "heading": "Reading data about resistance",
+   "text": "Suppose a hospital laboratory in Windhoek reports that over four years the percentage of resistant bacteria rose each year as prescriptions of one antibiotic rose. Read the values first, then link them to the mechanism. The pattern is consistent with selection: more use means more selection pressure, so resistant bacteria make up a larger share. A rise alongside use does not prove the cause, so say the data are consistent with selection.",
+   "claim_ids": [
+    "CLM-8223-2.8.2-006",
+    "CLM-8223-2.8.2-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.8.2-006": 1,
+    "CLM-8223-2.8.2-009": 1
+   },
+   "authored_hash": "de2d649862d8840788fd254768c1552dfc653898b1aa66f3dda7663c9086ff97"
+  },
+  {
+   "block_id": "2.8.2-b11",
+   "block_type": "worked_application",
+   "heading": "Worked example: a TB patient who stops early",
+   "text": "A patient in Oshakati is prescribed a combination of antibiotics for six months. After eight weeks the cough has gone and the patient stops taking the tablets.\n\nThe antibiotics have killed most of the TB bacteria, but a few cells remain, and any of them with reduced susceptibility are more likely to be among the survivors. With the tablets stopped, the survivors reproduce and their offspring inherit the same features. The population is now more resistant than before. If the patient then takes the same drugs again, they are less likely to work, and the patient can pass the resistant bacteria to others. Taking the drugs as prescribed for the full course, helped by a supervised treatment programme, would have prevented this.",
+   "claim_ids": [
+    "CLM-8223-2.8.2-006",
+    "CLM-8223-2.8.2-010",
+    "CLM-8223-2.8.2-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.8.2-006": 1,
+    "CLM-8223-2.8.2-010": 1,
+    "CLM-8223-2.8.2-011": 1
+   },
+   "authored_hash": "c8e2bde10e5c1e9ca7f6e35f157f0f94658ca4b2b6e2f2f07b176619232c6489"
+  },
+  {
+   "block_id": "2.8.2-b12",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "This topic builds on Cell structure (topic 2.2), which gives the cell wall and the difference between prokaryotic and eukaryotic cells. It links to Infectious disease (topic 2.8.1), which names the pathogens that antibiotics do and do not treat, and to The response of the immune system to pathogens (topic 2.9.1), which explains how vaccination reduces the need for antibiotics. Mutation links to Protein synthesis (topic 3.2.2), where a changed base sequence can change the protein made.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "ec823ead9e03c4dec4376917caff25b3a093974b599d01d2dcbffdf655807224"
+  }
+ ],
+ "word_count": 1396,
+ "qa_status": "review_required",
+ "notes": [
+  "Written from the syllabus and our own statement of standard biology; unverified, single source."
+ ]
+}

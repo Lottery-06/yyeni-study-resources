@@ -1,0 +1,759 @@
+{
+ "topic_number": "2.9.2",
+ "topic_title": "Antibodies and vaccination",
+ "topic": "2.9.2 Antibodies and vaccination",
+ "qualification": "Namibia Senior Secondary Certificate Advanced Subsidiary level (NSSCAS) Biology 8223 (syllabus vNIED 2020, examined 2021-2025)",
+ "item_count": 16,
+ "items": [
+  {
+   "item_id": "ITEM-8223-2.9.2-001-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.9.2-002",
+    "CLM-8223-2.9.2-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Describe the structure of an antibody molecule.",
+   "canonical_answer": "An antibody is a Y-shaped protein made of four polypeptide chains: two identical long heavy chains and two identical shorter light chains, joined by disulfide bonds. At the tip of each arm is a variable region that forms an antigen-binding site, so the molecule has two identical binding sites.",
+   "marking_guidance": [
+    "2 marks from five points: Y-shaped; four polypeptide chains; two heavy and two light chains; chains joined by disulfide bonds; a variable region at the tip of each arm forming an antigen-binding site (two sites). The tariff is 2.",
+    "Accept two binding sites for the variable regions. Reject describing an antibody as a cell, and reject hydrogen bonds as the bonds that join the chains. Each mark needs a feature of the structure, not a function."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.9.2 from the claim ledger and the syllabus line. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.9.2-002": 1,
+    "CLM-8223-2.9.2-003": 1
+   },
+   "authored_hash": "fd7ecdc9bc8619d99b747ae393f60c1d8e97c3f6429eb1778abe7f101100851c",
+   "objective_titles": [
+    "relate the molecular structure of antibodies to their functions(see 2.4.2)"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.9.2-002-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.9.2-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Explain how the variable regions of an antibody allow it to bind one specific antigen and not others.",
+   "canonical_answer": "The sequence of amino acids in a variable region differs from one antibody to another, so each folds into its own tertiary shape, which forms the binding site. The shape is complementary to one antigen, so that antigen fits and is held by many weak bonds, whereas an antigen of a different shape fits poorly and is not held.",
+   "marking_guidance": [
+    "2 marks: the amino acid sequence of the variable region gives it a particular tertiary shape forming the binding site (1); the shape is complementary to one antigen, so that antigen fits and others, because they are a different shape, do not (1).",
+    "The how is the link from sequence to shape to fit, in that order. Reject the constant region as the part that decides which antigen is bound. Accept lock and key if the shape fit is stated."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.9.2 from the claim ledger and the syllabus line. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.9.2-003": 1
+   },
+   "authored_hash": "e25681fac253aee06112fa4dcfc7f8a6907b8870422c1c994084a5901da37c78",
+   "objective_titles": [
+    "relate the molecular structure of antibodies to their functions(see 2.4.2)"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.9.2-013-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.9.2-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A laboratory tested three antibodies, X, Y and Z, from three different clones of plasma cells. The table gives our readings.\n\n| Antibody | Constant region | Variable region | Binds antigen P | Binds antigen Q | Binds antigen R |\n|---|---|---|---|---|---|\n| X | same sequence | sequence 1 | yes | no | no |\n| Y | same sequence | sequence 2 | no | yes | no |\n| Z | same sequence | sequence 3 | no | no | yes |\n\nDescribe what the table shows about the part of an antibody that decides which antigen it binds.",
+   "canonical_answer": "The three antibodies have the same constant region but different variable regions, and each binds a different single antigen: X binds P, Y binds Q and Z binds R. This means the variable region, not the constant region, decides which antigen is bound.",
+   "marking_guidance": [
+    "2 marks: the constant region is the same in X, Y and Z while the variable regions differ (1); each antibody binds a different single antigen, X to P, Y to Q, Z to R, which means the variable region decides which antigen is bound (1).",
+    "The answer must read the values in the table. A statement that the variable region binds the antigen, with no reading from the table, earns no more than 1 mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "A laboratory comparing three antibodies",
+    "facts": [
+     "The three antibodies have an identical constant region.",
+     "The variable region sequences are 1, 2 and 3."
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.9.2 from the claim ledger and the syllabus line. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.9.2-003": 1
+   },
+   "authored_hash": "8bc10deaf471211fc507335f97f91ccaaa5b2f99736320c09f7ac15bc5034661",
+   "objective_titles": [
+    "relate the molecular structure of antibodies to their functions(see 2.4.2)"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.9.2-003-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.9.2-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by a monoclonal antibody.",
+   "canonical_answer": "Monoclonal antibodies are identical antibodies, all made by a single clone of cells, that bind the same antigen.",
+   "marking_guidance": [
+    "1 mark. Key words: identical antibodies, made by one clone of cells (one cell type), so they bind the same antigen. The definition means one clone and one antigen.",
+    "Reject an antibody that is described as a cell, and reject antibodies from different clones."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.9.2 from the claim ledger and the syllabus line. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.9.2-005": 1
+   },
+   "authored_hash": "3ac9c24d8e17c36101c11c1744619493d3bd29bd7a1166cd71e9e90d40ab5fd2",
+   "objective_titles": [
+    "outline the hybridoma method for the production of monoclonal antibodies"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.9.2-004-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.9.2-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Describe the main steps by which monoclonal antibodies are produced by the hybridoma method.",
+   "canonical_answer": "A mouse is injected with the antigen, and B-lymphocytes that make antibody against it are removed from the spleen. They are fused with myeloma cells to form hybridoma cells. The hybridoma cells that make the wanted antibody are selected and grown in culture, and the antibody is collected from the culture fluid.",
+   "marking_guidance": [
+    "2 marks from six points: mouse injected with the antigen; B-lymphocytes (plasma cells) removed from the spleen; fused with myeloma (tumour) cells; hybridoma cells formed; hybridoma cells making the wanted antibody selected; selected cells cultured in large quantity and antibody collected. The tariff is 2.",
+    "Points must be in sensible order. Reject taking the antibody from the mouse's blood as the method, and reject fusing without naming the two cell types."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.9.2 from the claim ledger and the syllabus line. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.9.2-006": 1
+   },
+   "authored_hash": "2d3fa9801f10069da76d49e1c51a3f1f6fbeb8b34a3693b66df861e74dc633ba",
+   "objective_titles": [
+    "outline the hybridoma method for the production of monoclonal antibodies"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.9.2-014-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.9.2-006",
+    "CLM-8223-2.9.2-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A technician grew three kinds of cell in separate culture dishes, as part of making a monoclonal antibody against antigen Z. These are our results.\n\n| Cell type | Divides again and again in culture | Antibody against Z in the culture fluid |\n|---|---|---|\n| B-lymphocytes from the spleen of an immunised mouse | no, stops after a few divisions | yes, for a short time |\n| Myeloma cells | yes | no |\n| Hybridoma cells | yes | yes |\n\nDescribe what the table shows about what the B-lymphocytes and the myeloma cells each add to a hybridoma cell.",
+   "canonical_answer": "The table shows that the B-lymphocytes make antibody against Z but stop dividing, whereas the myeloma cells divide again and again but make no antibody against Z. The hybridoma cells do both, so the B-lymphocytes add the ability to make the antibody and the myeloma cells add the ability to keep dividing.",
+   "marking_guidance": [
+    "2 marks: the B-lymphocytes add the ability to make antibody against Z (1); the myeloma cells add the ability to divide again and again (1). Each reading from the table must be stated, and the hybridoma cell shows both.",
+    "The table means that neither parent supplies both properties. A statement that the hybridoma is a fusion with no reading from the table earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "A laboratory making a monoclonal antibody against antigen Z",
+    "facts": [
+     "Three cell types were grown in separate dishes."
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.9.2 from the claim ledger and the syllabus line. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.9.2-006": 1,
+    "CLM-8223-2.9.2-007": 1
+   },
+   "authored_hash": "c69f0cc4e498b7d88b1c0b6c25822de15a1fb670a59c3cc9be9287b048d130b2",
+   "objective_titles": [
+    "outline the hybridoma method for the production of monoclonal antibodies"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.9.2-005-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.9.2-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by a diagnostic test that uses a monoclonal antibody.",
+   "canonical_answer": "A test in which a labelled monoclonal antibody binds a specific antigen in a sample, such as urine or blood, so that the label shows the antigen, and so the disease or condition, is present.",
+   "marking_guidance": [
+    "1 mark. Key words: a labelled monoclonal antibody binds a specific antigen in a sample and the label shows the result. The definition means detection of one antigen.",
+    "Reject a test in which the antibody is given to the patient as treatment, and reject a test that has no label or visible result."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.9.2 from the claim ledger and the syllabus line. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.9.2-008": 1
+   },
+   "authored_hash": "86291119c0d434817dd91f4b7f7cbfc90567b4dea41c34b49a1820f2056c21db",
+   "objective_titles": [
+    "outline the use of monoclonal antibodies in the diagnosis of disease and in the treatment of disease"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.9.2-006-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.9.2-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Describe how a monoclonal antibody can be used in the treatment of a cancer.",
+   "canonical_answer": "A monoclonal antibody is made against an antigen found in much greater amount on the cancer cells than on most healthy cells. A drug or radioactive substance is attached to it. When injected, the antibody binds the cancer cells, so the drug is delivered to them and fewer healthy cells are exposed.",
+   "marking_guidance": [
+    "2 marks from four points: antibody made against an antigen on the cancer cells; a drug or radioactive substance attached to it; antibody binds the cancer cells after injection; the drug is delivered to the cancer cells, so fewer healthy cells are harmed. The tariff is 2.",
+    "Each point is a feature of the use. Accept the antibody blocking a signal or marking the cell for destruction as an alternative point. Reject a claim that healthy cells are not harmed at all."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.9.2 from the claim ledger and the syllabus line. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.9.2-009": 1
+   },
+   "authored_hash": "3fe93bfc1353501f9ad2aa90eac7b83a1525778466d8bc9a8c3e8e61f4b72a45",
+   "objective_titles": [
+    "outline the use of monoclonal antibodies in the diagnosis of disease and in the treatment of disease"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.9.2-007-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.9.2-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by passive immunity.",
+   "canonical_answer": "Immunity gained when a person receives ready-made antibodies from another source, so that the person's own immune system does not make them.",
+   "marking_guidance": [
+    "1 mark. Key words: ready-made antibodies from another source; the person's own plasma cells do not make them. The definition means antibodies are received, not made.",
+    "Reject any answer that says the person makes the antibodies, and reject answers that say passive immunity is long-lasting."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.9.2 from the claim ledger and the syllabus line. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.9.2-011": 1
+   },
+   "authored_hash": "99523572fe7eed9ab070d789f34d8731c66a29e080ebb8493d83497d965ffc1c",
+   "objective_titles": [
+    "describe the differences between active and passive immunity and between natural and artificial immunity"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.9.2-008-DIST",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.9.2-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one difference between the way active immunity and passive immunity are gained.",
+   "canonical_answer": "In active immunity the person's own plasma cells make the antibodies after exposure to an antigen, whereas in passive immunity the antibodies come ready-made from another source.",
+   "marking_guidance": [
+    "1 mark for one difference stated for both: own plasma cells make the antibodies (active) whereas antibodies are received ready-made (passive). A difference given for one type only does not earn the mark.",
+    "Accept alternatives that contrast both: memory cells form in active but not in passive immunity; protection starts after a delay in active but at once in passive immunity. Reject natural and artificial as the difference."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.9.2 from the claim ledger and the syllabus line. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.9.2-011": 1
+   },
+   "authored_hash": "d2c1fc8e173ada7f11e65c16d0c705075a5255aca3df418edebf553d6e8bad9d",
+   "objective_titles": [
+    "describe the differences between active and passive immunity and between natural and artificial immunity"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.9.2-009-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.9.2-014"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by a vaccine.",
+   "canonical_answer": "A preparation containing antigens from a pathogen, in a form that cannot cause the disease, given to stimulate a person's own immune system to respond.",
+   "marking_guidance": [
+    "1 mark. Key words: antigens from a pathogen, in a harmless form, that stimulate the person's own immune response. The definition means antigens, not antibodies.",
+    "Reject a vaccine described as containing antibodies, and reject a vaccine described as the live disease-causing pathogen at full strength."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.9.2 from the claim ledger and the syllabus line. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.9.2-014": 1
+   },
+   "authored_hash": "fd8fe6336a885c401c94b1949308d15a9089a3a58aecebc95b7ca1d34ff16974",
+   "objective_titles": [
+    "explain that vaccines contain antigens that stimulate immune responses to provide long-term immunity"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.9.2-010-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.9.2-015",
+    "CLM-8223-2.9.2-016"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Explain how a vaccine against measles can give a child long-term immunity to the disease.",
+   "canonical_answer": "The antigens in the vaccine stimulate B-lymphocytes with matching receptors, which divide into plasma cells and memory cells. The memory cells persist for years, so if the real virus enters later they divide quickly into plasma cells, giving a faster and larger secondary response that destroys the virus before it causes symptoms.",
+   "marking_guidance": [
+    "2 marks: the vaccine antigens lead to the formation of memory cells (1); memory cells persist and, on later infection, cause a faster and larger production of antibody, so the virus is destroyed before symptoms (1).",
+    "The how is memory cells then a fast secondary response. Reject answers that say the vaccine supplies antibodies that last for years."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "A child vaccinated against measles at a clinic in Namibia",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.9.2 from the claim ledger and the syllabus line. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.9.2-015": 1,
+    "CLM-8223-2.9.2-016": 1
+   },
+   "authored_hash": "dcf870cbfff2a9a6e850bb61c43c267fe51efa76e97862bb2493fc7bcf816e98",
+   "objective_titles": [
+    "explain that vaccines contain antigens that stimulate immune responses to provide long-term immunity"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.9.2-011-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.9.2-017"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by herd immunity.",
+   "canonical_answer": "The protection of a population that results when so large a proportion of its members is immune that the pathogen spreads poorly, so people who are not immune are also less likely to be infected.",
+   "marking_guidance": [
+    "1 mark. Key words: a large proportion of the population is immune, so the pathogen spreads poorly and people who are not immune are protected. The definition means protection of the whole population.",
+    "Reject an answer that says every person in the population is immune."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.9.2 from the claim ledger and the syllabus line. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.9.2-017": 1
+   },
+   "authored_hash": "714c9bfe6042f1417a651c3a19c877ef9518335b2a491cc4ad47df00681cc36b",
+   "objective_titles": [
+    "explain how vaccination programmes can help to control the spread of infectious diseases"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.9.2-012-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.9.2-017",
+    "CLM-8223-2.9.2-018"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A regional health office in northern Namibia vaccinates 95 per cent of the children in its area against measles. Explain how this programme reduces the spread of measles in the area, including among babies too young to be vaccinated.",
+   "canonical_answer": "With 95 per cent of the children immune, most of the contacts of an infected child are immune, so each case passes the virus on to fewer than one other person on average. The chains of infection break and the outbreak dies out, so babies too young to be vaccinated meet the virus less often and are less likely to be infected.",
+   "marking_guidance": [
+    "2 marks: most contacts are immune, so an infected person passes the virus to fewer than one other person and the chain of infection breaks (1); so the virus reaches babies who are not vaccinated less often, which is herd immunity (1).",
+    "The how is fewer susceptible contacts, then fewer new cases. The result depends on a high enough proportion being immune, about 95 per cent for measles. Reject an answer that says the unvaccinated babies have their own antibodies from the vaccine."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "A regional vaccination programme in northern Namibia",
+    "facts": [
+     "95 per cent of children are vaccinated against measles."
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.9.2 from the claim ledger and the syllabus line. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.9.2-017": 1,
+    "CLM-8223-2.9.2-018": 1
+   },
+   "authored_hash": "e464e96c5e3728ce3053f839a555570840373106567e2869f6a63108c689a432",
+   "objective_titles": [
+    "explain how vaccination programmes can help to control the spread of infectious diseases"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.9.2-P01",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-01",
+    "OBJ-8223-2.9.2-02",
+    "OBJ-8223-2.9.2-04",
+    "OBJ-8223-2.9.2-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.9.2-001",
+    "CLM-8223-2.9.2-002",
+    "CLM-8223-2.9.2-003",
+    "CLM-8223-2.9.2-006",
+    "CLM-8223-2.9.2-007",
+    "CLM-8223-2.9.2-009",
+    "CLM-8223-2.9.2-010",
+    "CLM-8223-2.9.2-011",
+    "CLM-8223-2.9.2-012",
+    "CLM-8223-2.9.2-014",
+    "CLM-8223-2.9.2-017",
+    "CLM-8223-2.9.2-018"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": null,
+   "mark_tariff": null,
+   "difficulty": 3,
+   "prompt": "Twelve questions. Choose one option for each.\n\n1. Which statement about antibodies is correct?\nA  They are cells that engulf pathogens.\nB  They are proteins made by plasma cells.\nC  They are parts of the surface of a pathogen.\nD  They are cells that divide to form plasma cells.\n\n2. Which bonds join the two light chains and two heavy chains of an antibody to each other?\nA  peptide bonds between the ends of the chains\nB  glycosidic bonds between R groups\nC  disulfide bonds between R groups of cysteine\nD  hydrogen bonds, which are covalent bonds\n\n3. Two antibodies bind different antigens. Which part differs between them?\nA  the constant region\nB  the variable region\nC  the number of heavy chains\nD  the number of binding sites\n\n4. Each antibody molecule has two antigen-binding sites. What does this allow?\nA  It allows the antibody to join two bacteria together.\nB  It allows the antibody to digest two bacteria.\nC  It allows the antibody to bind two different antigens.\nD  It allows the antibody to form two memory cells.\n\n5. Which substance does a vaccine contain?\nA  antibodies made by another animal\nB  antigens from a pathogen in a harmless form\nC  plasma cells\nD  memory cells\n\n6. Which sequence shows the hybridoma method in the correct order?\nA  inject the mouse with antigen; remove B-lymphocytes from the spleen; fuse them with myeloma cells; select hybridoma cells; culture them\nB  fuse mouse cells with myeloma cells; inject the mouse; remove B-lymphocytes; culture; select\nC  inject the mouse with antigen; remove B-lymphocytes; culture them; fuse them with myeloma cells; select hybridoma cells\nD  remove B-lymphocytes; fuse them with myeloma cells; inject the antigen; select hybridoma cells; culture them\n\n7. Why are myeloma cells fused with B-lymphocytes in the hybridoma method?\nA  Myeloma cells make the antibody against the antigen.\nB  Myeloma cells divide again and again in culture.\nC  Myeloma cells carry the antigen.\nD  Myeloma cells destroy the B-lymphocytes that do not fuse.\n\n8. A clinic test strip uses a monoclonal antibody that binds a hormone in urine and produces a coloured line. Why does this give a reliable result?\nA  The antibody binds one specific antigen, so it does not react with other proteins in the urine.\nB  The antibody destroys the other hormones in the urine.\nC  The antibody contains the hormone, which makes the line.\nD  The antibody is a cell that divides on the strip.\n\n9. A baby in Rundu receives antibodies from her mother in breast milk. Which type of immunity is this?\nA  natural active\nB  natural passive\nC  artificial active\nD  artificial passive\n\n10. A farm worker in the Zambezi Region is given an injection of ready-made antibodies after a dog bite. Which statement is correct?\nA  She has artificial passive immunity, which works at once but has no memory cells.\nB  She has artificial active immunity, which lasts for years.\nC  She has natural passive immunity, which works at once.\nD  She has artificial passive immunity, and her plasma cells will keep making these antibodies.\n\n11. The table gives our readings of antibody concentration in the blood of two people. Person G was given an injection of ready-made antibodies on day 0. Person H was given a vaccine on day 0.\n\n| Day | Person G (arbitrary units) | Person H (arbitrary units) |\n|---|---|---|\n| 1 | 80 | 0 |\n| 14 | 40 | 30 |\n| 28 | 10 | 90 |\n| 60 | 0 | 40 |\n\nWhich conclusion do the readings support?\nA  G was vaccinated, because antibody was present on day 1.\nB  H made its own antibodies, because the concentration rose after a delay.\nC  H received ready-made antibodies, because the concentration is above zero on day 60.\nD  G has memory cells, because the concentration fell slowly.\n\n12. Most children in a district are vaccinated against measles. Why are unvaccinated babies in the district less likely to catch measles?\nA  The vaccinated children pass antibodies to them.\nB  Few people around them can pass on the virus.\nC  The virus is killed by the skin of vaccinated people.\nD  The vaccine spreads from child to child.",
+   "canonical_answer": "Key: 1 B, 2 C, 3 B, 4 A, 5 B, 6 A, 7 B, 8 A, 9 B, 10 A, 11 B, 12 B.\n1. Antibodies are proteins secreted by plasma cells (B). A and D describe cells (a phagocyte, a B-lymphocyte), the error of treating an antibody as a cell; C confuses the antibody with the antigen it binds.\n2. Disulfide bonds between cysteine R groups link the chains (C). A is the bond between amino acids within one chain; B is a bond between sugars, not amino acids; D confuses hydrogen bonds, which fold each chain, with covalent links, and hydrogen bonds are not covalent.\n3. The variable region has a different amino acid sequence and shape (B). A is the error of placing specificity in the constant region; C and D are the same in both, since each has two heavy chains and two binding sites.\n4. Two sites allow one molecule to link two bacteria, which leads to agglutination (A). B gives antibodies a digestive role they do not have; C is wrong because the two sites are identical; D confuses antibody with cells.\n5. A vaccine contains antigens that stimulate the recipient's own response (B). A describes an antivenom-type injection, the error of treating a vaccine as passive; C and D are cells the recipient makes, not cells in the vaccine.\n6. A gives the order: immunise, collect, fuse, select, culture. B fuses cells before the mouse has made antibody-producing cells; C cultures the B-lymphocytes before fusion, which is the cell type that stops dividing; D adds the antigen after the cells are taken, so they would not have been stimulated.\n7. The myeloma cell supplies continuous division (B). A reverses the roles, since the B-lymphocyte makes the antibody; C and D give myeloma cells functions they do not have in the method.\n8. Specific binding to one antigen gives a reliable result (A). B gives the antibody an enzyme role it does not have; C confuses the antibody with the antigen it detects; D is the error of treating an antibody as a cell.\n9. The antibodies come from another person without a medical procedure, so natural and passive (B). A is wrong because the baby's own plasma cells did not make them; C and D are wrong because no medical procedure gave them.\n10. Antibodies given by injection are artificial passive immunity, with no memory cells (A). B confuses injection with vaccination; C reads natural from passive; D says the person's plasma cells make the antibodies, which is the active type.\n11. H shows no antibody at first, then a rise to a peak, which is the delay of an active response (B). A reads the immediate high start of G, which is passive, as vaccination; C is wrong because ready-made antibodies would be high at first and fall; D is wrong because G's concentration fell to zero, so no memory cells acted.\n12. Fewer infected people means fewer sources of the virus, which is herd immunity (B). A is the error of thinking antibodies spread between people; C invents a killing effect; D confuses a vaccine, which is given by injection or by mouth, with an infection that spreads.",
+   "marking_guidance": [
+    "The key: one mark per correct option, twelve marks in all. About half the questions test recall and half test application to a described test, data table or sequence.",
+    "Each distractor is a named error: an antibody treated as a cell, antibody confused with antigen, a vaccine treated as ready-made antibodies, the hybridoma steps out of order, active read from natural, and a delayed rise misread as passive."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.9.2 from the claim ledger and the syllabus line. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.9.2-001": 1,
+    "CLM-8223-2.9.2-002": 1,
+    "CLM-8223-2.9.2-003": 1,
+    "CLM-8223-2.9.2-006": 1,
+    "CLM-8223-2.9.2-007": 1,
+    "CLM-8223-2.9.2-009": 1,
+    "CLM-8223-2.9.2-010": 1,
+    "CLM-8223-2.9.2-011": 1,
+    "CLM-8223-2.9.2-012": 1,
+    "CLM-8223-2.9.2-014": 1,
+    "CLM-8223-2.9.2-017": 1,
+    "CLM-8223-2.9.2-018": 1
+   },
+   "authored_hash": "c5582f73d9deab3db90947caa964fc4ec348f3c4c21edd8ccfb9470c29f15a0c",
+   "objective_titles": [
+    "relate the molecular structure of antibodies to their functions(see 2.4.2)",
+    "outline the hybridoma method for the production of monoclonal antibodies",
+    "describe the differences between active and passive immunity and between natural and artificial immunity",
+    "explain that vaccines contain antigens that stimulate immune responses to provide long-term immunity"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.9.2-P02",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-04",
+    "OBJ-8223-2.9.2-05",
+    "OBJ-8223-2.9.2-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.9.2-011",
+    "CLM-8223-2.9.2-012",
+    "CLM-8223-2.9.2-015",
+    "CLM-8223-2.9.2-016",
+    "CLM-8223-2.9.2-017",
+    "CLM-8223-2.9.2-018"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": null,
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "A health worker in Kavango East studied measles at a clinic area. These are our figures for four years.\n\n| Year | Children vaccinated against measles (per cent) | Measles cases in the area |\n|---|---|---|\n| 2019 | 94 | 3 |\n| 2020 | 88 | 11 |\n| 2021 | 79 | 46 |\n| 2022 | 91 | 8 |\n\n(a) Describe what the table shows about the relationship between the percentage of children vaccinated and the number of measles cases. [2]\n(b) Explain why a child who has been vaccinated against measles can be protected for many years. [2]\n(c) Explain why babies too young to be vaccinated were less likely to catch measles in 2019 than in 2021. [2]\n(d) A child in the area is bitten by a venomous snake and given antivenom, which is made from antibodies of a horse. State the type of immunity this gives, using the words active or passive and natural or artificial. [1]\n(e) Suggest why the immunity from the antivenom does not last as long as the immunity of the vaccinated children. [1]",
+   "canonical_answer": "(a) As the percentage vaccinated fell from 94 per cent in 2019 to 79 per cent in 2021, the cases rose from 3 to 46; when the percentage rose to 91 per cent in 2022, the cases fell to 8. This means a lower percentage vaccinated goes with more cases.\n(b) The vaccine antigens stimulate B-lymphocytes to form plasma cells and memory cells. The memory cells persist for years, so if the real virus enters, they give a fast, large secondary response that destroys it before symptoms.\n(c) In 2019, 94 per cent of children were immune, so an infected person passed the virus to fewer than one other person and the chain of infection broke, so the babies met the virus less often. In 2021, with 79 per cent immune, more infected people and more contacts who were not immune meant more chances of infection, so the babies were more likely to be infected.\n(d) Artificial passive immunity.\n(e) The antibodies are proteins that are broken down and are not replaced, and no memory cells formed, so protection fades.",
+   "marking_guidance": [
+    "8 marks: (a) 2, (b) 2, (c) 2, (d) 1, (e) 1. Parts (a) and (c) credit AO B (4 marks); parts (b), (d) and (e) credit AO A (4 marks) as the tariff is split here.",
+    "(a) 2 marks from three points: the percentage fell from 94 to 79 as cases rose from 3 to 46; the percentage rose to 91 as cases fell to 8; a lower percentage goes with more cases. Values from the table must be quoted. (b) 2 marks from three points: vaccine antigens stimulate B-lymphocytes; memory cells form and persist; fast, large secondary response on later infection. (c) 2 marks from three points: high percentage immune, so the chain of infection breaks; babies meet the virus less often; with a lower percentage immune there were more chances of infection, which is the reason for the difference.",
+    "(d) 1 mark for both terms: artificial and passive; one term alone earns nothing. (e) 1 mark from two points: the antibodies are broken down because they are proteins and are not replaced; no memory cells form because the person's own plasma cells were not stimulated. Reject because the antivenom is a weaker dose."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "A clinic area in Kavango East",
+    "facts": [
+     "Vaccination percentage and measles cases for four years are our invented figures."
+    ]
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.9.2 from the claim ledger and the syllabus line. Unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.9.2-011": 1,
+    "CLM-8223-2.9.2-012": 1,
+    "CLM-8223-2.9.2-015": 1,
+    "CLM-8223-2.9.2-016": 1,
+    "CLM-8223-2.9.2-017": 1,
+    "CLM-8223-2.9.2-018": 1
+   },
+   "authored_hash": "6ed803cbb14482fc5acbc9c896dc1d39065a53b9ed0d784f819b9ce7dad6d37f",
+   "objective_titles": [
+    "describe the differences between active and passive immunity and between natural and artificial immunity",
+    "explain that vaccines contain antigens that stimulate immune responses to provide long-term immunity",
+    "explain how vaccination programmes can help to control the spread of infectious diseases"
+   ]
+  }
+ ]
+}

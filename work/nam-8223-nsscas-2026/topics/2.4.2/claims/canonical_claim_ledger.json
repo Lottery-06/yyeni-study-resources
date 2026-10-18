@@ -1,0 +1,786 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-2.4.2",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-2.4.2-001",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-01"
+   ],
+   "text": "An amino acid has a central carbon atom bonded to four things: an amino group (–NH2), a carboxyl group (–COOH), a hydrogen atom and an R group. The R group differs from one amino acid to another, and about twenty different amino acids are used to build the proteins of living organisms.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11; standard biology from our own knowledge).",
+    "Standard structure; the count of about twenty is the usual figure for the amino acids coded by DNA."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.4.2-002",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-01"
+   ],
+   "text": "Two amino acids join by a condensation reaction between the carboxyl group of one and the amino group of the other: an –OH from the carboxyl group and an H from the amino group leave as a molecule of water, and a peptide bond (C–N) forms between the carbon and the nitrogen. Two amino acids joined in this way make a dipeptide, and many make a polypeptide.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2024-P2-Q3a",
+     "locator": "examiner report finding recorded in the misconception register, entry MC-8223-2.4.2-03",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11), with the report finding as corroboration of the common error only, not of the biology.",
+    "The bond is called a peptide bond; \"dipeptide\" names the product of two amino acids, not the bond."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.4.2-003",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-01"
+   ],
+   "text": "A peptide bond is broken by hydrolysis, which adds a molecule of water: the –OH and the H of the water restore the carboxyl group and the amino group. Proteases catalyse this reaction in digestion.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11; standard biology from our own knowledge).",
+    "Hydrolysis is the reverse of condensation."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.4.2-004",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-02"
+   ],
+   "text": "The primary structure of a protein is the sequence of amino acids in its polypeptide chain, held together by peptide bonds. The sequence is set by the gene that codes for the polypeptide.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11; standard biology from our own knowledge)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.4.2-005",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-02"
+   ],
+   "text": "The secondary structure of a protein is the regular folding of the polypeptide backbone into an alpha helix or a beta pleated sheet, held in place by hydrogen bonds between the C=O group of one peptide link and the N–H group of another. The R groups do not form these hydrogen bonds.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2025-P1-Q15",
+     "locator": "examiner report finding recorded in the misconception register, entry MC-8223-2.4.2-04",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11), with the report finding as corroboration of the common error only, not of the biology.",
+    "Backbone atoms, not R groups, form the hydrogen bonds of secondary structure."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.4.2-006",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-02"
+   ],
+   "text": "The tertiary structure of a protein is the overall three-dimensional shape of a single polypeptide, produced when the chain folds further and the R groups interact with each other through hydrogen bonds, ionic bonds, disulfide bonds and hydrophobic interactions.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11; standard biology from our own knowledge)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.4.2-007",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-02"
+   ],
+   "text": "The quaternary structure of a protein is the arrangement of two or more polypeptide chains into one functional protein. A protein made of a single polypeptide has no quaternary structure, and some proteins with quaternary structure also carry a non-protein part such as the haem group.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11; standard biology from our own knowledge)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.4.2-008",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-03"
+   ],
+   "text": "Hydrogen bonds form between a slightly positive hydrogen atom and a slightly negative oxygen or nitrogen atom. In a protein they hold the backbone in an alpha helix or beta sheet and they form between polar R groups in the tertiary structure. Each hydrogen bond is weak, but a protein has very many of them, and together they stabilise its shape.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11; standard biology from our own knowledge).",
+    "Condition carried: individually weak, collectively strong."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.4.2-009",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-03"
+   ],
+   "text": "An ionic bond forms in the tertiary structure between an R group with a positive charge (such as the –NH3+ of lysine) and an R group with a negative charge (such as the –COO– of aspartic acid). A large change in the charge on the R groups weakens it.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11; standard biology from our own knowledge).",
+    "Written without naming the cause of the charge change, to stay clear of the enzyme topics."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.4.2-010",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-03"
+   ],
+   "text": "A disulfide bond is a covalent bond between the sulfur atoms of the R groups of two cysteine residues. It is much stronger than a hydrogen bond, and it can join two parts of one polypeptide or two separate polypeptides.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2025-P1-Q30",
+     "locator": "examiner report finding recorded in the misconception register, entry MC-8223-2.4.2-05",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11), with the report finding as corroboration of the common error only, not of the biology."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.4.2-011",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-03"
+   ],
+   "text": "Hydrophobic interactions occur in a protein that works in water, where the non-polar R groups cluster together in the interior of the folded molecule, away from the water, while the polar and charged R groups lie on the outside. These interactions help to hold the tertiary structure in shape.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11; standard biology from our own knowledge).",
+    "The syllabus lists hydrophobic interactions among the types of bonding. In biology they are not bonds: no electrons are shared and no opposite charges attract. The notes call them interactions and say so; this is a deliberate difference from the syllabus wording."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.4.2-012",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-04"
+   ],
+   "text": "Haemoglobin is a globular protein: a compact, roughly spherical molecule of four polypeptide chains (two alpha-globin and two beta-globin) held together as its quaternary structure. Non-polar R groups point into the interior and polar R groups lie on the outside, which makes the molecule soluble in the cytoplasm of a red blood cell. Each chain holds one haem group, so one molecule has four.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2022-P2-Q1b",
+     "locator": "examiner report finding recorded in the misconception register, entry MC-8223-2.4.2-02",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11), with the report finding as corroboration of the common error only, not of the biology.",
+    "Condition: the soluble outer surface explains solubility in water-based cytoplasm."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.4.2-013",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-04"
+   ],
+   "text": "A collagen molecule is a fibrous protein made of three polypeptide chains wound around each other as a triple helix. Glycine, the amino acid with the smallest R group (a single hydrogen atom), occurs at about every third position, which lets the three chains pack closely, and hydrogen bonds hold the chains together.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11; standard biology from our own knowledge).",
+    "The one-in-three position of glycine is the usual textbook statement; single source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.4.2-014",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-04"
+   ],
+   "text": "Collagen fibres are built from many collagen molecules lying side by side, staggered end to end, and joined by covalent cross-links between neighbouring molecules. The cross-links stop the molecules sliding past one another, so a fibre has high tensile strength and resists being pulled. A collagen molecule and a collagen fibre are not the same thing: the fibre is an assembly of many molecules.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11; standard biology from our own knowledge).",
+    "The distinction between molecule and fibre is required by the syllabus note."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.4.2-015",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-04"
+   ],
+   "text": "Structure relates to function in the two proteins. Haemoglobin is compact, soluble and carries haem groups, which suits it to carrying oxygen inside red blood cells; collagen is long, insoluble and strong, which suits it to a structural role in tendons, skin and the walls of arteries.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11; standard biology from our own knowledge)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.4.2-016",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-05"
+   ],
+   "text": "Each haem group of haemoglobin contains one iron(II) ion, Fe2+, which binds one oxygen molecule reversibly. This is why one haemoglobin molecule can carry up to four oxygen molecules, picking them up where oxygen is plentiful and releasing them where it is scarce.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2022-P2-Q1b",
+     "locator": "examiner report finding recorded in the misconception register, entry MC-8223-2.4.2-02",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11), with the report finding as corroboration of the common error only, not of the biology.",
+    "Fe2+ is an ion of iron; wording \"an ion\" alone is incomplete."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.4.2-017",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-05"
+   ],
+   "text": "Iron is needed to make haem. A diet that supplies too little iron can lead to less haemoglobin being made, so less oxygen is carried in the blood and a person may tire easily.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11; standard biology from our own knowledge).",
+    "Stated as a tendency (can lead to)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.4.2-018",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-06"
+   ],
+   "text": "To carry out the biuret test, a sample in solution (a solid is first ground with water) is placed in a test tube, an equal volume of sodium hydroxide solution is added, and a few drops of dilute copper(II) sulfate solution are added and mixed. No heating is needed. A violet or purple colour means protein is present; if the mixture stays blue, protein is not detected.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2021-P3-Q1f",
+     "locator": "examiner report finding recorded in the misconception register, entry MC-8223-2.4.2-07",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11), with the report finding as corroboration of the common error only, not of the biology."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.4.2-019",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-06"
+   ],
+   "text": "In the alkaline mixture, copper(II) ions bind to the nitrogen atoms of peptide bonds and form a violet complex. A single amino acid has no peptide bond and gives no violet colour, and short peptides of two amino acids give little or none, so a positive result needs a chain with at least two peptide bonds. A deeper colour tends to mean more protein when samples are prepared in the same way.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11; standard biology from our own knowledge).",
+    "verification_state: single_source. The tripeptide minimum is the usual textbook statement. The syllabus line is simply \"carry out biuret test\"."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.4.2-020",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-07"
+   ],
+   "text": "A water molecule is polar because oxygen attracts the shared electrons of the two covalent O–H bonds more strongly than hydrogen does. The oxygen end carries a slight negative charge (δ−) and each hydrogen a slight positive charge (δ+), and because the molecule is bent the charges do not cancel.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11; standard biology from our own knowledge)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.4.2-021",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-07"
+   ],
+   "text": "A hydrogen bond forms between the slightly positive hydrogen of one water molecule and the slightly negative oxygen of a different water molecule. It is an attraction between molecules and is weak, whereas the covalent O–H bonds inside a molecule are strong. A water molecule can form up to four hydrogen bonds, and in liquid water they break and re-form constantly.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2021-P2-Q2b-iii",
+     "locator": "examiner report finding recorded in the misconception register, entry MC-8223-2.4.2-01",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11), with the report finding as corroboration of the common error only, not of the biology."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.4.2-022",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-07"
+   ],
+   "text": "Cohesion is the attraction between water molecules, caused by hydrogen bonds. Adhesion is the attraction between water molecules and other surfaces, such as cell walls. They are not the same: cohesion is water to water and adhesion is water to something else.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2024-P1-Q19",
+     "locator": "examiner report finding recorded in the misconception register, entry MC-8223-2.4.2-06",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11), with the report finding as corroboration of the common error only, not of the biology.",
+    "The two terms are taught here without further roles, because the syllabus limits the roles of water in 2.4.2 to three."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.4.2-023",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-08"
+   ],
+   "text": "Water is a solvent for ions and polar molecules because its polar molecules are attracted to charged and polar regions: they surround each ion or polar molecule and separate it from the others. Reactions in cells and the transport of dissolved substances in blood plasma depend on this. Non-polar substances such as lipids dissolve poorly in water.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11; standard biology from our own knowledge)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.4.2-024",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-08"
+   ],
+   "text": "Water has a high specific heat capacity: about 4.2 joules are needed to raise the temperature of 1 gram of water by 1 degree Celsius. Much of the energy absorbed goes into loosening hydrogen bonds before the molecules move faster, so the temperature of water, and of the cytoplasm and blood that are mostly water, changes slowly.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11; standard biology from our own knowledge).",
+    "Value rounded to 4.2 J per gram per degree Celsius."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.4.2-025",
+   "objective_ids": [
+    "OBJ-8223-2.4.2-08"
+   ],
+   "text": "Water has a large latent heat of vaporisation: about 2.4 kilojoules of energy are absorbed when 1 gram of water evaporates from a warm surface, because hydrogen bonds must be broken. The energy is taken from the surface, which cools it, as sweat evaporating from skin cools a mammal or water evaporating from a leaf cools the leaf.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 11, topic 2.4.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.4.2 from the syllabus line and our own statement of standard biology. Single source, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus 8223 printed page 11; standard biology from our own knowledge).",
+    "Approximate value at body temperature. Cooling needs evaporation, which depends on the air being able to take up more water vapour."
+   ]
+  }
+ ]
+}

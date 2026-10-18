@@ -1,0 +1,289 @@
+{
+ "unit_id": "CU-8223-5.3",
+ "title": "Size, magnification and biodiversity calculations",
+ "objective_ids": [
+  "OBJ-8223-5.3-01",
+  "OBJ-8223-5.3-02",
+  "OBJ-8223-5.3-03",
+  "OBJ-8223-5.3-04",
+  "OBJ-8223-5.3-05"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_quantitative",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 1430,
+  "target": 1740,
+  "max": 2050
+ },
+ "blocks": [
+  {
+   "block_id": "5.3-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "The calculations that sit under the microscope and biodiversity work: units of length, area and volume and how they scale; magnification and actual size; areas, circumferences, surface areas and volumes of simple shapes; whole-number indices; and Simpson's Index of Diversity. Specimen sizes are worked in micrometres (µm) throughout, and the data sets in this section are our own.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "e33869e7ad4c644f73f8acc318e06643175dc543c0b12e6abd61ff5a76816b89"
+  },
+  {
+   "block_id": "5.3-b2",
+   "block_type": "definition",
+   "heading": "Length, area, volume and their units",
+   "text": "Length is measured in metres (m), centimetres (cm), millimetres (mm) and micrometres (µm). Area is the amount of surface and is written in square units such as mm² and cm². Volume is the space an object takes up and is written in cubic units such as mm³ and cm³.\n\nThe factor that converts an area is the square of the factor for length, and the factor for a volume is the cube. Because 1 cm = 10 mm, 1 cm² = 10 × 10 = 100 mm² and 1 cm³ = 10 × 10 × 10 = 1000 mm³. Because 1 mm = 1000 µm, 1 mm² = 1000 × 1000 = 1 000 000 µm² and 1 mm³ = 1000 × 1000 × 1000 = 1 000 000 000 µm³. Going to a smaller unit multiplies and going to a larger unit divides. A leaf of area 4.5 cm² is 4.5 × 100 = 450 mm². The usual slip is to use the length factor, 10, on an area or a volume.",
+   "claim_ids": [
+    "CLM-8223-5.3-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.3-001": 1
+   },
+   "authored_hash": "ae61c4ebbcabff8e4fb8e7213bf4c83a7a45b577457245ee1537da238b8c5d1b"
+  },
+  {
+   "block_id": "5.3-b3",
+   "block_type": "plain_explanation",
+   "heading": "How size changes surface area and volume",
+   "text": "Take a cube-shaped model cell. Its surface area is 6 × side × side, because it has six square faces, and its volume is side × side × side. The table gives our values for three sizes.\n\n| Side / µm | Surface area / µm² | Volume / µm³ | Surface area ÷ volume / per µm |\n|---|---|---|---|\n| 10 | 600 | 1000 | 0.6 |\n| 20 | 2400 | 8000 | 0.3 |\n| 40 | 9600 | 64 000 | 0.15 |\n\n(Values in the table are ours.) Doubling the side from 10 µm to 20 µm multiplied the area by 4, which is 2 × 2, and the volume by 8, which is 2 × 2 × 2, so the ratio halved. In general, if every length of a shape is multiplied by k and the shape is kept, the area is multiplied by k² and the volume by k³. For a cube the ratio is 6 ÷ side, so it falls as the cube grows.\n\nThis matters because substances enter and leave a cell across its surface but are used throughout its volume. When two cells have the same shape, the larger one has less surface for each unit of volume, so exchange across the surface supplies its centre less readily.",
+   "claim_ids": [
+    "CLM-8223-5.3-002",
+    "CLM-8223-5.3-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.3-002": 1,
+    "CLM-8223-5.3-003": 1
+   },
+   "authored_hash": "2ec67b72867b21e8f6936bf063f71bf120b5144fd189b7882d757a803726ff7e"
+  },
+  {
+   "block_id": "5.3-b4",
+   "block_type": "formula",
+   "heading": "Magnification and actual size",
+   "text": "magnification = image size ÷ actual size\n\nRearranged, actual size = image size ÷ magnification and image size = actual size × magnification. Magnification is a ratio, so it has no unit and is written ×600. It means how many times larger the image is than the real object. It is not resolution, the smallest distance at which two points still look separate. Total magnification on a light microscope is eyepiece × objective, so ×10 and ×40 give ×400 (see 2.1).\n\nThe image and the actual size must be in the same unit before dividing. A ruler measures the image in millimetres, but a cell is best written in micrometres, so change millimetres to micrometres by multiplying by 1000 first. Give the final answer with its unit.",
+   "claim_ids": [
+    "CLM-8223-5.3-004",
+    "CLM-8223-5.3-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.3-004": 1,
+    "CLM-8223-5.3-005": 1
+   },
+   "authored_hash": "ab7c43b38aef1881a1dd26212750fabbc14e52121b26ad73d247a0de1ec3dbce"
+  },
+  {
+   "block_id": "5.3-b5",
+   "block_type": "worked_calculation",
+   "heading": "Worked examples: actual size and scale bars",
+   "text": "Example 1. A photomicrograph of a human cheek cell is ×600 and the cell measures 36 mm across the image. Convert first: 36 × 1000 = 36 000 µm. Then actual size = image size ÷ magnification = 36 000 ÷ 600 = 60 µm.\n\nExample 2. An electron micrograph carries a scale bar that measures 24 mm and is labelled 5 µm. Convert the bar: 24 × 1000 = 24 000 µm. Magnification = measured bar ÷ labelled bar = 24 000 ÷ 5 = 4800, so the magnification is ×4800. A mitochondrion on the same micrograph measures 12 mm, which is 12 × 1000 = 12 000 µm, so its actual length is 12 000 ÷ 4800 = 2.5 µm.",
+   "claim_ids": [
+    "CLM-8223-5.3-005",
+    "CLM-8223-5.3-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.3-005": 1,
+    "CLM-8223-5.3-006": 1
+   },
+   "authored_hash": "2d453497ecdec93eb0e8aa8b44d04d060e6a412c0380dc63d9c31d94abb60ab9"
+  },
+  {
+   "block_id": "5.3-b6",
+   "block_type": "misconception",
+   "heading": "Mistakes with magnification",
+   "text": "The first error is to divide millimetres by micrometres without converting; 36 ÷ 600 = 0.06 looks like an answer, but it is in millimetres, not micrometres. The second is to multiply instead of divide when finding an actual size. The third is to treat a larger magnification as a clearer picture, when the detail seen depends on resolution. An actual size must be smaller than the image when the magnification is above 1.",
+   "claim_ids": [
+    "CLM-8223-5.3-004",
+    "CLM-8223-5.3-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.3-004": 1,
+    "CLM-8223-5.3-005": 1
+   },
+   "authored_hash": "d2998264b6a35ba7c18b7620e57063970460c16749b3a40e268305d3b7713898"
+  },
+  {
+   "block_id": "5.3-b7",
+   "block_type": "formula",
+   "heading": "Areas, circumferences, surface areas and volumes",
+   "text": "For a rectangle, area = length × width. For a triangle, area = ½ × base × perpendicular height, where the height is measured at a right angle to the base. For a circle with radius r and diameter d, circumference = 2πr = πd and area = πr². The radius is half the diameter.\n\nFor a rectangular block, volume = length × width × height, and the surface area adds the six faces, which come in three pairs: surface area = 2 × (length × width + length × height + width × height). For a closed cylinder, volume = πr²h, where h is the height, and surface area = 2πr² + 2πrh: two circular ends and a curved side that unrolls into a rectangle of length 2πr and width h. Where a question states the value of π, such as 3.14, use that value. Areas take square units and volumes take cubic units.",
+   "claim_ids": [
+    "CLM-8223-5.3-007",
+    "CLM-8223-5.3-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.3-007": 1,
+    "CLM-8223-5.3-008": 1
+   },
+   "authored_hash": "0bc01f4fc26a781feab111bb8c07a8cea1ee11c25dc8356f25f3de4a22dc4b4b"
+  },
+  {
+   "block_id": "5.3-b8",
+   "block_type": "worked_calculation",
+   "heading": "Worked examples: shapes in biology",
+   "text": "Example 1. A leaf disc has a diameter of 10 mm and π is 3.14. The radius is 10 ÷ 2 = 5 mm. Area = πr² = 3.14 × 5 × 5 = 78.5 mm². Circumference = πd = 3.14 × 10 = 31.4 mm.\n\nExample 2. A rod-shaped bacterium is modelled as a closed cylinder of radius 0.5 µm and height 4 µm, with π as 3.14. Volume = πr²h = 3.14 × 0.5 × 0.5 × 4 = 3.14 µm³. The two ends have area 2 × 3.14 × 0.5 × 0.5 = 1.57 µm² and the curved side has area 2 × 3.14 × 0.5 × 4 = 12.56 µm², so the surface area is 1.57 + 12.56 = 14.13 µm². The surface area to volume ratio is 14.13 ÷ 3.14 = 4.5 per µm.\n\nPutting the diameter into πr² as if it were the radius makes an area 4 times too large.",
+   "claim_ids": [
+    "CLM-8223-5.3-008",
+    "CLM-8223-5.3-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.3-008": 1,
+    "CLM-8223-5.3-009": 1
+   },
+   "authored_hash": "00f135e1f91c34819523f26d795d6dbd7b9f47172bcef8b4d68ade6f4c57a6d8"
+  },
+  {
+   "block_id": "5.3-b9",
+   "block_type": "definition",
+   "heading": "Positive whole-number indices",
+   "text": "An index, or power, is the small raised number in aⁿ. It shows how many times the base a is multiplied by itself, so 4³ = 4 × 4 × 4 = 64 and 10³ = 10 × 10 × 10 = 1000. Here n is a positive whole number. The index is different from a multiplier: 2³ is 2 × 2 × 2 = 8, whereas 2 × 3 is 6.\n\nThree rules follow for a base with positive whole-number indices. To multiply, add the indices: aᵐ × aⁿ = aᵐ⁺ⁿ, so 10³ × 10² = 10⁵ = 100 000. To divide, subtract them when m is greater than n: aᵐ ÷ aⁿ = aᵐ⁻ⁿ, so 10⁵ ÷ 10² = 10³. To raise a power to a power, multiply the indices: (aᵐ)ⁿ = aᵐ×ⁿ, so (2³)² = 2⁶ = 64. The index belongs to the base written next to it. In 2 × 3² the 3 is squared first, giving 2 × 9 = 18, not 36.",
+   "claim_ids": [
+    "CLM-8223-5.3-010",
+    "CLM-8223-5.3-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.3-010": 1,
+    "CLM-8223-5.3-011": 1
+   },
+   "authored_hash": "0b061fc3bed586d19cbe020cfadeeb1ebf158f2288e100d87f6357c26cd7e483"
+  },
+  {
+   "block_id": "5.3-b10",
+   "block_type": "worked_application",
+   "heading": "Indices in biology",
+   "text": "Square and cubic units are indices: cm² is a length unit squared and cm³ a length unit cubed. Powers of ten write large counts compactly, so a sample of 10³ cells in each of 10² drops holds 10³ × 10² = 10⁵ = 100 000 cells.\n\nDoubling is a common use. If one bacterial cell divides every 30 minutes, every cell survives and each divides on schedule, there are 6 divisions in 3 hours, because 3 × 60 ÷ 30 = 6. Each division doubles the number, so the count is 2⁶ = 2 × 2 × 2 × 2 × 2 × 2 = 64 cells. The index counts divisions; it is not a multiplier, so 2 × 6 = 12 would be wrong. Cells that die or divide more slowly give a smaller count.",
+   "claim_ids": [
+    "CLM-8223-5.3-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.3-012": 1
+   },
+   "authored_hash": "9a7b7877a15423591d3404499d65166d39bbf33761d4b15f69e06c2532292bc5"
+  },
+  {
+   "block_id": "5.3-b11",
+   "block_type": "formula",
+   "heading": "Simpson's Index of Diversity",
+   "text": "Simpson's Index of Diversity, D, measures the biodiversity of a habitat from a sample, using the number of species and the number of individuals of each. The formula is D = 1 − Σ(n/N)², where n is the number of individuals of one species, N is the total number of individuals of all species in the sample and Σ means the sum over all the species. D is a ratio, so it has no unit. The syllabus annexe prints the square outside the bracket; read literally, that would make the sum of the fractions, which is 1 for any sample, the thing squared, and D would be 0 for any habitat. The working form squares each fraction before adding.\n\nThe steps are: add the counts to find N; divide each count by N; square each result; add the squares; subtract the total from 1.",
+   "claim_ids": [
+    "CLM-8223-5.3-013",
+    "CLM-8223-5.3-014"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.3-013": 1,
+    "CLM-8223-5.3-014": 1
+   },
+   "authored_hash": "323086c2b7a98b6408250a47f5206ad0ea57410a475e1662a5a6038a1290100f"
+  },
+  {
+   "block_id": "5.3-b12",
+   "block_type": "worked_calculation",
+   "heading": "Worked example: two habitats",
+   "text": "Our samples of four ground-living beetle species from two plots in a mopane woodland are in the table. (Counts are ours.)\n\n| Species | Plot A count | Plot B count |\n|---|---|---|\n| 1 | 10 | 17 |\n| 2 | 5 | 1 |\n| 3 | 3 | 1 |\n| 4 | 2 | 1 |\n\nPlot A: N = 10 + 5 + 3 + 2 = 20. The fractions are 10 ÷ 20 = 0.5, 5 ÷ 20 = 0.25, 3 ÷ 20 = 0.15 and 2 ÷ 20 = 0.1. Their squares are 0.5 × 0.5 = 0.25, 0.25 × 0.25 = 0.0625, 0.15 × 0.15 = 0.0225 and 0.1 × 0.1 = 0.01. The sum is 0.25 + 0.0625 + 0.0225 + 0.01 = 0.345, so D = 1 − 0.345 = 0.655.\n\nPlot B: N = 17 + 1 + 1 + 1 = 20. The fractions are 17 ÷ 20 = 0.85 and 1 ÷ 20 = 0.05 for each of the other three. The squares are 0.85 × 0.85 = 0.7225 and 0.05 × 0.05 = 0.0025 for each of the other three. The sum is 0.7225 + 0.0025 + 0.0025 + 0.0025 = 0.73, so D = 1 − 0.73 = 0.27.",
+   "claim_ids": [
+    "CLM-8223-5.3-014"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.3-014": 1
+   },
+   "authored_hash": "85a9d430cb9ddcdded71609075131cc17decc191ceec33cca25fed095a3d92be"
+  },
+  {
+   "block_id": "5.3-b13",
+   "block_type": "interpretation",
+   "heading": "Reading the value of D",
+   "text": "D lies between 0 and 1. A value closer to 1 means higher diversity: many species, with individuals spread fairly evenly between them. A value closer to 0 means that one or a few species make up most of the individuals. A sample from a single species gives n/N = 1, so D = 1 − 1 = 0.\n\nThe two plots above have the same number of species and the same total of 20 beetles, yet D is 0.655 for plot A and 0.27 for plot B. In plot B one species supplies 17 of the 20 individuals, so plot B is less diverse. A count of species alone would not show this, which is why D is a better measure than the number of species.\n\nD describes the sample. It is a fair estimate for the habitat only when the sample is taken at random and is large enough, and two values are comparable only when the samples were taken by the same method and with the same effort.",
+   "claim_ids": [
+    "CLM-8223-5.3-015",
+    "CLM-8223-5.3-016"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.3-015": 1,
+    "CLM-8223-5.3-016": 1
+   },
+   "authored_hash": "6323f8c3e6dc379cad7004a1625ce5fe631d6ab136500246c05e9bd3e57e6655"
+  },
+  {
+   "block_id": "5.3-b14",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "Magnification, resolution and the light and electron microscope are taught in 2.1 The microscope, and measuring specimens and scale bars at the bench in 4.2 Microscopy, drawing and measuring specimens. Standard form and the prefixes from nano to giga are in 5.1 Number, units and accuracy. The effect of surface area to volume ratio on exchange is taught in 2.3.2 Movement of substances into and out of cells and 2.10.1 The gas exchange system. Biodiversity, random sampling and the Lincoln index for mark-release-recapture, n1 × n2 ÷ n3, are taught in 1.2 Biodiversity, and conservation in 1.3 Conservation.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "52d1984262a9a2e062a9ce3082d915b96d6c978a9f7606e9d0411eccbf8fb5ef"
+  }
+ ],
+ "word_count": 2017,
+ "qa_status": "review_required",
+ "notes": [
+  "Authored from the 5.3 work order. Facts are our own statements, single source, unverified."
+ ]
+}

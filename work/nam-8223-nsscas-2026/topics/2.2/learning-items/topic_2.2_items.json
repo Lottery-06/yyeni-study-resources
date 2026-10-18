@@ -1,0 +1,1438 @@
+{
+ "dataset_id": "ITEMS-8223-2.2",
+ "topic_id": "2.2",
+ "items": [
+  {
+   "item_id": "ITEM-8223-2.2-001-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-2.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State the function of the Golgi body in a cell that secretes an enzyme.",
+   "canonical_answer": "The Golgi body modifies the enzyme, for example by adding carbohydrate groups, and packages it into vesicles for secretion.",
+   "marking_guidance": [
+    "1 mark: the key function point, that the Golgi body modifies and/or packages the protein into vesicles for secretion.",
+    "Making the polypeptide is the feature of ribosomes on rough endoplasmic reticulum, not of the Golgi body, so 'makes the enzyme' earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-006": 1
+   },
+   "authored_hash": "aade8f4f9acae6edee7dcceecdf1fd00ee005171213205e7fe277cf4285d6da6"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-002-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Explain how the nucleus controls which proteins a cell makes.",
+   "canonical_answer": "The DNA in the nucleus carries the genes, which are the instructions for making proteins. A copy of one gene is made as messenger RNA, which leaves through a pore in the nuclear envelope and reaches the ribosomes, so only the proteins whose genes are copied are made.",
+   "marking_guidance": [
+    "2 marks: the DNA holds the instructions for proteins (1); how the instruction reaches the ribosomes, because a copy as mRNA leaves through the nuclear pores (1).",
+    "A statement that the nucleus is the control centre, with no account of how it controls, earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-001": 1
+   },
+   "authored_hash": "9ee152ceeb04dcd846644981868f91dc13eb87e85c0b532e6d68a1a502a2e94a"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-003-APP",
+   "objective_ids": [
+    "OBJ-8223-2.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner examines a cell from a groundnut leaf. One organelle has two membranes and contains stacks of flattened membranes in a fluid, together with 70S ribosomes and circular DNA. Identify the organelle and state one feature in this description that shows it is not a mitochondrion.",
+   "canonical_answer": "The organelle is a chloroplast. The stacks of flattened thylakoid membranes (grana) in a fluid stroma show that it is not a mitochondrion, because a mitochondrion has an inner membrane folded into cristae instead.",
+   "marking_guidance": [
+    "2 marks: the organelle identified as a chloroplast (1); the feature from the given description, stacks of flattened membranes in a fluid, linked to the reason that a mitochondrion has cristae instead (1).",
+    "The double membrane, the 70S ribosomes and the circular DNA are shared with a mitochondrion, so they do not distinguish the two and earn no mark in this situation."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-004": 1
+   },
+   "authored_hash": "f8f7371fdb1b1679cdf32b6199677ba215a01d576c6123c73bfbd9486d8dbf65"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-021-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "A learner writes that microvilli are cells that line the gut. Explain the error.",
+   "canonical_answer": "The error is a confusion of levels. Microvilli are not cells: they are tiny finger-like folds of the cell surface membrane of one cell, which increase its surface area. The structure made of many cells is the villus, a fold of the gut lining. The test is to ask whether the structure is part of a cell, a whole cell or a whole organism; microvilli are part of a cell.",
+   "marking_guidance": [
+    "2 marks: the error named, that microvilli are treated as cells (1); the correct idea, that they are folds of the cell surface membrane of a cell while the villus is a fold of the gut lining (1), or the test that separates the levels.",
+    "The card is a discrimination between organelle-level, cell-level and tissue-level structures, not a repeat of the function of microvilli."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-007": 1
+   },
+   "authored_hash": "2ec0988075acf4b25b694e047ea9d55eb5343135e05e23c07d988e8aa673ffed"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-022-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "A learner labels the short, finger-like projections on the surface of an absorptive cell as cilia. Explain the error.",
+   "canonical_answer": "The error is a confusion of microvilli with cilia. In fact the short, finger-like folds that do not beat are microvilli, which increase the surface area for absorption. Cilia are longer and beat to move fluid or mucus. The test is to ask whether the structure absorbs by providing area, or moves material along.",
+   "marking_guidance": [
+    "2 marks: the error named, microvilli called cilia (1); the correct idea or the test, that microvilli are short folds that do not move and give surface area for absorption, whereas cilia are longer and beat to move material (1).",
+    "Accept the test in either form: absorbs, or moves material along."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-007": 1
+   },
+   "authored_hash": "516becd78c509c657a724a8a71e9eaede2ca9c50d0066fc09c328280f67d527c"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-023-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-005",
+    "CLM-8223-2.2-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "A learner says that the Golgi body is a continuous network of flattened sacs with ribosomes on its outer surface. Explain the error.",
+   "canonical_answer": "The error is a confusion of the Golgi body with rough endoplasmic reticulum. In fact the network of sacs with ribosomes on its surface is the rough endoplasmic reticulum, which makes proteins. The Golgi body is a stack of flattened sacs without ribosomes that modifies proteins and pinches off vesicles. The test is to ask whether it is a continuous network or a stack giving off vesicles.",
+   "marking_guidance": [
+    "2 marks: the error named, the structures swapped or the Golgi body given the features of the RER (1); the correct idea, a stack of sacs that pinches off vesicles instead of a ribosome-studded network, or the test (1).",
+    "The confusion is between two structures with similar sacs, so a bare definition of the Golgi body earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-005": 1,
+    "CLM-8223-2.2-006": 1
+   },
+   "authored_hash": "3a76985a7c85f421838944cca2a49ae80bf70f39ff4ecb8de4b9c303b0073715"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-025-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-005",
+    "CLM-8223-2.2-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "A learner writes the route of a secreted protein as: nucleus, Golgi body, rough endoplasmic reticulum, cell surface membrane. Explain the error.",
+   "canonical_answer": "The error is that the Golgi body is placed before the protein has been made. In fact the gene in the nucleus is copied to mRNA, the ribosomes on the rough endoplasmic reticulum make the polypeptide, and then the Golgi body modifies and packages it before a vesicle takes it to the cell surface membrane. The test is to ask which structure makes the polypeptide and which one processes it afterwards.",
+   "marking_guidance": [
+    "2 marks: the error named, the Golgi body before synthesis (1); the correct order, ribosomes on RER make the protein and then the Golgi body modifies and packages it, or the test (1).",
+    "The correct sequence must be given in order; the Golgi body cannot modify a protein that has not yet been made."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-005": 1,
+    "CLM-8223-2.2-006": 1
+   },
+   "authored_hash": "021aa845e4156deeeccec57f470717b982dbd56d706b7a0360470b45f8d44e03"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-026-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-026",
+    "CLM-8223-2.2-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "A learner writes that a liver cell has 70S ribosomes in its cytoplasm. Explain the error.",
+   "canonical_answer": "The error is a confusion of the two ribosome sizes. In fact the cytoplasm of a eukaryotic cell such as a liver cell has 80S ribosomes. The 70S ribosomes belong to prokaryotes and to the mitochondria and chloroplasts of eukaryotic cells, so a liver cell has them only inside its mitochondria. The test is to ask which cell or organelle holds 70S ribosomes.",
+   "marking_guidance": [
+    "2 marks: the error named, 70S placed in the cytoplasm of a eukaryotic cell (1); the correct idea, 80S in the cytoplasm and 70S in prokaryotes, mitochondria and chloroplasts, or the test (1).",
+    "A learner who says the liver cell has no 70S ribosomes at all has missed those in the mitochondria; the guidance credits the correct location, not a blanket denial."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-026": 1,
+    "CLM-8223-2.2-004": 1
+   },
+   "authored_hash": "b0ff1f3bb63e51c8424159d7772946b03f050866613e547ae8145095d02d8a5b"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-004-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-2.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one structure that is visible in an electron micrograph of a plant cell but is not seen in an electron micrograph of an animal cell.",
+   "canonical_answer": "A cell wall (or a chloroplast, a large permanent vacuole or plasmodesmata).",
+   "marking_guidance": [
+    "1 mark: any one feature of a plant cell that an animal cell lacks: cell wall, chloroplast, large permanent vacuole or plasmodesmata.",
+    "Mitochondria, nucleus and Golgi body are structures in both cell types, so they are not a creditworthy point."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-009": 1
+   },
+   "authored_hash": "cd0aa61733d225e9018e3622de24b109bdd6b25fa9fedde9e66ccde767f1b3c2"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-005-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Explain why the electron microscope shows ribosomes in a cell but the light microscope does not.",
+   "canonical_answer": "Electrons have a much shorter wavelength than light, so the electron microscope has a higher resolution. Ribosomes are smaller than the smallest distance the light microscope can resolve, so they cannot be seen as separate structures with it, but the electron microscope can resolve them.",
+   "marking_guidance": [
+    "2 marks: how the electron microscope differs, because electrons have a shorter wavelength so it has a higher resolution (1); the reason ribosomes are not seen with light, that they are smaller than the resolution of the light microscope (1).",
+    "Resolution is not magnification: 'the electron microscope magnifies more' earns no mark on its own, because a larger image is not necessarily a clearer one."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-008": 1
+   },
+   "authored_hash": "30169866f8ea3b4d67116d0c26abde7e5d178a12bd48a6c57cf76cfe509f1c54"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-028-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "An electron micrograph of a cell shows two structures side by side. One is a network of flattened sacs with dark dots on its outer surface. The other is a stack of five flattened, curved sacs with small round vesicles budding from one edge. Describe how each structure can be identified from the micrograph.",
+   "canonical_answer": "The network of flattened sacs with dark dots on the surface is rough endoplasmic reticulum, because the dots are ribosomes. The stack of curved sacs with vesicles budding off one edge is a Golgi body. Together the micrograph shows a cell that makes proteins on the rough ER and then processes and packages them in the Golgi body.",
+   "marking_guidance": [
+    "2 marks: the network with dark dots read as rough ER, because the dots are ribosomes (1); the stack of curved sacs with vesicles read as the Golgi body (1).",
+    "Each reading must use the feature seen in the micrograph; naming the organelles without the feature that shows each earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-010": 1
+   },
+   "authored_hash": "e8aa0ef951e3a9d4858b5affc399098e8305fb8fa01f50e9f75f129d225c77f2"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-006-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-2.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one feature of a low power plan diagram that separates it from a drawing of cells seen under high power.",
+   "canonical_answer": "A plan diagram shows only the outlines of the tissues and does not draw individual cells.",
+   "marking_guidance": [
+    "1 mark: one feature of a plan diagram: outlines of tissues only, no individual cells (or tissues drawn in proportion).",
+    "A point such as 'drawn in pencil' is true of both kinds of drawing and does not separate them."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-011": 1
+   },
+   "authored_hash": "9d965c83cae341e75dc7d747133fd9766397be1dc198bc3de32904f6441d108d"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-007-APP",
+   "objective_ids": [
+    "OBJ-8223-2.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A learner examines a transverse section of a stem. Inside a layer of epidermis, vascular bundles form a ring around a central region of large, thin-walled cells. Identify the central tissue and identify one feature in this description that shows the section is of a stem and not of a root.",
+   "canonical_answer": "The central tissue is the pith. The vascular bundles lie in a ring, because in a typical dicotyledonous root the vascular tissue forms a single mass in the centre, with the xylem in a star shape.",
+   "marking_guidance": [
+    "2 marks: pith identified (1); the ring of vascular bundles given as the feature, because in a root the vascular tissue is central (1).",
+    "The answer must use the information given in the description; 'the section is a stem' alone earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-012": 1
+   },
+   "authored_hash": "3d57bc372a4fd79a963402644b5bbe587ce62de49450abab3e5225e47124433d"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-029-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-011",
+    "CLM-8223-2.2-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner views a transverse section of a leaf and measures four layers with an eyepiece graticule, then draws a plan diagram at 3 mm of drawing for each graticule unit. The table shows our values.\n\n| Layer | Thickness in the section (graticule units) | Thickness in the learner's drawing (mm) |\n|---|---|---|\n| Upper epidermis | 2 | 6 |\n| Palisade mesophyll | 8 | 12 |\n| Spongy mesophyll | 10 | 30 |\n| Lower epidermis | 2 | 6 |\n\nDescribe what the values show about the learner's plan diagram.",
+   "canonical_answer": "The upper epidermis (2 × 3 = 6 mm), the spongy mesophyll (10 × 3 = 30 mm) and the lower epidermis (2 × 3 = 6 mm) are drawn in proportion. The palisade mesophyll should be 8 × 3 = 24 mm but is drawn at 12 mm, half its correct thickness, so the diagram is not in proportion.",
+   "marking_guidance": [
+    "2 marks: the three layers that match the scale of 3 mm per unit, with the working (1); the palisade layer drawn at 12 mm instead of 8 × 3 = 24 mm, so the diagram is not in proportion (1).",
+    "The table gives the values, so the answer uses them: a general statement that tissues must be in proportion, with no reading from the table, earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-011": 1,
+    "CLM-8223-2.2-013": 1
+   },
+   "authored_hash": "13d339876a663ce23fdd156ef34bac2b6e1bc35a7f7cb4c4ae153fb2bbb858bb"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-008-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.2-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-014"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by a palisade mesophyll cell.",
+   "canonical_answer": "A palisade mesophyll cell is a long, column-shaped cell in the photosynthetic tissue of a leaf, packed with chloroplasts.",
+   "marking_guidance": [
+    "1 mark: the key words, a cell of the leaf that is column-shaped and packed with chloroplasts (carries out photosynthesis).",
+    "The meaning is a cell type and its job; a list of organelles found in all eukaryotic cells does not define it."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-014": 1
+   },
+   "authored_hash": "49203a4d4896640fef0876f38e71867b53259528356056d4d4088f1553b84791"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-009-DIST",
+   "objective_ids": [
+    "OBJ-8223-2.2-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-014",
+    "CLM-8223-2.2-015"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one structural difference between a palisade cell and a liver cell, naming both cells.",
+   "canonical_answer": "A palisade cell has a cellulose cell wall, whereas a liver cell has no cell wall. (Other accepted differences: chloroplasts in the palisade cell but none in the liver cell; a large permanent vacuole in the palisade cell but none in the liver cell; glycogen granules in the liver cell but none in the palisade cell.)",
+   "marking_guidance": [
+    "1 mark: one difference stated for both cells, using whereas or an equivalent comparison.",
+    "A point about only one cell, such as 'the palisade cell has chloroplasts', is half a comparison and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-014": 1,
+    "CLM-8223-2.2-015": 1
+   },
+   "authored_hash": "9a22f21ad30fbd95ac664e1b2c9fbdda5a1119f6b3d7496b49ad90d0acab273c"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-030-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.2-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-014",
+    "CLM-8223-2.2-015"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "The table gives our observations of two cells seen in electron micrographs, P and Q.\n\n| Structure | Cell P | Cell Q |\n|---|---|---|\n| Cell wall | present | absent |\n| Chloroplasts | many | none |\n| Large permanent vacuole | present | absent |\n| Glycogen granules | none | many |\n| Mitochondria | some | many |\n\nDescribe what the table shows about which cell is the palisade cell and which is the liver cell.",
+   "canonical_answer": "Cell P is the palisade cell, because it has a cell wall, many chloroplasts and a large permanent vacuole and has no glycogen granules. Cell Q is the liver cell, because it has no cell wall, chloroplasts or large vacuole, and it has many glycogen granules and many mitochondria.",
+   "marking_guidance": [
+    "2 marks: cell P identified as the palisade cell with the table values that show it, wall, chloroplasts, vacuole (1); cell Q identified as the liver cell with the values that show it, no wall or chloroplasts, glycogen, many mitochondria (1).",
+    "Each identification must be tied to values in the table, which shows the evidence; naming the cells without a value earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-014": 1,
+    "CLM-8223-2.2-015": 1
+   },
+   "authored_hash": "fbbadbce4aec4ef6d9375624a39b27f4d27de0a486f2fbce57843d15edbb3243"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-010-PROC",
+   "objective_ids": [
+    "OBJ-8223-2.2-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-016",
+    "CLM-8223-2.2-017"
+   ],
+   "item_type": "flashcard",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "prompt": "Describe, in order, how to make a temporary wet mount of onion epidermis for the light microscope.",
+   "canonical_answer": "First place a drop of water on a clean slide. Then peel a thin layer of epidermis from an onion scale with forceps, lay it flat in the drop and add a drop of iodine solution as a stain. Finally lower a coverslip onto it at an angle, using a mounted needle, and blot the excess liquid. The result is a thin, flat, stained specimen with no air bubbles that light can pass through.",
+   "marking_guidance": [
+    "3 marks, in order: a drop of water on the slide and a thin piece of epidermis laid flat (1); a stain added (1); the coverslip lowered at an angle with a needle, so that air bubbles are not trapped (1).",
+    "The sequence is the point: a coverslip placed before the stain or the specimen is out of order and earns no mark for that step. The end result is a thin, stained specimen; the tariff is 3."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-016": 1,
+    "CLM-8223-2.2-017": 1
+   },
+   "authored_hash": "beac0fa7e3a5eada2ef71af5c24e2949430fe280357a7286297ba1978f09940b"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-011-WHY",
+   "objective_ids": [
+    "OBJ-8223-2.2-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-017"
+   ],
+   "item_type": "flashcard",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State why a coverslip is lowered onto a wet mount at an angle and not dropped flat.",
+   "canonical_answer": "So that air bubbles are not trapped under the coverslip, because bubbles would hide the cells.",
+   "marking_guidance": [
+    "1 mark: the reason, to avoid trapping air bubbles (which hide or distort the specimen).",
+    "'To protect the lens' is a purpose of the coverslip itself and not the reason for the angle."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-017": 1
+   },
+   "authored_hash": "cb4a84954011db36509c2cf4a70346a2601448bfa1a26568b563b0cafa27254c"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-031-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.2-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-016",
+    "CLM-8223-2.2-017"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner makes a wet mount of cheek cells. The table gives our record of what the learner sees.\n\n| Observation | Record |\n|---|---|\n| Round, clear rings in the field | present |\n| Cells overlapping in thick clumps | present |\n| Nuclei visible | no |\n| Stain added | no |\n\nDescribe what the table shows about how the slide was made.",
+   "canonical_answer": "The round clear rings show that air bubbles were trapped, so the coverslip was not lowered at an angle. The overlapping clumps show that the specimen was thick instead of a single layer. The nuclei cannot be seen because no stain was added, so there was no contrast.",
+   "marking_guidance": [
+    "2 marks from three points, each read from the table: rings mean air bubbles, so the coverslip was lowered badly; clumps mean the specimen was too thick; no stain so nuclei are not seen.",
+    "The table shows the evidence, so each point is tied to a record; a list of correct steps with no link to the table earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-016": 1,
+    "CLM-8223-2.2-017": 1
+   },
+   "authored_hash": "24e0026fd78a7648eb4132334690efaf0b00249450e4d5a122b47bf90f1e1bee"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-012-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-2.2-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-019"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one structure that can be seen in a stained onion epidermal cell with a light microscope.",
+   "canonical_answer": "The cell wall (or the nucleus, the cytoplasm or a large vacuole).",
+   "marking_guidance": [
+    "1 mark: any one structure: cell wall, nucleus, cytoplasm or large vacuole.",
+    "Ribosomes and the cristae of mitochondria are not creditworthy because they are smaller than the resolution of the light microscope."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-019": 1
+   },
+   "authored_hash": "50115e92de5e46584ae082d46317899727d4282355f10dfd29800b319f38020a"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-013-APP",
+   "objective_ids": [
+    "OBJ-8223-2.2-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-019"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A learner looks at a stained onion epidermis with a light microscope and says that she can see the ribosomes in the cytoplasm. Explain why this cannot be correct.",
+   "canonical_answer": "Ribosomes are smaller than the smallest distance that the light microscope can resolve, so they cannot be seen with it, however far the image is magnified. They are seen only with an electron microscope, which has a higher resolution.",
+   "marking_guidance": [
+    "2 marks: ribosomes are smaller than the resolution of the light microscope, because two points that close cannot be seen separately (1); an electron microscope has the higher resolution that is needed (1).",
+    "The answer applies to this situation: more magnification does not help, because resolution and magnification are different."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-019": 1
+   },
+   "authored_hash": "08da9b229da7887f079b1df367bc4a9ce8f441620161c1a56934a9f53fedc8cf"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-032-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.2-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-020"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner draws an onion cell and writes the magnification ×30 beside it. The table gives our measurements.\n\n| Measurement | Value |\n|---|---|\n| Length of the cell in the drawing | 54 mm |\n| Actual length of the cell | 0.18 mm |\n| Magnification written by the learner | ×30 |\n\nDescribe what the values show about the learner's magnification.",
+   "canonical_answer": "Magnification is image size ÷ actual size, so 54 mm ÷ 0.18 mm = 300 and the magnification is ×300. The written value of ×30 is ten times too small.",
+   "marking_guidance": [
+    "2 marks: the equation with the substitution and the answer, 54 ÷ 0.18 = 300 (1); the reading that ×30 is ten times too small (1).",
+    "The working must use the values in the table; the magnification has no unit, so it is written as ×300."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-020": 1
+   },
+   "authored_hash": "2f96d7dbfaf679684fe2fd194f2c6dcf2b07a489a6144241320a84098312adec"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-014-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.2-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-021",
+    "CLM-8223-2.2-022"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State what is meant by a prokaryotic cell.",
+   "canonical_answer": "A prokaryotic cell is a cell with no nucleus and no membrane-bound organelles; its DNA is circular and lies free in the cytoplasm.",
+   "marking_guidance": [
+    "1 mark: the key words, no nucleus and no membrane-bound organelles.",
+    "The meaning rests on the absence of both; 'a bacterium' names an example and does not state what the term means."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-021": 1,
+    "CLM-8223-2.2-022": 1
+   },
+   "authored_hash": "fca04302c23e006e1bcb5922a66ab9206da243f5209b5aa2948475bebaca2e3b"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-015-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-2.2-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-021",
+    "CLM-8223-2.2-022"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Describe the structure of the DNA in a typical bacterium.",
+   "canonical_answer": "The DNA is a single circular loop. It is naked, which means it is not wound around histone proteins. It lies free in the cytoplasm, in a region called the nucleoid, because there is no nucleus.",
+   "marking_guidance": [
+    "2 marks from three points: circular; naked, not associated with histones; free in the cytoplasm and not enclosed in a nucleus.",
+    "Each point is a feature of the structure of the DNA; 'it codes for proteins' is true of all DNA and is not a feature of a bacterium."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-021": 1,
+    "CLM-8223-2.2-022": 1
+   },
+   "authored_hash": "da4a7f5af8b25e7921c44fbe35d4f1d3230706551e789f2b9fd26a903dc76884"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-016-APP",
+   "objective_ids": [
+    "OBJ-8223-2.2-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-021",
+    "CLM-8223-2.2-022",
+    "CLM-8223-2.2-023"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A microbiologist in Windhoek examines a cell with a diameter of 2 μm. It has a cell wall containing peptidoglycan, circular DNA lying free in the cytoplasm and 70S ribosomes. Explain why this cell is a bacterium.",
+   "canonical_answer": "The circular DNA lying free in the cytoplasm, with no nucleus, and the 70S ribosomes are features of a prokaryotic cell. A peptidoglycan wall and a diameter of 2 μm, within the usual 1 to 5 μm, are typical of a bacterium, so the cell is a bacterium.",
+   "marking_guidance": [
+    "2 marks: two features from the information given, each linked to a prokaryotic cell because it has no nucleus: circular free DNA, 70S ribosomes, peptidoglycan wall, diameter of 2 μm.",
+    "The reason must use the description; stating 'it is a bacterium because it is small' with no feature earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-021": 1,
+    "CLM-8223-2.2-022": 1,
+    "CLM-8223-2.2-023": 1
+   },
+   "authored_hash": "fe1fc5f720e04c7d1fa4ea5a8b7b57848083d64853cf2005831f59552860055d"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-027-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.2-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-021",
+    "CLM-8223-2.2-022",
+    "CLM-8223-2.2-023"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "The table gives our observations of three cells, A, B and C.\n\n| Feature | Cell A | Cell B | Cell C |\n|---|---|---|---|\n| Diameter (μm) | 3 | 40 | 25 |\n| Nucleus | absent | present | present |\n| Cell wall | peptidoglycan | cellulose | absent |\n| Ribosomes in cytoplasm | 70S | 80S | 80S |\n| Mitochondria | absent | present | present |\n\nDescribe what the table shows about which cell is prokaryotic.",
+   "canonical_answer": "Cell A is the prokaryotic cell. The table shows that it has no nucleus and no mitochondria, which are membrane-bound features, and that its ribosomes are 70S. It also has a peptidoglycan wall and a diameter of 3 μm, within the usual 1 to 5 μm, whereas cells B and C have a nucleus, mitochondria and 80S ribosomes.",
+   "marking_guidance": [
+    "2 marks: cell A identified, with the values that show it, no nucleus and no mitochondria (1); a second value that shows it, 70S ribosomes, peptidoglycan wall or a diameter of 3 μm (1).",
+    "The answer reads the table, which gives the values; naming cell A with no value earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-021": 1,
+    "CLM-8223-2.2-022": 1,
+    "CLM-8223-2.2-023": 1
+   },
+   "authored_hash": "d50814dd911446f63087147f24273054b91789b0d3cc847e4514600bdc21cbb0"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-017-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.2-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-025",
+    "CLM-8223-2.2-024"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by a eukaryotic cell.",
+   "canonical_answer": "A eukaryotic cell is a cell with a nucleus enclosed by a nuclear envelope and with membrane-bound organelles.",
+   "marking_guidance": [
+    "1 mark: the key words, a nucleus and membrane-bound organelles.",
+    "The meaning needs both; 'animal cell' or 'plant cell' names examples and not what the term means."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-025": 1,
+    "CLM-8223-2.2-024": 1
+   },
+   "authored_hash": "97d76eb3b91c9aef063ba0cf279a0a0dbed9854d7161f679dbf5a83afeb32fdd"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-018-DIST",
+   "objective_ids": [
+    "OBJ-8223-2.2-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-024"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one difference between the DNA of a prokaryotic cell and the DNA of a eukaryotic cell, naming both.",
+   "canonical_answer": "Prokaryotic DNA is circular and naked, whereas eukaryotic DNA is linear and associated with histone proteins inside a nucleus.",
+   "marking_guidance": [
+    "1 mark: one difference with both sides stated: circular, whereas linear; naked, whereas with histones; free in the cytoplasm, whereas in a nucleus.",
+    "A statement about only one cell type, such as 'bacterial DNA is circular', is half a difference and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-024": 1
+   },
+   "authored_hash": "392faa23c0c1b6e9f6594fcc1959d9c0308f1f93aa8169bad957ec1f7f5b189d"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-024-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.2-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-025"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Asked to name the two types of cell, a learner writes 'animal cell and bacterium'. Explain the error.",
+   "canonical_answer": "The error is giving an example of each type instead of the types. An animal cell is one kind of eukaryotic cell and a bacterium is a prokaryote. The two types are eukaryotic and prokaryotic. The test is to ask whether the cell has a nucleus and membrane-bound organelles; if it does it is eukaryotic and if not it is prokaryotic.",
+   "marking_guidance": [
+    "2 marks: the error named, examples (or a domain) given instead of the cell types (1); the correct idea, eukaryotic and prokaryotic, or the test of a nucleus and membrane-bound organelles (1).",
+    "The card is a discrimination between a type and an example of a type, not a repeat of the definitions."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-025": 1
+   },
+   "authored_hash": "45b4aa697690a1daeb5934969eca8c4e8fdc660b769b6acd12a11c57ca933256"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-019-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.2-09"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-027",
+    "CLM-8223-2.2-028"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 1,
+   "prompt": "State the term for the molecule that is produced in mitochondria and chloroplasts and is the immediate source of energy for the processes of a cell.",
+   "canonical_answer": "ATP (adenosine triphosphate). It is made in mitochondria in aerobic respiration and in chloroplasts in the light-dependent stage of photosynthesis, and it releases energy when its terminal phosphate group is removed.",
+   "marking_guidance": [
+    "1 mark: the key term, ATP or adenosine triphosphate.",
+    "The term is the point; 'glucose' is a store of energy that is converted to ATP and is not the immediate source."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-027": 1,
+    "CLM-8223-2.2-028": 1
+   },
+   "authored_hash": "f5f07582f4ce62643e6dcf8dc6b7f23edc383f0875a101c254b7cdbdbe06938e"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-020-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.2-10"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-029"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by a virus being non-cellular.",
+   "canonical_answer": "A virus has no cell structure: it has no cell surface membrane, cytoplasm or ribosomes, and consists of a nucleic acid core (DNA or RNA) inside a protein capsid.",
+   "marking_guidance": [
+    "1 mark: the key words, no cell structure (no cell surface membrane, cytoplasm or ribosomes).",
+    "The meaning is the absence of cell structure; the presence of a capsid and nucleic acid describes what a virus is made of and does not itself state the meaning."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger from the syllabus wording and standard biology; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-029": 1
+   },
+   "authored_hash": "66f5d4f1a00b8a5e840405e541568c69d0f72130dde72bb0e086fd8377c253ea"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-P01",
+   "objective_ids": [
+    "OBJ-8223-2.2-01",
+    "OBJ-8223-2.2-07",
+    "OBJ-8223-2.2-08",
+    "OBJ-8223-2.2-10"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-005",
+    "CLM-8223-2.2-006",
+    "CLM-8223-2.2-007",
+    "CLM-8223-2.2-021",
+    "CLM-8223-2.2-022",
+    "CLM-8223-2.2-024",
+    "CLM-8223-2.2-025",
+    "CLM-8223-2.2-026",
+    "CLM-8223-2.2-029",
+    "CLM-8223-2.2-030",
+    "CLM-8223-2.2-004"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": null,
+   "mark_tariff": 12,
+   "difficulty": 3,
+   "prompt": "Twelve questions. Choose one option for each.\n\n1. Which structure is the site of protein synthesis in a cell?\nA  a lysosome\nB  a ribosome\nC  a Golgi body\nD  a smooth endoplasmic reticulum\n\n2. Which structure is bounded by a single membrane and contains hydrolytic enzymes?\nA  a mitochondrion\nB  a nucleus\nC  a lysosome\nD  a chloroplast\n\n3. Which sequence shows the route of a secreted protein, from where its polypeptide is made to its release?\nA  ribosome on RER, Golgi body, secretory vesicle, cell surface membrane\nB  Golgi body, ribosome on RER, secretory vesicle, cell surface membrane\nC  ribosome on RER, lysosome, Golgi body, cell surface membrane\nD  secretory vesicle, Golgi body, ribosome on RER, cell surface membrane\n\n4. Which statement about a structure of a plant cell is correct?\nA  Plasmodesmata are folds of the membrane that increase surface area.\nB  The tonoplast surrounds the nucleus.\nC  Cilia on plant cells beat to move mucus.\nD  Plasmodesmata link the cytoplasm of adjacent cells.\n\n5. In which of these are 70S ribosomes found?\nA  the cytoplasm of a liver cell\nB  the cytoplasm of a bacterium\nC  the rough endoplasmic reticulum of a palisade cell\nD  the cytoplasm of a cheek cell\n\n6. The cells that line the small intestine have many mitochondria. What is the most likely reason?\nA  They supply ATP for the active transport of absorbed substances.\nB  They digest food inside the cell.\nC  They increase the surface area for absorption.\nD  They make the cellulose cell wall.\n\n7. Which row describes a typical bacterium?\nA  nucleus; linear DNA with histones; 80S ribosomes; wall of cellulose\nB  no nucleus; circular DNA with histones; 80S ribosomes; wall of peptidoglycan\nC  nucleus; circular DNA; 70S ribosomes; wall of peptidoglycan\nD  no nucleus; circular DNA without histones; 70S ribosomes; wall of peptidoglycan\n\n8. Which diameter is typical of a bacterium?\nA  0.05 μm\nB  20 μm\nC  2 μm\nD  200 μm\n\n9. A cell has a nucleus, mitochondria and a cell wall of cellulose. What can be concluded?\nA  It is a prokaryotic cell, because it has a cell wall.\nB  It is a eukaryotic cell, because it has a nucleus and membrane-bound organelles.\nC  It is a prokaryotic cell, because mitochondria contain 70S ribosomes.\nD  It is a bacterium, because it has a wall.\n\n10. Which feature is found in eukaryotic cells but not in prokaryotic cells?\nA  membrane-bound organelles\nB  ribosomes\nC  DNA\nD  a cell surface membrane\n\n11. Which structures are present in a virus that has no envelope?\nA  nucleic acid, a protein capsid and cytoplasm\nB  a capsid and ribosomes\nC  nucleic acid and a phospholipid envelope\nD  nucleic acid and a protein capsid\n\n12. A virus particle has an RNA core, a protein coat and an outer layer of phospholipid. Which statement is correct?\nA  It is a prokaryotic cell with an envelope.\nB  It is non-cellular and its genetic material is DNA.\nC  It is non-cellular and has an envelope.\nD  It is a naked virus.",
+   "canonical_answer": "Key: 1 B, 2 C, 3 A, 4 D, 5 B, 6 A, 7 D, 8 C, 9 B, 10 A, 11 D, 12 C.\n1. Ribosomes are where amino acids are joined into a polypeptide (B). A a lysosome digests material with hydrolytic enzymes and makes no protein; C the Golgi body modifies and packages a protein that is already made; D smooth ER has no ribosomes and makes lipids.\n2. A lysosome is a single-membrane sac of hydrolytic enzymes (C). A a mitochondrion has two membranes and makes ATP; B the nucleus has a double envelope and holds the DNA; D a chloroplast has two membranes and carries out photosynthesis.\n3. The polypeptide is made first, then processed by the Golgi body, then carried to the membrane in a vesicle (A). B puts the Golgi body before the protein exists, the commonest error in this route; C sends the protein through a lysosome, which digests and does not secrete; D reverses the whole sequence.\n4. Plasmodesmata are channels through the walls that join the cytoplasm of neighbouring cells (D). A confuses plasmodesmata with microvilli, which are membrane folds; B the tonoplast surrounds the large permanent vacuole and not the nucleus; C is a statement about the cilia of a mammalian trachea, not plant cells.\n5. Prokaryotic cells have 70S ribosomes in their cytoplasm (B). A, C and D place 70S ribosomes in the cytoplasm or on the RER of a eukaryotic cell, which has 80S ribosomes there; the 70S ribosomes of a eukaryotic cell are inside its mitochondria and chloroplasts.\n6. Mitochondria produce ATP, which drives active transport (A). B confuses mitochondria with lysosomes, which digest; C gives the job of microvilli, which provide the area; D animal cells have no cellulose wall.\n7. These are the prokaryotic features given in the syllabus (D). A describes a plant cell; B mixes in histones and 80S ribosomes, which are eukaryotic features; C gives a bacterium a nucleus, which a prokaryote lacks.\n8. Typical bacteria are about 1 to 5 μm across (C). A is far smaller than a bacterium and nearer the size of a virus; B at 20 μm is within the usual range of a eukaryotic cell; D is large enough to see with the naked eye.\n9. A nucleus and membrane-bound organelles identify a eukaryotic cell (B). A treats a wall as a prokaryotic feature, but plants and bacteria both have walls; C uses the 70S ribosomes in mitochondria, which are also in eukaryotes; D names a bacterial cell, but a cellulose wall is a plant feature, not a peptidoglycan wall.\n10. Prokaryotic cells have no membrane-bound organelles (A). B ribosomes are in both cell types, as 70S in prokaryotes; C DNA is in both; D both have a cell surface membrane.\n11. A naked virus is a nucleic acid core inside a protein capsid (D). A adds cytoplasm, which viruses lack; B adds ribosomes, which viruses lack; C names a virus that has the envelope.\n12. The phospholipid layer is the envelope, and a virus is non-cellular (C). A calls a virus a cell, but viruses are non-cellular; B contradicts the RNA core; D a naked virus has no envelope.",
+   "marking_guidance": [
+    "1 mark per question, 12 in all. The key is the correct option for each question, and the reason each distractor is wrong is given beside it so that a learner who chose a wrong option can see the error it comes from.",
+    "The distractors are built from known errors: Golgi body placed before protein synthesis (question 3), 70S ribosomes in a eukaryotic cytoplasm (question 5), and a cell type confused with an example of one (question 9). A learner who picks a distractor should read the error it names."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-005": 1,
+    "CLM-8223-2.2-006": 1,
+    "CLM-8223-2.2-007": 1,
+    "CLM-8223-2.2-021": 1,
+    "CLM-8223-2.2-022": 1,
+    "CLM-8223-2.2-024": 1,
+    "CLM-8223-2.2-025": 1,
+    "CLM-8223-2.2-026": 1,
+    "CLM-8223-2.2-029": 1,
+    "CLM-8223-2.2-030": 1,
+    "CLM-8223-2.2-004": 1
+   },
+   "authored_hash": "d63610a6050fd68b9f111bc05af044f209bf98631ce5e31da05ef9b72e563bc9"
+  },
+  {
+   "item_id": "ITEM-8223-2.2-P02",
+   "objective_ids": [
+    "OBJ-8223-2.2-01",
+    "OBJ-8223-2.2-07",
+    "OBJ-8223-2.2-08",
+    "OBJ-8223-2.2-09"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.2-004",
+    "CLM-8223-2.2-003",
+    "CLM-8223-2.2-021",
+    "CLM-8223-2.2-022",
+    "CLM-8223-2.2-024",
+    "CLM-8223-2.2-027",
+    "CLM-8223-2.2-028"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "State",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "A student in Oshakati compares three cells using our descriptions of electron micrographs.\n\n| Feature | Cell P | Cell Q | Cell R |\n|---|---|---|---|\n| Diameter (μm) | 2 | 30 | 60 |\n| Nucleus | absent | present | present |\n| Cell wall | peptidoglycan | absent | cellulose |\n| Ribosomes in cytoplasm | 70S | 80S | 80S |\n| Mitochondria | absent | present | present |\n\n(a) Identify the prokaryotic cell and state one feature from the table that shows this. [2]\n(b) State two differences, shown in the table, between cell P and cell Q. [2]\n(c) Cell R is a palisade cell of a leaf. Suggest two structures that it would be expected to contain that are not listed in the table, and suggest what each does. [2]\n(d) Cell Q needs a supply of ATP. State the organelle in the table that produces ATP and outline the role of ATP in cell Q. [2]",
+   "canonical_answer": "(a) Cell P; it has no nucleus (or no mitochondria, or 70S ribosomes, or a peptidoglycan wall).\n(b) Cell P has no nucleus whereas cell Q has one; cell P has a peptidoglycan wall whereas cell Q has none; cell P has 70S ribosomes whereas cell Q has 80S; cell P has no mitochondria whereas cell Q has them; cell P is 2 μm across whereas cell Q is 30 μm.\n(c) Chloroplasts, which carry out photosynthesis; a large permanent vacuole, which holds cell sap and keeps the cell firm by pressing on the wall (plasmodesmata, which link the cytoplasm of neighbouring cells, are also accepted).\n(d) The mitochondria. ATP is the immediate source of energy: when its terminal phosphate group is removed, it releases energy that the cell uses directly for processes such as active transport or protein synthesis.",
+   "marking_guidance": [
+    "Marks and points: (a) 1 mark for cell P and 1 mark for one feature read from the table; (b) 2 marks, one for each difference, and each difference must state both cells (whereas), from five creditworthy points in the table; (c) 2 marks, each for a structure with its job, from three points (chloroplasts, large permanent vacuole, plasmodesmata); (d) 1 mark for mitochondria and 1 mark for the role, energy released when the terminal phosphate is removed and used for a cell process, because ATP is the immediate source.",
+    "Parts (a) and (b) credit AO A (4 marks); parts (c) and (d) apply the knowledge to a given cell and credit AO B (2 marks) and A (2 marks) respectively. The reason in each part must use the cells described; a general statement not linked to the table earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 topic 2.2 claim ledger; scenario and answer are our own. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.2-004": 1,
+    "CLM-8223-2.2-003": 1,
+    "CLM-8223-2.2-021": 1,
+    "CLM-8223-2.2-022": 1,
+    "CLM-8223-2.2-024": 1,
+    "CLM-8223-2.2-027": 1,
+    "CLM-8223-2.2-028": 1
+   },
+   "authored_hash": "cf3f5ac5db84e757738f4dd1a660838df70a14c98fc5ed010eaf2d0dcb19a571"
+  }
+ ]
+}

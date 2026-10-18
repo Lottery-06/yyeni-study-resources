@@ -1,0 +1,244 @@
+{
+ "unit_id": "CU-8223-2.3.1",
+ "title": "Fluid mosaic membranes",
+ "objective_ids": [
+  "OBJ-8223-2.3.1-01",
+  "OBJ-8223-2.3.1-02",
+  "OBJ-8223-2.3.1-03",
+  "OBJ-8223-2.3.1-04"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_structure_function",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 1190,
+  "target": 1445,
+  "max": 1700
+ },
+ "blocks": [
+  {
+   "block_id": "2.3.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "How the cell surface membrane is built, what the membrane and each of its components do, and how a chemical released by one cell can change the behaviour of another cell by binding to a receptor on its cell surface membrane.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "72fbd2c93dacbdaf57da9d6a4ea3afb9d9af15d2a3e90a3d4a8fb778bf360828"
+  },
+  {
+   "block_id": "2.3.1-b2",
+   "block_type": "plain_explanation",
+   "heading": "The fluid mosaic model",
+   "text": "The cell surface membrane is the boundary between the cytoplasm of a cell and its surroundings. The fluid mosaic model describes how it is built. The membrane is a bilayer, which means two layers, of phospholipid molecules. Protein molecules are scattered through and across this bilayer like the tiles of a mosaic, and the pattern is not fixed. The word fluid describes the way the phospholipids, and many of the proteins, can move sideways within their own layer. This movement makes the membrane flexible rather than rigid, so a cell can change shape, and so that the membrane can pinch inwards when a cell takes in material or divides.",
+   "claim_ids": [
+    "CLM-8223-2.3.1-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.3.1-001": 1
+   },
+   "authored_hash": "ba017fa9d744f4b604598a0c8425a5925f42b8d7257ca88c47e85287029a4c8c"
+  },
+  {
+   "block_id": "2.3.1-b3",
+   "block_type": "components",
+   "heading": "Phospholipids and the bilayer",
+   "text": "A phospholipid molecule has a head and two tails. The head contains a phosphate group, which carries a charge, so the head is polar and attracted to water. It is hydrophilic. Glycerol is the small molecule that joins the head to the two fatty acid tails, but it is the phosphate group, not the glycerol, that makes the head polar. Each tail is a chain of carbon and hydrogen atoms. It is non-polar and repelled by water, so it is hydrophobic. There is water on both sides of a cell surface membrane, the cytoplasm inside and the tissue fluid outside. In water the phospholipids therefore arrange themselves in two layers, with the heads facing outwards towards the water on both sides and the tails facing inwards, away from the water. The tails make a hydrophobic core in the middle of the membrane.",
+   "claim_ids": [
+    "CLM-8223-2.3.1-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.3.1-002": 1
+   },
+   "authored_hash": "03249b78d26a0dae051d8a8d2e16a44e062b49c83397061119949a457d2565b9"
+  },
+  {
+   "block_id": "2.3.1-b4",
+   "block_type": "components",
+   "heading": "Cholesterol, proteins and carbohydrate chains",
+   "text": "Cholesterol molecules lie between the phospholipids, among the fatty acid tails. The proteins in the membrane vary in shape and size. Some span the whole bilayer, from one surface to the other, and others lie against one surface. Some of the lipids and proteins on the outer surface carry a short chain of carbohydrate. A glycolipid is a lipid with a carbohydrate chain attached, and a glycoprotein is a protein with a carbohydrate chain attached. The chains project outwards from the surface that faces the outside of the cell, where they take part in recognition and signalling.",
+   "claim_ids": [
+    "CLM-8223-2.3.1-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.3.1-003": 1
+   },
+   "authored_hash": "d2cd79661d5c1b8be49fe54be8b96c1d7c3f49630f289336ced3ac7d92ff84bc"
+  },
+  {
+   "block_id": "2.3.1-b5",
+   "block_type": "misconception",
+   "heading": "One membrane, two layers, and the polar head",
+   "text": "A cell surface membrane is one membrane. It is made of two layers of phospholipid, so it is a bilayer, but it is not a double membrane. A double membrane is an envelope of two separate membranes, such as the envelope around the nucleus, a mitochondrion or a chloroplast. To tell them apart, ask how many membranes bound the structure and how many layers of phospholipid make up each membrane. For a cell surface membrane the answers are one membrane and two layers. A second error concerns the head of a phospholipid. It is the phosphate group that makes the head polar, and the glycerol is a link between the head and the tails. To check, ask which part of the molecule carries the charge.",
+   "claim_ids": [
+    "CLM-8223-2.3.1-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.3.1-004": 1
+   },
+   "authored_hash": "7244012919afe7ebbd45e711ca41cb1d7ff4de3e5c9e875686fa3d5dc461ab11"
+  },
+  {
+   "block_id": "2.3.1-b6",
+   "block_type": "plain_explanation",
+   "heading": "Roles of the cell surface membrane",
+   "text": "The cell surface membrane has several roles. It is the boundary of the cell, separating the cytoplasm from the surroundings and holding the contents in place. It is partially permeable, which means that some substances cross it much more easily than others, so it controls what enters and leaves the cell. It carries receptors that detect signal molecules from other cells, which makes it part of cell signalling. It carries antigens that identify the cell, which makes it part of cell recognition. Substances cross the membrane by diffusion, facilitated diffusion, osmosis and active transport, which topic 2.3.2 teaches in detail.",
+   "claim_ids": [
+    "CLM-8223-2.3.1-005",
+    "CLM-8223-2.3.1-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.3.1-005": 1,
+    "CLM-8223-2.3.1-006": 1
+   },
+   "authored_hash": "1d2b8399039eca159223a824aab652a69399f14afe9875c824bd494b50340609"
+  },
+  {
+   "block_id": "2.3.1-b7",
+   "block_type": "components",
+   "heading": "What phospholipids and cholesterol do",
+   "text": "The phospholipid bilayer is the barrier. Its hydrophobic core resists the passage of ions and polar molecules, such as glucose, because they are water-soluble and are not attracted to the fatty acid tails. Small non-polar molecules such as oxygen and carbon dioxide tend to dissolve in the core and pass between the phospholipids. The bilayer is therefore partially permeable.\n\nCholesterol regulates the fluidity of the membrane. At warm temperatures it tends to restrict the movement of the fatty acid tails, which makes the membrane more stable. At low temperatures it tends to stop the tails packing closely together, so the membrane does not become stiff. It also tends to reduce leakage of ions and small polar molecules through gaps between the phospholipids. Cholesterol is not the part that faces the water, because that is the head of the phospholipid. The test is to ask which part faces the water and which part sits among the tails.",
+   "claim_ids": [
+    "CLM-8223-2.3.1-007",
+    "CLM-8223-2.3.1-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.3.1-007": 1,
+    "CLM-8223-2.3.1-008": 1
+   },
+   "authored_hash": "3f3cc77ef582f3fe5b34070f7200886ce03a92fbff505d2a11f6d1d7f6553a28"
+  },
+  {
+   "block_id": "2.3.1-b8",
+   "block_type": "components",
+   "heading": "What proteins, receptors and antigens do",
+   "text": "Channel proteins and carrier proteins move substances across the membrane, and each is specific for the substance it moves. A channel protein has a water-filled pore through the bilayer. Ions or small polar molecules of the right size and charge can pass through it by facilitated diffusion, down their concentration gradient. A carrier protein binds a particular molecule on one side of the membrane, changes shape, and releases the molecule on the other side. It can work by facilitated diffusion, or it can move a substance against its concentration gradient by active transport, which uses energy from ATP.\n\nA cell surface receptor is a protein, often a glycoprotein, with a binding site whose shape is complementary to one specific signal molecule. A cell surface antigen is a molecule on the outer surface, usually a glycoprotein or glycolipid, which identifies the cell. The cells of your own body carry self antigens. The cells of a pathogen carry non-self antigens, which can trigger an immune response.",
+   "claim_ids": [
+    "CLM-8223-2.3.1-009",
+    "CLM-8223-2.3.1-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.3.1-009": 1,
+    "CLM-8223-2.3.1-010": 1
+   },
+   "authored_hash": "76485aea67ea8747dadc0120a1428ae27b6bdb29e15305bba7ae8882b7020878"
+  },
+  {
+   "block_id": "2.3.1-b9",
+   "block_type": "process",
+   "heading": "Cell signalling",
+   "text": "In cell signalling one cell communicates with another by releasing a chemical. First, a signalling cell releases a signal molecule, such as a hormone. Second, the molecule travels to its target cells, in the blood for a hormone or by diffusion over a short distance. Third, the molecule binds to a cell surface receptor on a target cell, because its shape is complementary to the binding site of the receptor. Fourth, the binding changes the receptor and triggers a change inside the target cell. This change is the specific response.\n\nThe response is specific because cells without the matching receptor do not bind the molecule, even though it reaches them, so they do not respond. Different target cells can carry different receptors, so one chemical can cause different responses, or none, in different cell types.",
+   "claim_ids": [
+    "CLM-8223-2.3.1-011",
+    "CLM-8223-2.3.1-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.3.1-011": 1,
+    "CLM-8223-2.3.1-012": 1
+   },
+   "authored_hash": "14db52a19944064d0bc5cfcaaafb37a4ce453697722266aba3276f53ba404a78"
+  },
+  {
+   "block_id": "2.3.1-b10",
+   "block_type": "misconception",
+   "heading": "The signal is a molecule, not a cell or an impulse",
+   "text": "In cell signalling the signal is the molecule that is released, not the cell that releases it. It is also not a nerve impulse. A nerve impulse is an electrical signal travelling along a neurone, and a reflex arc is a pathway of neurones, which is not the same as a chemical binding to a receptor. To tell them apart, ask whether the signal is a molecule binding to a receptor or an electrical impulse along a neurone. In cell signalling it is the molecule that binds to the receptor.",
+   "claim_ids": [
+    "CLM-8223-2.3.1-013"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.3.1-013": 1
+   },
+   "authored_hash": "3ced8bb2163db43c60d26724d9d84f1a3dff975834f8302a995b804250e165d4"
+  },
+  {
+   "block_id": "2.3.1-b11",
+   "block_type": "worked_application",
+   "heading": "Worked example: insulin and a liver cell",
+   "text": "After a meal, the glucose concentration in the blood of a person in Rundu rises. Beta cells in the pancreas release insulin. The beta cell is the signalling cell and insulin is the signal molecule. The blood carries insulin to many tissues. It binds to cell surface receptors on cells such as liver cells, which are therefore target cells, because the shape of insulin is complementary to the binding site of the receptor. The binding triggers the response: the liver cell takes up glucose from the blood and converts it into glycogen. A cell that has no insulin receptor does not respond, however much insulin reaches it.",
+   "claim_ids": [
+    "CLM-8223-2.3.1-011",
+    "CLM-8223-2.3.1-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.3.1-011": 1,
+    "CLM-8223-2.3.1-012": 1
+   },
+   "authored_hash": "8a96ecb5cc79f5305eeeb2bc3d62ea2cfbe9ad9a9feba5e5e01c0537abbfb368"
+  },
+  {
+   "block_id": "2.3.1-b12",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "The cell surface membrane is one of the structures of the cell, which topic 2.2 Cell structure covers. How substances cross it by diffusion, osmosis and active transport is taught in 2.3.2 Movement of substances into and out of cells. Fatty acids and the structure of lipids are taught in 2.4.1 Carbohydrates and lipids, and the part antigens play in the immune response is taught in 2.9.1 The response of the immune system to pathogens.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "1860ad13f84a6533cbc8d645d038e19e4e3b4dc7b2da5dfe1456f642dd7b9873"
+  }
+ ],
+ "word_count": 1407,
+ "qa_status": "review_required",
+ "notes": [
+  "Authored for topic 2.3.1. Facts are our own statement of standard biology, single source and unverified."
+ ]
+}

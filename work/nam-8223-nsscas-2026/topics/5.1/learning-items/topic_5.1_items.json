@@ -1,0 +1,1791 @@
+{
+ "dataset_id": "ITEMS-8223-5.1",
+ "topic_id": "5.1",
+ "items": [
+  {
+   "item_id": "ITEM-8223-5.1-001-DEF",
+   "objective_ids": [
+    "OBJ-8223-5.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 1,
+   "prompt": "State what is meant by the mean of a set of readings.",
+   "canonical_answer": "The mean is the total of the values divided by the number of values.",
+   "marking_guidance": [
+    "1 mark: the definition. Key words: total (or sum) of the values, divided by the number of values. The median (middle value) and the mode (most frequent value) are different averages and earn no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-001": 1
+   },
+   "authored_hash": "a4eef769767c3c64e49b9642768c062ec5296b501a9ba79bca641d8dbc7ec77b"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-002-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "Five camel thorn seedlings in a Windhoek nursery are 12.4 cm, 15.1 cm, 13.8 cm, 14.2 cm and 11.5 cm tall. Calculate the mean height of the seedlings.",
+   "canonical_answer": "Total = 12.4 + 15.1 + 13.8 + 14.2 + 11.5 = 67.0, so mean = total ÷ number of seedlings = 67.0 ÷ 5 = 13.4 cm.",
+   "marking_guidance": [
+    "Working: the equation mean = total ÷ number, with the substitution 67.0 ÷ 5 - 1 mark.",
+    "Final answer: 13.4 cm, three significant figures to match the readings - 1 mark. The answer needs its unit and the significant figures the data justify.",
+    "67 ÷ 5 = 13.4 is accepted with the unit cm."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-001": 1
+   },
+   "authored_hash": "0b3a7b5a2f3bb6808685920465cb37fde90b1f4dfb94b916f594cb534aba00ac"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-003-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "A bacterial culture in a school laboratory in Katima Mulilo divides once every 4 hours. Calculate the number of divisions it completes per hour, using the reciprocal of the time for one division.",
+   "canonical_answer": "Divisions per hour = 1 ÷ time for one division = 1 ÷ 4 = 0.25 divisions per hour.",
+   "marking_guidance": [
+    "Working: the formula 1 ÷ time for one division, with the substitution 1 ÷ 4 - 1 mark.",
+    "Final answer: 0.25 divisions per hour - 1 mark. The answer needs its unit and the significant figures the data justify.",
+    "An answer of 4 divisions per hour is the time, not the rate, and earns no final mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-003": 1
+   },
+   "authored_hash": "ffad54df420a33667f8b07abbb8b1c42f2596aa6cfde7b6b6adf295f35ec6e20"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-030-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-5.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one feature of the reciprocal of a number.",
+   "canonical_answer": "A number multiplied by its reciprocal gives 1 (the reciprocal of x is 1 ÷ x).",
+   "marking_guidance": [
+    "1 mark: one feature of a reciprocal. Accept: it is 1 ÷ the number; the product of a number and its reciprocal is 1; the reciprocal of 4 is 0.25."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-003": 1
+   },
+   "authored_hash": "00ff0582b22a6857026a48d282a0f7fde54af1a504fdbc3f0c0f13eecbc99d04"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-038-DIST",
+   "objective_ids": [
+    "OBJ-8223-5.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one difference between the mean and the median of the heights of plants in a field.",
+   "canonical_answer": "The mean is the total of the heights divided by the number of plants and uses every value, whereas the median is the middle height when the heights are put in order and is less affected by one unusual value.",
+   "marking_guidance": [
+    "1 mark: one difference, stated for both averages: how each is found (total ÷ number, whereas the middle value in order), or the effect of an extreme value on each. A statement about only one of the two averages earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-001": 1
+   },
+   "authored_hash": "7eadb0dc1e58befa57e5623c86c33068d553e5d9119c067c672ba89f374082d9"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-004-DEF",
+   "objective_ids": [
+    "OBJ-8223-5.1-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by standard form.",
+   "canonical_answer": "Standard form writes a number as A × 10ⁿ, where A is at least 1 and less than 10 and n is a whole number.",
+   "marking_guidance": [
+    "1 mark: the definition. Key words: a number between 1 and 10 (at least 1, less than 10) multiplied by a power of ten, with a whole-number power."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-004": 1
+   },
+   "authored_hash": "11425009b988d36305a17b09e6da194440dcbd96673415becf41f4ddeb6af735"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-005-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.1-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-004",
+    "CLM-8223-5.1-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A bacterium measures 0.0000025 m in length. Calculate this length in standard form.",
+   "canonical_answer": "The decimal point moves 6 places to the right to leave 2.5, so n = -6 and length = 2.5 × 10⁻⁶ m.",
+   "marking_guidance": [
+    "Working: the step of counting the places the decimal point moves (6, to the right), so n = -6 - 1 mark.",
+    "Final answer: 2.5 × 10⁻⁶ m, with the unit m - 1 mark. The answer needs its unit and the significant figures the data justify.",
+    "2.5 × 10⁶ m has the wrong sign of power and earns neither mark for the final answer."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-004": 1,
+    "CLM-8223-5.1-005": 1
+   },
+   "authored_hash": "9f05454441d634b097a4cda4d1b9c01d9126716719a42a5070e14fd981741ef5"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-006-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.1-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-004",
+    "CLM-8223-5.1-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A sample of donor blood contains 4.8 × 10⁶ red blood cells in each cubic millimetre. Calculate the number of red blood cells in 2.5 mm³ of the sample, giving the answer in standard form.",
+   "canonical_answer": "Number = 4.8 × 10⁶ × 2.5. First 4.8 × 2.5 = 12.0, so the number is 12.0 × 10⁶, and in standard form this is 1.2 × 10⁷ cells.",
+   "marking_guidance": [
+    "Working: the substitution 4.8 × 2.5 = 12.0, with the power of ten carried through - 1 mark.",
+    "Final answer: 1.2 × 10⁷ cells in standard form (12.0 × 10⁶ is correct but not in standard form, so earns the working mark only) - 1 mark. The answer needs its unit and the significant figures the data justify."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-004": 1,
+    "CLM-8223-5.1-005": 1
+   },
+   "authored_hash": "38c243568fb73c6591c6c24311f64883598e2e905161055612ea7fe03d8f8094"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-025-MISCON",
+   "objective_ids": [
+    "OBJ-8223-5.1-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner says that a dye concentration of 1.6 × 10⁻⁸ g dm⁻³ is greater than one of 1.6 × 10⁻² g dm⁻³ because 8 is bigger than 2. Explain the error.",
+   "canonical_answer": "The error is to compare the size of the powers while ignoring the minus sign. In fact a more negative power gives a smaller number: 10⁻² is one hundredth and 10⁻⁸ is one hundred millionth, so 1.6 × 10⁻⁸ g dm⁻³ is far smaller than 1.6 × 10⁻² g dm⁻³. The test is to write both in decimal form, 0.000000016 and 0.016, and see which is smaller.",
+   "marking_guidance": [
+    "2 marks: the error named, that the minus sign is ignored so the larger power is wrongly taken as the larger number (1); the correct idea, that a more negative power gives a smaller number, or the test of writing both in decimal form (1).",
+    "The card is a discrimination between the two readings of the powers, not a repeat of the definition of standard form."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-006": 1
+   },
+   "authored_hash": "7b2d7dad504dbebe6283fd47c5a91cbe33c09731774c4ca8bc96d2d2964f84b5"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-026-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-5.1-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-004",
+    "CLM-8223-5.1-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State the sign of the power of ten when a length smaller than 1 m, such as the width of a virus particle, is written in standard form.",
+   "canonical_answer": "The power of ten is negative.",
+   "marking_guidance": [
+    "1 mark: a feature of standard form, the negative sign of the power for a number smaller than 1. A positive power describes numbers of 10 or more and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-004": 1,
+    "CLM-8223-5.1-005": 1
+   },
+   "authored_hash": "6d70f93624c3e5ded71f3943cc0f8cb1ec12b483cd9d90b56db4e016bce5ac30"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-034-DIST",
+   "objective_ids": [
+    "OBJ-8223-5.1-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-004",
+    "CLM-8223-5.1-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State one difference between decimal form and standard form for writing the length 0.000012 m.",
+   "canonical_answer": "Decimal form, 0.000012 m, shows every place and the zeros, whereas standard form, 1.2 × 10⁻⁵ m, uses a power of ten and is shorter.",
+   "marking_guidance": [
+    "1 mark: one difference that names both forms: decimal form writes out all the zeros, whereas standard form uses a number between 1 and 10 and a power of ten (here 10⁻⁵). Saying only what standard form is gives no contrast and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-004": 1,
+    "CLM-8223-5.1-005": 1
+   },
+   "authored_hash": "58bdf48bbc10fcb502ea60e94fef109d9954532d160963fc3a65be000a4f1af3"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-007-DEF",
+   "objective_ids": [
+    "OBJ-8223-5.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 1,
+   "prompt": "State what is meant by the prefix micro (µ).",
+   "canonical_answer": "Micro means one millionth, 10⁻⁶, of the unit that follows it.",
+   "marking_guidance": [
+    "1 mark: the definition. Key words: one millionth, or 10⁻⁶, of the unit. Milli (one thousandth, 10⁻³) and nano (10⁻⁹) are different prefixes."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-007": 1
+   },
+   "authored_hash": "e332d1dfa90a40ac5bc86e9ec4dad7483dd505202f99fd34b013f8dc4f62282a"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-008-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-007",
+    "CLM-8223-5.1-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "A leaf epidermal cell is 0.045 mm long. Calculate its length in micrometres (µm).",
+   "canonical_answer": "1 mm = 1000 µm, so the length = 0.045 × 1000 = 45 µm.",
+   "marking_guidance": [
+    "Working: the factor 1 mm = 1000 µm, with the substitution 0.045 × 1000 - 1 mark.",
+    "Final answer: 45 µm, with its unit, two significant figures - 1 mark. The answer needs its unit and the significant figures the data justify.",
+    "0.000045 µm divides when it should multiply: a micrometre is the smaller unit, so the number must be larger."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-007": 1,
+    "CLM-8223-5.1-008": 1
+   },
+   "authored_hash": "f65560f344917aa443e2a321576f1921c4576873ed6c9f4277b89318d914bba8"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-009-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-007",
+    "CLM-8223-5.1-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "A virus particle is 120 nm across. Calculate its width in micrometres (µm).",
+   "canonical_answer": "1 µm = 1000 nm, so the width = 120 ÷ 1000 = 0.12 µm.",
+   "marking_guidance": [
+    "Working: the factor 1 µm = 1000 nm, with the substitution 120 ÷ 1000 - 1 mark.",
+    "Final answer: 0.12 µm, with its unit - 1 mark. The answer needs its unit and the significant figures the data justify.",
+    "120 000 µm multiplies when it should divide: a micrometre is the larger unit, so the number must be smaller."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-007": 1,
+    "CLM-8223-5.1-008": 1
+   },
+   "authored_hash": "7ebdb64ca822e25fa88e99e3043b450e5e3f011ff69ce24ea15fd28fe9e078c7"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-031-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-5.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State the power of ten that the prefix giga (G) represents.",
+   "canonical_answer": "Giga represents 10⁹, which is one thousand million.",
+   "marking_guidance": [
+    "1 mark: the numerical feature of the prefix, 10⁹ (a thousand million). 10⁶ is mega and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-007": 1
+   },
+   "authored_hash": "70a98f51214e8d28c362ff6d314c7e5b4145e82b156b613ce1247f2e470a1463"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-039-DIST",
+   "objective_ids": [
+    "OBJ-8223-5.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-007",
+    "CLM-8223-5.1-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one difference between a millimetre and a micrometre.",
+   "canonical_answer": "A millimetre is 10⁻³ m, a thousandth of a metre, whereas a micrometre is 10⁻⁶ m, a millionth of a metre, so a millimetre is 1000 times longer.",
+   "marking_guidance": [
+    "1 mark: one difference naming both units: the factors 10⁻³ m and 10⁻⁶ m, or that a millimetre is 1000 times longer than a micrometre. A statement about one unit alone gives no contrast."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-007": 1,
+    "CLM-8223-5.1-008": 1
+   },
+   "authored_hash": "f90f12ce7ec72ef2038f539aa20543a2292d6a06ec96352e78f1b2636b69e65c"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-010-DEF",
+   "objective_ids": [
+    "OBJ-8223-5.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by a significant figure in a measured value.",
+   "canonical_answer": "A significant figure is a digit that carries information about the size of the value, counted from the first non-zero digit.",
+   "marking_guidance": [
+    "1 mark: the definition. Key words: a digit that carries information about size (precision), counted from the first non-zero digit. Counting decimal places is a different idea."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-009": 1
+   },
+   "authored_hash": "93827f13b18383854a1236d3962b98da604dbb08b1066aadbc43381e17f83a2f"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-011-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-009",
+    "CLM-8223-5.1-010",
+    "CLM-8223-5.1-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A student collects 4.6 cm³ of oxygen from pondweed in 3.0 min. Calculate the volume of oxygen released per hour, without rounding the rate before the final step.",
+   "canonical_answer": "Rate = volume ÷ time = 4.6 ÷ 3.0 = 1.53333 cm³ min⁻¹ (unrounded). Volume per hour = 1.53333 × 60 = 92.0, so 92 cm³ h⁻¹ to two significant figures. Rounding the rate to 1.5 first gives 1.5 × 60 = 90, which has lost accuracy.",
+   "marking_guidance": [
+    "Working: the substitution 4.6 ÷ 3.0 with the rate kept unrounded, then × 60 - 1 mark.",
+    "Final answer: 92 cm³ h⁻¹, two significant figures to match the readings - 1 mark. The answer needs its unit and the significant figures the data justify.",
+    "An answer of 90 cm³ h⁻¹ comes from rounding the rate early and does not earn the final mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-009": 1,
+    "CLM-8223-5.1-010": 1,
+    "CLM-8223-5.1-011": 1
+   },
+   "authored_hash": "0eccc48a7c28b23dd286f0a4e4954b8d1547e904e8f00d64c21fe851a56cd0d9"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-012-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-010",
+    "CLM-8223-5.1-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A student counts 17 bubbles from pondweed in 7.0 min and wants the number released per hour. Calculate the number per hour, keeping the working figures so that the final answer is not distorted by rounding.",
+   "canonical_answer": "Rate = 17 ÷ 7.0 = 2.42857 bubbles min⁻¹ (unrounded). Number per hour = 2.42857 × 60 = 145.7, so 150 bubbles h⁻¹ to two significant figures (1.5 × 10² bubbles h⁻¹).",
+   "marking_guidance": [
+    "Working: the substitution 17 ÷ 7.0 with the unrounded rate, then × 60 - 1 mark.",
+    "Final answer: 150 bubbles h⁻¹ (1.5 × 10²), two significant figures to match 7.0 and 17; 146 is accepted as one more figure than the data - 1 mark. The answer needs its unit and the significant figures the data justify.",
+    "A final value of 145.7 claims more precision than the readings have and earns the working mark only."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-010": 1,
+    "CLM-8223-5.1-011": 1
+   },
+   "authored_hash": "4ff68662a7119ca7c9e7c5712fc40cca6bafface2f87bef044aa2018409471df"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-027-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-5.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State one feature of a final answer that has been given to a justified number of significant figures.",
+   "canonical_answer": "It has the same number of significant figures as the least precise measurement used in the calculation, or one more.",
+   "marking_guidance": [
+    "1 mark: the feature, matching the least precise measurement (or one more). Writing every digit on the calculator display is a feature of an unjustified answer and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-011": 1
+   },
+   "authored_hash": "6f76e04c5510a75b46c1e50c290c27a2d0e3d762ce19d4295763ecbb0602c724"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-035-DIST",
+   "objective_ids": [
+    "OBJ-8223-5.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State one difference between significant figures and decimal places, using the number 0.0250 as an example.",
+   "canonical_answer": "Significant figures are counted from the first non-zero digit, so 0.0250 has three, whereas decimal places are counted after the decimal point, so it has four.",
+   "marking_guidance": [
+    "1 mark: the difference, stated for both: significant figures start at the first non-zero digit (three for 0.0250), whereas decimal places are all the digits after the point (four for 0.0250)."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-009": 1
+   },
+   "authored_hash": "9f43f65ae2306042c1acb7ae74c3c8f3d97d9605ca4f43abc2b144c66a4df11c"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-013-DEF",
+   "objective_ids": [
+    "OBJ-8223-5.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 1,
+   "prompt": "State what is meant by a percentage.",
+   "canonical_answer": "A percentage is a part expressed per hundred, found as part ÷ whole × 100.",
+   "marking_guidance": [
+    "1 mark: the definition. Key words: out of (per) one hundred, or part divided by whole multiplied by 100."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-012": 1
+   },
+   "authored_hash": "564483f478e041b4d4fcf094fcf8b85cdfd587259844ce21ae92dac7589ae27d"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-014-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "Of 160 mahangu seeds sown in a school plot at Ondangwa, 136 germinated. Calculate the percentage of the seeds that germinated.",
+   "canonical_answer": "Percentage = part ÷ whole × 100 = 136 ÷ 160 × 100 = 85, so 85 per cent germinated.",
+   "marking_guidance": [
+    "Working: the equation part ÷ whole × 100, with the substitution 136 ÷ 160 × 100 - 1 mark.",
+    "Final answer: 85 per cent, two significant figures - 1 mark. The answer needs its unit and the significant figures the data justify.",
+    "An answer of 0.85 has not been multiplied by 100 and earns the working mark only."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-012": 1
+   },
+   "authored_hash": "7027eea3d1fa8353f41cd0130278f8a9047b6a0004ff038cb30b4410793575b4"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-015-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "A seal colony on the Namibian coast is counted at 8 400 animals in one year and 6 300 in a later year. Calculate the percentage change in the size of the colony.",
+   "canonical_answer": "Change = 6 300 - 8 400 = -2 100 seals. Fraction of the original = -2 100 ÷ 8 400 = -0.25, so percentage change = -0.25 × 100 = -25 per cent, a decrease of 25 per cent.",
+   "marking_guidance": [
+    "Working: the formula change ÷ original × 100, with the substitution -2 100 ÷ 8 400 × 100 - 1 mark.",
+    "Final answer: -25 per cent (a 25 per cent decrease), with the direction stated - 1 mark. The answer needs its unit and the significant figures the data justify.",
+    "Dividing by the new value, 6 300, gives 33 per cent and earns the final mark for neither the size nor the direction."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-013": 1
+   },
+   "authored_hash": "a0b1825d5a689df492570daef6d0c219272e5745a77b519481f2cfb8bbe0a6cc"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-032-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-5.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one feature of a percentage change that shows a decrease.",
+   "canonical_answer": "The percentage change is negative, because the new value is smaller than the original value.",
+   "marking_guidance": [
+    "1 mark: the feature, a negative sign (or a new value smaller than the original). A positive result describes an increase and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-013": 1
+   },
+   "authored_hash": "69e433f1b0a9313875ce799e8f25167a9de253660f0b5e9ba7cbdf0ddb14292e"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-040-DIST",
+   "objective_ids": [
+    "OBJ-8223-5.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-012",
+    "CLM-8223-5.1-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one difference between a percentage of a total and a percentage change.",
+   "canonical_answer": "A percentage of a total compares a part with the whole, whereas a percentage change compares the difference between a new and an original value with the original value.",
+   "marking_guidance": [
+    "1 mark: one difference naming both: a percentage of a total is part ÷ whole × 100, whereas a percentage change is (new - original) ÷ original × 100 and can be negative."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-012": 1,
+    "CLM-8223-5.1-013": 1
+   },
+   "authored_hash": "0c908587e0741396d5e296d71dd8d42047221071cfb677c9cbdd8c3e38197197"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-016-DEF",
+   "objective_ids": [
+    "OBJ-8223-5.1-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-015"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by percentage error.",
+   "canonical_answer": "Percentage error is the absolute error divided by the measured (or accepted) value, multiplied by 100.",
+   "marking_guidance": [
+    "1 mark: the definition. Key words: absolute error (uncertainty) divided by the value measured, multiplied by 100. The absolute error alone, in the unit of the measurement, is not a percentage."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-015": 1
+   },
+   "authored_hash": "b45b4f8a1783ca6b7bb4bc8a464c445943d54f14d87049f413fd9228d5d33b39"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-017-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.1-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-015",
+    "CLM-8223-5.1-017"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A leaf is measured as 48 mm long using a ruler marked in millimetres, so each reading is uncertain by ±0.5 mm. Calculate the percentage error in the length.",
+   "canonical_answer": "Percentage error = absolute error ÷ measurement × 100 = 0.5 ÷ 48 × 100 = 1.0417, so the percentage error is 1.0 per cent.",
+   "marking_guidance": [
+    "Working: the equation absolute error ÷ measurement × 100, with the substitution 0.5 ÷ 48 × 100 - 1 mark.",
+    "Final answer: 1.0 per cent, two significant figures, with no unit (1.04 per cent is accepted) - 1 mark. The answer needs its unit and the significant figures the data justify.",
+    "Giving the answer as 1.0 mm attaches a unit to a percentage and loses the final mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-015": 1,
+    "CLM-8223-5.1-017": 1
+   },
+   "authored_hash": "ea1d5407018c3098b8567aa2a545ef3a591e8a0dfdf6c643f9fe781c12e278b0"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-018-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.1-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-015"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "The accepted width of a stoma is 12 µm. A student measures it as 13.8 µm. Calculate the percentage error in the student's measurement, taken against the accepted value.",
+   "canonical_answer": "Absolute error = 13.8 - 12 = 1.8 µm. Percentage error = 1.8 ÷ 12 × 100 = 15, so the percentage error is 15 per cent.",
+   "marking_guidance": [
+    "Working: the step 13.8 - 12 = 1.8 µm, then the substitution 1.8 ÷ 12 × 100 - 1 mark.",
+    "Final answer: 15 per cent, two significant figures, with no unit - 1 mark. The answer needs its unit and the significant figures the data justify.",
+    "Dividing by 13.8, the measured value, gives 13 per cent and does not match the instruction to use the accepted value."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-015": 1
+   },
+   "authored_hash": "e51785ca7925f11df72909f47d23484a8d68ef105f888863a477f20329cbd1e3"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-028-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-5.1-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-016"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State one feature of a measurement that makes its percentage error smaller when the absolute error stays the same.",
+   "canonical_answer": "The measurement is larger, because the same absolute error is divided by a larger value.",
+   "marking_guidance": [
+    "1 mark: the feature, a larger quantity being measured (so the same absolute error is a smaller share of it). Using a smaller quantity does the opposite and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-016": 1
+   },
+   "authored_hash": "e0b513af4b3430a8cef3417ffec0161c49262917a2890b8a2db6427effe9de6f"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-036-DIST",
+   "objective_ids": [
+    "OBJ-8223-5.1-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-015"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State one difference between an absolute error and a percentage error.",
+   "canonical_answer": "An absolute error is given in the unit of the measurement, such as ±0.5 mm, whereas a percentage error has no unit and shows the error as a share of the size of the measurement.",
+   "marking_guidance": [
+    "1 mark: one difference naming both: the absolute error has a unit, whereas the percentage error has no unit and is relative to the size of the measurement."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-015": 1
+   },
+   "authored_hash": "d54dac0f798b14173c6dbb93babea308b0f88751977adc3552ccf4a50b143c16"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-019-DEF",
+   "objective_ids": [
+    "OBJ-8223-5.1-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-018"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 1,
+   "prompt": "State what is meant by a ratio.",
+   "canonical_answer": "A ratio is a comparison of quantities in the same unit, written a : b, and it has no unit.",
+   "marking_guidance": [
+    "1 mark: the definition. Key words: a comparison of two (or more) quantities in the same unit, written a : b. A single fraction of a whole is a different idea."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-018": 1
+   },
+   "authored_hash": "ad221315045d9e080fa3a18cf808956b26ac639b01b57ef29cedb0437969be31"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-020-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.1-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-018"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "A sample of 72 tilapia from a fish farm at Hardap Dam contains 45 females and 27 males. Calculate the ratio of females to males in its simplest form.",
+   "canonical_answer": "The ratio is 45 : 27. The highest common factor is 9, so 45 ÷ 9 = 5 and 27 ÷ 9 = 3, giving a ratio of 5 : 3.",
+   "marking_guidance": [
+    "Working: the ratio 45 : 27 with a common factor identified, and the division of both terms by 9 - 1 mark (the step).",
+    "Final answer: 5 : 3, in the order females to males and with no unit - 1 mark; 3 : 5 reverses the order and earns no final mark. A ratio has no units, so no unit is needed."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-018": 1
+   },
+   "authored_hash": "34225d412ddcb9bb9c6a653f47a3274b38f6ad05ccef2fcafa976b837f6f8098"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-021-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.1-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-018",
+    "CLM-8223-5.1-019"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "A nutrient solution for seedlings is made by mixing concentrate with water in the ratio 1 : 9 to give 2.5 L of solution. Calculate the volume of concentrate needed.",
+   "canonical_answer": "Number of parts = 1 + 9 = 10. One part = 2.5 ÷ 10 = 0.25 L, so the concentrate = 1 × 0.25 = 0.25 L.",
+   "marking_guidance": [
+    "Working: the step 1 + 9 = 10 parts, then the substitution 2.5 ÷ 10 - 1 mark.",
+    "Final answer: 0.25 L of concentrate, with the unit - 1 mark. The answer needs its unit and the significant figures the data justify.",
+    "Dividing 2.5 by 9 gives 0.28 L, which treats the water as the whole, and does not earn the final mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-018": 1,
+    "CLM-8223-5.1-019": 1
+   },
+   "authored_hash": "776f388ce723c57af9de604785f80ac2d834a61ac3f2e2a72d265e27581be381"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-033-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-5.1-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-018"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one feature of a ratio written in its simplest form.",
+   "canonical_answer": "The terms have no common factor larger than 1, and the ratio has no unit.",
+   "marking_guidance": [
+    "1 mark: one feature of a simplified ratio: its terms have no common factor (they are the smallest whole numbers in that ratio), or the ratio has no unit."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-018": 1
+   },
+   "authored_hash": "aab3b7d9983465abf82343373db7031e096cb784c0f35aadb78da2d70beb2b9d"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-041-DIST",
+   "objective_ids": [
+    "OBJ-8223-5.1-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-018",
+    "CLM-8223-5.1-020"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one difference between the ratio 5 : 3 and the fraction 5/8 when both describe the same sample of fish.",
+   "canonical_answer": "The ratio 5 : 3 compares one part with another part, whereas the fraction 5/8 compares one part with the whole.",
+   "marking_guidance": [
+    "1 mark: the difference, part to part for the ratio whereas part to whole for the fraction. Naming only one of them gives no contrast."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-018": 1,
+    "CLM-8223-5.1-020": 1
+   },
+   "authored_hash": "2f6c98b690647a6030b701b24137303939c422c98fb814e44f28656355bcd8d2"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-022-DEF",
+   "objective_ids": [
+    "OBJ-8223-5.1-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-021"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by direct proportion.",
+   "canonical_answer": "Two quantities are in direct proportion when their ratio stays the same, so that doubling one doubles the other.",
+   "marking_guidance": [
+    "1 mark: the definition. Key words: the ratio of the two quantities is constant, or doubling one doubles the other. A decrease of one as the other rises describes inverse proportion."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-021": 1
+   },
+   "authored_hash": "b4c49512d82edb39b81e125b5456abf98e79203b5cbb1c974dfcdfcb0011a9f2"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-023-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.1-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-021",
+    "CLM-8223-5.1-023"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A student counts 168 yeast cells in 3 squares of a counting grid. Assuming the cells are spread evenly over the grid, calculate the number of cells expected in 20 squares.",
+   "canonical_answer": "Cells per square = 168 ÷ 3 = 56, so the number in 20 squares = 56 × 20 = 1120 cells, because the count is in direct proportion to the number of squares.",
+   "marking_guidance": [
+    "Working: the step 168 ÷ 3 = 56 per square, then the substitution 56 × 20 - 1 mark.",
+    "Final answer: 1120 cells (1.12 × 10³), with the unit - 1 mark. The answer needs its unit and the significant figures the data justify.",
+    "The assumption of an even spread is the condition for direct proportion and may be stated for credit."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-021": 1,
+    "CLM-8223-5.1-023": 1
+   },
+   "authored_hash": "19b7a3e32eaf3991b5edbd5a8339bea32224a42ad8a447d98f5471cbc56d2aff"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-024-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.1-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-022",
+    "CLM-8223-5.1-023"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A student has 250 cm³ of sucrose solution at 8.0 g dm⁻³ and adds water to make 400 cm³. The mass of sucrose does not change, so the concentration is in inverse proportion to the volume. Calculate the new concentration.",
+   "canonical_answer": "Concentration × volume stays constant, so the new concentration = 8.0 × 250 ÷ 400 = 5.0 g dm⁻³.",
+   "marking_guidance": [
+    "Working: the product concentration × volume as the constant, with the substitution 8.0 × 250 ÷ 400 - 1 mark.",
+    "Final answer: 5.0 g dm⁻³, two significant figures - 1 mark. The answer needs its unit and the significant figures the data justify.",
+    "An answer of 12.8 g dm⁻³ treats the quantities as directly proportional, and does not earn the final mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-022": 1,
+    "CLM-8223-5.1-023": 1
+   },
+   "authored_hash": "3a05790dfac7127df83467585eb86b05ab8e4c95e42b51a035e5c5899cbf8a97"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-029-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-5.1-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-021"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State one feature of a graph of two quantities that are in direct proportion.",
+   "canonical_answer": "The graph is a straight line that passes through the origin.",
+   "marking_guidance": [
+    "1 mark: the feature, a straight line through the origin (both parts are needed; a curve, or a line that does not pass through the origin, describes a different relationship)."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-021": 1
+   },
+   "authored_hash": "64db6277590ce5c0389344c834021d93b25b4354811178b7b3d3fcfcf6137cae"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-037-DIST",
+   "objective_ids": [
+    "OBJ-8223-5.1-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-021",
+    "CLM-8223-5.1-022"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State one difference between direct proportion and inverse proportion when one quantity is doubled.",
+   "canonical_answer": "In direct proportion the other quantity also doubles, whereas in inverse proportion the other quantity is halved.",
+   "marking_guidance": [
+    "1 mark: the difference, stated for both: doubling one doubles the other for direct proportion, whereas it halves the other for inverse proportion (or the ratio stays constant, whereas the product stays constant)."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-021": 1,
+    "CLM-8223-5.1-022": 1
+   },
+   "authored_hash": "d8c2c0deb31fb4718a9510ed5771a6873488d024c8503353aa9f7ddc5ca5daa6"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-P01",
+   "objective_ids": [
+    "OBJ-8223-5.1-02",
+    "OBJ-8223-5.1-03",
+    "OBJ-8223-5.1-05",
+    "OBJ-8223-5.1-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-004",
+    "CLM-8223-5.1-005",
+    "CLM-8223-5.1-006",
+    "CLM-8223-5.1-007",
+    "CLM-8223-5.1-008",
+    "CLM-8223-5.1-012",
+    "CLM-8223-5.1-013",
+    "CLM-8223-5.1-014",
+    "CLM-8223-5.1-015",
+    "CLM-8223-5.1-016",
+    "CLM-8223-5.1-017"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": null,
+   "mark_tariff": 12,
+   "difficulty": 3,
+   "prompt": "Twelve questions. Choose one option for each.\n\n1. Which is the number 0.00047 written in standard form?\nA  4.7 × 10⁻³\nB  4.7 × 10⁻⁴\nC  4.7 × 10⁴\nD  47 × 10⁻⁵\n\n2. Which of these numbers is the smallest?\nA  9.1 × 10⁻²\nB  1.2 × 10⁻⁴\nC  7.3 × 10⁻⁵\nD  4.0 × 10⁻⁵\n\n3. A cell has a diameter of 2.4 × 10⁻⁵ m. Which is its diameter in decimal form?\nA  0.000024 m\nB  0.00024 m\nC  24 000 m\nD  0.0000024 m\n\n4. How many nanometres are there in 1 micrometre?\nA  10\nB  100\nC  1 000 000\nD  1000\n\n5. Which prefix represents 10⁻³?\nA  kilo\nB  milli\nC  mega\nD  micro\n\n6. A yeast cell is 6.0 µm across. Which is this width in millimetres?\nA  6000 mm\nB  0.6 mm\nC  0.0000060 mm\nD  0.0060 mm\n\n7. Of 60 seeds sown, 45 germinate. What percentage germinated?\nA  25 per cent\nB  133 per cent\nC  0.75 per cent\nD  75 per cent\n\n8. A herd of springbok rises from 400 to 500 animals. What is the percentage increase?\nA  20 per cent\nB  125 per cent\nC  25 per cent\nD  80 per cent\n\n9. The mass of a seedling falls from 2.50 g to 2.00 g. What is the percentage change?\nA  -25 per cent\nB  -20 per cent\nC  +20 per cent\nD  80 per cent\n\n10. A leaf is 25 mm long, measured on a millimetre ruler with an absolute error of ±0.5 mm. What is the percentage error?\nA  0.02 per cent\nB  2.0 per cent\nC  20 per cent\nD  50 per cent\n\n11. Which statement about percentage error is correct, when the same instrument is used?\nA  It is larger for a larger measurement, because there is more to be wrong.\nB  It has the same unit as the measurement.\nC  It is smaller for a larger measurement, because the same absolute error is divided by a larger value.\nD  It is equal to the absolute error.\n\n12. A ruler with an absolute error of ±0.5 mm is used to measure lengths of 10 mm and 40 mm. Which gives the smaller percentage error, and what is it?\nA  the 10 mm length, 5.0 per cent\nB  the 10 mm length, 1.25 per cent\nC  the 40 mm length, 1.25 per cent\nD  the 40 mm length, 5.0 per cent",
+   "canonical_answer": "Key: 1 B, 2 D, 3 A, 4 D, 5 B, 6 D, 7 D, 8 C, 9 B, 10 B, 11 C, 12 C.\n1. The point moves 4 places to the right to leave 4.7, so n = -4 (B). Wrong options: A the decimal point was moved 3 places instead of 4; C the sign of the power is wrong; a number smaller than 1 has a negative power; D 47 is not less than 10, so this is not standard form.\n2. The powers are compared first, and -5 is the lowest; of the two with -5, 4.0 is the smaller (D). Wrong options: A the largest of the four, since its power is the least negative; B larger than 4.0 × 10⁻⁵ because the power -4 is greater than -5; C larger than 4.0 × 10⁻⁵, because the powers are equal and 7.3 is greater than 4.0.\n3. The point moves 5 places to the left of 2.4, giving 0.000024 (A). Wrong options: B the point moved 4 places; C the sign of the power is ignored, so the number grows; D the point moved 6 places.\n4. The factor between neighbouring prefixes in this list is 10³ (D). Wrong options: A 10 is the factor between a centimetre and a millimetre, not between these units; B 100 is the factor between a metre and a centimetre, not between these units; C this is the factor between a micrometre and a metre, not a nanometre.\n5. Milli means one thousandth, 10⁻³ (B). Wrong options: A kilo is 10³; the sign of the power is reversed; C mega is 10⁶; D micro is 10⁻⁶, a thousand times smaller.\n6. 6.0 ÷ 1000 = 0.0060, because 1 mm = 1000 µm (D). Wrong options: A the factor was multiplied when it should divide, since a millimetre is the larger unit; B only divided by 10; C this converts to metres (6.0 × 10⁻⁶ m), not millimetres.\n7. 45 ÷ 60 × 100 = 75 (D). Wrong options: A this is the percentage that failed, 15 ÷ 60 × 100; B the whole was divided by the part, 60 ÷ 45; C 45 ÷ 60 = 0.75 was not multiplied by 100.\n8. 100 ÷ 400 × 100 = 25, so 25 per cent increase (C). Wrong options: A the change, 100, was divided by the new value, 500; B 500 ÷ 400 gives the new value as a percentage of the original, not the change; D the original was divided by the new value, 400 ÷ 500.\n9. The change, -0.50 g, divided by the original 2.50 g and multiplied by 100 gives a decrease of 20 per cent (B). Wrong options: A the change, -0.50, was divided by the new value, 2.00; C the size is right but the sign is wrong for a fall; D this is the new mass as a percentage of the original, not the change.\n10. 0.5 ÷ 25 × 100 = 2.0 (B). Wrong options: A 0.5 ÷ 25 = 0.02 was not multiplied by 100; C a slip in the decimal point of 0.02 when multiplying; D the measurement was divided by the error, 25 ÷ 0.5.\n11. This is the correct relationship (C). Wrong options: A this has the effect reversed; B a percentage error has no unit; D the absolute error has to be divided by the value and multiplied by 100.\n12. 0.5 ÷ 40 × 100 = 1.25, which is smaller than 0.5 ÷ 10 × 100 = 5.0 (C). Wrong options: A this gives the larger percentage error of the two; B this value belongs to the 40 mm length; D this value belongs to the 10 mm length.",
+   "marking_guidance": [
+    "The key: one mark per correct option, twelve marks in all; six questions test recall of a definition, prefix or form and six test application to a described cell, count or measurement.",
+    "Each distractor is a named error: the sign of a power of ten ignored (the misconception register first), a decimal point moved the wrong number of places, a conversion made in the wrong direction, a percentage change divided by the new value, a percentage left without the multiplication by 100."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-004": 1,
+    "CLM-8223-5.1-005": 1,
+    "CLM-8223-5.1-006": 1,
+    "CLM-8223-5.1-007": 1,
+    "CLM-8223-5.1-008": 1,
+    "CLM-8223-5.1-012": 1,
+    "CLM-8223-5.1-013": 1,
+    "CLM-8223-5.1-014": 1,
+    "CLM-8223-5.1-015": 1,
+    "CLM-8223-5.1-016": 1,
+    "CLM-8223-5.1-017": 1
+   },
+   "authored_hash": "9892023b9cc6f4412cfa26ac6e6b0b33e95f39bcb552beefa868719197bf4393"
+  },
+  {
+   "item_id": "ITEM-8223-5.1-P02",
+   "objective_ids": [
+    "OBJ-8223-5.1-04",
+    "OBJ-8223-5.1-05",
+    "OBJ-8223-5.1-06",
+    "OBJ-8223-5.1-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.1-010",
+    "CLM-8223-5.1-011",
+    "CLM-8223-5.1-013",
+    "CLM-8223-5.1-015",
+    "CLM-8223-5.1-016",
+    "CLM-8223-5.1-017",
+    "CLM-8223-5.1-018"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "A class in Rundu grows mahangu seedlings in a tray of 40. These are our readings of the mean shoot height, taken with a ruler marked in millimetres, so each reading is uncertain by ±0.5 mm.\n\n| Day | Mean shoot height / mm |\n|---|---|\n| 0 | 40 |\n| 7 | 46 |\n| 14 | 58 |\n\nOn day 14, 32 seedlings are alive and 8 have died. The total fresh mass of the 32 living seedlings is 26.4 g.\n\n(a) Calculate the percentage increase in mean shoot height between day 0 and day 14. [2]\n(b) Calculate the percentage error in the day 0 reading. [2]\n(c) Suggest why the percentage error in the day 14 reading is smaller than in the day 0 reading. [1]\n(d) State the ratio of living to dead seedlings on day 14 in its simplest form. [1]\n(e) The mean fresh mass of one living seedling is 26.4 g ÷ 32. A student writes 0.8 g. Explain why 0.825 g is a better answer. [2]",
+   "canonical_answer": "(a) Percentage increase = (58 - 40) ÷ 40 × 100. 58 - 40 = 18, then 18 ÷ 40 = 0.45, so the increase is 0.45 × 100 = 45 per cent.\n(b) Percentage error = absolute error ÷ reading × 100 = 0.5 ÷ 40 × 100 = 1.25, so the percentage error is 1.3 per cent to two significant figures (1.25 is accepted).\n(c) The absolute error is the same, ±0.5 mm, but it is divided by a larger reading, 58 mm, so it is a smaller share of the measurement: 0.5 ÷ 58 × 100 = 0.862 per cent.\n(d) 32 : 8, dividing both terms by 8, gives 4 : 1.\n(e) 26.4 ÷ 32 = 0.825 g. The mass 26.4 g has three significant figures, so the answer is justified to three significant figures; 0.8 g has only one, so it has lost accuracy that the measurement supports. The 32 seedlings are counted, so they are exact and do not limit the answer.",
+   "marking_guidance": [
+    "Marks and points: (a) 1 mark for the substitution (58 - 40) ÷ 40 and 1 mark for 45 per cent; (b) 1 mark for the equation with the substitution 0.5 ÷ 40 × 100 and 1 mark for 1.3 per cent (or 1.25), with no unit; (c) 1 mark from two points: the absolute error is the same, and it is divided by a larger reading.",
+    "(d) 1 mark for 4 : 1; 1 : 4 reverses the order and earns no mark. (e) 2 marks from three points: the mass has three significant figures, so the answer is given to three (1); one significant figure loses accuracy (1); the count of 32 is exact, so does not limit the figures (1).",
+    "Parts (a), (b) and (e) credit AO B (6 marks); parts (c) and (d) credit AO A (2 marks). Each part carries its own marks and the unit or term must match the question."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.1 from the topic 5.1 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.1-010": 1,
+    "CLM-8223-5.1-011": 1,
+    "CLM-8223-5.1-013": 1,
+    "CLM-8223-5.1-015": 1,
+    "CLM-8223-5.1-016": 1,
+    "CLM-8223-5.1-017": 1,
+    "CLM-8223-5.1-018": 1
+   },
+   "authored_hash": "2d89741fa1fd06263345106a84c47cdc1ab03e92f43048b20d10a317a27177d9"
+  }
+ ]
+}

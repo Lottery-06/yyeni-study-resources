@@ -1,0 +1,1594 @@
+{
+ "register_id": "MISCON-NAM-NSSCAS-8223",
+ "generated_at": "2026-10-18T12:00:13Z",
+ "authority": "NSSCAS Examiners Reports 2021, 2022, 2024 and 2025 (Biology 8223). 2023 has no report. Each entry is a confusion an examiner report states candidates made.",
+ "derivation_policy": "Curated by hand from the located examiner statements (126 raw statements tagged as misconceptions, plus omissions) and restated in our words. No examiner-report wording appears in learner-facing output. Answering habits, practical mishaps, language slips, and statements where the board's own account looks doubtful were left out.",
+ "how_to_use": "Every entry earns one MISCON card on its objective. A MISCON card is a DISCRIMINATION: the error, the correct idea, and the test that tells them apart (the test field). The correct idea (b) is our statement of standard biology consistent with the syllabus, not a board quotation; it needs the two-source verification in the plan before any card is published.",
+ "kinds": {
+  "near_neighbour_term": "Two terms that share most of their wording or meaning.",
+  "adjacent_concept": "Two different concepts that sit near each other in the syllabus.",
+  "wrong_angle_same_concept": "The right concept answered from the wrong angle, or a step of it done wrongly."
+ },
+ "entries": [
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-1.1-01",
+   "topic_id": "1.1",
+   "objective_id": "OBJ-8223-1.1-05",
+   "objective_text": "discuss the meaning of the term species, limited to the biological, morphological, ecological and behavioural concepts",
+   "a": "Treating 'organism' and 'species' as the same thing when explaining the species concept",
+   "b": "A species is a group of organisms that share features (or can interbreed); an organism is one individual placed into a species",
+   "kind": "near_neighbour_term",
+   "test": "Is it describing one individual, or the group that individual is placed in?",
+   "n": 1,
+   "series": [
+    2024
+   ],
+   "evidence": [
+    "EV-8223-2024-P2-Q1b-i"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-1.1-02",
+   "topic_id": "1.1",
+   "objective_id": "OBJ-8223-1.1-05",
+   "objective_text": "discuss the meaning of the term species, limited to the biological, morphological, ecological and behavioural concepts",
+   "a": "Describing the morphological species concept as resting on biochemical or genetic features",
+   "b": "The morphological species concept groups organisms by shared observable structural features",
+   "kind": "near_neighbour_term",
+   "test": "Could it be applied to a preserved specimen with only its shape to go on?",
+   "n": 1,
+   "series": [
+    2024
+   ],
+   "evidence": [
+    "EV-8223-2024-P2-Q1b-ii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-1.1-03",
+   "topic_id": "1.1",
+   "objective_id": "OBJ-8223-1.1-05",
+   "objective_text": "discuss the meaning of the term species, limited to the biological, morphological, ecological and behavioural concepts",
+   "a": "Choosing the biological species concept to classify fossils",
+   "b": "The biological species concept depends on interbreeding, which cannot be tested in fossils; the morphological concept uses structure and can be",
+   "kind": "adjacent_concept",
+   "test": "Can the organisms be observed breeding?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P1-Q2"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-1.1-04",
+   "topic_id": "1.1",
+   "objective_id": "OBJ-8223-1.1-01",
+   "objective_text": "use and describe the binomial system of naming organisms",
+   "a": "Swapping the two parts of a binomial name or not knowing which is the genus",
+   "b": "The first name is the genus (capital letter); the second is the species (lower case); closely related species share a genus",
+   "kind": "near_neighbour_term",
+   "test": "Which word would two closely related species share?",
+   "n": 1,
+   "series": [
+    2024
+   ],
+   "evidence": [
+    "EV-8223-2024-P2-Q1c-i"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-1.2-01",
+   "topic_id": "1.2",
+   "objective_id": "OBJ-8223-1.2-05",
+   "objective_text": "describe and usesuitable methods to assess the distribution and abundance of organisms in an area, limited to frame quadrats, line transects, belttransects and mark-release-recapture using the Lincoln index (as shown in the Mathematical requirements)",
+   "a": "Using 'transect' and 'quadrat' as synonyms, and treating a transect as random sampling",
+   "b": "A quadrat is a frame marking out a sample area; a transect is a line along which samples are taken, placed deliberately to show change across a gradient",
+   "kind": "near_neighbour_term",
+   "test": "Is the sampling position chosen along a line on purpose, or at random?",
+   "n": 1,
+   "series": [
+    2024
+   ],
+   "evidence": [
+    "EV-8223-2024-P2-Q1a"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-1.2-02",
+   "topic_id": "1.2",
+   "objective_id": "OBJ-8223-1.2-02",
+   "objective_text": "explain that biodiversity can be assessed at differentlevels: - the number and range of different ecosystems and habitats - the number of species and their relative abundance - the genetic variation within each species",
+   "a": "Judging biodiversity by the total number of organisms, or by the number of species alone",
+   "b": "Biodiversity depends on how many species there are and how evenly individuals are spread between them (as well as habitat and genetic variation)",
+   "kind": "adjacent_concept",
+   "test": "Two samples each hold 100 individuals: one is 99 of one species plus 1 of another. Which is more diverse?",
+   "n": 1,
+   "series": [
+    2024
+   ],
+   "evidence": [
+    "EV-8223-2024-P2-Q1d-i"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-1.2-03",
+   "topic_id": "1.2",
+   "objective_id": "OBJ-8223-1.2-04",
+   "objective_text": "use Simpson's Index of Diversity (D) to calculate the biodiversity of an area, and state the significance of different values of D (the formula for Simpson's Index of Diversity will be provided, as shown in the Mathematical requirements) (formula: D = 1 – (Ʃ )2 )",
+   "a": "Reading a Simpson's index value without knowing what high and low values mean",
+   "b": "A value of D closer to 1 means higher diversity: many species with individuals spread fairly evenly",
+   "kind": "wrong_angle_same_concept",
+   "test": "Does a high D mean a few dominant species, or many evenly spread species?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P1-Q3"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-1.2-04",
+   "topic_id": "1.2",
+   "objective_id": "OBJ-8223-1.2-01",
+   "objective_text": "define ecosystem and niche",
+   "a": "Confusing habitat with niche, or leaving feeding relationships out of a niche",
+   "b": "A habitat is where an organism lives; a niche is its role: the conditions it tolerates, the resources it uses and its feeding and other interactions with organisms",
+   "kind": "near_neighbour_term",
+   "test": "Is it a place, or what the organism does and needs in that place?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P1-Q4"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-1.2-05",
+   "topic_id": "1.2",
+   "objective_id": "OBJ-8223-1.2-06",
+   "objective_text": "investigate the distribution and abundance of species in a local area,using the methods above/ suitable methods",
+   "a": "Giving a population estimate as a fraction or decimal",
+   "b": "Individuals are counted in whole numbers, so an estimate is rounded to a whole number",
+   "kind": "wrong_angle_same_concept",
+   "test": "Can there be 36.5 beans in a bag?",
+   "n": 1,
+   "series": [
+    2024
+   ],
+   "evidence": [
+    "EV-8223-2024-P3-Q1a-ii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-1.2-06",
+   "topic_id": "1.2",
+   "objective_id": "OBJ-8223-1.2-06",
+   "objective_text": "investigate the distribution and abundance of species in a local area,using the methods above/ suitable methods",
+   "a": "Writing that animals 'feed on grazers and browsers' instead of being grazers or browsers",
+   "b": "Grazers feed mainly on grass; browsers feed on leaves and shoots of shrubs and trees; the word names the animal's feeding type, not its food",
+   "kind": "near_neighbour_term",
+   "test": "Does the word name the animal or its food?",
+   "n": 1,
+   "series": [
+    2024
+   ],
+   "evidence": [
+    "EV-8223-2024-P3-Q1c-i"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-1.2-07",
+   "topic_id": "1.2",
+   "objective_id": "OBJ-8223-1.2-06",
+   "objective_text": "investigate the distribution and abundance of species in a local area,using the methods above/ suitable methods",
+   "a": "Suggesting culling or contraception as a way to deal with an anomalous result in a data set",
+   "b": "An anomalous result is dealt with in the data (check, repeat, exclude and say so); culling or contraception manages animal populations in the field",
+   "kind": "adjacent_concept",
+   "test": "Is the action applied to the data or to the animals?",
+   "n": 1,
+   "series": [
+    2024
+   ],
+   "evidence": [
+    "EV-8223-2024-P3-Q1c-ii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-1.3-01",
+   "topic_id": "1.3",
+   "objective_id": "OBJ-8223-1.3-06",
+   "objective_text": "describe how degraded habitats may be restored limited to local or regional examples",
+   "a": "Choosing 'create more nature reserves' as the way to restore a habitat that is already degraded",
+   "b": "Reserves protect habitat that still exists; restoring degraded habitat needs active work on the damaged land, such as replanting and removing alien species",
+   "kind": "adjacent_concept",
+   "test": "Is the habitat still intact, or already damaged?",
+   "n": 1,
+   "series": [
+    2024
+   ],
+   "evidence": [
+    "EV-8223-2024-P1-Q3"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.1-01",
+   "topic_id": "2.1",
+   "objective_id": "OBJ-8223-2.1-02",
+   "objective_text": "explain and distinguish between resolution and magnification, with reference to light-and electron microscope",
+   "a": "Confusing magnification with resolution, or saying the image has high resolution instead of the microscope",
+   "b": "Magnification is how many times larger the image is than the object; resolution is the smallest distance at which two points still appear separate, and it belongs to the microscope",
+   "kind": "near_neighbour_term",
+   "test": "Does making an image bigger show any more detail?",
+   "n": 2,
+   "series": [
+    2024,
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P1-Q5",
+    "EV-8223-2024-P2-Q2a"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.1-02",
+   "topic_id": "2.1",
+   "objective_id": "OBJ-8223-2.1-01",
+   "objective_text": "state and explain the principles of microscopy",
+   "a": "Not knowing that a scanning electron microscope shows surface detail only",
+   "b": "A scanning electron microscope shows the surface in three dimensions; a transmission electron microscope shows the inside of a thin section",
+   "kind": "adjacent_concept",
+   "test": "Does the micrograph show a surface or an interior?",
+   "n": 1,
+   "series": [
+    2024
+   ],
+   "evidence": [
+    "EV-8223-2024-P2-Q2a"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-4.2-01",
+   "topic_id": "4.2",
+   "objective_id": "OBJ-8223-4.2-04",
+   "objective_text": "obtain actual sizes of tissues or cells using a calibrated eyepiece graticule, by measuring the tissues or cells to obtain a mean measurement, using the correct units for microscopy",
+   "a": "Converting between millimetres and micrometres incorrectly, or not scaling an eyepiece division against the stage micrometer",
+   "b": "1 mm = 1000 micrometres; calibrate by comparing a count of eyepiece divisions with the matching stage micrometer reading, then find micrometres per division",
+   "kind": "wrong_angle_same_concept",
+   "test": "How many micrometres are 0.4 mm, and how many micrometres is one eyepiece division if 20 divisions match 0.2 mm?",
+   "n": 2,
+   "series": [
+    2024,
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2024-P3-Q2a-i",
+    "EV-8223-2025-P1-Q6"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.1-03",
+   "topic_id": "2.1",
+   "objective_id": "OBJ-8223-2.1-05",
+   "objective_text": "calculate the linear magnifications of drawings, photomicrographs and electron micrographs",
+   "a": "Quoting only the eyepiece lens or only the objective lens as the magnification",
+   "b": "Total magnification is the eyepiece magnification multiplied by the objective magnification",
+   "kind": "wrong_angle_same_concept",
+   "test": "Eyepiece x10, objective x40: what is the total?",
+   "n": 1,
+   "series": [
+    2021
+   ],
+   "evidence": [
+    "EV-8223-2021-P3-Q2a-i"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.2-01",
+   "topic_id": "2.2",
+   "objective_id": "OBJ-8223-2.2-01",
+   "objective_text": "identify and recognise the following parts of a eukaryotic cell and outline the functions of the: - cell surface membrane - nucleus, nuclear envelope and nucleolus - mitochondrion - ribosomes (80S in the cytoplasm and 70S in chloroplasts and mitochondria) - chloroplast - rough and smooth endoplasmic reticulum - Golgi body (Golgi apparatus or Golgi complex) - lysosomes - cell wall - centrioles - cilia - microvilli - plasmodesmata - large permanent vacuoles and - tonoplast",
+   "a": "Mixing up organelles, cells and organisms, for example calling microvilli or villi cells",
+   "b": "Organelles sit inside cells; cells build tissues and organisms; microvilli are folds of the cell surface membrane and villi are folds of the gut lining",
+   "kind": "near_neighbour_term",
+   "test": "Is it a structure inside a cell, a whole cell, or a whole organism?",
+   "n": 1,
+   "series": [
+    2021
+   ],
+   "evidence": [
+    "EV-8223-2021-P2-Q1d"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.2-02",
+   "topic_id": "2.2",
+   "objective_id": "OBJ-8223-2.2-01",
+   "objective_text": "identify and recognise the following parts of a eukaryotic cell and outline the functions of the: - cell surface membrane - nucleus, nuclear envelope and nucleolus - mitochondrion - ribosomes (80S in the cytoplasm and 70S in chloroplasts and mitochondria) - chloroplast - rough and smooth endoplasmic reticulum - Golgi body (Golgi apparatus or Golgi complex) - lysosomes - cell wall - centrioles - cilia - microvilli - plasmodesmata - large permanent vacuoles and - tonoplast",
+   "a": "Calling microvilli cilia",
+   "b": "Microvilli are small projections that increase surface area for absorption; cilia are longer and beat to move material",
+   "kind": "near_neighbour_term",
+   "test": "Does it absorb, or does it move material along?",
+   "n": 1,
+   "series": [
+    2024
+   ],
+   "evidence": [
+    "EV-8223-2024-P2-Q2c-iv"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.2-03",
+   "topic_id": "2.2",
+   "objective_id": "OBJ-8223-2.2-01",
+   "objective_text": "identify and recognise the following parts of a eukaryotic cell and outline the functions of the: - cell surface membrane - nucleus, nuclear envelope and nucleolus - mitochondrion - ribosomes (80S in the cytoplasm and 70S in chloroplasts and mitochondria) - chloroplast - rough and smooth endoplasmic reticulum - Golgi body (Golgi apparatus or Golgi complex) - lysosomes - cell wall - centrioles - cilia - microvilli - plasmodesmata - large permanent vacuoles and - tonoplast",
+   "a": "Swapping the Golgi apparatus and the endoplasmic reticulum",
+   "b": "Rough ER is a continuous network of flattened sacs studded with ribosomes; the Golgi is a stack of flattened sacs that pinches off vesicles",
+   "kind": "near_neighbour_term",
+   "test": "Continuous network or stack with vesicles?",
+   "n": 1,
+   "series": [
+    2024
+   ],
+   "evidence": [
+    "EV-8223-2024-P2-Q2c-ii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.2-04",
+   "topic_id": "2.2",
+   "objective_id": "OBJ-8223-2.2-08",
+   "objective_text": "compare and contrast the structure of prokaryotic cells with eukaryotic cells (no reference to mesosomes required)",
+   "a": "Giving 'animal cell' or 'bacterium', or a domain name, when asked for the two cell types",
+   "b": "The two cell types are eukaryotic (with membrane-bound organelles and a nucleus) and prokaryotic (without)",
+   "kind": "adjacent_concept",
+   "test": "Does the cell have a nucleus and membrane-bound organelles?",
+   "n": 1,
+   "series": [
+    2024
+   ],
+   "evidence": [
+    "EV-8223-2024-P2-Q2c-iii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.2-05",
+   "topic_id": "2.2",
+   "objective_id": "OBJ-8223-2.2-01",
+   "objective_text": "identify and recognise the following parts of a eukaryotic cell and outline the functions of the: - cell surface membrane - nucleus, nuclear envelope and nucleolus - mitochondrion - ribosomes (80S in the cytoplasm and 70S in chloroplasts and mitochondria) - chloroplast - rough and smooth endoplasmic reticulum - Golgi body (Golgi apparatus or Golgi complex) - lysosomes - cell wall - centrioles - cilia - microvilli - plasmodesmata - large permanent vacuoles and - tonoplast",
+   "a": "Putting the Golgi apparatus before protein synthesis in the route of a secreted protein",
+   "b": "The gene in the nucleus is copied to mRNA; ribosomes on rough ER make the protein; the Golgi then modifies and packages it",
+   "kind": "adjacent_concept",
+   "test": "Which structure makes the polypeptide, and which processes it afterwards?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P1-Q8"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.2-06",
+   "topic_id": "2.2",
+   "objective_id": "OBJ-8223-2.2-01",
+   "objective_text": "identify and recognise the following parts of a eukaryotic cell and outline the functions of the: - cell surface membrane - nucleus, nuclear envelope and nucleolus - mitochondrion - ribosomes (80S in the cytoplasm and 70S in chloroplasts and mitochondria) - chloroplast - rough and smooth endoplasmic reticulum - Golgi body (Golgi apparatus or Golgi complex) - lysosomes - cell wall - centrioles - cilia - microvilli - plasmodesmata - large permanent vacuoles and - tonoplast",
+   "a": "Placing 70S ribosomes in the cytoplasm of eukaryotic cells",
+   "b": "Eukaryotic cytoplasm has 80S ribosomes; 70S ribosomes are in prokaryotes, mitochondria and chloroplasts",
+   "kind": "near_neighbour_term",
+   "test": "Which cell or organelle holds 70S ribosomes?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P1-Q9"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-4.2-02",
+   "topic_id": "4.2",
+   "objective_id": "OBJ-8223-4.2-06",
+   "objective_text": "observations by drawing the distribution of tissues in a specimen, as plan diagrams, with no cells drawn and correct proportions of layers of tissues",
+   "a": "Drawing individual cells in a plan diagram",
+   "b": "A plan diagram shows the outlines and layout of tissues only; individual cells are drawn in a high-power drawing",
+   "kind": "near_neighbour_term",
+   "test": "Does the drawing show cell outlines, or only tissue regions?",
+   "n": 2,
+   "series": [
+    2021,
+    2022
+   ],
+   "evidence": [
+    "EV-8223-2022-P3-Q2a-i",
+    "EV-8223-2021-P3-Q2c-i"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.3.1-01",
+   "topic_id": "2.3.1",
+   "objective_id": "OBJ-8223-2.3.1-03",
+   "objective_text": "describe the roles in cell surface membranes of phospholipids, cholesterol, carrierproteins, channelproteins, cell surface receptors and cell surface antigens",
+   "a": "Giving cholesterol the job of the phospholipid heads",
+   "b": "Phospholipid heads are polar and face the water; cholesterol sits among the fatty acid tails and regulates membrane fluidity",
+   "kind": "near_neighbour_term",
+   "test": "Which part faces water, and which sits among the tails?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P1-Q11"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.3.1-02",
+   "topic_id": "2.3.1",
+   "objective_id": "OBJ-8223-2.3.1-01",
+   "objective_text": "describe the fluid mosaic model of membrane structure, including the components phospholipids, cholesterol, glycolipids, proteins and glycoproteins",
+   "a": "Explaining the polar head of a phospholipid by the glycerol",
+   "b": "The head is polar because of the phosphate group; glycerol joins the head to the fatty acids",
+   "kind": "near_neighbour_term",
+   "test": "Which part of the molecule carries the charge?",
+   "n": 1,
+   "series": [
+    2022
+   ],
+   "evidence": [
+    "EV-8223-2022-P2-Q4a-ii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.3.1-03",
+   "topic_id": "2.3.1",
+   "objective_id": "OBJ-8223-2.3.1-01",
+   "objective_text": "describe the fluid mosaic model of membrane structure, including the components phospholipids, cholesterol, glycolipids, proteins and glycoproteins",
+   "a": "Calling the bilayer of a cell surface membrane a 'double membrane'",
+   "b": "A cell is bounded by one membrane made of a double layer of phospholipids; a double membrane is the envelope of an organelle such as the nucleus",
+   "kind": "near_neighbour_term",
+   "test": "How many membranes bound the cell, and how many layers of phospholipid make it?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P2-Q1a-i"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.3.1-04",
+   "topic_id": "2.3.1",
+   "objective_id": "OBJ-8223-2.3.1-04",
+   "objective_text": "outline the process of cell signalling involving the release of chemicals that combine with cell surface receptors on target cells, leading to specific responses",
+   "a": "Treating cell signalling as a nerve impulse or a reflex arc, or naming the signalling cell instead of the signalling molecule",
+   "b": "In cell signalling a chemical released by one cell binds to a receptor on a target cell and changes what it does; the signal is the molecule",
+   "kind": "adjacent_concept",
+   "test": "Is the signal a molecule binding a receptor, or an electrical impulse along a neurone?",
+   "n": 2,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P2-Q1b-i",
+    "EV-8223-2025-P2-Q1b-iii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.3.2-01",
+   "topic_id": "2.3.2",
+   "objective_id": "OBJ-8223-2.3.2-03",
+   "objective_text": "calculate surface areas and volumes of simple shapes (e.g. cubes) to illustrate the principle that surface area to volume ratios decrease with increasing size",
+   "a": "Answering a surface-area-to-volume question about the size of the whole organism instead of the cell",
+   "b": "The ratio that matters is that of the cell, because substances cross the cell surface membrane",
+   "kind": "wrong_angle_same_concept",
+   "test": "Which surface do substances cross to reach a cell's contents?",
+   "n": 1,
+   "series": [
+    2021
+   ],
+   "evidence": [
+    "EV-8223-2021-P2-Q1c"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.3.2-02",
+   "topic_id": "2.3.2",
+   "objective_id": "OBJ-8223-2.3.2-01",
+   "objective_text": "describe and explain the processes of diffusion, facilitated diffusion, osmosis, active transport, endocytosis and exocytosis (no calculations involving water potential will be set)",
+   "a": "Naming diffusion or osmosis for bulk uptake into a cell, or confusing endosmosis with endocytosis",
+   "b": "Endocytosis takes in material in vesicles formed from the membrane and needs energy; osmosis is water movement down a water potential gradient",
+   "kind": "near_neighbour_term",
+   "test": "Does the cell enclose the material in a vesicle, or does water simply move across?",
+   "n": 1,
+   "series": [
+    2024
+   ],
+   "evidence": [
+    "EV-8223-2024-P2-Q2c-i"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.3.2-03",
+   "topic_id": "2.3.2",
+   "objective_id": "OBJ-8223-2.3.2-01",
+   "objective_text": "describe and explain the processes of diffusion, facilitated diffusion, osmosis, active transport, endocytosis and exocytosis (no calculations involving water potential will be set)",
+   "a": "Saying cells differ in membrane thickness to explain how fast substances cross",
+   "b": "All cell surface membranes are the same phospholipid bilayer; the diffusion distance depends on cell size and layers of cells",
+   "kind": "adjacent_concept",
+   "test": "Does the membrane change, or the distance to travel?",
+   "n": 2,
+   "series": [
+    2022,
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2022-P2-Q1a",
+    "EV-8223-2025-P2-Q1c-ii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-5.1-01",
+   "topic_id": "5.1",
+   "objective_id": "OBJ-8223-5.1-02",
+   "objective_text": "recognise and use expressions in decimal and standard form",
+   "a": "Treating 1.6 x 10^-8 as larger than 1.6 x 10^-2",
+   "b": "A more negative power of ten is a smaller number",
+   "kind": "wrong_angle_same_concept",
+   "test": "Which is smaller, 1.6 x 10^-8 or 1.6 x 10^-2?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P2-Q1c-i"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.3.2-04",
+   "topic_id": "2.3.2",
+   "objective_id": "OBJ-8223-2.3.2-03",
+   "objective_text": "calculate surface areas and volumes of simple shapes (e.g. cubes) to illustrate the principle that surface area to volume ratios decrease with increasing size",
+   "a": "Calling Paramecium a bacterium or virus, or giving it a cell wall",
+   "b": "Paramecium is a single-celled animal-like organism; animal-like cells have no cell wall",
+   "kind": "adjacent_concept",
+   "test": "Does an animal cell have a cell wall?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P2-Q1c-ii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.3.2-05",
+   "topic_id": "2.3.2",
+   "objective_id": "OBJ-8223-2.3.2-03",
+   "objective_text": "calculate surface areas and volumes of simple shapes (e.g. cubes) to illustrate the principle that surface area to volume ratios decrease with increasing size",
+   "a": "Saying an earthworm needs a circulatory system because it lives underground",
+   "b": "A large multicellular body needs a transport system because diffusion over its thickness is too slow, whatever the habitat",
+   "kind": "wrong_angle_same_concept",
+   "test": "Is the reason about habitat, or about how far substances must diffuse?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P2-Q1c-ii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.3.2-06",
+   "topic_id": "2.3.2",
+   "objective_id": "OBJ-8223-2.3.2-01",
+   "objective_text": "describe and explain the processes of diffusion, facilitated diffusion, osmosis, active transport, endocytosis and exocytosis (no calculations involving water potential will be set)",
+   "a": "Claiming active transport from concentration data alone",
+   "b": "Active transport needs evidence of movement against the concentration gradient and of energy use, which concentration figures alone do not give",
+   "kind": "wrong_angle_same_concept",
+   "test": "What extra evidence would show energy is being used?",
+   "n": 1,
+   "series": [
+    2021
+   ],
+   "evidence": [
+    "EV-8223-2021-P2-Q6a-i"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.4.1-01",
+   "topic_id": "2.4.1",
+   "objective_id": "OBJ-8223-2.4.1-02",
+   "objective_text": "describe and draw the ring forms of α-glucose and ᵦ-glucose",
+   "a": "Mixing up hydroxyl and carboxyl groups, or saying alpha and beta glucose differ in the number of rings",
+   "b": "Both isomers have one ring; they differ in whether the -OH on carbon 1 points below the ring (alpha) or above it (beta)",
+   "kind": "near_neighbour_term",
+   "test": "Where is the -OH on carbon 1 in alpha glucose?",
+   "n": 1,
+   "series": [
+    2021
+   ],
+   "evidence": [
+    "EV-8223-2021-P2-Q2a-ii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.4.1-02",
+   "topic_id": "2.4.1",
+   "objective_id": "OBJ-8223-2.4.1-06",
+   "objective_text": "describe the molecular structure of the polysaccharide cellulose and outline how the arrangement of cellulose molecules contributes to the function of plant cell walls",
+   "a": "Saying hydrogen bonds join the glucose units into a cellulose chain",
+   "b": "Glycosidic bonds join the units; hydrogen bonds link neighbouring chains and make the fibre strong",
+   "kind": "near_neighbour_term",
+   "test": "Which bond is within a chain and which is between chains?",
+   "n": 1,
+   "series": [
+    2021
+   ],
+   "evidence": [
+    "EV-8223-2021-P2-Q2b-ii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.4.1-03",
+   "topic_id": "2.4.1",
+   "objective_id": "OBJ-8223-2.4.1-09",
+   "objective_text": "describe and carry out the Benedict's test for reducing sugars, the iodine test for starch and the emulsion test for lipids",
+   "a": "Using a brown iodine result as evidence that sugar has formed",
+   "b": "Brown iodine shows only that starch is absent; the product, a reducing sugar, is shown by Benedict's test",
+   "kind": "adjacent_concept",
+   "test": "Is the evidence that starch has gone, or that sugar has appeared?",
+   "n": 1,
+   "series": [
+    2024
+   ],
+   "evidence": [
+    "EV-8223-2024-P1-Q11"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.4.1-04",
+   "topic_id": "2.4.1",
+   "objective_id": "OBJ-8223-2.4.1-07",
+   "objective_text": "describe the molecular structure of a triglyceride with reference to the formation of ester bonds and relate the structure of triglycerides to their functions in living organisms",
+   "a": "Linking ester bonds to carbohydrates",
+   "b": "Ester bonds join fatty acids to glycerol in triglycerides; glycosidic bonds join sugars",
+   "kind": "near_neighbour_term",
+   "test": "Which bond joins sugars and which joins fatty acids to glycerol?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P1-Q12"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.4.1-05",
+   "topic_id": "2.4.1",
+   "objective_id": "OBJ-8223-2.4.1-06",
+   "objective_text": "describe the molecular structure of the polysaccharide cellulose and outline how the arrangement of cellulose molecules contributes to the function of plant cell walls",
+   "a": "Explaining the strength of cellulose by solubility or pH effects",
+   "b": "Cellulose is strong because many hydrogen bonds hold parallel chains together in microfibrils",
+   "kind": "wrong_angle_same_concept",
+   "test": "What holds the chains together to resist stretching?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P1-Q16"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.4.2-01",
+   "topic_id": "2.4.2",
+   "objective_id": "OBJ-8223-2.4.2-07",
+   "objective_text": "explain that water is a polar molecule and explain how hydrogen bonding occurs between water molecules",
+   "a": "Describing hydrogen bonds as the bonds inside a water molecule",
+   "b": "The bonds inside a water molecule are covalent; hydrogen bonds form between the slightly positive hydrogen of one molecule and the slightly negative oxygen of another",
+   "kind": "near_neighbour_term",
+   "test": "Is the bond within one molecule or between two?",
+   "n": 1,
+   "series": [
+    2021
+   ],
+   "evidence": [
+    "EV-8223-2021-P2-Q2b-iii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.4.2-02",
+   "topic_id": "2.4.2",
+   "objective_id": "OBJ-8223-2.4.2-04",
+   "objective_text": "describe the molecular structure of haemoglobin as an example of a globular protein, and of collagen as an example of a fibrous protein and relate these structures to their functions (appreciate that the haemoglobin molecule is composed of two alpha (α) chains and two beta (β) chains, although when describing the chains the terms α-globin and β-globin may be used. There should be a distinction between collagen molecules and collagen fibres)",
+   "a": "Describing the red blood cell when asked about the haemoglobin molecule, or giving 'an ion' for the haem iron",
+   "b": "Haemoglobin has four polypeptide chains, each with one haem group holding one Fe2+ ion that binds one oxygen molecule",
+   "kind": "wrong_angle_same_concept",
+   "test": "How many haem groups does one haemoglobin molecule have?",
+   "n": 1,
+   "series": [
+    2022
+   ],
+   "evidence": [
+    "EV-8223-2022-P2-Q1b"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.4.2-03",
+   "topic_id": "2.4.2",
+   "objective_id": "OBJ-8223-2.4.2-01",
+   "objective_text": "describe the structure of an amino acid and the formation and breakage of a peptide bond",
+   "a": "Calling the bond in a dipeptide a 'dipeptide bond'",
+   "b": "A dipeptide is two amino acids joined by a peptide bond formed by condensation between the carboxyl group of one and the amino group of the other",
+   "kind": "near_neighbour_term",
+   "test": "What is the bond called, and which groups form it?",
+   "n": 1,
+   "series": [
+    2024
+   ],
+   "evidence": [
+    "EV-8223-2024-P2-Q3a"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.4.2-04",
+   "topic_id": "2.4.2",
+   "objective_id": "OBJ-8223-2.4.2-02",
+   "objective_text": "explain the meaning of the terms primary structure, secondarystructure, tertiary structure and quaternary structure of proteins",
+   "a": "Including R groups when explaining secondary structure",
+   "b": "Secondary structure comes from hydrogen bonds along the polypeptide backbone; R-group interactions belong to tertiary structure",
+   "kind": "adjacent_concept",
+   "test": "Do the R groups or the backbone form the hydrogen bonds of an alpha helix?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P1-Q15"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.4.2-05",
+   "topic_id": "2.4.2",
+   "objective_id": "OBJ-8223-2.4.2-03",
+   "objective_text": "describe the types of bonding (hydrogen,ionic, disulfide and hydrophobic interactions) that hold these molecules in shape",
+   "a": "Confusing hydrogen bonds with disulfide bonds",
+   "b": "A disulfide bond is a strong covalent bond between sulfur atoms of two cysteines; hydrogen bonds are individually weak",
+   "kind": "near_neighbour_term",
+   "test": "Which is a covalent bond, and between which atoms?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P1-Q30"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.4.2-06",
+   "topic_id": "2.4.2",
+   "objective_id": "OBJ-8223-2.4.2-07",
+   "objective_text": "explain that water is a polar molecule and explain how hydrogen bonding occurs between water molecules",
+   "a": "Mixing up cohesion and adhesion",
+   "b": "Cohesion is water molecules attracted to each other by hydrogen bonds; adhesion is water attracted to other surfaces such as cell walls",
+   "kind": "near_neighbour_term",
+   "test": "Is the attraction between water molecules or between water and another surface?",
+   "n": 1,
+   "series": [
+    2024
+   ],
+   "evidence": [
+    "EV-8223-2024-P1-Q19"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.4.2-07",
+   "topic_id": "2.4.2",
+   "objective_id": "OBJ-8223-2.4.2-06",
+   "objective_text": "carry out biuret test to identify the content of solutions, food substances and biological specimens",
+   "a": "Giving Benedict's or iodine tests when asked how to test for protein",
+   "b": "The biuret test is for protein; Benedict's is for reducing sugar and iodine is for starch",
+   "kind": "near_neighbour_term",
+   "test": "Which test gives a violet colour with protein?",
+   "n": 1,
+   "series": [
+    2021
+   ],
+   "evidence": [
+    "EV-8223-2021-P3-Q1f"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.5.2-01",
+   "topic_id": "2.5.2",
+   "objective_id": "OBJ-8223-2.5.2-01",
+   "objective_text": "investigate and explain the factors that affect the rate of enzyme catalysed reactions - temperature, - pH (using buffer solutions) - enzyme concentration - substrate concentration - inhibitor concentration)",
+   "a": "Believing the reaction stops at the optimum temperature or pH",
+   "b": "At the optimum the enzyme works fastest; the rate falls on either side of it",
+   "kind": "adjacent_concept",
+   "test": "What happens to the rate just below and just above the optimum?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P2-Q4a"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.5.1-01",
+   "topic_id": "2.5.1",
+   "objective_id": "OBJ-8223-2.5.1-03",
+   "objective_text": "explain the mode of enzyme action in terms of an active site, enzyme- substrate complex, lowering of activation energy and enzyme specificity (the lock and key hypothesis and theinduced fit hypothesis should be included)",
+   "a": "Thinking enzymes are used up, or that substrate concentration rises as a reaction starts",
+   "b": "An enzyme is released unchanged and used again; substrate only falls as it is converted, while enzyme-substrate complexes stay at a steady level until substrate runs low",
+   "kind": "adjacent_concept",
+   "test": "What happens to the enzyme when the product leaves?",
+   "n": 2,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P2-Q4c-i",
+    "EV-8223-2025-P2-Q4c-ii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.5.2-02",
+   "topic_id": "2.5.2",
+   "objective_id": "OBJ-8223-2.5.2-01",
+   "objective_text": "investigate and explain the factors that affect the rate of enzyme catalysed reactions - temperature, - pH (using buffer solutions) - enzyme concentration - substrate concentration - inhibitor concentration)",
+   "a": "Saying any pH change denatures an enzyme",
+   "b": "Far from the optimum, the shape is lost permanently (denaturation); close to it, the active site changes shape reversibly and the rate falls",
+   "kind": "adjacent_concept",
+   "test": "Is the change permanent, and how far from the optimum is it?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P2-Q4b-iii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.5.2-03",
+   "topic_id": "2.5.2",
+   "objective_id": "OBJ-8223-2.5.2-01",
+   "objective_text": "investigate and explain the factors that affect the rate of enzyme catalysed reactions - temperature, - pH (using buffer solutions) - enzyme concentration - substrate concentration - inhibitor concentration)",
+   "a": "Assuming a rise to 35 C denatures a human digestive enzyme",
+   "b": "35 C is below the optimum of about 37 C, so the rate increases; denaturation needs temperatures well above the optimum",
+   "kind": "adjacent_concept",
+   "test": "Is 35 C above or below this enzyme's optimum?",
+   "n": 1,
+   "series": [
+    2022
+   ],
+   "evidence": [
+    "EV-8223-2022-P2-Q4b-iii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.5.2-04",
+   "topic_id": "2.5.2",
+   "objective_id": "OBJ-8223-2.5.2-01",
+   "objective_text": "investigate and explain the factors that affect the rate of enzyme catalysed reactions - temperature, - pH (using buffer solutions) - enzyme concentration - substrate concentration - inhibitor concentration)",
+   "a": "Thinking a higher temperature changes how much product the reaction finally makes",
+   "b": "The final amount of product depends on the amount of substrate; temperature changes only how fast it is reached",
+   "kind": "adjacent_concept",
+   "test": "What limits the total product: the temperature or the starting amount of substrate?",
+   "n": 1,
+   "series": [
+    2022
+   ],
+   "evidence": [
+    "EV-8223-2022-P2-Q4b-iii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.5.2-05",
+   "topic_id": "2.5.2",
+   "objective_id": "OBJ-8223-2.5.2-03",
+   "objective_text": "explain the effects of reversible inhibitors both competitive and non- competitive,on the enzyme activity",
+   "a": "Not recognising that a lower maximum rate points to non-competitive inhibition",
+   "b": "Competitive inhibition can be overcome by more substrate so the same maximum rate is reached; non-competitive inhibition lowers the maximum rate",
+   "kind": "near_neighbour_term",
+   "test": "Can adding more substrate restore the original maximum rate?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P1-Q19"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-4.1-01",
+   "topic_id": "4.1",
+   "objective_id": "OBJ-8223-4.1-01",
+   "objective_text": "Identify the independent and dependent variables.",
+   "a": "Not being able to say which variable is independent and which is dependent",
+   "b": "The independent variable is what the investigator changes; the dependent variable is what is measured",
+   "kind": "near_neighbour_term",
+   "test": "Which variable do you set, and which do you record?",
+   "n": 1,
+   "series": [
+    2022
+   ],
+   "evidence": [
+    "EV-8223-2022-P3-Q1c-i"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-4.4-01",
+   "topic_id": "4.4",
+   "objective_id": "OBJ-8223-4.4-09",
+   "objective_text": "estimate quantitatively, by calculating the actual error or percentage error (where a particular measurement is given) to evaluate the uncertainty in quantitative measurements and evaluate the confidence in the accuracy of results",
+   "a": "Swapping accuracy and reliability",
+   "b": "Accuracy is closeness to the true value; reliability is getting consistent results when the work is repeated",
+   "kind": "near_neighbour_term",
+   "test": "Is it about closeness to the true value, or agreement between repeats?",
+   "n": 1,
+   "series": [
+    2022
+   ],
+   "evidence": [
+    "EV-8223-2022-P3-Q1c-iv"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.6.1-01",
+   "topic_id": "2.6.1",
+   "objective_id": "OBJ-8223-2.6.1-03",
+   "objective_text": "relate the structure of xylem vessel elements, phloem sieve tube elements and companion cells to their functions",
+   "a": "Explaining the xylem's structure as 'more space for flow', or saying the xylem is made of lignin or of dead cells",
+   "b": "Lignin is in the cell walls of xylem vessels; the vessels have no cytoplasm or organelles, so resistance to flow is low",
+   "kind": "wrong_angle_same_concept",
+   "test": "Is lignin in the walls or the contents, and what does the empty lumen do for flow?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P2-Q3b"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.6.2-01",
+   "topic_id": "2.6.2",
+   "objective_id": "OBJ-8223-2.6.2-05",
+   "objective_text": "describe the pathways and explain the mechanisms by which water and mineral ions are transported from soil to xylem and from roots to leaves (include reference to the symplastic pathway, apoplastic pathway and Casparian strip)",
+   "a": "Mixing up the apoplast (cell walls) with the symplast (cytoplasm)",
+   "b": "The apoplast is the cell walls and spaces between cells; the symplast is the cytoplasm linked through plasmodesmata",
+   "kind": "near_neighbour_term",
+   "test": "Which pathway runs through cell walls, and which through cytoplasm?",
+   "n": 2,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P1-Q20",
+    "EV-8223-2025-P2-Q3c-i"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.6.2-02",
+   "topic_id": "2.6.2",
+   "objective_id": "OBJ-8223-2.6.2-06",
+   "objective_text": "make annotated drawings of transverse sections of leaves from xerophytic plants to explain how they are adapted to reduce water loss by transpiration",
+   "a": "Assuming many epidermal layers is a feature every xerophyte has",
+   "b": "Xerophytes show different combinations of adaptations, such as thick cuticle, hairs, sunken stomata and rolled leaves",
+   "kind": "adjacent_concept",
+   "test": "Do all xerophytes share the same set of adaptations?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P1-Q22"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.6.2-03",
+   "topic_id": "2.6.2",
+   "objective_id": "OBJ-8223-2.6.2-07",
+   "objective_text": "state how assimilates, such as sucrose and amino acids, move between sources (e.g. leaves and storage organs) and sinks, (e.g. buds, flowers, fruits, roots and storage organs) in phloem sieve tubes",
+   "a": "Writing 'translation' (or diffusion or active transport) for the movement of sucrose in the phloem",
+   "b": "Translocation is the transport of assimilates in phloem; translation is making a polypeptide at a ribosome",
+   "kind": "near_neighbour_term",
+   "test": "Which word names sucrose transport in phloem?",
+   "n": 1,
+   "series": [
+    2021
+   ],
+   "evidence": [
+    "EV-8223-2021-P2-Q6b-ii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.6.2-04",
+   "topic_id": "2.6.2",
+   "objective_id": "OBJ-8223-2.6.2-08",
+   "objective_text": "explain how sucrose is loaded into phloem sieve tubes by companion cells using proton pumping and the co-transporter mechanism in their cell surface membranes",
+   "a": "Saying hydrogen ions bond with sucrose during loading",
+   "b": "Companion cells pump hydrogen ions out; the ions return through a co-transporter protein that brings sucrose in with them",
+   "kind": "wrong_angle_same_concept",
+   "test": "Which direction do hydrogen ions move through the co-transporter, and what comes with them?",
+   "n": 1,
+   "series": [
+    2021
+   ],
+   "evidence": [
+    "EV-8223-2021-P2-Q6b-iii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.6.2-05",
+   "topic_id": "2.6.2",
+   "objective_id": "OBJ-8223-2.6.2-02",
+   "objective_text": "describe,in terms of water potential, the movement of water: - between plant cells - between the plant and its environment (no calculations involving water potential will be set)",
+   "a": "Showing water movement without a direction, or in the wrong direction",
+   "b": "Water moves from a higher to a lower water potential, so toward the xylem",
+   "kind": "wrong_angle_same_concept",
+   "test": "From which region to which region does water move?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P2-Q3c-i"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.7.1-01",
+   "topic_id": "2.7.1",
+   "objective_id": "OBJ-8223-2.7.1-04",
+   "objective_text": "recognise and draw the structure of red blood cells, monocytes, neutrophils and lymphocytes using prepared slides, photomicrographs and electron micrographs",
+   "a": "Drawing or describing a neutrophil as having three nuclei",
+   "b": "A neutrophil has one nucleus with several lobes",
+   "kind": "wrong_angle_same_concept",
+   "test": "How many nuclei does a neutrophil have?",
+   "n": 1,
+   "series": [
+    2021
+   ],
+   "evidence": [
+    "EV-8223-2021-P2-Q3a-i"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.7.1-02",
+   "topic_id": "2.7.1",
+   "objective_id": "OBJ-8223-2.7.1-10",
+   "objective_text": "describe and explain the oxygen dissociation curve of adult haemoglobin",
+   "a": "Saying oxygen has an affinity for haemoglobin rather than haemoglobin having an affinity for oxygen",
+   "b": "Affinity describes how readily haemoglobin binds oxygen",
+   "kind": "near_neighbour_term",
+   "test": "Which substance is described as having an affinity?",
+   "n": 1,
+   "series": [
+    2022
+   ],
+   "evidence": [
+    "EV-8223-2022-P2-Q1c-i"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.7.1-03",
+   "topic_id": "2.7.1",
+   "objective_id": "OBJ-8223-2.7.1-12",
+   "objective_text": "describe the Bohr shift and explain the importance of the Bohr shift",
+   "a": "Believing a lower pH means fewer hydrogen ions",
+   "b": "A lower pH means a higher hydrogen ion concentration, which lowers haemoglobin's affinity for oxygen (the Bohr shift)",
+   "kind": "adjacent_concept",
+   "test": "What happens to hydrogen ion concentration as pH falls?",
+   "n": 1,
+   "series": [
+    2022
+   ],
+   "evidence": [
+    "EV-8223-2022-P2-Q1c-i"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.7.1-04",
+   "topic_id": "2.7.1",
+   "objective_id": "OBJ-8223-2.7.1-12",
+   "objective_text": "describe the Bohr shift and explain the importance of the Bohr shift",
+   "a": "Confusing respiration with breathing, or saying oxygen is produced in respiration",
+   "b": "Breathing moves air in and out of the lungs; respiration releases energy from glucose in cells, using oxygen and producing carbon dioxide",
+   "kind": "near_neighbour_term",
+   "test": "Is it gas movement at the lungs, or a reaction in cells?",
+   "n": 1,
+   "series": [
+    2022
+   ],
+   "evidence": [
+    "EV-8223-2022-P2-Q1c-iii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.7.1-05",
+   "topic_id": "2.7.1",
+   "objective_id": "OBJ-8223-2.7.1-09",
+   "objective_text": "describe the role of plasma in the transport of carbon dioxide",
+   "a": "Confusing hydrogencarbonate ions with carbon dioxide binding to haemoglobin",
+   "b": "Most carbon dioxide travels as hydrogencarbonate ions in plasma; a smaller share binds haemoglobin as carbaminohaemoglobin",
+   "kind": "near_neighbour_term",
+   "test": "Which form carries most of the carbon dioxide?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P1-Q25"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.7.1-06",
+   "topic_id": "2.7.1",
+   "objective_id": "OBJ-8223-2.7.1-03",
+   "objective_text": "explain the relationship between the structure and function of arteries, veins and capillaries",
+   "a": "Swapping the structures of arteries and veins",
+   "b": "Arteries have thick elastic and muscular walls and a narrow lumen; veins have thin walls, a wide lumen and valves",
+   "kind": "near_neighbour_term",
+   "test": "Which has valves and a wide lumen?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P3-Q2c"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.7.2-01",
+   "topic_id": "2.7.2",
+   "objective_id": "OBJ-8223-2.7.2-01",
+   "objective_text": "describe the external and internal structure of the mammalian heart",
+   "a": "Confusing coronary arteries with the major vessels leaving the heart",
+   "b": "Coronary arteries branch from the aorta and supply the heart muscle itself",
+   "kind": "near_neighbour_term",
+   "test": "Which vessels feed the heart's own muscle?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P1-Q23"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.8.1-01",
+   "topic_id": "2.8.1",
+   "objective_id": "OBJ-8223-2.8.1-03",
+   "objective_text": "explain how cholera, malaria, TB and HIV/AIDS are transmitted",
+   "a": "Describing malaria as passing directly from person to person, or as spread by droplets or contaminated water",
+   "b": "Malaria is transmitted by the female Anopheles mosquito, in which the parasite must develop before it can infect the next person",
+   "kind": "adjacent_concept",
+   "test": "What is the vector, and what must happen inside it?",
+   "n": 2,
+   "series": [
+    2022
+   ],
+   "evidence": [
+    "EV-8223-2022-P2-Q2b",
+    "EV-8223-2022-P2-Q2d-ii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.8.1-02",
+   "topic_id": "2.8.1",
+   "objective_id": "OBJ-8223-2.8.1-04",
+   "objective_text": "discuss the biological, social and economic factors that need to be considered in the prevention and control of cholera, measles, malaria, TB and HIV/AIDS (a detailed study of the life cycle of the malarial parasite is not required)",
+   "a": "Proposing measures that do not target the mosquito or the parasite, such as treating drinking water or blaming sewage for infection",
+   "b": "Control targets the mosquito's breeding sites and bites, and the parasite in people: nets, removing standing water, insecticides and antimalarial drugs",
+   "kind": "adjacent_concept",
+   "test": "Does the measure break the mosquito's life cycle or the parasite's spread?",
+   "n": 1,
+   "series": [
+    2022
+   ],
+   "evidence": [
+    "EV-8223-2022-P2-Q2d-i"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.8.2-01",
+   "topic_id": "2.8.2",
+   "objective_id": "OBJ-8223-2.8.2-01",
+   "objective_text": "describe how penicillin acts on bacteria and why antibiotics do not affect viruses and eukaryotic cells",
+   "a": "Calling Plasmodium a bacterium or a virus",
+   "b": "Plasmodium is a single-celled eukaryotic protoctist; penicillin acts on bacterial cell walls and not on it",
+   "kind": "near_neighbour_term",
+   "test": "Is it a prokaryote, a virus or a eukaryote?",
+   "n": 1,
+   "series": [
+    2022
+   ],
+   "evidence": [
+    "EV-8223-2022-P2-Q2e"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.8.2-02",
+   "topic_id": "2.8.2",
+   "objective_id": "OBJ-8223-2.8.2-01",
+   "objective_text": "describe how penicillin acts on bacteria and why antibiotics do not affect viruses and eukaryotic cells",
+   "a": "Saying penicillin acts on the cell membrane as well as the wall",
+   "b": "Penicillin prevents bacteria building their cell walls so they burst; naming both wall and membrane gives a wrong answer",
+   "kind": "wrong_angle_same_concept",
+   "test": "Which structure does penicillin stop being built?",
+   "n": 1,
+   "series": [
+    2022
+   ],
+   "evidence": [
+    "EV-8223-2022-P2-Q2e"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.8.2-03",
+   "topic_id": "2.8.2",
+   "objective_id": "OBJ-8223-2.8.2-02",
+   "objective_text": "outline how bacteria become resistant to antibiotics with reference to mutation and selection",
+   "a": "Saying antibiotics become resistant, or that the patient becomes resistant",
+   "b": "Bacteria become resistant: a chance mutation lets some survive, and selection by the antibiotic makes them common",
+   "kind": "near_neighbour_term",
+   "test": "What becomes resistant, and how?",
+   "n": 1,
+   "series": [
+    2024
+   ],
+   "evidence": [
+    "EV-8223-2024-P2-Q2d"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.9.1-01",
+   "topic_id": "2.9.1",
+   "objective_id": "OBJ-8223-2.9.1-01",
+   "objective_text": "describe the mode of action of phagocytes (macrophages and neutrophils)",
+   "a": "Saying a macrophage displays pieces of pathogen debris",
+   "b": "A macrophage places antigens from the pathogen on its own surface membrane to present to T cells",
+   "kind": "wrong_angle_same_concept",
+   "test": "What exactly sits on the macrophage's membrane?",
+   "n": 1,
+   "series": [
+    2021
+   ],
+   "evidence": [
+    "EV-8223-2021-P2-Q3b-i"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.9.1-02",
+   "topic_id": "2.9.1",
+   "objective_id": "OBJ-8223-2.9.1-02",
+   "objective_text": "describe the sequence of events that occurs during a primary immune response with reference to the roles of: - macrophages - B-lymphocytes, including plasma cells - T-lymphocytes, limited to T-helper cells and T-killer cells",
+   "a": "Treating antibodies as cells made by B-cell cloning",
+   "b": "B cells clone into plasma cells and memory cells; plasma cells secrete antibodies, which are proteins",
+   "kind": "near_neighbour_term",
+   "test": "Which cell type makes antibodies, and what are antibodies?",
+   "n": 1,
+   "series": [
+    2021
+   ],
+   "evidence": [
+    "EV-8223-2021-P2-Q3b-ii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.10.1-01",
+   "topic_id": "2.10.1",
+   "objective_id": "OBJ-8223-2.10.1-07",
+   "objective_text": "describe the functions in the gas exchange system of cartilage, smooth muscle, elastic fibres and squamous epithelium",
+   "a": "Saying elastic fibres stop the alveoli collapsing",
+   "b": "Elastic fibres let the alveoli stretch when air enters and recoil to push air out",
+   "kind": "adjacent_concept",
+   "test": "What do the fibres do on inhaling and on exhaling?",
+   "n": 1,
+   "series": [
+    2021
+   ],
+   "evidence": [
+    "EV-8223-2021-P2-Q4a-iii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-2.10.1-02",
+   "topic_id": "2.10.1",
+   "objective_id": "OBJ-8223-2.10.1-06",
+   "objective_text": "describe the functions of ciliated epithelial cells, goblet cells and mucous glands in maintaining the health of the gas exchange system",
+   "a": "Saying mucus sweeps dust out of the airway",
+   "b": "Mucus traps dust and microbes; the beating cilia move the mucus along",
+   "kind": "near_neighbour_term",
+   "test": "Which one moves, and which one traps?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P2-Q2a-ii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-3.1.1-01",
+   "topic_id": "3.1.1",
+   "objective_id": "OBJ-8223-3.1.1-01",
+   "objective_text": "describe the structure of a chromosome, limited to DNA, histone proteins, chromatids, centromere and telomeres",
+   "a": "Confusing centromere with centrosome, and chromatin with chromosome",
+   "b": "The centromere holds sister chromatids together; centrosomes organise the spindle; chromatin is loose DNA with histones, and a chromosome is that DNA condensed",
+   "kind": "near_neighbour_term",
+   "test": "Which holds chromatids together, and which makes the spindle?",
+   "n": 1,
+   "series": [
+    2021
+   ],
+   "evidence": [
+    "EV-8223-2021-P2-Q5a"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-3.1.1-02",
+   "topic_id": "3.1.1",
+   "objective_id": "OBJ-8223-3.1.1-01",
+   "objective_text": "describe the structure of a chromosome, limited to DNA, histone proteins, chromatids, centromere and telomeres",
+   "a": "Labelling a sister chromatid as a telomere",
+   "b": "Telomeres are the DNA caps at the ends of each chromatid",
+   "kind": "near_neighbour_term",
+   "test": "Is it the whole chromatid or the end of it?",
+   "n": 1,
+   "series": [
+    2021
+   ],
+   "evidence": [
+    "EV-8223-2021-P2-Q5a"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-3.1.1-03",
+   "topic_id": "3.1.1",
+   "objective_id": "OBJ-8223-3.1.1-01",
+   "objective_text": "describe the structure of a chromosome, limited to DNA, histone proteins, chromatids, centromere and telomeres",
+   "a": "Counting one telomere per chromosome, or not realising a replicated chromosome has two chromatids with two telomeres each",
+   "b": "Each chromatid has a telomere at both ends, so a replicated chromosome has four",
+   "kind": "wrong_angle_same_concept",
+   "test": "How many telomeres does a metaphase chromosome have?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P1-Q37"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-3.1.1-04",
+   "topic_id": "3.1.1",
+   "objective_id": "OBJ-8223-3.1.1-05",
+   "objective_text": "outline the significance of telomeres in permitting continued replication and preventing the loss of genes",
+   "a": "Describing a telomere as a plastic or hard cap",
+   "b": "A telomere is DNA made of repeated short sequences; because it is DNA, it takes part in replication",
+   "kind": "near_neighbour_term",
+   "test": "What is a telomere made of?",
+   "n": 1,
+   "series": [
+    2021
+   ],
+   "evidence": [
+    "EV-8223-2021-P2-Q5b"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-3.1.1-05",
+   "topic_id": "3.1.1",
+   "objective_id": "OBJ-8223-3.1.1-05",
+   "objective_text": "outline the significance of telomeres in permitting continued replication and preventing the loss of genes",
+   "a": "Saying a telomere stops the chromosome getting shorter",
+   "b": "The telomere itself loses a little at each replication; its loss protects the genes behind it",
+   "kind": "adjacent_concept",
+   "test": "Does the telomere shorten, and what does that protect?",
+   "n": 2,
+   "series": [
+    2021,
+    2022
+   ],
+   "evidence": [
+    "EV-8223-2022-P2-Q3a-iv",
+    "EV-8223-2021-P2-Q5b"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-3.1.1-06",
+   "topic_id": "3.1.1",
+   "objective_id": "OBJ-8223-3.1.1-07",
+   "objective_text": "explain how uncontrolled cell division can result in the formation of a tumour",
+   "a": "Saying telomerase breaks telomeres down, speeds up mitosis or adds extra telomeres",
+   "b": "Telomerase replaces lost telomere DNA, so a cell avoids the shortening that leads to its death and can keep dividing",
+   "kind": "near_neighbour_term",
+   "test": "Does telomerase add or remove telomere DNA?",
+   "n": 1,
+   "series": [
+    2021
+   ],
+   "evidence": [
+    "EV-8223-2021-P2-Q5d"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-3.1.2-01",
+   "topic_id": "3.1.2",
+   "objective_id": "OBJ-8223-3.1.2-01",
+   "objective_text": "describe, with the aid of photomicrographs and diagrams, the behaviour of chromosomes in plant and animal cells during the mitotic cell cycle and the associated behaviour of the nuclear envelope, cell surface membrane and the spindle(names of the main stages of mitosis, prophase, metaphase, anaphase and telophase, are expected)",
+   "a": "Saying chromosomes re-condense at the end of mitosis",
+   "b": "In telophase they decondense into chromatin; they condense again before the next division",
+   "kind": "wrong_angle_same_concept",
+   "test": "Do chromosomes condense or decondense in telophase?",
+   "n": 1,
+   "series": [
+    2022
+   ],
+   "evidence": [
+    "EV-8223-2022-P2-Q3c"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-3.2.1-01",
+   "topic_id": "3.2.1",
+   "objective_id": "OBJ-8223-3.2.1-04",
+   "objective_text": "describe the semi-conservative replication of DNA during S phase",
+   "a": "Confusing a DNA molecule with a strand in semi-conservative replication, or saying half a strand is conserved",
+   "b": "Each new molecule has one whole old strand and one whole new strand",
+   "kind": "near_neighbour_term",
+   "test": "How many old strands are in each new molecule?",
+   "n": 1,
+   "series": [
+    2022
+   ],
+   "evidence": [
+    "EV-8223-2022-P2-Q3d-ii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-3.2.2-01",
+   "topic_id": "3.2.2",
+   "objective_id": "OBJ-8223-3.2.2-03",
+   "objective_text": "describe how the information in DNA is used during transcription and translation to construct polypeptides, including the role of messenger RNA (mRNA), transfer RNA (tRNA) and the ribosomes",
+   "a": "Describing replication or translation when asked about transcription, or saying mRNA is 'copied' DNA",
+   "b": "In transcription RNA nucleotides pair with the template strand and are joined to make mRNA, which is a complementary RNA, not a copy of the DNA",
+   "kind": "adjacent_concept",
+   "test": "Is the product DNA, RNA or protein, and what is it built from?",
+   "n": 1,
+   "series": [
+    2024
+   ],
+   "evidence": [
+    "EV-8223-2024-P2-Q3b"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-3.2.2-02",
+   "topic_id": "3.2.2",
+   "objective_id": "OBJ-8223-3.2.2-06",
+   "objective_text": "describe the way in which the nucleotide sequence codes for the amino acid sequence in a polypeptide with reference to the nucleotide sequence for HbA (normal) and HbS (sickle cell) alleles of the gene for the β-globin polypeptide",
+   "a": "Not distinguishing codon, anticodon and amino acid, or naming the wrong structure for where anticodons sit",
+   "b": "A codon is three bases on mRNA; its complementary anticodon is on tRNA; the amino acid is carried at the other end of the tRNA",
+   "kind": "near_neighbour_term",
+   "test": "Which of the three sits on mRNA, which on tRNA, and which is carried?",
+   "n": 1,
+   "series": [
+    2024
+   ],
+   "evidence": [
+    "EV-8223-2024-P2-Q3d-ii"
+   ]
+  },
+  {
+   "evidence_scope": "topic",
+   "entry_id": "MC-8223-3.2.2-03",
+   "topic_id": "3.2.2",
+   "objective_id": "OBJ-8223-3.2.2-02",
+   "objective_text": "state the features of the genetic code",
+   "a": "Forgetting that each amino acid is coded by three nucleotides",
+   "b": "The code is a triplet: three bases code for one amino acid",
+   "kind": "wrong_angle_same_concept",
+   "test": "How many bases code for one amino acid?",
+   "n": 1,
+   "series": [
+    2025
+   ],
+   "evidence": [
+    "EV-8223-2025-P1-Q38"
+   ]
+  }
+ ]
+}

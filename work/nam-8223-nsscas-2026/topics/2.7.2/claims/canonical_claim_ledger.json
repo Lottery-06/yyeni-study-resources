@@ -1,0 +1,461 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-2.7.2",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-2.7.2-001",
+   "objective_ids": [
+    "OBJ-8223-2.7.2-01"
+   ],
+   "text": "The mammalian heart has four chambers: two thin-walled atria above, which receive blood, and two thick-walled ventricles below, which pump it out. Four major vessels join it: the vena cava brings deoxygenated blood into the right atrium, the pulmonary artery carries deoxygenated blood from the right ventricle to the lungs, the pulmonary veins bring oxygenated blood from the lungs into the left atrium, and the aorta carries oxygenated blood from the left ventricle to the body.",
+   "claim_type": "factual",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.15, topic 2.7.2 Mammalian heart",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.7.2 from our own statement of standard biology, consistent with the syllabus line cited. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; biology is our own, standard).",
+    "The syllabus says 'external and internal structure' without naming parts; the list of chambers and vessels is standard biology."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.7.2-002",
+   "objective_ids": [
+    "OBJ-8223-2.7.2-01"
+   ],
+   "text": "The coronary arteries are narrow vessels that branch from the aorta close to its base and run over the outer surface of the heart, supplying the cardiac muscle of the heart wall with oxygenated blood. They are separate from the major vessels that leave the heart, the aorta and the pulmonary artery.",
+   "claim_type": "misconception_correction",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.15, topic 2.7.2 Mammalian heart",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2025-P1-Q23",
+     "locator": "2025 Paper 1 report p.42, misconception finding",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.7.2 from our own statement of standard biology, consistent with the syllabus line cited. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; biology is our own, standard).",
+    "Evidence EV-8223-2025-P1-Q23 records candidates confusing coronary arteries with the major vessels."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.7.2-003",
+   "objective_ids": [
+    "OBJ-8223-2.7.2-01"
+   ],
+   "text": "Inside the heart a muscular septum separates the right side from the left, so deoxygenated and oxygenated blood do not mix. Atrioventricular valves (tricuspid on the right, bicuspid on the left) lie between each atrium and ventricle; their flaps are held by valve tendons fixed to papillary muscles on the ventricle wall. Semilunar valves, each with three pocket-shaped cups, lie at the bases of the aorta and the pulmonary artery. The valves keep blood moving in one direction.",
+   "claim_type": "factual",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.15, topic 2.7.2 Mammalian heart",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.7.2 from our own statement of standard biology, consistent with the syllabus line cited. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; biology is our own, standard).",
+    "Tricuspid and bicuspid are the usual textbook terms; the syllabus line does not list the parts."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.7.2-004",
+   "objective_ids": [
+    "OBJ-8223-2.7.2-02"
+   ],
+   "text": "A plan diagram is a low-power record of a specimen that outlines the tissues and cavities in correct proportion, drawn with clear continuous lines, no shading and no individual cells, with a title, the view stated, labels joined by ruled lines that do not cross, and a magnification or scale.",
+   "claim_type": "definition",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.15, topic 2.7.2 Mammalian heart",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.7.2 from our own statement of standard biology, consistent with the syllabus line cited. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; biology is our own, standard).",
+    "The wording of drawing conventions is our own reading of standard practical-biology practice; the syllabus line says only 'observe and make plan diagrams'."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.7.2-005",
+   "objective_ids": [
+    "OBJ-8223-2.7.2-02"
+   ],
+   "text": "In a plan diagram of the heart, the external view outlines the four chambers and the four major vessels, with the coronary arteries as thin lines on the surface; a section cut lengthwise outlines the chambers, septum, valves with their tendons and the walls, with the left ventricle wall drawn clearly thicker than the right ventricle wall and both thicker than the atrial walls.",
+   "claim_type": "procedural",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.15, topic 2.7.2 Mammalian heart",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.7.2 from our own statement of standard biology, consistent with the syllabus line cited. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; biology is our own, standard).",
+    "Typical relative thicknesses are roughly 12 mm for the left ventricle, 4 mm for the right ventricle and 2 mm for an atrium in an adult; quoted values vary with the specimen, so a drawing follows the specimen, not a fixed ratio."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.7.2-006",
+   "objective_ids": [
+    "OBJ-8223-2.7.2-03"
+   ],
+   "text": "The walls of the atria are thin because an atrium pushes blood only a short distance into the ventricle below it and the pressure needed is low, about 1 kPa; the walls of the ventricles are thick because the cardiac muscle must contract forcefully enough to raise the pressure of the blood above the pressure in the artery it leads into.",
+   "claim_type": "causal",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.15, topic 2.7.2 Mammalian heart",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.7.2 from our own statement of standard biology, consistent with the syllabus line cited. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; biology is our own, standard).",
+    "Most ventricular filling happens passively while the heart is relaxed; atrial contraction adds the final part."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.7.2-007",
+   "objective_ids": [
+    "OBJ-8223-2.7.2-03"
+   ],
+   "text": "The wall of the left ventricle is thicker than that of the right ventricle because the left ventricle drives blood around the whole body at a high pressure (peak about 16 kPa in our values), whereas the right ventricle drives the same volume per beat through the nearby lungs at a much lower pressure (peak about 3 kPa in our values); a higher pressure in the thin-walled lung capillaries would risk damaging them.",
+   "claim_type": "comparison",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.15, topic 2.7.2 Mammalian heart",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.7.2 from our own statement of standard biology, consistent with the syllabus line cited. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; biology is our own, standard).",
+    "Both ventricles pump about the same volume per beat in a healthy heart, so volume does not explain the difference. The peak right ventricle value is our approximation."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.7.2-008",
+   "objective_ids": [
+    "OBJ-8223-2.7.2-04"
+   ],
+   "text": "In one cardiac cycle the atria contract (atrial systole), pushing the last of their blood into the ventricles; the ventricles then contract (ventricular systole), forcing blood out into the aorta and the pulmonary artery; then the whole heart relaxes (diastole) and the atria fill with blood from the veins, which also flows on into the ventricles. Systole means contraction and diastole means relaxation.",
+   "claim_type": "procedural",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.15, topic 2.7.2 Mammalian heart",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.7.2 from our own statement of standard biology, consistent with the syllabus line cited. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; biology is our own, standard).",
+    "Naming 'diastole' for the whole heart is the usual simplification; atria and ventricles also have their own diastole."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.7.2-009",
+   "objective_ids": [
+    "OBJ-8223-2.7.2-04"
+   ],
+   "text": "The valves open and close because of differences in pressure, not because muscle moves them: an atrioventricular valve shuts when ventricular pressure rises above atrial pressure and opens when it falls below it; a semilunar valve opens when ventricular pressure rises above the pressure in the artery and shuts when it falls below it.",
+   "claim_type": "causal",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.15, topic 2.7.2 Mammalian heart",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.7.2 from our own statement of standard biology, consistent with the syllabus line cited. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; biology is our own, standard).",
+    "Valve closure produces the heart sounds; this is not needed here and is not stated."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.7.2-010",
+   "objective_ids": [
+    "OBJ-8223-2.7.2-04",
+    "OBJ-8223-2.7.2-05"
+   ],
+   "text": "In our values for the left side of the heart (cycle of 0.8 s, 75 beats per minute), left ventricular pressure rises from about 1 kPa to a peak of 16 kPa during ventricular systole and falls to about 1.5 kPa by the end of it, while aortic pressure stays between about 10.7 kPa and 16 kPa throughout the cycle because the semilunar valve closes and blood is held in the artery.",
+   "claim_type": "factual",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.15, topic 2.7.2 Mammalian heart",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.7.2 from our own statement of standard biology, consistent with the syllabus line cited. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; biology is our own, standard).",
+    "Pressure values are ours, rounded to give a consistent teaching data set; real values vary between people and conditions."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.7.2-011",
+   "objective_ids": [
+    "OBJ-8223-2.7.2-05"
+   ],
+   "text": "On a pressure-time graph of the left side, a valve changes state where the pressure lines cross: the atrioventricular valve closes where the ventricular line rises above the atrial line, the semilunar valve opens where it rises above the aortic line, shuts where it falls below the aortic line, and the atrioventricular valve opens where it falls below the atrial line.",
+   "claim_type": "inference",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.15, topic 2.7.2 Mammalian heart",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.7.2 from our own statement of standard biology, consistent with the syllabus line cited. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; biology is our own, standard).",
+    "Exact crossing points are read between plotted values and quoted as 'about'."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.7.2-012",
+   "objective_ids": [
+    "OBJ-8223-2.7.2-05"
+   ],
+   "text": "The duration of a phase is read from the time axis between the two events that begin and end it, and the number of beats per minute is 60 divided by the duration of one cycle in seconds.",
+   "claim_type": "formula",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.15, topic 2.7.2 Mammalian heart",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.7.2 from our own statement of standard biology, consistent with the syllabus line cited. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; biology is our own, standard).",
+    "Arithmetic definitional: beats per minute = 60 s per minute ÷ seconds per cycle."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.7.2-013",
+   "objective_ids": [
+    "OBJ-8223-2.7.2-06"
+   ],
+   "text": "The sinoatrial node (SAN), a small patch of specialised cardiac muscle in the wall of the right atrium, acts as the pacemaker: it generates a wave of excitation at regular intervals, and the wave spreads across the walls of both atria, causing them to contract together.",
+   "claim_type": "causal",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.15, topic 2.7.2 Mammalian heart",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.7.2 from our own statement of standard biology, consistent with the syllabus line cited. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; biology is our own, standard).",
+    "Cardiac muscle starts its own beat (myogenic). The syllabus asks for SAN, AVN and Purkyne tissue and excludes outside control of the heart, which is not taught here."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.7.2-014",
+   "objective_ids": [
+    "OBJ-8223-2.7.2-06"
+   ],
+   "text": "A layer of fibrous tissue between the atria and the ventricles does not conduct the wave of excitation, so the wave reaches the ventricles through the atrioventricular node (AVN) at the base of the atria, the one route across; the AVN delays the wave by about 0.1 s before passing it on, which lets the atria finish emptying into the ventricles before the ventricles contract.",
+   "claim_type": "causal",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.15, topic 2.7.2 Mammalian heart",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.7.2 from our own statement of standard biology, consistent with the syllabus line cited. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; biology is our own, standard).",
+    "The delay of about 0.1 s is a typical figure and is hedged in teaching text."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.7.2-015",
+   "objective_ids": [
+    "OBJ-8223-2.7.2-06"
+   ],
+   "text": "From the AVN the wave passes into the Purkyne tissue, which runs down the septum to the apex and then up through the ventricle walls; it conducts the wave quickly, so the ventricles contract from the apex upwards and blood is forced towards the arteries.",
+   "claim_type": "causal",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.15, topic 2.7.2 Mammalian heart",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.7.2 from our own statement of standard biology, consistent with the syllabus line cited. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; biology is our own, standard).",
+    "The syllabus spells it 'Purkyne'. Standard texts also write Purkinje fibres, and call the part in the septum the bundle of His; we use the syllabus word."
+   ]
+  }
+ ]
+}

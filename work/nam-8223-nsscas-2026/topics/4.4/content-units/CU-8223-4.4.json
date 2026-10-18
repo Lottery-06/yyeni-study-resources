@@ -1,0 +1,394 @@
+{
+ "unit_id": "CU-8223-4.4",
+ "title": "Analysis, conclusions and evaluation",
+ "objective_ids": [
+  "OBJ-8223-4.4-01",
+  "OBJ-8223-4.4-02",
+  "OBJ-8223-4.4-03",
+  "OBJ-8223-4.4-04",
+  "OBJ-8223-4.4-05",
+  "OBJ-8223-4.4-06",
+  "OBJ-8223-4.4-07",
+  "OBJ-8223-4.4-08",
+  "OBJ-8223-4.4-09",
+  "OBJ-8223-4.4-10",
+  "OBJ-8223-4.4-11",
+  "OBJ-8223-4.4-12",
+  "OBJ-8223-4.4-13",
+  "OBJ-8223-4.4-14",
+  "OBJ-8223-4.4-15",
+  "OBJ-8223-4.4-16",
+  "OBJ-8223-4.4-17"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_interpretation",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 5070,
+  "target": 6160,
+  "max": 7250
+ },
+ "blocks": [
+  {
+   "block_id": "4.4-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "How to turn the results of a practical investigation into correct, justified statements: calculating with the right number of significant figures, reading values from graphs, estimating concentrations, identifying unknown solutions, handling anomalous results, describing patterns, judging errors and confidence, drawing and explaining conclusions, and suggesting improvements and extensions. This is Paper 3 work. Marks for handling apparatus and making observations are earned at the bench with the real equipment, and no note can replace that. What can be practised on paper is everything that happens to the readings afterwards: the planning of how to record them, the presentation, the analysis and the evaluation. The readings used in this section are our own invented values, written for practice, and are not taken from any published source.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {},
+   "authored_hash": "f5854f56b4e3aebad14ea9ba2fea7ae69a4a54b0e82db8049d82d326d16fb3d8"
+  },
+  {
+   "block_id": "4.4-b2",
+   "block_type": "worked_calculation",
+   "heading": "Calculating with the correct significant figures",
+   "text": "Significant figures are the digits that carry information about the size of a value. They are counted from the first digit that is not zero. The value 0.0450 has three significant figures, because the leading zeros only show where the decimal point is, while the zero at the end after the decimal point shows that the measurement was made to that place. The value 450 has at least two significant figures, and it is unclear whether the zero was measured.\n\nA calculated answer cannot be more accurate than the measurements it came from. The rule used in this course is that a calculated answer is given to the same number of significant figures as, or one more than, the least accurate measurement used, which means the measurement with the fewest significant figures. If the measurements are 36 mm (two significant figures) and 4.0 min (two significant figures), the answer is given to two, or at most three, significant figures.\n\nThe working is carried at full calculator precision and only the final answer is rounded. Rounding at each step builds up small errors. A calculator display such as 4.6666667 is an unrounded value and is not a final answer, because it shows more digits than the readings can justify.\n\nA worked example. A learner counts 14 bubbles from a piece of pondweed in 3.0 min. The equation is rate = number of bubbles ÷ time. Substituting gives 14 ÷ 3.0 = 4.6667. The least accurate measurement has two significant figures, so the answer is 4.7 bubbles min⁻¹. The unit is part of the answer. An answer of 4.7 with no unit has not said what was measured, and a rate written as 4.667 bubbles min⁻¹ claims more accuracy than a count of 14 and a time of 3.0 min can support.\n\nWhen the working includes a subtraction, such as a change in mass, the same care applies. The difference of 4.25 g and 3.87 g is 0.38 g, which has only two significant figures even though each mass has three. A percentage calculated from it is therefore given to two significant figures. Check the arithmetic by estimating first. A rate of about 14 bubbles in about 3 minutes should be a little under 5 per minute, and an answer of 47 or 0.47 would be caught by that estimate.",
+   "claim_ids": [
+    "CLM-8223-4.4-001",
+    "CLM-8223-4.4-002",
+    "CLM-8223-4.4-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.4-001": 1,
+    "CLM-8223-4.4-002": 1,
+    "CLM-8223-4.4-003": 1
+   },
+   "authored_hash": "2c2892598f28722f8069ec42c940bbb9028f33ab3705802801c3c8d45d816b17"
+  },
+  {
+   "block_id": "4.4-b3",
+   "block_type": "process",
+   "heading": "Finding an unknown value from a graph",
+   "text": "A graph lets a value that was not measured be found from values that were. Suppose the line of best fit on a graph of the mass of a seedling against time is straight, and the mass at 6 days is needed. The method has three steps. Find 6 days on the horizontal axis. Draw a straight line upward from it until it meets the line of best fit. Then draw a straight line across from that point to the vertical axis and read the value there. The lines are drawn on the graph so that the working can be seen, and the value is written with its unit. The reading is given to the precision the scale allows, which is usually to half of the smallest division.\n\nAn intercept is the point where the line or curve crosses an axis. The intercept with the vertical axis is the value of the dependent variable when the independent variable is zero. It is read directly at the axis. If the line of best fit of volume of oxygen against time passes through the origin, the intercept shows that no oxygen had collected at the start, which is what would be expected.\n\nExtrapolation means extending the line beyond the plotted data to find a value outside the range of the measurements. Suppose oxygen volume increases by a steady 2.5 cm³ every minute up to 10 min, reaching 25 cm³. To find the time at which 30 cm³ would be reached, the line is extended in the same direction until it meets the 30 cm³ level, and the time is read down to the axis, giving 12 min. Extrapolation is reasonable only where the data show a regular trend that is likely to continue, as here. The result is less certain than a value read inside the plotted range, because the relationship may change outside the range tested. In a real investigation the rate of oxygen release might level off after a time if another factor became limiting, and then the line would not continue upward.\n\nReading a value inside the plotted range is called interpolation, and it is the more dependable of the two. A good answer states which value was found, how it was found and the value with its unit.",
+   "claim_ids": [
+    "CLM-8223-4.4-004",
+    "CLM-8223-4.4-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.4-004": 1,
+    "CLM-8223-4.4-005": 1
+   },
+   "authored_hash": "a1338e074313b783e3aae4d0437277f61feb2ff1e3aac842ce578ecabb64ddaa"
+  },
+  {
+   "block_id": "4.4-b4",
+   "block_type": "process",
+   "heading": "Estimating a concentration from qualitative results",
+   "text": "A qualitative result is a description such as a colour, a cloudiness or the depth of a colour, rather than a number. A concentration cannot be calculated from a colour, but it can be estimated by comparison with solutions of known concentration, which are called standards.\n\nThe method works as follows. Prepare standards of known concentration, for example glucose solutions of 0.0, 1.0, 2.0, 4.0 and 8.0 per cent. Test each standard with the same reagent in the same way, which means the same volume of solution, the same volume of reagent and the same time in the boiling water bath. In the Benedict's test the colours run from blue at 0.0 per cent through green and yellow to orange and brick-red at higher concentrations. Test the unknown in exactly the same way. Then compare the colour of the unknown with the colours of the standards.\n\nSuppose the unknown gives a colour between the yellow of the 2.0 per cent standard and the orange of the 4.0 per cent standard. The estimate is that its glucose concentration lies between 2.0 and 4.0 per cent. A single value such as 3.0 per cent can be given as the middle of the range, but it is an estimate and the range is the honest statement of what the evidence shows.\n\nThe result is a range because colours are compared by eye and ranked in order, not measured. The width of the range is set by the spacing of the standards. To narrow the estimate, prepare more standards at closer intervals inside the range where the unknown fell, for example 2.5, 3.0 and 3.5 per cent, and repeat the test on them and on the unknown together. The unknown can then be matched to a narrower interval. This works only if the standards and the unknown are treated identically. A standard heated for longer than the unknown would give a deeper colour for the same concentration and the comparison would mislead.\n\nThe same approach applies when starch is tested with iodine solution. Standards of 0.2, 0.6 and 1.0 per cent starch give a blue that gets darker as the concentration increases, and an unknown that is darker than the middle standard but paler than the darkest one is estimated to lie between 0.6 and 1.0 per cent.",
+   "claim_ids": [
+    "CLM-8223-4.4-006",
+    "CLM-8223-4.4-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.4-006": 1,
+    "CLM-8223-4.4-007": 1
+   },
+   "authored_hash": "72060fd1ceb3c8254d42ddb9238885621e6223bf5a0387d748abe94883728d3b"
+  },
+  {
+   "block_id": "4.4-b5",
+   "block_type": "plain_explanation",
+   "heading": "Identifying the contents of an unknown solution",
+   "text": "Four tests identify the main biological molecules. In the Benedict's test, the sample is heated with Benedict's reagent in a boiling water bath. The reagent is blue. A reducing sugar turns it green, yellow, orange or brick-red, with the colour moving toward brick-red as more reducing sugar is present. In the iodine test, a few drops of iodine solution are added. The solution is orange-brown, and starch turns it blue-black. In the biuret test, sodium hydroxide and then dilute copper sulfate solution are added. The mixture is blue, and protein turns it purple. In the ethanol emulsion test, the sample is shaken with ethanol and then poured into water, and a cloudy white emulsion shows that lipid is present.\n\nA negative result is the colour of the reagent itself. Benedict's reagent stays blue, iodine stays orange-brown, biuret stays blue and the ethanol and water mixture stays clear. A negative result is useful, because it shows that the substance that test detects was not found.\n\nA non-reducing sugar such as sucrose gives no colour change with Benedict's reagent alone, so it looks like a negative result. To detect it, a second sample is boiled with dilute hydrochloric acid, which breaks the sugar into reducing sugars. The acid is then neutralised with an alkali such as sodium hydrogencarbonate, because Benedict's reagent works in alkaline conditions, and the sample is retested with Benedict's reagent. A positive result after this treatment, together with a negative result before it, shows a non-reducing sugar.\n\nTo identify an unknown solution, the results of all the tests are combined. Each test indicates only the substance it detects, so a solution can contain more than one. Suppose a solution gives a brick-red result with Benedict's reagent, a blue-black result with iodine, and a blue result with biuret and a clear result with ethanol. Then it contains a reducing sugar and starch, and no protein or lipid were found. A solution that is blue with Benedict's reagent until it has been boiled with acid, and orange afterwards, with all other tests negative, contains a non-reducing sugar. The conclusion names the substance and points to the result that shows it.",
+   "claim_ids": [
+    "CLM-8223-4.4-008",
+    "CLM-8223-4.4-009",
+    "CLM-8223-4.4-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.4-008": 1,
+    "CLM-8223-4.4-009": 1,
+    "CLM-8223-4.4-010": 1
+   },
+   "authored_hash": "9b27903b9850d307425908907053f8312455ca79c75764278da08c2bb7898e95"
+  },
+  {
+   "block_id": "4.4-b6",
+   "block_type": "process",
+   "heading": "Anomalous results and means",
+   "text": "An anomalous result is a result that does not fit the pattern of the other results. In a set of repeats it is a value that lies far outside the others. In a set of values across a range it is a point that breaks a steady trend. Suppose five repeat readings of the distance a bubble moved in 5 min are 41, 43, 42, 61 and 44 mm. Four of the values lie within 3 mm of each other and 61 mm is about 17 mm above the rest, so it is anomalous. It is identified by comparing it with the repeats and the trend, and not by guessing.\n\nThe anomalous value is left out before any calculation. If it is left in, a single misleading reading pulls the mean away from the value the other readings agree on. The mean is the sum of the remaining values divided by the number of remaining values. For the readings above, the sum of 41, 43, 42 and 44 is 170 mm, and 170 ÷ 4 = 42.5 mm. With the anomaly left in the mean would be 231 ÷ 5 = 46.2 mm, which is higher than four of the five readings.\n\nThe omission is stated. The learner writes which result was left out and why, for example that it was much larger than the three other repeats. Deleting a value silently hides what was done and cannot be checked.\n\nAn anomaly can also appear across a range. Suppose the change in mass of potato cylinders at 0.0, 0.2, 0.4, 0.6 and 0.8 mol dm⁻³ sucrose is +0.60, +0.41, +0.88, −0.14 and −0.37 g. The values fall steadily from +0.60 g to −0.37 g except at 0.4 mol dm⁻³, where the value is +0.88 g. A value between +0.41 and −0.14 g was expected there, so the result at 0.4 mol dm⁻³ is anomalous. It is left out of any calculation, such as a graph of best fit, and the measurement is repeated if possible. A cause such as a cylinder that was not blotted dry before weighing can be suggested, but the cause is a suggestion and the identification rests on the pattern.",
+   "claim_ids": [
+    "CLM-8223-4.4-011",
+    "CLM-8223-4.4-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.4-011": 1,
+    "CLM-8223-4.4-012": 1
+   },
+   "authored_hash": "a1e45173edc32e964cab9255eecde11b5daaae78990478605c082a0e4c233cb6"
+  },
+  {
+   "block_id": "4.4-b7",
+   "block_type": "plain_explanation",
+   "heading": "Describing patterns and trends",
+   "text": "Describing a pattern means saying what the data show. A good description has three parts. It states the direction of change of the dependent variable as the independent variable changes. It states the shape of the change, such as steady, levelling off, reaching a peak or changing fastest in one section. And it quotes values from the table or graph, with their units, to show the change.\n\nSuppose a table shows bubbles per minute from pondweed at light intensities of 10, 20, 30, 40, 50 and 60 arbitrary units, with the values 6, 12, 18, 23, 24 and 24. A description reads: as light intensity increases from 10 to 40 arbitrary units, the rate increases steadily from 6 to 23 bubbles per minute, about 6 bubbles per minute for each 10 units; above 40 units the rate levels off at 24 bubbles per minute. The words increases and levels off give the direction and the shape, and the values give the evidence. A statement such as the rate goes up is too vague, because it does not say how much or over what range.\n\nSuppose a graph shows the number of yeast cells, in millions per cm³, at 0, 2, 4, 6, 8 and 10 h as 1.0, 1.4, 2.5, 4.4, 5.8 and 6.1. The description notes that the number increases throughout, slowly at first from 1.0 to 1.4 million per cm³ in the first 2 h, fastest between 4 and 6 h when it increases by 1.9 million per cm³, and then more slowly, with only 0.3 million per cm³ added between 8 and 10 h. Finding the section where the change is greatest is part of describing the shape.\n\nA description does not give the reason for the pattern. It does not say why the rate levels off. That belongs to an explanation, which uses biological knowledge and is covered later in this section. Keeping the two apart matters, because a description that drifts into reasons usually leaves out the data, and an explanation that has not first stated the pattern has nothing to explain.",
+   "claim_ids": [
+    "CLM-8223-4.4-013",
+    "CLM-8223-4.4-014"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.4-013": 1,
+    "CLM-8223-4.4-014": 1
+   },
+   "authored_hash": "27f2a9ebe12829c8c847701934ad6bfa46f55351ae96158929233c3f2e4edee3"
+  },
+  {
+   "block_id": "4.4-b8",
+   "block_type": "definition",
+   "heading": "Random and systematic errors",
+   "text": "An error in practical work is a difference between a reading and the true value. Two types are separated by how they behave when a reading is repeated.\n\nA random error is an unpredictable difference that is sometimes above and sometimes below the true value, so repeat readings are scattered. Judging when a solution turns clear is a common cause: five timings of 41, 47, 43, 39 and 45 s differ because the end-point is judged by eye each time and the judgement varies in both directions. Reading a meniscus at a slightly different angle each time has the same effect. Random error affects the spread of the readings. Its effect is reduced by repeating the reading several times and calculating a mean, because errors above and below the true value partly cancel. A large random error can also hide a trend, because the scatter is as big as the changes being looked for.\n\nA systematic error is a difference of similar size and in the same direction in every reading. A balance that reads 0.30 g when nothing is on the pan, because it was not zeroed, adds 0.30 g to every mass. A ruler with a worn end that starts at 0.2 cm instead of 0 has the same kind of effect. All the readings are shifted, so the values are less accurate. The trend is not changed, because the differences between readings and the direction of the change stay the same. A set of masses that increases still increases, and a set that falls still falls. Repeating and averaging does not remove a systematic error, because the same shift is present in every repeat. It is found by checking the apparatus, for instance by weighing nothing, and removed by correcting it.\n\nWhen asked to say how an error affects results, state the kind, say what it does to the readings, and say whether the trend is changed. A random error scatters the readings and may affect the trend if it is large. A systematic error shifts the values and does not affect the direction of the trend.",
+   "claim_ids": [
+    "CLM-8223-4.4-015",
+    "CLM-8223-4.4-016"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.4-015": 1,
+    "CLM-8223-4.4-016": 1
+   },
+   "authored_hash": "5cdbbe30beb25ecdb501e9ffbc679b1eb9b40c5291d252945b75e5d0f8751250"
+  },
+  {
+   "block_id": "4.4-b9",
+   "block_type": "plain_explanation",
+   "heading": "Significant sources of error",
+   "text": "A significant source of error is any variable that may change during the recording of results and so makes the results less accurate. The word significant means that the effect is large enough to matter. There are two common types of source. One is a variable that should have been kept the same but was allowed to change. The other is a measurement that is difficult to make accurately.\n\nSuppose pondweed is lit by a lamp at different distances and the bubbles are counted for 3 min at each distance. A window lets in sunlight that gets stronger and weaker over the half hour of the experiment. The light reaching the pondweed then changes for a reason other than the distance, which makes the results less accurate. Counting bubbles by eye when they are released quickly is also a source of error, because some are missed and bubbles differ in size.\n\nNow suppose maize seedlings are grown in pots on a windowsill, with different amounts of fertiliser, over 14 days. The pot nearest the window receives more light, and each pot is watered until the soil looks damp, so the volumes differ. Light and the volume of water are two variables that may change and affect the height of the seedlings. They are significant sources of error in that investigation.\n\nWhether a source is significant depends on its size compared with the quantity measured. A stopwatch reaction time of about 0.3 s is a small fraction of a reaction that takes 240 s, since 0.3 ÷ 240 × 100 = 0.125 per cent, but it is a larger fraction of one that takes 8 s, since 0.3 ÷ 8 × 100 = 3.75 per cent. The same error is significant in the short timing and much less so in the long one.\n\nName the source specifically. Human error is not a source that can be corrected, because it names nobody's action and no measurement. Say instead what changed or what was hard to measure, such as the light from the window changing during the investigation, and say how it makes the results less accurate.",
+   "claim_ids": [
+    "CLM-8223-4.4-017",
+    "CLM-8223-4.4-018"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.4-017": 1,
+    "CLM-8223-4.4-018": 1
+   },
+   "authored_hash": "3fc1243f9b56a8df7e4528b0b4f11774ef7003cd5bb19692072906e5a43a7d6d"
+  },
+  {
+   "block_id": "4.4-b10",
+   "block_type": "worked_calculation",
+   "heading": "Actual error, percentage error and confidence",
+   "text": "The actual error of a measurement is the amount by which the reading could differ from the true value. When one reading is made on a scale, the actual error is often taken as half of the smallest division. A measuring cylinder marked every 1 cm³ has an actual error of about ±0.5 cm³. The percentage error puts the actual error in proportion to the measurement:\n\npercentage error = actual error ÷ measured value × 100\n\nTake a reading of 4.0 cm³ with an actual error of ±0.5 cm³. The percentage error is 0.5 ÷ 4.0 × 100 = 12.5 per cent. Take a reading of 25.0 cm³ with the same actual error. The percentage error is 0.5 ÷ 25.0 × 100 = 2.0 per cent. The same actual error is a much larger part of the small measurement, so measuring a larger quantity, where that is possible, reduces the percentage error. A measurement with a small percentage error gives more confidence that the result is close to the true value.\n\nPercentage error also helps to judge a difference. Suppose bubble movement is 48 mm at one setting and 51 mm at another, measured with a ruler whose actual error is ±0.5 mm. The percentage errors are about 1.0 per cent each, since 0.5 ÷ 48 × 100 = 1.04 per cent and 0.5 ÷ 51 × 100 = 0.98 per cent. The two errors could add to 1.0 mm at most, and the difference between the results is 3 mm, which is larger. So the difference is unlikely to be due to the measuring alone. Other sources of error, such as a single trial with no repeats, would still need to be considered.\n\nTwo terms must be kept apart. Accuracy is how close a result is to the true value. Reliability is whether repeating the work gives consistent results. A small percentage error is about the first, and says nothing about the second. A learner who finds a percentage error of 1 per cent on one measurement has shown that the measurement is close to the true value, but has not repeated it, so nothing is known about whether repeats agree. To judge the confidence in a result, state the percentage error, say what it shows about accuracy, and say what else, such as repeats, would show about reliability.",
+   "claim_ids": [
+    "CLM-8223-4.4-019",
+    "CLM-8223-4.4-020",
+    "CLM-8223-4.4-021"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.4-019": 1,
+    "CLM-8223-4.4-020": 1,
+    "CLM-8223-4.4-021": 1
+   },
+   "authored_hash": "43eb30cbfe6cea4ed49f665037bc3bed9ae187c7b99821540def204ab9d37135"
+  },
+  {
+   "block_id": "4.4-b11",
+   "block_type": "plain_explanation",
+   "heading": "Standardising variables and confidence in conclusions",
+   "text": "Standardising a variable means keeping it the same in every treatment, so that the independent variable is the only variable that changes. In an investigation into the effect of the volume of water on the height of maize seedlings, the independent variable is the volume of water. To standardise the others, the same volume and type of soil is used in each pot, the pots stand in the same place so that they receive the same light, and the seeds come from the same packet and are planted at the same depth.\n\nStandardising matters because of what it allows the investigator to claim. If the water volume is the only variable that differs, then a difference in height between pots can be attributed to the water, and the conclusion can be made with confidence. If another variable also differs, for example the pots on one side of the bench receive more light, then a difference in height could be due to the water or to the light, and the investigator cannot tell which. Confidence in the conclusion falls. A trend may still be visible, since the taller seedlings may still be those with more water, but the cause is uncertain.\n\nThe effect depends on the variable. Suppose liver pieces are used as a source of catalase to break down hydrogen peroxide, and the height of the foam is measured for different concentrations of hydrogen peroxide. If the pieces of liver have masses ranging from 0.8 g to 2.4 g in the different tubes, then the amount of enzyme differs between tubes. A tube with more liver has more enzyme and more active sites, so more foam could be produced because of the extra enzyme and not because of the hydrogen peroxide. The mass of liver is a variable that should have been standardised, and because it was not, the conclusion about concentration is less secure.\n\nWhen evaluating, name the variable that was not standardised, say how it could change the dependent variable, and say that confidence in the conclusion is reduced as a result. When a variable cannot be fully standardised, such as the weather outside, it is recorded so that its possible effect can be considered.",
+   "claim_ids": [
+    "CLM-8223-4.4-022",
+    "CLM-8223-4.4-023"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.4-022": 1,
+    "CLM-8223-4.4-023": 1
+   },
+   "authored_hash": "cf02c535af0e2f2839a593a702ab49f06b5bedf5994b97b51a25b5c93d49752d"
+  },
+  {
+   "block_id": "4.4-b12",
+   "block_type": "plain_explanation",
+   "heading": "Predicting a trend",
+   "text": "A prediction says what is expected to happen, using the pattern in results already obtained. It has a direction, such as an increase or a decrease. It gives a value where the data allow. And it has a reason, which is found in the pattern or in biological knowledge.\n\nSuppose yeast produces carbon dioxide at 0, 8, 15 and 21 bubbles per minute in sugar solutions of 0, 2, 4 and 6 per cent. Each increase of 2 per cent in the concentration has added between 6 and 8 bubbles per minute. For 8 per cent sugar the prediction is that the rate will increase further, to about 26 to 28 bubbles per minute, because the pattern so far has been a steady increase. This prediction assumes that the pattern continues.\n\nPredictions beyond the data are uncertain, because the relationship may change. In the yeast example, the enzymes in the yeast can be working at their maximum rate at a higher concentration, so the rate may level off and the increase may be smaller than the pattern suggests. A good answer gives the prediction and recognises this uncertainty, while using the data as its evidence.\n\nConsider another set of results. Lettuce seeds are put in salt solutions of 0, 0.5, 1.0 and 1.5 per cent, and the numbers of seeds out of 20 that germinate are 19, 15, 9 and 3. Each increase of 0.5 per cent in the salt has reduced germination by between 4 and 6 seeds. For 2.0 per cent the prediction is a number below 3, probably close to 0. A number of seeds cannot be less than zero, so the decrease must slow down as zero is approached, and the prediction cannot follow the steady fall past that point. The reason can be given in biology. As the salt concentration of the solution increases, its water potential decreases, so less water moves into the seeds by osmosis, and seeds that take up less water germinate less.\n\nState the direction first, then the value or range, then the reason, and then the limit to the prediction.",
+   "claim_ids": [
+    "CLM-8223-4.4-024",
+    "CLM-8223-4.4-025"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.4-024": 1,
+    "CLM-8223-4.4-025": 1
+   },
+   "authored_hash": "5e27939f563a56553c960c13cd20018a0038721f92dcb19d257eda3a56e9b91d"
+  },
+  {
+   "block_id": "4.4-b13",
+   "block_type": "plain_explanation",
+   "heading": "Drawing a conclusion from patterns",
+   "text": "A conclusion is a statement of what the results show about the relationship between the independent variable and the dependent variable. It answers the question that the investigation set out to answer, in words that link the two variables, and it is supported by quoted values.\n\nSuppose foam height in a catalase experiment is 12, 25, 36 and 47 mm at hydrogen peroxide concentrations of 0.5, 1.0, 1.5 and 2.0 per cent. The conclusion is that foam height increases as the concentration of hydrogen peroxide increases, from 12 mm at 0.5 per cent to 47 mm at 2.0 per cent. The statement names both variables, gives the direction and quotes the end values. It also gives the range, from 0.5 to 2.0 per cent, because the investigation covers no other concentrations.\n\nA conclusion also compares groups when that is the design. Suppose the mean density of stomata on ten leaf samples is 45 per mm² on the upper surface and 210 per mm² on the lower surface of one species. The conclusion is that the lower surface had more stomata than the upper surface in this species, about 4.7 times as many, since 210 ÷ 45 = 4.67. Saying in this species matters, because the samples came from one species and say nothing about plants in general.\n\nTwo limits keep a conclusion honest. First, it applies to the range of values tested and to the material used. The results above do not show what happens at 5.0 per cent hydrogen peroxide, and the stomata counts do not show what happens in a different species. Second, the conclusion does not claim a cause beyond what the controls allow. If other variables changed as well, then the pattern may be found but the cause cannot be stated with confidence.\n\nDo not confuse a conclusion with a description or an explanation. A description gives the pattern in the numbers. A conclusion states the relationship the pattern shows between the two variables and refers back to the aim. An explanation gives the biological reason for it.",
+   "claim_ids": [
+    "CLM-8223-4.4-026",
+    "CLM-8223-4.4-027"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.4-026": 1,
+    "CLM-8223-4.4-027": 1
+   },
+   "authored_hash": "49737b8e21370e07b3e5189607dde97ddd4e4375f54a9e5aa32be0ea1dc0e8a8"
+  },
+  {
+   "block_id": "4.4-b14",
+   "block_type": "plain_explanation",
+   "heading": "Deciding whether data support a hypothesis",
+   "text": "A hypothesis is a testable prediction of a relationship between variables, often with a reason. A hypothesis that the greater the concentration of sucrose in the surrounding solution, the less water the potato cylinders gain can be tested by measuring the change in mass of cylinders in different solutions.\n\nThe data support the hypothesis when the pattern in the results matches what it predicted. Suppose the change in mass at 0.0, 0.2, 0.4, 0.6 and 0.8 mol dm⁻³ sucrose is +0.62, +0.35, +0.08, −0.19 and −0.41 g. The mass change decreases as the concentration increases, from a gain of 0.62 g to a loss of 0.41 g. The pattern matches the prediction, so the data support the hypothesis. The decision is followed by the values that justify it.\n\nSometimes only part of the data matches. Suppose the hypothesis is that the more fertiliser a plant is given, the taller it grows, and the mean heights at 0, 5, 10 and 15 g of fertiliser are 14.2, 18.9, 19.1 and 15.0 cm. From 0 to 10 g the height increases, which matches the hypothesis, although between 5 and 10 g the increase is only 0.2 cm. At 15 g the height decreases to 15.0 cm, which does not match. The data support the hypothesis in part, and the statement says where it holds and where it does not.\n\nData do not prove a hypothesis. They support it or they fail to support it. Suppose a learner tests three light intensities with one trial each and the rate of growth increases with the intensity each time. The results are consistent with the hypothesis, but the learner cannot say it is proved. Only three values were tested, so a different range could show another pattern, such as a levelling off, and with a single trial for each value the pattern could be due to chance. More values and repeats would increase the strength of the support.\n\nA good answer states whether the data support the hypothesis, wholly, in part or not at all, quotes values that show it, and says what limits the strength of the support.",
+   "claim_ids": [
+    "CLM-8223-4.4-028",
+    "CLM-8223-4.4-029"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.4-028": 1,
+    "CLM-8223-4.4-029": 1
+   },
+   "authored_hash": "369c0a0e76d49730ef4929a9c959bba5b3b9fe61c39b0126b1467ed8115744af"
+  },
+  {
+   "block_id": "4.4-b15",
+   "block_type": "worked_application",
+   "heading": "Estimating an unknown concentration from known ones",
+   "text": "A calibration is a set of results for solutions of known concentration, tested by the same method as the unknown. It is used to estimate the concentration of the unknown, either by a graph or a table.\n\nSuppose potato cylinders are placed in sucrose solutions of known concentration and the percentage change in mass is recorded as +14, +7, 0, −7 and −14 per cent at 0.0, 0.2, 0.4, 0.6 and 0.8 mol dm⁻³. A cylinder placed in a solution of unknown concentration changes in mass by −3.5 per cent. To estimate the concentration, plot the percentage change against concentration and draw the line of best fit. Draw a line across from −3.5 per cent on the vertical axis to the line, and down to the horizontal axis. The reading is 0.5 mol dm⁻³. The same value follows from the table, because −3.5 per cent lies halfway between 0 at 0.4 and −7 at 0.6, so the concentration lies halfway between 0.4 and 0.6 mol dm⁻³. The conclusion states the estimate with its unit and says how it was obtained.\n\nWhen the relationship is curved, the graph is drawn as a smooth curve. Suppose the volume of fruit juice needed to decolourise a fixed volume of a blue dye is measured for vitamin C solutions of 0.1, 0.2, 0.4 and 0.8 per cent, giving 8.0, 4.0, 2.0 and 1.0 cm³. The more concentrated the vitamin C, the less volume is needed. A juice that needs 2.7 cm³ gives a concentration between 0.2 and 0.4 per cent, and the curve gives a value of about 0.3 per cent.\n\nThe estimate is dependable inside the range of the known concentrations and when the unknown has been tested in exactly the same way. Suppose the unknown caused a change of −20 per cent, which is outside the range of the known concentrations that ends at −14 per cent. The line would need to be extended, and nothing shows that the relationship continues in a straight line there. The better course is to dilute the unknown solution by a known factor, repeat the test so that the result falls inside the calibrated range, and multiply the estimate by the factor. The estimate is written as approximate and with its unit.",
+   "claim_ids": [
+    "CLM-8223-4.4-030",
+    "CLM-8223-4.4-031"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.4-030": 1,
+    "CLM-8223-4.4-031": 1
+   },
+   "authored_hash": "daa189e0331a6c08d009c2e85e03841f7f8d78ac52fe451f1c4a5af98e98c6e2"
+  },
+  {
+   "block_id": "4.4-b16",
+   "block_type": "worked_application",
+   "heading": "Explaining data with biological knowledge",
+   "text": "To explain data is to give the biological reason for the pattern in it. A good explanation has three parts. It states the pattern, with a value from the data. It names the biological process responsible. And it shows how that process causes the change, as a chain from cause to effect. The terms used are those of the topic the data come from, used correctly.\n\nConsider the rate of an enzyme-controlled reaction at substrate concentrations of 1, 2, 3, 4, 5 and 6 per cent, with rates of 8, 15, 22, 26, 27 and 27 mm³ of product per minute. The pattern is that the rate increases and then levels off at about 27 mm³ min⁻¹ above 5 per cent. At low substrate concentration there are many unoccupied active sites, so an increase in substrate means more enzyme-substrate complexes form in each minute and the rate increases. At high substrate concentration substrate occupies all the active sites at any moment, so adding more substrate cannot increase the rate. The enzyme concentration, meaning the number of active sites, is limiting.\n\nConsider potato cylinders placed in a sucrose solution of 0.8 mol dm⁻³ that lose 0.41 g in mass. The explanation is that the solution has a lower water potential than the contents of the potato cells. Water moves out of the cells by osmosis, down the water potential gradient, through the partially permeable cell surface membranes. The cells therefore lose water, and the cylinder loses mass. Naming the direction of the gradient and the membrane makes the chain complete.\n\nOther kinds of data are explained the same way. A calculated value, such as a percentage change, is explained by stating what it shows and why the process would produce it. An observation, such as a colour change, is explained by what substance the colour shows.\n\nA frequent weakness is an explanation that restates the pattern. Saying that the rate levels off because it stops increasing explains nothing. Another is a correct term used in the wrong place, such as water potential used for the concentration of a solute. Check that each term names what it should and that the chain runs from the cause to the effect.",
+   "claim_ids": [
+    "CLM-8223-4.4-032",
+    "CLM-8223-4.4-033"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.4-032": 1,
+    "CLM-8223-4.4-033": 1
+   },
+   "authored_hash": "d51643a69f1bde543edd56d12f1d2594c3f782af05ca9622c0d7b41bf8665edf"
+  },
+  {
+   "block_id": "4.4-b17",
+   "block_type": "plain_explanation",
+   "heading": "Suggesting improvements",
+   "text": "An improvement is a change to the procedure that makes the results or the observations more accurate. A useful improvement has three parts. It names the source of error. It says what to change. And it says why the change makes the result more accurate.\n\nSuppose a learner measures 5 cm³ of enzyme solution using a 100 cm³ beaker marked every 10 cm³. The scale divisions are far larger than the volume measured, so the actual error is large, and the percentage error is correspondingly large. The improvement is to measure the volume with a graduated pipette or a syringe marked every 0.1 cm³. The actual error becomes smaller, so the percentage error falls and the volume is more accurate.\n\nSuppose the times for a colour change are 38, 41, 46, 40 and 43 s, a spread of 8 s. One proposed improvement is a stopwatch that reads to 0.01 s instead of 0.1 s. This does not address the scatter, because 0.1 s is small compared with the 8 s difference. The scatter comes from judging the end-point by eye. A better improvement is to repeat the timing several times and calculate a mean, which reduces the effect of random error, or to compare the colour against a prepared colour standard held next to the tube, so that the end-point is judged against the same reference each time. Judging improvements means asking which source of error is largest and choosing the change that acts on it.\n\nSuppose bubbles from pondweed are counted by eye at a fast rate, and bubbles differ in size. Counting misses some bubbles and treats large and small as equal. The improvement is to collect the gas in a gas syringe or an inverted measuring cylinder and measure the volume in a fixed time. Volume is a measurement of the quantity of gas, so it is more accurate than a count of bubbles of different sizes.\n\nA statement such as be more careful or be more accurate is not an improvement. It names no error and no change. The change must act on a specific, named source of error.",
+   "claim_ids": [
+    "CLM-8223-4.4-034",
+    "CLM-8223-4.4-035"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.4-034": 1,
+    "CLM-8223-4.4-035": 1
+   },
+   "authored_hash": "c513863924bf73438cd7747891694464a5681f8c903f47adafd3bb135712d0a1"
+  },
+  {
+   "block_id": "4.4-b18",
+   "block_type": "plain_explanation",
+   "heading": "Modifying and extending an investigation",
+   "text": "A modification changes an investigation so that it answers a new question. The usual change is to the independent variable, or to the material. The other variables are standardised, so that the new independent variable is the only thing that differs, and the answer states what will be measured, over what range, and how many repeats.\n\nSuppose an investigation has measured the bubbles released by pondweed at different distances from a lamp. To find the effect of the colour of light, the independent variable becomes the colour. Filters of red, green and blue are placed between the lamp and the pondweed in turn. The lamp stays at the same distance, so the intensity is as similar as possible, and the same piece of pondweed, the same volume of water and the same counting time are used. The bubbles per minute are counted for each colour, with repeats. Because only the colour differs, a difference in the number of bubbles can be attributed to it.\n\nSuppose lettuce seeds have been found to germinate less in salt solution, and the question is whether a crop grown in dry conditions, such as mahangu (pearl millet), responds in the same way. The material changes. The same salt concentrations of 0, 0.5, 1.0 and 1.5 per cent are used, the same number of seeds, 20 in each dish, the same volume of solution and the same time. The independent variable is now the species at each concentration, and the number germinating in each dish is counted and compared.\n\nAn extension goes further to test a conclusion or an explanation. Suppose the rate of bubbles from pondweed levels off above a light intensity of 40 arbitrary units, and the explanation proposed is that carbon dioxide has become limiting. The extension is to repeat the investigation at a high light intensity, in the region where the rate has levelled off, and to add sodium hydrogencarbonate to the water, which supplies carbon dioxide. The prediction is that the rate would increase if carbon dioxide was limiting. The other variables, such as the pondweed, the distance and the time, are kept the same, and a control without the hydrogencarbonate is run beside it.\n\nIn each case the answer says what is changed, what is kept the same and what is measured.",
+   "claim_ids": [
+    "CLM-8223-4.4-036",
+    "CLM-8223-4.4-037"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.4-036": 1,
+    "CLM-8223-4.4-037": 1
+   },
+   "authored_hash": "db999ab9145538112c2968ee9a4a6995b11d0d79116cda1a157496e49721e3cf"
+  },
+  {
+   "block_id": "4.4-b19",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "Planning investigations and taking measurements are taught in 4.1, recording and presenting data in 4.3, and the rules for significant figures, graphs and rates of change are met again in the mathematical skills of 5.1 and 5.2. The biological knowledge used to explain results comes from the content topics: enzyme action in 2.5, movement across membranes in 2.3.2 and the biological molecule tests in 2.4.1.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {},
+   "authored_hash": "9221545c5dfb3f0ff23ab17a9f415c9cc3fc7907cac75fba7531e461c01d1d23"
+  }
+ ],
+ "word_count": 6493,
+ "qa_status": "review_required",
+ "notes": [
+  "Readings used in worked examples are our own invented values."
+ ]
+}

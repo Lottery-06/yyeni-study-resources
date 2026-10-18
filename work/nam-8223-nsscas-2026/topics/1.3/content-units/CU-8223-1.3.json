@@ -1,0 +1,246 @@
+{
+ "unit_id": "CU-8223-1.3",
+ "title": "Conservation",
+ "objective_ids": [
+  "OBJ-8223-1.3-01",
+  "OBJ-8223-1.3-02",
+  "OBJ-8223-1.3-03",
+  "OBJ-8223-1.3-04",
+  "OBJ-8223-1.3-05",
+  "OBJ-8223-1.3-06",
+  "OBJ-8223-1.3-07"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_explanation",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 1900,
+  "target": 2300,
+  "max": 2730
+ },
+ "blocks": [
+  {
+   "block_id": "1.3-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "Why biodiversity is worth maintaining, why polluted water ways matter through bioaccumulation and eutrophication, what zoos, botanic gardens, protected areas, frozen zoos and seed banks each do for endangered species, why the numbers of some species may need to be limited, why alien species are controlled, how a damaged habitat is restored, and how poaching of rhinos and elephants harms tourism in Namibia, South Africa and Botswana.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "08d53bc73af961992dd32b72e686489a29565978cc5002cc6b0b5b96284eb9f1"
+  },
+  {
+   "block_id": "1.3-b2",
+   "block_type": "plain_explanation",
+   "heading": "Why biodiversity is maintained",
+   "text": "Biodiversity is the variety of living organisms in an area: the variety of species, the genetic variation within each species and the variety of ecosystems. Topic 1.2 explains how it is measured. This section is about why it is worth keeping.\n\nThe first reason is ecological. An ecosystem with many species tends to have many feeding links. If one species declines, other species can often take over part of its role, so the ecosystem keeps working. A simple ecosystem has fewer links, and the loss of one species is more likely to cause a chain of losses. Species also carry out jobs that people depend on: bees and other insects pollinate crops, decomposers return nutrients to the soil, plant roots hold soil in place, and wetland plants help to clean water.\n\nThe second reason is economic. Wild species give food, timber and medicines. The wild relatives of crops and livestock hold genes that breeders can use, for example for resistance to disease or drought, and that genetic variation is lost when a species is lost. In Namibia, wildlife is also the basis of tourism. Visitors to Etosha, the Namib and the communal conservancies pay for lodges, guides and park fees, and that income pays wages in places with few other jobs.\n\nThe third reason is ethical and aesthetic. Many people hold that other species have a value of their own, whatever they offer to people, and that later generations should be able to see and use the living world that we inherited. A discussion answer weighs these reasons and links each to a result. For example, a species lost from a food web can lower the food supply of the species that eat it, which is a cause and an effect and not just a statement that biodiversity is good.",
+   "claim_ids": [
+    "CLM-8223-1.3-001",
+    "CLM-8223-1.3-002",
+    "CLM-8223-1.3-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-1.3-001": 1,
+    "CLM-8223-1.3-002": 1,
+    "CLM-8223-1.3-003": 1
+   },
+   "authored_hash": "a2daa43c3c28da27f818f395841530ace22e8be47755bb562a6ccd797bdf208a"
+  },
+  {
+   "block_id": "1.3-b3",
+   "block_type": "process",
+   "heading": "Water pollution: eutrophication",
+   "text": "Eutrophication is the enrichment of water with nutrients, mainly nitrates and phosphates, which causes a rapid growth of algae and plants. It happens when fertiliser washes off irrigated fields, or when sewage and detergents enter a river or dam, especially one where the water moves slowly.\n\nThe effects follow in a chain. First, the extra nitrate and phosphate remove the shortage of nutrients that normally limits growth, so algae multiply rapidly and form a green bloom across the surface. Second, the bloom cuts off light, so submerged plants cannot photosynthesise and die. Third, the dead algae and plants are food for decomposers, mainly aerobic bacteria. These bacteria multiply and respire, which uses up the dissolved oxygen in the water. Finally, fish and other aerobic organisms cannot get enough oxygen and die, and the number of species in the water falls. Some algae also release toxins that make the water unsafe for livestock and people.\n\nThis is why reducing nutrient pollution matters. Keeping fertiliser and sewage out of the water, for example by treating sewage before release, by planting a strip of vegetation along the bank to take up nutrients and by applying fertiliser in amounts and at times that crops can use, keeps the chain from starting. Dams that supply a town with water, such as those in the Windhoek and Gauteng areas, are especially important to protect because treating water that carries a bloom costs more.",
+   "claim_ids": [
+    "CLM-8223-1.3-004",
+    "CLM-8223-1.3-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-1.3-004": 1,
+    "CLM-8223-1.3-005": 1
+   },
+   "authored_hash": "c2d51aa6be6794fbe9d552e028caa2453423a2c5a5b47b97e8fb796a9ea2bca7"
+  },
+  {
+   "block_id": "1.3-b4",
+   "block_type": "process",
+   "heading": "Water pollution: bioaccumulation",
+   "text": "Bioaccumulation is the build-up of a persistent substance in the tissues of an organism over time. A persistent substance is one that is not broken down by the organism and is not excreted, so each day's intake adds to what is already there. The concentration in the body can then become far higher than the concentration in the water around it. Heavy metals such as mercury and lead, which can leave mining and industry, and the insecticide DDT, which has been used against mosquitoes, are examples. DDT also dissolves in fat, which is why it is stored in the fatty tissue of animals.\n\nThe substance climbs the food chain as well. Algae take up a small amount from the water. A small fish eats very many algae, and so takes in the amount held by each one of them. A larger fish eats many small fish, and a fish eagle or a person eats the larger fish. At each step the amount taken in is the sum from many prey animals, and little is lost, so the concentration tends to be highest in the top consumer. A pollutant that is present in water at a level that does no harm to algae can in this way reach a level that harms a fish eagle, by weakening its eggshells or damaging its nervous system, or that makes fish unsafe for people to eat.\n\nThe importance of reducing pollution of waterways is therefore twofold. Reducing nutrient pollution stops eutrophication and keeps the water supporting aerobic life. Reducing the release of persistent poisons stops bioaccumulation, which protects top consumers and the people who rely on rivers and dams for fish and drinking water.",
+   "claim_ids": [
+    "CLM-8223-1.3-006",
+    "CLM-8223-1.3-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-1.3-006": 1,
+    "CLM-8223-1.3-007": 1
+   },
+   "authored_hash": "155edcfbc0dcefaceb3b87d7fb7613483986218a02a00b5520bf10321243ee4d"
+  },
+  {
+   "block_id": "1.3-b5",
+   "block_type": "components",
+   "heading": "Conserving endangered species: the places and stores",
+   "text": "An endangered species is one at risk of becoming extinct. Several kinds of place and store help, and each has its own role.\n\nZoos keep and breed endangered animals in captivity. The offspring can be released into protected habitat to add to a wild population, and the animals also give scientists a chance to study breeding and diet. Zoos educate visitors, which builds support for conservation. Botanic gardens do the same for plants: they grow and propagate rare species as a living collection, carry out research and teach visitors, and plants raised there can be planted back into the wild.\n\nNational parks and marine parks conserve whole habitats and all the species living in them, in their natural environment. This is conservation in situ. Legal protection and patrols by rangers reduce hunting, poaching and clearing of the habitat, so that breeding populations can recover where they live. Etosha is a national park that protects black rhinos and elephants, and Namibia also has a protected marine area that includes seabird and seal breeding islands.\n\nA frozen zoo stores sperm, eggs, embryos and cells of endangered animals at a very low temperature, usually in liquid nitrogen. Living material kept this cold is not active, so it is preserved for many years and can be used later in artificial insemination or breeding programmes. A seed bank stores the seeds of wild plants. The seeds are dried and kept cold, so they stay alive for many years, and they can be germinated to rebuild a population.\n\nThese methods work together. Stored animals and seeds are an insurance, because if a wild population is lost or falls to a very low number, captive-bred animals or stored genetic material can be used to rebuild it. The stored samples also keep genetic variation that a small wild population would lose.",
+   "claim_ids": [
+    "CLM-8223-1.3-008",
+    "CLM-8223-1.3-009",
+    "CLM-8223-1.3-010",
+    "CLM-8223-1.3-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-1.3-008": 1,
+    "CLM-8223-1.3-009": 1,
+    "CLM-8223-1.3-010": 1,
+    "CLM-8223-1.3-011": 1
+   },
+   "authored_hash": "d3316cf939542e00fb5c43bbad2266de36e4e134f828834c76307f2cbe15d14a"
+  },
+  {
+   "block_id": "1.3-b6",
+   "block_type": "plain_explanation",
+   "heading": "Why the numbers of some species may be limited",
+   "text": "Culling is the selective killing of some animals in a population to reduce its size. Contraception, as used in wildlife management, prevents animals from breeding successfully, so the population grows more slowly or stops growing without any animal being killed.\n\nThe reason is the pressure that one species puts on others. In the wild, a herbivore population is held down by drought, predators and the ability to move away when food runs short. In a fenced reserve those controls can be weak. Elephants, for example, can increase until they are more than the land can support, which is its carrying capacity. A large herd feeds on bark and trees and strips the ground of cover, so woodland is lost. The birds, small browsers and other species that need that woodland for food and shelter then decline, and bare soil erodes. The pressure on those other species is reduced by reducing the size of the elephant population.\n\nBoth methods have costs. Culling reduces numbers quickly, but many people oppose it on ethical grounds, and removing animals can disturb the social groups of species such as elephants. Contraception avoids killing, but it acts slowly, has to be repeated or tracked animal by animal, and costs more per animal. The choice therefore depends on how fast numbers must fall and on the size of the area. Neither is needed where natural controls still keep numbers within the carrying capacity.",
+   "claim_ids": [
+    "CLM-8223-1.3-012",
+    "CLM-8223-1.3-013",
+    "CLM-8223-1.3-014"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-1.3-012": 1,
+    "CLM-8223-1.3-013": 1,
+    "CLM-8223-1.3-014": 1
+   },
+   "authored_hash": "993ce1c75ba1f72df83b07c3317e8849d3a369d6bc98e8bb23c110989712d79f"
+  },
+  {
+   "block_id": "1.3-b7",
+   "block_type": "plain_explanation",
+   "heading": "Controlling alien species",
+   "text": "An alien species is a species that has been introduced, usually by human activity, into an area outside its natural range. If it spreads and harms the native species it is called invasive. Many alien species cause no harm, so it is the invasive ones that are controlled.\n\nAn invasive species can spread fast because the predators, parasites and competitors that hold it down in its home range are absent. It competes with native species for light, water and space, so native species decline and the biodiversity of the area falls. Some change the habitat itself. Mesquite (Prosopis) was planted in Namibia and has spread along dry riverbeds, where it forms dense stands that use groundwater and shade out the native trees that feed wildlife and livestock. Water hyacinth and Salvinia cover dams and rivers in southern Africa with a floating mat that blocks light, so submerged plants die and the oxygen supply falls, and the mat also blocks boats and the flow of water. Australian wattles in South Africa use large amounts of water in catchments.\n\nControl methods include pulling or cutting the plants by hand or machine, treating stumps so that they do not regrow, and biological control, in which an insect that feeds on that plant is released. A biological control agent has to be tested first to show that it feeds on the target plant and not on native species, because a poorly chosen agent could itself become a pest. Preventing introduction, by checking imports and by choosing native plants for gardens and farms, costs less than removing a species once it has spread. Controlling alien species is important because it protects native species, water supplies and the land that people farm.",
+   "claim_ids": [
+    "CLM-8223-1.3-015",
+    "CLM-8223-1.3-016",
+    "CLM-8223-1.3-017"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-1.3-015": 1,
+    "CLM-8223-1.3-016": 1,
+    "CLM-8223-1.3-017": 1
+   },
+   "authored_hash": "2dcafcce70b267d283091eccde0b71885574b14fd4f577e5f407af0427093d3e"
+  },
+  {
+   "block_id": "1.3-b8",
+   "block_type": "process",
+   "heading": "Restoring degraded habitats",
+   "text": "Habitat restoration is the active repair of a degraded habitat, one already damaged by overgrazing, mining, alien plants or other causes, to bring back its native plants, animals and ecosystem functions. Restoration is different from protection: protection keeps intact habitat as it is, and restoration repairs habitat that has been damaged.\n\nThe usual order of work is as follows. The first step is to stop or reduce the cause of the damage, because planting into land that is still being damaged fails. This can mean resting overgrazed land by removing livestock for a time, then using rotational grazing, or fencing a stream bank to keep livestock out, or removing alien plants. The second step is to help the land recover. On rangeland in Namibia where thorn bush has spread and crowded out grass, landowners thin the bush so that grass can grow again, and reseed bare patches with native grasses. Along the Kuiseb and other dry rivers, mesquite can be cleared and native trees allowed to return. In South Africa, the Working for Water programme clears alien trees from catchments so that streams flow better and native plants recover. Mined land can be reshaped, covered with the saved topsoil and replanted with native species. The result is that native plants return, soil is held in place by roots, and animals return because food and shelter are back.\n\nEach example has the same pattern: remove the cause, repair the damage, then let the native community return. Recovery takes years, and monitoring shows whether it is working.",
+   "claim_ids": [
+    "CLM-8223-1.3-018",
+    "CLM-8223-1.3-019"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-1.3-018": 1,
+    "CLM-8223-1.3-019": 1
+   },
+   "authored_hash": "cee79ff1cc6bed914851e4d254ac11ebf32ce7e4a8a28bcfa8c3ca856e187f29"
+  },
+  {
+   "block_id": "1.3-b9",
+   "block_type": "misconception",
+   "heading": "Reserves and restoration are not the same",
+   "text": "A common mistake is to answer a question about restoring a damaged habitat by saying that more nature reserves should be created. The error is a confusion between protecting a habitat and repairing one. A reserve keeps habitat that is still intact safe from future damage. It does nothing by itself for land that is already damaged: an overgrazed slope or a river bank covered in alien plants stays degraded inside a reserve boundary until someone does the work of removing the cause, replanting native species and holding the soil.\n\nThe test is to ask whether the habitat is still intact or already damaged. If it is intact, protection (a park, a reserve, patrols) is the answer. If it is damaged, restoration actions are the answer. A good answer about restoration names an action on the damaged land, such as removing alien plants or reseeding with native plants, and says what that action does.",
+   "claim_ids": [
+    "CLM-8223-1.3-020"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A"
+   ],
+   "claims_seen": {
+    "CLM-8223-1.3-020": 1
+   },
+   "authored_hash": "7bd5c0d39aaf90f0d42d77b685b1b65d6f5ce971dac3dd0dbf7522afc324ac1f"
+  },
+  {
+   "block_id": "1.3-b10",
+   "block_type": "worked_application",
+   "heading": "Poaching and tourism: following the chain",
+   "text": "The syllabus asks for the negative impact of rhino and elephant poaching on tourism in Namibia, South Africa and Botswana. The impact is best understood as a chain of cause and effect.\n\nRhinos and elephants are among the animals that tourists most want to see. Namibia's desert-adapted elephants and black rhinos in the Kunene region and in Etosha, South Africa's rhinos and elephants in Kruger and other reserves, and Botswana's elephants in Chobe and the Okavango all draw visitors. Poaching removes the animals, for their horn or their ivory. The first effect is that numbers fall, so there are fewer sightings in a visit. A reserve that is known for its rhinos is then a less attractive place to visit, and some tourists tend to choose other destinations.\n\nThe second effect is lost income. Fewer tourists means less spending at lodges, on guides, in craft markets and in park fees. Jobs are lost. In Namibia, communal conservancies share tourism income with rural households, so those households lose a source of money, and when a community gains little from live animals, poaching can become more tempting, which reduces numbers further.\n\nThe third effect is cost. Governments, parks and private reserves spend money on rangers, aircraft, fences and measures such as dehorning or moving rhinos, and that money is not spent on other work. News reports of poaching can also damage a country's name as a safe place to see wildlife, which tends to reduce bookings in the following seasons. A full answer about this objective names the animals, says how poaching changes the tourist's choice, and then states the loss to income, jobs or conservancies.",
+   "claim_ids": [
+    "CLM-8223-1.3-021",
+    "CLM-8223-1.3-022",
+    "CLM-8223-1.3-023"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-1.3-021": 1,
+    "CLM-8223-1.3-022": 1,
+    "CLM-8223-1.3-023": 1
+   },
+   "authored_hash": "e44dddc191fde1d07fc1dfd9aa1c86e16123bdd5697be774cd016291f5a6759d"
+  },
+  {
+   "block_id": "1.3-b11",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "Topic 1.2 (Biodiversity) defines biodiversity and explains how it is measured, which this topic assumes when it asks why biodiversity should be maintained.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "af9380381a19ddade7075edecd47cd35463f0cde6fe27bb2dbf5a52b31a00fdc"
+  }
+ ],
+ "word_count": 2468,
+ "qa_status": "review_required",
+ "notes": [
+  "Authored for topic 1.3. Regional examples are from general knowledge, single source, unverified."
+ ]
+}

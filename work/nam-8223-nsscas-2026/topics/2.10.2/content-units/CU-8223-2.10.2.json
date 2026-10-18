@@ -1,0 +1,187 @@
+{
+ "unit_id": "CU-8223-2.10.2",
+ "title": "Smoking and its impact on the gas exchange and circulatory system",
+ "objective_ids": [
+  "OBJ-8223-2.10.2-01",
+  "OBJ-8223-2.10.2-02",
+  "OBJ-8223-2.10.2-03"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_description",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 890,
+  "target": 1258,
+  "max": 1270
+ },
+ "blocks": [
+  {
+   "block_id": "2.10.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "What tar and the carcinogens in tobacco smoke do to the airways and alveoli, leading to lung cancer and chronic obstructive pulmonary disease (COPD); what nicotine and carbon monoxide do to the heart and blood vessels within minutes of smoking; and how to plan, record and interpret a questionnaire survey of hay fever or asthma.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "2191219a83b203aaa435cfc2f4c73e69c0639fba592695daef434ed54c797e74"
+  },
+  {
+   "block_id": "2.10.2-b2",
+   "block_type": "plain_explanation",
+   "heading": "Three harmful parts of tobacco smoke",
+   "text": "Tobacco smoke is a mixture of many substances, and three of them do the harm described in this topic. Tar is a sticky mixture of tiny particles that condenses on the lining of the bronchi, bronchioles and alveoli. Many chemicals in tar are carcinogens, and a carcinogen is a substance that can cause cancer. Nicotine is an addictive drug that acts on the nervous system and blood vessels. Carbon monoxide is a gas formed when tobacco burns with too little oxygen, and it is carried in the blood.\n\nKeep the three apart, because they act on different parts of the body in different ways. Tar and the carcinogens in it act on the gas exchange system, where they land. Nicotine and carbon monoxide pass into the blood and act on the cardiovascular system. Writing that tar makes the heart beat faster gives an effect to the wrong substance.",
+   "claim_ids": [
+    "CLM-8223-2.10.2-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.10.2-001": 1
+   },
+   "authored_hash": "bd73f531c1f23b786e0ab43e9bf45d143fc0ee95a53061f947857caa3cb15823"
+  },
+  {
+   "block_id": "2.10.2-b3",
+   "block_type": "process",
+   "heading": "Carcinogens and lung cancer",
+   "text": "The carcinogens in tar reach the epithelial cells that line the bronchi. In a cell, a carcinogen can damage DNA and cause a mutation, which is a change in the sequence of bases in a gene. If the mutation is in a gene that controls cell division, the cell may divide when it should not.\n\nOne mutation is rarely enough. Over years of smoking, more mutations build up in the same line of cells, which is why lung cancer tends to appear after long exposure and not after a few cigarettes. A cell that divides out of control gives rise to a tumour, a mass of cells that keeps growing. The tumour can block a bronchus, so air cannot reach the alveoli beyond it, and it destroys the lung tissue around it, which reduces the surface area for gas exchange. Cells can also break away and start new tumours in other organs. The result is a persistent cough, breathlessness and, in time, too little oxygen reaching the blood.",
+   "claim_ids": [
+    "CLM-8223-2.10.2-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.10.2-002": 1
+   },
+   "authored_hash": "3206ab786b21a55f664d1707711b51f11d1386429bb38e5018fe06b8940467a7"
+  },
+  {
+   "block_id": "2.10.2-b4",
+   "block_type": "process",
+   "heading": "Chronic obstructive pulmonary disease: chronic bronchitis",
+   "text": "COPD is a long-term disease in which airflow in and out of the lungs is obstructed and the damage is not fully reversible. It includes two conditions, chronic bronchitis and emphysema, and many smokers have both. \n\nChronic bronchitis develops as a chain of cause and effect. Tar and other irritants in the smoke land on the lining of the bronchi and paralyse the cilia, and with continued smoking the cilia are destroyed. The goblet cells in the lining enlarge and make more mucus. The mucus, carrying tar, dust and bacteria, is no longer swept towards the throat, so it collects in the airways. The smoker coughs to clear it, and the cough becomes persistent. Bacteria multiply in the stagnant mucus, so infections are frequent, and white blood cells move in and add pus. The lining becomes inflamed and swollen and the mucus narrows the airway, so air flows with difficulty. The symptoms are a cough with mucus, wheezing and breathlessness.",
+   "claim_ids": [
+    "CLM-8223-2.10.2-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.10.2-003": 1
+   },
+   "authored_hash": "d5d99e15ba5b2da7c8d18391dbc5d87f9a6a1879da019d1d6bd1b288d8cf649d"
+  },
+  {
+   "block_id": "2.10.2-b5",
+   "block_type": "process",
+   "heading": "Chronic obstructive pulmonary disease: emphysema",
+   "text": "Emphysema affects the alveoli rather than the airways. Tar and other irritants in smoke inflame the lung tissue, and white blood cells collect there. They release an enzyme called elastase, which digests the elastic fibres in the walls of the alveoli.\n\nWithout its elastic fibres an alveolus cannot recoil, so it does not push air out when the person breathes out, and air is trapped. The weakened walls break down and neighbouring alveoli merge into fewer, larger air spaces. Larger air spaces have a smaller total surface area for gas exchange, so less oxygen diffuses into the blood and the person is breathless.",
+   "claim_ids": [
+    "CLM-8223-2.10.2-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.10.2-004": 1
+   },
+   "authored_hash": "007d8cc34031e16be6888a75db5f69b11c7ee56827b946d5eb40347900129b71"
+  },
+  {
+   "block_id": "2.10.2-b6",
+   "block_type": "plain_explanation",
+   "heading": "Nicotine and carbon monoxide: short-term effects on the cardiovascular system",
+   "text": "Both substances act within minutes of smoking, and the effects last for minutes to hours.\n\nNicotine passes quickly from the lungs into the blood. It stimulates the nervous system, so the heart rate increases, and it narrows the small arteries, called arterioles, which raises blood pressure because the blood meets more resistance to flow. Nicotine also tends to make platelets stickier, which raises the chance that a blood clot forms.\n\nCarbon monoxide diffuses across the alveolar wall into the red blood cells and binds to haemoglobin much more strongly than oxygen does, more than 200 times as strongly. The compound formed is carboxyhaemoglobin, which cannot carry oxygen. Each litre of blood then carries less oxygen, so the tissues, including the heart muscle, receive less. The heart tends to beat faster to deliver more blood.\n\nTogether the two substances leave the heart working harder, at a higher rate and against a higher pressure, while the oxygen reaching its own muscle falls. Damage to artery walls over years is a longer-term effect.",
+   "claim_ids": [
+    "CLM-8223-2.10.2-005",
+    "CLM-8223-2.10.2-006",
+    "CLM-8223-2.10.2-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.10.2-005": 1,
+    "CLM-8223-2.10.2-006": 1,
+    "CLM-8223-2.10.2-007": 1
+   },
+   "authored_hash": "3a99162e3cf0bb3fa6041c2f8edbbd6289e98e237bf0744352297e6a80447935"
+  },
+  {
+   "block_id": "2.10.2-b7",
+   "block_type": "worked_application",
+   "heading": "Planning and recording a questionnaire survey",
+   "text": "The survey itself is practical work done in class; planning, recording and interpreting it can be tested in writing. Suppose a teacher in Rundu wants to know what proportion of the Grade 12 learners at her school have hay fever or asthma.\n\nShe plans first. She states the question. She defines each condition in the questionnaire, for example being told by a doctor or nurse that you have asthma, and she sets a time period. Asking about new diagnoses in the last twelve months measures incidence, the number of new cases in a stated period; asking who has ever had the condition measures the proportion affected, which is a different quantity. She uses short closed questions with tick boxes. She numbers the learners on the register and picks a sample with random numbers, large enough to represent the year group. She tests the questionnaire on a few learners, asks the school for permission and keeps the answers anonymous.\n\nTo record, she prepares a results table before collecting anything, with a row for each response. She numbers each completed questionnaire, enters each response exactly as given in a tally, and records how many learners were surveyed as well as how many reported each condition.",
+   "claim_ids": [
+    "CLM-8223-2.10.2-008",
+    "CLM-8223-2.10.2-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.10.2-008": 1,
+    "CLM-8223-2.10.2-009": 1
+   },
+   "authored_hash": "4b421cae2602fcc2ef2b57e0fa64a7a01516f67b3dc5161db09c20da6f88940b"
+  },
+  {
+   "block_id": "2.10.2-b8",
+   "block_type": "interpretation",
+   "heading": "Interpreting the results of a survey",
+   "text": "Suppose 60 learners are surveyed and 9 report a new diagnosis of asthma in the last twelve months. The proportion is 9 ÷ 60 = 0.15, and 0.15 × 100 = 15 per cent. A second school surveys 120 learners and 15 report a new diagnosis. Then 15 ÷ 120 = 0.125, and 0.125 × 100 = 12.5 per cent. The counts, 9 and 15, would suggest the second school has more asthma, but the samples differ in size, so the percentages are compared: the first school has the higher proportion.\n\nA survey result describes the sample. It estimates the whole year group well only if the sample is random and large enough. Answers are self-reported and may be inaccurate. Hay fever is seasonal, so the month of the survey affects the result. A difference between schools shows an association but does not show its cause, because the schools may differ in dust, pollen, housing or other ways.",
+   "claim_ids": [
+    "CLM-8223-2.10.2-010",
+    "CLM-8223-2.10.2-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.10.2-010": 1,
+    "CLM-8223-2.10.2-011": 1
+   },
+   "authored_hash": "f728a4381337c234593b62b82104929924bbd94f60e04bb49e0dbb652f013b5e"
+  },
+  {
+   "block_id": "2.10.2-b9",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "The structure of the gas exchange system, and why a large surface area matters, are taught in 2.10.1, The gas exchange system. Haemoglobin and the circulation of blood are taught in 2.7.1, Mammalian circulatory system, and the heart in 2.7.2, Mammalian heart.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "a7c28a808d0837e57a1bc2194a8ca9d2e782a5485318c1da9f6e7fa185957f5d"
+  }
+ ],
+ "word_count": 1258,
+ "qa_status": "review_required",
+ "notes": [
+  "Objective 03 is a practical: the notes teach planning, recording and interpretation; manipulation of the survey itself is done in class."
+ ]
+}

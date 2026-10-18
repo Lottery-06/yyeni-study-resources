@@ -1,0 +1,1221 @@
+{
+ "dataset_id": "ITEMS-8223-5.3",
+ "topic_id": "5.3",
+ "items": [
+  {
+   "item_id": "ITEM-8223-5.3-001-DEF",
+   "objective_ids": [
+    "OBJ-8223-5.3-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by the surface area to volume ratio of an object.",
+   "canonical_answer": "The surface area to volume ratio is the total surface area of the object divided by its volume.",
+   "marking_guidance": [
+    "1 mark: the definition. Key words: surface area divided by volume (surface area ÷ volume). The volume divided by the surface area is the inverse and the surface area on its own is not the ratio, so neither earns the mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-003": 1
+   },
+   "authored_hash": "08c301363f012b802a40ea20dd40da2c139f6a43c1b3ae38f7a2bd32c63893cd"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-002-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.3-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-002",
+    "CLM-8223-5.3-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A model cell is a cube with sides of 20 µm. Calculate its surface area to volume ratio. Express the answer in units of per µm.",
+   "canonical_answer": "Surface area = 6 × 20 × 20 = 2400 µm². Volume = 20 × 20 × 20 = 8000 µm³. Ratio = surface area ÷ volume = 2400 ÷ 8000 = 0.3 per µm.",
+   "marking_guidance": [
+    "Working: the equation ratio = surface area ÷ volume, with the side substituted into 6 × side × side and side × side × side, giving 2400 µm² and 8000 µm³ - 1 mark.",
+    "Final answer: 0.3 per µm - 1 mark. The answer needs its unit; 0.3 : 1 is accepted. A result of 3.33 is the volume divided by the surface area and earns no final mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-002": 1,
+    "CLM-8223-5.3-003": 1
+   },
+   "authored_hash": "585dcd9bb205e38c80d15f13291d34a94059b45f5b4449ee7b713f2377341d02"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-003-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.3-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A sample of pond water from a pond near Rundu has a volume of 0.25 cm³. Calculate its volume in mm³.",
+   "canonical_answer": "1 cm = 10 mm, so 1 cm³ = 10 × 10 × 10 = 1000 mm³. Volume = 0.25 × 1000 = 250 mm³.",
+   "marking_guidance": [
+    "Working: the conversion factor for a volume is the cube of the length factor, 1 cm³ = 1000 mm³, substituted as 0.25 × 1000 - 1 mark.",
+    "Final answer: 250 mm³ - 1 mark. The answer needs its unit. A result of 2.5 mm³ comes from using the length factor, 10, and earns no final mark; 250 cubic millimetres written in words is accepted."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-001": 1
+   },
+   "authored_hash": "cbb2a84f5a1acbb16e9d81c496eda8b7fa6e933523867fe43c4768c33d0e8f1b"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-018-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-5.3-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "Two cells have the same shape, and one is much smaller than the other. State one feature of the smaller cell that follows from its larger surface area to volume ratio.",
+   "canonical_answer": "Each unit of its volume has more surface area through which substances can enter or leave, so exchange across the surface reaches all of the cell more readily.",
+   "marking_guidance": [
+    "1 mark: one feature of the smaller cell stated. Accept: a shorter distance for diffusion to the centre, or faster supply of the cell contents per unit of volume.",
+    "Reject: the claim that the smaller cell has the larger total surface area. A larger cell of the same shape has the greater total surface area but the smaller ratio."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-003": 1
+   },
+   "authored_hash": "8006885ce0b8162857d291c00ca5a038e58d8ce104232b7a7bdc84a0f006d804"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-023-DIST",
+   "objective_ids": [
+    "OBJ-8223-5.3-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "A cube-shaped cell doubles the length of each of its sides. State one difference between the change in its surface area and the change in its volume.",
+   "canonical_answer": "The surface area increases four times (2 × 2), whereas the volume increases eight times (2 × 2 × 2).",
+   "marking_guidance": [
+    "1 mark: the difference, with both factors correct: area multiplied by 4 and volume multiplied by 8. A statement that the volume rises by the greater factor, with 4 and 8 given, is accepted.",
+    "Reversing the factors, or giving a difference without the factors, earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-002": 1
+   },
+   "authored_hash": "5cd0cc28ee264d46929a2cb482afd4e4d4524109c2fc2080003505d8e49a4f95"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-004-DEF",
+   "objective_ids": [
+    "OBJ-8223-5.3-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by magnification.",
+   "canonical_answer": "Magnification is how many times larger the image is than the real object (magnification = image size ÷ actual size).",
+   "marking_guidance": [
+    "1 mark: the definition. Key words: times larger, image, real (actual) object. Statements about how clear the image is describe resolution, not magnification, and earn no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-004": 1
+   },
+   "authored_hash": "4647036a77b40b39a6cc25b993fc2d0d6b76f9933989d1f7e036a2c5d8d54c75"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-005-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.3-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-004",
+    "CLM-8223-5.3-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A drawing of a cheek cell is 36 mm long. The cell is 60 µm long in life. Calculate the magnification of the drawing.",
+   "canonical_answer": "Both lengths must be in µm: 36 mm = 36 × 1000 = 36 000 µm. Magnification = image size ÷ actual size = 36 000 ÷ 60 = 600, so the magnification is ×600.",
+   "marking_guidance": [
+    "Working: the equation magnification = image size ÷ actual size, with the image converted to micrometres, 36 000 ÷ 60 - 1 mark.",
+    "Final answer: ×600 - 1 mark. Magnification has no unit, so the answer is accepted as 600 or ×600. A result of 0.6 comes from dividing millimetres by micrometres and earns no final mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-004": 1,
+    "CLM-8223-5.3-005": 1
+   },
+   "authored_hash": "5b06d615975386bbf49b4c2c3e203e20bfc38e5a46a84c74f465372f9c95799e"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-006-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.3-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-004",
+    "CLM-8223-5.3-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "An electron micrograph of a mitochondrion has a magnification of ×4800. The mitochondrion is 12 mm long on the micrograph. Calculate its actual length in µm.",
+   "canonical_answer": "Image size = 12 mm = 12 × 1000 = 12 000 µm. Actual size = image size ÷ magnification = 12 000 ÷ 4800 = 2.5 µm.",
+   "marking_guidance": [
+    "Working: the equation actual size = image size ÷ magnification, with the image size in micrometres, 12 000 ÷ 4800 - 1 mark.",
+    "Final answer: 2.5 µm - 1 mark. The answer needs its unit. Multiplying instead of dividing gives 57 600 000 µm and earns no final mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-004": 1,
+    "CLM-8223-5.3-005": 1
+   },
+   "authored_hash": "9323a62c40ca0ac72f14746f482345a36cd876580a999159a7aab579c45766b0"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-019-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-5.3-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "A scale bar is printed beneath a micrograph. State one feature of a scale bar that lets a learner work out the magnification.",
+   "canonical_answer": "The bar is labelled with the actual length it stands for, so the measured length of the bar divided by its labelled length, in the same unit, gives the magnification.",
+   "marking_guidance": [
+    "1 mark: one feature stated. Accept: the bar carries a label of the actual length it represents, or the bar is drawn at the same magnification as the image.",
+    "Reject: that the bar shows the magnification directly. The magnification has to be worked out from the measured and labelled lengths."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-006": 1
+   },
+   "authored_hash": "fd3aa38328d6d075a1a2c30ab4cbf2b3d5e40af26cdd5b9c4679ff243f732fbb"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-024-DIST",
+   "objective_ids": [
+    "OBJ-8223-5.3-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State one difference between magnification and resolution.",
+   "canonical_answer": "Magnification is how many times larger the image is than the object, whereas resolution is the smallest distance at which two points can still be seen as separate.",
+   "marking_guidance": [
+    "1 mark: the difference, with both terms correct: magnification is the enlargement, resolution is the ability to separate close points (a property of the microscope).",
+    "Reject: resolution as how much bigger the image is, or magnification as how clear the image is."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-004": 1
+   },
+   "authored_hash": "189ad4ded7c141e19830a8bb5ba2f208ee2d21dfd7156deeddbc77f6179ee38c"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-007-DEF",
+   "objective_ids": [
+    "OBJ-8223-5.3-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by the circumference of a circle.",
+   "canonical_answer": "The circumference is the distance all the way round the edge of the circle, found from C = 2πr = πd.",
+   "marking_guidance": [
+    "1 mark: the definition. Key words: distance round the edge (perimeter) of the circle. The area inside the circle is a different quantity and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-007": 1
+   },
+   "authored_hash": "f54f87741fe2a8bd430fdbbe749086d5564e0ec59c1c67c9f8fdfc310e12db32"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-008-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.3-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-007",
+    "CLM-8223-5.3-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A circular disc cut from a leaf has a diameter of 10 mm. The value of π is 3.14. Calculate the area of the disc.",
+   "canonical_answer": "Radius = diameter ÷ 2 = 10 ÷ 2 = 5 mm. Area = πr² = 3.14 × 5 × 5 = 78.5 mm².",
+   "marking_guidance": [
+    "Working: the formula area = πr² with the radius, not the diameter, substituted: 3.14 × 5 × 5 - 1 mark.",
+    "Final answer: 78.5 mm² - 1 mark. The answer needs its square unit. A result of 314 mm² comes from putting the diameter into the formula and earns no final mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-007": 1,
+    "CLM-8223-5.3-009": 1
+   },
+   "authored_hash": "883b2ae75b7b058e4940b8d0d2aeccf879adac6513d111d6f00d6085b62baf3b"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-009-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.3-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-008",
+    "CLM-8223-5.3-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A block of agar is 3 cm long, 2 cm wide and 1 cm high. Calculate its total surface area.",
+   "canonical_answer": "The block has three pairs of faces. The areas of one of each face are 3 × 2 = 6 cm², 3 × 1 = 3 cm² and 2 × 1 = 2 cm². Their total is 6 + 3 + 2 = 11 cm², so the surface area is 2 × 11 = 22 cm².",
+   "marking_guidance": [
+    "Working: the formula surface area = 2 × (length × width + length × height + width × height), or the areas of the three different faces added and doubled, with the substitution - 1 mark.",
+    "Final answer: 22 cm² - 1 mark. The answer needs its square unit. A result of 11 cm² leaves out the doubling for the pairs of faces and earns no final mark; 6 cm³ is the volume, not the surface area."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-008": 1,
+    "CLM-8223-5.3-009": 1
+   },
+   "authored_hash": "2bd18940195af363d64b12f8f13daff3746e0e8a3ae5c5204b1b539d24232bcc"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-020-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-5.3-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "The volume of a cylinder is V = πr²h. State one feature of this formula that explains why doubling the radius has a larger effect on the volume than doubling the height.",
+   "canonical_answer": "The radius is squared in the formula (r × r), so doubling the radius multiplies the volume by 4, whereas doubling the height multiplies it by 2.",
+   "marking_guidance": [
+    "1 mark: one feature stated: the radius appears squared (r²) while the height appears once. Quoting the factors 4 and 2 is accepted in place of the word squared.",
+    "Reject: a statement that the radius is larger than the height, which depends on the numbers and not on the formula."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-008": 1
+   },
+   "authored_hash": "74378453b65e70cf0a0c9228c9b54b10b783609f17812153346110cb48d9bbd8"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-025-DIST",
+   "objective_ids": [
+    "OBJ-8223-5.3-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State one difference between the area of a circle and the circumference of the same circle.",
+   "canonical_answer": "The area is the surface inside the circle, found from πr² and measured in square units, whereas the circumference is the distance round the edge, found from 2πr and measured in units of length.",
+   "marking_guidance": [
+    "1 mark: the difference, with the area as the space inside (square units) and the circumference as a length round the edge. Quoting both formulae correctly is accepted.",
+    "Reject: answers that swap the two quantities."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-007": 1
+   },
+   "authored_hash": "529ef2fc342cab70055ea38badff0e733916ed1bccf591ad39b50aecbbe8cbce"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-010-DEF",
+   "objective_ids": [
+    "OBJ-8223-5.3-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 1,
+   "prompt": "State what is meant by the index 3 in 4³.",
+   "canonical_answer": "The index 3 means that the base 4 is multiplied by itself three times: 4 × 4 × 4 = 64.",
+   "marking_guidance": [
+    "1 mark: the definition. Key words: the base multiplied by itself, three times. The reading 4 × 3 = 12 treats the index as a multiplier and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-010": 1
+   },
+   "authored_hash": "46025f5ab56124abf607be2970358c3f968c9a858f96d6ab91477134be449f92"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-011-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.3-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-011",
+    "CLM-8223-5.3-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "A bacterium in a culture divides into two cells every 30 minutes. One cell is present at the start, and every cell survives and divides on schedule. Calculate the number of cells after 3 hours.",
+   "canonical_answer": "3 hours = 3 × 60 = 180 minutes, and 180 ÷ 30 = 6 divisions. Each division doubles the number of cells, so the number is 2 to the power 6. 2 × 2 × 2 × 2 × 2 × 2 = 64, so there are 64 cells.",
+   "marking_guidance": [
+    "Working: the number of divisions found, 180 ÷ 30 = 6, and the equation number of cells = 2 to the power of the number of divisions - 1 mark.",
+    "Final answer: 64 cells - 1 mark. The answer needs its unit, cells. A result of 12 comes from 2 × 6, using the index as a multiplier, and 36 from 6 × 6; neither earns the final mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-011": 1,
+    "CLM-8223-5.3-012": 1
+   },
+   "authored_hash": "cff0eda1e1b42b3a668ff9d0d6ca10b3f77e5a10cadb828559ace3f7c6c07d56"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-012-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.3-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-011",
+    "CLM-8223-5.3-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "prompt": "A student counts 10³ yeast cells in one drop of a culture. The sample contains 10² drops. Calculate the total number of yeast cells, as a power of 10 and as an ordinary number.",
+   "canonical_answer": "Total = 10³ × 10². The indices add, 3 + 2 = 5, so the total is 10⁵ cells. 10 × 10 × 10 × 10 × 10 = 100 000, so there are 100 000 cells.",
+   "marking_guidance": [
+    "Working: the indices added for a multiplication, 3 + 2 = 5, giving 10⁵ - 1 mark.",
+    "Final answer: 10⁵ and 100 000 cells - 1 mark; both forms are needed. The answer needs its unit, cells. A result of 10⁶ comes from multiplying the indices, 3 × 2, and earns no final mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-011": 1,
+    "CLM-8223-5.3-012": 1
+   },
+   "authored_hash": "bc9d0d15681d831961628075e9df24448ec50465e6c4884313a9101d37151043"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-021-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-5.3-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one feature of how the index is applied in the expression 2 × 3².",
+   "canonical_answer": "The index 2 belongs to the 3 written beside it, not to the 2 in front: 3 × 3 = 9 is found first, then 2 × 9 = 18, not 36.",
+   "marking_guidance": [
+    "1 mark: one feature stated: the index applies to the base next to it, so the 3 is squared before the multiplication by 2. Giving 18 with this explanation is accepted.",
+    "Reject: a result of 36, which comes from squaring the product 2 × 3."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-011": 1
+   },
+   "authored_hash": "7d6aa19400e53534610e58b4674ec058bff7db873dba8c7b529a3d90023ebecc"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-026-DIST",
+   "objective_ids": [
+    "OBJ-8223-5.3-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one difference between 2 × 3 and 2³ in what is done to the number 2.",
+   "canonical_answer": "In 2 × 3 the number 2 is added to itself three times and the result is 6, whereas in 2³ the number 2 is multiplied by itself three times, 2 × 2 × 2 = 8.",
+   "marking_guidance": [
+    "1 mark: the difference, with the index as repeated multiplication of the base and the multiplier as repeated addition. Quoting the values 6 and 8 with the reason is accepted.",
+    "Giving the two values 6 and 8 with no reason earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-010": 1
+   },
+   "authored_hash": "e274d1c0f7220b64496ce7ebe26dfe6a5b5868d735ae671d4923a2eaa27abce3"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-013-DEF",
+   "objective_ids": [
+    "OBJ-8223-5.3-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State what is meant by Simpson's Index of Diversity (D).",
+   "canonical_answer": "Simpson's Index of Diversity is a measure of the biodiversity of a habitat that takes account of the number of species and of the number of individuals of each, calculated as D = 1 − Σ(n/N)².",
+   "marking_guidance": [
+    "1 mark: the definition. Key words: measure of biodiversity (diversity) of a habitat, and the number of species and the number of individuals of each (relative abundance). Quoting the formula with n, N and Σ correctly is accepted.",
+    "A statement that D is the number of species earns no mark. The syllabus annexe prints the square outside the bracket; credit the sum of the squared fractions, as in the formula above."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-013": 1
+   },
+   "authored_hash": "8c32928786372dff08907b5f70e1a701956762c7f0d29f0cfe835fac36c32c87"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-014-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.3-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-013",
+    "CLM-8223-5.3-014"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A student samples three species of grass in a patch of savanna and counts 6, 3 and 1 individuals of the species. Simpson's Index of Diversity is D = 1 − Σ(n/N)², where n is the number of individuals of one species and N is the total number of individuals of all species. Calculate D.",
+   "canonical_answer": "N = 6 + 3 + 1 = 10. The fractions are 6 ÷ 10 = 0.6, 3 ÷ 10 = 0.3 and 1 ÷ 10 = 0.1. Their squares are 0.6 × 0.6 = 0.36, 0.3 × 0.3 = 0.09 and 0.1 × 0.1 = 0.01. The sum is 0.36 + 0.09 + 0.01 = 0.46. D = 1 − 0.46 = 0.54.",
+   "marking_guidance": [
+    "Working: the formula with N found and each fraction squared, 0.36, 0.09 and 0.01, then added to 0.46 - 1 mark.",
+    "Final answer: D = 0.54 - 1 mark. D has no unit. A result of 0.46 leaves out the subtraction from 1 and earns no final mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-013": 1,
+    "CLM-8223-5.3-014": 1
+   },
+   "authored_hash": "eaa35062887ff5ce8caa36b9adf69aac704faeba2acc7e5d7b42dfbb3ac2bd16"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-015-CALC",
+   "objective_ids": [
+    "OBJ-8223-5.3-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-013",
+    "CLM-8223-5.3-014"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A sample from a patch of dry mopane woodland has four species with 25, 15, 5 and 5 individuals. Simpson's Index of Diversity is D = 1 − Σ(n/N)², where n is the number of individuals of one species and N is the total number of individuals of all species. Calculate D.",
+   "canonical_answer": "N = 25 + 15 + 5 + 5 = 50. The fractions are 25 ÷ 50 = 0.5, 15 ÷ 50 = 0.3 and 5 ÷ 50 = 0.1 for each of the last two species. Their squares are 0.5 × 0.5 = 0.25, 0.3 × 0.3 = 0.09 and 0.1 × 0.1 = 0.01 for each of the last two. The sum is 0.25 + 0.09 + 0.01 + 0.01 = 0.36. D = 1 − 0.36 = 0.64.",
+   "marking_guidance": [
+    "Working: the formula with N = 50, each fraction squared and the four squares added to 0.36 - 1 mark.",
+    "Final answer: D = 0.64 - 1 mark. D has no unit. A result of 0.36 leaves out the subtraction from 1 and earns no final mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-013": 1,
+    "CLM-8223-5.3-014": 1
+   },
+   "authored_hash": "44a35f26d24c37bdb4eb4c4581d3e194c49c85d59bee8e93fee6c9d0d521ae01"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-016-APP",
+   "objective_ids": [
+    "OBJ-8223-5.3-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-015",
+    "CLM-8223-5.3-016"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Two waterholes in a game reserve were sampled at random by the same method and with the same effort. Simpson's Index of Diversity for the invertebrates was D = 0.72 at waterhole X and D = 0.35 at waterhole Y. Explain what these values show about the two waterholes.",
+   "canonical_answer": "In this case waterhole X is the more diverse, because its D is closer to 1: it has more species, or its individuals are spread more evenly between the species, or both. Waterhole Y is less diverse, so one or a few species probably supply most of its individuals.",
+   "marking_guidance": [
+    "2 marks: waterhole X has the higher diversity because its D is nearer 1 (1); the reason, in terms of the situation given: more species and/or a more even spread of individuals, or waterhole Y dominated by one or a few species (1).",
+    "Reject: that X has more individuals, because D does not measure the total number, and that D = 0.35 means 35 per cent of the species are present."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-015": 1,
+    "CLM-8223-5.3-016": 1
+   },
+   "authored_hash": "1f994c6cf4d7b59f8471795ed10d802d4a2069ec001b5451dd5940e901da7cfa"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-017-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-5.3-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-015"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 4,
+   "prompt": "State one feature of Simpson's Index of Diversity for a sample in which all the individuals belong to one species.",
+   "canonical_answer": "D = 0, the lowest possible value, because n/N = 1 for the single species and D = 1 − 1 = 0.",
+   "marking_guidance": [
+    "1 mark: one feature stated: D equals 0, the lowest value. Accept: no diversity, or the index cannot be lower.",
+    "Reject: D = 1, which is the result of the subtraction left out, and a value described as high."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-015": 1
+   },
+   "authored_hash": "a3cacae0684fa9a9f795f37012859d432ed0ca88105f65b04b6b9eae99480917"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-022-DIST",
+   "objective_ids": [
+    "OBJ-8223-5.3-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-015",
+    "CLM-8223-5.3-016"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 4,
+   "prompt": "Samples taken at random from two habitats give D = 0.9 for one habitat and D = 0.2 for the other. State one difference between the two habitats.",
+   "canonical_answer": "The habitat with D = 0.9 is more diverse, with many species and individuals spread fairly evenly, whereas the habitat with D = 0.2 is dominated by one or a few species.",
+   "marking_guidance": [
+    "1 mark: the difference, with the habitat of D = 0.9 as the more diverse and a reason in terms of the number of species or the evenness of their numbers.",
+    "Reject: a difference in the number of individuals, which D does not measure."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-015": 1,
+    "CLM-8223-5.3-016": 1
+   },
+   "authored_hash": "61cf65ae4b798fba0e61535cb065fa04acac8064442780748e92e6430a13e731"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-027-WHY",
+   "objective_ids": [
+    "OBJ-8223-5.3-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-015",
+    "CLM-8223-5.3-016"
+   ],
+   "item_type": "flashcard",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "Explain why Simpson's Index of Diversity gives a better picture of diversity than the number of species alone.",
+   "canonical_answer": "The reason is that D takes account of how many individuals there are of each species as well as the number of species. Two habitats with the same number of species can differ: if one species supplies most of the individuals, D is low, whereas if the individuals are spread evenly, D is high. For example, four species with 17, 1, 1 and 1 individuals give D = 0.27, while four species with 5, 5, 5 and 5 give D = 0.75. A count of species cannot tell these apart.",
+   "marking_guidance": [
+    "2 marks: D includes the relative numbers of individuals in each species, not only the number of species (1); the reason this matters: two habitats with the same number of species can have different diversity because of how evenly the individuals are spread (1).",
+    "An example with figures is accepted in place of the second point. Reject: that D is better because it counts more individuals."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-015": 1,
+    "CLM-8223-5.3-016": 1
+   },
+   "authored_hash": "4b7f8ff1f2fba8d9aef86a74f8259cf854129e7256f6bf94c6bb4ef885b17b9f"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-P01",
+   "objective_ids": [
+    "OBJ-8223-5.3-01",
+    "OBJ-8223-5.3-02",
+    "OBJ-8223-5.3-03",
+    "OBJ-8223-5.3-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-001",
+    "CLM-8223-5.3-002",
+    "CLM-8223-5.3-003",
+    "CLM-8223-5.3-004",
+    "CLM-8223-5.3-005",
+    "CLM-8223-5.3-006",
+    "CLM-8223-5.3-007",
+    "CLM-8223-5.3-008",
+    "CLM-8223-5.3-013",
+    "CLM-8223-5.3-014",
+    "CLM-8223-5.3-015"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": null,
+   "mark_tariff": 12,
+   "difficulty": 3,
+   "prompt": "Twelve questions. Choose one option for each.\n\n1. How many square millimetres (mm²) are there in 1 square centimetre (cm²)?\nA  10\nB  1000\nC  10 000\nD  100\n\n2. How many cubic millimetres (mm³) are there in 1 cubic centimetre (cm³)?\nA  10\nB  100\nC  1000\nD  30\n\n3. A model cell is a cube with sides of 5 µm. What is its volume?\nA  25 µm³\nB  150 µm³\nC  125 µm³\nD  15 µm³\n\n4. Every length of a cell is doubled and its shape stays the same. What happens to its surface area to volume ratio?\nA  It halves.\nB  It doubles.\nC  It stays the same.\nD  It becomes four times larger.\n\n5. Which equation gives the actual size of a specimen from its image size and the magnification?\nA  actual size = image size × magnification\nB  actual size = image size ÷ magnification\nC  actual size = magnification ÷ image size\nD  actual size = magnification − image size\n\n6. A photomicrograph shows a cell that is 45 mm long on the image. The magnification is ×900. What is the actual length of the cell?\nA  0.05 µm\nB  40 500 µm\nC  5 µm\nD  50 µm\n\n7. A scale bar on a micrograph measures 20 mm and is labelled 4 µm. What is the magnification?\nA  ×5\nB  ×5000\nC  ×80\nD  ×0.0002\n\n8. A circular colony on a Petri dish has a diameter of 8 mm. The value of π is 3.14. What is the area of the colony?\nA  50.24 mm²\nB  25.12 mm²\nC  12.56 mm²\nD  200.96 mm²\n\n9. A block of agar is 4 cm long, 3 cm wide and 2 cm high. What is its volume?\nA  9 cm³\nB  52 cm³\nC  24 cm³\nD  24 cm²\n\n10. A cylinder of agar has a radius of 2 cm and a height of 5 cm. The value of π is 3.14. What is its volume?\nA  31.4 cm³\nB  251.2 cm³\nC  62.8 cm²\nD  62.8 cm³\n\n11. A sample has three species with 5, 3 and 2 individuals. Simpson's Index of Diversity is D = 1 − Σ(n/N)². What is D?\nA  0.62\nB  0.38\nC  0.00\nD  0.67\n\n12. Two habitats are sampled at random by the same method. Habitat P gives D = 0.81 and habitat Q gives D = 0.34. Which statement is supported by these values?\nA  Habitat Q has more species than habitat P.\nB  Habitat P is more diverse than habitat Q: it has more species, a more even spread of individuals, or both.\nC  Habitat Q has more individuals than habitat P.\nD  Habitat P has fewer species than habitat Q.",
+   "canonical_answer": "Key: 1 D, 2 C, 3 C, 4 A, 5 B, 6 D, 7 B, 8 A, 9 C, 10 D, 11 A, 12 B.\n1. The area factor is the square of the length factor, 10 × 10 = 100 (D). Wrong options: A is the length factor, 10; B is the volume factor, 1000; C is the factor between square metres and square centimetres.\n2. The volume factor is the cube of the length factor, 10 × 10 × 10 = 1000 (C). Wrong options: A is the length factor; B is the area factor; D comes from 10 × 3, treating the cube as a multiplier of 3.\n3. Volume = 5 × 5 × 5 = 125 µm³ (C). Wrong options: A is 5 × 5, the area of one face, with the wrong unit; B is 6 × 5 × 5 = 150, which is the surface area, in µm²; D is 3 × 5.\n4. Area is multiplied by 2 × 2 = 4 and volume by 2 × 2 × 2 = 8, so the ratio is multiplied by 4 ÷ 8 = 0.5, which halves it (A). Wrong options: B reverses the effect; C assumes the ratio does not depend on size; D is the area factor alone, with the volume factor left out.\n5. Actual size is image size divided by magnification (B). Wrong options: A is the rearrangement for image size, not actual size; C inverts the division; D subtracts, but magnification is a ratio.\n6. Image = 45 × 1000 = 45 000 µm, and 45 000 ÷ 900 = 50 µm (D). Wrong options: A is 45 ÷ 900 = 0.05, left in millimetres but labelled µm; B multiplies, 45 × 900 = 40 500; C uses 1 mm = 100 µm, so 4500 ÷ 900 = 5.\n7. Bar = 20 × 1000 = 20 000 µm, and 20 000 ÷ 4 = 5000 (B). Wrong options: A is 20 ÷ 4 with no conversion of millimetres to micrometres; C is 20 × 4; D inverts the division, 4 ÷ 20 000.\n8. Radius = 8 ÷ 2 = 4 mm, so area = 3.14 × 4 × 4 = 50.24 mm² (A). Wrong options: B is 3.14 × 8, the circumference; C is 3.14 × 4, half the circumference; D puts the diameter into the formula, 3.14 × 8 × 8.\n9. Volume = 4 × 3 × 2 = 24 cm³ (C). Wrong options: A adds the lengths, 4 + 3 + 2; B is 2 × (12 + 8 + 6) = 52, the surface area with a volume unit; D has the correct number with an area unit.\n10. Volume = 3.14 × 2 × 2 × 5 = 62.8 cm³ (D). Wrong options: A leaves the radius unsquared, 3.14 × 2 × 5 = 31.4; B puts the diameter in as the radius, 3.14 × 4 × 4 × 5 = 251.2; C has the correct number with an area unit.\n11. N = 5 + 3 + 2 = 10, the fractions are 0.5, 0.3 and 0.2, the squares are 0.25, 0.09 and 0.04, and 0.25 + 0.09 + 0.04 = 0.38, so D = 1 − 0.38 = 0.62 (A). Wrong options: B stops at the sum of the squares and does not subtract from 1; C adds the fractions to 1 and squares that, 1 − 1 = 0; D is 1 − 1 ÷ 3, which assumes the three species are equally abundant.\n12. D nearer 1 means higher diversity from more species, a more even spread, or both (B). Wrong options: A reads a lower D as more species, which D does not say; C and D give facts about the number of individuals or of species that D alone does not state.",
+   "marking_guidance": [
+    "The key: one mark per correct option, twelve marks in all; six questions test recall of a conversion, formula or reading and six test application to a described cell, specimen or sample.",
+    "Each distractor is a named error: the length factor used for an area or volume, a missed conversion of millimetres to micrometres, an inverted or multiplied magnification, a diameter used as the radius, an area unit on a volume, the subtraction from 1 left out of D."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-001": 1,
+    "CLM-8223-5.3-002": 1,
+    "CLM-8223-5.3-003": 1,
+    "CLM-8223-5.3-004": 1,
+    "CLM-8223-5.3-005": 1,
+    "CLM-8223-5.3-006": 1,
+    "CLM-8223-5.3-007": 1,
+    "CLM-8223-5.3-008": 1,
+    "CLM-8223-5.3-013": 1,
+    "CLM-8223-5.3-014": 1,
+    "CLM-8223-5.3-015": 1
+   },
+   "authored_hash": "1645f23e06045a06d5defb31551186621e6796b914837d14fca01c303b96e6f0"
+  },
+  {
+   "item_id": "ITEM-8223-5.3-P02",
+   "objective_ids": [
+    "OBJ-8223-5.3-01",
+    "OBJ-8223-5.3-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-5.3-001",
+    "CLM-8223-5.3-002",
+    "CLM-8223-5.3-003",
+    "CLM-8223-5.3-008",
+    "CLM-8223-5.3-009"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "A class in Rundu cuts agar into cubes to model cells. Dye on the outside of each cube diffuses inwards. These are our values. The dye reached the centre of the 1 cm cube in 3 minutes and the centre of the 4 cm cube in 40 minutes.\n\n| Side of cube / cm | Surface area / cm² | Volume / cm³ | Surface area ÷ volume / per cm |\n|---|---|---|---|\n| 1 | 6 | 1 | 6.0 |\n| 2 | 24 | 8 | 3.0 |\n| 4 | | | |\n\n(a) Calculate the surface area to volume ratio of the 4 cm cube. [2]\n(b) State how the ratio for the 4 cm cube compares with the ratio for the 2 cm cube. [1]\n(c) Explain why the dye reached the centre of the 1 cm cube sooner than the centre of the 4 cm cube. [2]\n(d) A cylinder of agar has a radius of 1 cm and a height of 6 cm. The value of π is 3.14. Calculate its volume. [2]\n(e) Suggest why a large animal cannot rely on diffusion across its body surface to supply all of its cells. [1]",
+   "canonical_answer": "(a) Surface area = 6 × 4 × 4 = 96 cm². Volume = 4 × 4 × 4 = 64 cm³. Ratio = 96 ÷ 64 = 1.5 per cm.\n(b) The ratio for the 4 cm cube, 1.5, is half the ratio for the 2 cm cube, 3.0.\n(c) The 1 cm cube has the larger surface area to volume ratio, 6.0 per cm against 1.5 per cm, so it has more surface for each unit of volume. The distance from the surface to the centre is also shorter, so the dye has less far to diffuse.\n(d) Volume = πr²h = 3.14 × 1 × 1 × 6 = 18.84 cm³.\n(e) A large animal has a small surface area to volume ratio, so its surface is too small for the volume of cells that need supplying, and most of its cells are far from the surface.",
+   "marking_guidance": [
+    "Marks and points: (a) 1 mark for the working, 6 × 4 × 4 and 4 × 4 × 4 or 96 ÷ 64, and 1 mark for 1.5 per cm, which needs its unit; (b) 1 mark for the ratio being half (or 3.0 against 1.5); (c) 2 marks from three points: the 1 cm cube has the larger ratio (1), more surface for each unit of volume (1), the shorter distance from the surface to the centre (1).",
+    "(d) 1 mark for the substitution 3.14 × 1 × 1 × 6 and 1 mark for 18.84 cm³, a cubic unit; a result of 18.84 cm² has the wrong unit and loses the final mark. (e) 1 mark for the small ratio, because the surface is too small for the volume, or the long distance from most cells to the surface.",
+    "Parts (b), (c) and (e) credit AO A (4 marks); parts (a) and (d) credit AO B (4 marks). Each part carries its own marks, and a unit or term that does not match the question loses the mark. Reject in (c) that the smaller cube has the larger total surface area."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 5.3 from the topic 5.3 claim ledger. Our own scenario and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-5.3-001": 1,
+    "CLM-8223-5.3-002": 1,
+    "CLM-8223-5.3-003": 1,
+    "CLM-8223-5.3-008": 1,
+    "CLM-8223-5.3-009": 1
+   },
+   "authored_hash": "0e75c73ff2a51827ee6287c6b8c6dd6c8fb53107217c5b05191eeba6040cb11f"
+  }
+ ]
+}

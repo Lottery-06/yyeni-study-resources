@@ -1,0 +1,846 @@
+{
+ "dataset_id": "ITEMS-8223-2.10.1",
+ "topic_id": "2.10.1",
+ "items": [
+  {
+   "item_id": "ITEM-8223-2.10.1-001-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.1-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State the name of the tiny air sacs at the ends of the bronchioles, where gas exchange with the blood takes place.",
+   "canonical_answer": "Alveoli (singular alveolus).",
+   "marking_guidance": [
+    "1 mark for alveoli or alveolus. The part is the gas exchange surface at the end of the airway; 'air sacs' repeats the prompt and earns no mark, and bronchioles or capillaries name other parts of the structure."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.1 from its claim ledger. Unverified; our own scenarios and wording.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.1-001": 1
+   },
+   "authored_hash": "64f9576e4e7c30f723f498af18e295aa2fc29bdb43401ec6821dffeb80115f47"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.1-002-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.1-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Describe how air travels from the nose to the alveoli of the lungs.",
+   "canonical_answer": "Air passes from the nose through the pharynx and larynx into the trachea, which divides into two bronchi, one entering each lung. Each bronchus then branches into smaller bronchi and bronchioles, and the air flows along the bronchioles to the alveoli at their ends.",
+   "marking_guidance": [
+    "2 marks: the trachea divides into two bronchi, one to each lung (the first stage, which leads to the branching); the bronchi branch into bronchioles, which end in alveoli (then the final stage).",
+    "The order is the point. More creditworthy points are the pharynx and larynx before the trachea and the smaller bronchi between bronchus and bronchiole, but the tariff is 2."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.1 from its claim ledger. Unverified; our own scenarios and wording.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.1-001": 1
+   },
+   "authored_hash": "03bc85a9b7c58f55b383be0d1c300daec907079f75099205a6e3deb2d6b3186e"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.1-003-PROC",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.1-004",
+    "CLM-8223-2.10.1-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "prompt": "A class is given a sheep's trachea and lungs to dissect. Describe, in order, how the students would examine the gross structure, from first handling the specimen to seeing the branching of the airways.",
+   "canonical_answer": "First, wearing gloves, they place the trachea and lungs on a tray and look at and feel the outside, noticing that the trachea is ridged and firm and the lung tissue is soft and spongy. Then they cut along the length of the trachea, away from the body, to open it and look at the lining. Finally they follow the trachea to where it divides into two bronchi and cut along a bronchus into the lung to see it branch into smaller tubes.",
+   "marking_guidance": [
+    "3 marks, one for each stage in order: examine the outside first (feel the ridges of the trachea, the spongy lung); then cut open the trachea along its length to see the lining; finally follow it to the two bronchi and cut into the lung to see the branching. The sequence is the point: cutting before looking, or describing the branching first, earns fewer marks.",
+    "More creditworthy points than the tariff: gloves and a tray, cutting away from the body, slicing lung tissue to see air spaces, washing and disinfecting at the end. The cap is 3 marks."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.1 from its claim ledger. Unverified; our own scenarios and wording.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.1-004": 1,
+    "CLM-8223-2.10.1-006": 1
+   },
+   "authored_hash": "0ca7073c8794faea6d5d5492bd7462b728745981f29cccc6c8121b0dbdf8f64f"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.1-004-WHY",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.1-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A student cuts a small piece from a fresh sheep's lung and drops it into a beaker of water, where it floats. Explain why the piece floats.",
+   "canonical_answer": "The reason is that the lung tissue contains very many alveoli and airways that hold air. The air makes the average density of the piece less than the density of water, so it floats.",
+   "marking_guidance": [
+    "2 marks: the tissue holds air in its alveoli and airways (the reason); this makes it less dense than water (the consequence).",
+    "The reason must refer to air in the tissue. 'Lungs are light' or 'cartilage floats' earns no mark. The condition is fresh tissue: a squeezed piece may float low."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.1 from its claim ledger. Unverified; our own scenarios and wording.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.1-005": 1
+   },
+   "authored_hash": "ee14110ea32b2aef23a95e669157cc68cea60703b048e6f6ea051bd334a5d782"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.1-005-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.1-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by squamous epithelium.",
+   "canonical_answer": "An epithelium made of a single layer of very flat cells.",
+   "marking_guidance": [
+    "1 mark. The key words are 'epithelium' (a tissue lining or covering a surface) and 'flat' cells in a single layer. The definition must have the flat shape; 'a thin tissue' alone is not enough."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.1 from its claim ledger. Unverified; our own scenarios and wording.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.1-011": 1
+   },
+   "authored_hash": "5c99a7d57da533fd432e1c67ab4568fb1e752ab0b0a692668c3bd6034d886e84"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.1-006-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.1-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State the shape of the pieces of cartilage in the wall of the trachea.",
+   "canonical_answer": "C-shaped rings.",
+   "marking_guidance": [
+    "1 mark for C-shaped rings (the characteristic of the trachea); 'rings' alone is not enough because the rings are open at the back, and 'plates' is the feature of the bronchi."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.1 from its claim ledger. Unverified; our own scenarios and wording.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.1-008": 1
+   },
+   "authored_hash": "eda362f294c9491d5265b1535cdce696732ebadede189da7ad3ff62c854db697"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.1-007-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.1-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A photomicrograph of a section through the wall of a bronchus shows two tissues. Tissue A is made of long, thin, spindle-shaped cells, each with one nucleus in the middle and no stripes, packed in bundles. Tissue B has a smooth, glassy-looking pale matrix with scattered rounded cells, each lying in its own small space. Identify tissues A and B.",
+   "canonical_answer": "A is smooth muscle; B is cartilage.",
+   "marking_guidance": [
+    "2 marks: 1 for A as smooth muscle, 1 for B as cartilage. The micrograph description shows the identification: spindle-shaped cells with one central nucleus and no stripes means smooth muscle; a glassy matrix with cells in small spaces means cartilage."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.1 from its claim ledger. Unverified; our own scenarios and wording.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.1-012": 1
+   },
+   "authored_hash": "ede21634b994d9e72df61d40f5d505084dc9df4697c3acf293e54bceab0264b0"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.1-008-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.1-014",
+    "CLM-8223-2.10.1-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "An electron micrograph of part of an alveolus shows a very thin line of flat cytoplasm, less than 1 µm thick, with a flattened nucleus, lying beside an air space. On its other side is a small round space about 7 µm wide with a very thin wall, containing a red blood cell. Identify the tissue forming the thin line beside the air space and the structure containing the red blood cell.",
+   "canonical_answer": "The thin line is squamous epithelium (the wall of the alveolus); the small round space with the red blood cell is a capillary.",
+   "marking_guidance": [
+    "2 marks: 1 for squamous epithelium, 1 for capillary. The micrograph shows a flat, thin wall beside air, which means squamous epithelium, and a space just wide enough for a red blood cell, which means a capillary. Cartilage and smooth muscle do not fit a layer less than 1 µm thick."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.1 from its claim ledger. Unverified; our own scenarios and wording.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.1-014": 1,
+    "CLM-8223-2.10.1-011": 1
+   },
+   "authored_hash": "5293e0e5d425d128195078f03152059bbb1d9e4cec6a2764dd67775621303d52"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.1-009-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.1-015"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A student making a plan diagram from a low-power photomicrograph sees a transverse section of a tube with a large round lumen that has a flat back. The wall has a single C-shaped ring of cartilage, with a band of smooth muscle across the gap at the flat back. The lining is ciliated epithelium with goblet cells. Identify the airway, and state the feature in the description that separates it from a bronchus.",
+   "canonical_answer": "The airway is the trachea. A bronchus has separate irregular plates of cartilage, whereas this wall has a single C-shaped ring with smooth muscle across the gap. The plan diagram should therefore show one C-shaped ring of cartilage.",
+   "marking_guidance": [
+    "2 marks: 1 for trachea; 1 for the single C-shaped ring of cartilage (not separate plates) as the feature that separates it from a bronchus.",
+    "The figure described shows a large lumen and one C-shaped ring, which means the trachea; plates around a smaller lumen would mean a bronchus."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.1 from its claim ledger. Unverified; our own scenarios and wording.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.1-015": 1
+   },
+   "authored_hash": "5472e21e55613ef2095a661967854c7f47e157f35178a02064dc4c92d22205ff"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.1-010-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.1-016"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A photomicrograph shows two structures. Structure A is a small tube with a folded lining, a thin layer of smooth muscle in its wall, and no cartilage and no glands. Structure B is a cluster of many thin-walled air spaces packed together like a honeycomb, lying against the end of A, each wall one flat cell thick with small vessels in it. Identify A and B.",
+   "canonical_answer": "A is a bronchiole; B is the alveoli.",
+   "marking_guidance": [
+    "2 marks: 1 for bronchiole, 1 for alveoli. The micrograph shows no cartilage and no glands with smooth muscle, which means a bronchiole; thin-walled air spaces in a honeycomb mean alveoli, the structures at the end of the bronchiole."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.1 from its claim ledger. Unverified; our own scenarios and wording.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.1-016": 1
+   },
+   "authored_hash": "108de9d41df64bbe87580af8326d55f97a5f3f62084766603cc9b2789bcd1e64"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.1-011-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.1-018"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State the substance that goblet cells secrete onto the lining of the airways, which traps dust and microbes.",
+   "canonical_answer": "Mucus.",
+   "marking_guidance": [
+    "1 mark for mucus. The function of the goblet cells is to make it; 'slime' or 'phlegm' is accepted only if the word mucus is not needed, and 'enzymes' or 'antibodies' names the wrong substance."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.1 from its claim ledger. Unverified; our own scenarios and wording.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.1-018": 1
+   },
+   "authored_hash": "79ad9ab8b36f19faf85740e10f8585ea8552f126603041403f5331d2d6feba1e"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.1-012-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.1-018",
+    "CLM-8223-2.10.1-019"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Describe how the lining of the trachea removes dust and microbes from the air that is breathed in.",
+   "canonical_answer": "Goblet cells and mucous glands secrete sticky mucus onto the lining, which traps the dust and microbes. The cilia of the ciliated epithelial cells then beat, which moves the mucus with its trapped particles along towards the throat, where it is swallowed or coughed out.",
+   "marking_guidance": [
+    "2 marks: mucus from goblet cells or mucous glands traps dust and microbes (how the particles are caught); beating cilia move the mucus along towards the throat (then how it is removed).",
+    "Both marks need the right structure doing the right job: cilia that trap or mucus that beats earns no mark. Swallowed or coughed out is a further creditworthy point; the tariff is 2."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.1 from its claim ledger. Unverified; our own scenarios and wording.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.1-018": 1,
+    "CLM-8223-2.10.1-019": 1
+   },
+   "authored_hash": "82752fe6e70f908b799c5e78352fcf4b2f408e66e6ce593bac40b731b482a27f"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.1-018-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.1-020"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner writes: 'Mucus sweeps dust out of the airways.' Explain what is wrong with this statement, and state the test that separates the two ideas.",
+   "canonical_answer": "The error is that mucus does not move itself or sweep anything: it is sticky and traps dust and microbes. Instead the beating cilia of the ciliated epithelial cells move the mucus along. The test is to ask which one moves and which one traps: the cilia move, and the mucus traps.",
+   "marking_guidance": [
+    "2 marks: mucus traps the dust and microbes and does not move (the error); the beating cilia move the mucus along (the correct idea). The test, which one moves and which one traps, shows the two ideas apart.",
+    "A reply that says the cilia sweep out dust without mentioning mucus is a mistake of the opposite kind, because the cilia move the mucus, not the dust directly. The confusion named in the prompt must be corrected, not repeated."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.1 from its claim ledger. Unverified; our own scenarios and wording.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.1-020": 1
+   },
+   "authored_hash": "2e2d2bf10daed9f4fe5638a8303931fa1c49daecd55da03be5207a6d871663a2"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.1-013-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.1-021"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State the function of the cartilage in the wall of the trachea.",
+   "canonical_answer": "It holds the trachea open.",
+   "marking_guidance": [
+    "1 mark: it supports the wall and holds the trachea open so that it does not collapse. This function is not 'to move air' or 'to trap dust', which belong to other parts."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.1 from its claim ledger. Unverified; our own scenarios and wording.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.1-021": 1
+   },
+   "authored_hash": "feaba7a51f601ab12ecaedad68dc116e091f570df4fcc44a42ff71749fbeba39"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.1-014-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.1-022"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Describe how the smooth muscle in the wall of a bronchiole changes the flow of air along it.",
+   "canonical_answer": "When the smooth muscle contracts, the lumen of the bronchiole narrows, which reduces the flow of air. When the muscle relaxes, the lumen widens, which allows more air to flow.",
+   "marking_guidance": [
+    "2 marks: contraction narrows the lumen, which reduces the flow of air; relaxation widens the lumen, which allows more air to flow. The mark needs the effect on the width and the effect on the flow, linked by how one causes the other."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.1 from its claim ledger. Unverified; our own scenarios and wording.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.1-022": 1
+   },
+   "authored_hash": "f9a6d3302dbda9058e12904c9955611395298d8f8e8660497c72c7177d4b78b2"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.1-017-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.1-023"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner writes: 'Elastic fibres stop the alveoli collapsing.' Explain what is wrong with this statement, and state the test that separates it from the correct idea.",
+   "canonical_answer": "The error is that the fibres do not hold the alveoli open; the air inside them does that. Instead the elastic fibres stretch when air enters the alveoli on breathing in and recoil on breathing out, which helps push air out. The test is to ask what the fibres do on inhaling and on exhaling: they stretch and then recoil.",
+   "marking_guidance": [
+    "2 marks: stretch when breathing in (the fibres stretch as air enters); recoil when breathing out, helping push air out. The error, holding the alveoli open, is corrected by the test of what the fibres do on inhaling and on exhaling.",
+    "A reply that gives only recoil, or says the fibres contract like muscle, is a mistake: elastic fibres do not contract. The confusion must be named and replaced by stretch and recoil."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.1 from its claim ledger. Unverified; our own scenarios and wording.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.1-023": 1
+   },
+   "authored_hash": "a1229e3b709c8e81aeea27c4fbc93dbeb10b408bdb7a2f3a4a1f5076314e273b"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.1-015-PROC",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.1-025",
+    "CLM-8223-2.10.1-024"
+   ],
+   "item_type": "flashcard",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "prompt": "Describe, in order, how oxygen passes from the air in an alveolus into the blood in a capillary.",
+   "canonical_answer": "First, the oxygen dissolves in the thin film of moisture lining the alveolus. Then it diffuses down its concentration gradient, from the air where its concentration is higher, across the alveolar wall and the capillary wall, each one flat cell thick. Finally it enters the blood and the red blood cells.",
+   "marking_guidance": [
+    "3 marks, one for each stage in order: dissolves in the moisture lining the alveolus; diffuses down the concentration gradient across the alveolar wall and capillary wall; enters the blood and the red blood cells. The result is that the oxygen is in the blood.",
+    "The sequence is the point, and the movement must be diffusion down a gradient, not carried by cilia or pumped by muscle. More points are possible (the walls are one cell thick); the cap is 3."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.1 from its claim ledger. Unverified; our own scenarios and wording.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.1-025": 1,
+    "CLM-8223-2.10.1-024": 1
+   },
+   "authored_hash": "0e2e4fc8afdc70e7d43218ec64fc92b001d1233e4c54927d328acc446980fd22"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.1-016-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.1-026"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Describe how breathing and the flow of blood keep the concentration gradients for oxygen and carbon dioxide steep at an alveolus.",
+   "canonical_answer": "Breathing replaces the air in the alveolus with fresh air, which keeps the oxygen concentration in it higher than in the blood and removes carbon dioxide. The blood flowing through the capillary carries oxygen away and brings carbon dioxide, so the gradients stay steep.",
+   "marking_guidance": [
+    "2 marks: breathing brings fresh air, which keeps the oxygen concentration in the alveolus high and carbon dioxide low (one mark); blood flow carries oxygen away and brings carbon dioxide, so the gradient is kept (one mark). Each mark needs the cause, then its effect on the gradient."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.1 from its claim ledger. Unverified; our own scenarios and wording.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.1-026": 1
+   },
+   "authored_hash": "7bc849063fb9b4886c19dd0b7c0ae90c9d6f60288b984c847a741d5c112aab2b"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.1-P01",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-03",
+    "OBJ-8223-2.10.1-06",
+    "OBJ-8223-2.10.1-07",
+    "OBJ-8223-2.10.1-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.1-008",
+    "CLM-8223-2.10.1-009",
+    "CLM-8223-2.10.1-010",
+    "CLM-8223-2.10.1-011",
+    "CLM-8223-2.10.1-018",
+    "CLM-8223-2.10.1-019",
+    "CLM-8223-2.10.1-020",
+    "CLM-8223-2.10.1-021",
+    "CLM-8223-2.10.1-022",
+    "CLM-8223-2.10.1-023",
+    "CLM-8223-2.10.1-024",
+    "CLM-8223-2.10.1-025",
+    "CLM-8223-2.10.1-026"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": null,
+   "mark_tariff": 12,
+   "difficulty": 3,
+   "prompt": "Twelve questions. Choose one option for each.\n\n1. Which row shows the cartilage in the trachea, a bronchus and a bronchiole?\nA  trachea: C-shaped rings; bronchus: plates; bronchiole: none\nB  trachea: plates; bronchus: C-shaped rings; bronchiole: none\nC  trachea: C-shaped rings; bronchus: none; bronchiole: plates\nD  trachea: plates; bronchus: plates; bronchiole: C-shaped rings\n\n2. What do goblet cells do in the lining of the trachea?\nA  They beat to move mucus along.\nB  They secrete mucus.\nC  They contract to narrow the airway.\nD  They stretch and recoil as air enters.\n\n3. Which statement about removing dust from the trachea is correct?\nA  Cilia trap the dust and mucus moves it along.\nB  Mucus sweeps the dust out of the airway.\nC  Mucus traps the dust and the beating cilia move the mucus along.\nD  Goblet cells beat to carry the dust to the throat.\n\n4. What do the elastic fibres in the walls of the alveoli do when a person breathes out?\nA  They stay stretched to hold the alveoli open.\nB  They stretch to draw air in.\nC  They contract like muscle to squeeze the alveoli.\nD  They recoil and help push air out.\n\n5. What is the function of the smooth muscle in the wall of a bronchiole?\nA  It holds the bronchiole open.\nB  It changes the width of the lumen.\nC  It moves mucus along.\nD  It makes the wall thin for diffusion.\n\n6. How does oxygen pass from the air in an alveolus into the blood?\nA  It is pumped across by goblet cells.\nB  It is carried across by cilia in the wall.\nC  It is squeezed across by elastic fibres.\nD  It diffuses down a concentration gradient.\n\n7. Which row correctly compares the concentrations at an alveolus, between the alveolar air and the blood arriving in the capillary?\nA  oxygen higher in the air; carbon dioxide higher in the blood\nB  oxygen higher in the blood; carbon dioxide higher in the air\nC  both gases higher in the air\nD  both gases higher in the blood\n\n8. Why does the wall of an alveolus being one flat cell thick help gas exchange?\nA  It lets the alveolus move air in and out.\nB  It makes more alveoli fit into the lung.\nC  It gives a short distance for the gases to diffuse.\nD  It traps microbes before they reach the blood.\n\n9. In which airway is smooth muscle present in the wall but cartilage absent?\nA  trachea\nB  bronchiole\nC  bronchus\nD  alveolus\n\n10. Which tissues are found in the wall of an alveolus, with capillaries around it?\nA  cartilage plates and smooth muscle\nB  ciliated epithelium and goblet cells\nC  smooth muscle and ciliated epithelium\nD  squamous epithelium and elastic fibres\n\n11. A patient's ciliated epithelial cells have stopped beating, but the goblet cells still make mucus. Which outcome is most likely?\nA  The mucus will move faster towards the throat.\nB  No mucus will be made at all.\nC  Dust and microbes trapped in the mucus will tend to stay in the airway.\nD  The alveolar walls will become thicker at once.\n\n12. During hard exercise a person breathes faster and deeper. How does this help gas exchange at the alveoli?\nA  Fresh air replaces the alveolar air faster, so the oxygen gradient stays steeper.\nB  The alveolar wall becomes thicker, so oxygen is held in.\nC  The elastic fibres stay stretched, so more air is kept in the lungs.\nD  The cartilage widens the alveoli so more oxygen dissolves.",
+   "canonical_answer": "Key: 1 A, 2 B, 3 C, 4 D, 5 B, 6 D, 7 A, 8 C, 9 B, 10 D, 11 C, 12 A.\n1. The trachea has C-shaped rings, the bronchi have plates and the bronchioles have none (A). B swaps the trachea and the bronchus; C gives the bronchiole plates although it has none; D reverses the order of the airways.\n2. Goblet cells secrete mucus (B). A gives them the job of the ciliated cells; C gives them the job of smooth muscle; D gives them the job of elastic fibres.\n3. Mucus traps and the cilia move the mucus (C). A reverses the two jobs; B is the misconception that mucus does the moving; D gives the beating to goblet cells, which secrete mucus and do not beat.\n4. The fibres recoil on breathing out and help push air out (D). A is the misconception that the fibres hold the alveoli open; B gives them a stretch on breathing out when the stretch happens on breathing in; C wrongly makes them contract, which only muscle does.\n5. Smooth muscle contracts and relaxes to change the width of the lumen (B). A gives it the job of cartilage, which is absent from the bronchioles; C gives it the job of cilia; D gives it the job of the squamous epithelium of the alveoli.\n6. Oxygen diffuses down its concentration gradient (D). A, B and C give the job of exchange to goblet cells, cilia and elastic fibres, which have the roles of making mucus, moving mucus and recoiling.\n7. Oxygen is higher in the alveolar air and carbon dioxide is higher in the arriving blood, so each diffuses down its gradient (A). B reverses both gradients; C and D put both gases on the same side, which would mean no exchange in one direction.\n8. A thin wall gives a short diffusion distance and so a fast exchange (C). A confuses the thin wall with the recoil of elastic fibres; B confuses wall thickness with surface area; D gives the thin wall the job of mucus.\n9. The bronchiole has smooth muscle and no cartilage (B). A and C have both smooth muscle and cartilage; D has neither.\n10. The alveolar wall is squamous epithelium with elastic fibres (D). A gives the alveolus the cartilage and muscle of the larger airways; B and C give it the lining cells of the trachea and bronchi, which the alveoli lack.\n11. Mucus still traps particles, but with no beating cilia nothing moves it along, so the particles tend to stay (C). A gives the cilia a speeding effect when they have stopped; B stops mucus production, which the goblet cells still do; D is an unsupported result.\n12. Faster breathing renews the alveolar air, keeping the oxygen concentration high and the gradient steep (A). B is a wrong change because a thicker wall would slow diffusion; C is the error of keeping the fibres stretched, since they recoil; D gives cartilage a role in the alveoli, where there is none.",
+   "marking_guidance": [
+    "The key: one mark per correct option, twelve marks in all; about half the questions test recall and half test application to a described situation or a comparison of concentrations.",
+    "Each distractor is a named error: the mucus and cilia jobs swapped, elastic fibres that hold the alveoli open or contract, cartilage given to the bronchioles, and the gases moving the wrong way (the misconception register first)."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.1 from its claim ledger. Unverified; our own scenarios and wording.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.1-008": 1,
+    "CLM-8223-2.10.1-009": 1,
+    "CLM-8223-2.10.1-010": 1,
+    "CLM-8223-2.10.1-011": 1,
+    "CLM-8223-2.10.1-018": 1,
+    "CLM-8223-2.10.1-019": 1,
+    "CLM-8223-2.10.1-020": 1,
+    "CLM-8223-2.10.1-021": 1,
+    "CLM-8223-2.10.1-022": 1,
+    "CLM-8223-2.10.1-023": 1,
+    "CLM-8223-2.10.1-024": 1,
+    "CLM-8223-2.10.1-025": 1,
+    "CLM-8223-2.10.1-026": 1
+   },
+   "authored_hash": "8789ed8d5ee940e4f2c142a105de8c3bb9210a47b610cf34c7dd837cdc0b8bf4"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.1-P02",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-05",
+    "OBJ-8223-2.10.1-06",
+    "OBJ-8223-2.10.1-07",
+    "OBJ-8223-2.10.1-08"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.1-015",
+    "CLM-8223-2.10.1-009",
+    "CLM-8223-2.10.1-018",
+    "CLM-8223-2.10.1-019",
+    "CLM-8223-2.10.1-021",
+    "CLM-8223-2.10.1-024"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Identify",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "A school in Rundu examines a prepared slide of a transverse section through one airway of a goat. These are our descriptions of what the class sees. The lumen is lined by a layer of tall cells, each with hair-like projections on its free surface, with scattered pale, swollen cells between them. Beneath the lining are glands. The wall also contains a layer of smooth muscle and, outside it, separate irregular plates of glassy cartilage.\n\n(a) Identify the airway shown, and state the feature in the description that shows this. [2]\n(b) Name the tall cells with hair-like projections, and state what the projections do. [2]\n(c) Explain how the pale, swollen cells and the glands help to protect the alveoli. [2]\n(d) State one function of the cartilage plates. [1]\n(e) Suggest one way in which a layer of mucus lining the alveoli would slow gas exchange. [1]",
+   "canonical_answer": "(a) A bronchus; the cartilage is in separate irregular plates (not one C-shaped ring).\n(b) Ciliated epithelial cells; the cilia beat and move mucus, with trapped dust and microbes, along towards the throat.\n(c) The pale swollen cells are goblet cells, and with the glands they secrete mucus. The mucus traps dust and microbes, so fewer of them reach the alveoli.\n(d) They hold the bronchus open, so it does not collapse when the air pressure inside falls.\n(e) It would add to the distance that oxygen and carbon dioxide have to diffuse, so the exchange would be slower.",
+   "marking_guidance": [
+    "Marks and points: (a) 1 mark for bronchus, 1 mark for separate plates of cartilage, not a single ring; (b) 1 mark for ciliated epithelial cells, 1 mark for beating to move mucus along; (c) 2 marks from three points: goblet cells and glands secrete mucus, mucus traps dust and microbes, fewer reach the alveoli; (d) 1 mark for holding the airway open, or supporting its wall; (e) 1 mark for a longer diffusion distance, or a thicker barrier.",
+    "Parts (a) and (d) credit AO A (3 marks); parts (b), (c) and (e) credit AO B (5 marks). The reason in (c) must use the cells and glands described in the stimulus; a general answer about mucus alone earns one mark, because the term goblet cells or glands shows the link. Cilia that trap dust or mucus that sweeps is the error of confusing which structure traps and which moves."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.1 from its claim ledger. Unverified; our own scenarios and wording.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.1-015": 1,
+    "CLM-8223-2.10.1-009": 1,
+    "CLM-8223-2.10.1-018": 1,
+    "CLM-8223-2.10.1-019": 1,
+    "CLM-8223-2.10.1-021": 1,
+    "CLM-8223-2.10.1-024": 1
+   },
+   "authored_hash": "874f57036320242248567886187aa756c3032f186016bf2ae28c99a14e0dff6e"
+  }
+ ]
+}

@@ -1,0 +1,304 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-2.5.2",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-2.5.2-001",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-01"
+   ],
+   "text": "Below the optimum temperature a rise increases the rate of an enzyme-catalysed reaction because molecules have more kinetic energy and form enzyme-substrate complexes more often; the rate is highest at the optimum, and well above the optimum the bonds holding the tertiary structure break, the active site loses its shape permanently (denaturation) and the rate falls towards zero.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus learning outcome, restated). Biology is our own statement and is unverified."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.5.2-002",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-01"
+   ],
+   "text": "Each enzyme has an optimum pH; a small change from it alters the charges on R groups at and near the active site and reduces the rate reversibly, whereas far from the optimum the tertiary structure is lost permanently (denaturation); a buffer solution holds the pH constant at each value tested.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus learning outcome, restated). Biology is our own statement and is unverified."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.5.2-003",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-01"
+   ],
+   "text": "With excess substrate the rate is proportional to enzyme concentration; with a fixed enzyme concentration the rate rises with substrate concentration and levels off at a maximum when all active sites are occupied; the total product formed depends on the amount of substrate, not on temperature or enzyme concentration, if the reaction goes to completion and the enzyme is not denatured first by a temperature well above the optimum.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus learning outcome, restated). Biology is our own statement and is unverified."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.5.2-004",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-01"
+   ],
+   "text": "Increasing the concentration of an inhibitor, at a fixed substrate concentration, lowers the rate further because more enzyme molecules are affected; in an investigation the rate is measured as product formed or substrate used per unit time, one factor is varied and all other factors are held constant.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus learning outcome, restated). Biology is our own statement and is unverified."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.5.2-005",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-02"
+   ],
+   "text": "Vmax is the maximum rate of reaction, reached at a fixed enzyme concentration when all active sites are occupied; on a graph of rate against substrate concentration it is the plateau, which the curve approaches gradually.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus learning outcome, restated). Biology is our own statement and is unverified."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.5.2-006",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-02"
+   ],
+   "text": "Km, the Michaelis-Menten constant, is the substrate concentration at which the rate is half of Vmax; it is derived by reading Vmax from the plateau, halving it, and reading across to the curve and down to the substrate concentration axis.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus learning outcome, restated). Biology is our own statement and is unverified."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.5.2-007",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-02"
+   ],
+   "text": "Km is used as an inverse measure of the affinity of an enzyme for its substrate: a lower Km means half of Vmax is reached at a lower substrate concentration, so the affinity is higher; Km is a concentration and does not change with enzyme concentration, whereas Vmax does.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus learning outcome, restated). Biology is our own statement and is unverified."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.5.2-008",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-03"
+   ],
+   "text": "A competitive inhibitor has a shape similar to the substrate and binds reversibly to the active site, so it competes with the substrate; raising the substrate concentration overcomes it, so the same Vmax is reached at a higher substrate concentration.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus learning outcome, restated). Biology is our own statement and is unverified."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.5.2-009",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-03"
+   ],
+   "text": "A non-competitive inhibitor binds reversibly at a site other than the active site and changes the shape of the enzyme, including the active site; it does not compete with the substrate, so more substrate does not remove the effect and Vmax is lowered.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus learning outcome, restated). Biology is our own statement and is unverified."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.5.2-010",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-03"
+   ],
+   "text": "From a graph of rate against substrate concentration, an inhibited curve that reaches the same Vmax as the uninhibited curve indicates competitive inhibition, and one that levels off at a lower Vmax indicates non-competitive inhibition; a reversible inhibitor can detach, so activity recovers when it is removed.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus learning outcome, restated). Biology is our own statement and is unverified."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.5.2-011",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-04"
+   ],
+   "text": "An enzyme is immobilised in alginate by mixing it with sodium alginate solution and dripping the mixture into calcium chloride solution, where calcium ions link the alginate chains and each drop sets into a gel bead that traps the enzyme.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus learning outcome, restated). Biology is our own statement and is unverified."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.5.2-012",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-04"
+   ],
+   "text": "Compared with the free enzyme, alginate beads usually give a lower initial rate because the substrate must diffuse through the gel to reach the trapped enzyme and the product must diffuse out.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus learning outcome, restated). Biology is our own statement and is unverified."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.5.2-013",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-04"
+   ],
+   "text": "Immobilised enzymes can be separated from the product and reused for several batches, the product is free of enzyme, and a trapped enzyme tends to be better protected from changes in conditions than a free enzyme; the size of this protection varies with the enzyme and the support.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored from our own statement of standard biology consistent with the syllabus. Single source, no second source checked; requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus learning outcome, restated). Biology is our own statement and is unverified."
+   ]
+  }
+ ]
+}

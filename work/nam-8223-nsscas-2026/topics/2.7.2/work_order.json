@@ -1,0 +1,542 @@
+{
+ "work_order_id": "WO-8223-2.7.2",
+ "topic_id": "2.7.2",
+ "topic_title": "Mammalian heart",
+ "topic": "2.7.2 Mammalian heart",
+ "generated_by": "build/make_work_order.py — regenerate, never edit",
+ "standard": "v0.2.0-draft",
+ "authoring_note": "Every slot below is decided. Write the prose; do not redesign the plan. If a slot is genuinely wrong for the objective, say so in your report rather than silently changing it.",
+ "output_files": {
+  "claims": "claims/canonical_claim_ledger.json",
+  "content_units": [
+   "content-units/CU-8223-2.7.2.json"
+  ],
+  "learning_items": "learning-items/topic_2.7.2_items.json",
+  "notes": "2.7.2-mammalian-heart.md",
+  "flashcards_when_published": "2.7.2-mammalian-heart-flashcards.json"
+ },
+ "assessable_objective_count": 6,
+ "claims_plan": {
+  "per_objective": "2 to 4",
+  "approximate_total": [
+   12,
+   24
+  ]
+ },
+ "content_units": [
+  {
+   "unit_id": "CU-8223-2.7.2",
+   "file": "content-units/CU-8223-2.7.2.json",
+   "sub_topic": "2.7.2",
+   "objective_ids": [
+    "OBJ-8223-2.7.2-01",
+    "OBJ-8223-2.7.2-02",
+    "OBJ-8223-2.7.2-03",
+    "OBJ-8223-2.7.2-04",
+    "OBJ-8223-2.7.2-05",
+    "OBJ-8223-2.7.2-06"
+   ],
+   "objectives": [
+    {
+     "objective_id": "OBJ-8223-2.7.2-01",
+     "title": "describe the external and internal structure of the mammalian heart",
+     "syllabus_text": "describe the external and internal structure of the mammalian heart",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.7.2-02",
+     "title": "observe and make plan diagrams of the structure of the external and internal structure of the mammalian heart",
+     "syllabus_text": "observe and make plan diagrams of the structure of the external and internal structure of the mammalian heart",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.7.2-03",
+     "title": "explain the differences in the thickness of the walls of the: - atria and ventricles - left ventricle and right ventricle",
+     "syllabus_text": "explain the differences in the thickness of the walls of the: - atria and ventricles - left ventricle and right ventricle",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.7.2-04",
+     "title": "describe the cardiac cycle (including blood pressure changes during systole and diastole)and the opening and closing of valves",
+     "syllabus_text": "describe the cardiac cycle (including blood pressure changes during systole and diastole)and the opening and closing of valves",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.7.2-05",
+     "title": "interpret graphs showing the changes in blood pressure during the cardiac cycle",
+     "syllabus_text": "interpret graphs showing the changes in blood pressure during the cardiac cycle",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.7.2-06",
+     "title": "explain how heart action is initiated and controlled (reference should be made to the sinoatrial node, the atrioventricular node and the Purkyne tissue, but not to nervous and hormonal control)",
+     "syllabus_text": "explain how heart action is initiated and controlled (reference should be made to the sinoatrial node, the atrioventricular node and the Purkyne tissue, but not to nervous and hormonal control)",
+     "depth_tier": 3
+    }
+   ],
+   "word_budget": [
+    1630,
+    2340
+   ],
+   "blocks_required": [
+    "a definition or plain explanation block for every objective above",
+    "at least one worked example or analysis chain where the objectives are tier 2 or higher",
+    "a cross-link block naming the topics this one connects to"
+   ]
+  }
+ ],
+ "item_slots": [
+  {
+   "slot": "ITEM-8223-2.7.2-001-FEATURE",
+   "objective_id": "OBJ-8223-2.7.2-01",
+   "objective_title": "describe the external and internal structure of the mammalian heart",
+   "syllabus_text": "describe the external and internal structure of the mammalian heart",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "feature|features|point|points|characteristic|characteristics|structure|function|part|parts"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.2-002-MECH",
+   "objective_id": "OBJ-8223-2.7.2-01",
+   "objective_title": "describe the external and internal structure of the mammalian heart",
+   "syllabus_text": "describe the external and internal structure of the mammalian heart",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "how|because|so that|which|then|causes|cause|leads|results"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.2-014-MISCON",
+   "objective_id": "OBJ-8223-2.7.2-01",
+   "objective_title": "describe the external and internal structure of the mammalian heart",
+   "syllabus_text": "describe the external and internal structure of the mammalian heart",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "error|mistake|confusion|confused|wrongly|in fact|not the same|instead|test"
+   ],
+   "misconception_entry": "MC-8223-2.7.2-01",
+   "reason": "discriminates misconception MC-8223-2.7.2-01 (1 examiner statements): Confusing coronary arteries with the major vessels leaving the heart"
+  },
+  {
+   "slot": "ITEM-8223-2.7.2-003-FEATURE",
+   "objective_id": "OBJ-8223-2.7.2-02",
+   "objective_title": "observe and make plan diagrams of the structure of the external and internal structure of the mammalian heart",
+   "syllabus_text": "observe and make plan diagrams of the structure of the external and internal structure of the mammalian heart",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "feature|features|point|points|characteristic|characteristics|structure|function|part|parts"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.2-004-APP",
+   "objective_id": "OBJ-8223-2.7.2-02",
+   "objective_title": "observe and make plan diagrams of the structure of the external and internal structure of the mammalian heart",
+   "syllabus_text": "observe and make plan diagrams of the structure of the external and internal structure of the mammalian heart",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-2.7.2-005-DEF",
+   "objective_id": "OBJ-8223-2.7.2-03",
+   "objective_title": "explain the differences in the thickness of the walls of the: - atria and ventricles - left ventricle and right ventricle",
+   "syllabus_text": "explain the differences in the thickness of the walls of the: - atria and ventricles - left ventricle and right ventricle",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-2.7.2-006-DIST",
+   "objective_id": "OBJ-8223-2.7.2-03",
+   "objective_title": "explain the differences in the thickness of the walls of the: - atria and ventricles - left ventricle and right ventricle",
+   "syllabus_text": "explain the differences in the thickness of the walls of the: - atria and ventricles - left ventricle and right ventricle",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "difference|differences|whereas|contrast|distinction|both|while|unlike|compare"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.2-007-PROC",
+   "objective_id": "OBJ-8223-2.7.2-04",
+   "objective_title": "describe the cardiac cycle (including blood pressure changes during systole and diastole)and the opening and closing of valves",
+   "syllabus_text": "describe the cardiac cycle (including blood pressure changes during systole and diastole)and the opening and closing of valves",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "order|sequence|first|then|step|steps|stage|stages|start",
+    "result|so|therefore|finally|end|product|outcome"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.2-008-MECH",
+   "objective_id": "OBJ-8223-2.7.2-04",
+   "objective_title": "describe the cardiac cycle (including blood pressure changes during systole and diastole)and the opening and closing of valves",
+   "syllabus_text": "describe the cardiac cycle (including blood pressure changes during systole and diastole)and the opening and closing of valves",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "how|because|so that|which|then|causes|cause|leads|results"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.2-009-INTERP",
+   "objective_id": "OBJ-8223-2.7.2-05",
+   "objective_title": "interpret graphs showing the changes in blood pressure during the cardiac cycle",
+   "syllabus_text": "interpret graphs showing the changes in blood pressure during the cardiac cycle",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.2-010-INTERP",
+   "objective_id": "OBJ-8223-2.7.2-05",
+   "objective_title": "interpret graphs showing the changes in blood pressure during the cardiac cycle",
+   "syllabus_text": "interpret graphs showing the changes in blood pressure during the cardiac cycle",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.2-011-DEF",
+   "objective_id": "OBJ-8223-2.7.2-06",
+   "objective_title": "explain how heart action is initiated and controlled (reference should be made to the sinoatrial node, the atrioventricular node and the Purkyne tissue, but not to nervous and hormonal control)",
+   "syllabus_text": "explain how heart action is initiated and controlled (reference should be made to the sinoatrial node, the atrioventricular node and the Purkyne tissue, but not to nervous and hormonal control)",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-2.7.2-012-MECH",
+   "objective_id": "OBJ-8223-2.7.2-06",
+   "objective_title": "explain how heart action is initiated and controlled (reference should be made to the sinoatrial node, the atrioventricular node and the Purkyne tissue, but not to nervous and hormonal control)",
+   "syllabus_text": "explain how heart action is initiated and controlled (reference should be made to the sinoatrial node, the atrioventricular node and the Purkyne tissue, but not to nervous and hormonal control)",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "how|because|so that|which|then|causes|cause|leads|results"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.2-013-APP",
+   "objective_id": "OBJ-8223-2.7.2-06",
+   "objective_title": "explain how heart action is initiated and controlled (reference should be made to the sinoatrial node, the atrioventricular node and the Purkyne tissue, but not to nervous and hormonal control)",
+   "syllabus_text": "explain how heart action is initiated and controlled (reference should be made to the sinoatrial node, the atrioventricular node and the Purkyne tissue, but not to nervous and hormonal control)",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  }
+ ],
+ "performance_tasks": [
+  {
+   "slot": "ITEM-8223-2.7.2-P01",
+   "item_type": "multiple_choice_set",
+   "brief": "A set of 12 four-option multiple-choice questions on this topic in the style of Paper 1, one mark each: about half recall and half application, diagram, graph or sequence, every distractor built from a known error (the misconception register first), the key and the reason each distractor is wrong on the back.",
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "key|correct option|correct answer",
+    "distractor|distractors|wrong option|wrong options|error"
+   ],
+   "objective_ids": "choose 2-4 objectives from this topic that the task genuinely exercises"
+  },
+  {
+   "slot": "ITEM-8223-2.7.2-P02",
+   "item_type": "short_answer",
+   "brief": "A Paper 2 style structured question: four or five linked parts around one stimulus (a data table, a graph described by its axes and values, a labelled structure described in words, or a short scenario), about 8 marks, mixing state, describe, explain and suggest, each part with its own mark allocation and more creditworthy points on the scheme than marks.",
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "mark|marks|point|points",
+    "unit|units|term|terms|because|reason"
+   ],
+   "objective_ids": "choose 2-4 objectives from this topic that the task genuinely exercises"
+  }
+ ],
+ "planned_item_count": 16,
+ "planned_ao_mix_by_item_count": {
+  "A": {
+   "planned_share_percent": 50,
+   "target_percent": 40
+  },
+  "B": {
+   "planned_share_percent": 50,
+   "target_percent": 40
+  },
+  "C": {
+   "planned_share_percent": 0,
+   "target_percent": 20
+  }
+ },
+ "planned_blooms_mix": {
+  "Remember": {
+   "items": 4,
+   "share_percent": 25
+  },
+  "Understand": {
+   "items": 5,
+   "share_percent": 31
+  },
+  "Apply": {
+   "items": 5,
+   "share_percent": 31
+  },
+  "Analyse": {
+   "items": 2,
+   "share_percent": 12
+  },
+  "Evaluate": {
+   "items": 0,
+   "share_percent": 0
+  },
+  "Create": {
+   "items": 0,
+   "share_percent": 0
+  }
+ },
+ "planned_ao_mix_by_marks": {
+  "A": {
+   "planned_share_percent": 47,
+   "syllabus_weight_percent": 40
+  },
+  "B": {
+   "planned_share_percent": 53,
+   "syllabus_weight_percent": 40
+  },
+  "C": {
+   "planned_share_percent": 0,
+   "syllabus_weight_percent": 20
+  }
+ },
+ "marks_equivalent_total": 45,
+ "ao_mix_note": "The syllabus states its AO weights as a share of MARKS, so planned_ao_mix_by_marks is the one that answers \"does this resource match the exam\". It values each card at the tariff of the question it models, split across the AOs the card declares, and values each performance task at the marks of the paper part it models. The count-based mix below is reported only because it is what a reader expects to see; do not balance against it. AO shares by ITEM COUNT: Every objective needs one recall anchor, so AO1 has a structural floor of about 43% in this topic (6 objectives against 14 slots) and cannot reach the None% target by count however many other cards are added - padding the bank to chase it makes the resource worse. The framework already measures the AO4 share in practice time rather than by count for the same reason. Treat AO1 above target as expected, and AO2/AO3/AO4 below target as the thing worth fixing.",
+ "excluded_constructs": [
+  {
+   "construct": "species concepts other than the biological, morphological, ecological and behavioural concepts",
+   "pattern": "\\b(?:phylogenetic|cohesion|recognition|evolutionary|genotypic cluster)\\s+species\\s+concept",
+   "source": {
+    "printed_page": 5,
+    "topic": "1.1",
+    "quote": "limited to the biological, morphological, ecological and behavioural concepts"
+   }
+  },
+  {
+   "construct": "mesosomes",
+   "pattern": "\\bmesosomes?\\b",
+   "source": {
+    "printed_page": 8,
+    "topic": "2.2",
+    "quote": "no reference to mesosomes required"
+   }
+  },
+  {
+   "construct": "calculations of water potential",
+   "pattern": "\\bcalculat\\w*\\s+(?:the\\s+)?(?:water|solute|pressure)\\s+potential|\\bψ\\s*=\\s*ψ|\\bwater potential\\s*=\\s*solute potential|\\bΨs\\b|\\bΨp\\b",
+   "source": {
+    "printed_page": 9,
+    "topic": "2.3.2",
+    "quote": "no calculations involving water potential will be set"
+   }
+  },
+  {
+   "construct": "solute potential, pressure potential and osmotic potential as terms",
+   "pattern": "\\b(?:solute|pressure|osmotic)\\s+potential\\b",
+   "source": {
+    "printed_page": 9,
+    "topic": "2.3.2",
+    "quote": "Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected"
+   }
+  },
+  {
+   "construct": "roles of water beyond solvent action, specific heat capacity and latent heat of vaporisation",
+   "pattern": "\\b(?:ice floats|ice is less dense|maximum density|surface tension)\\b",
+   "source": {
+    "printed_page": 11,
+    "topic": "2.4.2",
+    "quote": "limited to solvent action, specific heat capacity and latent heat of vapourisation"
+   }
+  },
+  {
+   "construct": "chloride shift",
+   "pattern": "\\bchloride shift\\b|\\bhamburger shift\\b",
+   "source": {
+    "printed_page": 14,
+    "topic": "2.7.1",
+    "quote": "details of the chloride shift are not required"
+   }
+  },
+  {
+   "construct": "nervous and hormonal control of the heart",
+   "pattern": "\\b(?:vagus nerve|cardiac centre|cardiovascular centre|cardioaccelerator|medulla oblongata)\\b|\\b(?:sympathetic|parasympathetic)\\b[^.]{0,60}\\bheart\\b|\\b(?:adrenaline|noradrenaline|acetylcholine)\\b[^.]{0,60}\\bheart (?:rate|beat)",
+   "source": {
+    "printed_page": 15,
+    "topic": "2.7.2",
+    "quote": "reference should be made to the sinoatrial node, the atrioventricular node and the Purkyne tissue, but not to nervous and hormonal control"
+   }
+  },
+  {
+   "construct": "non-infectious disease examples other than sickle cell anaemia and lung cancer",
+   "pattern": "\\b(?:non-?infectious|not infectious)\\b[^.]{0,80}\\b(?:diabetes|coronary heart disease|scurvy|rickets|kwashiorkor|cystic fibrosis|haemophilia|huntington|osteoporosis)\\b|\\b(?:diabetes|coronary heart disease|scurvy|rickets|kwashiorkor|cystic fibrosis|haemophilia|huntington|osteoporosis)\\b[^.]{0,80}\\b(?:non-?infectious|not infectious)\\b",
+   "source": {
+    "printed_page": 15,
+    "topic": "2.8.1",
+    "quote": "limited to sickle cell anaemia and lung cancer"
+   }
+  },
+  {
+   "construct": "detailed life cycle of the malarial parasite",
+   "pattern": "\\b(?:sporozoites?|merozoites?|gametocytes?|schizonts?|hypnozoites?|oocysts?|trophozoites?|exo-?erythrocytic)\\b",
+   "source": {
+    "printed_page": 15,
+    "topic": "2.8.1",
+    "quote": "a detailed study of the life cycle of the malarial parasite is not required"
+   }
+  },
+  {
+   "construct": "T-lymphocyte types other than T-helper and T-killer cells",
+   "pattern": "\\b(?:regulatory T|suppressor T|T-?regulatory|Tregs?|memory T cells?|gamma-?delta)\\b",
+   "source": {
+    "printed_page": 16,
+    "topic": "2.9.1",
+    "quote": "limited to T-helper cells and T-killer cells"
+   }
+  },
+  {
+   "construct": "chromosome structure beyond DNA, histone proteins, chromatids, centromere and telomeres",
+   "pattern": "\\b(?:kinetochores?|nucleosomes?|euchromatin|heterochromatin|cohesins?|condensins?)\\b",
+   "source": {
+    "printed_page": 18,
+    "topic": "3.1.1",
+    "quote": "limited to DNA, histone proteins, chromatids, centromere and telomeres"
+   }
+  },
+  {
+   "construct": "structural formulae of nucleotides and bases",
+   "pattern": "\\bstructural formulae? of (?:the )?(?:nucleotides?|bases?|purines?|pyrimidines?|adenine|guanine|cytosine|thymine|uracil)\\b|\\bC5H5N5\\b|\\bC4H5N3O\\b|\\bC5H5N5O\\b|\\bC4H4N2O2\\b",
+   "source": {
+    "printed_page": 19,
+    "topic": "3.2.1",
+    "quote": "structural formulae are not required"
+   }
+  }
+ ],
+ "adjacent_topics": [],
+ "excluded_constructs_status": "declared",
+ "subtype_waivers": []
+}

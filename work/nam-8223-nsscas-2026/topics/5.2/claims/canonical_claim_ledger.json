@@ -1,0 +1,614 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-5.2",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-5.2-001",
+   "objective_ids": [
+    "OBJ-8223-5.2-01"
+   ],
+   "text": "A graph or chart is drawn from a table by putting the independent variable on the x-axis and the dependent variable on the y-axis, labelling each axis with its quantity and unit as in the table headings, choosing the scales, plotting each pair of values as a small cross, and joining the points in the way the pattern of the data calls for.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Annexe C, p. 43: draw charts and graphs from given data",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.2 under standard v0.2.0-draft. Single source: our own statement of standard graph and chart practice consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the Annexe C line for OBJ-8223-5.2-01; every table and value used with it is ours, and arithmetic is recomputed by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.2-002",
+   "objective_ids": [
+    "OBJ-8223-5.2-01"
+   ],
+   "text": "A drawn graph or chart is checked by counting the marks (one point or bar for each pair of values in the table) and by reading two marks back against the scales to compare them with the table; it also carries a title or caption that says what it shows.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Annexe C, p. 43: draw charts and graphs from given data",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.2 under standard v0.2.0-draft. Single source: our own statement of standard graph and chart practice consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the Annexe C line for OBJ-8223-5.2-01; every table and value used with it is ours, and arithmetic is recomputed by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.2-003",
+   "objective_ids": [
+    "OBJ-8223-5.2-02"
+   ],
+   "text": "Reading a value from a graph between two plotted points is interpolation, and reading a value beyond the plotted points is extrapolation, which is less reliable because the trend may not continue beyond the readings taken.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Annexe C, p. 43: interpret charts and graphs",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.2 under standard v0.2.0-draft. Single source: our own statement of standard graph and chart practice consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the Annexe C line for OBJ-8223-5.2-02; every table and value used with it is ours, and arithmetic is recomputed by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.2-004",
+   "objective_ids": [
+    "OBJ-8223-5.2-02"
+   ],
+   "text": "A trend on a graph is described by stating its direction (increase, decrease or no change), quoting values with units from the axes for the start and the end, saying where the line is steeper or flatter, and naming any level part.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Annexe C, p. 43: interpret charts and graphs",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.2 under standard v0.2.0-draft. Single source: our own statement of standard graph and chart practice consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the Annexe C line for OBJ-8223-5.2-02; every table and value used with it is ours, and arithmetic is recomputed by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.2-005",
+   "objective_ids": [
+    "OBJ-8223-5.2-03"
+   ],
+   "text": "A suitable scale uses an easy step per large square, a multiple of 1, 2 or 5 (such as 0.5, 2, 10 or 20); the step is chosen by dividing the largest value by the number of large squares available and rounding the result up to the next easy step, so that the points fill most of the grid.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Annexe C, p. 43: select suitable scales and axes for graphs",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.2 under standard v0.2.0-draft. Single source: our own statement of standard graph and chart practice consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the Annexe C line for OBJ-8223-5.2-03; every table and value used with it is ours, and arithmetic is recomputed by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.2-006",
+   "objective_ids": [
+    "OBJ-8223-5.2-03"
+   ],
+   "text": "A scale is linear, with equal distances along the axis standing for equal amounts, and each axis is scaled separately; an axis starts at zero where zero is a possible value near the data and may start higher where all the values lie in a narrow band far from zero.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Annexe C, p. 43: select suitable scales and axes for graphs",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.2 under standard v0.2.0-draft. Single source: our own statement of standard graph and chart practice consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the Annexe C line for OBJ-8223-5.2-03; every table and value used with it is ours, and arithmetic is recomputed by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.2-007",
+   "objective_ids": [
+    "OBJ-8223-5.2-04"
+   ],
+   "text": "A frequency distribution is a table of classes of equal width that do not overlap, giving the frequency (the number of individuals or readings) in each class; the frequencies add up to the total number measured.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Annexe C, p. 43: construct and interpret frequency distributions and diagrams, such as pie charts, bar charts and histograms",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.2 under standard v0.2.0-draft. Single source: our own statement of standard graph and chart practice consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the Annexe C line for OBJ-8223-5.2-04; every table and value used with it is ours, and arithmetic is recomputed by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.2-008",
+   "objective_ids": [
+    "OBJ-8223-5.2-04"
+   ],
+   "text": "In a pie chart the angle of the sector for a category is the frequency of the category divided by the total, multiplied by 360 degrees, and the sector angles add up to 360 degrees.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Annexe C, p. 43: construct and interpret frequency distributions and diagrams, such as pie charts, bar charts and histograms",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.2 under standard v0.2.0-draft. Single source: our own statement of standard graph and chart practice consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the Annexe C line for OBJ-8223-5.2-04; every table and value used with it is ours, and arithmetic is recomputed by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.2-009",
+   "objective_ids": [
+    "OBJ-8223-5.2-04"
+   ],
+   "text": "A bar chart of categorical or discrete data has separated bars of equal width on a y-axis that starts at zero; a histogram of a continuous measurement has touching bars, with the class boundaries marked along the x-axis and the frequency of each class as the height of its bar.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Annexe C, p. 43: construct and interpret frequency distributions and diagrams, such as pie charts, bar charts and histograms",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.2 under standard v0.2.0-draft. Single source: our own statement of standard graph and chart practice consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the Annexe C line for OBJ-8223-5.2-04; every table and value used with it is ours, and arithmetic is recomputed by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.2-010",
+   "objective_ids": [
+    "OBJ-8223-5.2-05"
+   ],
+   "text": "A bar chart suits a variable of named categories or whole-number counts, a histogram suits a continuous measurement sorted into classes to show how many fall in each class, and a line graph suits a continuous independent variable with a second variable measured at each value.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Annexe C, p. 43: understand when information should be presented in the form of a bar chart, histogram or line graph",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.2 under standard v0.2.0-draft. Single source: our own statement of standard graph and chart practice consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the Annexe C line for OBJ-8223-5.2-05; every table and value used with it is ours, and arithmetic is recomputed by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.2-011",
+   "objective_ids": [
+    "OBJ-8223-5.2-05"
+   ],
+   "text": "A histogram and a line graph both use a continuous x-axis, but a histogram shows the frequency of one measured variable in classes, whereas a line graph plots one measured variable against a second, chosen variable.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Annexe C, p. 43: understand when information should be presented in the form of a bar chart, histogram or line graph",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.2 under standard v0.2.0-draft. Single source: our own statement of standard graph and chart practice consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the Annexe C line for OBJ-8223-5.2-05; every table and value used with it is ours, and arithmetic is recomputed by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.2-012",
+   "objective_ids": [
+    "OBJ-8223-5.2-06"
+   ],
+   "text": "Ruled straight lines from one point to the next are suitable where the values are given and no trend is to be assumed, or where the task asks for the points to be joined, and they make no claim about the values between the points.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Annexe C, p. 43: recognise when it is appropriate to join the points on a graph with straight ruled lines and when it is appropriate to use a line (straight or curved) of best fit",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.2 under standard v0.2.0-draft. Single source: our own statement of standard graph and chart practice consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the Annexe C line for OBJ-8223-5.2-06; every table and value used with it is ours, and arithmetic is recomputed by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.2-013",
+   "objective_ids": [
+    "OBJ-8223-5.2-06"
+   ],
+   "text": "A line of best fit, straight where the trend is straight and a smooth curve where the trend curves, is drawn through or close to the points with about as many points above it as below it; it need not pass through any plotted point or the origin, and it is suitable where scatter comes from errors in measurement.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Annexe C, p. 43: recognise when it is appropriate to join the points on a graph with straight ruled lines and when it is appropriate to use a line (straight or curved) of best fit",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.2 under standard v0.2.0-draft. Single source: our own statement of standard graph and chart practice consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the Annexe C line for OBJ-8223-5.2-06; every table and value used with it is ours, and arithmetic is recomputed by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.2-014",
+   "objective_ids": [
+    "OBJ-8223-5.2-07"
+   ],
+   "text": "The rate of change shown by a straight line on a graph is its gradient, change in y ÷ change in x, and its unit is the unit of y per unit of x.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Annexe C, p. 43: calculate the rate of change from a line on a graph",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.2 under standard v0.2.0-draft. Single source: our own statement of standard graph and chart practice consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the Annexe C line for OBJ-8223-5.2-07; every table and value used with it is ours, and arithmetic is recomputed by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.2-015",
+   "objective_ids": [
+    "OBJ-8223-5.2-07"
+   ],
+   "text": "To calculate a gradient, two points far apart on the line are chosen, their coordinates are read, the values are subtracted in the same order for y and for x, and the change in y is divided by the change in x; a line that slopes down gives a negative rate, which means the quantity is decreasing.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Annexe C, p. 43: calculate the rate of change from a line on a graph",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.2 under standard v0.2.0-draft. Single source: our own statement of standard graph and chart practice consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the Annexe C line for OBJ-8223-5.2-07; every table and value used with it is ours, and arithmetic is recomputed by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.2-016",
+   "objective_ids": [
+    "OBJ-8223-5.2-07"
+   ],
+   "text": "The rate of change depends on the steepness of the line and not on the height of the line: a steeper line has a greater rate, and a horizontal line has a rate of 0 although its y value may not be 0.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Annexe C, p. 43: calculate the rate of change from a line on a graph",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.2 under standard v0.2.0-draft. Single source: our own statement of standard graph and chart practice consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the Annexe C line for OBJ-8223-5.2-07; every table and value used with it is ours, and arithmetic is recomputed by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.2-017",
+   "objective_ids": [
+    "OBJ-8223-5.2-08"
+   ],
+   "text": "A tangent to a curve is a straight line that touches the curve at one point and has the same direction as the curve at that point; the gradient of the tangent is the rate of change at that point.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Annexe C, p. 43: draw and use the slope of a tangent to a curve as a means to obtain the rate of change",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.2 under standard v0.2.0-draft. Single source: our own statement of standard graph and chart practice consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the Annexe C line for OBJ-8223-5.2-08; every table and value used with it is ours, and arithmetic is recomputed by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.2-018",
+   "objective_ids": [
+    "OBJ-8223-5.2-08"
+   ],
+   "text": "To find a rate from a tangent, a ruler is placed to touch the curve at the point and pivoted until the curve lies about the same distance from the edge on each side of the point, a long sharp line is drawn, two points far apart on the tangent are chosen, and the change in y is divided by the change in x, with the unit of y per unit of x.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Annexe C, p. 43: draw and use the slope of a tangent to a curve as a means to obtain the rate of change",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.2 under standard v0.2.0-draft. Single source: our own statement of standard graph and chart practice consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the Annexe C line for OBJ-8223-5.2-08; every table and value used with it is ours, and arithmetic is recomputed by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.2-019",
+   "objective_ids": [
+    "OBJ-8223-5.2-08"
+   ],
+   "text": "The gradient of a tangent gives the rate at a single point, whereas the mean rate over an interval is the change in y divided by the change in x between two points on the curve; where a curve is flattening, the rate at a later point is less than the mean rate over the whole run.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Annexe C, p. 43: draw and use the slope of a tangent to a curve as a means to obtain the rate of change",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.2 under standard v0.2.0-draft. Single source: our own statement of standard graph and chart practice consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the Annexe C line for OBJ-8223-5.2-08; every table and value used with it is ours, and arithmetic is recomputed by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.2-020",
+   "objective_ids": [
+    "OBJ-8223-5.2-09"
+   ],
+   "text": "A straight line is written as the equation y = mx + c, where m is the gradient (the change in y for each increase of 1 in x) and c is the intercept, the value of y where x = 0; a line through the origin has c = 0, giving y = mx, which is direct proportion.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Annexe C, p. 43: translate information between graphical, numerical, and algebraic forms",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.2 under standard v0.2.0-draft. Single source: our own statement of standard graph and chart practice consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the Annexe C line for OBJ-8223-5.2-09; every table and value used with it is ours, and arithmetic is recomputed by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.2-021",
+   "objective_ids": [
+    "OBJ-8223-5.2-09"
+   ],
+   "text": "Information passes between forms: a table of pairs gives the points of a graph, a graph gives table values by reading, an equation gives table values by substituting x, and a straight line gives its equation by reading c at x = 0 and calculating m from two points; the equation is reliable within the range of the data.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Annexe C, p. 43: translate information between graphical, numerical, and algebraic forms",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.2 under standard v0.2.0-draft. Single source: our own statement of standard graph and chart practice consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the Annexe C line for OBJ-8223-5.2-09; every table and value used with it is ours, and arithmetic is recomputed by the check suite."
+   ]
+  }
+ ]
+}

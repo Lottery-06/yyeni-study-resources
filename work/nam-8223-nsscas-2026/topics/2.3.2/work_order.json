@@ -1,0 +1,709 @@
+{
+ "work_order_id": "WO-8223-2.3.2",
+ "topic_id": "2.3.2",
+ "topic_title": "Movement of substances into and out of cells",
+ "topic": "2.3.2 Movement of substances into and out of cells",
+ "generated_by": "build/make_work_order.py — regenerate, never edit",
+ "standard": "v0.2.0-draft",
+ "authoring_note": "Every slot below is decided. Write the prose; do not redesign the plan. If a slot is genuinely wrong for the objective, say so in your report rather than silently changing it.",
+ "output_files": {
+  "claims": "claims/canonical_claim_ledger.json",
+  "content_units": [
+   "content-units/CU-8223-2.3.2.json"
+  ],
+  "learning_items": "learning-items/topic_2.3.2_items.json",
+  "notes": "2.3.2-movement-of-substances-into-and-out-of-cells.md",
+  "flashcards_when_published": "2.3.2-movement-of-substances-into-and-out-of-cells-flashcards.json"
+ },
+ "assessable_objective_count": 5,
+ "claims_plan": {
+  "per_objective": "2 to 4",
+  "approximate_total": [
+   10,
+   20
+  ]
+ },
+ "content_units": [
+  {
+   "unit_id": "CU-8223-2.3.2",
+   "file": "content-units/CU-8223-2.3.2.json",
+   "sub_topic": "2.3.2",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-01",
+    "OBJ-8223-2.3.2-02",
+    "OBJ-8223-2.3.2-03",
+    "OBJ-8223-2.3.2-04",
+    "OBJ-8223-2.3.2-05"
+   ],
+   "objectives": [
+    {
+     "objective_id": "OBJ-8223-2.3.2-01",
+     "title": "describe and explain the processes of diffusion, facilitated diffusion, osmosis, active transport, endocytosis and exocytosis (no calculations involving water potential will be set)",
+     "syllabus_text": "describe and explain the processes of diffusion, facilitated diffusion, osmosis, active transport, endocytosis and exocytosis (no calculations involving water potential will be set)",
+     "depth_tier": 3
+    },
+    {
+     "objective_id": "OBJ-8223-2.3.2-02",
+     "title": "investigate simple diffusion and osmosis using plant tissue and non- living materials, such as glucose solutions, Visking tubing and agar",
+     "syllabus_text": "investigate simple diffusion and osmosis using plant tissue and non- living materials, such as glucose solutions, Visking tubing and agar",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.3.2-03",
+     "title": "calculate surface areas and volumes of simple shapes (e.g. cubes) to illustrate the principle that surface area to volume ratios decrease with increasing size",
+     "syllabus_text": "calculate surface areas and volumes of simple shapes (e.g. cubes) to illustrate the principle that surface area to volume ratios decrease with increasing size",
+     "depth_tier": 3
+    },
+    {
+     "objective_id": "OBJ-8223-2.3.2-04",
+     "title": "explain the movement of water between cells and solutionswith different water potentials and explain the different effect son plant cells (using the terms turgid, flaccid, plasmolysis) and animal cells (Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected)",
+     "syllabus_text": "explain the movement of water between cells and solutionswith different water potentials and explain the different effect son plant cells (using the terms turgid, flaccid, plasmolysis) and animal cells (Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected)",
+     "depth_tier": 3
+    },
+    {
+     "objective_id": "OBJ-8223-2.3.2-05",
+     "title": "investigate the effects of immersing plant tissues in solutions of different water potential, using the results to estimate the water potential of the tissues",
+     "syllabus_text": "investigate the effects of immersing plant tissues in solutions of different water potential, using the results to estimate the water potential of the tissues",
+     "depth_tier": 2
+    }
+   ],
+   "word_budget": [
+    1550,
+    2210
+   ],
+   "blocks_required": [
+    "a definition or plain explanation block for every objective above",
+    "at least one worked example or analysis chain where the objectives are tier 2 or higher",
+    "a cross-link block naming the topics this one connects to"
+   ]
+  }
+ ],
+ "item_slots": [
+  {
+   "slot": "ITEM-8223-2.3.2-001-DEF",
+   "objective_id": "OBJ-8223-2.3.2-01",
+   "objective_title": "describe and explain the processes of diffusion, facilitated diffusion, osmosis, active transport, endocytosis and exocytosis (no calculations involving water potential will be set)",
+   "syllabus_text": "describe and explain the processes of diffusion, facilitated diffusion, osmosis, active transport, endocytosis and exocytosis (no calculations involving water potential will be set)",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.3.2-002-MECH",
+   "objective_id": "OBJ-8223-2.3.2-01",
+   "objective_title": "describe and explain the processes of diffusion, facilitated diffusion, osmosis, active transport, endocytosis and exocytosis (no calculations involving water potential will be set)",
+   "syllabus_text": "describe and explain the processes of diffusion, facilitated diffusion, osmosis, active transport, endocytosis and exocytosis (no calculations involving water potential will be set)",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "how|because|so that|which|then|causes|cause|leads|results"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.3.2-003-APP",
+   "objective_id": "OBJ-8223-2.3.2-01",
+   "objective_title": "describe and explain the processes of diffusion, facilitated diffusion, osmosis, active transport, endocytosis and exocytosis (no calculations involving water potential will be set)",
+   "syllabus_text": "describe and explain the processes of diffusion, facilitated diffusion, osmosis, active transport, endocytosis and exocytosis (no calculations involving water potential will be set)",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.3.2-016-MISCON",
+   "objective_id": "OBJ-8223-2.3.2-01",
+   "objective_title": "describe and explain the processes of diffusion, facilitated diffusion, osmosis, active transport, endocytosis and exocytosis (no calculations involving water potential will be set)",
+   "syllabus_text": "describe and explain the processes of diffusion, facilitated diffusion, osmosis, active transport, endocytosis and exocytosis (no calculations involving water potential will be set)",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "error|mistake|confusion|confused|wrongly|in fact|not the same|instead|test"
+   ],
+   "misconception_entry": "MC-8223-2.3.2-02",
+   "reason": "discriminates misconception MC-8223-2.3.2-02 (1 examiner statements): Naming diffusion or osmosis for bulk uptake into a cell, or confusing endosmosis with endocytosis"
+  },
+  {
+   "slot": "ITEM-8223-2.3.2-017-MISCON",
+   "objective_id": "OBJ-8223-2.3.2-01",
+   "objective_title": "describe and explain the processes of diffusion, facilitated diffusion, osmosis, active transport, endocytosis and exocytosis (no calculations involving water potential will be set)",
+   "syllabus_text": "describe and explain the processes of diffusion, facilitated diffusion, osmosis, active transport, endocytosis and exocytosis (no calculations involving water potential will be set)",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "error|mistake|confusion|confused|wrongly|in fact|not the same|instead|test"
+   ],
+   "misconception_entry": "MC-8223-2.3.2-03",
+   "reason": "discriminates misconception MC-8223-2.3.2-03 (2 examiner statements): Saying cells differ in membrane thickness to explain how fast substances cross"
+  },
+  {
+   "slot": "ITEM-8223-2.3.2-020-MISCON",
+   "objective_id": "OBJ-8223-2.3.2-01",
+   "objective_title": "describe and explain the processes of diffusion, facilitated diffusion, osmosis, active transport, endocytosis and exocytosis (no calculations involving water potential will be set)",
+   "syllabus_text": "describe and explain the processes of diffusion, facilitated diffusion, osmosis, active transport, endocytosis and exocytosis (no calculations involving water potential will be set)",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "error|mistake|confusion|confused|wrongly|in fact|not the same|instead|test"
+   ],
+   "misconception_entry": "MC-8223-2.3.2-06",
+   "reason": "discriminates misconception MC-8223-2.3.2-06 (1 examiner statements): Claiming active transport from concentration data alone"
+  },
+  {
+   "slot": "ITEM-8223-2.3.2-021-INTERP",
+   "objective_id": "OBJ-8223-2.3.2-01",
+   "objective_title": "describe and explain the processes of diffusion, facilitated diffusion, osmosis, active transport, endocytosis and exocytosis (no calculations involving water potential will be set)",
+   "syllabus_text": "describe and explain the processes of diffusion, facilitated diffusion, osmosis, active transport, endocytosis and exocytosis (no calculations involving water potential will be set)",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "added to reach the framework B target of 50%"
+  },
+  {
+   "slot": "ITEM-8223-2.3.2-004-PROC",
+   "objective_id": "OBJ-8223-2.3.2-02",
+   "objective_title": "investigate simple diffusion and osmosis using plant tissue and non- living materials, such as glucose solutions, Visking tubing and agar",
+   "syllabus_text": "investigate simple diffusion and osmosis using plant tissue and non- living materials, such as glucose solutions, Visking tubing and agar",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "order|sequence|first|then|step|steps|stage|stages|start",
+    "result|so|therefore|finally|end|product|outcome"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.3.2-005-WHY",
+   "objective_id": "OBJ-8223-2.3.2-02",
+   "objective_title": "investigate simple diffusion and osmosis using plant tissue and non- living materials, such as glucose solutions, Visking tubing and agar",
+   "syllabus_text": "investigate simple diffusion and osmosis using plant tissue and non- living materials, such as glucose solutions, Visking tubing and agar",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "reason|purpose|why|because|so that|need|needed"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.3.2-023-INTERP",
+   "objective_id": "OBJ-8223-2.3.2-02",
+   "objective_title": "investigate simple diffusion and osmosis using plant tissue and non- living materials, such as glucose solutions, Visking tubing and agar",
+   "syllabus_text": "investigate simple diffusion and osmosis using plant tissue and non- living materials, such as glucose solutions, Visking tubing and agar",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "added to reach the framework B target of 50%"
+  },
+  {
+   "slot": "ITEM-8223-2.3.2-006-DEF",
+   "objective_id": "OBJ-8223-2.3.2-03",
+   "objective_title": "calculate surface areas and volumes of simple shapes (e.g. cubes) to illustrate the principle that surface area to volume ratios decrease with increasing size",
+   "syllabus_text": "calculate surface areas and volumes of simple shapes (e.g. cubes) to illustrate the principle that surface area to volume ratios decrease with increasing size",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.3.2-007-CALC",
+   "objective_id": "OBJ-8223-2.3.2-03",
+   "objective_title": "calculate surface areas and volumes of simple shapes (e.g. cubes) to illustrate the principle that surface area to volume ratios decrease with increasing size",
+   "syllabus_text": "calculate surface areas and volumes of simple shapes (e.g. cubes) to illustrate the principle that surface area to volume ratios decrease with increasing size",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "equation|formula|working|substitution|substitute|step",
+    "answer|result|final",
+    "unit|units|significant figures"
+   ],
+   "reason": "instructs with Calculate, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.3.2-008-CALC",
+   "objective_id": "OBJ-8223-2.3.2-03",
+   "objective_title": "calculate surface areas and volumes of simple shapes (e.g. cubes) to illustrate the principle that surface area to volume ratios decrease with increasing size",
+   "syllabus_text": "calculate surface areas and volumes of simple shapes (e.g. cubes) to illustrate the principle that surface area to volume ratios decrease with increasing size",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "equation|formula|working|substitution|substitute|step",
+    "answer|result|final",
+    "unit|units|significant figures"
+   ],
+   "reason": "instructs with Calculate, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.3.2-009-APP",
+   "objective_id": "OBJ-8223-2.3.2-03",
+   "objective_title": "calculate surface areas and volumes of simple shapes (e.g. cubes) to illustrate the principle that surface area to volume ratios decrease with increasing size",
+   "syllabus_text": "calculate surface areas and volumes of simple shapes (e.g. cubes) to illustrate the principle that surface area to volume ratios decrease with increasing size",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-2.3.2-015-MISCON",
+   "objective_id": "OBJ-8223-2.3.2-03",
+   "objective_title": "calculate surface areas and volumes of simple shapes (e.g. cubes) to illustrate the principle that surface area to volume ratios decrease with increasing size",
+   "syllabus_text": "calculate surface areas and volumes of simple shapes (e.g. cubes) to illustrate the principle that surface area to volume ratios decrease with increasing size",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "error|mistake|confusion|confused|wrongly|in fact|not the same|instead|test"
+   ],
+   "misconception_entry": "MC-8223-2.3.2-01",
+   "reason": "discriminates misconception MC-8223-2.3.2-01 (1 examiner statements): Answering a surface-area-to-volume question about the size of the whole organism instead of the cell"
+  },
+  {
+   "slot": "ITEM-8223-2.3.2-018-MISCON",
+   "objective_id": "OBJ-8223-2.3.2-03",
+   "objective_title": "calculate surface areas and volumes of simple shapes (e.g. cubes) to illustrate the principle that surface area to volume ratios decrease with increasing size",
+   "syllabus_text": "calculate surface areas and volumes of simple shapes (e.g. cubes) to illustrate the principle that surface area to volume ratios decrease with increasing size",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "error|mistake|confusion|confused|wrongly|in fact|not the same|instead|test"
+   ],
+   "misconception_entry": "MC-8223-2.3.2-04",
+   "reason": "discriminates misconception MC-8223-2.3.2-04 (1 examiner statements): Calling Paramecium a bacterium or virus, or giving it a cell wall"
+  },
+  {
+   "slot": "ITEM-8223-2.3.2-019-MISCON",
+   "objective_id": "OBJ-8223-2.3.2-03",
+   "objective_title": "calculate surface areas and volumes of simple shapes (e.g. cubes) to illustrate the principle that surface area to volume ratios decrease with increasing size",
+   "syllabus_text": "calculate surface areas and volumes of simple shapes (e.g. cubes) to illustrate the principle that surface area to volume ratios decrease with increasing size",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "error|mistake|confusion|confused|wrongly|in fact|not the same|instead|test"
+   ],
+   "misconception_entry": "MC-8223-2.3.2-05",
+   "reason": "discriminates misconception MC-8223-2.3.2-05 (1 examiner statements): Saying an earthworm needs a circulatory system because it lives underground"
+  },
+  {
+   "slot": "ITEM-8223-2.3.2-010-DEF",
+   "objective_id": "OBJ-8223-2.3.2-04",
+   "objective_title": "explain the movement of water between cells and solutionswith different water potentials and explain the different effect son plant cells (using the terms turgid, flaccid, plasmolysis) and animal cells (Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected)",
+   "syllabus_text": "explain the movement of water between cells and solutionswith different water potentials and explain the different effect son plant cells (using the terms turgid, flaccid, plasmolysis) and animal cells (Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected)",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-2.3.2-011-MECH",
+   "objective_id": "OBJ-8223-2.3.2-04",
+   "objective_title": "explain the movement of water between cells and solutionswith different water potentials and explain the different effect son plant cells (using the terms turgid, flaccid, plasmolysis) and animal cells (Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected)",
+   "syllabus_text": "explain the movement of water between cells and solutionswith different water potentials and explain the different effect son plant cells (using the terms turgid, flaccid, plasmolysis) and animal cells (Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected)",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "how|because|so that|which|then|causes|cause|leads|results"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.3.2-012-APP",
+   "objective_id": "OBJ-8223-2.3.2-04",
+   "objective_title": "explain the movement of water between cells and solutionswith different water potentials and explain the different effect son plant cells (using the terms turgid, flaccid, plasmolysis) and animal cells (Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected)",
+   "syllabus_text": "explain the movement of water between cells and solutionswith different water potentials and explain the different effect son plant cells (using the terms turgid, flaccid, plasmolysis) and animal cells (Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected)",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.3.2-022-INTERP",
+   "objective_id": "OBJ-8223-2.3.2-04",
+   "objective_title": "explain the movement of water between cells and solutionswith different water potentials and explain the different effect son plant cells (using the terms turgid, flaccid, plasmolysis) and animal cells (Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected)",
+   "syllabus_text": "explain the movement of water between cells and solutionswith different water potentials and explain the different effect son plant cells (using the terms turgid, flaccid, plasmolysis) and animal cells (Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected)",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "added to reach the framework B target of 50%"
+  },
+  {
+   "slot": "ITEM-8223-2.3.2-013-PROC",
+   "objective_id": "OBJ-8223-2.3.2-05",
+   "objective_title": "investigate the effects of immersing plant tissues in solutions of different water potential, using the results to estimate the water potential of the tissues",
+   "syllabus_text": "investigate the effects of immersing plant tissues in solutions of different water potential, using the results to estimate the water potential of the tissues",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "order|sequence|first|then|step|steps|stage|stages|start",
+    "result|so|therefore|finally|end|product|outcome"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.3.2-014-WHY",
+   "objective_id": "OBJ-8223-2.3.2-05",
+   "objective_title": "investigate the effects of immersing plant tissues in solutions of different water potential, using the results to estimate the water potential of the tissues",
+   "syllabus_text": "investigate the effects of immersing plant tissues in solutions of different water potential, using the results to estimate the water potential of the tissues",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "reason|purpose|why|because|so that|need|needed"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  }
+ ],
+ "performance_tasks": [
+  {
+   "slot": "ITEM-8223-2.3.2-P01",
+   "item_type": "multiple_choice_set",
+   "brief": "A set of 12 four-option multiple-choice questions on this topic in the style of Paper 1, one mark each: about half recall and half application, diagram, graph or sequence, every distractor built from a known error (the misconception register first), the key and the reason each distractor is wrong on the back.",
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "key|correct option|correct answer",
+    "distractor|distractors|wrong option|wrong options|error"
+   ],
+   "objective_ids": "choose 2-4 objectives from this topic that the task genuinely exercises"
+  },
+  {
+   "slot": "ITEM-8223-2.3.2-P02",
+   "item_type": "short_answer",
+   "brief": "A Paper 2 style structured question: four or five linked parts around one stimulus (a data table, a graph described by its axes and values, a labelled structure described in words, or a short scenario), about 8 marks, mixing state, describe, explain and suggest, each part with its own mark allocation and more creditworthy points on the scheme than marks.",
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "mark|marks|point|points",
+    "unit|units|term|terms|because|reason"
+   ],
+   "objective_ids": "choose 2-4 objectives from this topic that the task genuinely exercises"
+  }
+ ],
+ "planned_item_count": 25,
+ "planned_ao_mix_by_item_count": {
+  "A": {
+   "planned_share_percent": 57,
+   "target_percent": 40
+  },
+  "B": {
+   "planned_share_percent": 43,
+   "target_percent": 40
+  },
+  "C": {
+   "planned_share_percent": 0,
+   "target_percent": 20
+  }
+ },
+ "planned_blooms_mix": {
+  "Remember": {
+   "items": 3,
+   "share_percent": 12
+  },
+  "Understand": {
+   "items": 10,
+   "share_percent": 40
+  },
+  "Apply": {
+   "items": 9,
+   "share_percent": 36
+  },
+  "Analyse": {
+   "items": 3,
+   "share_percent": 12
+  },
+  "Evaluate": {
+   "items": 0,
+   "share_percent": 0
+  },
+  "Create": {
+   "items": 0,
+   "share_percent": 0
+  }
+ },
+ "planned_ao_mix_by_marks": {
+  "A": {
+   "planned_share_percent": 54,
+   "syllabus_weight_percent": 40
+  },
+  "B": {
+   "planned_share_percent": 46,
+   "syllabus_weight_percent": 40
+  },
+  "C": {
+   "planned_share_percent": 0,
+   "syllabus_weight_percent": 20
+  }
+ },
+ "marks_equivalent_total": 65,
+ "ao_mix_note": "The syllabus states its AO weights as a share of MARKS, so planned_ao_mix_by_marks is the one that answers \"does this resource match the exam\". It values each card at the tariff of the question it models, split across the AOs the card declares, and values each performance task at the marks of the paper part it models. The count-based mix below is reported only because it is what a reader expects to see; do not balance against it. AO shares by ITEM COUNT: Every objective needs one recall anchor, so AO1 has a structural floor of about 22% in this topic (5 objectives against 23 slots) and cannot reach the None% target by count however many other cards are added - padding the bank to chase it makes the resource worse. The framework already measures the AO4 share in practice time rather than by count for the same reason. Treat AO1 above target as expected, and AO2/AO3/AO4 below target as the thing worth fixing.",
+ "excluded_constructs": [
+  {
+   "construct": "species concepts other than the biological, morphological, ecological and behavioural concepts",
+   "pattern": "\\b(?:phylogenetic|cohesion|recognition|evolutionary|genotypic cluster)\\s+species\\s+concept",
+   "source": {
+    "printed_page": 5,
+    "topic": "1.1",
+    "quote": "limited to the biological, morphological, ecological and behavioural concepts"
+   }
+  },
+  {
+   "construct": "mesosomes",
+   "pattern": "\\bmesosomes?\\b",
+   "source": {
+    "printed_page": 8,
+    "topic": "2.2",
+    "quote": "no reference to mesosomes required"
+   }
+  },
+  {
+   "construct": "calculations of water potential",
+   "pattern": "\\bcalculat\\w*\\s+(?:the\\s+)?(?:water|solute|pressure)\\s+potential|\\bψ\\s*=\\s*ψ|\\bwater potential\\s*=\\s*solute potential|\\bΨs\\b|\\bΨp\\b",
+   "source": {
+    "printed_page": 9,
+    "topic": "2.3.2",
+    "quote": "no calculations involving water potential will be set"
+   }
+  },
+  {
+   "construct": "solute potential, pressure potential and osmotic potential as terms",
+   "pattern": "\\b(?:solute|pressure|osmotic)\\s+potential\\b",
+   "source": {
+    "printed_page": 9,
+    "topic": "2.3.2",
+    "quote": "Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected"
+   }
+  },
+  {
+   "construct": "roles of water beyond solvent action, specific heat capacity and latent heat of vaporisation",
+   "pattern": "\\b(?:ice floats|ice is less dense|maximum density|surface tension)\\b",
+   "source": {
+    "printed_page": 11,
+    "topic": "2.4.2",
+    "quote": "limited to solvent action, specific heat capacity and latent heat of vapourisation"
+   }
+  },
+  {
+   "construct": "chloride shift",
+   "pattern": "\\bchloride shift\\b|\\bhamburger shift\\b",
+   "source": {
+    "printed_page": 14,
+    "topic": "2.7.1",
+    "quote": "details of the chloride shift are not required"
+   }
+  },
+  {
+   "construct": "nervous and hormonal control of the heart",
+   "pattern": "\\b(?:vagus nerve|cardiac centre|cardiovascular centre|cardioaccelerator|medulla oblongata)\\b|\\b(?:sympathetic|parasympathetic)\\b[^.]{0,60}\\bheart\\b|\\b(?:adrenaline|noradrenaline|acetylcholine)\\b[^.]{0,60}\\bheart (?:rate|beat)",
+   "source": {
+    "printed_page": 15,
+    "topic": "2.7.2",
+    "quote": "reference should be made to the sinoatrial node, the atrioventricular node and the Purkyne tissue, but not to nervous and hormonal control"
+   }
+  },
+  {
+   "construct": "non-infectious disease examples other than sickle cell anaemia and lung cancer",
+   "pattern": "\\b(?:non-?infectious|not infectious)\\b[^.]{0,80}\\b(?:diabetes|coronary heart disease|scurvy|rickets|kwashiorkor|cystic fibrosis|haemophilia|huntington|osteoporosis)\\b|\\b(?:diabetes|coronary heart disease|scurvy|rickets|kwashiorkor|cystic fibrosis|haemophilia|huntington|osteoporosis)\\b[^.]{0,80}\\b(?:non-?infectious|not infectious)\\b",
+   "source": {
+    "printed_page": 15,
+    "topic": "2.8.1",
+    "quote": "limited to sickle cell anaemia and lung cancer"
+   }
+  },
+  {
+   "construct": "detailed life cycle of the malarial parasite",
+   "pattern": "\\b(?:sporozoites?|merozoites?|gametocytes?|schizonts?|hypnozoites?|oocysts?|trophozoites?|exo-?erythrocytic)\\b",
+   "source": {
+    "printed_page": 15,
+    "topic": "2.8.1",
+    "quote": "a detailed study of the life cycle of the malarial parasite is not required"
+   }
+  },
+  {
+   "construct": "T-lymphocyte types other than T-helper and T-killer cells",
+   "pattern": "\\b(?:regulatory T|suppressor T|T-?regulatory|Tregs?|memory T cells?|gamma-?delta)\\b",
+   "source": {
+    "printed_page": 16,
+    "topic": "2.9.1",
+    "quote": "limited to T-helper cells and T-killer cells"
+   }
+  },
+  {
+   "construct": "chromosome structure beyond DNA, histone proteins, chromatids, centromere and telomeres",
+   "pattern": "\\b(?:kinetochores?|nucleosomes?|euchromatin|heterochromatin|cohesins?|condensins?)\\b",
+   "source": {
+    "printed_page": 18,
+    "topic": "3.1.1",
+    "quote": "limited to DNA, histone proteins, chromatids, centromere and telomeres"
+   }
+  },
+  {
+   "construct": "structural formulae of nucleotides and bases",
+   "pattern": "\\bstructural formulae? of (?:the )?(?:nucleotides?|bases?|purines?|pyrimidines?|adenine|guanine|cytosine|thymine|uracil)\\b|\\bC5H5N5\\b|\\bC4H5N3O\\b|\\bC5H5N5O\\b|\\bC4H4N2O2\\b",
+   "source": {
+    "printed_page": 19,
+    "topic": "3.2.1",
+    "quote": "structural formulae are not required"
+   }
+  }
+ ],
+ "adjacent_topics": [],
+ "excluded_constructs_status": "declared",
+ "subtype_waivers": []
+}

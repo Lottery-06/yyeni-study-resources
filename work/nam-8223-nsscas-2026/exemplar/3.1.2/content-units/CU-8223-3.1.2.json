@@ -1,0 +1,186 @@
+{
+ "unit_id": "CU-8223-3.1.2",
+ "title": "Chromosome behaviour in mitosis",
+ "objective_ids": [
+  "OBJ-8223-3.1.2-01",
+  "OBJ-8223-3.1.2-02"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_process",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 660,
+  "target": 778,
+  "max": 940
+ },
+ "blocks": [
+  {
+   "block_id": "3.1.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "How the chromosomes behave in each stage of mitosis, what the nuclear envelope, the spindle and the cell surface membrane do alongside them, and how to name the stage of a cell from a diagram, a photomicrograph or a slide.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "b1aea73ba8126c73cd9a28c8dfb899d9845261b7d46e83bfed0d913a94fd44a2"
+  },
+  {
+   "block_id": "3.1.2-b2",
+   "block_type": "plain_explanation",
+   "heading": "Mitosis in outline",
+   "text": "Mitosis is the division of a nucleus into two nuclei that carry the same chromosomes as the parent nucleus. Before it begins the DNA has been replicated, so each chromosome consists of two sister chromatids joined at the centromere. The stages are prophase, metaphase, anaphase and telophase, in that order. They run into one another rather than starting and stopping sharply. Mitosis is followed by cytokinesis, the division of the cytoplasm.",
+   "claim_ids": [
+    "CLM-8223-3.1.2-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.1.2-001": 1
+   },
+   "authored_hash": "d81de582a4edae7b5e1dfd616595d47d1d21b6444b1b6360fbadc181ea14d900"
+  },
+  {
+   "block_id": "3.1.2-b3",
+   "block_type": "process",
+   "heading": "Prophase and metaphase",
+   "text": "In prophase the chromosomes condense, which makes them short, thick and visible under a light microscope. Each can be seen to consist of two sister chromatids joined at the centromere. In an animal cell the two centrosomes move to opposite ends of the cell and the spindle begins to form. In metaphase the chromosomes line up across the equator of the cell, a plane midway between the poles. Each is attached to spindle fibres at its centromere, with its two chromatids facing opposite poles. Because of this arrangement, each new nucleus can receive one chromatid of each chromosome.",
+   "claim_ids": [
+    "CLM-8223-3.1.2-001",
+    "CLM-8223-3.1.2-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.1.2-001": 1,
+    "CLM-8223-3.1.2-003": 1
+   },
+   "authored_hash": "c0fe3bd54ac2c913d04d3c3d454012ed3391e343506b3df9de314431e3f90680"
+  },
+  {
+   "block_id": "3.1.2-b4",
+   "block_type": "process",
+   "heading": "Anaphase and telophase",
+   "text": "In anaphase the centromeres divide and the spindle fibres shorten. This pulls the sister chromatids apart, and from that moment each is a separate chromosome. They move to opposite poles with the centromere leading and the arms trailing behind, so they look V-shaped. In telophase the chromosomes reach the poles and decondense, uncoiling into the loosely coiled chromatin of a nucleus that is not dividing. A nuclear envelope forms around each group, giving two nuclei, and the spindle breaks down.",
+   "claim_ids": [
+    "CLM-8223-3.1.2-002",
+    "CLM-8223-3.1.2-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.1.2-002": 1,
+    "CLM-8223-3.1.2-003": 1
+   },
+   "authored_hash": "569784456936e681fdd23721183deab2219f77f403034d64e44981f3b3dcded4"
+  },
+  {
+   "block_id": "3.1.2-b5",
+   "block_type": "components",
+   "heading": "Nuclear envelope, spindle and cell surface membrane",
+   "text": "The nuclear envelope is a pair of membranes around the chromosomes. It breaks down by the end of prophase, so that spindle fibres can reach the chromosomes, and it re-forms around each group of chromosomes in telophase. The spindle is a set of protein fibres. In an animal cell it forms from the centrosomes, which are not the same as the centromeres. Cytokinesis then divides the cytoplasm. In an animal cell the cell surface membrane pinches inwards at the equator until two cells form. In a plant cell, vesicles gather at the equator and form a cell plate, which becomes a new cell wall with a cell surface membrane on each side.",
+   "claim_ids": [
+    "CLM-8223-3.1.2-003",
+    "CLM-8223-3.1.2-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.1.2-003": 1,
+    "CLM-8223-3.1.2-004": 1
+   },
+   "authored_hash": "6b0a4059cbca7996eee09f822cb53a52555b15105a10a133ddbfdf25702efb9b"
+  },
+  {
+   "block_id": "3.1.2-b6",
+   "block_type": "misconception",
+   "heading": "Chromosomes decondense in telophase",
+   "text": "A common error is to say that the chromosomes condense again at the end of mitosis. The reverse is true. In telophase the chromosomes decondense into chromatin, which is how each new nucleus returns to the state of a cell that is not dividing. They condense again when the cell next divides, at the start of its prophase. A quick test is to ask whether the chromosomes are becoming shorter and thicker, which is prophase, or longer and thinner, which is telophase.",
+   "claim_ids": [
+    "CLM-8223-3.1.2-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.1.2-005": 1
+   },
+   "authored_hash": "001d2b502aeef523f9bf6a48aaf339c4b330ea21f559d88d72c06704ab430fb2"
+  },
+  {
+   "block_id": "3.1.2-b7",
+   "block_type": "interpretation",
+   "heading": "Naming a stage from a diagram or photomicrograph",
+   "text": "Look at three things in turn. First, are separate chromosomes visible? A round nucleus with a nucleolus and an evenly stained, granular look is not dividing. Second, where do the chromosomes lie? Scattered through the cell suggests prophase, in a line across the middle metaphase, in two sets moving apart anaphase, and in two sets at opposite ends telophase. Third, is a nuclear envelope present? It is absent from the end of prophase until telophase. In a plant cell a cell plate across the middle points to telophase or cytokinesis; in an animal cell a narrowing of the cell surface membrane does.",
+   "claim_ids": [
+    "CLM-8223-3.1.2-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.1.2-006": 1
+   },
+   "authored_hash": "581a232b032d6789351692462887942e84f0205dc4ae5822755583a3633c38a0"
+  },
+  {
+   "block_id": "3.1.2-b8",
+   "block_type": "worked_application",
+   "heading": "Worked example: a cell on a slide",
+   "text": "A class in Katima Mulilo stains a squash of mahangu root tip and draws one cell. The drawing shows eight X-shaped chromosomes in a line across the middle of the cell, with no nuclear envelope. Step one: separate chromosomes are visible, so the cell is dividing. Step two: they lie in a line across the middle, so the stage is metaphase. Step three: each chromosome is X-shaped because its two sister chromatids are still joined at the centromere; in anaphase they would be separate and V-shaped. The cell therefore holds 16 chromatids: 8 × 2 = 16.",
+   "claim_ids": [
+    "CLM-8223-3.1.2-006",
+    "CLM-8223-3.1.2-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.1.2-006": 1,
+    "CLM-8223-3.1.2-007": 1
+   },
+   "authored_hash": "6cfeee83069a8d0a3d83069e1bdb03873a88fe87cc8a089e29d68ca2fbd6283a"
+  },
+  {
+   "block_id": "3.1.2-b9",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "The structure of a chromosome, the centromere and the sister chromatids are taught in 3.1.1, together with the mitotic cell cycle that mitosis belongs to. Using a light microscope to examine a slide is taught in 2.1, the microscope. The cell wall and the cell surface membrane are described in 2.2 and 2.3.1.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "0158573cbf3c0ad57a08c4f4b5f419d49516cd5571d345686c5bbd6a3f91655b"
+  }
+ ],
+ "word_count": 778,
+ "qa_status": "review_required",
+ "notes": [
+  "Structural exemplar. Take its shape, not its length: your word budget is in the work order. The facts are illustrative and unverified."
+ ]
+}

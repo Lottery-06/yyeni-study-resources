@@ -1,0 +1,981 @@
+{
+ "work_order_id": "WO-8223-4.1",
+ "topic_id": "4.1",
+ "topic_title": "Planning investigations and taking measurements",
+ "topic": "4.1 Planning investigations and taking measurements",
+ "generated_by": "build/make_work_order.py — regenerate, never edit",
+ "standard": "v0.2.0-draft",
+ "authoring_note": "Every slot below is decided. Write the prose; do not redesign the plan. If a slot is genuinely wrong for the objective, say so in your report rather than silently changing it.",
+ "output_files": {
+  "claims": "claims/canonical_claim_ledger.json",
+  "content_units": [
+   "content-units/CU-8223-4.1.json"
+  ],
+  "learning_items": "learning-items/topic_4.1_items.json",
+  "notes": "4.1-planning-investigations-and-taking-measurements.md",
+  "flashcards_when_published": "4.1-planning-investigations-and-taking-measurements-flashcards.json"
+ },
+ "assessable_objective_count": 12,
+ "claims_plan": {
+  "per_objective": "2 to 4",
+  "approximate_total": [
+   24,
+   48
+  ]
+ },
+ "content_units": [
+  {
+   "unit_id": "CU-8223-4.1",
+   "file": "content-units/CU-8223-4.1.json",
+   "sub_topic": "4.1",
+   "objective_ids": [
+    "OBJ-8223-4.1-01",
+    "OBJ-8223-4.1-02",
+    "OBJ-8223-4.1-03",
+    "OBJ-8223-4.1-04",
+    "OBJ-8223-4.1-05",
+    "OBJ-8223-4.1-06",
+    "OBJ-8223-4.1-07",
+    "OBJ-8223-4.1-08",
+    "OBJ-8223-4.1-09",
+    "OBJ-8223-4.1-10",
+    "OBJ-8223-4.1-11",
+    "OBJ-8223-4.1-12"
+   ],
+   "objectives": [
+    {
+     "objective_id": "OBJ-8223-4.1-01",
+     "title": "Identify the independent and dependent variables in an investigation.",
+     "syllabus_text": "Identify the independent and dependent variables.",
+     "depth_tier": 1
+    },
+    {
+     "objective_id": "OBJ-8223-4.1-02",
+     "title": "Decide how to change the independent variable over a suitable range.",
+     "syllabus_text": "Decide how the independent variable should be changed within a suitable range to provide accurate results.",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-4.1-03",
+     "title": "Decide how many values to measure at, and where to take more.",
+     "syllabus_text": "decide the number of values at which measurements are recorded (a minimum of 5 measurements, replicates or more measurements around a specific value)",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-4.1-04",
+     "title": "Decide how to identify a biological molecule and estimate its quantity by standardising a test.",
+     "syllabus_text": "decide how to identify the presence of a biological molecule and estimate its quantity by standardising the appropriate test",
+     "depth_tier": 3
+    },
+    {
+     "objective_id": "OBJ-8223-4.1-05",
+     "title": "Describe an appropriate control and the variables to standardise.",
+     "syllabus_text": "Describe an appropriate control which removes the effect of the independent variable (including replacing a solution with the same volume of water or denaturing an enzyme by boiling) and variables to standardise.",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-4.1-06",
+     "title": "Decide which variables to standardise and how.",
+     "syllabus_text": "Decide which variables to standardise because they may change the results if the variable changes during the investigation and decide how to standardise each variable to provide accurate results.",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-4.1-07",
+     "title": "Decide and describe how to measure the dependent variable accurately and precisely.",
+     "syllabus_text": "Decide and describe how the dependent variable should be measured to obtain accurate and precise results.",
+     "depth_tier": 3
+    },
+    {
+     "objective_id": "OBJ-8223-4.1-08",
+     "title": "Decide whether to repeat or replicate readings, and why.",
+     "syllabus_text": "decide whether to repeat or replicate readings in order to identify anomalous results or to provide a more accurate estimate",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-4.1-09",
+     "title": "Follow instructions or diagrams for a range of techniques to collect results.",
+     "syllabus_text": "follow instructions or diagrams for a range of techniques to collect results",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-4.1-10",
+     "title": "Assess the risk of a procedure as low, medium or high.",
+     "syllabus_text": "assess the risk of a procedure as low, medium or high considering the hazards of solutions and reagents and the procedure",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-4.1-11",
+     "title": "Take accurate readings with a range of apparatus.",
+     "syllabus_text": "take readings using a range of apparatus to obtain accurate data or observations with the expected pattern of results",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-4.1-12",
+     "title": "Record qualitative results, such as colour changes, in clear terms.",
+     "syllabus_text": "Qualitative results from observations of colour changes, using clear descriptions",
+     "depth_tier": 1
+    }
+   ],
+   "word_budget": [
+    3610,
+    5160
+   ],
+   "blocks_required": [
+    "a definition or plain explanation block for every objective above",
+    "at least one worked example or analysis chain where the objectives are tier 2 or higher",
+    "a cross-link block naming the topics this one connects to"
+   ]
+  }
+ ],
+ "item_slots": [
+  {
+   "slot": "ITEM-8223-4.1-001-PROC",
+   "objective_id": "OBJ-8223-4.1-01",
+   "objective_title": "Identify the independent and dependent variables in an investigation.",
+   "syllabus_text": "Identify the independent and dependent variables.",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 1,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "order|sequence|first|then|step|steps|stage|stages|start",
+    "result|so|therefore|finally|end|product|outcome"
+   ],
+   "reason": "instructs with Describe, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.1-002-WHY",
+   "objective_id": "OBJ-8223-4.1-01",
+   "objective_title": "Identify the independent and dependent variables in an investigation.",
+   "syllabus_text": "Identify the independent and dependent variables.",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 1,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "reason|purpose|why|because|so that|need|needed"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-003-LIM",
+   "objective_id": "OBJ-8223-4.1-01",
+   "objective_title": "Identify the independent and dependent variables in an investigation.",
+   "syllabus_text": "Identify the independent and dependent variables.",
+   "subtype": "LIM",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 1,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "limitation|limitations|error|errors|uncertainty|difficult|source of error|inaccura",
+    "because|so|which|effect|affects|result"
+   ],
+   "reason": "instructs with Describe, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.1-035-MISCON",
+   "objective_id": "OBJ-8223-4.1-01",
+   "objective_title": "Identify the independent and dependent variables in an investigation.",
+   "syllabus_text": "Identify the independent and dependent variables.",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "error|mistake|confusion|confused|wrongly|in fact|not the same|instead|test"
+   ],
+   "misconception_entry": "MC-8223-4.1-01",
+   "reason": "discriminates misconception MC-8223-4.1-01 (1 examiner statements): Not being able to say which variable is independent and which is dependent"
+  },
+  {
+   "slot": "ITEM-8223-4.1-004-PROC",
+   "objective_id": "OBJ-8223-4.1-02",
+   "objective_title": "Decide how to change the independent variable over a suitable range.",
+   "syllabus_text": "Decide how the independent variable should be changed within a suitable range to provide accurate results.",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "order|sequence|first|then|step|steps|stage|stages|start",
+    "result|so|therefore|finally|end|product|outcome"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-005-WHY",
+   "objective_id": "OBJ-8223-4.1-02",
+   "objective_title": "Decide how to change the independent variable over a suitable range.",
+   "syllabus_text": "Decide how the independent variable should be changed within a suitable range to provide accurate results.",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "reason|purpose|why|because|so that|need|needed"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-006-LIM",
+   "objective_id": "OBJ-8223-4.1-02",
+   "objective_title": "Decide how to change the independent variable over a suitable range.",
+   "syllabus_text": "Decide how the independent variable should be changed within a suitable range to provide accurate results.",
+   "subtype": "LIM",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "limitation|limitations|error|errors|uncertainty|difficult|source of error|inaccura",
+    "because|so|which|effect|affects|result"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-007-PROC",
+   "objective_id": "OBJ-8223-4.1-03",
+   "objective_title": "Decide how many values to measure at, and where to take more.",
+   "syllabus_text": "decide the number of values at which measurements are recorded (a minimum of 5 measurements, replicates or more measurements around a specific value)",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "order|sequence|first|then|step|steps|stage|stages|start",
+    "result|so|therefore|finally|end|product|outcome"
+   ],
+   "reason": "instructs with Describe, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.1-008-WHY",
+   "objective_id": "OBJ-8223-4.1-03",
+   "objective_title": "Decide how many values to measure at, and where to take more.",
+   "syllabus_text": "decide the number of values at which measurements are recorded (a minimum of 5 measurements, replicates or more measurements around a specific value)",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "reason|purpose|why|because|so that|need|needed"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-009-LIM",
+   "objective_id": "OBJ-8223-4.1-03",
+   "objective_title": "Decide how many values to measure at, and where to take more.",
+   "syllabus_text": "decide the number of values at which measurements are recorded (a minimum of 5 measurements, replicates or more measurements around a specific value)",
+   "subtype": "LIM",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "limitation|limitations|error|errors|uncertainty|difficult|source of error|inaccura",
+    "because|so|which|effect|affects|result"
+   ],
+   "reason": "instructs with Describe, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.1-010-PROC",
+   "objective_id": "OBJ-8223-4.1-04",
+   "objective_title": "Decide how to identify a biological molecule and estimate its quantity by standardising a test.",
+   "syllabus_text": "decide how to identify the presence of a biological molecule and estimate its quantity by standardising the appropriate test",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 3,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "order|sequence|first|then|step|steps|stage|stages|start",
+    "result|so|therefore|finally|end|product|outcome"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-011-WHY",
+   "objective_id": "OBJ-8223-4.1-04",
+   "objective_title": "Decide how to identify a biological molecule and estimate its quantity by standardising a test.",
+   "syllabus_text": "decide how to identify the presence of a biological molecule and estimate its quantity by standardising the appropriate test",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "reason|purpose|why|because|so that|need|needed"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-012-LIM",
+   "objective_id": "OBJ-8223-4.1-04",
+   "objective_title": "Decide how to identify a biological molecule and estimate its quantity by standardising a test.",
+   "syllabus_text": "decide how to identify the presence of a biological molecule and estimate its quantity by standardising the appropriate test",
+   "subtype": "LIM",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "limitation|limitations|error|errors|uncertainty|difficult|source of error|inaccura",
+    "because|so|which|effect|affects|result"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-013-APP",
+   "objective_id": "OBJ-8223-4.1-04",
+   "objective_title": "Decide how to identify a biological molecule and estimate its quantity by standardising a test.",
+   "syllabus_text": "decide how to identify the presence of a biological molecule and estimate its quantity by standardising the appropriate test",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.1-014-PROC",
+   "objective_id": "OBJ-8223-4.1-05",
+   "objective_title": "Describe an appropriate control and the variables to standardise.",
+   "syllabus_text": "Describe an appropriate control which removes the effect of the independent variable (including replacing a solution with the same volume of water or denaturing an enzyme by boiling) and variables to standardise.",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "order|sequence|first|then|step|steps|stage|stages|start",
+    "result|so|therefore|finally|end|product|outcome"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-015-WHY",
+   "objective_id": "OBJ-8223-4.1-05",
+   "objective_title": "Describe an appropriate control and the variables to standardise.",
+   "syllabus_text": "Describe an appropriate control which removes the effect of the independent variable (including replacing a solution with the same volume of water or denaturing an enzyme by boiling) and variables to standardise.",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "reason|purpose|why|because|so that|need|needed"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-016-LIM",
+   "objective_id": "OBJ-8223-4.1-05",
+   "objective_title": "Describe an appropriate control and the variables to standardise.",
+   "syllabus_text": "Describe an appropriate control which removes the effect of the independent variable (including replacing a solution with the same volume of water or denaturing an enzyme by boiling) and variables to standardise.",
+   "subtype": "LIM",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "limitation|limitations|error|errors|uncertainty|difficult|source of error|inaccura",
+    "because|so|which|effect|affects|result"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-017-PROC",
+   "objective_id": "OBJ-8223-4.1-06",
+   "objective_title": "Decide which variables to standardise and how.",
+   "syllabus_text": "Decide which variables to standardise because they may change the results if the variable changes during the investigation and decide how to standardise each variable to provide accurate results.",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "order|sequence|first|then|step|steps|stage|stages|start",
+    "result|so|therefore|finally|end|product|outcome"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-018-WHY",
+   "objective_id": "OBJ-8223-4.1-06",
+   "objective_title": "Decide which variables to standardise and how.",
+   "syllabus_text": "Decide which variables to standardise because they may change the results if the variable changes during the investigation and decide how to standardise each variable to provide accurate results.",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "reason|purpose|why|because|so that|need|needed"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-019-LIM",
+   "objective_id": "OBJ-8223-4.1-06",
+   "objective_title": "Decide which variables to standardise and how.",
+   "syllabus_text": "Decide which variables to standardise because they may change the results if the variable changes during the investigation and decide how to standardise each variable to provide accurate results.",
+   "subtype": "LIM",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "limitation|limitations|error|errors|uncertainty|difficult|source of error|inaccura",
+    "because|so|which|effect|affects|result"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-020-PROC",
+   "objective_id": "OBJ-8223-4.1-07",
+   "objective_title": "Decide and describe how to measure the dependent variable accurately and precisely.",
+   "syllabus_text": "Decide and describe how the dependent variable should be measured to obtain accurate and precise results.",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 3,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "order|sequence|first|then|step|steps|stage|stages|start",
+    "result|so|therefore|finally|end|product|outcome"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-021-WHY",
+   "objective_id": "OBJ-8223-4.1-07",
+   "objective_title": "Decide and describe how to measure the dependent variable accurately and precisely.",
+   "syllabus_text": "Decide and describe how the dependent variable should be measured to obtain accurate and precise results.",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "reason|purpose|why|because|so that|need|needed"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-022-LIM",
+   "objective_id": "OBJ-8223-4.1-07",
+   "objective_title": "Decide and describe how to measure the dependent variable accurately and precisely.",
+   "syllabus_text": "Decide and describe how the dependent variable should be measured to obtain accurate and precise results.",
+   "subtype": "LIM",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "limitation|limitations|error|errors|uncertainty|difficult|source of error|inaccura",
+    "because|so|which|effect|affects|result"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-023-APP",
+   "objective_id": "OBJ-8223-4.1-07",
+   "objective_title": "Decide and describe how to measure the dependent variable accurately and precisely.",
+   "syllabus_text": "Decide and describe how the dependent variable should be measured to obtain accurate and precise results.",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.1-024-PROC",
+   "objective_id": "OBJ-8223-4.1-08",
+   "objective_title": "Decide whether to repeat or replicate readings, and why.",
+   "syllabus_text": "decide whether to repeat or replicate readings in order to identify anomalous results or to provide a more accurate estimate",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "order|sequence|first|then|step|steps|stage|stages|start",
+    "result|so|therefore|finally|end|product|outcome"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-025-WHY",
+   "objective_id": "OBJ-8223-4.1-08",
+   "objective_title": "Decide whether to repeat or replicate readings, and why.",
+   "syllabus_text": "decide whether to repeat or replicate readings in order to identify anomalous results or to provide a more accurate estimate",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "reason|purpose|why|because|so that|need|needed"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-026-LIM",
+   "objective_id": "OBJ-8223-4.1-08",
+   "objective_title": "Decide whether to repeat or replicate readings, and why.",
+   "syllabus_text": "decide whether to repeat or replicate readings in order to identify anomalous results or to provide a more accurate estimate",
+   "subtype": "LIM",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "limitation|limitations|error|errors|uncertainty|difficult|source of error|inaccura",
+    "because|so|which|effect|affects|result"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-027-PROC",
+   "objective_id": "OBJ-8223-4.1-09",
+   "objective_title": "Follow instructions or diagrams for a range of techniques to collect results.",
+   "syllabus_text": "follow instructions or diagrams for a range of techniques to collect results",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "order|sequence|first|then|step|steps|stage|stages|start",
+    "result|so|therefore|finally|end|product|outcome"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-028-WHY",
+   "objective_id": "OBJ-8223-4.1-09",
+   "objective_title": "Follow instructions or diagrams for a range of techniques to collect results.",
+   "syllabus_text": "follow instructions or diagrams for a range of techniques to collect results",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "reason|purpose|why|because|so that|need|needed"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-029-PROC",
+   "objective_id": "OBJ-8223-4.1-10",
+   "objective_title": "Assess the risk of a procedure as low, medium or high.",
+   "syllabus_text": "assess the risk of a procedure as low, medium or high considering the hazards of solutions and reagents and the procedure",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "order|sequence|first|then|step|steps|stage|stages|start",
+    "result|so|therefore|finally|end|product|outcome"
+   ],
+   "reason": "instructs with Describe, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.1-030-WHY",
+   "objective_id": "OBJ-8223-4.1-10",
+   "objective_title": "Assess the risk of a procedure as low, medium or high.",
+   "syllabus_text": "assess the risk of a procedure as low, medium or high considering the hazards of solutions and reagents and the procedure",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "reason|purpose|why|because|so that|need|needed"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-031-PROC",
+   "objective_id": "OBJ-8223-4.1-11",
+   "objective_title": "Take accurate readings with a range of apparatus.",
+   "syllabus_text": "take readings using a range of apparatus to obtain accurate data or observations with the expected pattern of results",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "order|sequence|first|then|step|steps|stage|stages|start",
+    "result|so|therefore|finally|end|product|outcome"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-032-WHY",
+   "objective_id": "OBJ-8223-4.1-11",
+   "objective_title": "Take accurate readings with a range of apparatus.",
+   "syllabus_text": "take readings using a range of apparatus to obtain accurate data or observations with the expected pattern of results",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "reason|purpose|why|because|so that|need|needed"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-033-PROC",
+   "objective_id": "OBJ-8223-4.1-12",
+   "objective_title": "Record qualitative results, such as colour changes, in clear terms.",
+   "syllabus_text": "Qualitative results from observations of colour changes, using clear descriptions",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 1,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "order|sequence|first|then|step|steps|stage|stages|start",
+    "result|so|therefore|finally|end|product|outcome"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.1-034-WHY",
+   "objective_id": "OBJ-8223-4.1-12",
+   "objective_title": "Record qualitative results, such as colour changes, in clear terms.",
+   "syllabus_text": "Qualitative results from observations of colour changes, using clear descriptions",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 1,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "reason|purpose|why|because|so that|need|needed"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  }
+ ],
+ "performance_tasks": [
+  {
+   "slot": "ITEM-8223-4.1-P01",
+   "item_type": "practical_task",
+   "brief": "A Paper 3 style investigation task (about 10 marks): an experiment described in words with our own readings in a table. The learner decides variables, controls and how to measure, draws up the results table (quantity and unit headings, consistent significant figures), plots or describes the graph, calculates a value with working, identifies sources of error and suggests an improvement. Readings are ours and are labelled as such.",
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "table|heading|headings|column|columns",
+    "graph|plot|axis|axes|uncertainty|error|scale",
+    "limitation|limitations|improvement|improvements|conclusion|control|variable"
+   ],
+   "objective_ids": "choose 2-4 objectives from this topic that the task genuinely exercises"
+  },
+  {
+   "slot": "ITEM-8223-4.1-P02",
+   "item_type": "practical_task",
+   "brief": "A second Paper 3 style task (about 10 marks), different in setting from the first and fitted to this topic. Where the topic concerns microscopy, drawing or measuring specimens: a specimen or photomicrograph described in words with measurements given, asking what a plan diagram or cell drawing would show, a graticule calibration or actual-size or magnification calculation with working in micrometres, a comparison of two specimens by observable features only, and an improvement. Otherwise: a second, different investigation (a different experiment, data set or results table) testing the same skills as this topic's objectives. Values and readings are ours and are labelled as such.",
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "table|heading|headings|column|columns",
+    "graph|plot|axis|axes|uncertainty|error|scale",
+    "limitation|limitations|improvement|improvements|conclusion|control|variable"
+   ],
+   "objective_ids": "choose 2-4 objectives from this topic that the task genuinely exercises"
+  }
+ ],
+ "planned_item_count": 37,
+ "planned_ao_mix_by_item_count": {
+  "A": {
+   "planned_share_percent": 0,
+   "target_percent": 40
+  },
+  "B": {
+   "planned_share_percent": 0,
+   "target_percent": 40
+  },
+  "C": {
+   "planned_share_percent": 100,
+   "target_percent": 20
+  }
+ },
+ "planned_blooms_mix": {
+  "Remember": {
+   "items": 0,
+   "share_percent": 0
+  },
+  "Understand": {
+   "items": 13,
+   "share_percent": 35
+  },
+  "Apply": {
+   "items": 14,
+   "share_percent": 38
+  },
+  "Analyse": {
+   "items": 10,
+   "share_percent": 27
+  },
+  "Evaluate": {
+   "items": 0,
+   "share_percent": 0
+  },
+  "Create": {
+   "items": 0,
+   "share_percent": 0
+  }
+ },
+ "planned_ao_mix_by_marks": {
+  "A": {
+   "planned_share_percent": 0,
+   "syllabus_weight_percent": 40
+  },
+  "B": {
+   "planned_share_percent": 0,
+   "syllabus_weight_percent": 40
+  },
+  "C": {
+   "planned_share_percent": 100,
+   "syllabus_weight_percent": 20
+  }
+ },
+ "marks_equivalent_total": 91,
+ "ao_mix_note": "The syllabus states its AO weights as a share of MARKS, so planned_ao_mix_by_marks is the one that answers \"does this resource match the exam\". It values each card at the tariff of the question it models, split across the AOs the card declares, and values each performance task at the marks of the paper part it models. The count-based mix below is reported only because it is what a reader expects to see; do not balance against it. AO shares by ITEM COUNT: Every objective needs one recall anchor, so AO1 has a structural floor of about 34% in this topic (12 objectives against 35 slots) and cannot reach the None% target by count however many other cards are added - padding the bank to chase it makes the resource worse. The framework already measures the AO4 share in practice time rather than by count for the same reason. Treat AO1 above target as expected, and AO2/AO3/AO4 below target as the thing worth fixing.",
+ "excluded_constructs": [
+  {
+   "construct": "species concepts other than the biological, morphological, ecological and behavioural concepts",
+   "pattern": "\\b(?:phylogenetic|cohesion|recognition|evolutionary|genotypic cluster)\\s+species\\s+concept",
+   "source": {
+    "printed_page": 5,
+    "topic": "1.1",
+    "quote": "limited to the biological, morphological, ecological and behavioural concepts"
+   }
+  },
+  {
+   "construct": "mesosomes",
+   "pattern": "\\bmesosomes?\\b",
+   "source": {
+    "printed_page": 8,
+    "topic": "2.2",
+    "quote": "no reference to mesosomes required"
+   }
+  },
+  {
+   "construct": "calculations of water potential",
+   "pattern": "\\bcalculat\\w*\\s+(?:the\\s+)?(?:water|solute|pressure)\\s+potential|\\bψ\\s*=\\s*ψ|\\bwater potential\\s*=\\s*solute potential|\\bΨs\\b|\\bΨp\\b",
+   "source": {
+    "printed_page": 9,
+    "topic": "2.3.2",
+    "quote": "no calculations involving water potential will be set"
+   }
+  },
+  {
+   "construct": "solute potential, pressure potential and osmotic potential as terms",
+   "pattern": "\\b(?:solute|pressure|osmotic)\\s+potential\\b",
+   "source": {
+    "printed_page": 9,
+    "topic": "2.3.2",
+    "quote": "Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected"
+   }
+  },
+  {
+   "construct": "roles of water beyond solvent action, specific heat capacity and latent heat of vaporisation",
+   "pattern": "\\b(?:ice floats|ice is less dense|maximum density|surface tension)\\b",
+   "source": {
+    "printed_page": 11,
+    "topic": "2.4.2",
+    "quote": "limited to solvent action, specific heat capacity and latent heat of vapourisation"
+   }
+  },
+  {
+   "construct": "chloride shift",
+   "pattern": "\\bchloride shift\\b|\\bhamburger shift\\b",
+   "source": {
+    "printed_page": 14,
+    "topic": "2.7.1",
+    "quote": "details of the chloride shift are not required"
+   }
+  },
+  {
+   "construct": "nervous and hormonal control of the heart",
+   "pattern": "\\b(?:vagus nerve|cardiac centre|cardiovascular centre|cardioaccelerator|medulla oblongata)\\b|\\b(?:sympathetic|parasympathetic)\\b[^.]{0,60}\\bheart\\b|\\b(?:adrenaline|noradrenaline|acetylcholine)\\b[^.]{0,60}\\bheart (?:rate|beat)",
+   "source": {
+    "printed_page": 15,
+    "topic": "2.7.2",
+    "quote": "reference should be made to the sinoatrial node, the atrioventricular node and the Purkyne tissue, but not to nervous and hormonal control"
+   }
+  },
+  {
+   "construct": "non-infectious disease examples other than sickle cell anaemia and lung cancer",
+   "pattern": "\\b(?:non-?infectious|not infectious)\\b[^.]{0,80}\\b(?:diabetes|coronary heart disease|scurvy|rickets|kwashiorkor|cystic fibrosis|haemophilia|huntington|osteoporosis)\\b|\\b(?:diabetes|coronary heart disease|scurvy|rickets|kwashiorkor|cystic fibrosis|haemophilia|huntington|osteoporosis)\\b[^.]{0,80}\\b(?:non-?infectious|not infectious)\\b",
+   "source": {
+    "printed_page": 15,
+    "topic": "2.8.1",
+    "quote": "limited to sickle cell anaemia and lung cancer"
+   }
+  },
+  {
+   "construct": "detailed life cycle of the malarial parasite",
+   "pattern": "\\b(?:sporozoites?|merozoites?|gametocytes?|schizonts?|hypnozoites?|oocysts?|trophozoites?|exo-?erythrocytic)\\b",
+   "source": {
+    "printed_page": 15,
+    "topic": "2.8.1",
+    "quote": "a detailed study of the life cycle of the malarial parasite is not required"
+   }
+  },
+  {
+   "construct": "T-lymphocyte types other than T-helper and T-killer cells",
+   "pattern": "\\b(?:regulatory T|suppressor T|T-?regulatory|Tregs?|memory T cells?|gamma-?delta)\\b",
+   "source": {
+    "printed_page": 16,
+    "topic": "2.9.1",
+    "quote": "limited to T-helper cells and T-killer cells"
+   }
+  },
+  {
+   "construct": "chromosome structure beyond DNA, histone proteins, chromatids, centromere and telomeres",
+   "pattern": "\\b(?:kinetochores?|nucleosomes?|euchromatin|heterochromatin|cohesins?|condensins?)\\b",
+   "source": {
+    "printed_page": 18,
+    "topic": "3.1.1",
+    "quote": "limited to DNA, histone proteins, chromatids, centromere and telomeres"
+   }
+  },
+  {
+   "construct": "structural formulae of nucleotides and bases",
+   "pattern": "\\bstructural formulae? of (?:the )?(?:nucleotides?|bases?|purines?|pyrimidines?|adenine|guanine|cytosine|thymine|uracil)\\b|\\bC5H5N5\\b|\\bC4H5N3O\\b|\\bC5H5N5O\\b|\\bC4H4N2O2\\b",
+   "source": {
+    "printed_page": 19,
+    "topic": "3.2.1",
+    "quote": "structural formulae are not required"
+   }
+  }
+ ],
+ "adjacent_topics": [],
+ "excluded_constructs_status": "declared",
+ "subtype_waivers": []
+}

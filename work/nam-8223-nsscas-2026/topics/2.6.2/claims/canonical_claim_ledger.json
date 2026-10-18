@@ -1,0 +1,1049 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-2.6.2",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-2.6.2-001",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-01"
+   ],
+   "text": "Transpiration is the loss of water vapour from a plant to the atmosphere, mainly through the stomata of the leaves.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-002",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-01"
+   ],
+   "text": "Liquid water evaporates from the wet cell walls of the mesophyll cells into the air spaces inside the leaf, driven by heat energy from the surroundings, so the air spaces stay humid, close to saturated with water vapour in a leaf that is well supplied with water.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2022-P1-Q24",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-003",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-01"
+   ],
+   "text": "Water vapour diffuses from the humid air spaces of the leaf out through open stomata to the atmosphere, down a concentration gradient; when the stomata are closed the loss is much smaller, because the waxy cuticle is a poor route for water vapour.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-004",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-02"
+   ],
+   "text": "Water potential is a measure of the tendency of water molecules to move from one place to another; pure water has the highest water potential, 0 kPa, and dissolved substances make the water potential of a solution lower, that is more negative.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020).",
+    "Syllabus limit respected: movement is described by comparing water potentials; no calculation and no further potential terms are used."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-005",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-02"
+   ],
+   "text": "Water moves by osmosis through a partially permeable membrane, as a net movement from a region of higher (less negative) water potential to a region of lower (more negative) water potential, that is down a water potential gradient.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2025-P2-Q3c-i",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-006",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-02"
+   ],
+   "text": "In a transpiring plant growing in moist soil, water potential tends to become more negative along the route soil, root hair cell, root cortex, xylem, leaf mesophyll cell wall, leaf air space, outside air, so water moves down this gradient into the root, up the plant and out to the atmosphere; dry outside air has a very low water potential, which keeps the gradient steep.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2025-P2-Q3c-i",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020).",
+    "Values used in learner text are invented for illustration and are not measurements."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-007",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-02"
+   ],
+   "text": "A plant cell placed in a solution of higher water potential than its own gains water by osmosis and becomes turgid, the cell wall stopping it from bursting; in a solution of lower water potential it loses water and becomes flaccid, and in a strong enough solution the cytoplasm shrinks away from the wall (plasmolysis).",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-008",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-03"
+   ],
+   "text": "A potometer measures the rate at which a cut leafy shoot takes up water, which estimates the rate of transpiration; the shoot is cut and joined to the apparatus under water so that no air breaks the water column, the joints are airtight, the leaves are dry, and the distance moved by an air bubble in a capillary tube in a measured time gives the rate of uptake.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2022-P1-Q26",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020).",
+    "Uptake slightly exceeds transpiration because a little of the water absorbed is used in photosynthesis or stays in the cells."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-009",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-03"
+   ],
+   "text": "A higher light intensity, a higher temperature and a stronger wind tend to increase the rate of transpiration, and a higher humidity of the surrounding air tends to decrease it: light opens stomata, heat speeds evaporation and diffusion, wind removes humid air from beside the leaf, and humid air lessens the water vapour concentration gradient.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020).",
+    "Very high temperatures can close stomata; the text states tendencies under moderate conditions."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-010",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-03"
+   ],
+   "text": "An epidermal peel, made by painting clear varnish on a leaf surface, peeling it off when dry and mounting it on a slide, lets the stomata be counted under a light microscope in a field of known area, giving stomatal density as a number per square millimetre that can be compared between leaf surfaces or species.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-011",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-03"
+   ],
+   "text": "The surface area of a leaf can be found with a grid: the leaf outline is traced on squared paper, the whole squares and the squares more than half covered are counted, and the count is multiplied by the area of one square; the area allows a rate of water loss to be given per unit area.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-012",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-04"
+   ],
+   "text": "Cohesion is the attraction between water molecules caused by hydrogen bonds, which form because the oxygen end of a water molecule is slightly negative and the hydrogen ends are slightly positive.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-013",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-04"
+   ],
+   "text": "In the cohesion-tension mechanism, evaporation from the mesophyll cell walls lowers their water potential and pulls water out of the xylem; because of cohesion the pull is passed down a continuous column of water in the xylem, which is therefore under tension, so water is drawn up from the roots; the lignified xylem wall resists the inward pull, and the plant needs no energy of its own to raise the water.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2024-P1-Q19",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    },
+    {
+     "source_id": "EV-8223-2023-P1-Q25",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020).",
+    "Standard biology; 'tension' here means a pulling force on the water column."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-014",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-04"
+   ],
+   "text": "Adhesion is the attraction between water molecules and other surfaces; water forms hydrogen bonds with the cellulose of the xylem and mesophyll cell walls, which helps hold the water column up against gravity and keeps the walls wet.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2024-P1-Q19",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-015",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-05"
+   ],
+   "text": "The apoplast is the cell walls and the spaces between cells; in the apoplastic pathway water moves through the walls from the root surface towards the endodermis, pulled by transpiration and held together by cohesion, without crossing a cell surface membrane.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2025-P1-Q20",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    },
+    {
+     "source_id": "EV-8223-2021-P1-Q14",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020).",
+    "Glossary sense of apoplast used."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-016",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-05"
+   ],
+   "text": "The symplast is the cytoplasm of cells joined by plasmodesmata, and in the symplastic pathway water moves from cell to cell through the cytoplasm by osmosis down a water potential gradient; in the vacuolar pathway water moves through the vacuoles as well as the cytoplasm of successive cells, crossing the vacuole membrane.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2025-P2-Q3c-i",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    },
+    {
+     "source_id": "EV-8223-2021-P1-Q14",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020).",
+    "Syllabus wording names only the symplastic and apoplastic pathways; the vacuolar route is kept separate here because the papers' evidence asks for three pathways. Many textbooks treat it as part of the symplastic route; both treatments describe the same water movement."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-017",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-05"
+   ],
+   "text": "The Casparian strip is a band of waterproof suberin in the walls of the endodermal cells that blocks the apoplastic pathway, so water must cross the cell surface membrane into the cytoplasm of the endodermal cells and follow the symplastic route into the xylem; because the membrane is partially permeable and has transport proteins, the plant controls which mineral ions reach the xylem.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2025-P2-Q3c-ii",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-018",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-05"
+   ],
+   "text": "Mineral ions enter root hair cells largely by active transport through carrier proteins, using ATP, when the soil solution is more dilute than the cell, and some enter by diffusion; they then move through the root in the apoplast and symplast, enter the xylem, and are carried to the leaves in the xylem sap with the water.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2021-P2-Q6a-ii",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020).",
+    "A respiratory poison lowers the ATP supply and so lowers active uptake of ions."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-019",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-06"
+   ],
+   "text": "A xerophyte is a plant adapted to a habitat where water is scarce, and its structure reduces water loss by transpiration.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-020",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-06"
+   ],
+   "text": "Features of xerophyte leaves that reduce water loss include a thick waxy cuticle that reduces evaporation through the epidermis, stomata sunk in pits and hairs on the epidermis that trap humid air and lessen the water vapour concentration gradient, leaves rolled with the stomata on the inside, and a small leaf surface area.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2022-P3-Q2c",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    },
+    {
+     "source_id": "EV-8223-2023-P1-Q26",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    },
+    {
+     "source_id": "EV-8223-2024-P1-Q25",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-021",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-06"
+   ],
+   "text": "Xerophytes show different combinations of adaptations, such as a thick cuticle, hairs, sunken stomata and rolled leaves, so a feature such as many layers of epidermis is found in some xerophytes and cannot be assumed in any one plant.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2025-P1-Q22",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020).",
+    "Addresses misconception MC-8223-2.6.2-02."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-022",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-06"
+   ],
+   "text": "An annotated drawing of a transverse section of a xerophyte leaf draws the tissues in proportion, from the upper epidermis and cuticle through the mesophyll to the lower epidermis, labels each water-saving feature such as the thick cuticle, hairs, stomatal pits or rolled leaf margins, and beside each label says how that feature reduces water loss.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2022-P3-Q2c",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020).",
+    "Drawing is practised at the bench; cards describe the section in words."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-023",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-07"
+   ],
+   "text": "Translocation is the transport of assimilates, such as sucrose and amino acids, in the sieve tubes of the phloem; it is not translation, which is the making of a polypeptide at a ribosome.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2021-P2-Q6b-ii",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020).",
+    "Addresses misconception MC-8223-2.6.2-03."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-024",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-07"
+   ],
+   "text": "A source is a part of a plant where assimilates are loaded into the phloem, such as a mature leaf or a storage organ releasing its reserves, and a sink is a part where assimilates are removed to be used or stored, such as a bud, flower, fruit, root or storage organ that is filling.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020).",
+    "The same organ, for example a tuber, can be a sink while it fills and a source when it releases reserves."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-025",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-07"
+   ],
+   "text": "Phloem sieve tubes are columns of living cells joined end to end through sieve plates, each with a companion cell beside it; assimilates move along them from source to sink, so the direction in one tube can be up or down the plant according to where the source and the sink are.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2024-P1-Q23",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-026",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-08"
+   ],
+   "text": "Companion cells use ATP to pump hydrogen ions out through proton pumps in their cell surface membrane, by active transport, so the concentration of hydrogen ions is higher outside the companion cell than inside.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2021-P2-Q6b-iii",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-027",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-08"
+   ],
+   "text": "Hydrogen ions return into the companion cell down their concentration gradient through a co-transporter protein that carries sucrose in with them, so sucrose is taken up against its concentration gradient and builds up in the cell; hydrogen ions do not bond with sucrose.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2025-P1-Q21",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    },
+    {
+     "source_id": "EV-8223-2021-P2-Q6b-iii",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020).",
+    "Addresses misconception MC-8223-2.6.2-04."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-028",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-08"
+   ],
+   "text": "Sucrose moves from the companion cell into the sieve tube element through plasmodesmata, and the companion cell has many mitochondria that supply the ATP for the proton pumps.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020).",
+    "Standard biology; in many plants this is the loading route. Some plants load by other routes, which the syllabus does not ask for."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-029",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-09"
+   ],
+   "text": "At a source, loading sucrose lowers the water potential in the sieve tube, so water enters from the xylem by osmosis and the hydrostatic pressure in the sieve tube increases.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2023-P1-Q24",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-030",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-09"
+   ],
+   "text": "At a sink, sucrose is removed from the sieve tube, so the water potential rises, water leaves by osmosis and the hydrostatic pressure falls; phloem sap therefore flows by mass flow, as a bulk movement of water with its dissolved assimilates, down the hydrostatic pressure gradient from source to sink.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2023-P1-Q24",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.2-031",
+   "objective_ids": [
+    "OBJ-8223-2.6.2-09"
+   ],
+   "text": "Mass flow in the sieve tube is driven by the pressure difference and needs no energy input along the tube, but it depends on living cells and on ATP-driven loading at the source, so the whole process of translocation relies on metabolic energy.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed page 13, topic 2.6.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2022-P1-Q25",
+     "locator": "creditworthy points",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.6.2 under standard v0.2.0-draft. Single source: the syllabus line restated, with our own statement of standard biology; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (NSSCAS-8223-SYLLABUS-2020).",
+    "Source doubt: the board's key for the 2022 Paper 1 question on which feature makes phloem mass flow active is not followed. We state the biology we can justify: loading needs ATP, the flow along the tube is pressure-driven. verification left single-source."
+   ]
+  }
+ ]
+}

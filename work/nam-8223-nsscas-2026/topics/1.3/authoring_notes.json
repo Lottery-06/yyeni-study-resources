@@ -1,0 +1,8 @@
+{"topic_id": "1.3", "deviations": [
+ {"from": "Objective OBJ-8223-1.3-07 is typed bio_practical_skill, so its slots are PROC and WHY as for a practical",
+  "to": "Slots kept and carried unchanged, but written as a cause-and-effect chain from poaching to lost tourism income, not as an experiment or investigation method",
+  "why": "The syllabus word 'investigate' here asks for knowledge of an impact on tourism, and no practical procedure exists to describe, so objective_type in the registry looks wrong for this objective"},
+ {"from": "Objective OBJ-8223-1.3-01 is discussed with Discuss in the syllabus but its slots instruct with State and Explain",
+  "to": "Kept State and Explain as the slots decided, with the discussion shape taught in the notes",
+  "why": "Discuss is not a slot command word for DEF or MECH subtypes, and the slots are internally consistent with the allowed list"}
+]}

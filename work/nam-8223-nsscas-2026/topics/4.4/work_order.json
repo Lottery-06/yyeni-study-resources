@@ -1,0 +1,1242 @@
+{
+ "work_order_id": "WO-8223-4.4",
+ "topic_id": "4.4",
+ "topic_title": "Analysis, conclusions and evaluation",
+ "topic": "4.4 Analysis, conclusions and evaluation",
+ "generated_by": "build/make_work_order.py — regenerate, never edit",
+ "standard": "v0.2.0-draft",
+ "authoring_note": "Every slot below is decided. Write the prose; do not redesign the plan. If a slot is genuinely wrong for the objective, say so in your report rather than silently changing it.",
+ "output_files": {
+  "claims": "claims/canonical_claim_ledger.json",
+  "content_units": [
+   "content-units/CU-8223-4.4.json"
+  ],
+  "learning_items": "learning-items/topic_4.4_items.json",
+  "notes": "4.4-analysis-conclusions-and-evaluation.md",
+  "flashcards_when_published": "4.4-analysis-conclusions-and-evaluation-flashcards.json"
+ },
+ "assessable_objective_count": 17,
+ "claims_plan": {
+  "per_objective": "2 to 4",
+  "approximate_total": [
+   34,
+   68
+  ]
+ },
+ "content_units": [
+  {
+   "unit_id": "CU-8223-4.4",
+   "file": "content-units/CU-8223-4.4.json",
+   "sub_topic": "4.4",
+   "objective_ids": [
+    "OBJ-8223-4.4-01",
+    "OBJ-8223-4.4-02",
+    "OBJ-8223-4.4-03",
+    "OBJ-8223-4.4-04",
+    "OBJ-8223-4.4-05",
+    "OBJ-8223-4.4-06",
+    "OBJ-8223-4.4-07",
+    "OBJ-8223-4.4-08",
+    "OBJ-8223-4.4-09",
+    "OBJ-8223-4.4-10",
+    "OBJ-8223-4.4-11",
+    "OBJ-8223-4.4-12",
+    "OBJ-8223-4.4-13",
+    "OBJ-8223-4.4-14",
+    "OBJ-8223-4.4-15",
+    "OBJ-8223-4.4-16",
+    "OBJ-8223-4.4-17"
+   ],
+   "objectives": [
+    {
+     "objective_id": "OBJ-8223-4.4-01",
+     "title": "Calculate an answer to the correct number of significant figures from results or data.",
+     "syllabus_text": "calculate the correct answer with the correct number of significant figures using quantitative results or data provided.",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-4.4-02",
+     "title": "Find an unknown value from graph coordinates, intercepts or extrapolation.",
+     "syllabus_text": "find an unknown value by using co-ordinates or intercepts with axes on a graph or extrapolation where the data allows",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-4.4-03",
+     "title": "Estimate the concentration of an unknown solution from qualitative results.",
+     "syllabus_text": "estimate the concentration of unknown solutions from qualitative results",
+     "depth_tier": 3
+    },
+    {
+     "objective_id": "OBJ-8223-4.4-04",
+     "title": "Identify the contents of an unknown solution using biological molecule tests.",
+     "syllabus_text": "identify the contents of unknown solutions using biological molecule tests",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-4.4-05",
+     "title": "Identify anomalous results and leave them out before calculating a mean.",
+     "syllabus_text": "identify anomalous results and remove them before beginning calculations, e.g. when calculating means",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-4.4-06",
+     "title": "Describe patterns and trends in tables and graphs, using the data.",
+     "syllabus_text": "describe patterns and trends using the data provided in tables and graphs",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-4.4-07",
+     "title": "Identify systematic and random errors and say how each affects results.",
+     "syllabus_text": "identify systematic or random errors from using apparatus in an investigation and understand that systematic errors do not affect the trend in results whereas a random error",
+     "depth_tier": 3
+    },
+    {
+     "objective_id": "OBJ-8223-4.4-08",
+     "title": "Identify the significant sources of error in an investigation.",
+     "syllabus_text": "identify the significant sources of error in a particular investigation as any variable that may change during the recording of results so making the results less accurate",
+     "depth_tier": 3
+    },
+    {
+     "objective_id": "OBJ-8223-4.4-09",
+     "title": "Calculate actual and percentage error and judge confidence in the results.",
+     "syllabus_text": "estimate quantitatively, by calculating the actual error or percentage error (where a particular measurement is given) to evaluate the uncertainty in quantitative measurements and evaluate the confidence in the accuracy of results",
+     "depth_tier": 3
+    },
+    {
+     "objective_id": "OBJ-8223-4.4-10",
+     "title": "Judge how standardising variables affects confidence in a conclusion.",
+     "syllabus_text": "evaluate the effect of the standardisation of variables on the general trend or pattern and therefore the confidence with which conclusions might be made.",
+     "depth_tier": 3
+    },
+    {
+     "objective_id": "OBJ-8223-4.4-11",
+     "title": "Predict a trend from information or results provided.",
+     "syllabus_text": "to predict a trend from provided information or results",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-4.4-12",
+     "title": "Draw a conclusion from the patterns and trends in data.",
+     "syllabus_text": "from the patterns and trends in data",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-4.4-13",
+     "title": "Decide whether data support a given hypothesis.",
+     "syllabus_text": "on whether investigational data support a given hypothesis",
+     "depth_tier": 3
+    },
+    {
+     "objective_id": "OBJ-8223-4.4-14",
+     "title": "Draw a conclusion from results, including estimating an unknown concentration from known ones.",
+     "syllabus_text": "from results, including estimating an unknown concentration using known concentrations",
+     "depth_tier": 3
+    },
+    {
+     "objective_id": "OBJ-8223-4.4-15",
+     "title": "Explain data, observations, calculated values and conclusions using biological knowledge.",
+     "syllabus_text": "Make scientific explanations, using skills, knowledge and understanding",
+     "depth_tier": 3
+    },
+    {
+     "objective_id": "OBJ-8223-4.4-16",
+     "title": "Suggest improvements that make the procedure or the observations more accurate.",
+     "syllabus_text": "Suggest improvements to a procedure that will increase the accuracy of the procedure for the investigation or accuracy of the observations",
+     "depth_tier": 3
+    },
+    {
+     "objective_id": "OBJ-8223-4.4-17",
+     "title": "Suggest how to modify or extend an investigation to answer a new question.",
+     "syllabus_text": "Suggest how to modify or extend the investigation to answer a new question or change the independent variable",
+     "depth_tier": 3
+    }
+   ],
+   "word_budget": [
+    5070,
+    7250
+   ],
+   "blocks_required": [
+    "a definition or plain explanation block for every objective above",
+    "at least one worked example or analysis chain where the objectives are tier 2 or higher",
+    "a cross-link block naming the topics this one connects to"
+   ]
+  }
+ ],
+ "item_slots": [
+  {
+   "slot": "ITEM-8223-4.4-001-DEF",
+   "objective_id": "OBJ-8223-4.4-01",
+   "objective_title": "Calculate an answer to the correct number of significant figures from results or data.",
+   "syllabus_text": "calculate the correct answer with the correct number of significant figures using quantitative results or data provided.",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-002-CALC",
+   "objective_id": "OBJ-8223-4.4-01",
+   "objective_title": "Calculate an answer to the correct number of significant figures from results or data.",
+   "syllabus_text": "calculate the correct answer with the correct number of significant figures using quantitative results or data provided.",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "equation|formula|working|substitution|substitute|step",
+    "answer|result|final",
+    "unit|units|significant figures"
+   ],
+   "reason": "instructs with Calculate, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-003-CALC",
+   "objective_id": "OBJ-8223-4.4-01",
+   "objective_title": "Calculate an answer to the correct number of significant figures from results or data.",
+   "syllabus_text": "calculate the correct answer with the correct number of significant figures using quantitative results or data provided.",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "equation|formula|working|substitution|substitute|step",
+    "answer|result|final",
+    "unit|units|significant figures"
+   ],
+   "reason": "instructs with Calculate, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-004-INTERP",
+   "objective_id": "OBJ-8223-4.4-02",
+   "objective_title": "Find an unknown value from graph coordinates, intercepts or extrapolation.",
+   "syllabus_text": "find an unknown value by using co-ordinates or intercepts with axes on a graph or extrapolation where the data allows",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "instructs with Describe, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.4-005-INTERP",
+   "objective_id": "OBJ-8223-4.4-02",
+   "objective_title": "Find an unknown value from graph coordinates, intercepts or extrapolation.",
+   "syllabus_text": "find an unknown value by using co-ordinates or intercepts with axes on a graph or extrapolation where the data allows",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "instructs with Describe, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.4-006-INTERP",
+   "objective_id": "OBJ-8223-4.4-03",
+   "objective_title": "Estimate the concentration of an unknown solution from qualitative results.",
+   "syllabus_text": "estimate the concentration of unknown solutions from qualitative results",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "instructs with Describe, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.4-007-INTERP",
+   "objective_id": "OBJ-8223-4.4-03",
+   "objective_title": "Estimate the concentration of an unknown solution from qualitative results.",
+   "syllabus_text": "estimate the concentration of unknown solutions from qualitative results",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "instructs with Describe, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.4-008-APP",
+   "objective_id": "OBJ-8223-4.4-03",
+   "objective_title": "Estimate the concentration of an unknown solution from qualitative results.",
+   "syllabus_text": "estimate the concentration of unknown solutions from qualitative results",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.4-009-INTERP",
+   "objective_id": "OBJ-8223-4.4-04",
+   "objective_title": "Identify the contents of an unknown solution using biological molecule tests.",
+   "syllabus_text": "identify the contents of unknown solutions using biological molecule tests",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "instructs with Identify, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-010-INTERP",
+   "objective_id": "OBJ-8223-4.4-04",
+   "objective_title": "Identify the contents of an unknown solution using biological molecule tests.",
+   "syllabus_text": "identify the contents of unknown solutions using biological molecule tests",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "instructs with Identify, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-011-INTERP",
+   "objective_id": "OBJ-8223-4.4-05",
+   "objective_title": "Identify anomalous results and leave them out before calculating a mean.",
+   "syllabus_text": "identify anomalous results and remove them before beginning calculations, e.g. when calculating means",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "instructs with Identify, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-012-INTERP",
+   "objective_id": "OBJ-8223-4.4-05",
+   "objective_title": "Identify anomalous results and leave them out before calculating a mean.",
+   "syllabus_text": "identify anomalous results and remove them before beginning calculations, e.g. when calculating means",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "instructs with Identify, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-013-INTERP",
+   "objective_id": "OBJ-8223-4.4-06",
+   "objective_title": "Describe patterns and trends in tables and graphs, using the data.",
+   "syllabus_text": "describe patterns and trends using the data provided in tables and graphs",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-014-INTERP",
+   "objective_id": "OBJ-8223-4.4-06",
+   "objective_title": "Describe patterns and trends in tables and graphs, using the data.",
+   "syllabus_text": "describe patterns and trends using the data provided in tables and graphs",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-015-LIM",
+   "objective_id": "OBJ-8223-4.4-07",
+   "objective_title": "Identify systematic and random errors and say how each affects results.",
+   "syllabus_text": "identify systematic or random errors from using apparatus in an investigation and understand that systematic errors do not affect the trend in results whereas a random error",
+   "subtype": "LIM",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "limitation|limitations|error|errors|uncertainty|difficult|source of error|inaccura",
+    "because|so|which|effect|affects|result"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-016-EVAL",
+   "objective_id": "OBJ-8223-4.4-07",
+   "objective_title": "Identify systematic and random errors and say how each affects results.",
+   "syllabus_text": "identify systematic or random errors from using apparatus in an investigation and understand that systematic errors do not affect the trend in results whereas a random error",
+   "subtype": "EVAL",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 5,
+   "blooms_level": "Evaluate",
+   "marking_guidance_must_name": [
+    "criterion|criteria|support|supports|consistent|justify|justified|judgement|conclusion",
+    "because|so|since|therefore",
+    "data|value|values|evidence|result|results"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-017-APP",
+   "objective_id": "OBJ-8223-4.4-07",
+   "objective_title": "Identify systematic and random errors and say how each affects results.",
+   "syllabus_text": "identify systematic or random errors from using apparatus in an investigation and understand that systematic errors do not affect the trend in results whereas a random error",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-018-LIM",
+   "objective_id": "OBJ-8223-4.4-08",
+   "objective_title": "Identify the significant sources of error in an investigation.",
+   "syllabus_text": "identify the significant sources of error in a particular investigation as any variable that may change during the recording of results so making the results less accurate",
+   "subtype": "LIM",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "limitation|limitations|error|errors|uncertainty|difficult|source of error|inaccura",
+    "because|so|which|effect|affects|result"
+   ],
+   "reason": "instructs with Describe, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.4-019-EVAL",
+   "objective_id": "OBJ-8223-4.4-08",
+   "objective_title": "Identify the significant sources of error in an investigation.",
+   "syllabus_text": "identify the significant sources of error in a particular investigation as any variable that may change during the recording of results so making the results less accurate",
+   "subtype": "EVAL",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 5,
+   "blooms_level": "Evaluate",
+   "marking_guidance_must_name": [
+    "criterion|criteria|support|supports|consistent|justify|justified|judgement|conclusion",
+    "because|so|since|therefore",
+    "data|value|values|evidence|result|results"
+   ],
+   "reason": "instructs with Explain, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.4-020-APP",
+   "objective_id": "OBJ-8223-4.4-08",
+   "objective_title": "Identify the significant sources of error in an investigation.",
+   "syllabus_text": "identify the significant sources of error in a particular investigation as any variable that may change during the recording of results so making the results less accurate",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Identify, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-021-LIM",
+   "objective_id": "OBJ-8223-4.4-09",
+   "objective_title": "Calculate actual and percentage error and judge confidence in the results.",
+   "syllabus_text": "estimate quantitatively, by calculating the actual error or percentage error (where a particular measurement is given) to evaluate the uncertainty in quantitative measurements and evaluate the confidence in the accuracy of results",
+   "subtype": "LIM",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "limitation|limitations|error|errors|uncertainty|difficult|source of error|inaccura",
+    "because|so|which|effect|affects|result"
+   ],
+   "reason": "instructs with Describe, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.4-022-EVAL",
+   "objective_id": "OBJ-8223-4.4-09",
+   "objective_title": "Calculate actual and percentage error and judge confidence in the results.",
+   "syllabus_text": "estimate quantitatively, by calculating the actual error or percentage error (where a particular measurement is given) to evaluate the uncertainty in quantitative measurements and evaluate the confidence in the accuracy of results",
+   "subtype": "EVAL",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 5,
+   "blooms_level": "Evaluate",
+   "marking_guidance_must_name": [
+    "criterion|criteria|support|supports|consistent|justify|justified|judgement|conclusion",
+    "because|so|since|therefore",
+    "data|value|values|evidence|result|results"
+   ],
+   "reason": "instructs with Explain, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.4-023-APP",
+   "objective_id": "OBJ-8223-4.4-09",
+   "objective_title": "Calculate actual and percentage error and judge confidence in the results.",
+   "syllabus_text": "estimate quantitatively, by calculating the actual error or percentage error (where a particular measurement is given) to evaluate the uncertainty in quantitative measurements and evaluate the confidence in the accuracy of results",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.4-046-MISCON",
+   "objective_id": "OBJ-8223-4.4-09",
+   "objective_title": "Calculate actual and percentage error and judge confidence in the results.",
+   "syllabus_text": "estimate quantitatively, by calculating the actual error or percentage error (where a particular measurement is given) to evaluate the uncertainty in quantitative measurements and evaluate the confidence in the accuracy of results",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "error|mistake|confusion|confused|wrongly|in fact|not the same|instead|test"
+   ],
+   "misconception_entry": "MC-8223-4.4-01",
+   "reason": "discriminates misconception MC-8223-4.4-01 (1 examiner statements): Swapping accuracy and reliability"
+  },
+  {
+   "slot": "ITEM-8223-4.4-024-LIM",
+   "objective_id": "OBJ-8223-4.4-10",
+   "objective_title": "Judge how standardising variables affects confidence in a conclusion.",
+   "syllabus_text": "evaluate the effect of the standardisation of variables on the general trend or pattern and therefore the confidence with which conclusions might be made.",
+   "subtype": "LIM",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "limitation|limitations|error|errors|uncertainty|difficult|source of error|inaccura",
+    "because|so|which|effect|affects|result"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-025-EVAL",
+   "objective_id": "OBJ-8223-4.4-10",
+   "objective_title": "Judge how standardising variables affects confidence in a conclusion.",
+   "syllabus_text": "evaluate the effect of the standardisation of variables on the general trend or pattern and therefore the confidence with which conclusions might be made.",
+   "subtype": "EVAL",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 5,
+   "blooms_level": "Evaluate",
+   "marking_guidance_must_name": [
+    "criterion|criteria|support|supports|consistent|justify|justified|judgement|conclusion",
+    "because|so|since|therefore",
+    "data|value|values|evidence|result|results"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-026-APP",
+   "objective_id": "OBJ-8223-4.4-10",
+   "objective_title": "Judge how standardising variables affects confidence in a conclusion.",
+   "syllabus_text": "evaluate the effect of the standardisation of variables on the general trend or pattern and therefore the confidence with which conclusions might be made.",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-027-INTERP",
+   "objective_id": "OBJ-8223-4.4-11",
+   "objective_title": "Predict a trend from information or results provided.",
+   "syllabus_text": "to predict a trend from provided information or results",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-028-INTERP",
+   "objective_id": "OBJ-8223-4.4-11",
+   "objective_title": "Predict a trend from information or results provided.",
+   "syllabus_text": "to predict a trend from provided information or results",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-029-INTERP",
+   "objective_id": "OBJ-8223-4.4-12",
+   "objective_title": "Draw a conclusion from the patterns and trends in data.",
+   "syllabus_text": "from the patterns and trends in data",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "instructs with Describe, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.4-030-INTERP",
+   "objective_id": "OBJ-8223-4.4-12",
+   "objective_title": "Draw a conclusion from the patterns and trends in data.",
+   "syllabus_text": "from the patterns and trends in data",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "instructs with Describe, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.4-031-INTERP",
+   "objective_id": "OBJ-8223-4.4-13",
+   "objective_title": "Decide whether data support a given hypothesis.",
+   "syllabus_text": "on whether investigational data support a given hypothesis",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-032-INTERP",
+   "objective_id": "OBJ-8223-4.4-13",
+   "objective_title": "Decide whether data support a given hypothesis.",
+   "syllabus_text": "on whether investigational data support a given hypothesis",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-033-APP",
+   "objective_id": "OBJ-8223-4.4-13",
+   "objective_title": "Decide whether data support a given hypothesis.",
+   "syllabus_text": "on whether investigational data support a given hypothesis",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-034-INTERP",
+   "objective_id": "OBJ-8223-4.4-14",
+   "objective_title": "Draw a conclusion from results, including estimating an unknown concentration from known ones.",
+   "syllabus_text": "from results, including estimating an unknown concentration using known concentrations",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "instructs with Describe, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.4-035-INTERP",
+   "objective_id": "OBJ-8223-4.4-14",
+   "objective_title": "Draw a conclusion from results, including estimating an unknown concentration from known ones.",
+   "syllabus_text": "from results, including estimating an unknown concentration using known concentrations",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "instructs with Describe, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.4-036-APP",
+   "objective_id": "OBJ-8223-4.4-14",
+   "objective_title": "Draw a conclusion from results, including estimating an unknown concentration from known ones.",
+   "syllabus_text": "from results, including estimating an unknown concentration using known concentrations",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.4-037-DEF",
+   "objective_id": "OBJ-8223-4.4-15",
+   "objective_title": "Explain data, observations, calculated values and conclusions using biological knowledge.",
+   "syllabus_text": "Make scientific explanations, using skills, knowledge and understanding",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-4.4-038-MECH",
+   "objective_id": "OBJ-8223-4.4-15",
+   "objective_title": "Explain data, observations, calculated values and conclusions using biological knowledge.",
+   "syllabus_text": "Make scientific explanations, using skills, knowledge and understanding",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "how|because|so that|which|then|causes|cause|leads|results"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-039-APP",
+   "objective_id": "OBJ-8223-4.4-15",
+   "objective_title": "Explain data, observations, calculated values and conclusions using biological knowledge.",
+   "syllabus_text": "Make scientific explanations, using skills, knowledge and understanding",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-040-LIM",
+   "objective_id": "OBJ-8223-4.4-16",
+   "objective_title": "Suggest improvements that make the procedure or the observations more accurate.",
+   "syllabus_text": "Suggest improvements to a procedure that will increase the accuracy of the procedure for the investigation or accuracy of the observations",
+   "subtype": "LIM",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "limitation|limitations|error|errors|uncertainty|difficult|source of error|inaccura",
+    "because|so|which|effect|affects|result"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-041-EVAL",
+   "objective_id": "OBJ-8223-4.4-16",
+   "objective_title": "Suggest improvements that make the procedure or the observations more accurate.",
+   "syllabus_text": "Suggest improvements to a procedure that will increase the accuracy of the procedure for the investigation or accuracy of the observations",
+   "subtype": "EVAL",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 5,
+   "blooms_level": "Evaluate",
+   "marking_guidance_must_name": [
+    "criterion|criteria|support|supports|consistent|justify|justified|judgement|conclusion",
+    "because|so|since|therefore",
+    "data|value|values|evidence|result|results"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-042-APP",
+   "objective_id": "OBJ-8223-4.4-16",
+   "objective_title": "Suggest improvements that make the procedure or the observations more accurate.",
+   "syllabus_text": "Suggest improvements to a procedure that will increase the accuracy of the procedure for the investigation or accuracy of the observations",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-043-LIM",
+   "objective_id": "OBJ-8223-4.4-17",
+   "objective_title": "Suggest how to modify or extend an investigation to answer a new question.",
+   "syllabus_text": "Suggest how to modify or extend the investigation to answer a new question or change the independent variable",
+   "subtype": "LIM",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "limitation|limitations|error|errors|uncertainty|difficult|source of error|inaccura",
+    "because|so|which|effect|affects|result"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-044-EVAL",
+   "objective_id": "OBJ-8223-4.4-17",
+   "objective_title": "Suggest how to modify or extend an investigation to answer a new question.",
+   "syllabus_text": "Suggest how to modify or extend the investigation to answer a new question or change the independent variable",
+   "subtype": "EVAL",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 5,
+   "blooms_level": "Evaluate",
+   "marking_guidance_must_name": [
+    "criterion|criteria|support|supports|consistent|justify|justified|judgement|conclusion",
+    "because|so|since|therefore",
+    "data|value|values|evidence|result|results"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-4.4-045-APP",
+   "objective_id": "OBJ-8223-4.4-17",
+   "objective_title": "Suggest how to modify or extend an investigation to answer a new question.",
+   "syllabus_text": "Suggest how to modify or extend the investigation to answer a new question or change the independent variable",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "C"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  }
+ ],
+ "performance_tasks": [
+  {
+   "slot": "ITEM-8223-4.4-P01",
+   "item_type": "practical_task",
+   "brief": "A Paper 3 style investigation task (about 10 marks): an experiment described in words with our own readings in a table. The learner decides variables, controls and how to measure, draws up the results table (quantity and unit headings, consistent significant figures), plots or describes the graph, calculates a value with working, identifies sources of error and suggests an improvement. Readings are ours and are labelled as such.",
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "table|heading|headings|column|columns",
+    "graph|plot|axis|axes|uncertainty|error|scale",
+    "limitation|limitations|improvement|improvements|conclusion|control|variable"
+   ],
+   "objective_ids": "choose 2-4 objectives from this topic that the task genuinely exercises"
+  },
+  {
+   "slot": "ITEM-8223-4.4-P02",
+   "item_type": "practical_task",
+   "brief": "A second Paper 3 style task (about 10 marks), different in setting from the first and fitted to this topic. Where the topic concerns microscopy, drawing or measuring specimens: a specimen or photomicrograph described in words with measurements given, asking what a plan diagram or cell drawing would show, a graticule calibration or actual-size or magnification calculation with working in micrometres, a comparison of two specimens by observable features only, and an improvement. Otherwise: a second, different investigation (a different experiment, data set or results table) testing the same skills as this topic's objectives. Values and readings are ours and are labelled as such.",
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "table|heading|headings|column|columns",
+    "graph|plot|axis|axes|uncertainty|error|scale",
+    "limitation|limitations|improvement|improvements|conclusion|control|variable"
+   ],
+   "objective_ids": "choose 2-4 objectives from this topic that the task genuinely exercises"
+  }
+ ],
+ "planned_item_count": 48,
+ "planned_ao_mix_by_item_count": {
+  "A": {
+   "planned_share_percent": 0,
+   "target_percent": 40
+  },
+  "B": {
+   "planned_share_percent": 0,
+   "target_percent": 40
+  },
+  "C": {
+   "planned_share_percent": 100,
+   "target_percent": 20
+  }
+ },
+ "planned_blooms_mix": {
+  "Remember": {
+   "items": 2,
+   "share_percent": 4
+  },
+  "Understand": {
+   "items": 2,
+   "share_percent": 4
+  },
+  "Apply": {
+   "items": 12,
+   "share_percent": 25
+  },
+  "Analyse": {
+   "items": 26,
+   "share_percent": 54
+  },
+  "Evaluate": {
+   "items": 6,
+   "share_percent": 12
+  },
+  "Create": {
+   "items": 0,
+   "share_percent": 0
+  }
+ },
+ "planned_ao_mix_by_marks": {
+  "A": {
+   "planned_share_percent": 0,
+   "syllabus_weight_percent": 40
+  },
+  "B": {
+   "planned_share_percent": 0,
+   "syllabus_weight_percent": 40
+  },
+  "C": {
+   "planned_share_percent": 100,
+   "syllabus_weight_percent": 20
+  }
+ },
+ "marks_equivalent_total": 110,
+ "ao_mix_note": "The syllabus states its AO weights as a share of MARKS, so planned_ao_mix_by_marks is the one that answers \"does this resource match the exam\". It values each card at the tariff of the question it models, split across the AOs the card declares, and values each performance task at the marks of the paper part it models. The count-based mix below is reported only because it is what a reader expects to see; do not balance against it. AO shares by ITEM COUNT: Every objective needs one recall anchor, so AO1 has a structural floor of about 37% in this topic (17 objectives against 46 slots) and cannot reach the None% target by count however many other cards are added - padding the bank to chase it makes the resource worse. The framework already measures the AO4 share in practice time rather than by count for the same reason. Treat AO1 above target as expected, and AO2/AO3/AO4 below target as the thing worth fixing.",
+ "excluded_constructs": [
+  {
+   "construct": "species concepts other than the biological, morphological, ecological and behavioural concepts",
+   "pattern": "\\b(?:phylogenetic|cohesion|recognition|evolutionary|genotypic cluster)\\s+species\\s+concept",
+   "source": {
+    "printed_page": 5,
+    "topic": "1.1",
+    "quote": "limited to the biological, morphological, ecological and behavioural concepts"
+   }
+  },
+  {
+   "construct": "mesosomes",
+   "pattern": "\\bmesosomes?\\b",
+   "source": {
+    "printed_page": 8,
+    "topic": "2.2",
+    "quote": "no reference to mesosomes required"
+   }
+  },
+  {
+   "construct": "calculations of water potential",
+   "pattern": "\\bcalculat\\w*\\s+(?:the\\s+)?(?:water|solute|pressure)\\s+potential|\\bψ\\s*=\\s*ψ|\\bwater potential\\s*=\\s*solute potential|\\bΨs\\b|\\bΨp\\b",
+   "source": {
+    "printed_page": 9,
+    "topic": "2.3.2",
+    "quote": "no calculations involving water potential will be set"
+   }
+  },
+  {
+   "construct": "solute potential, pressure potential and osmotic potential as terms",
+   "pattern": "\\b(?:solute|pressure|osmotic)\\s+potential\\b",
+   "source": {
+    "printed_page": 9,
+    "topic": "2.3.2",
+    "quote": "Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected"
+   }
+  },
+  {
+   "construct": "roles of water beyond solvent action, specific heat capacity and latent heat of vaporisation",
+   "pattern": "\\b(?:ice floats|ice is less dense|maximum density|surface tension)\\b",
+   "source": {
+    "printed_page": 11,
+    "topic": "2.4.2",
+    "quote": "limited to solvent action, specific heat capacity and latent heat of vapourisation"
+   }
+  },
+  {
+   "construct": "chloride shift",
+   "pattern": "\\bchloride shift\\b|\\bhamburger shift\\b",
+   "source": {
+    "printed_page": 14,
+    "topic": "2.7.1",
+    "quote": "details of the chloride shift are not required"
+   }
+  },
+  {
+   "construct": "nervous and hormonal control of the heart",
+   "pattern": "\\b(?:vagus nerve|cardiac centre|cardiovascular centre|cardioaccelerator|medulla oblongata)\\b|\\b(?:sympathetic|parasympathetic)\\b[^.]{0,60}\\bheart\\b|\\b(?:adrenaline|noradrenaline|acetylcholine)\\b[^.]{0,60}\\bheart (?:rate|beat)",
+   "source": {
+    "printed_page": 15,
+    "topic": "2.7.2",
+    "quote": "reference should be made to the sinoatrial node, the atrioventricular node and the Purkyne tissue, but not to nervous and hormonal control"
+   }
+  },
+  {
+   "construct": "non-infectious disease examples other than sickle cell anaemia and lung cancer",
+   "pattern": "\\b(?:non-?infectious|not infectious)\\b[^.]{0,80}\\b(?:diabetes|coronary heart disease|scurvy|rickets|kwashiorkor|cystic fibrosis|haemophilia|huntington|osteoporosis)\\b|\\b(?:diabetes|coronary heart disease|scurvy|rickets|kwashiorkor|cystic fibrosis|haemophilia|huntington|osteoporosis)\\b[^.]{0,80}\\b(?:non-?infectious|not infectious)\\b",
+   "source": {
+    "printed_page": 15,
+    "topic": "2.8.1",
+    "quote": "limited to sickle cell anaemia and lung cancer"
+   }
+  },
+  {
+   "construct": "detailed life cycle of the malarial parasite",
+   "pattern": "\\b(?:sporozoites?|merozoites?|gametocytes?|schizonts?|hypnozoites?|oocysts?|trophozoites?|exo-?erythrocytic)\\b",
+   "source": {
+    "printed_page": 15,
+    "topic": "2.8.1",
+    "quote": "a detailed study of the life cycle of the malarial parasite is not required"
+   }
+  },
+  {
+   "construct": "T-lymphocyte types other than T-helper and T-killer cells",
+   "pattern": "\\b(?:regulatory T|suppressor T|T-?regulatory|Tregs?|memory T cells?|gamma-?delta)\\b",
+   "source": {
+    "printed_page": 16,
+    "topic": "2.9.1",
+    "quote": "limited to T-helper cells and T-killer cells"
+   }
+  },
+  {
+   "construct": "chromosome structure beyond DNA, histone proteins, chromatids, centromere and telomeres",
+   "pattern": "\\b(?:kinetochores?|nucleosomes?|euchromatin|heterochromatin|cohesins?|condensins?)\\b",
+   "source": {
+    "printed_page": 18,
+    "topic": "3.1.1",
+    "quote": "limited to DNA, histone proteins, chromatids, centromere and telomeres"
+   }
+  },
+  {
+   "construct": "structural formulae of nucleotides and bases",
+   "pattern": "\\bstructural formulae? of (?:the )?(?:nucleotides?|bases?|purines?|pyrimidines?|adenine|guanine|cytosine|thymine|uracil)\\b|\\bC5H5N5\\b|\\bC4H5N3O\\b|\\bC5H5N5O\\b|\\bC4H4N2O2\\b",
+   "source": {
+    "printed_page": 19,
+    "topic": "3.2.1",
+    "quote": "structural formulae are not required"
+   }
+  }
+ ],
+ "adjacent_topics": [],
+ "excluded_constructs_status": "declared",
+ "subtype_waivers": []
+}

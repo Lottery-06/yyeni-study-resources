@@ -1,0 +1,246 @@
+{
+ "unit_id": "CU-8223-2.5.1",
+ "title": "Mode of action of enzymes",
+ "objective_ids": [
+  "OBJ-8223-2.5.1-01",
+  "OBJ-8223-2.5.1-02",
+  "OBJ-8223-2.5.1-03",
+  "OBJ-8223-2.5.1-04"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_explanation",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 1120,
+  "target": 1596,
+  "max": 1600
+ },
+ "blocks": [
+  {
+   "block_id": "2.5.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "What enzymes are, where they work, how an enzyme binds its substrate and lowers the activation energy, how two hypotheses describe the binding, and how to follow the progress of an enzyme-catalysed reaction.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "2fe6e82ae087045583c4a40873012da3abc5fc20f8d0546699df8a6676015ee2"
+  },
+  {
+   "block_id": "2.5.1-b2",
+   "block_type": "plain_explanation",
+   "heading": "Enzymes are globular proteins",
+   "text": "An enzyme is a globular protein that acts as a biological catalyst. A catalyst is a substance that speeds up a chemical reaction and is not used up by it. Enzymes catalyse metabolic reactions, which are the chemical reactions of living organisms, such as the breakdown of food molecules and the building of new molecules.\n\nA globular protein is a protein whose polypeptide chain is folded into a compact, roughly spherical shape. The precise three-dimensional shape of the folded chain is its tertiary structure, held in place by hydrogen bonds, ionic bonds, disulfide bonds and hydrophobic interactions between the R groups of the amino acids.\n\nIn a typical globular enzyme the hydrophobic R groups point towards the centre of the molecule and the hydrophilic R groups lie on the outside. Because the outside is hydrophilic, the enzyme dissolves in the water of the cytoplasm or of the fluid outside cells.\n\nThe folding also creates a small pocket on the surface, the active site, whose shape and chemical properties belong to that enzyme. If the sequence of amino acids changes, the folding changes, and so does the shape of the active site.",
+   "claim_ids": [
+    "CLM-8223-2.5.1-001",
+    "CLM-8223-2.5.1-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.5.1-001": 1,
+    "CLM-8223-2.5.1-002": 1
+   },
+   "authored_hash": "cad31c37d2579e3091a83909c18be5a113c143bb5c20712708945cf2187c5383"
+  },
+  {
+   "block_id": "2.5.1-b3",
+   "block_type": "plain_explanation",
+   "heading": "What it means to catalyse a metabolic reaction",
+   "text": "Many metabolic reactions would run too slowly at the temperature of a living cell, because few collisions between molecules carry enough energy to make them react.\n\nThe molecule that the enzyme acts on is the substrate, and the molecule formed is the product. The enzyme takes part in the reaction, but it is released unchanged at the end. One enzyme molecule can therefore catalyse the same reaction again and again, and a small amount of enzyme can convert a large amount of substrate. An enzyme changes how quickly the products form. It does not change which products form.",
+   "claim_ids": [
+    "CLM-8223-2.5.1-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.5.1-003": 1
+   },
+   "authored_hash": "5ffa33e7d36f600e09a92eb3ef21967bd133c0d483507dfc7a9879478ed5d6e8"
+  },
+  {
+   "block_id": "2.5.1-b4",
+   "block_type": "plain_explanation",
+   "heading": "Intracellular and extracellular enzymes",
+   "text": "Enzymes work in two places. An intracellular enzyme is made in a cell and works inside a cell. Catalase is an example. It works inside liver cells and many other cells, breaking down hydrogen peroxide, a harmful by-product of metabolism, into water and oxygen.\n\nAn extracellular enzyme is made in a cell and then secreted, so that it works outside the cell. Amylase made by the salivary glands is an example. It is released into the mouth, where it catalyses the breakdown of starch to maltose. \nExtracellular enzymes are made on ribosomes inside the cell and leave in vesicles that fuse with the cell surface membrane. Both types are globular proteins with an active site. They differ in where they work.",
+   "claim_ids": [
+    "CLM-8223-2.5.1-004",
+    "CLM-8223-2.5.1-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.5.1-004": 1,
+    "CLM-8223-2.5.1-005": 1
+   },
+   "authored_hash": "22c7007cda811b8bc37c5d662bfe4469341fcae6491e76aa69cb33c2da4a0355"
+  },
+  {
+   "block_id": "2.5.1-b5",
+   "block_type": "components",
+   "heading": "Active site, enzyme-substrate complex and specificity",
+   "text": "The active site is a small region on the surface of the enzyme. The folding of the chain brings a few R groups close together there, and they give the site a particular shape and particular chemical properties. A substrate whose shape and charges suit the site can bind to it by temporary bonds. The enzyme and substrate together are the enzyme-substrate complex.\n\nWhile the substrate is held there the reaction takes place. The products then leave, and the enzyme is free to bind another substrate molecule.\n\nEnzyme specificity means that an enzyme catalyses one reaction, or a small set of closely related reactions. This is because a substrate must suit the active site to bind, and most molecules do not. Amylase acts on starch and not on protein, and catalase acts on hydrogen peroxide. A substrate that cannot bind forms no enzyme-substrate complex, so no reaction is catalysed.",
+   "claim_ids": [
+    "CLM-8223-2.5.1-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.5.1-006": 1
+   },
+   "authored_hash": "e03eb3ebf1cd23bc67730c842ee0582096a0c0197120807edb0642f908d940b3"
+  },
+  {
+   "block_id": "2.5.1-b6",
+   "block_type": "process",
+   "heading": "Lowering the activation energy",
+   "text": "The activation energy of a reaction is the energy that reacting molecules must have for the reaction to take place. At the temperature of a cell, few molecules have that much energy, so an uncatalysed reaction is slow.\n\nPicture energy on a vertical axis and the progress of the reaction along the horizontal axis. Between the level of the reactants and the level of the products is a hill, and its height above the reactants is the activation energy. With the enzyme the start and the end are at the same levels, but the hill is lower.\n\nThe enzyme lowers the hill in a definite way. When the substrate binds, the active site holds it in the position in which it reacts, and it strains the bonds that must change. Because of this, less energy is needed to reach the point where the reaction takes place. A larger share of the molecules in the cell then have enough energy, more enzyme-substrate complexes go on to form products every second, and the rate of reaction increases. The enzyme does not supply energy.",
+   "claim_ids": [
+    "CLM-8223-2.5.1-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.5.1-007": 1
+   },
+   "authored_hash": "d261c4b8a7ca405cb0ddffdb8365b50ce7e63ddf2cc931758ab8c04ca5c91930"
+  },
+  {
+   "block_id": "2.5.1-b7",
+   "block_type": "plain_explanation",
+   "heading": "Lock and key and induced fit",
+   "text": "The lock and key hypothesis describes the active site as having a fixed shape that is complementary to the substrate, as a key fits its lock. It explains specificity, because a substrate of the wrong shape does not fit, but it treats the active site as rigid.\n\nThe induced fit hypothesis describes the active site as not quite complementary to the substrate until the substrate arrives. As the substrate binds, the enzyme changes shape slightly and the active site moulds itself around the substrate. This change in shape strains the bonds of the substrate, which helps to lower the activation energy. When the product leaves, the active site returns to its original shape and is ready for the next substrate.\n\nBoth hypotheses agree that specificity depends on the shape and charges of the active site matching the substrate. Induced fit is the more widely accepted description because it also explains how binding strains the substrate.",
+   "claim_ids": [
+    "CLM-8223-2.5.1-006",
+    "CLM-8223-2.5.1-007",
+    "CLM-8223-2.5.1-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.5.1-006": 1,
+    "CLM-8223-2.5.1-007": 1,
+    "CLM-8223-2.5.1-008": 1
+   },
+   "authored_hash": "92298b4ec1974818966a022c01d8104111d2d392540a27cfb8c3983645950e4d"
+  },
+  {
+   "block_id": "2.5.1-b8",
+   "block_type": "misconception",
+   "heading": "An error to avoid: enzymes are used up",
+   "text": "A common error is to think that an enzyme is used up in the reaction. In fact the enzyme is released unchanged when the product leaves, and its active site is free to bind another substrate. The test is to ask what happens to the enzyme when the product leaves.\n\nA related error is to think that the substrate concentration rises when a reaction starts. It falls from the start, because substrate is converted to product. The amount of enzyme-substrate complex stays steady while there is plenty of substrate, and falls when the substrate runs low.",
+   "claim_ids": [
+    "CLM-8223-2.5.1-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.5.1-009": 1
+   },
+   "authored_hash": "ad77bad19a9aaa7e46c040d643af482b0007faea1375de25bfb8b5e204ccbd58"
+  },
+  {
+   "block_id": "2.5.1-b9",
+   "block_type": "process",
+   "heading": "Investigating the reaction: a product forming",
+   "text": "The progress of a reaction can be followed by measuring a product forming. Catalase breaks down hydrogen peroxide: 2H₂O₂ → 2H₂O + O₂. The oxygen is a gas, so it is easy to collect.\n\nFirst, a fixed volume of hydrogen peroxide solution is placed in a flask. Next, a fixed mass of fresh liver or potato, cut into small pieces, is added and a timer is started at the same moment. The flask is connected to a gas syringe, or to an inverted measuring cylinder full of water, which collects the oxygen. The volume of oxygen is then read at regular intervals, such as every 30 seconds, until no more is made.\n\nThe volume of oxygen at each time gives the progress curve. To compare conditions fairly, the volume and concentration of hydrogen peroxide, the mass and size of the pieces, and the temperature must be kept the same.",
+   "claim_ids": [
+    "CLM-8223-2.5.1-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.5.1-010": 1
+   },
+   "authored_hash": "0f1bbeffb36cb67c4f5386d965cf3a9adcb3ec18d7e83fe79bc858c6acdf8d4c"
+  },
+  {
+   "block_id": "2.5.1-b10",
+   "block_type": "process",
+   "heading": "Investigating the reaction: a substrate disappearing",
+   "text": "The progress of a reaction can also be followed by measuring a substrate disappearing. Amylase breaks down starch, and starch gives a blue-black colour with iodine solution.\n\nStarch and amylase solutions are mixed in a water bath at a fixed temperature and a timer is started. Every 30 seconds a drop of the mixture is added to iodine solution on a spotting tile. While starch is present the drop is blue-black. When the drop stays orange-brown, which is the colour of the iodine itself, no starch is left. The time taken to reach that point measures the rate: a shorter time means a greater rate, because the same amount of starch has been broken down more quickly.",
+   "claim_ids": [
+    "CLM-8223-2.5.1-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.5.1-011": 1
+   },
+   "authored_hash": "655e98905e727ddb4bf6f8d4f0f1ef3455da5e171d1be082d30fce71d7d96ab3"
+  },
+  {
+   "block_id": "2.5.1-b11",
+   "block_type": "worked_application",
+   "heading": "Worked example: the rate from a progress curve",
+   "text": "These readings are ours, from a catalase investigation at a fixed temperature.\n\n| Time (s) | Volume of oxygen collected (cm³) |\n|---|---|\n| 0 | 0 |\n| 30 | 12 |\n| 60 | 20 |\n| 90 | 25 |\n| 120 | 28 |\n| 150 | 29 |\n| 180 | 29 |\n\nThe rate over an interval is the change in volume divided by the time taken. From 0 s to 30 s, 12 ÷ 30 = 0.4 cm³ s⁻¹. From 60 s to 90 s the volume formed is 25 − 20 = 5 cm³, so the rate is 5 ÷ 30 = 0.1667 cm³ s⁻¹, which is 0.17 cm³ s⁻¹ to two significant figures. The rate is greatest at the start and falls because the hydrogen peroxide is being used up, so fewer enzyme-substrate complexes form each second. The curve is level from 150 s to 180 s because all of the hydrogen peroxide has been converted. The enzyme has not been used up. It is still present, with nothing left to act on.",
+   "claim_ids": [
+    "CLM-8223-2.5.1-010",
+    "CLM-8223-2.5.1-012",
+    "CLM-8223-2.5.1-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.5.1-010": 1,
+    "CLM-8223-2.5.1-012": 1,
+    "CLM-8223-2.5.1-009": 1
+   },
+   "authored_hash": "b3d3858b4cad9cb72f2e4b0ebda3865c5fddb7024726a14e1ef730100f8ee962"
+  },
+  {
+   "block_id": "2.5.1-b12",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "The factors that change the rate of an enzyme-catalysed reaction, including temperature, pH, concentrations and inhibitors, are taught in 2.5.2 Factors that affect enzyme action. The amino acids of a protein, and the structures that give a protein its shape, are taught in 2.4.2 Proteins and water. Ribosomes and vesicles are met in 2.2 Cell structure.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "ae508d21030d22beea50fc12295afadfdd383ab0f2e878735c028612faaffc15"
+  }
+ ],
+ "word_count": 1596,
+ "qa_status": "review_required",
+ "notes": [
+  "Facts are our own statements of standard biology and are unverified."
+ ]
+}

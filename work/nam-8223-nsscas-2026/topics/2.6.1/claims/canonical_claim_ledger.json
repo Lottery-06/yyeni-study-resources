@@ -1,0 +1,363 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-2.6.1",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-2.6.1-001",
+   "objective_ids": [
+    "OBJ-8223-2.6.1-01"
+   ],
+   "text": "In a transverse section of a herbaceous dicotyledonous stem, the epidermis is the outer layer, beneath it lies the cortex, and the vascular bundles form a ring around a central pith; in each bundle the xylem lies towards the pith and the phloem towards the outside, with a thin band of dividing cells (cambium) between them.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.12, topic 2.6.1",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2021-P2-Q6b-i",
+     "locator": "label the phloem tissue on a vascular bundle cross-section",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored under standard v0.2.0-draft from the syllabus wording and our own knowledge of standard biology. Single source: no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard dicot stem layout. The syllabus names no specific tissues beyond 'various parts', so the list of parts is our judgement of what a labelling task needs."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.1-002",
+   "objective_ids": [
+    "OBJ-8223-2.6.1-01"
+   ],
+   "text": "In a transverse section of a herbaceous dicotyledonous root, the epidermis (with root hair cells) surrounds a wide cortex; inside the cortex are the endodermis and pericycle, and at the centre the xylem forms a star or X shape with phloem in the gaps between its arms; there is no pith.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.12, topic 2.6.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored under standard v0.2.0-draft from the syllabus wording and our own knowledge of standard biology. Single source: no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard dicot root layout. Root hairs are extensions of epidermal cells seen on the outside of young roots."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.1-003",
+   "objective_ids": [
+    "OBJ-8223-2.6.1-01"
+   ],
+   "text": "In a transverse section of a leaf, the upper epidermis (under a waxy cuticle) lies above the palisade mesophyll, then the spongy mesophyll with air spaces, then the lower epidermis, which contains the stomata with their guard cells; the vascular bundle in the midrib has xylem on the upper side and phloem on the lower side.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.12, topic 2.6.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored under standard v0.2.0-draft from the syllabus wording and our own knowledge of standard biology. Single source: no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard dicot leaf layout. Position of xylem above phloem in the midrib follows from the bundle's orientation in the leaf."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.1-004",
+   "objective_ids": [
+    "OBJ-8223-2.6.1-01"
+   ],
+   "text": "An eyepiece graticule is a small scale in the eyepiece whose divisions have no fixed size until calibrated against a stage micrometer at the objective in use; the width of each tissue is then read in graticule divisions, and the drawing keeps the same ratios between the widths so that the proportions are correct.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.12, topic 2.6.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored under standard v0.2.0-draft from the syllabus wording and our own knowledge of standard biology. Single source: no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. The syllabus asks for a graticule 'to show correct proportions'. Calibration at each objective lens is standard practice; the figure for one division changes when the objective changes."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.1-005",
+   "objective_ids": [
+    "OBJ-8223-2.6.1-02"
+   ],
+   "text": "A mature xylem vessel element is a long, hollow cell with no living contents, whose side walls are thickened with lignin in rings, spirals or a network leaving thin areas called pits; the end walls are broken down or perforated, so that vessel elements joined end to end form a continuous tube.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.12, topic 2.6.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored under standard v0.2.0-draft from the syllabus wording and our own knowledge of standard biology. Single source: no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Syllabus wording names 'xylem vessel elements'. Xylem also contains fibres and parenchyma, which the syllabus does not name and which are left out. The mature vessel element is dead; lignin is in the wall, not in the lumen."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.1-006",
+   "objective_ids": [
+    "OBJ-8223-2.6.1-02"
+   ],
+   "text": "A sieve tube element is a living cell with a cellulose wall, a thin lining of cytoplasm, few organelles and no nucleus when mature; sieve tube elements are joined end to end, and their end walls are perforated by pores to form sieve plates, so that the cytoplasm of neighbouring elements is continuous.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.12, topic 2.6.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored under standard v0.2.0-draft from the syllabus wording and our own knowledge of standard biology. Single source: no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard description. The cytoplasm is a thin layer pressed against the wall, leaving a wide central lumen for sap."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.1-007",
+   "objective_ids": [
+    "OBJ-8223-2.6.1-02"
+   ],
+   "text": "A companion cell lies beside each sieve tube element and has a nucleus, dense cytoplasm and many mitochondria; it is joined to its sieve tube element by plasmodesmata, which are narrow channels of cytoplasm through the cell wall.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.12, topic 2.6.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored under standard v0.2.0-draft from the syllabus wording and our own knowledge of standard biology. Single source: no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard description. Plasmodesmata are too fine to be resolved with a light microscope, so on a slide a companion cell is recognised by its size, position and dense cytoplasm."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.1-008",
+   "objective_ids": [
+    "OBJ-8223-2.6.1-03"
+   ],
+   "text": "The lignin in the walls of xylem vessel elements strengthens them so that they resist collapsing inwards when water is pulled up under tension, and makes the walls waterproof; the empty lumen and the lack of end walls give little resistance to the flow of water up the plant, and pits let water pass sideways between neighbouring vessels and to living cells.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.12, topic 2.6.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored under standard v0.2.0-draft from the syllabus wording and our own knowledge of standard biology. Single source: no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Condition kept in the text: collapse is resisted when water in the vessel is under tension (pulled up from above). The mechanism of the pull belongs to the transpiration topic and is not taught here."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.1-009",
+   "objective_ids": [
+    "OBJ-8223-2.6.1-03"
+   ],
+   "text": "Sieve tubes carry sucrose and amino acids in solution (phloem sap) from where they are made or released to where they are used or stored; the pores in the sieve plates and the wide, largely empty lumen let sap flow through, and the companion cells supply the ATP that the loading of sucrose into the sieve tube needs.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.12, topic 2.6.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored under standard v0.2.0-draft from the syllabus wording and our own knowledge of standard biology. Single source: no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. The direction of flow (from source to sink) and the loading process belong to the translocation topic; here only the structural links are given. The ATP supply by the companion cell's mitochondria is standard biology; we state it as the reason for their number."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.1-010",
+   "objective_ids": [
+    "OBJ-8223-2.6.1-03"
+   ],
+   "text": "Xylem vessels are made of cells, not of lignin: lignin is a substance in the walls of the vessel elements, and the cells have died, leaving an empty lumen with no cytoplasm or organelles, which is why the resistance to the flow of water is low; saying only that the xylem has more space is not an explanation.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.12, topic 2.6.1",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2025-P2-Q3b",
+     "locator": "examiner statement behind misconception MC-8223-2.6.1-01",
+     "support_type": "correction"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored under standard v0.2.0-draft from the syllabus wording and our own knowledge of standard biology. Single source: no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard biology. The syllabus line asks that structure be related to function, so a bare statement of 'more space' or 'dead cells' is incomplete: the link is empty lumen, therefore low resistance. We keep 'dead at maturity' because the biology supports it."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.1-011",
+   "objective_ids": [
+    "OBJ-8223-2.6.1-04"
+   ],
+   "text": "On a prepared slide in longitudinal section, a xylem vessel appears as a long tube with an empty lumen and thick walls marked by rings, spirals or pits, while a sieve tube appears as a column of thin-walled cells with cross walls (sieve plates) and a narrower companion cell with a nucleus and dense cytoplasm beside it; in transverse section the vessels have wide, empty, thick-walled outlines and the sieve tube elements are wide and thin-walled beside smaller companion cells.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.12, topic 2.6.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored under standard v0.2.0-draft from the syllabus wording and our own knowledge of standard biology. Single source: no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Stain colours vary with the stain used, so recognition rests on shape, wall thickness and contents, not colour. Sieve plates show clearly only in well-stained sections."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.6.1-012",
+   "objective_ids": [
+    "OBJ-8223-2.6.1-04"
+   ],
+   "text": "A drawing from a slide uses sharp single lines, no shading and no colour; it is large enough to show the structures, each label is written outside the drawing at the end of a ruled line that touches the part, and a plan drawing shows tissues as outlined areas without drawing individual cells.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.12, topic 2.6.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored under standard v0.2.0-draft from the syllabus wording and our own knowledge of standard biology. Single source: no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard drawing conventions for a biology practical. The syllabus asks to 'draw and label'; the details of a good drawing are our own statement of common practice."
+   ]
+  }
+ ]
+}

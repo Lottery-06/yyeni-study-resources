@@ -1,0 +1,1007 @@
+{
+ "topic_number": "2.5.2",
+ "topic_title": "Factors that affect enzyme action",
+ "topic": "2.5.2 Factors that affect enzyme action",
+ "qualification": "Namibia Senior Secondary Certificate Advanced Subsidiary level (NSSCAS) Biology 8223 (syllabus vNIED 2020, examined 2021-2025)",
+ "item_count": 22,
+ "items": [
+  {
+   "item_id": "ITEM-8223-2.5.2-001-PROC",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.2-001",
+    "CLM-8223-2.5.2-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "prompt": "Describe how you would investigate the effect of temperature on the rate at which amylase digests starch, using iodine solution to show when starch is gone.",
+   "canonical_answer": "First, set up water baths at five temperatures, for example 20, 30, 40, 50 and 60 °C, and place a tube of starch solution and a tube of amylase solution in each for about five minutes so that both reach the temperature. Then mix the amylase into the starch, start a stopwatch, and at fixed intervals put a drop of the mixture into iodine solution on a spotting tile. Finally record the time at which the iodine stops turning blue-black, work out the rate as 1 ÷ time, and compare the rates at the different temperatures, keeping the volumes and concentrations the same in every tube.",
+   "marking_guidance": [
+    "3 marks, one for each step in the correct order: the starch and enzyme brought separately to each temperature before mixing; the mixture sampled at fixed intervals into iodine and timed until no blue-black colour remains; the rate worked out as 1 ÷ time (the result) with the other factors kept constant.",
+    "The sequence is the point: mixing before the tubes reach temperature earns no mark. Temperatures well above the optimum, such as 60 °C, show the permanent loss of activity beyond the optimum. More than three creditworthy points are available (repeats, a control tube, a buffer); the tariff is 3."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.5.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.2-001": 1,
+    "CLM-8223-2.5.2-004": 1
+   },
+   "authored_hash": "6f74c4cdf83323ba5a250d0184631f7da914ac89656f9a4be0b15ed4057bfc48",
+   "objective_titles": [
+    "investigate and explain the factors that affect the rate of enzyme catalysed reactions - temperature, - pH (using buffer solutions) - enzyme concentration - substrate concentration - inhibitor concentration)"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.5.2-002-WHY",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.2-002",
+    "CLM-8223-2.5.2-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Explain why a buffer solution is added to each tube in an investigation of the effect of pH on the rate of an enzyme-catalysed reaction.",
+   "canonical_answer": "The reaction can change the pH of the mixture as it proceeds. The buffer resists that change, so the pH stays at the value being tested. If it drifted to a pH far from the optimum, the rate would change for a reason that is not the pH chosen, so the results would not show the effect of that pH.",
+   "marking_guidance": [
+    "2 marks: the reason for the buffer, that it keeps the pH constant at each tested value during the reaction (1); because otherwise the pH could drift, for example towards a pH far from the optimum, and the rate would not be due to the pH being tested (1).",
+    "The purpose is to make pH the one factor that differs between tubes. An answer that says a buffer speeds up the reaction or supplies substrate gives the wrong reason and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.5.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.2-002": 1,
+    "CLM-8223-2.5.2-004": 1
+   },
+   "authored_hash": "a1b60198e73c1191ef7c044cade0c68303d57005b53f4a25bcda4c4c6274e57d",
+   "objective_titles": [
+    "investigate and explain the factors that affect the rate of enzyme catalysed reactions - temperature, - pH (using buffer solutions) - enzyme concentration - substrate concentration - inhibitor concentration)"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.5.2-010-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.2-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner looks at a graph of rate against temperature for a liver enzyme, sees the peak at 38 °C, and says: 'At the optimum temperature the reaction stops, because the line turns round there.' Explain the error.",
+   "canonical_answer": "The error is a confusion of the optimum with the point where the enzyme stops working. In fact the optimum is the temperature at which the rate is highest, so the enzyme is at its fastest there. The rate rises towards it and falls beyond it. The test is to ask what happens to the rate just below and just above the optimum: just below it is lower and rising, just above it is falling, so the peak is the highest rate and not zero.",
+   "marking_guidance": [
+    "2 marks: the error named, that the optimum is taken as the point where the reaction stops (1); the correct idea, that the optimum is the point of the fastest rate and the rate falls on either side, or the test of the rate just below and just above it (1).",
+    "The card is a discrimination between a peak and a stop, not a repeat of the definition of optimum."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.5.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.2-001": 1
+   },
+   "authored_hash": "7453b0a2d78c7fbef3b51ce1f1f06e5abe2c79e1f39a6cdfcc9422bc6b846e4d",
+   "objective_titles": [
+    "investigate and explain the factors that affect the rate of enzyme catalysed reactions - temperature, - pH (using buffer solutions) - enzyme concentration - substrate concentration - inhibitor concentration)"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.5.2-011-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.2-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "An amylase has an optimum pH of 7.0. A learner sees that its rate falls when the pH is changed to 6.5 and says that the pH change has denatured the enzyme. Explain the error.",
+   "canonical_answer": "The error is a mistake about how far and how permanently the enzyme has changed. In fact a small change close to the optimum alters the charges near the active site and changes its shape reversibly, so the rate falls but the enzyme can recover if the pH returns to 7.0. Denaturation is the permanent loss of the tertiary structure, and it needs a pH far from the optimum. The test is to ask whether the change is permanent and how far from the optimum the pH is: 0.5 of a pH unit away and reversible is not denaturation.",
+   "marking_guidance": [
+    "2 marks: the error named, that any pH change is called denaturation (1); the correct idea, that near the optimum the change is reversible and denaturation is permanent and needs conditions far from the optimum, or the test of permanence and distance (1).",
+    "The card discriminates between a reversible change to the active site and permanent denaturation."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.5.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.2-002": 1
+   },
+   "authored_hash": "66e220678a31d0f625393733dc5372053beed6bc7a0328287d68deee72f219d1",
+   "objective_titles": [
+    "investigate and explain the factors that affect the rate of enzyme catalysed reactions - temperature, - pH (using buffer solutions) - enzyme concentration - substrate concentration - inhibitor concentration)"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.5.2-012-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.2-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "The optimum temperature of a human digestive enzyme is about 37 °C. A learner is told that a tube of it is warmed from 25 °C to 35 °C and says that this denatures the enzyme. Explain the error.",
+   "canonical_answer": "The error is a confusion of any rise in temperature with a rise that denatures. In fact 35 °C is below the optimum of about 37 °C, so the rise gives the molecules more energy and the rate increases. Denaturation needs temperatures well above the optimum, when the bonds holding the tertiary structure break. The test is to ask whether 35 °C is above or below this enzyme's optimum: it is below, so the enzyme is not denatured.",
+   "marking_guidance": [
+    "2 marks: the error named, that a rise to 35 °C is said to denature the enzyme (1); the correct idea, that 35 °C is below the optimum so the rate rises and denaturation needs temperatures well above it, or the test of above or below the optimum (1).",
+    "The condition travels with the answer: denaturation is tied to being well above the optimum."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.5.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.2-001": 1
+   },
+   "authored_hash": "9f72719b7d788bd3093c64ad0253c1faa093c053a6b97de0dc602925e90a5731",
+   "objective_titles": [
+    "investigate and explain the factors that affect the rate of enzyme catalysed reactions - temperature, - pH (using buffer solutions) - enzyme concentration - substrate concentration - inhibitor concentration)"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.5.2-013-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.2-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Two tubes each hold 10 cm³ of the same hydrogen peroxide solution and the same mass of fresh liver, one at 20 °C and one at 30 °C, both below the optimum for liver catalase. They are left until no more oxygen is released. A learner says the warmer tube must release more oxygen in total. Explain the error.",
+   "canonical_answer": "The error is a confusion of the speed of a reaction with the amount of product. In fact the total oxygen depends on the amount of hydrogen peroxide, which is the same in both tubes, so both release the same total. Temperature changes only how fast the oxygen is released, so the tube at 20 °C takes longer. Neither tube is above the optimum, where denaturation would begin to limit the total. The test is to ask what limits the total product: the temperature or the starting amount of substrate. The substrate limits it.",
+   "marking_guidance": [
+    "2 marks: the error named, that the higher temperature is said to give more product in total (1); the correct idea, that the total depends on the amount of substrate and temperature changes only the rate, or the test of what limits the total (1).",
+    "The card is a discrimination between rate and total yield. Both temperatures are below the optimum, so neither is near the well-above-optimum range that denatures the enzyme, and the reaction can finish in both tubes."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.5.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.2-003": 1
+   },
+   "authored_hash": "8d67350b5dd5721d138d48b697e1b076dbef3d176e97a4d7abd8db4641905b75",
+   "objective_titles": [
+    "investigate and explain the factors that affect the rate of enzyme catalysed reactions - temperature, - pH (using buffer solutions) - enzyme concentration - substrate concentration - inhibitor concentration)"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.5.2-016-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.2-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A student measures the mass of product formed per minute by an enzyme at six temperatures. The readings are: 10 °C, 1.0 mg min⁻¹; 20 °C, 2.1 mg min⁻¹; 30 °C, 4.0 mg min⁻¹; 40 °C, 7.6 mg min⁻¹; 50 °C, 3.0 mg min⁻¹; 60 °C, 0 mg min⁻¹. Describe what the data show about the effect of temperature on the rate of the reaction.",
+   "canonical_answer": "The rate rises from 1.0 mg min⁻¹ at 10 °C to a highest value of 7.6 mg min⁻¹ at 40 °C, so the optimum is about 40 °C. Above that the rate falls to 3.0 mg min⁻¹ at 50 °C and to zero at 60 °C, which shows that the enzyme is permanently denatured well above the optimum.",
+   "marking_guidance": [
+    "2 marks, each read from the data with values: the rise to a peak (1.0 to 7.6 mg min⁻¹ between 10 and 40 °C) with the optimum at about 40 °C (1); the fall beyond the optimum to 3.0 and then 0 mg min⁻¹, which means the enzyme has lost its shape permanently by 60 °C (1).",
+    "A description that gives no values from the table, or says the rate rises 'because of energy' without reading the table, earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.5.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.2-001": 1
+   },
+   "authored_hash": "ed16530736d32acfe4dfc9cf9ae81ee0e6803ab7bfe03f35027c024a8a6c7496",
+   "objective_titles": [
+    "investigate and explain the factors that affect the rate of enzyme catalysed reactions - temperature, - pH (using buffer solutions) - enzyme concentration - substrate concentration - inhibitor concentration)"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.5.2-019-APP",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.2-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A dairy in Windhoek tests lactase at a fixed temperature with excess lactose. The rate is 5 µmol min⁻¹ with 1 unit of enzyme and 10 µmol min⁻¹ with 2 units, but only 12 µmol min⁻¹ with 4 units and 12 µmol min⁻¹ with 8 units. Explain why more enzyme gave a smaller rise in rate in this case.",
+   "canonical_answer": "From 1 to 2 units the rate doubled, because there was more enzyme to use the excess substrate. With 4 and 8 units the lactose became the limiting factor: there was not enough substrate to occupy the extra active sites, so the rate could not rise any more than the supply of substrate allowed, and it stayed at 12 µmol min⁻¹.",
+   "marking_guidance": [
+    "2 marks tied to the given data: the rate no longer rises in proportion because substrate has become limiting, so extra active sites find no substrate (1); the rate is 12 µmol min⁻¹ at both 4 and 8 units because the same substrate supply is limiting, so more enzyme has no further effect (1).",
+    "An answer that gives only 'the enzyme is saturated' has the limit the wrong way round: at fixed substrate it is the enzyme that is in excess, not saturated."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.5.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.2-003": 1
+   },
+   "authored_hash": "a44cc42d7abea2559ac2e5a552f17fe25e89c8e901927b7728b6d42833b95e9c",
+   "objective_titles": [
+    "investigate and explain the factors that affect the rate of enzyme catalysed reactions - temperature, - pH (using buffer solutions) - enzyme concentration - substrate concentration - inhibitor concentration)"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.5.2-003-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.2-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State what is meant by the Michaelis-Menten constant, Km.",
+   "canonical_answer": "Km is the substrate concentration at which the rate of the enzyme-catalysed reaction is half of its maximum rate, Vmax.",
+   "marking_guidance": [
+    "1 mark: the key words, substrate concentration at which the rate is half Vmax. The definition is a concentration; an answer that gives Km as half the maximum rate has given a rate and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.5.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.2-006": 1
+   },
+   "authored_hash": "e6e58c94871e073eed075e1e09e88ae6d2efd33b3a0e9339f142f2d99c21d166",
+   "objective_titles": [
+    "explain how the maximum rate of reaction (Vmax) is used to derive the Michaelis-Menten constant (Km) which is used to compare the affinity of different enzymes for their substrates"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.5.2-004-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.2-005",
+    "CLM-8223-2.5.2-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Explain how the maximum rate of reaction, Vmax, is used to find Km from a graph of rate against substrate concentration.",
+   "canonical_answer": "Vmax is the plateau of the curve, reached when all the active sites are occupied. It is halved to give ½ Vmax, and a line is read across from ½ Vmax to the curve and then down to the substrate concentration axis. The value there is Km, because Km is the substrate concentration at which the rate is half of Vmax.",
+   "marking_guidance": [
+    "2 marks: how Vmax is read, from the plateau where all active sites are occupied, and then halved (1); how the halved value leads to Km, by reading across to the curve and down to the substrate concentration axis, because Km is the concentration at ½ Vmax (1).",
+    "An answer that reads Km from the vertical axis has confused a concentration with a rate."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.5.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.2-005": 1,
+    "CLM-8223-2.5.2-006": 1
+   },
+   "authored_hash": "2c27f52c3d5f12fc578ae0f630423b3a5f64b0de8f86ed49402f93a53c62ef70",
+   "objective_titles": [
+    "explain how the maximum rate of reaction (Vmax) is used to derive the Michaelis-Menten constant (Km) which is used to compare the affinity of different enzymes for their substrates"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.5.2-005-APP",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.2-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Two enzymes, P and Q, act on the same substrate at the same temperature. Enzyme P has a Km of 0.4 mmol dm⁻³ and enzyme Q has a Km of 3.0 mmol dm⁻³. Explain which enzyme has the higher affinity for the substrate.",
+   "canonical_answer": "Enzyme P has the higher affinity. Its Km is lower, so it reaches half of its maximum rate at a substrate concentration of 0.4 mmol dm⁻³, whereas Q needs 3.0 mmol dm⁻³ to reach half of its maximum rate, which is 3.0 ÷ 0.4 = 7.5 times as much. An enzyme that is half-saturated at low substrate concentration binds its substrate readily.",
+   "marking_guidance": [
+    "2 marks tied to the given values: P named, because its Km is lower (1); the reason, that half of Vmax is reached at a lower substrate concentration, 0.4 mmol dm⁻³ against 3.0 mmol dm⁻³, so it binds the substrate more readily (1).",
+    "An answer that picks Q because its Km is larger has taken Km as a direct measure of affinity instead of an inverse one."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.5.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.2-007": 1
+   },
+   "authored_hash": "a29c9f6933c7a9799620c4ea0b8a60688032b07e46ef7bf82617676c75d11fcb",
+   "objective_titles": [
+    "explain how the maximum rate of reaction (Vmax) is used to derive the Michaelis-Menten constant (Km) which is used to compare the affinity of different enzymes for their substrates"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.5.2-015-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.2-005",
+    "CLM-8223-2.5.2-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "An enzyme was tested at eight substrate concentrations. The rates, in µmol min⁻¹, were 12, 21, 33, 46, 59, 70, 77 and 80 at 0.5, 1, 2, 4, 8, 16, 32 and 64 mmol dm⁻³ of substrate respectively. Describe how the data show that Vmax is about 80 µmol min⁻¹, and use them to state Km.",
+   "canonical_answer": "The increases get smaller as the substrate concentration rises, from 12 µmol min⁻¹ at 0.5 mmol dm⁻³ to 77 and then 80 µmol min⁻¹ at 32 and 64 mmol dm⁻³, so the rate is levelling off at about 80 µmol min⁻¹, which is Vmax. Half of Vmax is 80 ÷ 2 = 40 µmol min⁻¹, which lies between 33 µmol min⁻¹ at 2 mmol dm⁻³ and 46 µmol min⁻¹ at 4 mmol dm⁻³, so Km is between 2 and 4 mmol dm⁻³, about 3 mmol dm⁻³.",
+   "marking_guidance": [
+    "2 marks, each read from the table: the plateau, with values showing the rate rising by only 3 µmol min⁻¹ between 32 and 64 mmol dm⁻³, so Vmax is about 80 µmol min⁻¹ (1); ½ Vmax worked out as 40 µmol min⁻¹ and read against the table between 2 and 4 mmol dm⁻³, so Km is about 3 mmol dm⁻³ with its unit (1).",
+    "The reading means the table gives a range for Km, not an exact value; an answer in µmol min⁻¹ gives a rate, not Km."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.5.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.2-005": 1,
+    "CLM-8223-2.5.2-006": 1
+   },
+   "authored_hash": "741f18538338340700769be23f454d5c2d0710c51390213f7ff6d89ad8b3eb46",
+   "objective_titles": [
+    "explain how the maximum rate of reaction (Vmax) is used to derive the Michaelis-Menten constant (Km) which is used to compare the affinity of different enzymes for their substrates"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.5.2-006-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.2-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by a competitive inhibitor of an enzyme.",
+   "canonical_answer": "A competitive inhibitor is a substance with a shape similar to the substrate that binds reversibly to the active site of the enzyme, so it competes with the substrate for the active site; more substrate overcomes it.",
+   "marking_guidance": [
+    "1 mark: the key words, similar shape to the substrate and binds to the active site (reversibly). A substance that binds elsewhere on the enzyme describes a non-competitive inhibitor and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.5.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.2-008": 1
+   },
+   "authored_hash": "be58f68092134ce7e9c64129a921ef81e556795657191014d159b7d2a3def4e8",
+   "objective_titles": [
+    "explain the effects of reversible inhibitors both competitive and non- competitive,on the enzyme activity"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.5.2-007-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.2-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Explain how a non-competitive inhibitor lowers the rate of an enzyme-catalysed reaction.",
+   "canonical_answer": "A non-competitive inhibitor binds reversibly at a site on the enzyme that is not the active site. This changes the shape of the enzyme, including the active site, so the substrate fits less well or the reaction runs more slowly. Because the inhibitor is not competing for the active site, a higher substrate concentration cannot remove the effect, so the maximum rate is lowered.",
+   "marking_guidance": [
+    "2 marks: how it acts, binding at a site other than the active site and changing the shape of the active site, which causes less binding or catalysis (1); why the rate stays lower, because it does not compete with the substrate so more substrate does not restore the maximum rate (1).",
+    "An answer that has the inhibitor binding at the active site describes the competitive kind."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.5.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.2-009": 1
+   },
+   "authored_hash": "c654a3fc532585e0bac7064607712d5c2efe30ca4d886bb3688f460297c8a78f",
+   "objective_titles": [
+    "explain the effects of reversible inhibitors both competitive and non- competitive,on the enzyme activity"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.5.2-014-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.2-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A graph shows an enzyme with an inhibitor present levelling off at 60 µmol min⁻¹, while the same enzyme without it levels off at 100 µmol min⁻¹ at high substrate concentrations. A learner says the inhibitor is competitive because it lowers the rate, and that more substrate will bring the rate back to 100 µmol min⁻¹. Explain the error.",
+   "canonical_answer": "The error is a confusion of any lowering of the rate with competitive inhibition. In fact a competitive inhibitor binds at the active site and can be overcome by more substrate, so the inhibited curve would rise to the same maximum rate of 100 µmol min⁻¹. Here the inhibited curve levels off at a lower maximum, 60 µmol min⁻¹, which points to a non-competitive inhibitor that binds away from the active site. The test is to ask whether adding more substrate can restore the original maximum rate: here it cannot.",
+   "marking_guidance": [
+    "2 marks: the error named, that a lower rate is taken as competitive inhibition and more substrate is expected to restore 100 µmol min⁻¹ (1); the correct idea, that a lower maximum rate points to non-competitive inhibition and the test of whether more substrate restores the original maximum rate (1).",
+    "The card discriminates between the two inhibitors by the maximum rate; it is not a repeat of the definition of either."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.5.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.2-010": 1
+   },
+   "authored_hash": "4be495a893269a6ba67deca6e026a538b41d50cabc9fb6753206715dd082bfb7",
+   "objective_titles": [
+    "explain the effects of reversible inhibitors both competitive and non- competitive,on the enzyme activity"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.5.2-017-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.2-008",
+    "CLM-8223-2.5.2-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "The rate of an enzyme is measured with and without an inhibitor at four substrate concentrations. Without the inhibitor the rates are 33, 67, 89 and 97 µmol min⁻¹ at 1, 4, 16 and 64 mmol dm⁻³ of substrate. With the inhibitor the rates are 14, 40, 73 and 91 µmol min⁻¹. Describe what the data show about how the inhibitor acts.",
+   "canonical_answer": "The rate with the inhibitor is lower at every concentration, but the gap gets smaller as the substrate concentration rises, from 33 − 14 = 19 µmol min⁻¹ at 1 mmol dm⁻³ to 97 − 91 = 6 µmol min⁻¹ at 64 mmol dm⁻³. The inhibited rate is approaching the same maximum, so more substrate is overcoming the inhibitor, which shows that it is competitive and binds at the active site.",
+   "marking_guidance": [
+    "2 marks, each read from the data with values: the gap between the two rates narrows, from 19 µmol min⁻¹ to 6 µmol min⁻¹ (1); this means the rate is heading to the same maximum, so more substrate is overcoming the inhibitor and it is competitive, acting at the active site (1).",
+    "A description that gives no values from the table earns no mark. The data are ours and invented."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.5.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.2-008": 1,
+    "CLM-8223-2.5.2-010": 1
+   },
+   "authored_hash": "d0549879c6b8cd0ab0037f89cfae2e2adfa3fc40428bd9deaebb8b4d5bc104d9",
+   "objective_titles": [
+    "explain the effects of reversible inhibitors both competitive and non- competitive,on the enzyme activity"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.5.2-020-APP",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.2-009",
+    "CLM-8223-2.5.2-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A researcher in Swakopmund finds that, with compound Z present, an enzyme levels off at 60 µmol min⁻¹ even at very high substrate concentrations, whereas without Z it levels off at 100 µmol min⁻¹. Compound Z does not resemble the substrate. Explain what kind of reversible inhibitor Z is.",
+   "canonical_answer": "Z is a non-competitive inhibitor. The inhibited enzyme cannot reach the original maximum of 100 µmol min⁻¹ however much substrate is added, so Z is not being overcome by more substrate, as a competitive inhibitor would be at the active site. Because Z does not resemble the substrate, it probably binds at a site away from the active site and changes the shape of the active site, so some enzyme is out of action at any substrate concentration.",
+   "marking_guidance": [
+    "2 marks tied to the given information: non-competitive, because the maximum rate stays lower, at 60 µmol min⁻¹, whatever the substrate concentration so more substrate does not overcome it (1); because Z does not resemble the substrate it binds away from the active site and changes the active site's shape (1).",
+    "An answer naming competitive inhibition has the maximum rate wrong: a competitive inhibitor allows the original maximum to be reached."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.5.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.2-009": 1,
+    "CLM-8223-2.5.2-010": 1
+   },
+   "authored_hash": "cfebae914da27b67f1b4e4477bfe9db4b85602f36eaba5b60cce99319d9734b8",
+   "objective_titles": [
+    "explain the effects of reversible inhibitors both competitive and non- competitive,on the enzyme activity"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.5.2-008-PROC",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.2-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "prompt": "Describe how an enzyme is immobilised in alginate beads.",
+   "canonical_answer": "First, mix the enzyme with sodium alginate solution. Then draw the mixture into a syringe and drip it into calcium chloride solution, where each drop sets into a bead because calcium ions link the alginate chains. Finally, remove and rinse the beads, which now hold the enzyme trapped inside the gel, ready to add to the substrate.",
+   "marking_guidance": [
+    "3 marks, one for each step in the correct order: the enzyme mixed with sodium alginate; the mixture dripped into calcium chloride solution, where the beads form; the beads collected and rinsed, the result being enzyme trapped in the gel.",
+    "The sequence is the point: dripping alginate without the enzyme gives beads with nothing inside. More than three creditworthy points are available (a syringe, a constant height, a sieve); the tariff is 3."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.5.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.2-011": 1
+   },
+   "authored_hash": "c50ce81c5c72d15e6271344ccd2abcae7040fa0de2bb2397c251d39424735c88",
+   "objective_titles": [
+    "investigate and explain the effect of immobilising an enzyme in alginate on its activity as compared with its activity when free in solution"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.5.2-009-WHY",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.2-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Explain why the initial rate of reaction with enzyme in alginate beads is usually lower than with the same amount of free enzyme in solution.",
+   "canonical_answer": "The reason is that the substrate must diffuse through the gel to reach the enzyme trapped inside the bead, and the product must diffuse out again. This takes time, so fewer enzyme-substrate complexes form each second at the start than when the free enzyme meets the substrate directly.",
+   "marking_guidance": [
+    "2 marks: the reason, that substrate must diffuse through the gel to reach the trapped enzyme (1); because of this, fewer enzyme-substrate complexes form per second, so the rate is lower (1).",
+    "An answer that says the gel damages the enzyme gives the wrong reason."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.5.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.2-012": 1
+   },
+   "authored_hash": "998096721510739777a1992809e5124b03932804f615c9946739ece67ad0ed3b",
+   "objective_titles": [
+    "investigate and explain the effect of immobilising an enzyme in alginate on its activity as compared with its activity when free in solution"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.5.2-018-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.2-012",
+    "CLM-8223-2.5.2-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "In batch 1, free lactase forms glucose at 90 µmol min⁻¹ and lactase in alginate beads forms it at 62 µmol min⁻¹. The free enzyme cannot be recovered from the milk. The same beads are strained out and reused in four more batches, giving 60, 59, 57 and 55 µmol min⁻¹. Describe what the data show about immobilised and free enzyme.",
+   "canonical_answer": "In batch 1 the beads give a lower rate than the free enzyme, 62 against 90 µmol min⁻¹, which is 28 µmol min⁻¹ lower. The beads can be strained out and reused, and in batch 5 they still give 55 µmol min⁻¹, which is 55 ÷ 62 = 0.887, about 89%, of their batch 1 rate, so the immobilised enzyme keeps most of its activity over repeated use.",
+   "marking_guidance": [
+    "2 marks, each read from the data with values: the beads give a lower first rate than the free enzyme, 62 against 90 µmol min⁻¹ (1); this means the beads can be reused and keep most of their activity, 55 µmol min⁻¹ in batch 5, about 89% of batch 1 (1).",
+    "A description without values from the data earns no mark. The data are ours and invented."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.5.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.2-012": 1,
+    "CLM-8223-2.5.2-013": 1
+   },
+   "authored_hash": "a6ebc9073b3e2330d2a80066dcfeca9ca4dddb4c2d19a1d8e08d142ee9675c65",
+   "objective_titles": [
+    "investigate and explain the effect of immobilising an enzyme in alginate on its activity as compared with its activity when free in solution"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.5.2-P01",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-01",
+    "OBJ-8223-2.5.2-02",
+    "OBJ-8223-2.5.2-03",
+    "OBJ-8223-2.5.2-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.2-001",
+    "CLM-8223-2.5.2-002",
+    "CLM-8223-2.5.2-003",
+    "CLM-8223-2.5.2-004",
+    "CLM-8223-2.5.2-005",
+    "CLM-8223-2.5.2-006",
+    "CLM-8223-2.5.2-007",
+    "CLM-8223-2.5.2-008",
+    "CLM-8223-2.5.2-009",
+    "CLM-8223-2.5.2-010",
+    "CLM-8223-2.5.2-011",
+    "CLM-8223-2.5.2-012",
+    "CLM-8223-2.5.2-013"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": null,
+   "mark_tariff": 12,
+   "difficulty": 3,
+   "prompt": "Twelve questions. Choose one option for each.\n\n1. Which statement explains why the rate of an enzyme-catalysed reaction rises as the temperature is raised towards the optimum?\nA  The enzyme is denatured more quickly.\nB  The enzyme concentration increases.\nC  Molecules collide more often and more of the collisions have enough energy to react.\nD  The substrate concentration falls.\n\n2. What is the purpose of a buffer solution in an investigation of pH?\nA  To supply more substrate.\nB  To keep the pH constant at each value tested.\nC  To stop the reaction at the end.\nD  To raise the maximum rate.\n\n3. An enzyme has an optimum pH of 7.0. Its rate falls when the pH is changed to 6.5. Which statement is the best explanation?\nA  The charges near the active site change, so its shape changes reversibly.\nB  The enzyme has been permanently denatured.\nC  The substrate has been denatured.\nD  The enzyme molecules have been used up.\n\n4. On a graph of rate against substrate concentration at a fixed enzyme concentration, the curve is flat at high concentrations. What limits the rate on the flat part?\nA  The substrate concentration, which is still rising.\nB  The mass of product formed.\nC  The pH of the solution.\nD  The number of active sites, all of which are occupied.\n\n5. Two tubes each contain 5 cm³ of the same hydrogen peroxide solution and the same mass of fresh liver, at 20 °C and 30 °C, both below the optimum. Both are left until the reaction has finished. Which statement about the total volume of oxygen is correct?\nA  More at 30 °C, because the enzyme works faster.\nB  More at 20 °C, because the slower reaction makes the enzyme last longer.\nC  The same at both, because the amount of substrate is the same.\nD  None at 20 °C, because it is too cold for the enzyme to work.\n\n6. With excess substrate, the rate is 8 µmol min⁻¹ with 2 units of enzyme. What rate is expected with 4 units?\nA  4 µmol min⁻¹\nB  16 µmol min⁻¹\nC  12 µmol min⁻¹\nD  8 µmol min⁻¹\n\n7. What is Km?\nA  The maximum rate of the reaction.\nB  Half of the maximum rate.\nC  The substrate concentration at which the rate reaches the maximum.\nD  The substrate concentration at which the rate is half of the maximum.\n\n8. Enzyme X has a Km of 0.5 mmol dm⁻³ and enzyme Y has a Km of 5.0 mmol dm⁻³ for the same substrate. Which statement is correct?\nA  X has the higher affinity, because it reaches half of its maximum rate at a lower substrate concentration.\nB  Y has the higher affinity, because its Km is larger.\nC  The affinities are the same, because Km depends only on Vmax.\nD  X must have the higher maximum rate.\n\n9. The rate of an enzyme levels off at 80 µmol min⁻¹ and is 40 µmol min⁻¹ when the substrate concentration is 3 mmol dm⁻³. What is Km?\nA  40 µmol min⁻¹\nB  80 µmol min⁻¹\nC  3 mmol dm⁻³\nD  6 mmol dm⁻³\n\n10. Which description fits a competitive inhibitor of an enzyme?\nA  It binds away from the active site and changes its shape.\nB  It has a shape like the substrate and binds reversibly to the active site.\nC  It binds permanently and destroys the enzyme.\nD  It raises the maximum rate at high substrate concentrations.\n\n11. With inhibitor X, an enzyme levels off at 60 µmol min⁻¹ even at very high substrate concentrations. Without X it levels off at 100 µmol min⁻¹. Which conclusion is correct?\nA  X is competitive, because the substrate and X compete for the active site.\nB  X is competitive, because the rate is lower.\nC  X is irreversible, because the rate is lower.\nD  X is non-competitive, because more substrate does not restore the original maximum rate.\n\n12. Which is an advantage of an enzyme immobilised in alginate beads, compared with the free enzyme?\nA  The beads can be separated from the product and reused.\nB  The initial rate is higher.\nC  The substrate reaches the enzyme more quickly.\nD  Each enzyme molecule has extra active sites.",
+   "canonical_answer": "Key: 1 C, 2 B, 3 A, 4 D, 5 C, 6 B, 7 D, 8 A, 9 C, 10 B, 11 D, 12 A.\n1. Collisions are more frequent and more energetic, so more complexes form (C). A is the error of applying denaturation to temperatures below the optimum, since denaturation is well above it; B and D name quantities that a rise in temperature does not change.\n2. A buffer resists change in pH (B). A confuses a buffer with a source of substrate; C confuses it with a stopping reagent; D gives it a role it does not have, since the maximum rate is set by the enzyme and the conditions.\n3. Near the optimum the change is small and reversible (A). B is the register error, since permanent denaturation needs a pH far from the optimum; C wrongly applies denaturation to the substrate; D confuses an enzyme with a reactant, as enzymes are not used up.\n4. On the plateau all active sites are occupied, so enzyme concentration limits the rate (D). A is the error of thinking more substrate still helps; B and C name factors with no basis in the data given.\n5. The substrate limits the total (C). A is the error in the misconception register, confusing rate with total product; B invents a longer-lasting enzyme; D treats a temperature below the optimum as denaturing or inactivating, when the enzyme still works there, only more slowly.\n6. The rate is proportional to enzyme concentration with excess substrate, so 8 × 2 = 16 (B). A halves the rate instead of doubling it; C adds 4 instead of multiplying; D assumes extra enzyme has no effect.\n7. Km is the concentration at ½ Vmax (D). A is Vmax; B is ½ Vmax, a rate and not a concentration; C confuses Km with the concentration at saturation.\n8. A lower Km means higher affinity (A). B reads Km as a direct measure of affinity; C is wrong because Km does not depend on the amount of enzyme and is not fixed by Vmax; D confuses Km with Vmax, which the Km values cannot tell us.\n9. ½ Vmax = 80 ÷ 2 = 40 µmol min⁻¹, and the concentration at that rate is 3 mmol dm⁻³ (C). A gives ½ Vmax, a rate; B gives Vmax; D doubles the concentration for no reason.\n10. A competitive inhibitor resembles the substrate and binds at the active site (B). A describes the non-competitive kind; C describes an irreversible effect, but these inhibitors are reversible; D has the effect backwards, since an inhibitor never raises the maximum rate.\n11. A lower maximum rate points to a non-competitive inhibitor (D). A and B are the error in the misconception register, taking any lowering of the rate as competitive inhibition, when a competitive inhibitor allows the same maximum to be reached; C confuses a lower rate with irreversibility, which the data cannot show.\n12. Beads can be strained out and reused (A). B and C are the opposite of the usual effect, since diffusion through the gel makes the initial rate lower; D invents extra active sites, as the gel does not change the enzyme.",
+   "marking_guidance": [
+    "The key: one mark per correct option, twelve marks in all; about half the questions test recall and half test application to a described graph, data set or sequence.",
+    "Each distractor is a named error: denaturation applied below the optimum, any pH change called denaturation, rate confused with total product (the misconception register first), Km read as a rate, Km read as a direct measure of affinity, and a lower maximum rate read as competitive inhibition."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.5.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.2-001": 1,
+    "CLM-8223-2.5.2-002": 1,
+    "CLM-8223-2.5.2-003": 1,
+    "CLM-8223-2.5.2-004": 1,
+    "CLM-8223-2.5.2-005": 1,
+    "CLM-8223-2.5.2-006": 1,
+    "CLM-8223-2.5.2-007": 1,
+    "CLM-8223-2.5.2-008": 1,
+    "CLM-8223-2.5.2-009": 1,
+    "CLM-8223-2.5.2-010": 1,
+    "CLM-8223-2.5.2-011": 1,
+    "CLM-8223-2.5.2-012": 1,
+    "CLM-8223-2.5.2-013": 1
+   },
+   "authored_hash": "8be0baabd9167ff1e52ea60a03e5eaf1d69aed03743bdd8eaf014a7509b6bc89",
+   "objective_titles": [
+    "investigate and explain the factors that affect the rate of enzyme catalysed reactions - temperature, - pH (using buffer solutions) - enzyme concentration - substrate concentration - inhibitor concentration)",
+    "explain how the maximum rate of reaction (Vmax) is used to derive the Michaelis-Menten constant (Km) which is used to compare the affinity of different enzymes for their substrates",
+    "explain the effects of reversible inhibitors both competitive and non- competitive,on the enzyme activity",
+    "investigate and explain the effect of immobilising an enzyme in alginate on its activity as compared with its activity when free in solution"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-2.5.2-P02",
+   "objective_ids": [
+    "OBJ-8223-2.5.2-02",
+    "OBJ-8223-2.5.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.2-005",
+    "CLM-8223-2.5.2-006",
+    "CLM-8223-2.5.2-008",
+    "CLM-8223-2.5.2-010"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "State",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "A student in Walvis Bay measured the rate of an enzyme at eight substrate concentrations, without and with an inhibitor, at a fixed enzyme concentration. These are our readings.\n\n| Substrate concentration (mmol dm⁻³) | Rate without inhibitor (µmol min⁻¹) | Rate with inhibitor (µmol min⁻¹) |\n|---|---|---|\n| 0.5 | 20 | 8 |\n| 1 | 33 | 14 |\n| 2 | 50 | 25 |\n| 4 | 67 | 40 |\n| 8 | 80 | 57 |\n| 16 | 89 | 73 |\n| 32 | 94 | 84 |\n| 64 | 97 | 91 |\n\n(a) State what is meant by Vmax. [1]\n(b) Describe how Km is found from a graph of these data, and state the Km of the enzyme without the inhibitor. [2]\n(c) Explain whether the inhibitor is competitive or non-competitive. [3]\n(d) Suggest why the inhibitor lowers the rate by a larger proportion at 0.5 mmol dm⁻³ than at 64 mmol dm⁻³. [2]",
+   "canonical_answer": "(a) The maximum rate of reaction, reached when all the active sites are occupied.\n(b) Vmax is read from the plateau, about 100 µmol min⁻¹, and halved to 50 µmol min⁻¹; a line is read across to the curve and down to the substrate concentration axis. Km = 2 mmol dm⁻³.\n(c) It is competitive. The rates with the inhibitor rise towards the same maximum as without it, 91 against 97 µmol min⁻¹ at 64 mmol dm⁻³, and the gap narrows from 33 − 14 = 19 µmol min⁻¹ at 1 mmol dm⁻³ to 6 µmol min⁻¹. This shows that more substrate is overcoming the inhibitor, which competes for the active site.\n(d) At a low substrate concentration there are few substrate molecules, so the inhibitor, which has a shape like the substrate, occupies the active site more often than the substrate does. At a high substrate concentration the substrate molecules greatly outnumber the inhibitor and win the active sites, so the proportion of inhibition is small.",
+   "marking_guidance": [
+    "Marks and points: (a) 1 mark for maximum rate when all active sites are occupied; (b) 2 marks: Vmax from the plateau and halved, read across and down (1), Km = 2 mmol dm⁻³ with its unit (1); (c) 3 marks from four points: competitive (1), same maximum approached, 91 against 97 µmol min⁻¹ (1), the gap narrows (1), more substrate overcomes it at the active site (1).",
+    "(d) 2 marks from three points: few substrate molecules at low concentration, the inhibitor occupies the active site more often, more substrate wins the sites at a high concentration. Parts (a) and (b) credit AO A (3 marks); parts (c) and (d) credit AO B (5 marks). A reason must use the table, not a general statement; the unit must be a concentration for Km, not a rate, because Km is a concentration."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.5.2 from the topic claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.2-005": 1,
+    "CLM-8223-2.5.2-006": 1,
+    "CLM-8223-2.5.2-008": 1,
+    "CLM-8223-2.5.2-010": 1
+   },
+   "authored_hash": "630db1f9494ecbb6c356225a804d9749ee91409f18da73a44977a8ba9f468006",
+   "objective_titles": [
+    "explain how the maximum rate of reaction (Vmax) is used to derive the Michaelis-Menten constant (Km) which is used to compare the affinity of different enzymes for their substrates",
+    "explain the effects of reversible inhibitors both competitive and non- competitive,on the enzyme activity"
+   ]
+  }
+ ]
+}

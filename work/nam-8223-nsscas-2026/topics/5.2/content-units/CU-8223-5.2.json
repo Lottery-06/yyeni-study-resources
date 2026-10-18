@@ -1,0 +1,331 @@
+{
+ "unit_id": "CU-8223-5.2",
+ "title": "Graphs, charts and rates of change",
+ "objective_ids": [
+  "OBJ-8223-5.2-01",
+  "OBJ-8223-5.2-02",
+  "OBJ-8223-5.2-03",
+  "OBJ-8223-5.2-04",
+  "OBJ-8223-5.2-05",
+  "OBJ-8223-5.2-06",
+  "OBJ-8223-5.2-07",
+  "OBJ-8223-5.2-08",
+  "OBJ-8223-5.2-09"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_data_presentation",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 2450,
+  "target": 2980,
+  "max": 3510
+ },
+ "blocks": [
+  {
+   "block_id": "5.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "This section teaches the graph and chart skills of Annexe C: drawing and reading graphs and charts, choosing scales and axes, frequency distributions, pie charts, bar charts and histograms, choosing between display types, joining points, rates of change from straight lines and tangents, and moving between graphs, tables and equations. All readings and tables are our own invented values. Each graph is described by its axes and values and given as a table of points, so you can draw it yourself on graph paper with a sharp pencil and a ruler. The wording for labelling axes and plotting points is taught in topic 4.3, Recording and presenting data, and this section builds on it.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "6fb020c2f9d2e38af95e75905446e6069e757f2060518252b811f12792389b36"
+  },
+  {
+   "block_id": "5.2-b2",
+   "block_type": "plain_explanation",
+   "heading": "Drawing a graph or chart from a table",
+   "text": "Drawing a graph or chart starts from a table. Each row of the table is one pair of values, and each pair becomes one plotted point or one bar. The quantity that was chosen and changed, the independent variable, goes on the x-axis along the bottom, and the quantity that was measured, the dependent variable, goes on the y-axis up the side. Each axis is labelled with its quantity and unit in the form quantity / unit, copied from the heading of the table column. Topic 4.3 sets out the scales, the plotting and the joining of points in full.\n\nHere is an example from our own readings. A helper in Walvis Bay records how a bowl of dough rises.\n\n| Time / min | Volume of dough / cm³ |\n|---|---|\n| 0 | 250 |\n| 10 | 290 |\n| 20 | 345 |\n| 30 | 410 |\n| 40 | 485 |\n\nThe time was chosen, so Time / min goes on the x-axis, and the volume was measured, so Volume of dough / cm³ goes on the y-axis. The table has five rows, so the graph has five points.\n\nA drawing is checked before it is handed in. Count the marks: the number of points or bars equals the number of pairs in the table. Then choose two marks, read their x and y values from the scales, and compare them with the table. A graph or chart also carries a short title or caption that says what it shows, such as The volume of rising dough over 40 minutes.",
+   "claim_ids": [
+    "CLM-8223-5.2-001",
+    "CLM-8223-5.2-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.2-001": 1,
+    "CLM-8223-5.2-002": 1
+   },
+   "authored_hash": "c1a630f4edb53923f92ecd1a6dff4274088345b2f864f94644a5801b748256cd"
+  },
+  {
+   "block_id": "5.2-b3",
+   "block_type": "plain_explanation",
+   "heading": "Reading and describing a graph",
+   "text": "Reading a graph is the reverse of drawing it. To read a value, start at a value on one axis, move along the grid to the line or bar, then move along to the other axis and read the scale.\n\nA value read between two plotted points is an interpolation. A value read beyond the last plotted point is an extrapolation. It is less reliable, because the trend may not continue past the readings that were taken.\n\nTo describe a trend, state four things. First, the direction: an increase, a decrease or no change. Second, values with their units from the axes, at the start and at the end, or the size of the change. Third, where the line is steeper, which means the quantity is changing faster there, or flatter. Fourth, any level part, called a plateau. Our own table gives the mass of leaf litter in a mesh bag buried in woodland soil.\n\n| Time / weeks | Mass of litter / g |\n|---|---|\n| 0 | 50 |\n| 2 | 41 |\n| 4 | 34 |\n| 6 | 29 |\n| 8 | 26 |\n\nThe line on a graph of these values falls from 50 g at the start to 26 g at 8 weeks, a decrease of 50 - 26 = 24 g. The fall is 9 g in the first 2 weeks but only 3 g in the last 2 weeks, so the line flattens. A straight line joining the points at 4 and 6 weeks gives (34 + 29) ÷ 2 = 31.5 g at 5 weeks, an interpolation. A value read at 12 weeks would be an extrapolation.",
+   "claim_ids": [
+    "CLM-8223-5.2-003",
+    "CLM-8223-5.2-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.2-003": 1,
+    "CLM-8223-5.2-004": 1
+   },
+   "authored_hash": "248d35de87b79bbdb8f16eca90b3fb1c5cc472b4b56f3ee06e10d25fba856006"
+  },
+  {
+   "block_id": "5.2-b4",
+   "block_type": "plain_explanation",
+   "heading": "Choosing scales and axes",
+   "text": "A scale is the amount that each large square of an axis stands for. A suitable scale uses an easy step. Steps of 1, 2 or 5 units, or those numbers multiplied or divided by ten, such as 0.5, 10 or 20, make each small square stand for an amount that is simple to plot and to read. A step of 3 or 7 does not. The scale is also linear, which means that equal distances along the axis stand for equal amounts, so the numbers on the axis are marked at regular intervals and the step does not change part way along. \n\nEach axis is scaled separately, and the two scales do not have to match. The points should fill most of the grid in both directions. An axis starts at zero where zero is a possible value near the data. It may start higher where all the values lie in a narrow band far from zero, such as body temperatures between 36 °C and 40 °C.\n\nTo choose a step, divide the largest value that must fit by the number of large squares available. The answer is the smallest step that would fit. Round it up to the next easy step, because a smaller step would run the data off the grid.",
+   "claim_ids": [
+    "CLM-8223-5.2-005",
+    "CLM-8223-5.2-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.2-005": 1,
+    "CLM-8223-5.2-006": 1
+   },
+   "authored_hash": "7bf5ce807c99b8141182c4c81301ec460074d88168bf0e3b591d345ff23d5073"
+  },
+  {
+   "block_id": "5.2-b5",
+   "block_type": "worked_calculation",
+   "heading": "A worked choice of scale",
+   "text": "These readings are our own. The volume of gas collected in an experiment runs from 0 to 68 cm³ over 45 minutes, and the grid is 9 large squares wide and 8 large squares tall.\n\nFor the x-axis, 45 ÷ 9 = 5, so each large square stands for 5 minutes. This is an easy step and it uses the whole width of the grid.\n\nFor the y-axis, 68 ÷ 8 = 8.5. A step of 8.5 is awkward and a step of 9 is also awkward, so the next easy step above 8.5 is 10 cm³ per large square. The highest point then sits at 68 ÷ 10 = 6.8 large squares of the 8, which fills 6.8 ÷ 8 × 100 = 85 per cent of the height.\n\nA step of 20 cm³ per large square would put the highest point at 68 ÷ 20 = 3.4 large squares, filling only 3.4 ÷ 8 × 100 = 42.5 per cent of the height. A step of 5 cm³ would need 68 ÷ 5 = 13.6 large squares, more than the 8 available, so the points would run off the grid.",
+   "claim_ids": [
+    "CLM-8223-5.2-005",
+    "CLM-8223-5.2-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.2-005": 1,
+    "CLM-8223-5.2-006": 1
+   },
+   "authored_hash": "2576803b370be812cfb6bc43c5ca0c9a9176c7e15c79551f7317e987894c5e29"
+  },
+  {
+   "block_id": "5.2-b6",
+   "block_type": "plain_explanation",
+   "heading": "Frequency distributions",
+   "text": "A frequency distribution shows how many individuals or readings fall into each class of a measured quantity. The frequency of a class is the number in it. The classes are of equal width and do not overlap, and a boundary value is placed in one class and not the other: with classes written 20 to under 30 mm and 30 to under 40 mm, a leaf of exactly 30 mm belongs in the second class. The frequencies add up to the total number measured, which is a quick check.\n\nOur own readings give the lengths of 40 mopane leaves, sorted into classes 10 mm wide.\n\n| Length of leaf / mm | Frequency (number of leaves) |\n|---|---|\n| 20 to under 30 | 3 |\n| 30 to under 40 | 8 |\n| 40 to under 50 | 14 |\n| 50 to under 60 | 10 |\n| 60 to under 70 | 5 |\n\nThe frequencies give 3 + 8 + 14 + 10 + 5 = 40 leaves, which matches the number measured. The most frequent class is 40 to under 50 mm, with 14 leaves, and the frequencies rise up to that class and fall after it, so the longest and shortest leaves are the least common.",
+   "claim_ids": [
+    "CLM-8223-5.2-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.2-007": 1
+   },
+   "authored_hash": "1974f075b3e00222c03691f6908c3f3bef82c68aea0a0717f5f970fd1a4db90e"
+  },
+  {
+   "block_id": "5.2-b7",
+   "block_type": "worked_calculation",
+   "heading": "Pie charts and sector angles",
+   "text": "A pie chart shows how a total is shared between named categories. The whole circle is 360°, so the angle of a sector is the frequency of the category divided by the total, multiplied by 360. The angles are checked by adding them, because they must total 360°.\n\nOur own survey counts 80 trees in a patch of woodland in Kavango.\n\n| Category | Number of trees | Sector angle |\n|---|---|---|\n| Mopane | 36 | 162° |\n| Camel thorn | 20 | 90° |\n| Sickle bush | 12 | 54° |\n| Other species | 12 | 54° |\n\nThe working for mopane is 36 ÷ 80 × 360 = 162°. For camel thorn it is 20 ÷ 80 × 360 = 90°, and for sickle bush and other species it is 12 ÷ 80 × 360 = 54° each. The check is 162 + 90 + 54 + 54 = 360°. A pie chart suits the shares of one total, not a change over time.",
+   "claim_ids": [
+    "CLM-8223-5.2-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.2-008": 1
+   },
+   "authored_hash": "ed8c514b9e567f2e5ff45d9ba1423f72cd082aa07a8d03aef3b6d3f9f1bcf966"
+  },
+  {
+   "block_id": "5.2-b8",
+   "block_type": "plain_explanation",
+   "heading": "Bar charts and histograms",
+   "text": "In a bar chart, each bar stands for a named category or a whole-number value, such as a species or the number of eggs in a nest. The bars have equal width and are separated by gaps, because there is nothing between one category and the next. The height of a bar is read on a y-axis that starts at zero.\n\nIn a histogram, the classes of a frequency distribution of a continuous measurement, such as leaf length, go along the x-axis as one continuous scale, labelled with the class boundaries at the edges of the bars. The height of each bar is the frequency of its class. The bars touch, because the scale runs on without a break from one class to the next.\n\nFor the 40 mopane leaves, mark 20, 30, 40, 50, 60 and 70 on the x-axis at the edges of the bars, labelled Length of leaf / mm. Label the y-axis Number of leaves, with 2 leaves per large square. The five bars have heights 3, 8, 14, 10 and 5 leaves, and the tallest is 14 ÷ 2 = 7 large squares high.",
+   "claim_ids": [
+    "CLM-8223-5.2-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.2-009": 1
+   },
+   "authored_hash": "5ca522ae1616575279cb9cb1efda8a1701ff45e12c23281dc0ad9f96c26269bc"
+  },
+  {
+   "block_id": "5.2-b9",
+   "block_type": "comparison",
+   "heading": "Choosing between a bar chart, a histogram and a line graph",
+   "text": "The choice of display rests on the variable along the x-axis. If that variable is made of named categories, or of counts in whole steps, such as species, farms or the number of leaves, a bar chart is suitable, because no values exist between the bars. If it is a continuous measurement sorted into classes, so that the aim is to show how many individuals fall in each class, a histogram is suitable. If one variable is chosen and changed through a continuous range, such as temperature or time, and a second variable is measured at each value, a line graph is suitable, because values of the measured variable exist between the plotted points.\n\nA histogram and a line graph both have a continuous x-axis, but they say different things. A histogram shows one measured variable, and the height of each touching bar is the number of individuals in a class. A line graph relates two variables, by plotting the measured variable against the chosen one, point by point.\n\nThree of our own situations show the choice. Birds counted at five named waterholes give a bar chart. The lengths of 40 leaves sorted into classes 10 mm wide give a histogram. The volume of gas collected at water temperatures of 20, 30, 40, 50 and 60 °C gives a line graph.",
+   "claim_ids": [
+    "CLM-8223-5.2-010",
+    "CLM-8223-5.2-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.2-010": 1,
+    "CLM-8223-5.2-011": 1
+   },
+   "authored_hash": "923f020303a577168fc6a09926d3294cf9e65f190215165980bab70090281440"
+  },
+  {
+   "block_id": "5.2-b10",
+   "block_type": "plain_explanation",
+   "heading": "Ruled straight lines or a line of best fit",
+   "text": "Joining the points on a graph is a decision about what happens between them. Ruled straight lines from one point to the next are suitable where the values are given and no trend is to be assumed, or where the task asks for the points to be joined.\n\nA line of best fit is suitable where the points scatter about a trend, because the scatter comes from small errors in measurement and is not part of the pattern. The line runs smoothly through or close to the points, with about as many points above it as below it, and it need not pass through any plotted point or through the origin. Where the trend is straight, a single ruled straight line of best fit is drawn. Where the trend curves, a smooth curve is drawn freehand in one sweep.\n\nOur own example is the length of a root measured each day for 5 days.\n\n| Time / days | Length of root / mm |\n|---|---|\n| 0 | 12 |\n| 1 | 19 |\n| 2 | 23 |\n| 3 | 31 |\n| 4 | 35 |\n\nThe points lie within about 1.5 mm either side of a rising straight trend. The steps between neighbouring points are 7, 4, 8 and 4 mm, so ruled lines between the points would give a zigzag that treats small differences as real changes, whereas one ruled line of best fit shows the steady rise.",
+   "claim_ids": [
+    "CLM-8223-5.2-012",
+    "CLM-8223-5.2-013"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.2-012": 1,
+    "CLM-8223-5.2-013": 1
+   },
+   "authored_hash": "0fd2b73d5b4c5edfc7334c97cc911e04ffd1c17292af3ae70acb815e50fe98a9"
+  },
+  {
+   "block_id": "5.2-b11",
+   "block_type": "formula",
+   "heading": "Rate of change from a straight line",
+   "text": "The rate of change shown by a graph is how much y changes for each unit change in x. For a straight line it is the gradient:\n\nrate of change = change in y ÷ change in x\n\nThe unit is the unit of y per unit of x, so mass in g against time in days gives a rate in g day⁻¹. To calculate it, choose two points on the line that are far apart, because a long step makes small errors in reading the scale matter less. The points need not be plotted points. Read their coordinates, subtract the first from the second for both y and x in the same order, and divide.\n\nOur own readings give the water lost by a bean plant, and the straight line passes through (2 h, 9 cm³) and (8 h, 36 cm³). The change in y is 36 - 9 = 27 cm³ and the change in x is 8 - 2 = 6 h, so the rate of change is 27 ÷ 6 = 4.5 cm³ h⁻¹.\n\nA line that slopes down gives a negative rate, which means that the quantity is decreasing. In our own example, the mass of a slice of drying fruit is 46 g at 0 h and 34 g at 8 h. The change in y is 34 - 46 = -12 g, the change in x is 8 - 0 = 8 h, and the rate is -12 ÷ 8 = -1.5 g h⁻¹. The minus sign is part of the answer.",
+   "claim_ids": [
+    "CLM-8223-5.2-014",
+    "CLM-8223-5.2-015"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.2-014": 1,
+    "CLM-8223-5.2-015": 1
+   },
+   "authored_hash": "8a0c3730a7f682b8d5fbe74660a981704b7e66ec2523108a3b8472912ca2db06"
+  },
+  {
+   "block_id": "5.2-b12",
+   "block_type": "misconception",
+   "heading": "A high line is not the same as a fast rate",
+   "text": "A common mistake is to say that the rate is high because y is high. In fact the rate of change is the gradient, which depends on steepness. A line can sit high on the graph and be nearly level, and then its rate is small, whereas a line that starts low and climbs steeply has a large rate. A horizontal line has a rate of change of 0, because y does not change as x changes, even though y itself is not 0.\n\nThe test that tells the two ideas apart is to ask what changes between two points. The rate uses the change in y divided by the change in x, not a single y value. For example, a horizontal line at 30 g has a rate of 0 g per day. A line rising from 2 g to 10 g over 4 days has a rate of (10 - 2) ÷ 4 = 2 g per day, although all its values are smaller than 30 g.",
+   "claim_ids": [
+    "CLM-8223-5.2-016"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.2-016": 1
+   },
+   "authored_hash": "52a45053456d6d76650b4153fedfad7dab7241264531e352a648d4d977f598ec"
+  },
+  {
+   "block_id": "5.2-b13",
+   "block_type": "process",
+   "heading": "Drawing and using a tangent to a curve",
+   "text": "On a curve the rate of change is not the same everywhere, because the steepness varies from place to place. The rate at one point is found from a tangent. A tangent is a straight line that touches the curve at that point and has the same direction as the curve there, so near the point it does not cut across the curve. The gradient of the tangent is the rate of change at that point.\n\nThe method has five steps. First, mark the point on the curve where the rate is wanted. Second, place a ruler so that its edge touches the curve at that point, and pivot it until the curve lies about the same distance from the edge on each side of the point. Third, draw a thin, sharp line along the edge, long enough to run well beyond the point on both sides. Fourth, choose two points far apart on the tangent and read their coordinates. Fifth, calculate change in y ÷ change in x. The unit is the unit of y per unit of x.\n\nWhere a curve flattens, its tangents become less steep, so the rate falls. Where the curve levels off, the rate is close to 0. A tangent drawn at time 0 gives the initial rate.",
+   "claim_ids": [
+    "CLM-8223-5.2-017",
+    "CLM-8223-5.2-018"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.2-017": 1,
+    "CLM-8223-5.2-018": 1
+   },
+   "authored_hash": "d1a88091dc6055ad6219ea16bfc3caea73e6855e31d8a209523a17f0799ae999"
+  },
+  {
+   "block_id": "5.2-b14",
+   "block_type": "worked_calculation",
+   "heading": "A worked tangent and the mean rate",
+   "text": "Our own readings give the volume of oxygen collected from a reaction.\n\n| Time / s | Volume of oxygen / cm³ |\n|---|---|\n| 0 | 0 |\n| 20 | 19 |\n| 40 | 30 |\n| 60 | 37 |\n| 80 | 42 |\n| 100 | 44 |\n| 120 | 46 |\n\nThe graph is a smooth curve that rises steeply and then flattens. A tangent drawn at 20 s passes through (0 s, 4 cm³) and (60 s, 48 cm³). The change in y is 48 - 4 = 44 cm³ and the change in x is 60 - 0 = 60 s, so the rate at 20 s is 44 ÷ 60 = 0.7333, which is 0.73 cm³ s⁻¹ to two significant figures.\n\nA tangent drawn at 80 s, where the curve is flatter, passes through (40 s, 35 cm³) and (120 s, 48 cm³). The change in y is 48 - 35 = 13 cm³ and the change in x is 120 - 40 = 80 s, so the rate at 80 s is 13 ÷ 80 = 0.1625, which is 0.16 cm³ s⁻¹ to two significant figures.\n\nThe mean rate over the whole run is the change in y divided by the change in x between the first and last points: 46 ÷ 120 = 0.3833, which is 0.38 cm³ s⁻¹. This describes the interval, whereas a tangent describes one point. Because the curve is flattening, 0.38 cm³ s⁻¹ is greater than the rate at 80 s, so it is the wrong answer for the rate at 80 s.",
+   "claim_ids": [
+    "CLM-8223-5.2-018",
+    "CLM-8223-5.2-019"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.2-018": 1,
+    "CLM-8223-5.2-019": 1
+   },
+   "authored_hash": "6b50ff9765ba88fe8be4445b8ebe478c95163025942a2cd9114c44b7e8b30752"
+  },
+  {
+   "block_id": "5.2-b15",
+   "block_type": "plain_explanation",
+   "heading": "Graphs, tables and equations",
+   "text": "The same relationship can be given as a graph, as a table of numbers or as an equation, and any one of them can be turned into the others. A table of pairs gives the points of a graph, and a graph gives table values when it is read. A straight line has the equation y = mx + c. Here m is the gradient, the change in y for each increase of 1 in x, and c is the intercept, the value of y where the line crosses the y-axis, which is the value when x = 0. To write the equation from a straight line, read c at x = 0, calculate m from two points, and write both into the equation.\n\nOur own example is a line through (0 days, 3.0 g) and (8 days, 7.0 g). The intercept is c = 3.0 g. The gradient is m = (7.0 - 3.0) ÷ (8 - 0) = 0.5 g per day. The equation is y = 3.0 + 0.5x, where y is the mass in g and x is the time in days. To turn the equation into a table value, substitute x. At x = 10 days, y = 3.0 + 0.5 × 10 = 8.0 g.\n\nA line through the origin has c = 0, so y = mx. In the water lost by a bean plant, 4.5 cm³ is lost each hour from the start, so y = 4.5x, and at x = 5 h, y = 4.5 × 5 = 22.5 cm³. When y doubles each time x doubles, this is direct proportion, which topic 5.1 teaches. The equation describes the line within the range of the readings, and a value beyond the last reading is an extrapolation.",
+   "claim_ids": [
+    "CLM-8223-5.2-020",
+    "CLM-8223-5.2-021"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-5.2-020": 1,
+    "CLM-8223-5.2-021": 1
+   },
+   "authored_hash": "0d703b8fb11333b09df8b993aebde3c249b22e76d21136145ab0ce4d7951c607"
+  },
+  {
+   "block_id": "5.2-b16",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "The wording for labelling axes, choosing scales and plotting points is taught in 4.3, Recording and presenting data. Percentages, ratios and direct proportion, used for pie charts and for lines through the origin, are taught in 5.1, Number, units and accuracy. Drawing conclusions from graphs is taught in 4.4, Analysis, conclusions and evaluation.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "4eb1133f6868a86672c8abc194ef7b69d8fb5f41d0ffa77a8a55b0279416af94"
+  }
+ ],
+ "word_count": 3462,
+ "qa_status": "review_required",
+ "notes": [
+  "Authored from the 5.2 work order. Facts are our own statements, single source, unverified."
+ ]
+}

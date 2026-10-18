@@ -1,0 +1,374 @@
+{
+ "unit_id": "CU-8223-4.3",
+ "title": "Recording and presenting data",
+ "objective_ids": [
+  "OBJ-8223-4.3-01",
+  "OBJ-8223-4.3-02",
+  "OBJ-8223-4.3-03",
+  "OBJ-8223-4.3-04",
+  "OBJ-8223-4.3-05",
+  "OBJ-8223-4.3-06",
+  "OBJ-8223-4.3-07",
+  "OBJ-8223-4.3-08",
+  "OBJ-8223-4.3-09",
+  "OBJ-8223-4.3-10",
+  "OBJ-8223-4.3-11"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_data_presentation",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 3440,
+  "target": 4175,
+  "max": 4910
+ },
+ "blocks": [
+  {
+   "block_id": "4.3-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "This section is about what happens to readings once they have been taken: how raw data go into a table, how the table is headed, how many figures a reading and a calculated value carry, how a calculation is set out, and how the results become a graph or a bar chart. It is Paper 3 work. Marks for handling the apparatus and making the observations are earned at the bench, with the real equipment in your hands, and no note can replace that practice. What can be practised on paper is everything that follows from the readings: the recording, the presentation and the calculation. The readings in the worked examples are our own invented values, written for teaching, and are not taken from any published source. Graphs are described by their axes, scales and plotted values, or given as a table of points, so that you can draw each one yourself on graph paper with a sharp pencil and a ruler.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {},
+   "authored_hash": "492ea2f9144405be76d504b9a8f7a28e17f5f63e89e218b76a102f1b06d9ca1e"
+  },
+  {
+   "block_id": "4.3-b2",
+   "block_type": "plain_explanation",
+   "heading": "Raw data in a fully ruled table",
+   "text": "Raw data are the results of an investigation exactly as they were taken, before any calculation has been done on them. Raw data can be quantitative or qualitative. Quantitative data are measured values, such as a mass on a balance, a time on a stopwatch or a count of seeds. Qualitative data are observations described in words, such as the colour of a solution or the texture of a leaf.\n\nA table for raw data is fully ruled, which means that a line is drawn round the cells, including the outer edge of the table, so that each value sits in its own clear box. Ruled with a pencil and a ruler, the lines keep the columns straight and make the table easy to read back later.\n\nA mean, a rate or a percentage change has been calculated from the readings, so it is processed data and not raw data. It is kept in an extra column set apart from the raw readings, or in a second table, so that a reader can see which numbers were observed and which were worked out.\n\nThe body of the table is the set of cells below the headings. It holds the values and the observations alone. No unit is written beside a value, because the unit is stated once in the column heading, as the next section explains. A cell for a qualitative observation holds a short, exact description such as pale yellow, not a vague phrase such as a bit different. If a reading could not be taken, the cell says not taken, so that a gap is not mistaken for a zero.\n\nReadings are written into the table as they are taken, not remembered and copied out later, because a value written from memory cannot be trusted. A reading that turns out to be wrong is crossed out with a single ruled line and the new value written beside it, so that the first value can still be read.",
+   "claim_ids": [
+    "CLM-8223-4.3-001",
+    "CLM-8223-4.3-002",
+    "CLM-8223-4.3-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.3-001": 1,
+    "CLM-8223-4.3-002": 1,
+    "CLM-8223-4.3-003": 1
+   },
+   "authored_hash": "afa127399489d240067c72b9ea808187aeba2c3154afe30959ce922f6e452754"
+  },
+  {
+   "block_id": "4.3-b3",
+   "block_type": "process",
+   "heading": "Headings, and where the variables go",
+   "text": "A table is prepared before the first reading is taken, so the headings are decided in advance. Two decisions are made: which column or row holds which variable, and how each heading is written.\n\nThe independent variable is the quantity that the investigator chooses and changes on purpose, such as the temperature of a water bath or the number of days a seedling has grown. Its heading goes in the left-hand column, or in the top row if the table runs across the page. The dependent variable is the quantity that is measured to see what the change did, such as the volume of gas collected or the height reached. Its heading goes in the next column to the right, or in the next row down. Reading along a row then follows the cause to its effect: the value that was set, then the value that was measured.\n\nA heading names the quantity and then its unit, separated by a solidus, in the form quantity / unit. Time / s, Mass / g and Concentration of sucrose / mol dm⁻³ are written this way. The unit is written once, in the heading, in its short form and in the singular: s, not secs, and g, not grams. Where a quantity has no unit, as with a colour, a species name or the number of seeds that germinated, the heading is the quantity alone, and no unit is invented for it.\n\nWhen a measurement is repeated, each repeat has its own column, headed with the same quantity and unit: Height of seedling 1 / mm, Height of seedling 2 / mm and Height of seedling 3 / mm. A mean, if one is calculated, takes a heading in the same form, such as Mean height / mm, and is placed after the repeats because it is processed data.\n\nA heading that gives the quantity with no unit, such as Height, leaves the reader unable to tell whether 87 means millimetres or centimetres. The heading is what turns a number into a measurement.",
+   "claim_ids": [
+    "CLM-8223-4.3-004",
+    "CLM-8223-4.3-005",
+    "CLM-8223-4.3-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.3-004": 1,
+    "CLM-8223-4.3-005": 1,
+    "CLM-8223-4.3-006": 1
+   },
+   "authored_hash": "3438d0b6d4527e1386e6d20fc9bc324d693e2a19d7ebcfffa185f63462f4100e"
+  },
+  {
+   "block_id": "4.3-b4",
+   "block_type": "plain_explanation",
+   "heading": "Recording to the precision of the instrument",
+   "text": "The measuring instrument decides how precisely a reading can be recorded. A reading written with more figures than the instrument can give claims an accuracy that was not achieved, and a reading written with fewer figures throws away accuracy that was available.\n\nOn a digital display, such as a balance or a stopwatch, all the digits shown are written down, including a final zero. A balance that reads 2.50 g is recorded as 2.50 g and not as 2.5 g, because the last zero tells the reader that the balance was precise to 0.01 g.\n\nOn an analogue scale, such as a ruler, a measuring cylinder or a thermometer, the reading is made against the marked divisions. A ruler marked in millimetres is read to the nearest millimetre. Where the edge of an object lies clearly between two marks and can be judged to be about half way, the reading may be written to half a division, here 0.5 mm. A measuring cylinder with divisions of 1 cm³ is read at the bottom of the meniscus, to the nearest 1 cm³. The scale decides the decimal place of the last digit, and the same decision is then made for each reading of that quantity.\n\nThe readings of one quantity are therefore written to the same number of decimal places. If a ruler marked in millimetres is used for lengths in centimetres, the lengths are written to one decimal place: 6.0 cm, 7.3 cm and 5.8 cm. The first is not written as 6 cm, because a bare 6 suggests a coarser instrument and makes that reading look as if it was taken less carefully than the others. Where readings in a column are of a similar size, the same number of decimal places gives them the same number of significant figures, and that number is set by the instrument, not by preference.\n\nSignificant figures and decimal places are different counts. The length 0.84 m has two significant figures and two decimal places, whereas 0.084 m has two significant figures and three decimal places. This section uses decimal places to keep a column of readings even; for readings of a similar size the two counts agree. The next sections use significant figures for calculated values.",
+   "claim_ids": [
+    "CLM-8223-4.3-007",
+    "CLM-8223-4.3-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.3-007": 1,
+    "CLM-8223-4.3-008": 1
+   },
+   "authored_hash": "448829d8b13897fcb7bc769e5a02c0893a0b44620e1a64eabf899bcf99c6357f"
+  },
+  {
+   "block_id": "4.3-b5",
+   "block_type": "process",
+   "heading": "Setting out a calculation",
+   "text": "A calculation in a practical is a piece of reasoning that someone else must be able to follow and check. In a written answer the working earns marks of its own, even when the final number is wrong, so each step is written down.\n\nThe steps come in a set order. First, write the equation or formula in words or symbols, for example rate of growth = change in height ÷ time taken. Second, substitute the measured values into it, with their units. Third, write the result of the arithmetic as the calculator gives it, without rounding. Fourth, write the final answer rounded to the correct number of significant figures, with its unit. The unrounded value is still written before the rounded one, because it shows that the arithmetic was done and that the rounding was a deliberate step.\n\nWhere a step is a choice, its reason is written beside it. When a percentage change is calculated, the change is divided by the starting value, and a short phrase says why: percentage change is measured against where the quantity began. When three readings are averaged, the working says that they are added and divided by 3 because three readings were taken. A reason is how a reader tells a calculation done with understanding from a number that happened to appear.\n\nUnits are carried through the working. A change in mass in grams divided by a time in minutes gives an answer in g min⁻¹, and writing the unit shows that the arithmetic and the units agree. An answer with no unit is incomplete, because the number alone does not say what was measured.",
+   "claim_ids": [
+    "CLM-8223-4.3-009",
+    "CLM-8223-4.3-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.3-009": 1,
+    "CLM-8223-4.3-010": 1
+   },
+   "authored_hash": "1c88b97dac9d246087fafee6d0351a68a10e0a1a1105dd08d7454b07532a2f06"
+  },
+  {
+   "block_id": "4.3-b6",
+   "block_type": "worked_calculation",
+   "heading": "A worked calculation set out in steps",
+   "text": "These readings are our own. A student weighs a dried maize grain before soaking and again after soaking in water for six hours, on a balance that reads to 0.01 g. The mass before soaking is 1.84 g and the mass after is 2.67 g. The percentage change in mass is calculated as follows.\n\nEquation: percentage change in mass = change in mass ÷ mass before soaking × 100. The change is divided by the mass before soaking because percentage change is measured against where the quantity began.\n\nChange in mass: 2.67 - 1.84 = 0.83 g.\n\nSubstitution: 0.83 ÷ 1.84 × 100 = 45.108.\n\nFinal answer: the least accurate quantity is the change in mass, 0.83 g, which has two significant figures, so the answer is 45 per cent to two significant figures. A value of 45.1 per cent, with one more significant figure, is also acceptable. Each line can be checked, and the reason for dividing by the starting mass is on the page.",
+   "claim_ids": [
+    "CLM-8223-4.3-009",
+    "CLM-8223-4.3-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.3-009": 1,
+    "CLM-8223-4.3-010": 1
+   },
+   "authored_hash": "f99591e44eacc5966296a7a25960793594658f8280f7b2dcdb20c9db9dc8bbc5"
+  },
+  {
+   "block_id": "4.3-b7",
+   "block_type": "definition",
+   "heading": "Significant figures in calculated values",
+   "text": "Significant figures are the digits in a value that carry information about its size. They are counted from the first digit that is not zero. The value 0.0380 has three significant figures: the zeros before the 3 only show where the decimal point sits, while the zero after the 8 is significant because it shows that the quantity was measured to that place. The value 8.0 has two significant figures and 8 has one, so they do not show the same accuracy, since 8.0 says the quantity was measured to the nearest tenth.\n\nA calculated value cannot be more accurate than the measurements it came from. The rule used here is that a calculated value is given to the same number of significant figures as, or one more than, the measured quantity of least accuracy that went into it. The measured quantity of least accuracy is the one with the fewest significant figures. In a calculation that uses a mass of 2.50 g, which has three significant figures, and a time of 4.0 min, which has two, the time is the least accurate, so the answer carries two significant figures, or three.\n\nTwo habits protect the answer. The first is to keep the unrounded value in the calculator through the steps and to round once, at the end, because rounding part way adds small errors to the final value. The second is not to let an exact number limit the answer. The 3 in a mean of three repeats is a count, so it is exact and has no uncertainty, and it does not set the number of significant figures. The same is true of the 100 in a percentage.\n\nThe display on a calculator, such as 4.6666667, is not an answer. It has many more figures than the measurements justify, and it claims an accuracy that was not achieved.",
+   "claim_ids": [
+    "CLM-8223-4.3-011",
+    "CLM-8223-4.3-012",
+    "CLM-8223-4.3-013"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.3-011": 1,
+    "CLM-8223-4.3-012": 1,
+    "CLM-8223-4.3-013": 1
+   },
+   "authored_hash": "6ad293b0b1687fe2958229342f288293f080e39ce61e33bcacc4f95125e7b7f3"
+  },
+  {
+   "block_id": "4.3-b8",
+   "block_type": "worked_calculation",
+   "heading": "Choosing the number of significant figures",
+   "text": "Three worked examples, with readings that are our own, show how the rule works.\n\nExample one. A seedling grows from 24 mm to 87 mm in 11 days, read from a ruler marked in millimetres. The rate of growth is the change in height divided by the time. The change is 87 - 24 = 63 mm, and 63 ÷ 11 = 5.7273 mm day⁻¹. All of the quantities have two significant figures, so the answer is 5.7 mm day⁻¹ to two significant figures. A value of 5.73 mm day⁻¹, to three, is also acceptable.\n\nExample two. Three leaf lengths are 6.0 cm, 7.3 cm and 5.8 cm. The mean is the total divided by the number of readings. The total is 6.0 + 7.3 + 5.8 = 19.1, and 19.1 ÷ 3 = 6.3667 cm. The lengths have two significant figures, and the 3 is an exact count, so the mean is 6.4 cm to two significant figures, or 6.37 cm to three.\n\nExample three. A mass of 0.482 g is dissolved to make 25 cm³ of solution, with the mass read from a balance that reads to 0.001 g and the volume read to 1 cm³. The concentration is mass ÷ volume, and 0.482 ÷ 25 = 0.01928 g cm⁻³. The mass has three significant figures and the volume has two, so the volume is the least accurate. The answer is 0.019 g cm⁻³ to two significant figures, or 0.0193 g cm⁻³ to three.",
+   "claim_ids": [
+    "CLM-8223-4.3-011",
+    "CLM-8223-4.3-012",
+    "CLM-8223-4.3-013"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.3-011": 1,
+    "CLM-8223-4.3-012": 1,
+    "CLM-8223-4.3-013": 1
+   },
+   "authored_hash": "2c8ba70e773fc32bf9d69fb78b24e3b2c9d22a9621c9ba1bdb96373e0b880b04"
+  },
+  {
+   "block_id": "4.3-b9",
+   "block_type": "plain_explanation",
+   "heading": "Choosing between a graph and a chart",
+   "text": "The first decision in presenting results is the form of the display, and it rests on the independent variable.\n\nA graph, in which plotted points are joined by a line, is used when the independent variable is continuous, which means it can take any value in a range, such as time, distance from a lamp, temperature or concentration. The line is justified because values exist between the plotted points, and the line shows how the dependent variable changes between them. This is why a graph of height against time slopes up as a seedling grows.\n\nA bar chart is used when the independent variable is categorical or discrete. Categorical data are sorted into named categories, such as soil type, species of tree or the colour of a flower. Discrete data are counted in whole steps, such as the number of leaves on a plant, where 2.5 leaves cannot occur. There are no values between the categories or the whole numbers, so a line joining them would suggest values that do not exist. Bars show each category or whole value separately. A continuous quantity that has been sorted into classes, such as shoot length in classes 10 mm wide, is also shown with bars, and the last section of this topic explains how those bars are drawn.\n\nThe heading of the independent variable in the table settles the choice. A column headed Time / days gives a graph, and a column headed Soil type gives a bar chart.\n\nA clear and accurate graph or chart has a title or caption that says what it shows, such as The mean height of maize seedlings over 12 days, labelled axes, an even scale, and points or bars drawn from the values in the table. Where a measurement was repeated, the mean is usually the value plotted, since it summarises the repeats, and the table shows which values were used.",
+   "claim_ids": [
+    "CLM-8223-4.3-014",
+    "CLM-8223-4.3-015"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.3-014": 1,
+    "CLM-8223-4.3-015": 1
+   },
+   "authored_hash": "40b02bcb06b778796ae735bdfb233b646eb2e7a7a606e536cee693437cc1c1a3"
+  },
+  {
+   "block_id": "4.3-b10",
+   "block_type": "process",
+   "heading": "The axes and their labels",
+   "text": "The independent variable goes on the x-axis, which is the horizontal axis along the bottom. The dependent variable goes on the y-axis, which is the vertical axis up the side. This fixed pairing means that any graph can be read in the same way: along the bottom is what was changed, and up the side is what happened as a result. If the table has the independent variable in its left column, that column becomes the x-axis and the next column becomes the y-axis.\n\nEach axis is labelled with the quantity and its unit, in the form quantity / unit, and the label is worded to match the heading of the table column it came from. A table with the columns Time / min and Mass of dough / g gives axes labelled Time / min and Mass of dough / g. The label is written along its axis, in the middle, and not squeezed into a corner. Where a quantity has no unit, such as the name of a soil type, the axis label is the quantity alone: Soil type.\n\nThe numbers on an axis are written at the large-square lines, at regular intervals. The unit is not repeated beside each number, because the label already gives it, which is the same reasoning as for the body of a table.\n\nA common slip is to swap the variables. If the independent variable is time and the measured mass is placed on the x-axis, the graph reads backwards, because it suggests that mass was changed to see what time did. The test is to ask which quantity the investigator chose. That quantity goes on the x-axis, and the quantity that was measured goes on the y-axis.",
+   "claim_ids": [
+    "CLM-8223-4.3-016",
+    "CLM-8223-4.3-017"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.3-016": 1,
+    "CLM-8223-4.3-017": 1
+   },
+   "authored_hash": "a14af2225a1f5e76b50bb72235c317666c041f7765d5204b98db61fd620e513c"
+  },
+  {
+   "block_id": "4.3-b11",
+   "block_type": "process",
+   "heading": "Choosing the scales",
+   "text": "The scales are chosen so that the plotted points cover most or all of the grid in both directions. A graph squeezed into one corner of the paper hides the pattern, small differences between points cannot be read, and the position of each point cannot be judged accurately. A graph that fills the grid does the opposite.\n\nThree rules guide the choice. The first is that the step per large square is an easy one: 1, 2, 5 or 10 units, or those values multiplied or divided by ten, such as 0.5 or 20. A step of 3 or 7 makes the small squares stand for awkward amounts such as 0.6, and plotting and reading values then invite slips. The second is that the scale is linear, with the same step along the whole axis and the numbers marked at regular intervals, so the scale does not change part way along. The third is that an axis starts at zero where zero is a possible value close to the data. It can start above zero where all the values lie in a narrow band far from zero: body temperatures between 36 °C and 40 °C, plotted on an axis starting at 0 °C, would be squeezed into the top tenth of the grid, and an axis from 35 °C removes the waste.\n\nTo choose a step, divide the range of the values by the number of large squares available. That gives the smallest step that would fit the data. Then round it up to the next easy step, because a step smaller than the minimum would run the data off the grid.",
+   "claim_ids": [
+    "CLM-8223-4.3-018",
+    "CLM-8223-4.3-019",
+    "CLM-8223-4.3-020"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.3-018": 1,
+    "CLM-8223-4.3-019": 1,
+    "CLM-8223-4.3-020": 1
+   },
+   "authored_hash": "25ebbf4bdabb737a7a31c261d989cf3f3953ea8e0e2468d26974b96c3e691ef0"
+  },
+  {
+   "block_id": "4.3-b12",
+   "block_type": "worked_calculation",
+   "heading": "A worked choice of scales",
+   "text": "Our own data: the mean heights of maize seedlings for six days run from 15.0 mm to 97.7 mm, and the time runs from day 2 to day 12. The graph paper has a grid 12 large squares wide and 10 large squares tall.\n\nFor the y-axis, the largest value is 97.7 mm and 10 large squares are available. The smallest step that fits is 97.7 ÷ 10 = 9.77 mm per large square. The next easy step above 9.77 is 10, so the scale is 10 mm per large square, from 0 to 100 mm. The highest point then reaches 97.7 ÷ 10 = 9.77 large squares of the 10, which is nearly all of the height.\n\nFor the x-axis, 12 days over 12 large squares is 12 ÷ 12 = 1 day per large square, from 0 to 12 days.\n\nA poor choice shows the cost. A step of 50 mm per large square would place the highest point at 97.7 ÷ 50 = 1.954 large squares, so the graph would fill about a fifth of the height and the pattern would be hard to read.",
+   "claim_ids": [
+    "CLM-8223-4.3-018",
+    "CLM-8223-4.3-019",
+    "CLM-8223-4.3-020"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.3-018": 1,
+    "CLM-8223-4.3-019": 1,
+    "CLM-8223-4.3-020": 1
+   },
+   "authored_hash": "4f38307ec9e5b3eb9d393468f20a1665568bc61f4c5ad4cb0fd9f769a2b789c4"
+  },
+  {
+   "block_id": "4.3-b13",
+   "block_type": "process",
+   "heading": "Plotting the points",
+   "text": "A point is plotted at the position given by its x value and its y value, where the line up from the x value meets the line across from the y value. The scales are used to work out positions between the printed lines. On an x-axis with 10 cm per large square, where each large square holds ten small squares, each small square stands for 1 cm. A value of 36 cm is therefore three large squares and six small squares from the start of the axis, since 30 cm + 6 cm = 36 cm.\n\nThe point is marked with a small neat cross, or with a dot inside a small circle, centred on the position. Both marks are small enough that the centre can be seen. A large dot or a blob hides the exact position of the point, because its centre cannot be judged. A working standard is that the centre of the mark lies within half of a small square of the true position.\n\nA point is plotted for each pair of values in the table that is to be graphed, so the number of marks equals the number of pairs. A point that is left out gives a graph that does not match its table.\n\nPlotting is checked by reading back: choose a mark, read its x value and y value from the scales, and compare them with the table.",
+   "claim_ids": [
+    "CLM-8223-4.3-021",
+    "CLM-8223-4.3-022"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.3-021": 1,
+    "CLM-8223-4.3-022": 1
+   },
+   "authored_hash": "3c070a7cbf8c8aeba619fd6e2d6c569be8c93867aa2448bafb09113db0dfcf5c"
+  },
+  {
+   "block_id": "4.3-b14",
+   "block_type": "process",
+   "heading": "Joining the points",
+   "text": "There are three ways to join plotted points, and the choice follows the pattern of the points and what the task asks.\n\nA line of best fit is used when the points show a straight trend with a little scatter. It is a single thin line, ruled, placed so that it passes through or close to as many points as possible with about as many points above it as below it. It does not have to pass through any particular point.\n\nA smooth curve is used when the trend of the points is curved. It is drawn freehand in one smooth sweep through or close to the points, with no corners. Joining the points of a curved trend with straight segments gives a jagged shape that the data do not show.\n\nRuled straight lines from one point to the next are used when the data are provided and no trend is to be assumed, or when the task asks for the points to be joined. The line is thin, sharp and unbroken, with no feathering, where several overlapping strokes are drawn, and no gaps.\n\nThe line or curve starts at the first plotted point and stops at the last. Extending it beyond them is extrapolating, and it claims values that the investigation did not obtain. The line is also not forced through the origin unless the origin was itself a measured point. Whatever the form, the line is made with a sharp pencil, so that it can be seen clearly and read accurately.\n\nTwo of our own sets of points show the choice. The points (0, 2), (10, 12), (20, 21), (30, 31) and (40, 42) rise by about 10 units for each step of 10 along, so a ruled line of best fit is suitable. The points (2, 15), (4, 31), (6, 53), (8, 72), (10, 87) and (12, 98) rise by smaller steps towards the end, so they follow a curve, and a smooth curve from the first point to the last is suitable. A point that sits far from its neighbours is dealt with in topic 4.4, Analysis, conclusions and evaluation.",
+   "claim_ids": [
+    "CLM-8223-4.3-023",
+    "CLM-8223-4.3-024",
+    "CLM-8223-4.3-025"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.3-023": 1,
+    "CLM-8223-4.3-024": 1,
+    "CLM-8223-4.3-025": 1
+   },
+   "authored_hash": "f2842abefc01b9e3374aac95fc2fd621b6272d479d6788ebe92f2cde972c56d6"
+  },
+  {
+   "block_id": "4.3-b15",
+   "block_type": "process",
+   "heading": "Bars: separated or joined",
+   "text": "In a bar chart of categorical or discrete data, the bars are of equal width and are separated by gaps. Each bar stands for a separate category or whole value, not for a range that runs on into the next. For soil types, there is one bar for sand, a gap, one bar for loam, a gap, and one bar for clay. The label for each bar sits under its centre, and the height of each bar is read against the scale on the y-axis, which starts at zero because the length of the bar itself shows the amount.\n\nIn a chart of continuous data grouped into classes, the bars touch. Suppose the lengths of shoots, measured to the nearest millimetre, are sorted into classes of 10 mm, such as 10 to under 20 mm and 20 to under 30 mm. Each class begins where the one before it ends, so there is no gap in the scale and the bars join. The x-axis is labelled with the class boundaries, 10, 20, 30 and so on, at the edges of the bars, together with the label Length of shoot / mm. The classes are of equal width, so the bars are of equal width, and the height of each bar is the number of shoots in the class.\n\nThe test is to ask whether the bars stand for a scale that carries on without a break. For soil types it does not, so the bars are separated. For lengths in classes it does, so the bars touch.",
+   "claim_ids": [
+    "CLM-8223-4.3-026",
+    "CLM-8223-4.3-027"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.3-026": 1,
+    "CLM-8223-4.3-027": 1
+   },
+   "authored_hash": "5a155da7f4a699e675209ecb1d3b59dddc15159b3df10734b222e6975c21989b"
+  },
+  {
+   "block_id": "4.3-b16",
+   "block_type": "worked_application",
+   "heading": "From readings to a graph",
+   "text": "This worked application uses our own readings. A student places yeast in sugar solution in water baths at five temperatures and collects the gas released in 10 minutes in a syringe marked every 1 cm³. The thermometer is marked every 1 °C.\n\nThe table is prepared first. The independent variable, the temperature, is in the left column, headed Temperature of water bath / °C. The dependent variable is in the next column, headed Volume of gas in 10 minutes / cm³. The body holds numbers alone, and both columns are written to the nearest whole unit because the instruments are read to 1 °C and 1 cm³.\n\n| Temperature of water bath / °C | Volume of gas in 10 minutes / cm³ |\n|---|---|\n| 20 | 6 |\n| 25 | 11 |\n| 30 | 17 |\n| 35 | 26 |\n| 40 | 35 |\n\nThe independent variable is continuous, so a graph is chosen. Temperature goes on the x-axis, labelled Temperature of water bath / °C, and volume goes on the y-axis, labelled Volume of gas in 10 minutes / cm³, each worded as in the table headings.\n\nFor the scales, the grid is 10 large squares wide and 8 tall. All the temperatures lie between 20 °C and 40 °C, so the x-axis starts at 20 °C, and 20 ÷ 10 = 2 °C per large square, which is an easy step. On the y-axis, 35 ÷ 8 = 4.375 cm³ per large square at the least, which rounds up to 5 cm³, so the axis runs from 0 to 40 cm³ and the highest point sits at 35 ÷ 5 = 7 large squares of the 8.\n\nEach point is marked with a small cross. The rises between the points grow from 5 cm³ to 9 cm³, so the trend is curved, and the points are joined by one smooth curve from the first point to the last, without extending it.",
+   "claim_ids": [
+    "CLM-8223-4.3-005",
+    "CLM-8223-4.3-007",
+    "CLM-8223-4.3-014",
+    "CLM-8223-4.3-016",
+    "CLM-8223-4.3-017",
+    "CLM-8223-4.3-019",
+    "CLM-8223-4.3-020",
+    "CLM-8223-4.3-021",
+    "CLM-8223-4.3-023",
+    "CLM-8223-4.3-025"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.3-005": 1,
+    "CLM-8223-4.3-007": 1,
+    "CLM-8223-4.3-014": 1,
+    "CLM-8223-4.3-016": 1,
+    "CLM-8223-4.3-017": 1,
+    "CLM-8223-4.3-019": 1,
+    "CLM-8223-4.3-020": 1,
+    "CLM-8223-4.3-021": 1,
+    "CLM-8223-4.3-023": 1,
+    "CLM-8223-4.3-025": 1
+   },
+   "authored_hash": "a269013a7b585f9ef70d6eef10d8dc60c888fb6f8164df798126db50f105b83b"
+  },
+  {
+   "block_id": "4.3-b17",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "Planning an investigation and choosing the measurements are taught in 4.1, Planning investigations and taking measurements. Drawing and measuring specimens is taught in 4.2, Microscopy, drawing and measuring specimens. Drawing conclusions from the results and judging the quality of the data are taught in 4.4, Analysis, conclusions and evaluation. The rules for significant figures and the shapes of graphs and charts are also met in the mathematical skills of 5.1, Number, units and accuracy, and 5.2, Graphs, charts and rates of change.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {},
+   "authored_hash": "011f3051e9429d17241cbb758789b1eabcfb132c5a0e8a5c6b433b63eec40a91"
+  }
+ ],
+ "word_count": 4606,
+ "qa_status": "review_required",
+ "notes": [
+  "Readings used in worked examples are our own invented values."
+ ]
+}

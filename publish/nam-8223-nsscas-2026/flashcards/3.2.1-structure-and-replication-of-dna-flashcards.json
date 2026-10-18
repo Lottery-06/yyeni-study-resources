@@ -1,0 +1,659 @@
+{
+ "topic_number": "3.2.1",
+ "topic_title": "Structure and replication of DNA",
+ "topic": "3.2.1 Structure and replication of DNA",
+ "qualification": "Namibia Senior Secondary Certificate Advanced Subsidiary level (NSSCAS) Biology 8223 (syllabus vNIED 2020, examined 2021-2025)",
+ "item_count": 14,
+ "items": [
+  {
+   "item_id": "ITEM-8223-3.2.1-001-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.2.1-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State the three parts that are joined together to make one nucleotide.",
+   "canonical_answer": "A phosphate group, a pentose sugar and a nitrogenous base.",
+   "marking_guidance": [
+    "1 mark, awarded only when all three parts are named: a phosphate group, a pentose (five-carbon) sugar and a nitrogenous base. Ribose or deoxyribose is accepted for the pentose sugar.",
+    "A hexose sugar, an amino acid or a fatty acid in place of one of the three parts earns no mark. The function of each part is not asked for here."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 3.2.1 from the topic claim ledger. Our own scenarios and answers; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.2.1-001": 1
+   },
+   "authored_hash": "e4ca109f2a51c68e434425bf93e362a30016612c2db7219d0c1756ad5e4faf34",
+   "objective_titles": [
+    "describe the structure of nucleotides, including the phosphorylated nucleotide ATP (structural formulae are not required)"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-3.2.1-002-MECH",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.2.1-002",
+    "CLM-8223-3.2.1-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Describe how a molecule of ATP is built from an adenine nucleotide, and how the molecule changes when its end phosphate group is removed by hydrolysis.",
+   "canonical_answer": "ATP has adenine as its base and ribose as its sugar, with a chain of three phosphate groups attached, which makes it a phosphorylated nucleotide. When the end phosphate group is removed by hydrolysis, ATP becomes ADP and a free phosphate group, which releases energy the cell can use.",
+   "marking_guidance": [
+    "2 marks: a chain of three phosphate groups attached to the adenine and ribose, which makes it a phosphorylated nucleotide (1); the end phosphate group is removed, so ADP and a free phosphate group result and energy is released (1).",
+    "Saying that ATP \"contains energy\" without the removal of the phosphate group earns no second mark, because the release of energy happens when the bond is broken."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 3.2.1 from the topic claim ledger. Our own scenarios and answers; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.2.1-002": 1,
+    "CLM-8223-3.2.1-003": 1
+   },
+   "authored_hash": "29938740a748cb8025816099c034289e8a7fee09ecc73c486be78ca69c2c1a1f",
+   "objective_titles": [
+    "describe the structure of nucleotides, including the phosphorylated nucleotide ATP (structural formulae are not required)"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-3.2.1-011-INTERP",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.2.1-001",
+    "CLM-8223-3.2.1-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A cell extract was analysed and three molecules were found. The table gives the parts each contains; the values are ours.\n\n| Molecule | Pentose sugar | Nitrogenous base | Number of phosphate groups |\n|---|---|---|---|\n| P | ribose | adenine | 3 |\n| Q | deoxyribose | thymine | 1 |\n| R | ribose | adenine | 1 |\n\nDescribe what the table shows about how molecule P differs from molecule R, and which of the three molecules is ATP.",
+   "canonical_answer": "The table shows that P and R have the same sugar, ribose, and the same base, adenine, so both are adenine nucleotides. P has three phosphate groups where R has one, so P is the phosphorylated nucleotide and is ATP. Q has deoxyribose and thymine, so it is a DNA nucleotide, not ATP.",
+   "marking_guidance": [
+    "2 marks, each read from the table: P and R share ribose and adenine but P has three phosphate groups against one (1); P is therefore ATP, because it is the phosphorylated one (1).",
+    "The table gives the evidence, and a bare answer that P is ATP, with no reading of the number of phosphate groups, earns neither mark. Q is excluded by its deoxyribose and thymine."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 3.2.1 from the topic claim ledger. Our own scenarios and answers; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.2.1-001": 1,
+    "CLM-8223-3.2.1-002": 1
+   },
+   "authored_hash": "e49035e27fc09814b8b3fc577db2947d6d1a25664988b52e50e982f01fff7a61",
+   "objective_titles": [
+    "describe the structure of nucleotides, including the phosphorylated nucleotide ATP (structural formulae are not required)"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-3.2.1-003-DEF",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.2.1-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by a purine base.",
+   "canonical_answer": "A nitrogenous base with a double ring structure; adenine and guanine are purines.",
+   "marking_guidance": [
+    "1 mark for the key words: a nitrogenous base with a double ring structure. Naming adenine and guanine as the examples supports the answer but is not what the mark is for.",
+    "A single ring structure is the definition of a pyrimidine and earns no mark here; this is the confusion between the two terms."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 3.2.1 from the topic claim ledger. Our own scenarios and answers; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.2.1-004": 1
+   },
+   "authored_hash": "2e5cb09c4791c290ea0459e84f4e34050ce1b5c7378d47b7ac7c7ca8115f2898",
+   "objective_titles": [
+    "state that adenine and guanine are purines with a double ring structure, and that cytosine, thymine and uracil are pyrimidines with a single ring structure (structural formulae for bases are not required)"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-3.2.1-004-DEF",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.2.1-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by complementary base pairing in DNA.",
+   "canonical_answer": "Each base on one strand is held by hydrogen bonds to a specific base on the other strand: adenine with thymine, and cytosine with guanine.",
+   "marking_guidance": [
+    "1 mark for the key words: a specific pairing by hydrogen bonds, adenine with thymine and cytosine with guanine (a purine with a pyrimidine). Uracil in place of thymine is accepted for RNA.",
+    "A statement that the bases are \"matched\" or \"the same\" earns no mark, because the pairs are different bases and the pairing is by hydrogen bonds."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 3.2.1 from the topic claim ledger. Our own scenarios and answers; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.2.1-008": 1
+   },
+   "authored_hash": "504bf61edb20ed8aa8e4d7cb99e0089c1002ee3111b6727cedea5f9cef2c5e21",
+   "objective_titles": [
+    "describe the structure of RNA and DNA and explain the importance of base pairing and the different hydrogen bonding between bases"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-3.2.1-005-MECH",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.2.1-008",
+    "CLM-8223-3.2.1-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Two sections of DNA, X and Y, are the same length. Section X is made mostly of cytosine and guanine base pairs and section Y mostly of adenine and thymine base pairs. Explain why the strands of section X tend to need more energy to separate than the strands of section Y when both are heated in a test tube.",
+   "canonical_answer": "Cytosine and guanine are joined by three hydrogen bonds, whereas adenine and thymine are joined by two. Section X therefore has more hydrogen bonds to break along its length, so more energy tends to be needed to separate its strands.",
+   "marking_guidance": [
+    "2 marks: three hydrogen bonds for a cytosine-guanine pair against two for an adenine-thymine pair (1); so section X has more bonds to break and needs more energy, which is a tendency because other factors also act (1).",
+    "The reason must come from the number of hydrogen bonds. An answer that the base pairs are \"stronger\" without the number of bonds earns one mark at most, because it does not say how they differ."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 3.2.1 from the topic claim ledger. Our own scenarios and answers; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.2.1-008": 1,
+    "CLM-8223-3.2.1-009": 1
+   },
+   "authored_hash": "280ee6af9488270bbd3a847d04acaa68210a21c4c67fc5904fc60cca60c11781",
+   "objective_titles": [
+    "describe the structure of RNA and DNA and explain the importance of base pairing and the different hydrogen bonding between bases"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-3.2.1-012-INTERP",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.2.1-008",
+    "CLM-8223-3.2.1-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A sample of double-stranded DNA from a plant was analysed. The table gives the percentage of each base; the values are ours.\n\n| Base | Percentage of bases (per cent) |\n|---|---|\n| adenine | 30 |\n| thymine | 30 |\n| guanine | 20 |\n| cytosine | 20 |\n\nDescribe what the table shows about the percentage of adenine compared with thymine, and of guanine compared with cytosine, and explain how base pairing accounts for it.",
+   "canonical_answer": "The table shows equal percentages: adenine and thymine are each 30 per cent, and guanine and cytosine are each 20 per cent, and 30 + 30 + 20 + 20 = 100 per cent. This is because adenine pairs with thymine and guanine with cytosine across the two strands, so each adenine in the double-stranded molecule has a thymine opposite it, and the amounts match.",
+   "marking_guidance": [
+    "2 marks: the values read from the table, adenine equal to thymine and guanine equal to cytosine (1); because of complementary base pairing between the strands, adenine with thymine and guanine with cytosine (1).",
+    "The first mark needs the values from the table and the second needs the reason, so a statement of the pairing alone earns one mark. The data means the sample is double-stranded; single-stranded RNA would not be expected to show equal amounts."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 3.2.1 from the topic claim ledger. Our own scenarios and answers; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.2.1-008": 1,
+    "CLM-8223-3.2.1-009": 1
+   },
+   "authored_hash": "e9be8dfc32281a19ccdb6ec658dc7eb27cadf4aee47b5884fe07728a3930bbd7",
+   "objective_titles": [
+    "describe the structure of RNA and DNA and explain the importance of base pairing and the different hydrogen bonding between bases"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-3.2.1-006-PROC",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.2.1-010",
+    "CLM-8223-3.2.1-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "prompt": "Describe, in order, how one DNA molecule is copied during S phase of the cell cycle.",
+   "canonical_answer": "First, the double helix is unwound and the hydrogen bonds between the base pairs are broken, so the two strands separate and expose their bases. Then free nucleotides pair with the exposed bases on each old strand by complementary base pairing, and neighbouring nucleotides are joined to make a new strand against each old strand. The result is two DNA molecules identical to the original, each made of one old strand and one new strand, which is semi-conservative replication.",
+   "marking_guidance": [
+    "3 marks, one for each stage in order: the strands unwind and separate as the hydrogen bonds break, exposing the bases (1); free nucleotides pair with the bases of each old strand by complementary base pairing and are joined into a new strand (1); the result is two identical molecules, each with one old and one new strand (1).",
+    "The sequence is the point: the stages out of order earn no mark. Naming helicase and DNA polymerase, the old strands acting as templates, and replication starting at many places are further creditworthy points, but the tariff is 3."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 3.2.1 from the topic claim ledger. Our own scenarios and answers; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.2.1-010": 1,
+    "CLM-8223-3.2.1-012": 1
+   },
+   "authored_hash": "6da3f504124ea0d771bc8aa81f8c65d2b8fb8a3e6b062f996dea6329f84ca1b2",
+   "objective_titles": [
+    "describe the semi-conservative replication of DNA during S phase"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-3.2.1-007-MECH",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.2.1-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Describe how the enzymes helicase and DNA polymerase each act during the replication of DNA.",
+   "canonical_answer": "Helicase breaks the hydrogen bonds between the paired bases, which unwinds the helix and separates the two strands. DNA polymerase then joins the free nucleotides that have paired with the exposed bases of a template strand, which builds the new strand.",
+   "marking_guidance": [
+    "2 marks, one for each enzyme with what it does: helicase breaks the hydrogen bonds between bases and separates the strands (1); DNA polymerase joins nucleotides pairing with a template strand to build the new strand (1).",
+    "Each enzyme must be linked to its action. Reversing them, so that polymerase breaks the hydrogen bonds, earns no mark for that enzyme."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 3.2.1 from the topic claim ledger. Our own scenarios and answers; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.2.1-011": 1
+   },
+   "authored_hash": "cbf4cc4b73bfc044330b6c6c28253773b05ff0aaae921657ba880224b42347da",
+   "objective_titles": [
+    "describe the semi-conservative replication of DNA during S phase"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-3.2.1-010-MISCON",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.2.1-012",
+    "CLM-8223-3.2.1-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner writes: \"In semi-conservative replication each old strand is split in half, so a new DNA molecule gets half of an old strand joined to half of a new strand.\" Explain the error in this statement and state what each new molecule actually contains.",
+   "canonical_answer": "The error is a confusion of a whole strand with half a strand: the old strands are not split. Instead, in semi-conservative replication each new DNA molecule contains one whole old strand and one whole new strand. The test is to ask how many old strands are in each new molecule, and the answer is one.",
+   "marking_guidance": [
+    "2 marks: the error, that the old strands are split in half when in fact each old strand stays whole (1); the correct idea, that each new molecule contains one whole old strand and one whole new strand, as the test question about the number of old strands shows (1).",
+    "A repeat of the definition without naming what is wrong earns one mark at most. The mistake is not the same as saying that the old molecule is kept intact; that would be a different error, because both new molecules contain a new strand."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 3.2.1 from the topic claim ledger. Our own scenarios and answers; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.2.1-012": 1,
+    "CLM-8223-3.2.1-013": 1
+   },
+   "authored_hash": "de4478af00eab76f032ede255e1a54930a6f1ea0f451443216952c328921319a",
+   "objective_titles": [
+    "describe the semi-conservative replication of DNA during S phase"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-3.2.1-008-PROC",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.2.1-014"
+   ],
+   "item_type": "flashcard",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "prompt": "A learner plans a model of DNA replication from paper strips with card tabs for the bases, using blue strips for the original strands and red strips for the new strands. Describe, in order, the steps the learner should follow so that the model illustrates semi-conservative replication.",
+   "canonical_answer": "First, build one DNA molecule from two blue strips with complementary bases, joining adenine to thymine with two links and cytosine to guanine with three. Then separate the two blue strips by unhooking the links between the base pairs, as helicase breaks hydrogen bonds. Next, build a red strip against each blue strip by adding complementary bases. The result is two molecules, each with one blue strip and one red strip.",
+   "marking_guidance": [
+    "3 marks from four points, in order: a starting molecule with complementary bases and different numbers of links (two and three) (1); the strands separated by unhooking the links (1); a new strand built against each old strand by complementary bases (1); the result is two molecules each with one old and one new strand (1). The cap is 3 marks.",
+    "The order is the point. Building the red strips before the blue strips are separated earns no mark for those two steps, because replication needs the template strands to be exposed first."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 3.2.1 from the topic claim ledger. Our own scenarios and answers; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.2.1-014": 1
+   },
+   "authored_hash": "31b7d26685eab313f8b2e7bce69496d1128e5a5333496527ad560a0ee153936d",
+   "objective_titles": [
+    "design and make a model of DNA to illustrate the semi-conservative replication of DNA during interphase"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-3.2.1-009-WHY",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.2.1-015"
+   ],
+   "item_type": "flashcard",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "In a model of semi-conservative replication, in which each new DNA molecule holds one old strand and one new strand, the original strands are made in one colour and the new strands in another. State one reason for using two colours.",
+   "canonical_answer": "So that the old strands and the new strands can be told apart, which makes it possible to check that each new molecule has one old strand and one new strand.",
+   "marking_guidance": [
+    "1 mark for the reason: the colours let old and new strands be distinguished, so the model can be checked for one old and one new strand in each molecule.",
+    "A reason that the colours \"make the model look better\" or \"show the bases\" earns no mark, because the purpose is to tell old from new."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 3.2.1 from the topic claim ledger. Our own scenarios and answers; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.2.1-015": 1
+   },
+   "authored_hash": "2592218a946341b64bb4224f7b761e2c86c388ef14eb18398b88f8e1a9463211",
+   "objective_titles": [
+    "design and make a model of DNA to illustrate the semi-conservative replication of DNA during interphase"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-3.2.1-P01",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-01",
+    "OBJ-8223-3.2.1-02",
+    "OBJ-8223-3.2.1-03",
+    "OBJ-8223-3.2.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.2.1-001",
+    "CLM-8223-3.2.1-004",
+    "CLM-8223-3.2.1-005",
+    "CLM-8223-3.2.1-008",
+    "CLM-8223-3.2.1-009",
+    "CLM-8223-3.2.1-010",
+    "CLM-8223-3.2.1-011",
+    "CLM-8223-3.2.1-012",
+    "CLM-8223-3.2.1-013"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": null,
+   "mark_tariff": 12,
+   "difficulty": 3,
+   "prompt": "Twelve questions. Choose one option for each.\n\n1. Which three parts make up a nucleotide?\nA  a phosphate group, a pentose sugar and a nitrogenous base\nB  a phosphate group, a hexose sugar and an amino acid\nC  a pentose sugar, a fatty acid and a phosphate group\nD  a nitrogenous base, a pentose sugar and a peptide bond\n\n2. Which pair of bases are both purines?\nA  adenine and thymine\nB  guanine and cytosine\nC  adenine and guanine\nD  cytosine and uracil\n\n3. Which base is found in RNA but not in DNA?\nA  thymine\nB  uracil\nC  cytosine\nD  guanine\n\n4. How many hydrogen bonds join a guanine-cytosine pair, and how many join an adenine-thymine pair?\nA  2 and 3\nB  3 and 3\nC  2 and 2\nD  3 and 2\n\n5. One strand of DNA has the base sequence A T G C C A. Which sequence lies opposite it on the other strand, base by base?\nA  A T G C C A\nB  T A C G G T\nC  U A C G G U\nD  C G T A A C\n\n6. A section of DNA has 400 base pairs, of which 100 are adenine-thymine pairs and the rest are cytosine-guanine pairs. How many hydrogen bonds hold the two strands together in this section?\nA  1100\nB  900\nC  800\nD  1200\n\n7. In a sample of double-stranded DNA, 18 per cent of the bases are guanine. What percentage of the bases are adenine?\nA  18\nB  64\nC  32\nD  82\n\n8. Which statement describes semi-conservative replication?\nA  Each new molecule is made of two new strands and the old molecule is kept whole.\nB  Each new molecule holds half of an old strand joined to half of a new strand.\nC  Each strand is cut into short pieces and the old and new pieces are mixed along each new strand.\nD  Each new molecule holds one old strand and one new strand.\n\n9. Which enzyme joins free nucleotides to the exposed bases of a template strand during replication?\nA  helicase\nB  DNA polymerase\nC  amylase\nD  ATP, which supplies energy but is not an enzyme\n\n10. Which is the correct order of events in S phase? 1: free nucleotides pair with exposed bases. 2: helicase breaks the hydrogen bonds between bases. 3: DNA polymerase joins neighbouring nucleotides. 4: two molecules form, each with one old and one new strand.\nA  2, 1, 3, 4\nB  1, 2, 3, 4\nC  2, 3, 1, 4\nD  3, 2, 1, 4\n\n11. One DNA molecule is replicated in two rounds, one after the other. How many of the four molecules at the end contain a strand from the original molecule?\nA  4\nB  1\nC  3\nD  2\n\n12. A diagram shows two DNA molecules made by replication, with the original strands drawn in blue and the new strands in red. Each molecule has one blue strand and one red strand. Which statement does the diagram support?\nA  The replication was conservative, because the blue strands are kept.\nB  Each new molecule was built from two new strands.\nC  The replication was semi-conservative, because each new molecule has one old strand and one new strand.\nD  Half of each blue strand was kept in each new molecule.",
+   "canonical_answer": "Key: 1 A, 2 C, 3 B, 4 D, 5 B, 6 A, 7 C, 8 D, 9 B, 10 A, 11 D, 12 C.\n1. A is right: a nucleotide has a phosphate group, a pentose sugar and a nitrogenous base. B uses a hexose sugar and an amino acid, which belong to carbohydrates and proteins; C puts a fatty acid in place of the base; D puts a peptide bond, which joins amino acids, in place of the phosphate group.\n2. C is right: adenine and guanine have the double ring. A pairs a purine with a pyrimidine; B pairs the pyrimidine cytosine with the purine guanine; D gives two pyrimidines.\n3. B is right: uracil replaces thymine in RNA. A is the base found in DNA, which is the reverse; C and D are found in both DNA and RNA.\n4. D is right: guanine-cytosine has three and adenine-thymine has two. A reverses the numbers; B gives both pairs three; C gives both pairs two.\n5. B is right: A pairs with T and C pairs with G, so the opposite sequence is T A C G G T. A copies the strand instead of pairing it; C puts uracil, a base of RNA, into DNA; D pairs the bases wrongly, with adenine opposite cytosine.\n6. A is right: 100 adenine-thymine pairs × 2 = 200 bonds and 300 cytosine-guanine pairs × 3 = 900 bonds, so 200 + 900 = 1100. B counts only the cytosine-guanine pairs; C gives every pair two bonds, 400 × 2 = 800; D gives every pair three bonds, 400 × 3 = 1200.\n7. C is right: Guanine pairs with cytosine, so cytosine is 18 per cent; guanine and cytosine together are 36 per cent, leaving 100 − 36 = 64 per cent for adenine and thymine, and 64 ÷ 2 = 32 per cent each. A assumes adenine equals guanine; B is the total for adenine and thymine; D subtracts only guanine, 100 − 18 = 82.\n8. D is right: each new molecule holds one old strand and one new strand. A describes conservative replication, where the old molecule stays whole; B is the error of halving a strand; C describes mixing of old and new pieces along a strand, which is not what happens.\n9. B is right: DNA polymerase joins the nucleotides to build the new strand. A is helicase, which separates the strands; C is amylase, which digests starch and does not act on DNA; D is ATP, a nucleotide that supplies energy and is not an enzyme.\n10. A is right: the strands are unwound first, then nucleotides pair, then they are joined, and the two molecules form last. B pairs nucleotides before the strands are exposed; C joins nucleotides before they have paired; D starts with joining, before there is a template.\n11. D is right: the two original strands end up in two different molecules, so 2 of the 4 molecules contain an original strand. A counts all four, which confuses molecules with strands; B counts one, forgetting that there are two original strands; C has no basis.\n12. C is right: one old and one new strand in each molecule is semi-conservative replication. A would need both blue strands in one molecule; B contradicts the diagram, which shows a blue strand in each molecule; D is the error of halving a strand.",
+   "marking_guidance": [
+    "The key: one mark per correct option, twelve marks in all; about half the questions test recall and half test application to a sequence, a count, a percentage or a described diagram.",
+    "Each distractor is a named error: molecule and strand confused, half a strand kept (the misconception register first), purines and pyrimidines swapped, uracil placed in DNA, hydrogen bond numbers reversed, and events of S phase out of order."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 3.2.1 from the topic claim ledger. Our own scenarios and answers; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.2.1-001": 1,
+    "CLM-8223-3.2.1-004": 1,
+    "CLM-8223-3.2.1-005": 1,
+    "CLM-8223-3.2.1-008": 1,
+    "CLM-8223-3.2.1-009": 1,
+    "CLM-8223-3.2.1-010": 1,
+    "CLM-8223-3.2.1-011": 1,
+    "CLM-8223-3.2.1-012": 1,
+    "CLM-8223-3.2.1-013": 1
+   },
+   "authored_hash": "1c62c08e9b26034ef9370d5ad5005ba69adf0ecf87205c14a1488f9f218f0078",
+   "objective_titles": [
+    "describe the structure of nucleotides, including the phosphorylated nucleotide ATP (structural formulae are not required)",
+    "state that adenine and guanine are purines with a double ring structure, and that cytosine, thymine and uracil are pyrimidines with a single ring structure (structural formulae for bases are not required)",
+    "describe the structure of RNA and DNA and explain the importance of base pairing and the different hydrogen bonding between bases",
+    "describe the semi-conservative replication of DNA during S phase"
+   ]
+  },
+  {
+   "item_id": "ITEM-8223-3.2.1-P02",
+   "objective_ids": [
+    "OBJ-8223-3.2.1-02",
+    "OBJ-8223-3.2.1-03",
+    "OBJ-8223-3.2.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.2.1-004",
+    "CLM-8223-3.2.1-008",
+    "CLM-8223-3.2.1-009",
+    "CLM-8223-3.2.1-010",
+    "CLM-8223-3.2.1-012"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "State",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "A laboratory in Windhoek analysed the nucleic acids from a sample of plant tissue. The table gives the percentage of each base in a double-stranded DNA sample and in a single-stranded RNA sample; the values are ours.\n\n| Base | DNA sample (per cent) | RNA sample (per cent) |\n|---|---|---|\n| adenine | 28 | 26 |\n| thymine | 28 | not present |\n| uracil | not present | 31 |\n| guanine | 22 | 25 |\n| cytosine | 22 | 18 |\n\n(a) State the percentage of the bases in the DNA sample that are pyrimidines. [1]\n(b) Explain why the DNA sample has equal percentages of adenine and thymine, whereas the RNA sample does not have equal percentages of adenine and uracil. [2]\n(c) A second DNA sample from the same plant has 12 per cent guanine. Suggest why the strands of the second sample tend to separate at a lower temperature than those of the first sample. [2]\n(d) Describe how DNA is copied in S phase so that each new molecule holds one old strand and one new strand. [3]",
+   "canonical_answer": "(a) Pyrimidines are cytosine and thymine, so 22 + 28 = 50 per cent.\n(b) In double-stranded DNA each adenine is paired with a thymine on the other strand, so the amounts are equal. The RNA sample is single-stranded, so there is no second strand to pair with and no need for the amounts to match; its bases include uracil instead of thymine.\n(c) The second sample has less cytosine and guanine, 12 + 12 = 24 per cent compared with 22 + 22 = 44 per cent, and more adenine and thymine. Cytosine-guanine pairs have three hydrogen bonds, whereas adenine-thymine pairs have two, so the second sample has fewer hydrogen bonds to break and tends to separate at a lower temperature.\n(d) First, the helix unwinds and the hydrogen bonds between the base pairs are broken, so the strands separate and expose their bases. Then free nucleotides pair with the bases of each old strand by complementary base pairing, and DNA polymerase joins them into a new strand against each old strand. The result is two molecules identical to the original, each with one whole old strand and one whole new strand.",
+   "marking_guidance": [
+    "Marks and points: (a) 1 mark for 50 per cent, with the working 22 + 28 = 50, or for the recognition that cytosine and thymine are the pyrimidines (1); (b) 2 marks from three points: each adenine pairs with a thymine across the two strands, the RNA is single-stranded so there is nothing to pair with, uracil replaces thymine in RNA; (c) 2 marks from three points: more cytosine and guanine in the first sample, three hydrogen bonds against two, so fewer bonds to break in the second sample; (d) 3 marks from five points: unwinding with the hydrogen bonds broken, old strands as templates, complementary base pairing of free nucleotides, joining by DNA polymerase, two molecules each with one old and one new strand.",
+    "Parts (a) and (d) credit AO A (4 marks); parts (b) and (c) credit AO B (4 marks). Each reason must use the data in the table, because a general statement about base pairing without the percentages earns a mark in part (b) only if the single strand of the RNA is linked to the unequal values. A unit of per cent is needed in (a)."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 3.2.1 from the topic claim ledger. Our own scenarios and answers; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.2.1-004": 1,
+    "CLM-8223-3.2.1-008": 1,
+    "CLM-8223-3.2.1-009": 1,
+    "CLM-8223-3.2.1-010": 1,
+    "CLM-8223-3.2.1-012": 1
+   },
+   "authored_hash": "ef97084c210d183805dd3afc6879c444f3d1dc9deb7a0a087fc7662636b32dfb",
+   "objective_titles": [
+    "state that adenine and guanine are purines with a double ring structure, and that cytosine, thymine and uracil are pyrimidines with a single ring structure (structural formulae for bases are not required)",
+    "describe the structure of RNA and DNA and explain the importance of base pairing and the different hydrogen bonding between bases",
+    "describe the semi-conservative replication of DNA during S phase"
+   ]
+  }
+ ]
+}

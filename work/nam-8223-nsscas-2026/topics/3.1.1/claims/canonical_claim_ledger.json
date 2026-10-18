@@ -1,0 +1,644 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-3.1.1",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-3.1.1-001",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-01"
+   ],
+   "text": "A chromosome is one DNA molecule combined with histone proteins; the DNA is wound around the histones and coiled further, which packs a molecule far longer than the nucleus into a compact structure that can be moved when the cell divides.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "3.1.1 objective 01",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 3.1.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line the claim restates; no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.1.1-002",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-01"
+   ],
+   "text": "After DNA replication a chromosome consists of two identical sister chromatids, each one DNA molecule with its histones, joined at the centromere; the centromere is where the spindle fibres attach during mitosis.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "3.1.1 objective 01",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 3.1.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line the claim restates; no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.1.1-003",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-01"
+   ],
+   "text": "A telomere is a cap of a short DNA base sequence repeated many times at each end of a chromatid and does not code for a polypeptide; a replicated chromosome has two chromatids and so four telomeres.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "3.1.1 objective 01",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "curriculum/glossary.json",
+     "locator": "curriculum/glossary.json: telomere",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 3.1.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line the claim restates; no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.1.1-004",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-01"
+   ],
+   "text": "Four near-neighbour terms are kept apart: the centromere joins sister chromatids whereas the centrosome organises the spindle; chromatin is loosely coiled DNA with histones in a nucleus that is not dividing whereas a chromosome is that DNA condensed; a chromatid is a whole copy whereas a telomere is its end.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "3.1.1 objective 01",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "curriculum/misconceptions.json",
+     "locator": "curriculum/misconceptions.json MC-8223-3.1.1-01 to -03",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 3.1.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line the claim restates; no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.1.1-005",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-02"
+   ],
+   "text": "Mitosis is the division of a nucleus to give two nuclei with the same number and kind of chromosomes as the parent nucleus; the daughter nuclei are genetically identical because the DNA is replicated first and one of the two sister chromatids of each chromosome is passed to each nucleus.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "3.1.1 objective 02",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 3.1.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line the claim restates; no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.1.1-006",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-02"
+   ],
+   "text": "Because mitosis gives genetically identical cells, it is the process behind growth by increase in cell number, replacement of cells that are lost or worn out, repair of damaged tissue and asexual reproduction, in which offspring are genetically identical to the parent.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "3.1.1 objective 02",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 3.1.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line the claim restates; no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.1.1-007",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-03"
+   ],
+   "text": "Cells divide by mitosis in the meristem a few millimetres behind a root tip; in a temporary squash the tip is softened in warm dilute acid, stained so that the chromosomes show, then squashed into a layer one cell thick and viewed with a light microscope, while a prepared slide of a root tip shows the same region permanently.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "3.1.1 objective 03",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 3.1.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line the claim restates; no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Method summarised at the level of the syllabus line; the choice of stain and acid concentration varies between schools."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.1.1-008",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-03"
+   ],
+   "text": "In a root tip most cells are in interphase, with a nucleus that is intact and chromosomes not visible as separate structures; the stages of mitosis are recognised by what the chromosomes are doing: condensed and visible in prophase, lined up across the equator in metaphase, separated into two groups moving to opposite poles in anaphase, and decondensing at the poles in telophase.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "3.1.1 objective 03",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "syllabus 3.1.2 line: names of the main stages are expected",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 3.1.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line the claim restates; no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. The timing of the nuclear envelope in prophase is left out of this unit on purpose because textbook accounts differ."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.1.1-009",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-03"
+   ],
+   "text": "A drawing of a mitotic stage shows what is seen: clear single lines, no shading, drawn in proportion, with the chromosomes shown at the size and arrangement seen and labelled with straight lines; where the proportion of cells in each stage is counted in a sample, a stage seen in more cells tends to last a larger share of the cycle, provided the cells are dividing at different times.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "3.1.1 objective 03",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 3.1.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line the claim restates; no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Drawing conventions summarised from general practice."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.1.1-010",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-04"
+   ],
+   "text": "The mitotic cell cycle is interphase, then mitosis, then cytokinesis, after which the two daughter cells begin interphase again; interphase has three phases in order: G1, S and G2.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "3.1.1 objective 04",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 3.1.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line the claim restates; no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.1.1-011",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-04"
+   ],
+   "text": "In G1 the cell grows and makes proteins and organelles; in S phase the DNA is replicated, so each chromosome becomes two sister chromatids; in G2 the cell grows further and prepares for mitosis; cytokinesis then divides the cytoplasm to give two cells.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "3.1.1 objective 04",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 3.1.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line the claim restates; no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Details of G2 preparation (making the proteins of the spindle, checking the copied DNA) are our summary of standard accounts."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.1.1-012",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-04"
+   ],
+   "text": "Interphase is usually the longest part of the cycle and mitosis a short part, so in a sample of dividing tissue most cells are in interphase; the time spent in a stage is estimated as the fraction of cells in that stage multiplied by the length of the cycle, provided the cells are not dividing in step with one another.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "3.1.1 objective 04",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 3.1.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line the claim restates; no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.1.1-013",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-05"
+   ],
+   "text": "A telomere is made of DNA, so it is copied when the chromosome is replicated, and a short length of DNA at the end of each chromatid is not copied each time the DNA is replicated, so the telomere becomes shorter at each replication.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "3.1.1 objective 05",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "curriculum/glossary.json",
+     "locator": "curriculum/glossary.json: telomere",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 3.1.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line the claim restates; no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Mechanism of the incomplete end copying is not taught in this topic."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.1.1-014",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-05"
+   ],
+   "text": "Because the telomere has no genes and is lost a little at each replication, the genes behind it are kept intact for a number of divisions: the telomere is used up first, which permits continued replication and prevents the loss of genes.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "3.1.1 objective 05",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 3.1.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line the claim restates; no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.1.1-015",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-05"
+   ],
+   "text": "When the telomeres of a cell have become very short after many divisions, the genes next to them are at risk, and the cell tends to stop dividing or to die rather than continue.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "3.1.1 objective 05",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 3.1.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line the claim restates; no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Stated as a tendency; the exact trigger is not taught."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.1.1-016",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-05"
+   ],
+   "text": "A telomere is not a hard or plastic cap and does not stop a chromatid getting shorter: it is made of DNA, and it loses a little length at each replication, which is what protects the genes behind it.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "3.1.1 objective 05",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "curriculum/misconceptions.json",
+     "locator": "curriculum/misconceptions.json MC-8223-3.1.1-04, -05",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 3.1.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line the claim restates; no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.1.1-017",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-06"
+   ],
+   "text": "A stem cell is an unspecialised cell that divides by mitosis and can give rise to daughter cells that become specialised; some daughter cells stay as stem cells so that a supply is kept.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "3.1.1 objective 06",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 3.1.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line the claim restates; no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.1.1-018",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-06"
+   ],
+   "text": "Stem cells replace and repair tissue by mitosis: in the deep layer of the skin and in bone marrow they divide, and daughter cells specialise to become new skin cells or blood cells that replace those lost or damaged.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "3.1.1 objective 06",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 3.1.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line the claim restates; no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.1.1-019",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-07"
+   ],
+   "text": "A tumour is a mass of cells formed by uncontrolled cell division; it can arise when a mutation changes a gene that controls the cell cycle so that the cell no longer responds to the signals that restrain division.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "3.1.1 objective 07",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 3.1.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line the claim restates; no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.1.1-020",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-07"
+   ],
+   "text": "Because mitosis gives genetically identical cells, the daughter cells of a cell with such a mutation carry it too and also divide without restraint; the tumour grows when cells are made faster than cells are lost.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "3.1.1 objective 07",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 3.1.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line the claim restates; no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-3.1.1-021",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-07"
+   ],
+   "text": "Telomerase is an enzyme that adds repeats of the telomere sequence to the ends of chromatids, replacing the DNA lost at each replication; it is active in stem cells and in many tumour cells, which lets those cells avoid the shortening that would otherwise limit their divisions, so they keep dividing, and it does not break telomeres down.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "3.1.1 objective 07",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "curriculum/misconceptions.json",
+     "locator": "curriculum/misconceptions.json MC-8223-3.1.1-06",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 3.1.1 under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line the claim restates; no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Activity in most normal body cells is low; stated as a tendency."
+   ]
+  }
+ ]
+}

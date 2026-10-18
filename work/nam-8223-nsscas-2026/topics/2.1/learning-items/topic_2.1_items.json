@@ -1,0 +1,800 @@
+{
+ "dataset_id": "ITEMS-8223-2.1",
+ "topic_id": "2.1",
+ "items": [
+  {
+   "item_id": "ITEM-8223-2.1-001-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.1-002",
+    "CLM-8223-2.1-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by a transmission electron microscope.",
+   "canonical_answer": "A microscope in which a beam of electrons passes through a very thin section of the specimen and is focused by electromagnets to form an image of its internal structure.",
+   "marking_guidance": [
+    "1 mark. The definition names the key words: a beam of electrons, passing through a very thin section (or thin specimen), giving an image of the internal structure. Accept focusing by electromagnets in place of the internal structure.",
+    "Reject a beam of light, and reject a beam that scans the surface, which is the statement for a scanning electron microscope."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 NSSCAS Biology resource from the topic 2.1 claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.1-002": 1,
+    "CLM-8223-2.1-003": 1
+   },
+   "authored_hash": "d15c5a679b5bfe09813c71f01a899eb58b234c1fd8bd3a47cbaab0f97235fba7"
+  },
+  {
+   "item_id": "ITEM-8223-2.1-002-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.1-002",
+    "CLM-8223-2.1-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Explain why an electron microscope can show finer detail than a light microscope.",
+   "canonical_answer": "An electron beam has a much shorter wavelength than visible light. Because the shorter the wavelength the smaller the distance between two points that can still be seen as separate, the electron microscope has a higher resolution, so it shows structures that a light microscope blurs together.",
+   "marking_guidance": [
+    "2 marks. How it works, as a cause and effect: electrons have a much shorter wavelength than light (1), which gives a higher resolution because points closer together are still seen as separate (1).",
+    "Reject a statement that it only magnifies more, because magnification alone does not give more detail."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 NSSCAS Biology resource from the topic 2.1 claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.1-002": 1,
+    "CLM-8223-2.1-006": 1
+   },
+   "authored_hash": "88c543c530ac19b6958fa7df66ddb0b09e1a8bdb7774075d18a9cfe23033365b"
+  },
+  {
+   "item_id": "ITEM-8223-2.1-015-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.1-003",
+    "CLM-8223-2.1-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner looks at a scanning electron micrograph of a pollen grain from a mopane tree. It shows a rounded grain with a spiny surface, shadows and depth. The learner says it shows the inside of the grain cut through. Explain the error.",
+   "canonical_answer": "The error is a confusion of a scanning electron micrograph with a transmission one. In fact a scanning electron microscope builds its image from electrons coming off the outer surface, so it shows the surface in three dimensions, not the interior. A transmission electron micrograph shows the inside of a thin section, flat. The test is to ask whether the micrograph shows a surface or an interior: depth, highlights and shadows with no cut edges mean a surface.",
+   "marking_guidance": [
+    "2 marks: the error named, that a scanning electron micrograph shows the outer surface and not the interior (1); the correct idea or the test, that the interior of a thin section is shown by a transmission electron micrograph, or that depth and shadow mean a surface (1).",
+    "The card is a discrimination between surface and interior, not a repeat of the definition of a scanning electron microscope."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 NSSCAS Biology resource from the topic 2.1 claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.1-003": 1,
+    "CLM-8223-2.1-004": 1
+   },
+   "authored_hash": "9ac365381eb47aaf972363bb3edb796a55767918be4bd798a00c27c342b41de7"
+  },
+  {
+   "item_id": "ITEM-8223-2.1-003-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.1-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.1-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by the resolution of a microscope.",
+   "canonical_answer": "The smallest distance at which two points can still be seen as separate.",
+   "marking_guidance": [
+    "1 mark. The definition has two key words: smallest distance, and two points still seen as separate. Accept the ability of the microscope to show two close points as separate.",
+    "Reject how many times larger the image is than the object, which is the meaning of magnification."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 NSSCAS Biology resource from the topic 2.1 claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.1-005": 1
+   },
+   "authored_hash": "88a07facb7961aa8b85c27abe533892d5800c788a9be3dfd59b9f013e709cbd7"
+  },
+  {
+   "item_id": "ITEM-8223-2.1-004-DIST",
+   "objective_ids": [
+    "OBJ-8223-2.1-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.1-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one difference between magnification and resolution.",
+   "canonical_answer": "Magnification is how many times larger the image is than the real object, whereas resolution is the smallest distance at which two points can still be seen as separate, which is a property of the microscope.",
+   "marking_guidance": [
+    "1 mark for one clear difference stated for both terms, with the contrast made explicit: magnification is the size of the image compared with the object, whereas resolution is the detail, the smallest distance between two points seen as separate.",
+    "Reject a statement about only one term, and reject saying that the two are the same."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 NSSCAS Biology resource from the topic 2.1 claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.1-005": 1
+   },
+   "authored_hash": "a39a870e40223162dc2425024ea16e19b61ecda6796d1ed79fb30601b3b4fdc4"
+  },
+  {
+   "item_id": "ITEM-8223-2.1-014-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.1-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.1-005",
+    "CLM-8223-2.1-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner photocopies a light micrograph of a leaf section taken at ×400 so that the print is at ×1600. The learner says the photocopy has a higher resolution because it is bigger. Explain the error.",
+   "canonical_answer": "The error is a confusion of magnification with resolution. In fact the photocopy is 1600 ÷ 400 = 4 times bigger, but structures already blurred together in the original are still blurred, so no more detail is shown and the resolution has not changed. Resolution belongs to the microscope, not to the image. The test is to ask whether making the image bigger shows any more detail, and here it does not.",
+   "marking_guidance": [
+    "2 marks: the error named, that bigger magnification was taken as better resolution (1); the correct idea or the test, that resolution is the smallest distance at which two points are seen as separate and belongs to the microscope, or that enlarging does not reveal more detail (1).",
+    "Accept the term empty magnification. The card is a discrimination, not a repeat of both definitions."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 NSSCAS Biology resource from the topic 2.1 claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.1-005": 1,
+    "CLM-8223-2.1-007": 1
+   },
+   "authored_hash": "fa1a58fbd090be0fff3bb10b5ad1c56d656566f72d3b3dee1906701800fff67a"
+  },
+  {
+   "item_id": "ITEM-8223-2.1-005-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.1-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by a stage micrometer.",
+   "canonical_answer": "A microscope slide with a fine scale of known length etched on it, used to calibrate the eyepiece graticule.",
+   "marking_guidance": [
+    "1 mark. The definition has two key words: a slide with a scale of known length. Accept the purpose, calibrating the eyepiece graticule, as the second key word.",
+    "Reject a scale placed in the eyepiece, which is the eyepiece graticule."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 NSSCAS Biology resource from the topic 2.1 claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.1-009": 1
+   },
+   "authored_hash": "9a8ecfb30eef4549bfb47023fdfc635492efd2f877e91a6e6ad008806cba25b0"
+  },
+  {
+   "item_id": "ITEM-8223-2.1-006-CALC",
+   "objective_ids": [
+    "OBJ-8223-2.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.1-009",
+    "CLM-8223-2.1-010",
+    "CLM-8223-2.1-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner calibrates a microscope with the ×40 objective. Eighty divisions of the eyepiece graticule line up with 0.40 mm on the stage micrometer. Calculate the length of one eyepiece division in µm.",
+   "canonical_answer": "Length of one division = stage micrometer length ÷ number of divisions, so 0.40 ÷ 80 = 0.005 mm. Converting to micrometres, 0.005 × 1000 = 5 µm. One eyepiece division is 5 µm at this objective.",
+   "marking_guidance": [
+    "Working: the equation length of one division = known length ÷ number of divisions, with the substitution 0.40 ÷ 80 - 1 mark.",
+    "Final answer: 5 µm with its unit - 1 mark. An answer left as 0.005 mm has not been converted to the unit asked for and earns the working mark only."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 NSSCAS Biology resource from the topic 2.1 claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.1-009": 1,
+    "CLM-8223-2.1-010": 1,
+    "CLM-8223-2.1-008": 1
+   },
+   "authored_hash": "c1e041bdb9a97e901ff4b6e2a4b7f3ae49f1810ca099c457c5a1e4b6b73d654f"
+  },
+  {
+   "item_id": "ITEM-8223-2.1-007-CALC",
+   "objective_ids": [
+    "OBJ-8223-2.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.1-009",
+    "CLM-8223-2.1-010",
+    "CLM-8223-2.1-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "With the ×10 objective, one eyepiece graticule division has been calibrated as 25 µm. A leaf epidermal cell spans 6.4 divisions. Calculate the length of the cell in mm.",
+   "canonical_answer": "Length of cell = number of divisions × length of one division, so 6.4 × 25 = 160 µm. Converting to millimetres, 160 ÷ 1000 = 0.16 mm. The cell is 0.16 mm long.",
+   "marking_guidance": [
+    "Working: the equation length = divisions × calibration, with the substitution 6.4 × 25 giving 160 µm - 1 mark.",
+    "Final answer: 0.16 mm after converting with ÷ 1000, with its unit - 1 mark. Accept 160 µm only if converted; the unit asked for is mm."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 NSSCAS Biology resource from the topic 2.1 claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.1-009": 1,
+    "CLM-8223-2.1-010": 1,
+    "CLM-8223-2.1-008": 1
+   },
+   "authored_hash": "1c52cf299fa280ec7c70b9c867ea55171ad3441954d42455e93d965f501cf74a"
+  },
+  {
+   "item_id": "ITEM-8223-2.1-008-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.1-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State the equation for the actual size of a specimen in terms of the size of its image and the magnification.",
+   "canonical_answer": "Actual size = image size ÷ magnification, with both lengths in the same unit.",
+   "marking_guidance": [
+    "1 mark. The statement has the key words image size, divided by, and magnification, in this arrangement. Accept the equation in symbols, or the rearrangement of magnification = image size ÷ actual size.",
+    "Reject image size × magnification, which gives a quantity that has no meaning here."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 NSSCAS Biology resource from the topic 2.1 claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.1-011": 1
+   },
+   "authored_hash": "58ed7d01636b022df08408f964a60ffc8ad82a28b5b9a27d1c542e527f8236c1"
+  },
+  {
+   "item_id": "ITEM-8223-2.1-009-CALC",
+   "objective_ids": [
+    "OBJ-8223-2.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.1-011",
+    "CLM-8223-2.1-012",
+    "CLM-8223-2.1-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A photomicrograph of a stained cheek cell is at a magnification of ×600. The cell measures 36 mm across on the print. Calculate the actual diameter of the cell in µm.",
+   "canonical_answer": "Actual size = image size ÷ magnification, so 36 ÷ 600 = 0.06 mm. Converting to micrometres, 0.06 × 1000 = 60 µm. The cell is 60 µm across.",
+   "marking_guidance": [
+    "Working: the equation actual size = image size ÷ magnification, with the substitution 36 ÷ 600 - 1 mark.",
+    "Final answer: 60 µm with its unit - 1 mark, after converting from mm."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 NSSCAS Biology resource from the topic 2.1 claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.1-011": 1,
+    "CLM-8223-2.1-012": 1,
+    "CLM-8223-2.1-008": 1
+   },
+   "authored_hash": "99745f957e5c7b39325fff7b6544c6e7bab2d170cdf0283914cfdb0e1cb48c30"
+  },
+  {
+   "item_id": "ITEM-8223-2.1-010-CALC",
+   "objective_ids": [
+    "OBJ-8223-2.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.1-011",
+    "CLM-8223-2.1-012",
+    "CLM-8223-2.1-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "An electron micrograph of a mitochondrion from a muscle cell of a tilapia from the Okavango is at a magnification of ×30 000. The mitochondrion is 45 mm long on the print. Calculate its actual length in µm.",
+   "canonical_answer": "Actual size = image size ÷ magnification, so 45 ÷ 30000 = 0.0015 mm. Converting to micrometres, 0.0015 × 1000 = 1.5 µm. The mitochondrion is 1.5 µm long.",
+   "marking_guidance": [
+    "Working: the equation actual size = image size ÷ magnification, with the substitution 45 ÷ 30 000 - 1 mark.",
+    "Final answer: 1.5 µm with its unit - 1 mark. Accept 1500 nm as an equivalent answer with its unit."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 NSSCAS Biology resource from the topic 2.1 claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.1-011": 1,
+    "CLM-8223-2.1-012": 1,
+    "CLM-8223-2.1-008": 1
+   },
+   "authored_hash": "c85e053f9d17f49e80bc7f60674ccfe97567c528a380f5677458d1be17197e41"
+  },
+  {
+   "item_id": "ITEM-8223-2.1-011-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.1-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by the linear magnification of a drawing or micrograph.",
+   "canonical_answer": "The length of the image divided by the actual length of the specimen, with both in the same unit; it is a ratio and has no unit.",
+   "marking_guidance": [
+    "1 mark. The definition has the key words: image length divided by actual length, both lengths in the same unit. Accept how many times larger the image is than the object.",
+    "Reject a magnification given with a unit such as mm."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 NSSCAS Biology resource from the topic 2.1 claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.1-013": 1
+   },
+   "authored_hash": "59c7a28fac87d8f3a7d945f0a803585c34b2a82ef43fc665afc62ae3b08265af"
+  },
+  {
+   "item_id": "ITEM-8223-2.1-012-CALC",
+   "objective_ids": [
+    "OBJ-8223-2.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.1-013",
+    "CLM-8223-2.1-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "A learner draws a palisade cell from a section of mopane leaf. The drawing is 48 mm long. The real length of the cell, found with an eyepiece graticule, is 80 µm. Calculate the magnification of the drawing.",
+   "canonical_answer": "Magnification = image size ÷ actual size. Both lengths must be in the same unit, so 48 × 1000 = 48000 µm. Then 48000 ÷ 80 = 600. The magnification is ×600.",
+   "marking_guidance": [
+    "Working: the equation magnification = image size ÷ actual size, with both lengths in one unit and the substitution 48 000 ÷ 80 - 1 mark.",
+    "Final answer: ×600 - 1 mark. Magnification has no unit, so the answer is not given in mm or µm; 0.6 earns no answer mark because the units were mixed."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 NSSCAS Biology resource from the topic 2.1 claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.1-013": 1,
+    "CLM-8223-2.1-008": 1
+   },
+   "authored_hash": "78c1a008694ff9b7d403e8a138ca485c604254a534d8975a47d0f9ed0b743f01"
+  },
+  {
+   "item_id": "ITEM-8223-2.1-013-CALC",
+   "objective_ids": [
+    "OBJ-8223-2.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.1-013",
+    "CLM-8223-2.1-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "An electron micrograph of a chloroplast carries a scale bar. The bar measures 20 mm on the print and is labelled 2 µm. Calculate the magnification of the micrograph.",
+   "canonical_answer": "Magnification = length of bar on the print ÷ length the bar is labelled as. Converting, 20 × 1000 = 20000 µm. Then 20000 ÷ 2 = 10000. The magnification is ×10 000.",
+   "marking_guidance": [
+    "Working: the equation magnification = measured length ÷ labelled length, with both converted to µm and the substitution 20 000 ÷ 2 - 1 mark.",
+    "Final answer: ×10 000 - 1 mark. It has no unit. An answer of ×10 earns no answer mark because the mm and µm were mixed."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 NSSCAS Biology resource from the topic 2.1 claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.1-013": 1,
+    "CLM-8223-2.1-008": 1
+   },
+   "authored_hash": "2d80c0c1c8ed08b011bdc0df7b3f7ffbb2d68e6468186d954174866cb108ed70"
+  },
+  {
+   "item_id": "ITEM-8223-2.1-016-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.1-014"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner uses a light microscope with a ×10 eyepiece lens and a ×40 objective lens. The learner says the magnification of the image is ×40 because the objective lens does the main work. Explain the error.",
+   "canonical_answer": "The error is to quote one lens instead of the total. In fact both lenses enlarge the image one after the other, so the total magnification is the eyepiece magnification multiplied by the objective magnification: 10 × 40 = 400, so the image is ×400. The test is to ask what the total is with a ×10 eyepiece and a ×40 objective: ×400, not ×40 and not 50.",
+   "marking_guidance": [
+    "2 marks: the error named, that only the objective lens (or only one lens) was counted (1); the correct idea, that the two magnifications are multiplied to give ×400 (1).",
+    "Accept the test as the second mark. The card is a discrimination, not a repeat of the formula."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 NSSCAS Biology resource from the topic 2.1 claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.1-014": 1
+   },
+   "authored_hash": "0f64f50e20d33d2656f20cc77448de73bdd546c300d5ef08617c7279c58b4fa1"
+  },
+  {
+   "item_id": "ITEM-8223-2.1-P01",
+   "objective_ids": [
+    "OBJ-8223-2.1-01",
+    "OBJ-8223-2.1-02",
+    "OBJ-8223-2.1-03",
+    "OBJ-8223-2.1-04",
+    "OBJ-8223-2.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.1-001",
+    "CLM-8223-2.1-002",
+    "CLM-8223-2.1-003",
+    "CLM-8223-2.1-005",
+    "CLM-8223-2.1-006",
+    "CLM-8223-2.1-008",
+    "CLM-8223-2.1-009",
+    "CLM-8223-2.1-010",
+    "CLM-8223-2.1-011",
+    "CLM-8223-2.1-013",
+    "CLM-8223-2.1-014"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": null,
+   "mark_tariff": 12,
+   "difficulty": 3,
+   "prompt": "Twelve questions. Choose one option for each.\n\n1. Which radiation forms the image in a transmission electron microscope?\nA  visible light\nB  a beam of electrons\nC  ultraviolet light\nD  a beam of X-rays\n\n2. Why does an electron microscope have a higher resolution than a light microscope?\nA  The electron beam has a much shorter wavelength than visible light.\nB  Its lenses are made of better glass.\nC  It has a brighter lamp.\nD  Its specimens are thicker.\n\n3. A micrograph shows a three-dimensional view of the outer surface of an insect eye. Which instrument made it?\nA  a transmission electron microscope\nB  a light microscope with a stain\nC  a scanning electron microscope\nD  a light microscope with a graticule\n\n4. Which statement about specimens in an electron microscope is correct?\nA  The specimen is viewed alive in air.\nB  The specimen is not prepared in any way.\nC  The specimen is kept wet and in colour.\nD  The specimen is in a vacuum, so living cells cannot be viewed alive.\n\n5. Which statement is the best description of resolution?\nA  how many times larger the image is than the object\nB  the smallest distance at which two points can still be seen as separate\nC  the brightness of the image\nD  the thickness of the section\n\n6. Which change would increase the resolution of a microscope?\nA  using radiation of a shorter wavelength\nB  using an eyepiece lens of higher magnification\nC  enlarging a photograph of the image\nD  staining the specimen darker\n\n7. A cell is 0.012 mm long. What is its length in µm?\nA  1.2 µm\nB  120 µm\nC  12 µm\nD  12 000 µm\n\n8. A light microscope has a ×10 eyepiece and a ×25 objective. What is the total magnification?\nA  ×35\nB  ×25\nC  ×2500\nD  ×250\n\n9. Fifty graticule divisions line up with 0.25 mm on the stage micrometer. What is the length of one division?\nA  0.005 µm\nB  5 µm\nC  50 µm\nD  200 µm\n\n10. A cheek cell measures 24 mm across on a photomicrograph at ×400. What is its actual size?\nA  60 µm\nB  9600 µm\nC  6 µm\nD  0.06 µm\n\n11. A drawing of a cell is 90 mm long. The real cell is 150 µm long. What is the magnification of the drawing?\nA  ×0.6\nB  ×13 500 000\nC  ×600\nD  ×60\n\n12. An electron micrograph has a scale bar 15 mm long labelled 5 µm. What is the magnification?\nA  ×3\nB  ×75 000\nC  ×300\nD  ×3000",
+   "canonical_answer": "Key: 1 B, 2 A, 3 C, 4 D, 5 B, 6 A, 7 C, 8 D, 9 B, 10 A, 11 C, 12 D.\n1. Key B: Electrons pass through the thin section. A is a distractor, an error because: Visible light is used by the light microscope. C is a distractor, an error because: Ultraviolet light is a confusion with fluorescence techniques. D is a distractor, an error because: X-rays are not focused by electromagnets to form the image.\n2. Key A: A shorter wavelength lets two points closer together be seen as separate. B is a distractor, an error because: Electron microscopes have no glass lenses; electromagnets focus the beam. C is a distractor, an error because: Brightness does not set the smallest separable distance. D is a distractor, an error because: Thick specimens would scatter the beam and are not the reason.\n3. Key C: A scanning beam over a metal-coated surface gives a three-dimensional surface view. A is a distractor, an error because: A transmission electron microscope shows a flat image of the interior of a thin section. B is a distractor, an error because: A stained light micrograph is in colour, flat and has lower resolution. D is a distractor, an error because: A graticule is a scale, not a way of forming a surface view.\n4. Key D: The beam would be scattered by air, so the specimen is in a vacuum and is fixed and dehydrated. A is a distractor, an error because: Air scatters electrons, so the specimen is not in air. B is a distractor, an error because: Specimens are fixed, dehydrated and stained with heavy metals. C is a distractor, an error because: Electron images are in shades of grey and the specimen is dry.\n5. Key B: Resolution is about separating two close points, a property of the microscope. A is a distractor, an error because: This is magnification. C is a distractor, an error because: Brightness is a different property of the image. D is a distractor, an error because: Section thickness is a property of the specimen.\n6. Key A: A shorter wavelength separates points that are closer together. B is a distractor, an error because: A stronger eyepiece raises magnification, not resolution. C is a distractor, an error because: Enlarging the print adds size but no detail. D is a distractor, an error because: Staining raises contrast, not the limit of resolution.\n7. Key C: 0.012 × 1000 = 12. A is a distractor, an error because: This divides by 10 instead of multiplying by 1000. B is a distractor, an error because: This multiplies by 10000. D is a distractor, an error because: This multiplies by 1 000 000.\n8. Key D: 10 × 25 = 250. A is a distractor, an error because: This adds the magnifications: 10 + 25 = 35. B is a distractor, an error because: This quotes only the objective. C is a distractor, an error because: This adds an extra zero.\n9. Key B: 0.25 ÷ 50 = 0.005 mm, and 0.005 × 1000 = 5 µm. A is a distractor, an error because: This gives the value in mm but labels it in µm. C is a distractor, an error because: This is a decimal-place slip. D is a distractor, an error because: This divides the other way round, 50 ÷ 0.25 = 200.\n10. Key A: 24 ÷ 400 = 0.06 mm and 0.06 × 1000 = 60 µm. B is a distractor, an error because: This multiplies, 24 × 400 = 9600, instead of dividing. C is a distractor, an error because: This is a decimal-place slip. D is a distractor, an error because: This leaves the answer in mm but labels it µm.\n11. Key C: 90 × 1000 = 90 000 µm and 90 000 ÷ 150 = 600. A is a distractor, an error because: This divides without converting mm to µm: 90 ÷ 150 = 0.6. B is a distractor, an error because: This multiplies the two lengths, 90 000 × 150 = 13 500 000. D is a distractor, an error because: This is a decimal-place slip.\n12. Key D: 15 × 1000 = 15 000 µm and 15 000 ÷ 5 = 3000. A is a distractor, an error because: This divides without converting the units: 15 ÷ 5 = 3. B is a distractor, an error because: This multiplies instead of dividing. C is a distractor, an error because: This is a decimal-place slip.",
+   "marking_guidance": [
+    "Marks and points: 12 marks, one per question, for the correct option. The key is given first, with the correct answer for each question explained and each distractor traced to the error that produces it.",
+    "Questions 1 to 6 test recall and understanding of the principles of microscopy and the difference between resolution and magnification; questions 7 to 12 test application of units, calibration, actual size and magnification."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 NSSCAS Biology resource from the topic 2.1 claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.1-001": 1,
+    "CLM-8223-2.1-002": 1,
+    "CLM-8223-2.1-003": 1,
+    "CLM-8223-2.1-005": 1,
+    "CLM-8223-2.1-006": 1,
+    "CLM-8223-2.1-008": 1,
+    "CLM-8223-2.1-009": 1,
+    "CLM-8223-2.1-010": 1,
+    "CLM-8223-2.1-011": 1,
+    "CLM-8223-2.1-013": 1,
+    "CLM-8223-2.1-014": 1
+   },
+   "authored_hash": "a3f67e17e78044cd3546e9f901d28caaa47cb4a474bb34049afc9f0d437141c1"
+  },
+  {
+   "item_id": "ITEM-8223-2.1-P02",
+   "objective_ids": [
+    "OBJ-8223-2.1-01",
+    "OBJ-8223-2.1-02",
+    "OBJ-8223-2.1-03",
+    "OBJ-8223-2.1-04",
+    "OBJ-8223-2.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.1-002",
+    "CLM-8223-2.1-003",
+    "CLM-8223-2.1-005",
+    "CLM-8223-2.1-006",
+    "CLM-8223-2.1-008",
+    "CLM-8223-2.1-011",
+    "CLM-8223-2.1-012",
+    "CLM-8223-2.1-013",
+    "CLM-8223-2.1-014"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "State",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "A technician in Walvis Bay photographs a diatom from a seawater sample through a light microscope with a ×10 eyepiece lens and a ×100 objective lens. The photograph is printed with no further enlargement. These are our measurements from the print.\n\n| Feature | Length on the print (mm) |\n|---|---|\n| Length of the diatom | 54 |\n| Width of the diatom | 18 |\n\n(a) State the total magnification of the photomicrograph. [1]\n(b) Calculate the actual length of the diatom in µm. [2]\n(c) Calculate the actual width of the diatom in µm. [1]\n(d) The diatom wall has rows of pores 100 nm apart. Explain why two neighbouring pores cannot be seen as separate in the light photomicrograph. [2]\n(e) Describe how a scanning electron micrograph of the same diatom would differ from the light photomicrograph. [2]",
+   "canonical_answer": "(a) Total magnification = eyepiece × objective, so 10 × 100 = 1000. The magnification is ×1000.\n(b) Actual size = image size ÷ magnification, so 54 ÷ 1000 = 0.054 mm. Converting, 0.054 × 1000 = 54 µm.\n(c) 18 ÷ 1000 = 0.018 mm, and 0.018 × 1000 = 18 µm.\n(d) A light microscope has a resolution of about 0.2 µm (200 nm). The pores are 100 nm apart, which is less than this smallest distance, so they are blurred together and appear as one. A higher magnification would not help, because resolution is a property of the microscope.\n(e) The scanning electron micrograph would show the outer surface in three dimensions, with depth and shadow. It would be in black and white (shades of grey), and the pores would be seen as separate because the resolution is higher.",
+   "marking_guidance": [
+    "Marks and points: (a) 1 mark for ×1000; (b) 2 marks: equation and substitution 54 ÷ 1000 with conversion (1), the answer 54 µm with its unit (1); (c) 1 mark for 18 µm with its unit; (d) 2 marks: the resolution of a light microscope is about 0.2 µm or 200 nm, which is larger than 100 nm (1), so the two pores are not seen as separate, with the reason that the spacing is below the smallest distance that can be separated (1); (e) 2 marks from three points: three-dimensional view of the surface, black and white or grey, pores seen separately because of the higher resolution.",
+    "Parts (a) and (e) credit AO A (3 marks); parts (b), (c) and (d) credit AO B (5 marks). Each mark is for a term used correctly with its unit, and the reason in (d) must use the figures given, not a general statement."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for the 8223 NSSCAS Biology resource from the topic 2.1 claim ledger. Unverified, single source.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.1-002": 1,
+    "CLM-8223-2.1-003": 1,
+    "CLM-8223-2.1-005": 1,
+    "CLM-8223-2.1-006": 1,
+    "CLM-8223-2.1-008": 1,
+    "CLM-8223-2.1-011": 1,
+    "CLM-8223-2.1-012": 1,
+    "CLM-8223-2.1-013": 1,
+    "CLM-8223-2.1-014": 1
+   },
+   "authored_hash": "4a69af986f09695502804fa58f36fb9e5a71a00ae4fe803bb50650f4c737bf75"
+  }
+ ]
+}

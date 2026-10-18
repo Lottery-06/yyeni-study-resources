@@ -1,0 +1,330 @@
+{
+ "unit_id": "CU-8223-2.4.1",
+ "title": "Carbohydrates and lipids",
+ "objective_ids": [
+  "OBJ-8223-2.4.1-01",
+  "OBJ-8223-2.4.1-02",
+  "OBJ-8223-2.4.1-03",
+  "OBJ-8223-2.4.1-04",
+  "OBJ-8223-2.4.1-05",
+  "OBJ-8223-2.4.1-06",
+  "OBJ-8223-2.4.1-07",
+  "OBJ-8223-2.4.1-08",
+  "OBJ-8223-2.4.1-09",
+  "OBJ-8223-2.4.1-10",
+  "OBJ-8223-2.4.1-11",
+  "OBJ-8223-2.4.1-12"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_structure_function",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 3600,
+  "target": 4400,
+  "max": 5160
+ },
+ "blocks": [
+  {
+   "block_id": "2.4.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "How the large carbohydrate and lipid molecules are built, what the bonds between their parts are called, how those structures suit the jobs the molecules do in living organisms, and how the laboratory tests for sugars, starch and lipids are carried out and read. The manipulation itself is practised at the bench; these notes teach the method, the reasons for each step and how to interpret a result.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "7413301e3c13d5fcd67ab86b81be47e69a2f2d1465584f2ad170fe5e4e1658c8"
+  },
+  {
+   "block_id": "2.4.1-b2",
+   "block_type": "plain_explanation",
+   "heading": "Monomers, polymers and the sugars",
+   "text": "Many of the molecules of life are large. A monomer is a small molecule that can join with many others of the same or a similar kind. A polymer is a large molecule made of many monomers joined together in a chain. A macromolecule is a very large molecule, and polysaccharides, proteins and nucleic acids are macromolecules that are polymers, each built from many smaller units.\n\nCarbohydrates are named by the number of sugar units they contain. A monosaccharide is a single sugar unit. Glucose, fructose and galactose are monosaccharides. A disaccharide is two monosaccharides joined by one glycosidic bond. Maltose is two glucose units and sucrose is one glucose and one fructose. A polysaccharide is many monosaccharides joined by glycosidic bonds. Starch, glycogen and cellulose are polysaccharides, and in each of them the monosaccharide is glucose.\n\nThe words describe size and structure, and they build on each other. A sugar unit is a monomer, a polysaccharide is a polymer of that monomer, and a polysaccharide is also a macromolecule because it is so large. Keep the three prefixes straight: mono- means one unit, di- means two and poly- means many. A lipid such as a triglyceride is also a large molecule, but it is built from glycerol and fatty acids, not from a long chain of repeated units, so the words monomer and polymer are used for carbohydrates, proteins and nucleic acids.",
+   "claim_ids": [
+    "CLM-8223-2.4.1-001",
+    "CLM-8223-2.4.1-002",
+    "CLM-8223-2.4.1-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.1-001": 1,
+    "CLM-8223-2.4.1-002": 1,
+    "CLM-8223-2.4.1-003": 1
+   },
+   "authored_hash": "fbc89b66b3007c2bc7cddc3cf90208aa9d25fe071d9e19226bbbdcd1cfbf9c19"
+  },
+  {
+   "block_id": "2.4.1-b3",
+   "block_type": "components",
+   "heading": "The ring forms of α-glucose and β-glucose",
+   "text": "Glucose has the formula C6H12O6. In solution its molecule closes into a ring. The ring has six corners, five of them carbon atoms and one an oxygen atom. The carbons are numbered 1 to 6, with carbon 1 next to the ring oxygen. Carbon 6 is not part of the ring. It is a CH2OH group attached to carbon 5 and, in the usual drawing, it points up from the ring.\n\nEach carbon in the ring carries a hydroxyl group, written -OH, and a hydrogen atom. Which side of the ring the -OH sits on decides the form of glucose. When the ring is drawn in the usual way, the -OH on carbon 2 is below the ring, the -OH on carbon 3 is above it and the -OH on carbon 4 is below it. These three are the same in both forms.\n\nThe forms differ in one place, the -OH on carbon 1. In α-glucose that -OH is below the ring. In β-glucose it is above the ring. The two molecules have the same formula and are called isomers: they contain the same atoms arranged differently. Both have one ring, and the difference between them is not the number of rings.\n\nTake care with the names of the groups. A hydroxyl group is -OH. A carboxyl group is -COOH, and it belongs to fatty acids and amino acids, not to glucose. A useful test is to ask where the -OH on carbon 1 is. If it is below the ring the molecule is α-glucose, and if it is above the ring the molecule is β-glucose. The difference looks small, but it changes the shape of the polysaccharides built from each form, as the sections on starch and cellulose show.",
+   "claim_ids": [
+    "CLM-8223-2.4.1-004",
+    "CLM-8223-2.4.1-005",
+    "CLM-8223-2.4.1-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.1-004": 1,
+    "CLM-8223-2.4.1-005": 1,
+    "CLM-8223-2.4.1-006": 1
+   },
+   "authored_hash": "7018dda8eae3aba86b2dd701c9513ee95ff7d500ca4b56daf3de63acbd699f6e"
+  },
+  {
+   "block_id": "2.4.1-b4",
+   "block_type": "process",
+   "heading": "Condensation and the glycosidic bond",
+   "text": "Monosaccharides join by condensation. In a condensation reaction an -OH group on one molecule reacts with an -OH group on another. A molecule of water is released and the two units are left joined through an oxygen atom, a C-O-C link. The link between two sugar units is a glycosidic bond.\n\nIn maltose, two α-glucose units join between carbon 1 of one unit and carbon 4 of the other, an α-1,4 glycosidic bond, and one water molecule is released. Sucrose forms in the same way but from different sugars. It is one α-glucose unit joined to one fructose unit, with the glycosidic bond between carbon 1 of glucose and carbon 2 of fructose. Both maltose and sucrose are disaccharides, so each has one glycosidic bond.\n\nA polysaccharide forms when condensation is repeated many times, adding one unit at a time to a growing chain. Each time a unit is added, one glycosidic bond forms and one molecule of water is released. A chain of n units that is not branched therefore has (n - 1) glycosidic bonds, and (n - 1) molecules of water were released while it formed. For example, a short unbranched chain of 10 glucose units has 10 - 1 = 9 glycosidic bonds, and 9 molecules of water were released. A polysaccharide that branches has extra bonds at the branch points, which are covered below with starch and glycogen.\n\nCondensation is how large biological molecules are assembled from their units, and in a cell it is helped by enzymes. The idea to remember is that a bond forms as water leaves: if water is released, the reaction is condensation, and a bond has formed.",
+   "claim_ids": [
+    "CLM-8223-2.4.1-007",
+    "CLM-8223-2.4.1-008",
+    "CLM-8223-2.4.1-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.1-007": 1,
+    "CLM-8223-2.4.1-008": 1,
+    "CLM-8223-2.4.1-009": 1
+   },
+   "authored_hash": "8b4af77cedf952a47880f572b9eeb357b6f778ed3c440d9af4cfd9474093108b"
+  },
+  {
+   "block_id": "2.4.1-b5",
+   "block_type": "process",
+   "heading": "Hydrolysis and breaking glycosidic bonds",
+   "text": "Hydrolysis is the breaking of a bond by the addition of water. It is the reverse of condensation. To break a glycosidic bond, one molecule of water is used. Its H goes to one of the two separated units and its OH to the other, so that each unit once again has an -OH group.\n\nIn organisms, hydrolysis of glycosidic bonds is done by enzymes. Amylase hydrolyses glycosidic bonds in starch, and sucrase hydrolyses the glycosidic bond in sucrose. In the laboratory, the same bonds can be broken by boiling with dilute acid. In both cases, complete hydrolysis of a disaccharide or polysaccharide gives monosaccharides: starch, glycogen and maltose give glucose, and sucrose gives glucose and fructose.\n\nThe link with the non-reducing sugar test is that the products are reducing sugars. A reducing sugar gives a positive Benedict's test because it has a group that can reduce copper(II) ions. In a monosaccharide that group is free. In a disaccharide such as maltose it is still free on one of the units, so maltose is a reducing sugar. In sucrose, the groups on both units, on carbon 1 of glucose and carbon 2 of fructose, are used up in making the glycosidic bond. Sucrose therefore cannot reduce copper(II) ions and gives no colour change with Benedict's solution. It is a non-reducing sugar.\n\nIf sucrose is first hydrolysed, free glucose and fructose are released, and they do reduce copper(II) ions. A sample of sucrose that tests negative with Benedict's solution, but positive after hydrolysis with acid, shows that hydrolysis has broken the glycosidic bond and released reducing sugars. The same chain of reasoning is used again when the test for a non-reducing sugar is described in full below.",
+   "claim_ids": [
+    "CLM-8223-2.4.1-010",
+    "CLM-8223-2.4.1-011",
+    "CLM-8223-2.4.1-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.1-010": 1,
+    "CLM-8223-2.4.1-011": 1,
+    "CLM-8223-2.4.1-012": 1
+   },
+   "authored_hash": "2e828e41ef9d50dce52ae1d98e04cdd23ca8a5405066d2b75df8a660cf9d7b71"
+  },
+  {
+   "block_id": "2.4.1-b6",
+   "block_type": "components",
+   "heading": "Starch and glycogen",
+   "text": "Starch is the energy store of plants, and glycogen is the energy store of animals. Both are polysaccharides of α-glucose, and both are built from glycosidic bonds.\n\nStarch is a mixture of two molecules. Amylose is an unbranched chain of α-glucose units joined by α-1,4 glycosidic bonds, and the chain coils into a helix. Amylopectin is a chain of α-glucose units with α-1,4 bonds that also has α-1,6 glycosidic bonds, which start side branches roughly every 25 glucose units. Plants store starch as grains inside cells, for example in the chloroplasts of a leaf and in the cells of a tuber or a seed.\n\nGlycogen has the same kind of structure as amylopectin, with α-1,4 bonds in the chains and α-1,6 bonds at the branches, but it is branched more often, roughly every 8 to 12 glucose units. Animals store it as granules, notably in liver and muscle cells.\n\nEach feature of the structure suits the job. The coiled or branched molecule is compact, so a large amount of glucose is stored in a small space. The molecule is large, so it cannot diffuse out through the cell surface membrane, and it is insoluble, so it does not change the water potential of the cell, which would draw water in by osmosis. Because the molecule has many branch ends, enzymes can hydrolyse glycosidic bonds at many ends at the same time, and glucose is released quickly when the cell needs energy. Glycogen has more branches than starch, so it can be broken down faster, which suits animals that need a rapid supply of glucose for respiration in muscle. Glucose is the monomer that respiration uses, so a store of it as a polysaccharide is easy to draw on.\n\nThe difference between the two molecules is therefore one of branching: amylose has none, amylopectin has some, and glycogen has the most.",
+   "claim_ids": [
+    "CLM-8223-2.4.1-013",
+    "CLM-8223-2.4.1-014",
+    "CLM-8223-2.4.1-015"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.1-013": 1,
+    "CLM-8223-2.4.1-014": 1,
+    "CLM-8223-2.4.1-015": 1
+   },
+   "authored_hash": "510d6438340bb890de4ffd297a8120ba3c8c95e51e78c5ad7f28409f63e9c6f5"
+  },
+  {
+   "block_id": "2.4.1-b7",
+   "block_type": "components",
+   "heading": "Cellulose and the plant cell wall",
+   "text": "Cellulose is a polysaccharide of β-glucose. The glycosidic bonds are β-1,4 bonds. In β-glucose the -OH on carbon 1 is above the ring, so for two units to join, each unit has to be turned through 180° compared with its neighbour. The result is a chain that is straight and unbranched, not coiled as amylose is.\n\nNeighbouring chains lie parallel to one another, and the -OH groups that stick out from the chains form hydrogen bonds with the -OH groups of the next chain. One hydrogen bond is weak, but a cellulose chain has a great many -OH groups, so a very large number of hydrogen bonds form between the chains. They hold the chains together in bundles called microfibrils, and the microfibrils group into fibres. The fibre has high tensile strength, which means it resists being pulled apart.\n\nKeep the glycosidic bonds and the hydrogen bonds apart. Inside a chain, the units are joined by glycosidic bonds. Between chains, hydrogen bonds act. The strength of a fibre comes from the number of hydrogen bonds between the chains, not from the bonds inside a chain, and not from cellulose being insoluble or from pH. A good test is to ask which bond is within a chain and which is between chains.\n\nIn a plant cell wall, cellulose fibres are laid down in layers, with the fibres at different angles in different layers, so the wall resists stretching in more than one direction. When water enters a plant cell by osmosis the cell swells and pushes against the wall. The wall resists the expansion, so the cell does not burst, and the pressure of the swollen cell supports the plant. The wall is freely permeable, which means water and dissolved substances can pass through the gaps in it to the cell surface membrane. The structure of the whole cell wall is part of cell structure, taught in 2.2.",
+   "claim_ids": [
+    "CLM-8223-2.4.1-016",
+    "CLM-8223-2.4.1-017",
+    "CLM-8223-2.4.1-018",
+    "CLM-8223-2.4.1-019"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.1-016": 1,
+    "CLM-8223-2.4.1-017": 1,
+    "CLM-8223-2.4.1-018": 1,
+    "CLM-8223-2.4.1-019": 1
+   },
+   "authored_hash": "c14b41ea1909435debc6ed9f125494539ec46880cbfc33ede25337ba43f4739e"
+  },
+  {
+   "block_id": "2.4.1-b8",
+   "block_type": "components",
+   "heading": "Triglycerides",
+   "text": "A triglyceride is made from one glycerol molecule and three fatty acids. Glycerol has three -OH groups. A fatty acid has a -COOH group at one end and a long hydrocarbon tail. Each fatty acid joins to glycerol by condensation: the -COOH of the fatty acid reacts with an -OH of glycerol, a molecule of water is released and an ester bond forms. Three ester bonds form, so three molecules of water are released for each triglyceride. Ester bonds are in triglycerides and phospholipids. They do not join sugars, which are joined by glycosidic bonds.\n\nThe tails differ between fatty acids. In a saturated fatty acid the tail has no carbon-carbon double bonds. In an unsaturated fatty acid the tail has one or more double bonds, and each double bond makes a kink in the tail. Triglycerides that are rich in saturated fatty acids, the fats, tend to be solid at room temperature, and those rich in unsaturated fatty acids, the oils, tend to be liquid.\n\nThe structure explains the functions. The long hydrocarbon tails contain a lot of C-H bonds, so when fat is respired it releases roughly twice as much energy per gram as carbohydrate, and fat is a compact energy store. It is insoluble in water, so it does not change the water potential of a cell. Fat is a poor conductor of heat, so a layer of fat under the skin reduces heat loss, which helps a mammal in a cold climate keep its body warm. A layer of fat also cushions organs such as the kidneys. When fat is respired, water is also produced, called metabolic water, which is useful to an animal that has little access to drinking water, as in the Namib.",
+   "claim_ids": [
+    "CLM-8223-2.4.1-020",
+    "CLM-8223-2.4.1-021",
+    "CLM-8223-2.4.1-022",
+    "CLM-8223-2.4.1-023"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.1-020": 1,
+    "CLM-8223-2.4.1-021": 1,
+    "CLM-8223-2.4.1-022": 1,
+    "CLM-8223-2.4.1-023": 1
+   },
+   "authored_hash": "d544e00756d420edb84df0f0530fcf8b55b572733da190ba34c48bedcad73888"
+  },
+  {
+   "block_id": "2.4.1-b9",
+   "block_type": "components",
+   "heading": "Phospholipids",
+   "text": "A phospholipid looks like a triglyceride in which one fatty acid has been replaced. It is one glycerol molecule joined by ester bonds to two fatty acids, with a phosphate group attached to the third -OH of glycerol. The phosphate group and the glycerol form a head that is hydrophilic, which means attracted to water. The two fatty acid tails are hydrophobic, which means repelled by water. One molecule therefore has a part that mixes with water and a part that does not.\n\nThis explains how phospholipids behave in water. They arrange themselves in a bilayer. The hydrophilic heads face outwards into the water on each side, and the hydrophobic tails face inwards, away from the water, so that the tails meet in the middle. The cell surface membrane is built on this bilayer. It is one membrane, with two layers of phospholipid molecules. It is not a double membrane, a term that is kept for the pair of membranes around the nucleus, the mitochondrion and the chloroplast.\n\nThe structure gives the membrane its properties. The centre of the bilayer is hydrophobic, so ions and polar molecules, such as glucose, do not dissolve in it and cannot easily pass through it. This makes the membrane a barrier between the cytoplasm and the outside, and it is partially permeable. Small non-polar molecules, such as oxygen, can dissolve in the centre and pass through. The phospholipid molecules are not fixed in place, and they can move sideways within their own layer, which keeps the membrane fluid and lets it change shape. The way other molecules fit into the membrane is taught in 2.3.1.",
+   "claim_ids": [
+    "CLM-8223-2.4.1-024",
+    "CLM-8223-2.4.1-025",
+    "CLM-8223-2.4.1-026"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.1-024": 1,
+    "CLM-8223-2.4.1-025": 1,
+    "CLM-8223-2.4.1-026": 1
+   },
+   "authored_hash": "cb62f3aa20042cc39d6dbcd4b7f01d8dbfb93db48309d4d9cad8d89655d74833"
+  },
+  {
+   "block_id": "2.4.1-b10",
+   "block_type": "process",
+   "heading": "Testing for reducing sugars, starch and lipids",
+   "text": "Three tests identify the main food molecules in a sample.\n\nBenedict's test detects reducing sugars. Add Benedict's solution, which is blue, to the sample in a test tube and heat the tube in a water bath near boiling for several minutes. A reducing sugar reduces the copper(II) ions in the solution to insoluble copper(I) oxide. The colour changes from blue to green, then yellow, then orange and finally brick red as the concentration of reducing sugar increases. If the solution stays blue, no reducing sugar is present at a detectable concentration.\n\nThe iodine test detects starch. Add a few drops of iodine solution, which is iodine in potassium iodide solution and looks yellow-brown, to the sample at room temperature. A blue-black colour shows starch is present. If the solution stays yellow-brown, starch is absent.\n\nThe emulsion test detects lipids. Shake the sample with ethanol, so that any lipid dissolves in it, and then pour the mixture into water. Lipid is insoluble in water, so it comes out of solution as tiny droplets that scatter light and make the mixture cloudy and white. This cloudy white emulsion shows lipid is present. If the mixture stays clear, no lipid is present.\n\nA test is a comparison, so the result is read against a control. Testing distilled water in the same way shows what a negative result looks like.\n\nA common error is to read a yellow-brown result with iodine as evidence that sugar has formed. Iodine shows that starch is absent, because the blue-black colour has not appeared. It says nothing about sugar. In an experiment where an enzyme breaks down starch, the loss of the blue-black colour with iodine shows that starch has gone, and a positive Benedict's test on the same mixture shows that a reducing sugar has appeared. Ask which one the test is giving evidence for: that starch has gone, or that sugar has appeared.",
+   "claim_ids": [
+    "CLM-8223-2.4.1-027",
+    "CLM-8223-2.4.1-028",
+    "CLM-8223-2.4.1-029",
+    "CLM-8223-2.4.1-030"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.1-027": 1,
+    "CLM-8223-2.4.1-028": 1,
+    "CLM-8223-2.4.1-029": 1,
+    "CLM-8223-2.4.1-030": 1
+   },
+   "authored_hash": "58fa50d00a1df339c45617af367a2e736c571ed3747f8085a0ba66bf00d8122e"
+  },
+  {
+   "block_id": "2.4.1-b11",
+   "block_type": "process",
+   "heading": "A semi-quantitative Benedict's test",
+   "text": "Benedict's test as described above says whether a reducing sugar is present. A semi-quantitative test goes further and estimates how much, within a range. It is semi-quantitative because it gives an approximate value, not a measured one.\n\nTo make the test fair, it has to be standardised, so that the concentration of reducing sugar is the one thing that differs between samples. The same volume of sample and of Benedict's solution is used each time, in tubes of the same size, in a water bath at the same temperature, and the heating time, or the point at which timing stops, is the same. Without this, a difference in colour could come from a difference in heating, not in sugar.\n\nThe unknown solution is compared with standards. A standard is a solution of known concentration of the same reducing sugar, tested in exactly the same way. There are two ways to use them. In the colour standards method, the tubes are heated for the same fixed time and the colour of the unknown is matched with the nearest standard. In the time method, each tube is heated and the time to the first colour change, for example to the first appearance of green or of a precipitate, is recorded. A higher concentration of reducing sugar reduces copper(II) ions faster, so the time to the first colour change tends to decrease as the concentration increases. A graph of time against concentration can be plotted for the standards and the time for the unknown read off to estimate its concentration.\n\nThe estimate has limits. Judging a colour or the first colour change is done by eye, so it is subjective and the uncertainty is large. The result is best given as a range between two standards. Repeating each test and using the mean time improves the reliability of the estimate.",
+   "claim_ids": [
+    "CLM-8223-2.4.1-031",
+    "CLM-8223-2.4.1-032",
+    "CLM-8223-2.4.1-033"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.1-031": 1,
+    "CLM-8223-2.4.1-032": 1,
+    "CLM-8223-2.4.1-033": 1
+   },
+   "authored_hash": "8c5a05ae7187ed84a87821066b4bb0c4b0e034cf6abface92c60aa2a795e571a"
+  },
+  {
+   "block_id": "2.4.1-b12",
+   "block_type": "process",
+   "heading": "Testing for a non-reducing sugar",
+   "text": "A non-reducing sugar, such as sucrose, gives no colour change with Benedict's solution, so a negative result does not show that no sugar is present. The test uses hydrolysis to release reducing sugars.\n\nThe method has an order. First, test a sample with Benedict's solution in the usual way. If it stays blue, no reducing sugar is present. Then take a fresh sample and boil it with dilute hydrochloric acid for a few minutes, which hydrolyses the glycosidic bond. Cool the sample and neutralise it by adding sodium hydrogencarbonate a little at a time until it stops fizzing. Add Benedict's solution and heat in a water bath. An orange or brick-red precipitate shows that a non-reducing sugar was present in the original sample.\n\nEach step has a reason. The first Benedict's test shows whether a reducing sugar is already present, which would otherwise be mistaken for a result of the hydrolysis. The acid breaks the glycosidic bond in sucrose and releases glucose and fructose, which are reducing sugars. The neutralising step is needed because Benedict's solution works in alkaline conditions, and acid left in the sample would stop the reaction and give a false negative.\n\nThe results are read together. A sample that stays blue in the first test and gives a precipitate after hydrolysis contains a non-reducing sugar and no detectable reducing sugar. A sample that stays blue in both tests contains neither, within the sensitivity of the test. A sample that gives a positive result at the first test contains a reducing sugar, and if the colour is much stronger after hydrolysis, a non-reducing sugar is probably present as well. Take care over safety: dilute acid and hot water baths need eye protection.",
+   "claim_ids": [
+    "CLM-8223-2.4.1-034",
+    "CLM-8223-2.4.1-035",
+    "CLM-8223-2.4.1-036"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.1-034": 1,
+    "CLM-8223-2.4.1-035": 1,
+    "CLM-8223-2.4.1-036": 1
+   },
+   "authored_hash": "f6df2ea3997f08f73de10d1803c6f56997c5afdeb0761504691d80bd771a2018"
+  },
+  {
+   "block_id": "2.4.1-b13",
+   "block_type": "worked_application",
+   "heading": "Estimating a concentration using dilution",
+   "text": "A set of standards is made by serial dilution. Start with a stock solution of known concentration, say 2.0 per cent glucose. Measure 10 cm3 of the stock into a tube, add 10 cm3 of distilled water and mix. The mixture has the same amount of sugar in twice the volume, so its concentration is 2.0 ÷ 2 = 1.0 per cent. Take 10 cm3 of that, add 10 cm3 of water, and the concentration is 1.0 ÷ 2 = 0.5 per cent. Repeating the step gives 0.25 per cent and 0.125 per cent. Each tube is a standard, and a tube of distilled water makes a zero standard.\n\nEach standard and the unknown are then tested in the same way: 2 cm3 of solution and 2 cm3 of Benedict's solution, in a water bath held at the same temperature, timed or heated for the same period. The colours, or the times to the first colour change, are recorded. An unknown that matches the 0.5 per cent standard is estimated at 0.5 per cent, and one whose time falls between those of the 0.5 and 1.0 per cent standards is estimated at between 0.5 and 1.0 per cent.\n\nSometimes the unknown is more concentrated than the strongest standard, so its colour or time cannot be compared with them. It is then diluted by a known factor and tested again. Suppose 1 cm3 of the unknown is mixed with 9 cm3 of water. The total volume is 10 cm3, so the dilution factor is 10 ÷ 1 = 10. If the diluted solution is estimated at 0.25 per cent, the original unknown is 0.25 × 10 = 2.5 per cent.\n\nThe quality of the estimate depends on keeping the volumes, temperature and timing the same for each tube, on repeating the readings, and on how closely spaced the standards are. A closer set of standards narrows the range in which the unknown can fall.",
+   "claim_ids": [
+    "CLM-8223-2.4.1-037",
+    "CLM-8223-2.4.1-038",
+    "CLM-8223-2.4.1-039"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.1-037": 1,
+    "CLM-8223-2.4.1-038": 1,
+    "CLM-8223-2.4.1-039": 1
+   },
+   "authored_hash": "fc6b8721f883484ee91acc40e5f3a2373fd3e95a92f6a031e69c5eb3d40c1499"
+  },
+  {
+   "block_id": "2.4.1-b14",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "The cell wall and the cell surface membrane as parts of the cell are described in 2.2, and the movement of substances through the membrane in 2.3.1 and 2.3.2. Water as a solvent, which explains why polar molecules dissolve and lipids do not, is taught in 2.4.2. Enzymes that hydrolyse the glycosidic bonds of these polysaccharides are taught in 2.5.1 and 2.5.2.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "5e369c5e3ac1feeb69f7638e50d38e5e076d3449b2df862c1d4f8c00ddd19eda"
+  }
+ ],
+ "word_count": 3698,
+ "qa_status": "review_required",
+ "notes": []
+}

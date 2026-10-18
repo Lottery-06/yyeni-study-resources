@@ -1,0 +1,259 @@
+{
+ "unit_id": "CU-8223-2.3.2",
+ "title": "Movement of substances into and out of cells",
+ "objective_ids": [
+  "OBJ-8223-2.3.2-01",
+  "OBJ-8223-2.3.2-02",
+  "OBJ-8223-2.3.2-03",
+  "OBJ-8223-2.3.2-04",
+  "OBJ-8223-2.3.2-05"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_explanation",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 1550,
+  "target": 2167,
+  "max": 2210
+ },
+ "blocks": [
+  {
+   "block_id": "2.3.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "How substances move into and out of cells by diffusion, facilitated diffusion, osmosis, active transport, endocytosis and exocytosis; how the surface area to volume ratio of a cube changes with size, with the arithmetic; how water potential decides which way water moves between a cell and its surroundings; and how to investigate diffusion and osmosis and use the results to estimate the water potential of plant tissue.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "478efcb6accf37b52bd77a95d5fb5ed5d4c0161d0cfbdc61334fc0320b161858"
+  },
+  {
+   "block_id": "2.3.2-b2",
+   "block_type": "plain_explanation",
+   "heading": "Diffusion",
+   "text": "Diffusion is the net movement of particles from a region of higher concentration to a region of lower concentration, down a concentration gradient, as a result of their random movement. Nothing pushes the particles. They move at random in all directions, and because there are more of them in the crowded region, more leave it than enter it. The net movement is therefore down the gradient. Diffusion needs no energy from respiration, and the net movement stops when the concentration is the same throughout, although the particles keep moving.\n\nSmall uncharged molecules such as oxygen and carbon dioxide diffuse directly through the phospholipid bilayer of the cell surface membrane. Other things being equal, the rate tends to be faster when the concentration gradient is steeper, when the distance is shorter, when the surface area is larger and when the temperature is higher.\n\nIt is a mistake to explain a faster rate in one cell by saying its membrane is thinner. Cell surface membranes share the same basic structure, a phospholipid bilayer with proteins, so what differs between cells is the distance the particles travel, the surface area and the gradient. The test is to ask whether the membrane changes, or the distance to travel.",
+   "claim_ids": [
+    "CLM-8223-2.3.2-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.3.2-001": 1
+   },
+   "authored_hash": "b0ce62a4a73f64544f88a625412345b2fc80ae0022deacb7fbb928c071ee67a3"
+  },
+  {
+   "block_id": "2.3.2-b3",
+   "block_type": "components",
+   "heading": "Facilitated diffusion and active transport",
+   "text": "Some particles cannot easily cross the phospholipid bilayer because they are charged or too large to slip between the phospholipids. Ions and glucose are examples. They cross through protein molecules in the membrane. In facilitated diffusion the particles pass through a channel protein, which forms a water-filled pore, or through a carrier protein, which binds the particle, changes shape and releases it on the other side. The movement is still down the concentration gradient and still needs no energy from respiration. The proteins make the crossing possible but do not make it go uphill. The number of proteins in the membrane can limit the rate.\n\nActive transport is the movement of particles through a carrier protein against their concentration gradient, from a lower to a higher concentration, using energy from respiration in the form of ATP. The energy changes the shape of the carrier. A root hair cell uses it to take in mineral ions from soil water that holds fewer of them than the cell does. If respiration is blocked, active transport slows, whereas diffusion and facilitated diffusion carry on because they do not draw on that energy.\n\nActive transport cannot be claimed from concentration figures alone. Higher concentration inside a cell than outside shows a gradient at the moment of measurement, not how the particles got there. The evidence needed is movement against the gradient together with evidence of energy use, for example uptake falling when respiration is blocked.",
+   "claim_ids": [
+    "CLM-8223-2.3.2-002",
+    "CLM-8223-2.3.2-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.3.2-002": 1,
+    "CLM-8223-2.3.2-003": 1
+   },
+   "authored_hash": "b6f14711a056bf6a0f2b2e2e6b6fcbc730458f611ff69ababe70b25610c3e950"
+  },
+  {
+   "block_id": "2.3.2-b4",
+   "block_type": "process",
+   "heading": "Endocytosis and exocytosis",
+   "text": "Large particles and bulk material cross the membrane in vesicles, which are small sacs made of membrane. In endocytosis the cell surface membrane bends inwards around the material, surrounds it and pinches off, leaving a vesicle inside the cell. A white blood cell takes in a bacterium this way. In exocytosis a vesicle carrying material moves to the cell surface membrane and fuses with it, so the contents are released outside and the vesicle membrane becomes part of the cell surface membrane. Both processes need energy from respiration, because the membrane must change shape and the vesicles must be moved.\n\nEndocytosis is not the same as osmosis. Osmosis is the movement of water across a membrane down a water potential gradient, and it encloses nothing in a vesicle. When a cell takes in a solid particle, the test is whether the cell encloses the material in a vesicle, or whether water simply moves across.",
+   "claim_ids": [
+    "CLM-8223-2.3.2-004",
+    "CLM-8223-2.3.2-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.3.2-004": 1,
+    "CLM-8223-2.3.2-005": 1
+   },
+   "authored_hash": "25ccb4a4a4b41e84c4faa536933d22424ef1eaff78d61e45e1ebfe0b07af5695"
+  },
+  {
+   "block_id": "2.3.2-b5",
+   "block_type": "plain_explanation",
+   "heading": "Water potential and osmosis",
+   "text": "Water potential describes the tendency of water molecules to move. Water moves from a region of higher water potential to a region of lower water potential. Pure water has the highest water potential. Dissolving a solute in water lowers it, so the more concentrated a solution, the lower its water potential.\n\nOsmosis is the net movement of water molecules from a region of higher water potential to a region of lower water potential through a partially permeable membrane. The cell surface membrane is partially permeable: water molecules pass through it, but many dissolved particles cannot. Water molecules cross in both directions; osmosis is the net movement. The net movement continues until the water potentials on the two sides are equal. Osmosis needs no energy from respiration, and it is the diffusion of water under these conditions.",
+   "claim_ids": [
+    "CLM-8223-2.3.2-005",
+    "CLM-8223-2.3.2-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.3.2-005": 1,
+    "CLM-8223-2.3.2-012": 1
+   },
+   "authored_hash": "372c3312badc81c2add807236cb1a06f0883e752b42a6e8ad85c73af53d8f79d"
+  },
+  {
+   "block_id": "2.3.2-b6",
+   "block_type": "process",
+   "heading": "Plant and animal cells in solutions",
+   "text": "The effect on a cell depends on how the water potential of the surrounding solution compares with that of the cell contents. If the solution is higher, water enters the cell by osmosis. If it is lower, water leaves. If the two are equal there is no net movement.\n\nA plant cell has a cell wall. In a solution of higher water potential, such as pure water, water enters the cell and the cytoplasm and vacuole swell and push the membrane against the wall. The wall is strong and resists, so the cell does not burst. It becomes turgid, which means firm and fully inflated. In a solution of lower water potential, water leaves the cell, which loses its firmness and becomes flaccid. If much water leaves, the cytoplasm shrinks and the cell surface membrane pulls away from the cell wall. This is plasmolysis.\n\nAn animal cell has no cell wall. In a solution of higher water potential than its cytoplasm, water enters and the cell swells until the membrane can stretch no further, and then it bursts. In a solution of lower water potential, water leaves and the cell shrinks and shrivels.",
+   "claim_ids": [
+    "CLM-8223-2.3.2-005",
+    "CLM-8223-2.3.2-013",
+    "CLM-8223-2.3.2-014"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.3.2-005": 1,
+    "CLM-8223-2.3.2-013": 1,
+    "CLM-8223-2.3.2-014": 1
+   },
+   "authored_hash": "6e508f331ed64ffb50d4afb6ade372df491495736e3a5172ba8862ba420b6b86"
+  },
+  {
+   "block_id": "2.3.2-b7",
+   "block_type": "plain_explanation",
+   "heading": "Surface area to volume ratio",
+   "text": "The surface area to volume ratio is the surface area of an object divided by its volume. For a cube of side L, each of the six faces has an area of L × L, so the surface area is 6 × L × L and the volume is L × L × L.\n\nTake cubes with sides of 1 cm, 2 cm and 4 cm. For the 1 cm cube, the surface area is 6 × 1 × 1 = 6 cm² and the volume is 1 × 1 × 1 = 1 cm³, so the ratio is 6 ÷ 1 = 6. For the 2 cm cube, the surface area is 6 × 2 × 2 = 24 cm² and the volume is 2 × 2 × 2 = 8 cm³, so the ratio is 24 ÷ 8 = 3. For the 4 cm cube, the surface area is 6 × 4 × 4 = 96 cm² and the volume is 4 × 4 × 4 = 64 cm³, so the ratio is 96 ÷ 64 = 1.5.\n\nEach doubling of the side makes the surface area four times larger but the volume eight times larger, so the ratio halves. The pattern is general for shapes of the same form: as size increases, the surface area to volume ratio decreases.",
+   "claim_ids": [
+    "CLM-8223-2.3.2-008",
+    "CLM-8223-2.3.2-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.3.2-008": 1,
+    "CLM-8223-2.3.2-009": 1
+   },
+   "authored_hash": "784565440eaf287aa86a0426c1abdfb250f0c3ab5c48a3ace184a03afee60e19"
+  },
+  {
+   "block_id": "2.3.2-b8",
+   "block_type": "plain_explanation",
+   "heading": "Why the ratio matters for cells and organisms",
+   "text": "Substances enter and leave a cell across its surface membrane, but the cell uses them throughout its volume. The ratio that matters is therefore that of the cell, not that of the whole organism. A small cell has a large surface area to volume ratio, so there is enough membrane for its volume and substances diffuse only a short distance to reach every part. As a cell grows, its volume rises faster than its surface area, the ratio falls, and diffusion supplies the centre more slowly. This is one reason cells divide rather than growing without limit.\n\nParamecium is a single-celled animal-like organism. Being small, it has a large ratio and exchanges oxygen and carbon dioxide by diffusion across its cell surface membrane, with no transport system. It is not a bacterium or a virus and, like an animal cell, it has no cell wall.\n\nA large multicellular body has a small ratio for the body as a whole, and the cells deep inside are far from the surface. Diffusion over that thickness would be too slow, so such organisms need exchange surfaces and a transport system. An earthworm has a circulatory system because the thickness of its body makes diffusion alone too slow, whatever its habitat, not because it lives underground.",
+   "claim_ids": [
+    "CLM-8223-2.3.2-010",
+    "CLM-8223-2.3.2-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.3.2-010": 1,
+    "CLM-8223-2.3.2-011": 1
+   },
+   "authored_hash": "43c95e828b88d92838e28141d4fa2869bac80146ef37569ecdc351721bbd6599"
+  },
+  {
+   "block_id": "2.3.2-b9",
+   "block_type": "process",
+   "heading": "Investigating diffusion and osmosis",
+   "text": "Diffusion can be timed with agar. Agar is a jelly that water and dissolved particles move through. Make it with dilute sodium hydroxide and phenolphthalein indicator, which is pink in alkali and colourless in acid. Cut cubes with sides of 1 cm, 2 cm and 3 cm and place them in the same volume of dilute hydrochloric acid at the same temperature. Time how long each takes to become colourless at its centre. The acid diffuses in, and the larger cubes take longer because the acid has further to travel and the cube has a smaller surface area to volume ratio.\n\nOsmosis can be shown with Visking tubing, which is partially permeable: water and small molecules such as glucose pass through its pores, but larger molecules do not. Tie one end of a length of tubing, fill it with glucose solution, tie the other end, rinse the outside, blot it dry and weigh it. Place the bag in a beaker of distilled water for 30 minutes, then remove it, blot it dry and weigh it again. The mass rises because water has entered by osmosis, from the higher water potential of the distilled water to the lower water potential of the glucose solution. A bag of distilled water in distilled water acts as a control. Benedict's solution shows glucose has diffused out if it gives an orange or brick-red precipitate on heating with the water from the beaker.",
+   "claim_ids": [
+    "CLM-8223-2.3.2-006",
+    "CLM-8223-2.3.2-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.3.2-006": 1,
+    "CLM-8223-2.3.2-007": 1
+   },
+   "authored_hash": "6e110211dccebb5390805d95eb34b69a294b8cbce8d801e36c179f4765a39a05"
+  },
+  {
+   "block_id": "2.3.2-b10",
+   "block_type": "process",
+   "heading": "Estimating the water potential of plant tissue",
+   "text": "Cut cylinders of potato of equal length with a cork borer. Blot and weigh each, place three cylinders in each of a series of sucrose solutions of known concentration, from distilled water upwards, and leave them for the same time at the same temperature. Remove them, blot them dry and weigh them again.\n\nThe percentage change in mass is (final mass − initial mass) ÷ initial mass × 100. For a cylinder that began at 5.00 g and finished at 5.60 g, 5.60 − 5.00 = 0.60 g, then 0.60 ÷ 5.00 = 0.12, then 0.12 × 100 = 12 per cent. A percentage is used because the cylinders differ slightly in starting mass, and the mean of the three repeats makes the result more reliable.\n\nA gain in mass means the solution had a higher water potential than the tissue, so water entered. A loss means the solution had a lower water potential, so water left. Plot percentage change in mass against concentration and draw a line through the points. Where the line crosses zero there is no net movement of water, so the solution has the same water potential as the tissue. That concentration is the estimate. Its precision is limited by the gap between the concentrations tested.",
+   "claim_ids": [
+    "CLM-8223-2.3.2-015",
+    "CLM-8223-2.3.2-016",
+    "CLM-8223-2.3.2-017"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.3.2-015": 1,
+    "CLM-8223-2.3.2-016": 1,
+    "CLM-8223-2.3.2-017": 1
+   },
+   "authored_hash": "59d9a5d0635a67a8fc38315b6f50430448e0cd970f2ea68a9182fe2a1c68dce3"
+  },
+  {
+   "block_id": "2.3.2-b11",
+   "block_type": "worked_application",
+   "heading": "Worked example: potato cylinders in sucrose",
+   "text": "A class in Rundu cuts potato cylinders and weighs them before and after 60 minutes in sucrose solutions. These are our invented readings for the mean percentage change in mass.\n\n| Sucrose concentration (mol per dm³) | Mean change in mass (per cent) |\n|---|---|\n| 0.0 | +20 |\n| 0.1 | +12 |\n| 0.2 | +4 |\n| 0.3 | −4 |\n| 0.4 | −11 |\n\nStep one: the cylinders gain mass from 0.0 to 0.2 mol per dm³, so those solutions have a higher water potential than the tissue and water entered. Step two: they lose mass at 0.3 and 0.4 mol per dm³, so those solutions have a lower water potential and water left. Step three: the sign changes between 0.2 and 0.3. The values +4 and −4 are equal and opposite, so the line crosses zero halfway, at 0.25 mol per dm³. The tissue is estimated to have the same water potential as a sucrose solution of 0.25 mol per dm³.",
+   "claim_ids": [
+    "CLM-8223-2.3.2-012",
+    "CLM-8223-2.3.2-015",
+    "CLM-8223-2.3.2-017"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.3.2-012": 1,
+    "CLM-8223-2.3.2-015": 1,
+    "CLM-8223-2.3.2-017": 1
+   },
+   "authored_hash": "fb709ca3c84de25b3b8ccdc5a80699565747d5c99b1b4f3115e272f99319c449"
+  },
+  {
+   "block_id": "2.3.2-b12",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "The structure of the cell surface membrane and its proteins is taught in 2.3.1, Fluid mosaic membranes. The cell wall and the vacuole are described in 2.2, Cell structure. Planning an investigation, controlling variables and recording readings are taught in 4.1, Planning investigations and taking measurements. The structure of the tissues that carry water and dissolved substances is taught in 2.6.1, Structure of transport tissues.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "24b55d39b6ac2d902da34846abcb7c3c1058914243b8d35e4ce7cc64b15c9463"
+  }
+ ],
+ "word_count": 2167,
+ "qa_status": "review_required",
+ "notes": [
+  "Authored for topic 2.3.2. Facts are our own statement of standard biology, single source and unverified."
+ ]
+}

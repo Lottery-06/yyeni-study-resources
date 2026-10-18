@@ -1,0 +1,247 @@
+{
+ "unit_id": "CU-8223-2.8.1",
+ "title": "Infectious disease",
+ "objective_ids": [
+  "OBJ-8223-2.8.1-01",
+  "OBJ-8223-2.8.1-02",
+  "OBJ-8223-2.8.1-03",
+  "OBJ-8223-2.8.1-04",
+  "OBJ-8223-2.8.1-05"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_explanation",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 1440,
+  "target": 1755,
+  "max": 2070
+ },
+ "blocks": [
+  {
+   "block_id": "2.8.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "What a disease is and how an infectious disease differs from a non-infectious one, which pathogen causes cholera, malaria, TB, HIV/AIDS and measles, how each of the first four is passed from person to person, what has to be considered to prevent and control these diseases, and why malaria is common in some parts of the world and rare in others.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "8b537142aadc5fceb40b3d93c5f2127ed2dab35ba71fe22c236a92a63031c54a"
+  },
+  {
+   "block_id": "2.8.1-b2",
+   "block_type": "plain_explanation",
+   "heading": "Disease, infectious and non-infectious",
+   "text": "A disease is a disorder that impairs the normal working of part or all of the body and shows itself through signs and symptoms. Signs are what a nurse can observe, such as a raised temperature; symptoms are what the patient feels, such as a headache.\n\nAn infectious disease is caused by a pathogen, an organism or virus that causes disease, and it can be passed from one host to another. A non-infectious disease is not caused by a pathogen, so it is not passed from person to person. The difference lies in the cause and in whether the disease can spread.\n\nThis syllabus uses two examples of non-infectious disease. Sickle cell anaemia is caused by inheriting a mutated allele of the gene for the haemoglobin polypeptide from both parents. A child cannot catch it from a classmate. Lung cancer is a disease in which lung cells divide in an uncontrolled way and form a tumour. Smoking tobacco raises the chance of it, but nobody can pass lung cancer to a neighbour by breathing near them. Cholera, malaria, TB, HIV/AIDS and measles, by contrast, are each caused by a pathogen that can pass to another person.",
+   "claim_ids": [
+    "CLM-8223-2.8.1-001",
+    "CLM-8223-2.8.1-002",
+    "CLM-8223-2.8.1-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.8.1-001": 1,
+    "CLM-8223-2.8.1-002": 1,
+    "CLM-8223-2.8.1-003": 1
+   },
+   "authored_hash": "9367045740c1b354a62b4240d560df3a5afb632e95665a2d513d47401632cd79"
+  },
+  {
+   "block_id": "2.8.1-b3",
+   "block_type": "components",
+   "heading": "Pathogens and what type each is",
+   "text": "Each of the five diseases in this topic has a named pathogen, and the type of pathogen matters because it decides how the disease behaves and how it is treated.\n\nCholera is caused by the bacterium Vibrio cholerae. TB is caused by the bacteria Mycobacterium tuberculosis and Mycobacterium bovis. A bacterium is a single prokaryotic cell: it has a cell wall and cytoplasm but no nucleus. Antibiotics can treat bacterial diseases because they damage processes found in bacteria.\n\nMalaria is caused by protoctists of the genus Plasmodium: Plasmodium falciparum, Plasmodium malariae, Plasmodium ovale and Plasmodium vivax. A protoctist is a eukaryotic organism that is not a plant, animal or fungus, and these are single-celled parasites that live inside human cells. Plasmodium falciparum is the common cause of severe malaria in Africa.\n\nHIV/AIDS is caused by the human immunodeficiency virus (HIV), and measles is caused by a Morbillivirus. A virus is not a cell. It consists of nucleic acid inside a protein coat and reproduces only inside the cells of a host, which is why antibiotics do not work against it. HIV is the virus; AIDS is the condition that follows when HIV has badly damaged the immune system.",
+   "claim_ids": [
+    "CLM-8223-2.8.1-004",
+    "CLM-8223-2.8.1-005",
+    "CLM-8223-2.8.1-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.8.1-004": 1,
+    "CLM-8223-2.8.1-005": 1,
+    "CLM-8223-2.8.1-006": 1
+   },
+   "authored_hash": "c4185c8cc427bf78457b92fc3015e2b045f9729150ac723c7d3e2a3e23f5a4c4"
+  },
+  {
+   "block_id": "2.8.1-b4",
+   "block_type": "process",
+   "heading": "Cholera and TB: water-borne and airborne",
+   "text": "Cholera is a water-borne disease. An infected person passes watery faeces containing Vibrio cholerae. Where there are no toilets, or sewage overflows after floods, the bacteria reach a river, well or tap and are carried to food washed in the water. Another person swallows the bacteria, which multiply in the small intestine and cause severe diarrhoea. That diarrhoea then contaminates more water, so the disease can spread quickly through a settlement that shares one unsafe supply. The route is from faeces to mouth, and it needs a contaminated water or food supply.\n\nTB of the lungs is airborne. A person with active lung TB releases tiny droplets containing Mycobacterium tuberculosis when coughing, sneezing or speaking. Another person breathes the droplets in, and the bacteria settle in the lungs. Infection is more likely when people spend long hours close together in crowded, poorly ventilated rooms, because the droplets stay in the air and the dose breathed in is larger. Mycobacterium bovis can also be swallowed in unpasteurised milk from infected cattle.",
+   "claim_ids": [
+    "CLM-8223-2.8.1-007",
+    "CLM-8223-2.8.1-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.8.1-007": 1,
+    "CLM-8223-2.8.1-009": 1
+   },
+   "authored_hash": "2f800cccd412c230f46e80069c545d7fee5e25f48f053f169ac1df29ae235227"
+  },
+  {
+   "block_id": "2.8.1-b5",
+   "block_type": "process",
+   "heading": "Malaria and HIV: vector-borne and body fluids",
+   "text": "Malaria is a vector-borne disease. A vector is an organism that carries a pathogen from one host to another without usually being harmed itself. The vector of malaria is the female Anopheles mosquito, because only the female takes blood meals. She picks up the parasite when she feeds on an infected person. The parasite must then develop inside the mosquito before it can infect another person. When she next feeds, she passes the parasite into a new person's blood. In ordinary circumstances malaria is not passed straight from one person to another by coughing, touching or drinking water. Without the mosquito the chain is broken.\n\nHIV is passed on in body fluids. The main routes are unprotected sexual intercourse, blood-to-blood contact such as shared needles or unscreened blood for transfusion, and from an infected mother to her child during pregnancy, at birth or in breast milk. HIV is not passed on by hugging, sharing a cup or a mosquito bite, because the virus does not survive and spread in these ways.\n\nKeep malaria and cholera apart. Malaria needs a mosquito, so it is a vector-borne disease. Cholera needs contaminated water or food and has no vector.",
+   "claim_ids": [
+    "CLM-8223-2.8.1-008",
+    "CLM-8223-2.8.1-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.8.1-008": 1,
+    "CLM-8223-2.8.1-010": 1
+   },
+   "authored_hash": "9b5db4c31f3ddf5492f24a5d7a9df2dad61f5045c03bd461c4c399141eb1b1a9"
+  },
+  {
+   "block_id": "2.8.1-b6",
+   "block_type": "plain_explanation",
+   "heading": "Preventing cholera and measles",
+   "text": "Prevention and control must be planned from the biology of the pathogen and its route, then judged against social and economic limits.\n\nFor cholera the route is from faeces to mouth, so every measure breaks that route. Sanitation, the safe disposal of human waste, keeps faeces out of water. Treated or boiled drinking water kills the bacteria. Hand washing and clean food preparation remove them from the hands. These are the biological factors. The social factors include hygiene education and whether people will change habits. The economic factors include the high cost of building toilets, sewers and water supplies in informal settlements, which is why outbreaks are most likely where money is short.\n\nMeasles spreads in droplets and is highly infectious. No drug cures it, so prevention rests on vaccination, which makes children immune before they meet the virus. If about 95 out of every 100 people are immune, the virus meets too few susceptible people to keep spreading, and children who cannot be vaccinated gain some protection. Social factors include whether parents trust the vaccine and can reach a clinic in a remote area. Economic factors include the cost of buying vaccine and keeping it cold during transport.",
+   "claim_ids": [
+    "CLM-8223-2.8.1-011",
+    "CLM-8223-2.8.1-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.8.1-011": 1,
+    "CLM-8223-2.8.1-012": 1
+   },
+   "authored_hash": "496066cb360b6eca4a5bf2613926b2bb2cd6613570aa7e9f82add934af84b816"
+  },
+  {
+   "block_id": "2.8.1-b7",
+   "block_type": "plain_explanation",
+   "heading": "Preventing malaria, TB and HIV/AIDS",
+   "text": "For malaria, control targets the mosquito and the parasite. Draining standing water removes the pools where Anopheles lays eggs. Insecticide-treated nets and spraying the walls of homes kill or repel mosquitoes at the hours when they bite, which cuts the number of bites. Antimalarial drugs clear the parasite from infected people, so fewer mosquitoes pick it up. Biologically, mosquitoes and parasites can evolve resistance to insecticides and drugs, so control must be changed over time. Socially, nets help only if families use them. Economically, nets, drugs and clinics cost money that poor households and national budgets may not have. Treating drinking water has no effect, because malaria does not travel in water.\n\nTB is controlled by treating patients with several antibiotics for months. The bacteria grow slowly and some survive after the patient feels better, so a stopped course lets the survivors multiply and become resistant. Reducing crowding, improving ventilation and giving the BCG vaccine to infants also help. HIV infection raises the chance that latent TB becomes active, so treating HIV helps to control TB. Poverty, stigma and the cost of travelling to a clinic make completing treatment harder.\n\nHIV is controlled by condoms, testing, screened blood, clean needles, and antiretroviral drugs. These drugs reduce the amount of virus in the blood and so the chance of passing it on, including from mother to child. Stigma and lack of education reduce how well these methods work, and the cost of drugs and clinics limits access.",
+   "claim_ids": [
+    "CLM-8223-2.8.1-013",
+    "CLM-8223-2.8.1-014",
+    "CLM-8223-2.8.1-015"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.8.1-013": 1,
+    "CLM-8223-2.8.1-014": 1,
+    "CLM-8223-2.8.1-015": 1
+   },
+   "authored_hash": "171d73c83b429b695700fa4476dc0257bd7ac00ca3a161f3573602017621ceb1"
+  },
+  {
+   "block_id": "2.8.1-b8",
+   "block_type": "plain_explanation",
+   "heading": "Why malaria is common in some regions",
+   "text": "A disease is endemic in a region when it is present there at a steady level over many years. Malaria is endemic across the warm, wet tropics and subtropics, and most cases occur in sub-Saharan Africa. In Namibia it is found mainly in the north, in areas such as Zambezi and Kavango, rather than in the south.\n\nThe pattern follows the conditions that the mosquito and the parasite need. Anopheles lays its eggs in standing water, so rainfall, wetlands and irrigation support large numbers of mosquitoes. The parasite develops in the mosquito only where temperatures are high enough, roughly above 15 to 20 degrees Celsius depending on the species, so malaria is rare in cold regions and at high altitude. Within one country, cases rise after the rains when pools form.\n\nHuman factors also matter. Control programmes, healthcare, housing and income affect how often people are bitten and how quickly they are treated. This helps explain why malaria has been eliminated from some wealthy temperate countries but remains common in poorer tropical ones. Resistance to insecticides and drugs, and movement of people between regions, can also change where malaria occurs.",
+   "claim_ids": [
+    "CLM-8223-2.8.1-016",
+    "CLM-8223-2.8.1-017",
+    "CLM-8223-2.8.1-018"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.8.1-016": 1,
+    "CLM-8223-2.8.1-017": 1,
+    "CLM-8223-2.8.1-018": 1
+   },
+   "authored_hash": "f8cc00f48572e82ade9f1b6fbaa7f13e283762ddb28833c3f7babdc7290001e0"
+  },
+  {
+   "block_id": "2.8.1-b9",
+   "block_type": "misconception",
+   "heading": "Malaria does not travel in water or in droplets",
+   "text": "A common error is to say that malaria passes straight from a sick person to a healthy one when the sick person coughs, or through contaminated water. In fact malaria needs a vector, the female Anopheles mosquito, in which the parasite must develop before it can infect the next person. The same confusion appears in control: chlorinating well water or building toilets targets cholera, not malaria. The test is to ask what the vector is and what must happen inside it, and whether a measure breaks the mosquito's breeding or biting, or the parasite's spread in people.",
+   "claim_ids": [
+    "CLM-8223-2.8.1-008",
+    "CLM-8223-2.8.1-013"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.8.1-008": 1,
+    "CLM-8223-2.8.1-013": 1
+   },
+   "authored_hash": "523c1cce1cbd803600e3e5a852fa800f2db62ccb16e23ccc1f3a2d4b3f470bdf"
+  },
+  {
+   "block_id": "2.8.1-b10",
+   "block_type": "worked_application",
+   "heading": "Worked example: an outbreak in a northern village",
+   "text": "A clinic in a village in the Zambezi Region records a rise in people with fever and a separate rise in children with severe watery diarrhoea after heavy rain. Step one: separate the two problems, because one disease is unlikely to explain both. Step two: the fever is consistent with malaria. Heavy rain has left standing pools, so more Anopheles are breeding, and control should drain pools, supply treated nets and treat patients. Step three: the diarrhoea is consistent with cholera. Floods have probably pushed sewage into a shared water supply, so control should provide treated or boiled water, safe toilets and hand washing. Step four: add the social and economic factors, such as whether families sleep under nets, and whether the district can afford both responses.",
+   "claim_ids": [
+    "CLM-8223-2.8.1-007",
+    "CLM-8223-2.8.1-008",
+    "CLM-8223-2.8.1-011",
+    "CLM-8223-2.8.1-013"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.8.1-007": 1,
+    "CLM-8223-2.8.1-008": 1,
+    "CLM-8223-2.8.1-011": 1,
+    "CLM-8223-2.8.1-013": 1
+   },
+   "authored_hash": "da0ee4cd44ed3b55ccb904ae5efa4648c17b7efeb749673048653d166ad7c9d4"
+  },
+  {
+   "block_id": "2.8.1-b11",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "How pathogens are recognised and destroyed is taught in 2.9.1, The response of the immune system to pathogens. Antibodies and vaccination, which explain why vaccines prevent measles, are taught in 2.9.2. Blood, which carries the malaria parasite and HIV between hosts, is described in 2.7.1, Mammalian circulatory system.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "6fc475b7033d1ecc7fd7489141b7e84e53a6c6a9e3cd33c77f6c1bad7dbd5779"
+  }
+ ],
+ "word_count": 1792,
+ "qa_status": "review_required",
+ "notes": [
+  "Authored from the work order; facts rest on single-source claims and are unverified."
+ ]
+}

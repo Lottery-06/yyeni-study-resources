@@ -1,0 +1,788 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-4.3",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-4.3-001",
+   "objective_ids": [
+    "OBJ-8223-4.3-01"
+   ],
+   "text": "Raw data are the unprocessed results of an investigation: quantitative data, which are measured values such as a mass or a time, and qualitative observations, which are descriptions such as a colour; they are recorded as they are taken in a fully ruled table, with ruled lines round the cells.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: record raw data in a fully ruled table with no units in the body",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-01; any readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-002",
+   "objective_ids": [
+    "OBJ-8223-4.3-01"
+   ],
+   "text": "The body of a raw data table holds the values and the observations alone, with no unit written beside a value, because the unit is stated once in the column heading.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: record raw data in a fully ruled table with no units in the body",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-01; any readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-003",
+   "objective_ids": [
+    "OBJ-8223-4.3-01"
+   ],
+   "text": "A calculated quantity such as a mean, a rate or a percentage change is processed data, not raw data, so it is kept in a column set apart from the raw readings or in a second table.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: record raw data in a fully ruled table with no units in the body",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-01; any readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-004",
+   "objective_ids": [
+    "OBJ-8223-4.3-02"
+   ],
+   "text": "In a results table the independent variable, the quantity the investigator chooses and changes, has its heading in the left column or the top row, and the dependent variable, the quantity that is measured, has its heading in the next column or row.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: table headings with units, independent variable first",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-02; any readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-005",
+   "objective_ids": [
+    "OBJ-8223-4.3-02"
+   ],
+   "text": "A column heading for a measured or calculated quantity names the quantity and its unit in the form quantity / unit, for example Time / s or Mass / g, with the unit in its short singular form; where a quantity has no unit, as with a colour or a species name, the heading is the quantity alone.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: table headings with units, independent variable first",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-02; any readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-006",
+   "objective_ids": [
+    "OBJ-8223-4.3-02"
+   ],
+   "text": "When a measurement is repeated, each repeat has its own column or row headed with the same quantity and unit, and a mean, if one is calculated, has its own heading in the same form, placed after the repeats.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: table headings with units, independent variable first",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-02; any readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-007",
+   "objective_ids": [
+    "OBJ-8223-4.3-03"
+   ],
+   "text": "A measurement is recorded to the precision of the instrument that made it: a reading on an analogue scale is written to the nearest marked division or, where the pointer or surface lies clearly between marks, to half a division, and a reading on a digital display is written with all the digits displayed, including a final zero.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: significant figures set by the measuring instrument",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-03; any readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-008",
+   "objective_ids": [
+    "OBJ-8223-4.3-03"
+   ],
+   "text": "The readings of one quantity are written to the same number of decimal places, set by the instrument, so a trailing zero is written, for example 6.0 cm and not 6 cm; readings of a similar size then have the same number of significant figures.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: significant figures set by the measuring instrument",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-03; any readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-009",
+   "objective_ids": [
+    "OBJ-8223-4.3-04"
+   ],
+   "text": "A calculation is set out as the equation or formula, then the substitution of the measured values, then the unrounded result, then the final answer to the correct number of significant figures with its unit, so that a reader can follow each step.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: show calculations with all steps and reasoning",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-04; any readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-010",
+   "objective_ids": [
+    "OBJ-8223-4.3-04"
+   ],
+   "text": "The reasoning for a step that is a choice is written beside it, for example that a percentage change is divided by the starting value because it is measured against where the quantity began, since a choice with no reason attached cannot be checked.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: show calculations with all steps and reasoning",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-04; any readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-011",
+   "objective_ids": [
+    "OBJ-8223-4.3-05"
+   ],
+   "text": "Significant figures are counted from the first digit that is not zero, so 0.0380 has three and 8.0 has two; a zero after the decimal point and after the last non-zero digit is significant, so 8.0 and 8 do not show the same accuracy.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: significant figures for calculated quantities",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-05; any readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-012",
+   "objective_ids": [
+    "OBJ-8223-4.3-05"
+   ],
+   "text": "A calculated value is given to the same number of significant figures as, or one more than, the measured quantity of least accuracy used to find it, meaning the measurement with the fewest significant figures.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: significant figures for calculated quantities",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-05; any readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-013",
+   "objective_ids": [
+    "OBJ-8223-4.3-05"
+   ],
+   "text": "The unrounded value is kept through the steps of a calculation and rounded once, at the end; an exact number, such as the 3 in a mean of three repeats, does not limit the number of significant figures.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: significant figures for calculated quantities",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-05; any readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-014",
+   "objective_ids": [
+    "OBJ-8223-4.3-06"
+   ],
+   "text": "A line graph is chosen when the independent variable is continuous, such as time, distance or temperature, because values exist between the plotted points; a bar chart is chosen when the independent variable is categorical or discrete, such as soil type or the number of leaves, because there are no values between the categories.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: select a graph or chart and present it clearly",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-06; any readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-015",
+   "objective_ids": [
+    "OBJ-8223-4.3-06"
+   ],
+   "text": "A graph or chart is clear and accurate when it has a title or caption saying what it shows, labelled axes, an even scale and points or bars drawn from the values in the table; where a measurement was repeated, the mean is usually the value plotted.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: select a graph or chart and present it clearly",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-06; any readings used with it are ours. The title or caption and the use of means are our own teaching additions, stated as tendencies."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-016",
+   "objective_ids": [
+    "OBJ-8223-4.3-07"
+   ],
+   "text": "The independent variable is placed on the x-axis, the horizontal axis, and the dependent variable is placed on the y-axis, the vertical axis.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: axes with the independent variable on x, labelled to match headings",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-07; any readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-017",
+   "objective_ids": [
+    "OBJ-8223-4.3-07"
+   ],
+   "text": "Each axis is labelled with the quantity and its unit in the form quantity / unit, worded to match the heading of the table column it comes from; where a quantity has no unit, the axis label is the quantity alone.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: axes with the independent variable on x, labelled to match headings",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-07; any readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-018",
+   "objective_ids": [
+    "OBJ-8223-4.3-08"
+   ],
+   "text": "The scales are chosen so that the plotted points cover most or all of the grid in both directions, so that the pattern is clear and the position of each point can be read accurately.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: scales using most or all of the grid",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-08; any readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-019",
+   "objective_ids": [
+    "OBJ-8223-4.3-08"
+   ],
+   "text": "A scale is linear, with the same step along the whole axis and the numbers marked at regular intervals, and the step per large square is an easy one such as 1, 2, 5 or 10 (or these multiplied or divided by ten), not an awkward one such as 3 or 7.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: scales using most or all of the grid",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-08; any readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-020",
+   "objective_ids": [
+    "OBJ-8223-4.3-08"
+   ],
+   "text": "To choose a scale, divide the range of the values by the number of large squares available and round the result up to the next easy step; an axis can start above zero where the values lie in a narrow band far from zero, and starts at zero where zero is a possible value near the data.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: scales using most or all of the grid",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-08; any readings used with it are ours. The scale-choice method (range divided by squares, rounded up to an easy step) is our own method; judged."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-021",
+   "objective_ids": [
+    "OBJ-8223-4.3-09"
+   ],
+   "text": "A point is plotted at the position given by its x value and its y value, to within half of a small square, and is marked with a small neat cross or with a dot inside a small circle, centred on that position.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: all points plotted accurately",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-09; any readings used with it are ours. The tolerance of half a small square is our own working standard, not a figure printed in the syllabus; judged, not derived."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-022",
+   "objective_ids": [
+    "OBJ-8223-4.3-09"
+   ],
+   "text": "A large dot or a blob hides the exact position of a point, because its centre cannot be judged, and no pair of values from the table is left unplotted.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: all points plotted accurately",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-09; any readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-023",
+   "objective_ids": [
+    "OBJ-8223-4.3-10"
+   ],
+   "text": "A line of best fit is a single thin line, ruled when the trend of the points is straight or drawn as a smooth curve when the trend is curved, passing through or close to as many points as possible with about as many points above it as below it.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: plotted points connected with a clear, sharp, unbroken line",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-10; any readings used with it are ours. Best-fit line and smooth curve are our teaching of the syllabus line on joining points; judged."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-024",
+   "objective_ids": [
+    "OBJ-8223-4.3-10"
+   ],
+   "text": "Where the data are provided and no trend is to be assumed, neighbouring points are joined by ruled straight lines, and any line is thin, sharp and unbroken, without feathering or gaps.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: plotted points connected with a clear, sharp, unbroken line",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-10; any readings used with it are ours. The syllabus line says the plotted points are connected with a clear, sharp and unbroken line for data provided; the choice of ruled straight segments for provided data, and of best fit or curve for the learner's own trend, is our reading of that line and needs reviewer confirmation."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-025",
+   "objective_ids": [
+    "OBJ-8223-4.3-10"
+   ],
+   "text": "A line or curve starts at the first plotted point and stops at the last, because the investigation gave no readings beyond them, and extending it (extrapolating) would claim values that were not obtained; it passes through the origin only where the origin was itself a measured point.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: plotted points connected with a clear, sharp, unbroken line",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-10; any readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-026",
+   "objective_ids": [
+    "OBJ-8223-4.3-11"
+   ],
+   "text": "In a bar chart of discrete or categorical data the bars are of equal width and are separated by gaps, because each bar stands for a separate category or whole value and not for a range.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: bars separated or joined",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-11; any readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-027",
+   "objective_ids": [
+    "OBJ-8223-4.3-11"
+   ],
+   "text": "In a chart of continuous data grouped into classes, such as lengths in classes 10 mm wide, the bars touch, because each class begins where the one before it ends, and the axis is labelled with the class boundaries.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.3, p. 33: bars separated or joined",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.3 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.3-11; any readings used with it are ours."
+   ]
+  }
+ ]
+}

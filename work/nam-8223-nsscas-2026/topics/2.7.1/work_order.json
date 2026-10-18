@@ -1,0 +1,906 @@
+{
+ "work_order_id": "WO-8223-2.7.1",
+ "topic_id": "2.7.1",
+ "topic_title": "Mammalian circulatory system",
+ "topic": "2.7.1 Mammalian circulatory system",
+ "generated_by": "build/make_work_order.py — regenerate, never edit",
+ "standard": "v0.2.0-draft",
+ "authoring_note": "Every slot below is decided. Write the prose; do not redesign the plan. If a slot is genuinely wrong for the objective, say so in your report rather than silently changing it.",
+ "output_files": {
+  "claims": "claims/canonical_claim_ledger.json",
+  "content_units": [
+   "content-units/CU-8223-2.7.1.json"
+  ],
+  "learning_items": "learning-items/topic_2.7.1_items.json",
+  "notes": "2.7.1-mammalian-circulatory-system.md",
+  "flashcards_when_published": "2.7.1-mammalian-circulatory-system-flashcards.json"
+ },
+ "assessable_objective_count": 13,
+ "claims_plan": {
+  "per_objective": "2 to 4",
+  "approximate_total": [
+   26,
+   52
+  ]
+ },
+ "content_units": [
+  {
+   "unit_id": "CU-8223-2.7.1",
+   "file": "content-units/CU-8223-2.7.1.json",
+   "sub_topic": "2.7.1",
+   "objective_ids": [
+    "OBJ-8223-2.7.1-01",
+    "OBJ-8223-2.7.1-02",
+    "OBJ-8223-2.7.1-03",
+    "OBJ-8223-2.7.1-04",
+    "OBJ-8223-2.7.1-05",
+    "OBJ-8223-2.7.1-06",
+    "OBJ-8223-2.7.1-07",
+    "OBJ-8223-2.7.1-08",
+    "OBJ-8223-2.7.1-09",
+    "OBJ-8223-2.7.1-10",
+    "OBJ-8223-2.7.1-11",
+    "OBJ-8223-2.7.1-12",
+    "OBJ-8223-2.7.1-13"
+   ],
+   "objectives": [
+    {
+     "objective_id": "OBJ-8223-2.7.1-01",
+     "title": "state that the mammalian circulatory system is a closed double circulation consisting of a heart, blood vessels and blood",
+     "syllabus_text": "state that the mammalian circulatory system is a closed double circulation consisting of a heart, blood vessels and blood",
+     "depth_tier": 1
+    },
+    {
+     "objective_id": "OBJ-8223-2.7.1-02",
+     "title": "observe and make plan diagrams of the structure of arteries and veins, using prepared microscope slides and be able to recognise these vessels using the light microscope or from photomicrographs",
+     "syllabus_text": "observe and make plan diagrams of the structure of arteries and veins, using prepared microscope slides and be able to recognise these vessels using the light microscope or from photomicrographs",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.7.1-03",
+     "title": "explain the relationship between the structure and function of arteries, veins and capillaries",
+     "syllabus_text": "explain the relationship between the structure and function of arteries, veins and capillaries",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.7.1-04",
+     "title": "recognise and draw the structure of red blood cells, monocytes, neutrophils and lymphocytes using prepared slides, photomicrographs and electron micrographs",
+     "syllabus_text": "recognise and draw the structure of red blood cells, monocytes, neutrophils and lymphocytes using prepared slides, photomicrographs and electron micrographs",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.7.1-05",
+     "title": "state the functions of tissue fluid and describe the formation of tissue fluid in a capillary network",
+     "syllabus_text": "state the functions of tissue fluid and describe the formation of tissue fluid in a capillary network",
+     "depth_tier": 1
+    },
+    {
+     "objective_id": "OBJ-8223-2.7.1-06",
+     "title": "state and explain the differences between blood, tissue fluid and lymph",
+     "syllabus_text": "state and explain the differences between blood, tissue fluid and lymph",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.7.1-07",
+     "title": "describe the role of red blood cells in carrying oxygen and carbon dioxide with reference to the role of: - haemoglobin - carbonic anhydrase - the formation of haemoglobinic acid - the formation of carbamino-haemoglobin (details of the chloride shift are not required)",
+     "syllabus_text": "describe the role of red blood cells in carrying oxygen and carbon dioxide with reference to the role of: - haemoglobin - carbonic anhydrase - the formation of haemoglobinic acid - the formation of carbamino-haemoglobin (details of the chloride shift are not required)",
+     "depth_tier": 3
+    },
+    {
+     "objective_id": "OBJ-8223-2.7.1-08",
+     "title": "describe how carbon monoxide binds with haemoglobin to form carboxyhaemoglob in reducing the affinity of haemoglobin for oxygen",
+     "syllabus_text": "describe how carbon monoxide binds with haemoglobin to form carboxyhaemoglob in reducing the affinity of haemoglobin for oxygen",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.7.1-09",
+     "title": "describe the role of plasma in the transport of carbon dioxide",
+     "syllabus_text": "describe the role of plasma in the transport of carbon dioxide",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.7.1-10",
+     "title": "describe and explain the oxygen dissociation curve of adult haemoglobin",
+     "syllabus_text": "describe and explain the oxygen dissociation curve of adult haemoglobin",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.7.1-11",
+     "title": "explain the importance of the oxygen dissociation curve at partial pressures of oxygen in the lungs and in respiring tissues",
+     "syllabus_text": "explain the importance of the oxygen dissociation curve at partial pressures of oxygen in the lungs and in respiring tissues",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.7.1-12",
+     "title": "describe the Bohr shift and explain the importance of the Bohr shift",
+     "syllabus_text": "describe the Bohr shift and explain the importance of the Bohr shift",
+     "depth_tier": 2
+    },
+    {
+     "objective_id": "OBJ-8223-2.7.1-13",
+     "title": "describe and explain the significance of the increase in the red blood cell count of humans at high altitude",
+     "syllabus_text": "describe and explain the significance of the increase in the red blood cell count of humans at high altitude",
+     "depth_tier": 2
+    }
+   ],
+   "word_budget": [
+    3530,
+    5070
+   ],
+   "blocks_required": [
+    "a definition or plain explanation block for every objective above",
+    "at least one worked example or analysis chain where the objectives are tier 2 or higher",
+    "a cross-link block naming the topics this one connects to"
+   ]
+  }
+ ],
+ "item_slots": [
+  {
+   "slot": "ITEM-8223-2.7.1-001-DEF",
+   "objective_id": "OBJ-8223-2.7.1-01",
+   "objective_title": "state that the mammalian circulatory system is a closed double circulation consisting of a heart, blood vessels and blood",
+   "syllabus_text": "state that the mammalian circulatory system is a closed double circulation consisting of a heart, blood vessels and blood",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 1,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-002-FEATURE",
+   "objective_id": "OBJ-8223-2.7.1-02",
+   "objective_title": "observe and make plan diagrams of the structure of arteries and veins, using prepared microscope slides and be able to recognise these vessels using the light microscope or from photomicrographs",
+   "syllabus_text": "observe and make plan diagrams of the structure of arteries and veins, using prepared microscope slides and be able to recognise these vessels using the light microscope or from photomicrographs",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "feature|features|point|points|characteristic|characteristics|structure|function|part|parts"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-003-APP",
+   "objective_id": "OBJ-8223-2.7.1-02",
+   "objective_title": "observe and make plan diagrams of the structure of arteries and veins, using prepared microscope slides and be able to recognise these vessels using the light microscope or from photomicrographs",
+   "syllabus_text": "observe and make plan diagrams of the structure of arteries and veins, using prepared microscope slides and be able to recognise these vessels using the light microscope or from photomicrographs",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-004-DEF",
+   "objective_id": "OBJ-8223-2.7.1-03",
+   "objective_title": "explain the relationship between the structure and function of arteries, veins and capillaries",
+   "syllabus_text": "explain the relationship between the structure and function of arteries, veins and capillaries",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-005-MECH",
+   "objective_id": "OBJ-8223-2.7.1-03",
+   "objective_title": "explain the relationship between the structure and function of arteries, veins and capillaries",
+   "syllabus_text": "explain the relationship between the structure and function of arteries, veins and capillaries",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "how|because|so that|which|then|causes|cause|leads|results"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-031-MISCON",
+   "objective_id": "OBJ-8223-2.7.1-03",
+   "objective_title": "explain the relationship between the structure and function of arteries, veins and capillaries",
+   "syllabus_text": "explain the relationship between the structure and function of arteries, veins and capillaries",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "error|mistake|confusion|confused|wrongly|in fact|not the same|instead|test"
+   ],
+   "misconception_entry": "MC-8223-2.7.1-06",
+   "reason": "discriminates misconception MC-8223-2.7.1-06 (1 examiner statements): Swapping the structures of arteries and veins"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-006-INTERP",
+   "objective_id": "OBJ-8223-2.7.1-04",
+   "objective_title": "recognise and draw the structure of red blood cells, monocytes, neutrophils and lymphocytes using prepared slides, photomicrographs and electron micrographs",
+   "syllabus_text": "recognise and draw the structure of red blood cells, monocytes, neutrophils and lymphocytes using prepared slides, photomicrographs and electron micrographs",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-007-INTERP",
+   "objective_id": "OBJ-8223-2.7.1-04",
+   "objective_title": "recognise and draw the structure of red blood cells, monocytes, neutrophils and lymphocytes using prepared slides, photomicrographs and electron micrographs",
+   "syllabus_text": "recognise and draw the structure of red blood cells, monocytes, neutrophils and lymphocytes using prepared slides, photomicrographs and electron micrographs",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Analyse",
+   "marking_guidance_must_name": [
+    "graph|table|trace|data|reading|read|values|figure|diagram|micrograph|photomicrograph",
+    "means|shows|gives|so|represents|indicates"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-026-MISCON",
+   "objective_id": "OBJ-8223-2.7.1-04",
+   "objective_title": "recognise and draw the structure of red blood cells, monocytes, neutrophils and lymphocytes using prepared slides, photomicrographs and electron micrographs",
+   "syllabus_text": "recognise and draw the structure of red blood cells, monocytes, neutrophils and lymphocytes using prepared slides, photomicrographs and electron micrographs",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "error|mistake|confusion|confused|wrongly|in fact|not the same|instead|test"
+   ],
+   "misconception_entry": "MC-8223-2.7.1-01",
+   "reason": "discriminates misconception MC-8223-2.7.1-01 (1 examiner statements): Drawing or describing a neutrophil as having three nuclei"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-008-DEF",
+   "objective_id": "OBJ-8223-2.7.1-05",
+   "objective_title": "state the functions of tissue fluid and describe the formation of tissue fluid in a capillary network",
+   "syllabus_text": "state the functions of tissue fluid and describe the formation of tissue fluid in a capillary network",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 1,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-009-DEF",
+   "objective_id": "OBJ-8223-2.7.1-06",
+   "objective_title": "state and explain the differences between blood, tissue fluid and lymph",
+   "syllabus_text": "state and explain the differences between blood, tissue fluid and lymph",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-010-DIST",
+   "objective_id": "OBJ-8223-2.7.1-06",
+   "objective_title": "state and explain the differences between blood, tissue fluid and lymph",
+   "syllabus_text": "state and explain the differences between blood, tissue fluid and lymph",
+   "subtype": "DIST",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "difference|differences|whereas|contrast|distinction|both|while|unlike|compare"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-011-PROC",
+   "objective_id": "OBJ-8223-2.7.1-07",
+   "objective_title": "describe the role of red blood cells in carrying oxygen and carbon dioxide with reference to the role of: - haemoglobin - carbonic anhydrase - the formation of haemoglobinic acid - the formation of carbamino-haemoglobin (details of the chloride shift are not required)",
+   "syllabus_text": "describe the role of red blood cells in carrying oxygen and carbon dioxide with reference to the role of: - haemoglobin - carbonic anhydrase - the formation of haemoglobinic acid - the formation of carbamino-haemoglobin (details of the chloride shift are not required)",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 3,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "order|sequence|first|then|step|steps|stage|stages|start",
+    "result|so|therefore|finally|end|product|outcome"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-012-MECH",
+   "objective_id": "OBJ-8223-2.7.1-07",
+   "objective_title": "describe the role of red blood cells in carrying oxygen and carbon dioxide with reference to the role of: - haemoglobin - carbonic anhydrase - the formation of haemoglobinic acid - the formation of carbamino-haemoglobin (details of the chloride shift are not required)",
+   "syllabus_text": "describe the role of red blood cells in carrying oxygen and carbon dioxide with reference to the role of: - haemoglobin - carbonic anhydrase - the formation of haemoglobinic acid - the formation of carbamino-haemoglobin (details of the chloride shift are not required)",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "how|because|so that|which|then|causes|cause|leads|results"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-013-APP",
+   "objective_id": "OBJ-8223-2.7.1-07",
+   "objective_title": "describe the role of red blood cells in carrying oxygen and carbon dioxide with reference to the role of: - haemoglobin - carbonic anhydrase - the formation of haemoglobinic acid - the formation of carbamino-haemoglobin (details of the chloride shift are not required)",
+   "syllabus_text": "describe the role of red blood cells in carrying oxygen and carbon dioxide with reference to the role of: - haemoglobin - carbonic anhydrase - the formation of haemoglobinic acid - the formation of carbamino-haemoglobin (details of the chloride shift are not required)",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "situation|given|this|here|case|data|information|specimen|diagram",
+    "because|so|therefore|since"
+   ],
+   "reason": "instructs with Explain, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-014-DEF",
+   "objective_id": "OBJ-8223-2.7.1-08",
+   "objective_title": "describe how carbon monoxide binds with haemoglobin to form carboxyhaemoglob in reducing the affinity of haemoglobin for oxygen",
+   "syllabus_text": "describe how carbon monoxide binds with haemoglobin to form carboxyhaemoglob in reducing the affinity of haemoglobin for oxygen",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-015-FEATURE",
+   "objective_id": "OBJ-8223-2.7.1-08",
+   "objective_title": "describe how carbon monoxide binds with haemoglobin to form carboxyhaemoglob in reducing the affinity of haemoglobin for oxygen",
+   "syllabus_text": "describe how carbon monoxide binds with haemoglobin to form carboxyhaemoglob in reducing the affinity of haemoglobin for oxygen",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "feature|features|point|points|characteristic|characteristics|structure|function|part|parts"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-016-FEATURE",
+   "objective_id": "OBJ-8223-2.7.1-09",
+   "objective_title": "describe the role of plasma in the transport of carbon dioxide",
+   "syllabus_text": "describe the role of plasma in the transport of carbon dioxide",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "feature|features|point|points|characteristic|characteristics|structure|function|part|parts"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-017-MECH",
+   "objective_id": "OBJ-8223-2.7.1-09",
+   "objective_title": "describe the role of plasma in the transport of carbon dioxide",
+   "syllabus_text": "describe the role of plasma in the transport of carbon dioxide",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "how|because|so that|which|then|causes|cause|leads|results"
+   ],
+   "reason": "instructs with Describe, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-030-MISCON",
+   "objective_id": "OBJ-8223-2.7.1-09",
+   "objective_title": "describe the role of plasma in the transport of carbon dioxide",
+   "syllabus_text": "describe the role of plasma in the transport of carbon dioxide",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "error|mistake|confusion|confused|wrongly|in fact|not the same|instead|test"
+   ],
+   "misconception_entry": "MC-8223-2.7.1-05",
+   "reason": "discriminates misconception MC-8223-2.7.1-05 (1 examiner statements): Confusing hydrogencarbonate ions with carbon dioxide binding to haemoglobin"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-018-DEF",
+   "objective_id": "OBJ-8223-2.7.1-10",
+   "objective_title": "describe and explain the oxygen dissociation curve of adult haemoglobin",
+   "syllabus_text": "describe and explain the oxygen dissociation curve of adult haemoglobin",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-019-MECH",
+   "objective_id": "OBJ-8223-2.7.1-10",
+   "objective_title": "describe and explain the oxygen dissociation curve of adult haemoglobin",
+   "syllabus_text": "describe and explain the oxygen dissociation curve of adult haemoglobin",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "how|because|so that|which|then|causes|cause|leads|results"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-027-MISCON",
+   "objective_id": "OBJ-8223-2.7.1-10",
+   "objective_title": "describe and explain the oxygen dissociation curve of adult haemoglobin",
+   "syllabus_text": "describe and explain the oxygen dissociation curve of adult haemoglobin",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "error|mistake|confusion|confused|wrongly|in fact|not the same|instead|test"
+   ],
+   "misconception_entry": "MC-8223-2.7.1-02",
+   "reason": "discriminates misconception MC-8223-2.7.1-02 (1 examiner statements): Saying oxygen has an affinity for haemoglobin rather than haemoglobin having an affinity for oxygen"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-020-DEF",
+   "objective_id": "OBJ-8223-2.7.1-11",
+   "objective_title": "explain the importance of the oxygen dissociation curve at partial pressures of oxygen in the lungs and in respiring tissues",
+   "syllabus_text": "explain the importance of the oxygen dissociation curve at partial pressures of oxygen in the lungs and in respiring tissues",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, the shape this subtype needs"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-021-MECH",
+   "objective_id": "OBJ-8223-2.7.1-11",
+   "objective_title": "explain the importance of the oxygen dissociation curve at partial pressures of oxygen in the lungs and in respiring tissues",
+   "syllabus_text": "explain the importance of the oxygen dissociation curve at partial pressures of oxygen in the lungs and in respiring tissues",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "how|because|so that|which|then|causes|cause|leads|results"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-022-DEF",
+   "objective_id": "OBJ-8223-2.7.1-12",
+   "objective_title": "describe the Bohr shift and explain the importance of the Bohr shift",
+   "syllabus_text": "describe the Bohr shift and explain the importance of the Bohr shift",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-023-MECH",
+   "objective_id": "OBJ-8223-2.7.1-12",
+   "objective_title": "describe the Bohr shift and explain the importance of the Bohr shift",
+   "syllabus_text": "describe the Bohr shift and explain the importance of the Bohr shift",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "how|because|so that|which|then|causes|cause|leads|results"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-028-MISCON",
+   "objective_id": "OBJ-8223-2.7.1-12",
+   "objective_title": "describe the Bohr shift and explain the importance of the Bohr shift",
+   "syllabus_text": "describe the Bohr shift and explain the importance of the Bohr shift",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "error|mistake|confusion|confused|wrongly|in fact|not the same|instead|test"
+   ],
+   "misconception_entry": "MC-8223-2.7.1-03",
+   "reason": "discriminates misconception MC-8223-2.7.1-03 (1 examiner statements): Believing a lower pH means fewer hydrogen ions"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-029-MISCON",
+   "objective_id": "OBJ-8223-2.7.1-12",
+   "objective_title": "describe the Bohr shift and explain the importance of the Bohr shift",
+   "syllabus_text": "describe the Bohr shift and explain the importance of the Bohr shift",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "error|mistake|confusion|confused|wrongly|in fact|not the same|instead|test"
+   ],
+   "misconception_entry": "MC-8223-2.7.1-04",
+   "reason": "discriminates misconception MC-8223-2.7.1-04 (1 examiner statements): Confusing respiration with breathing, or saying oxygen is produced in respiration"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-024-DEF",
+   "objective_id": "OBJ-8223-2.7.1-13",
+   "objective_title": "describe and explain the significance of the increase in the red blood cell count of humans at high altitude",
+   "syllabus_text": "describe and explain the significance of the increase in the red blood cell count of humans at high altitude",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "blooms_level": "Remember",
+   "marking_guidance_must_name": [
+    "definition|defined|means|meaning|term|key word|key words|statement"
+   ],
+   "reason": "instructs with State, which this objective carries"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-025-MECH",
+   "objective_id": "OBJ-8223-2.7.1-13",
+   "objective_title": "describe and explain the significance of the increase in the red blood cell count of humans at high altitude",
+   "syllabus_text": "describe and explain the significance of the increase in the red blood cell count of humans at high altitude",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "blooms_level": "Understand",
+   "marking_guidance_must_name": [
+    "how|because|so that|which|then|causes|cause|leads|results"
+   ],
+   "reason": "instructs with Explain, which this objective carries"
+  }
+ ],
+ "performance_tasks": [
+  {
+   "slot": "ITEM-8223-2.7.1-P01",
+   "item_type": "multiple_choice_set",
+   "brief": "A set of 12 four-option multiple-choice questions on this topic in the style of Paper 1, one mark each: about half recall and half application, diagram, graph or sequence, every distractor built from a known error (the misconception register first), the key and the reason each distractor is wrong on the back.",
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "key|correct option|correct answer",
+    "distractor|distractors|wrong option|wrong options|error"
+   ],
+   "objective_ids": "choose 2-4 objectives from this topic that the task genuinely exercises"
+  },
+  {
+   "slot": "ITEM-8223-2.7.1-P02",
+   "item_type": "short_answer",
+   "brief": "A Paper 2 style structured question: four or five linked parts around one stimulus (a data table, a graph described by its axes and values, a labelled structure described in words, or a short scenario), about 8 marks, mixing state, describe, explain and suggest, each part with its own mark allocation and more creditworthy points on the scheme than marks.",
+   "blooms_level": "Apply",
+   "marking_guidance_must_name": [
+    "mark|marks|point|points",
+    "unit|units|term|terms|because|reason"
+   ],
+   "objective_ids": "choose 2-4 objectives from this topic that the task genuinely exercises"
+  }
+ ],
+ "planned_item_count": 33,
+ "planned_ao_mix_by_item_count": {
+  "A": {
+   "planned_share_percent": 65,
+   "target_percent": 40
+  },
+  "B": {
+   "planned_share_percent": 35,
+   "target_percent": 40
+  },
+  "C": {
+   "planned_share_percent": 0,
+   "target_percent": 20
+  }
+ },
+ "planned_blooms_mix": {
+  "Remember": {
+   "items": 12,
+   "share_percent": 36
+  },
+  "Understand": {
+   "items": 14,
+   "share_percent": 42
+  },
+  "Apply": {
+   "items": 5,
+   "share_percent": 15
+  },
+  "Analyse": {
+   "items": 2,
+   "share_percent": 6
+  },
+  "Evaluate": {
+   "items": 0,
+   "share_percent": 0
+  },
+  "Create": {
+   "items": 0,
+   "share_percent": 0
+  }
+ },
+ "planned_ao_mix_by_marks": {
+  "A": {
+   "planned_share_percent": 54,
+   "syllabus_weight_percent": 40
+  },
+  "B": {
+   "planned_share_percent": 46,
+   "syllabus_weight_percent": 40
+  },
+  "C": {
+   "planned_share_percent": 0,
+   "syllabus_weight_percent": 20
+  }
+ },
+ "marks_equivalent_total": 70,
+ "ao_mix_note": "The syllabus states its AO weights as a share of MARKS, so planned_ao_mix_by_marks is the one that answers \"does this resource match the exam\". It values each card at the tariff of the question it models, split across the AOs the card declares, and values each performance task at the marks of the paper part it models. The count-based mix below is reported only because it is what a reader expects to see; do not balance against it. AO shares by ITEM COUNT: Every objective needs one recall anchor, so AO1 has a structural floor of about 42% in this topic (13 objectives against 31 slots) and cannot reach the None% target by count however many other cards are added - padding the bank to chase it makes the resource worse. The framework already measures the AO4 share in practice time rather than by count for the same reason. Treat AO1 above target as expected, and AO2/AO3/AO4 below target as the thing worth fixing.",
+ "excluded_constructs": [
+  {
+   "construct": "species concepts other than the biological, morphological, ecological and behavioural concepts",
+   "pattern": "\\b(?:phylogenetic|cohesion|recognition|evolutionary|genotypic cluster)\\s+species\\s+concept",
+   "source": {
+    "printed_page": 5,
+    "topic": "1.1",
+    "quote": "limited to the biological, morphological, ecological and behavioural concepts"
+   }
+  },
+  {
+   "construct": "mesosomes",
+   "pattern": "\\bmesosomes?\\b",
+   "source": {
+    "printed_page": 8,
+    "topic": "2.2",
+    "quote": "no reference to mesosomes required"
+   }
+  },
+  {
+   "construct": "calculations of water potential",
+   "pattern": "\\bcalculat\\w*\\s+(?:the\\s+)?(?:water|solute|pressure)\\s+potential|\\bψ\\s*=\\s*ψ|\\bwater potential\\s*=\\s*solute potential|\\bΨs\\b|\\bΨp\\b",
+   "source": {
+    "printed_page": 9,
+    "topic": "2.3.2",
+    "quote": "no calculations involving water potential will be set"
+   }
+  },
+  {
+   "construct": "solute potential, pressure potential and osmotic potential as terms",
+   "pattern": "\\b(?:solute|pressure|osmotic)\\s+potential\\b",
+   "source": {
+    "printed_page": 9,
+    "topic": "2.3.2",
+    "quote": "Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected"
+   }
+  },
+  {
+   "construct": "roles of water beyond solvent action, specific heat capacity and latent heat of vaporisation",
+   "pattern": "\\b(?:ice floats|ice is less dense|maximum density|surface tension)\\b",
+   "source": {
+    "printed_page": 11,
+    "topic": "2.4.2",
+    "quote": "limited to solvent action, specific heat capacity and latent heat of vapourisation"
+   }
+  },
+  {
+   "construct": "chloride shift",
+   "pattern": "\\bchloride shift\\b|\\bhamburger shift\\b",
+   "source": {
+    "printed_page": 14,
+    "topic": "2.7.1",
+    "quote": "details of the chloride shift are not required"
+   }
+  },
+  {
+   "construct": "nervous and hormonal control of the heart",
+   "pattern": "\\b(?:vagus nerve|cardiac centre|cardiovascular centre|cardioaccelerator|medulla oblongata)\\b|\\b(?:sympathetic|parasympathetic)\\b[^.]{0,60}\\bheart\\b|\\b(?:adrenaline|noradrenaline|acetylcholine)\\b[^.]{0,60}\\bheart (?:rate|beat)",
+   "source": {
+    "printed_page": 15,
+    "topic": "2.7.2",
+    "quote": "reference should be made to the sinoatrial node, the atrioventricular node and the Purkyne tissue, but not to nervous and hormonal control"
+   }
+  },
+  {
+   "construct": "non-infectious disease examples other than sickle cell anaemia and lung cancer",
+   "pattern": "\\b(?:non-?infectious|not infectious)\\b[^.]{0,80}\\b(?:diabetes|coronary heart disease|scurvy|rickets|kwashiorkor|cystic fibrosis|haemophilia|huntington|osteoporosis)\\b|\\b(?:diabetes|coronary heart disease|scurvy|rickets|kwashiorkor|cystic fibrosis|haemophilia|huntington|osteoporosis)\\b[^.]{0,80}\\b(?:non-?infectious|not infectious)\\b",
+   "source": {
+    "printed_page": 15,
+    "topic": "2.8.1",
+    "quote": "limited to sickle cell anaemia and lung cancer"
+   }
+  },
+  {
+   "construct": "detailed life cycle of the malarial parasite",
+   "pattern": "\\b(?:sporozoites?|merozoites?|gametocytes?|schizonts?|hypnozoites?|oocysts?|trophozoites?|exo-?erythrocytic)\\b",
+   "source": {
+    "printed_page": 15,
+    "topic": "2.8.1",
+    "quote": "a detailed study of the life cycle of the malarial parasite is not required"
+   }
+  },
+  {
+   "construct": "T-lymphocyte types other than T-helper and T-killer cells",
+   "pattern": "\\b(?:regulatory T|suppressor T|T-?regulatory|Tregs?|memory T cells?|gamma-?delta)\\b",
+   "source": {
+    "printed_page": 16,
+    "topic": "2.9.1",
+    "quote": "limited to T-helper cells and T-killer cells"
+   }
+  },
+  {
+   "construct": "chromosome structure beyond DNA, histone proteins, chromatids, centromere and telomeres",
+   "pattern": "\\b(?:kinetochores?|nucleosomes?|euchromatin|heterochromatin|cohesins?|condensins?)\\b",
+   "source": {
+    "printed_page": 18,
+    "topic": "3.1.1",
+    "quote": "limited to DNA, histone proteins, chromatids, centromere and telomeres"
+   }
+  },
+  {
+   "construct": "structural formulae of nucleotides and bases",
+   "pattern": "\\bstructural formulae? of (?:the )?(?:nucleotides?|bases?|purines?|pyrimidines?|adenine|guanine|cytosine|thymine|uracil)\\b|\\bC5H5N5\\b|\\bC4H5N3O\\b|\\bC5H5N5O\\b|\\bC4H4N2O2\\b",
+   "source": {
+    "printed_page": 19,
+    "topic": "3.2.1",
+    "quote": "structural formulae are not required"
+   }
+  }
+ ],
+ "adjacent_topics": [
+  "The microscope — taught in topic 2.1 (same unit)",
+  "Cell structure — taught in topic 2.2 (same unit)",
+  "Mammalian heart — taught in topic 2.7.2 (same unit)"
+ ],
+ "excluded_constructs_status": "declared",
+ "subtype_waivers": []
+}

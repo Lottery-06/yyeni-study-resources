@@ -1,0 +1,8 @@
+{"topic_id": "1.1", "deviations": [
+ {"from": "P01 and P02 objective_ids: 'choose 2-4 objectives'",
+  "to": "P01 exercises OBJ-01 to -04 (three questions each); P02 exercises OBJ-02, -03 and -05",
+  "why": "Each task only lists objectives it genuinely practises; OBJ-05 has four flashcards already, and the multiple-choice set would otherwise exceed four objectives."},
+ {"from": "Content unit objective_type bio_description (unit-level field has one value, objectives are bio_description, bio_explanation and bio_practical_skill)",
+  "to": "bio_description with depth_tier 2",
+  "why": "The unit spans mixed objective types; the majority tier and the first objective's type were used. Registry classifies OBJ-8223-1.1-04 (construct dichotomous keys) as bio_practical_skill although it is taught and assessed here as a written procedure (PROC and WHY slots), which looks like a registry mismatch."}
+]}

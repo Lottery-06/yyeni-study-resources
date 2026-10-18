@@ -1,0 +1,557 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-2.8.1",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-2.8.1-001",
+   "objective_ids": [
+    "OBJ-8223-2.8.1-01"
+   ],
+   "text": "A disease is a disorder that impairs the normal working of part or all of the body and shows itself through signs and symptoms.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.15, topic 2.8.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.8.1 under standard v0.2.0-draft from our own statement of standard biology consistent with the syllabus. Single source; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus p.15, 2.8.1).",
+    "The syllabus asks for a definition without printing one; this is the standard biological sense."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.1-002",
+   "objective_ids": [
+    "OBJ-8223-2.8.1-01"
+   ],
+   "text": "An infectious disease is caused by a pathogen and can be passed from one host to another, whereas a non-infectious disease is not caused by a pathogen and is not passed from person to person.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.15, topic 2.8.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.8.1 under standard v0.2.0-draft from our own statement of standard biology consistent with the syllabus. Single source; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus p.15, 2.8.1).",
+    "Standard biology."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.1-003",
+   "objective_ids": [
+    "OBJ-8223-2.8.1-01"
+   ],
+   "text": "Sickle cell anaemia is a non-infectious disease caused by inheriting a mutated allele of the gene for the haemoglobin polypeptide from both parents; lung cancer is a non-infectious disease in which lung cells divide in an uncontrolled way, and smoking tobacco raises the chance of it.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.15, topic 2.8.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.8.1 under standard v0.2.0-draft from our own statement of standard biology consistent with the syllabus. Single source; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus p.15, 2.8.1).",
+    "Limited by the syllabus to these two examples. Some cancers of other organs are linked to viruses; lung cancer is treated here, as in the syllabus, as non-infectious."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.1-004",
+   "objective_ids": [
+    "OBJ-8223-2.8.1-02"
+   ],
+   "text": "A pathogen is an organism or virus that causes disease. Cholera is caused by the bacterium Vibrio cholerae, and TB by the bacteria Mycobacterium tuberculosis and Mycobacterium bovis; a bacterium is a single prokaryotic cell with no nucleus.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.15, topic 2.8.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.8.1 under standard v0.2.0-draft from our own statement of standard biology consistent with the syllabus. Single source; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus p.15, 2.8.1).",
+    "Mycobacterium bovis is found mainly in cattle and can pass to people through unpasteurised milk."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.1-005",
+   "objective_ids": [
+    "OBJ-8223-2.8.1-02"
+   ],
+   "text": "Malaria is caused by protoctists of the genus Plasmodium (P. falciparum, P. malariae, P. ovale and P. vivax); a protoctist is a eukaryotic organism that is not a plant, animal or fungus, and these are single-celled parasites that live inside human cells.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.15, topic 2.8.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.8.1 under standard v0.2.0-draft from our own statement of standard biology consistent with the syllabus. Single source; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus p.15, 2.8.1).",
+    "'Protoctist' is the syllabus's term. Many current classifications no longer treat the protoctists as one kingdom; the syllabus term is kept because learners are examined on it. No life-cycle stages are named, as the syllabus does not require them."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.1-006",
+   "objective_ids": [
+    "OBJ-8223-2.8.1-02"
+   ],
+   "text": "HIV/AIDS is caused by the human immunodeficiency virus (HIV) and measles by a Morbillivirus; a virus is not a cell, consists of nucleic acid in a protein coat, and reproduces only inside the cells of a host.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.15, topic 2.8.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.8.1 under standard v0.2.0-draft from our own statement of standard biology consistent with the syllabus. Single source; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus p.15, 2.8.1).",
+    "HIV is the virus; AIDS is the condition when HIV has badly damaged the immune system. The Morbillivirus in measles is called the measles virus."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.1-007",
+   "objective_ids": [
+    "OBJ-8223-2.8.1-03"
+   ],
+   "text": "Cholera is water-borne: bacteria in the faeces of an infected person reach drinking water or food where sanitation is poor, and another person is infected when they swallow it.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.15, topic 2.8.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.8.1 under standard v0.2.0-draft from our own statement of standard biology consistent with the syllabus. Single source; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus p.15, 2.8.1).",
+    "Standard biology: faecal-oral route."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.1-008",
+   "objective_ids": [
+    "OBJ-8223-2.8.1-03"
+   ],
+   "text": "Malaria is vector-borne: the female Anopheles mosquito is the vector, picking up the parasite when she feeds on the blood of an infected person; the parasite must develop in the mosquito before it can infect another person, to whom she passes it in her next bite.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.15, topic 2.8.1",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2022-P2-Q2b",
+     "locator": "examiner-report finding on this point",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.8.1 under standard v0.2.0-draft from our own statement of standard biology consistent with the syllabus. Single source; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus p.15, 2.8.1).",
+    "In ordinary circumstances malaria is not passed directly between people; rare routes such as transfusion with infected blood or from mother to unborn child are outside the syllabus.",
+    "No life-cycle stages named, as the syllabus does not require them."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.1-009",
+   "objective_ids": [
+    "OBJ-8223-2.8.1-03"
+   ],
+   "text": "TB of the lungs is airborne: an infected person releases droplets containing the bacteria when coughing, and another person breathes them in, which is more likely in crowded, poorly ventilated rooms.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.15, topic 2.8.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.8.1 under standard v0.2.0-draft from our own statement of standard biology consistent with the syllabus. Single source; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus p.15, 2.8.1).",
+    "Mycobacterium bovis can also be swallowed in unpasteurised milk from infected cattle."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.1-010",
+   "objective_ids": [
+    "OBJ-8223-2.8.1-03"
+   ],
+   "text": "HIV is passed on in body fluids: through unprotected sexual intercourse, by blood-to-blood contact such as shared needles or unscreened transfusion, and from an infected mother to her child during pregnancy, birth or breast-feeding; it is not passed on by casual contact such as hugging or sharing a cup.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.15, topic 2.8.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.8.1 under standard v0.2.0-draft from our own statement of standard biology consistent with the syllabus. Single source; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus p.15, 2.8.1).",
+    "Standard biology."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.1-011",
+   "objective_ids": [
+    "OBJ-8223-2.8.1-04"
+   ],
+   "text": "Cholera is controlled by breaking the route from faeces to mouth: sanitation (the safe disposal of human waste), treated or boiled drinking water, hand washing and clean food preparation, supported by hygiene education and by the cost of building water and toilet systems.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.15, topic 2.8.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.8.1 under standard v0.2.0-draft from our own statement of standard biology consistent with the syllabus. Single source; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus p.15, 2.8.1).",
+    "Treating water targets the cholera bacterium and is not a measure for malaria."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.1-012",
+   "objective_ids": [
+    "OBJ-8223-2.8.1-04"
+   ],
+   "text": "Measles is highly infectious and spreads in droplets, so it is prevented by vaccinating children; if about 95 out of every 100 people are immune, the virus meets too few susceptible people to keep spreading, which depends on clinic access, parents' trust and the cost of vaccine supply.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.15, topic 2.8.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.8.1 under standard v0.2.0-draft from our own statement of standard biology consistent with the syllabus. Single source; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus p.15, 2.8.1).",
+    "The 95 per cent figure is the commonly quoted approximate threshold for measles."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.1-013",
+   "objective_ids": [
+    "OBJ-8223-2.8.1-04"
+   ],
+   "text": "Malaria is controlled by targeting the mosquito and the parasite: draining standing water where Anopheles breeds, using insecticide-treated nets and indoor spraying, and treating infected people with antimalarial drugs, although mosquitoes and parasites can evolve resistance to insecticides and drugs.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.15, topic 2.8.1",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2022-P2-Q2d-i",
+     "locator": "examiner-report finding on this point",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.8.1 under standard v0.2.0-draft from our own statement of standard biology consistent with the syllabus. Single source; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus p.15, 2.8.1).",
+    "Measures aimed at drinking water or sewage do not target the vector or the parasite.",
+    "No life-cycle stages named."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.1-014",
+   "objective_ids": [
+    "OBJ-8223-2.8.1-04"
+   ],
+   "text": "TB is controlled by completing a long course of several antibiotics, because bacteria that survive a stopped course can multiply and become resistant, and also by reducing crowding and poor ventilation, vaccination with BCG, and treating HIV, since HIV infection raises the chance that latent TB becomes active; poverty, stigma and the cost of travel to a clinic make completing treatment harder.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.15, topic 2.8.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.8.1 under standard v0.2.0-draft from our own statement of standard biology consistent with the syllabus. Single source; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus p.15, 2.8.1).",
+    "BCG protects children well against severe TB and less reliably against lung TB in adults."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.1-015",
+   "objective_ids": [
+    "OBJ-8223-2.8.1-04"
+   ],
+   "text": "HIV is controlled by condoms, testing, safe blood and clean needles, and antiretroviral drugs, which reduce the amount of virus in the blood and so the chance of passing it on, including from mother to child; stigma, lack of education and the cost of drugs and clinics shape how well these work.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.15, topic 2.8.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.8.1 under standard v0.2.0-draft from our own statement of standard biology consistent with the syllabus. Single source; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus p.15, 2.8.1).",
+    "Standard biology."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.1-016",
+   "objective_ids": [
+    "OBJ-8223-2.8.1-05"
+   ],
+   "text": "A disease is endemic in a region when it is present there at a steady level over many years; malaria is endemic across the warm, wet tropics and subtropics, and most cases occur in sub-Saharan Africa.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.15, topic 2.8.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.8.1 under standard v0.2.0-draft from our own statement of standard biology consistent with the syllabus. Single source; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus p.15, 2.8.1).",
+    "Standard biology."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.1-017",
+   "objective_ids": [
+    "OBJ-8223-2.8.1-05"
+   ],
+   "text": "The distribution of malaria follows the conditions the vector and parasite need: Anopheles lays eggs in standing water, so rainfall, wetlands and irrigation support it, and the parasite develops in the mosquito only where temperatures are high enough, so malaria is rare in cold regions and at high altitude.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.15, topic 2.8.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.8.1 under standard v0.2.0-draft from our own statement of standard biology consistent with the syllabus. Single source; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus p.15, 2.8.1).",
+    "The minimum temperature for parasite development differs between Plasmodium species (roughly 15 to 20 degrees Celsius), so this is stated as a tendency."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.8.1-018",
+   "objective_ids": [
+    "OBJ-8223-2.8.1-05"
+   ],
+   "text": "Human factors also shape where malaria occurs: control programmes, healthcare, housing and income affect exposure and treatment, which helps explain why malaria has been eliminated from some wealthy temperate countries but remains common in poorer tropical ones.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.15, topic 2.8.1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.8.1 under standard v0.2.0-draft from our own statement of standard biology consistent with the syllabus. Single source; no second source checked. Requires review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus p.15, 2.8.1).",
+    "Mosquito and drug resistance and people moving between regions can also change the pattern."
+   ]
+  }
+ ]
+}

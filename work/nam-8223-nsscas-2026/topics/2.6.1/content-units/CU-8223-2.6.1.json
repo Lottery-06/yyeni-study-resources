@@ -1,0 +1,261 @@
+{
+ "unit_id": "CU-8223-2.6.1",
+ "title": "Structure of transport tissues",
+ "objective_ids": [
+  "OBJ-8223-2.6.1-01",
+  "OBJ-8223-2.6.1-02",
+  "OBJ-8223-2.6.1-03",
+  "OBJ-8223-2.6.1-04"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_interpretation",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 1260,
+  "target": 1474,
+  "max": 1800
+ },
+ "blocks": [
+  {
+   "block_id": "2.6.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "How the tissues are arranged in a transverse section of a stem, a root and a leaf, how to use an eyepiece graticule to keep a drawing in proportion, what a xylem vessel element, a sieve tube element and a companion cell look like, how each structure suits its job, and how to recognise them on a prepared slide.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "ff334026e354a92949e8815291b962e51d2cab10f561b99cca30d0c351e0e82f"
+  },
+  {
+   "block_id": "2.6.1-b2",
+   "block_type": "plain_explanation",
+   "heading": "Where the transport tissues lie",
+   "text": "Xylem and phloem are the transport tissues of a flowering plant. Xylem carries water and mineral ions from the roots to the rest of the plant. Phloem carries the sugars and amino acids that the plant makes or stores. They lie together in vascular bundles, but the bundles are arranged differently in the stem, the root and the leaf. The sections below describe a herbaceous dicotyledonous plant, one with a soft green stem, such as a bean or a sunflower. A transverse section is a slice cut across the organ, at right angles to its length.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "fb94aabeb7632993b43b1427c421dd94edf8c7e21b431e0ea050f7e82f8f4696"
+  },
+  {
+   "block_id": "2.6.1-b3",
+   "block_type": "components",
+   "heading": "The stem in transverse section",
+   "text": "The outer layer is the epidermis, a single layer of flat cells. Beneath it is the cortex, a band of rounded cells with small air spaces. Further in, the vascular bundles form a ring around the stem. Each bundle has xylem towards the centre and phloem towards the outside. Between them lies a thin band of small, dividing cells called cambium. Inside the ring, the centre of the stem is filled with large, thin-walled cells called pith. The xylem is easy to spot, because its vessels are the largest cells in the bundle and have thick walls and empty centres.",
+   "claim_ids": [
+    "CLM-8223-2.6.1-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.1-001": 1
+   },
+   "authored_hash": "04cb3ac3abbcc598aa990fbaedacf0aee25b80f47c08c7b4e1d02b98a5138de6"
+  },
+  {
+   "block_id": "2.6.1-b4",
+   "block_type": "components",
+   "heading": "The root in transverse section",
+   "text": "The root has no ring of separate bundles. The epidermis forms the outer layer, and some of its cells have long root hairs. Inside it is a wide cortex. At the inner edge of the cortex is a single layer called the endodermis, and just inside that is the pericycle. At the centre, the xylem forms a star or X shape, and the phloem lies in groups in the gaps between the arms of the star. Because the xylem fills the centre, a root has no pith. This is the quickest way to tell a root from a stem when you are given only a description.",
+   "claim_ids": [
+    "CLM-8223-2.6.1-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.1-002": 1
+   },
+   "authored_hash": "ecb4dad6a5937435b359c7e6d983989280bea2cff013f85380a532bce2eb98a5"
+  },
+  {
+   "block_id": "2.6.1-b5",
+   "block_type": "components",
+   "heading": "The leaf in transverse section",
+   "text": "At the top of the leaf is a waxy cuticle over the upper epidermis. Below it is the palisade mesophyll, a layer of tall, tightly packed cells rich in chloroplasts. Under that is the spongy mesophyll, whose rounded cells are loosely packed with large air spaces between them. The lower epidermis forms the base and contains the stomata, each a pore between two guard cells. Running through the midrib is a vascular bundle, with the xylem on the upper side and the phloem on the lower side, so the xylem faces the palisade mesophyll that lies above it.",
+   "claim_ids": [
+    "CLM-8223-2.6.1-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.1-003": 1
+   },
+   "authored_hash": "b89a582c7b269779f6ff24076d1eeabaee2ed7ccb745700bc64a291ba1d0c748"
+  },
+  {
+   "block_id": "2.6.1-b6",
+   "block_type": "process",
+   "heading": "Using an eyepiece graticule",
+   "text": "An eyepiece graticule is a small transparent scale placed in the eyepiece. Its divisions are all the same width, but the width they represent depends on the objective lens, so it must be calibrated first. Place a stage micrometer on the stage and line the two scales up. Then count how many graticule divisions match a known length. Suppose 50 graticule divisions match 0.5 mm. Then 0.5 ÷ 50 = 0.01 mm, which is 10 µm per division. Now read the width of each tissue in divisions. If the cortex is 30 divisions wide and the vascular bundle 12 divisions, then 30 ÷ 12 = 2.5, so the cortex is drawn 2.5 times as wide as the bundle. The calibration is valid only for the objective used to make it.",
+   "claim_ids": [
+    "CLM-8223-2.6.1-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.1-004": 1
+   },
+   "authored_hash": "6c7de3d7fab5735f64ff80c076185008ee2f4052a3e90d3d5d3f67e8470a8897"
+  },
+  {
+   "block_id": "2.6.1-b7",
+   "block_type": "components",
+   "heading": "Xylem vessel elements: structure",
+   "text": "A xylem vessel element is a long, hollow cell. Its side walls are thickened with lignin, a hard waterproof substance, laid down in rings, spirals or a network. Where the lignin leaves gaps, thin areas called pits remain. When the cell is mature it has died and lost its cytoplasm and nucleus, leaving an empty lumen, the space inside the wall. The end walls between one element and the next are broken down or perforated. Vessel elements are stacked end to end, so they form a continuous tube.",
+   "claim_ids": [
+    "CLM-8223-2.6.1-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.1-005": 1
+   },
+   "authored_hash": "c03051b02e3b6dc3bf06b47d52357b4c216fb8889495bb06f2ba5437ba63138d"
+  },
+  {
+   "block_id": "2.6.1-b8",
+   "block_type": "components",
+   "heading": "Sieve tube elements and companion cells: structure",
+   "text": "A sieve tube element is a living cell, but a very simple one. Its wall is made of cellulose and is thin. It has only a thin lining of cytoplasm, few organelles and no nucleus when mature, which leaves a wide central lumen. The elements are joined end to end, and the end walls are perforated by pores to form sieve plates. The cytoplasm is therefore continuous from one element to the next. Beside each sieve tube element lies a companion cell. It is smaller, with a nucleus, dense cytoplasm and many mitochondria. Plasmodesmata, narrow channels of cytoplasm, pass through the wall and link the two cells.",
+   "claim_ids": [
+    "CLM-8223-2.6.1-006",
+    "CLM-8223-2.6.1-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.1-006": 1,
+    "CLM-8223-2.6.1-007": 1
+   },
+   "authored_hash": "116df2c4037d8f8af798d7183a6ac726fa0dae4abf0fec9981cacf9c85a383f3"
+  },
+  {
+   "block_id": "2.6.1-b9",
+   "block_type": "plain_explanation",
+   "heading": "Xylem: structure and function",
+   "text": "Each feature of a vessel element does a job. The lignin makes the walls strong, so that they resist collapsing inwards when water is being pulled up the plant under tension. It also makes them waterproof and helps to support the plant. The empty lumen and the lack of end walls mean that nothing blocks the flow, so the resistance to the movement of water up the plant is low. The pits let water move sideways between neighbouring vessels and into living cells next to the xylem. This is why the structure suits the function of carrying water over long distances.",
+   "claim_ids": [
+    "CLM-8223-2.6.1-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.1-008": 1
+   },
+   "authored_hash": "b90d9ef21c851de17bda5b9dc0d93fba6ed4ad7548cdbd0ef2dc2e7c35809af8"
+  },
+  {
+   "block_id": "2.6.1-b10",
+   "block_type": "plain_explanation",
+   "heading": "Phloem: structure and function",
+   "text": "Sieve tubes carry sucrose and amino acids dissolved in water from the places where they are made or released to the places where they are used or stored. The wide lumen and the pores in the sieve plates let this sap flow from one element to the next. A mature sieve tube element has no nucleus and few organelles, so it cannot manage its own metabolism. Its companion cell does so instead, because it has a nucleus and the many mitochondria that make ATP. That ATP supplies the energy needed to load sucrose into the sieve tube, and the plasmodesmata let substances pass between the two cells.",
+   "claim_ids": [
+    "CLM-8223-2.6.1-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.1-009": 1
+   },
+   "authored_hash": "d1fd3a4f09bfd48390ecf20cec755ea9d43e5215f47f3587b9691880452c395b"
+  },
+  {
+   "block_id": "2.6.1-b11",
+   "block_type": "misconception",
+   "heading": "Xylem is not made of lignin, and space is not an explanation",
+   "text": "A common error is to write that xylem is made of lignin, or that it has more space for the water to flow. Lignin is a substance in the walls of the vessel elements. It is not what fills them. The cells are dead when mature, so the lumen is empty, with no cytoplasm or organelles to slow the flow. The reason for the low resistance is therefore the empty lumen, joined end to end without end walls. The test is to ask two questions. Is lignin in the wall or in the contents? What does the empty lumen do for the flow of water? The first answer is the wall, and the second is that it lowers resistance.",
+   "claim_ids": [
+    "CLM-8223-2.6.1-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.1-010": 1
+   },
+   "authored_hash": "a6aad39a141a1fc536a056862433cd0c56ffe40a57006d98b33eedde9354b5bb"
+  },
+  {
+   "block_id": "2.6.1-b12",
+   "block_type": "interpretation",
+   "heading": "Recognising the structures on a slide",
+   "text": "Under the light microscope, a xylem vessel in longitudinal section is a long tube with an empty lumen and thick walls marked with rings, spirals or pits. A sieve tube is a column of thin-walled cells, and each cross wall is a sieve plate. A narrow companion cell with a stained nucleus and dense cytoplasm lies beside it. In transverse section the xylem vessels show as wide, empty, thick-walled outlines. The sieve tube elements are wide and thin-walled, next to smaller companion cells. Stain colours differ between slides, so rely on shape, wall thickness and contents. Plasmodesmata cannot be resolved with a light microscope.",
+   "claim_ids": [
+    "CLM-8223-2.6.1-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.1-011": 1
+   },
+   "authored_hash": "454b804f09f2efbf4a11eb00b8bdc0066b70115a694c99fcfcd829b1913b2082"
+  },
+  {
+   "block_id": "2.6.1-b13",
+   "block_type": "worked_application",
+   "heading": "Worked example: drawing from a slide",
+   "text": "A learner has a slide of a bean stem in transverse section and must record one vascular bundle. Step one: calibrate the graticule at the objective in use. Step two: read the radial width of the xylem, phloem and cambium in divisions, say 9, 4 and 1. Step three: make the drawing so that the widths keep the ratio 9 : 4 : 1, for example 36 mm, 16 mm and 4 mm. Step four: outline each tissue with a single sharp line and no shading, because a drawing shows structure, not colour. Step five: write the labels outside the drawing at the end of ruled lines that touch the parts. A plan drawing shows only the outlines of tissues, not individual cells.",
+   "claim_ids": [
+    "CLM-8223-2.6.1-004",
+    "CLM-8223-2.6.1-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.6.1-004": 1,
+    "CLM-8223-2.6.1-012": 1
+   },
+   "authored_hash": "2e0b8111c6c32cdc9642f854372090e3ce1a8096c9b297f1c22b5b293bfa678e"
+  },
+  {
+   "block_id": "2.6.1-b14",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "Using a light microscope to examine a slide is taught in 2.1, the microscope. The structure of the cell wall, the nucleus and the mitochondrion is taught in 2.2, cell structure. The movement of water through the xylem and of sucrose through the phloem builds on the structures described here, and is taught in the topics that follow in this unit.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "22a96aa945d337fabc18dc2060c5c44ed4b1c155d9aaee5fbaef1d57ade570e0"
+  }
+ ],
+ "word_count": 1474,
+ "qa_status": "review_required",
+ "notes": []
+}

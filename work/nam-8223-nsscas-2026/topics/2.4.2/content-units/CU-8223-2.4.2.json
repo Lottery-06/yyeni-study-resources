@@ -1,0 +1,360 @@
+{
+ "unit_id": "CU-8223-2.4.2",
+ "title": "Proteins and water",
+ "objective_ids": [
+  "OBJ-8223-2.4.2-01",
+  "OBJ-8223-2.4.2-02",
+  "OBJ-8223-2.4.2-03",
+  "OBJ-8223-2.4.2-04",
+  "OBJ-8223-2.4.2-05",
+  "OBJ-8223-2.4.2-06",
+  "OBJ-8223-2.4.2-07",
+  "OBJ-8223-2.4.2-08"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_structure_function",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 2490,
+  "target": 3000,
+  "max": 3560
+ },
+ "blocks": [
+  {
+   "block_id": "2.4.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "The building blocks and shapes of proteins, the bonds that hold them in shape, two named proteins (haemoglobin and collagen), the biuret test for protein, and the properties of water that matter to living things: its polarity, its hydrogen bonds and its roles as a solvent, a store of heat and a coolant.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "36e7007627a515d763ea0d7664c0fad8bec044743d73b57757f79fe20a2a16ae"
+  },
+  {
+   "block_id": "2.4.2-b2",
+   "block_type": "definition",
+   "heading": "Amino acids",
+   "text": "Proteins are built from amino acids. Every amino acid has the same basic design. A central carbon atom is bonded to four things: an amino group (–NH2), a carboxyl group (–COOH), a hydrogen atom and a fourth part called the R group.\n\nThe amino group and the carboxyl group are the parts that join amino acids together. The R group is the part that differs. About twenty different amino acids are used to make the proteins of living things, and each has its own R group. Some R groups are small, some are large, some carry a charge, some are polar and some are non-polar. These differences decide how a protein folds, which is why the R group matters so much in the rest of this topic.",
+   "claim_ids": [
+    "CLM-8223-2.4.2-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.2-001": 1
+   },
+   "authored_hash": "ab19828e187486fd478427cca459475a1ef42a14e30675ea5bc1f322ff346b38"
+  },
+  {
+   "block_id": "2.4.2-b3",
+   "block_type": "process",
+   "heading": "Peptide bonds: making and breaking them",
+   "text": "Two amino acids are joined by a condensation reaction. The carboxyl group of the first amino acid meets the amino group of the second. An –OH from the carboxyl group and an H from the amino group are removed together as a molecule of water. The carbon of the first amino acid is then bonded to the nitrogen of the second. This new C–N bond is the peptide bond.\n\nTwo amino acids joined in this way make a dipeptide. Adding more amino acids, one peptide bond at a time, makes a polypeptide. Note the terms: the bond is a peptide bond, and dipeptide names the molecule that results, not the bond.\n\nThe reverse reaction is hydrolysis. A molecule of water is added across the peptide bond, the –OH restores the carboxyl group and the H restores the amino group, and the two amino acids are separate again. In digestion, enzymes called proteases catalyse this reaction so that proteins are broken into amino acids small enough to be absorbed.",
+   "claim_ids": [
+    "CLM-8223-2.4.2-002",
+    "CLM-8223-2.4.2-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.2-002": 1,
+    "CLM-8223-2.4.2-003": 1
+   },
+   "authored_hash": "12ba870e87ae6a4f4054f02b98bcd6466a84ab9520ce83f91d9bbeb7a668679a"
+  },
+  {
+   "block_id": "2.4.2-b4",
+   "block_type": "definition",
+   "heading": "The four levels of protein structure",
+   "text": "The shape of a protein is described at four levels.\n\nThe primary structure is the sequence of amino acids in a polypeptide chain. The amino acids are joined by peptide bonds, and the order is set by the gene that codes for the chain. A change in the sequence changes which R groups meet each other later, so the primary structure sets everything that follows.\n\nThe secondary structure is the regular folding of the chain's backbone into an alpha helix (a coil) or a beta pleated sheet (a zig-zag layer). It is held by hydrogen bonds between the C=O group of one peptide link and the N–H group of another, further along the backbone. These atoms are part of the backbone, so the R groups are not involved.\n\nThe tertiary structure is the overall three-dimensional shape of one polypeptide. The chain folds further, and the R groups interact with one another. These interactions hold the helices, sheets and loops in one particular shape.\n\nThe quaternary structure is the arrangement of two or more polypeptide chains into one working protein. A protein made of a single chain has no quaternary structure. Some proteins with a quaternary structure also carry a non-protein part, such as the haem group in haemoglobin.",
+   "claim_ids": [
+    "CLM-8223-2.4.2-004",
+    "CLM-8223-2.4.2-005",
+    "CLM-8223-2.4.2-006",
+    "CLM-8223-2.4.2-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.2-004": 1,
+    "CLM-8223-2.4.2-005": 1,
+    "CLM-8223-2.4.2-006": 1,
+    "CLM-8223-2.4.2-007": 1
+   },
+   "authored_hash": "076d693478233cac6b5759e3ec015c80cb04f0969184d61d53d54c5570f27af2"
+  },
+  {
+   "block_id": "2.4.2-b5",
+   "block_type": "components",
+   "heading": "Bonds and interactions that hold a protein in shape",
+   "text": "Four types of attraction hold a folded protein in shape.\n\nHydrogen bonds form between a slightly positive hydrogen atom and a slightly negative oxygen or nitrogen atom. They hold the backbone in a helix or a sheet, and they form between polar R groups in the tertiary structure. Each hydrogen bond is weak on its own, but a protein has very many, and together they stabilise its shape.\n\nIonic bonds form between R groups of opposite charge, for example the positive –NH3+ of lysine and the negative –COO– of aspartic acid, when the folding brings them close. A large change in the charge on the R groups weakens them.\n\nDisulfide bonds are covalent bonds between the sulfur atoms of the R groups of two cysteine residues. They are much stronger than hydrogen bonds. A disulfide bond can join two parts of one polypeptide or link two separate polypeptides.\n\nHydrophobic interactions occur in a protein that works in water. The non-polar R groups cluster together in the interior of the folded molecule, away from the water, while polar and charged R groups lie on the outside. Strictly, these are interactions rather than bonds, because no electrons are shared and no opposite charges attract, but the syllabus groups them with the bonds and they do help to hold the tertiary structure in shape.",
+   "claim_ids": [
+    "CLM-8223-2.4.2-008",
+    "CLM-8223-2.4.2-009",
+    "CLM-8223-2.4.2-010",
+    "CLM-8223-2.4.2-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.2-008": 1,
+    "CLM-8223-2.4.2-009": 1,
+    "CLM-8223-2.4.2-010": 1,
+    "CLM-8223-2.4.2-011": 1
+   },
+   "authored_hash": "dc4e49dc89ac55cf88b7c8f40e4ff35ddc82b01c600d6f1e77a387ff81fdd9bc"
+  },
+  {
+   "block_id": "2.4.2-b6",
+   "block_type": "misconception",
+   "heading": "Two errors to avoid in protein structure",
+   "text": "The first error is to include R groups when explaining secondary structure. In an alpha helix the hydrogen bonds form between atoms of the backbone, between the C=O of one peptide link and the N–H of another. R group interactions belong to the tertiary structure. The test is to ask whether the R groups or the backbone form the hydrogen bonds.\n\nThe second error is to confuse hydrogen bonds with disulfide bonds. A disulfide bond is a covalent bond between the sulfur atoms of two cysteines and is strong. A hydrogen bond is an attraction between a slightly positive hydrogen and a slightly negative atom, and it is weak, although there are very many of them. The test is to ask which one is covalent, and between which atoms.",
+   "claim_ids": [
+    "CLM-8223-2.4.2-005",
+    "CLM-8223-2.4.2-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.2-005": 1,
+    "CLM-8223-2.4.2-010": 1
+   },
+   "authored_hash": "d7dcf6847164b6cebc3e10fa149c62eba8227c72d5d6418f5622ac86d5629454"
+  },
+  {
+   "block_id": "2.4.2-b7",
+   "block_type": "components",
+   "heading": "Haemoglobin: a globular protein",
+   "text": "Haemoglobin is the protein that carries oxygen in red blood cells. It is a globular protein, which means that it is compact and roughly spherical, with a folded shape that brings its parts close together.\n\nOne haemoglobin molecule has a quaternary structure of four polypeptide chains: two alpha chains and two beta chains. They may be called alpha-globin and beta-globin. Each chain is folded into its own tertiary structure, and each holds one haem group. One molecule therefore has four haem groups.\n\nIn each chain the non-polar R groups point into the interior and the polar R groups lie on the outside, in contact with water. This arrangement is what makes haemoglobin soluble, so that it can be packed in large quantities into the cytoplasm of a red blood cell without forming a solid mass.",
+   "claim_ids": [
+    "CLM-8223-2.4.2-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.2-012": 1
+   },
+   "authored_hash": "def0951c2092666c875bcf5cd3554319ca03dfdd4817baec76e3dd4b8f645678"
+  },
+  {
+   "block_id": "2.4.2-b8",
+   "block_type": "components",
+   "heading": "Collagen: a fibrous protein",
+   "text": "Collagen is a fibrous protein: long and strong rather than compact. It is the main protein of tendons, skin, bone and the walls of arteries. To describe it correctly you must separate the molecule from the fibre.\n\nA collagen molecule is made of three polypeptide chains wound around each other in a triple helix. Glycine, the amino acid with the smallest R group (a single hydrogen atom), occurs at about every third position along each chain. Its small size lets the three chains pack closely, and hydrogen bonds hold the chains together.\n\nA collagen fibre is a much larger structure built from many collagen molecules. The molecules lie side by side, staggered end to end, and covalent cross-links join neighbouring molecules. The cross-links stop the molecules sliding past one another, so the fibre has high tensile strength and resists being pulled. Pulling on a tendon pulls along the fibres, which is the direction in which they are strongest.",
+   "claim_ids": [
+    "CLM-8223-2.4.2-013",
+    "CLM-8223-2.4.2-014"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.2-013": 1,
+    "CLM-8223-2.4.2-014": 1
+   },
+   "authored_hash": "0f636b157635fa0131250e56c1297094bd11369bad5679c323d30539b538e7da"
+  },
+  {
+   "block_id": "2.4.2-b9",
+   "block_type": "comparison",
+   "heading": "Relating the two structures to their functions",
+   "text": "Haemoglobin and collagen are both proteins, but their structures suit different jobs. Haemoglobin is compact and soluble, with haem groups at fixed positions, which suits it to carrying oxygen dissolved in the cytoplasm of red blood cells. Collagen is long, insoluble and strong, with its molecules cross-linked into fibres, which suits it to holding tissues together and resisting being pulled.\n\nWhen a question asks you to relate structure to function, name a feature of the structure and say what it allows the protein to do. The feature of haemoglobin is its polar outer surface, which allows it to dissolve; the feature of collagen is the cross-linking, which allows it to bear tension.",
+   "claim_ids": [
+    "CLM-8223-2.4.2-015"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.2-015": 1
+   },
+   "authored_hash": "f6ad8e2e27423b29fe609d4a5cda4347d18da3a553b6086656780c3b9c2a5491"
+  },
+  {
+   "block_id": "2.4.2-b10",
+   "block_type": "plain_explanation",
+   "heading": "Iron in haemoglobin",
+   "text": "Each haem group of haemoglobin contains one iron(II) ion, written Fe2+. The iron ion binds one oxygen molecule, and the binding is reversible: oxygen is picked up where it is plentiful, as in the lungs, and released where it is scarce, as in respiring tissue. Because one molecule has four haem groups, it can carry up to four oxygen molecules. The importance of iron is therefore that it is the part of haemoglobin that binds oxygen.\n\nThe iron is an ion of a metal, but \"an ion\" is not enough in an answer: say Fe2+ and say that it binds oxygen. Iron is also needed to make haem. A diet that supplies too little iron can lead to less haemoglobin being made, so less oxygen is carried and a person may tire easily.",
+   "claim_ids": [
+    "CLM-8223-2.4.2-016",
+    "CLM-8223-2.4.2-017"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.2-016": 1,
+    "CLM-8223-2.4.2-017": 1
+   },
+   "authored_hash": "1cc9693e58e0661bdb9ddf14725c0c939c4cdcb1c91c37b35e82e657f96b855a"
+  },
+  {
+   "block_id": "2.4.2-b11",
+   "block_type": "process",
+   "heading": "The biuret test for protein",
+   "text": "The biuret test identifies protein in a solution, a food or a biological specimen. Manipulating the apparatus is assessed at the bench; here you learn the method and how to reason from the result.\n\nFirst, put the sample in a test tube. A solid food is first ground with water, so that it is in solution. Second, add an equal volume of sodium hydroxide solution. Third, add a few drops of dilute copper(II) sulfate solution and mix. No heating is needed. Finally, look at the colour after a minute or two. A violet or purple colour means protein is present. If the mixture stays blue, protein is not detected.\n\nThe sodium hydroxide is added because the reaction needs alkaline conditions. In those conditions, copper(II) ions bind to the nitrogen atoms of peptide bonds and form a violet complex. A single amino acid has no peptide bond and gives no violet colour. Short peptides of two amino acids give little or none, so a positive result needs a chain with at least two peptide bonds. When samples are prepared in the same way, a deeper colour tends to mean more protein, but the test cannot tell one protein from another.\n\nAsk which test matches which substance. The biuret test is for protein, Benedict's solution is for reducing sugar and iodine solution is for starch. Sodium hydroxide is corrosive, so wear eye protection.",
+   "claim_ids": [
+    "CLM-8223-2.4.2-018",
+    "CLM-8223-2.4.2-019"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.2-018": 1,
+    "CLM-8223-2.4.2-019": 1
+   },
+   "authored_hash": "7313e11141b0c887367fc94d05386135f476c0b0d963cc21b87c9cb370fcc247"
+  },
+  {
+   "block_id": "2.4.2-b12",
+   "block_type": "misconception",
+   "heading": "Mix-ups with names and levels",
+   "text": "A dipeptide is two amino acids joined together. The bond that joins them is a peptide bond, so \"dipeptide bond\" is the wrong name. The test is to ask what the bond is called and which groups form it.\n\nIf a question asks about the haemoglobin molecule, describing the red blood cell is the wrong level: the cell has a nucleus-free biconcave shape, but the molecule has four polypeptide chains, each with one haem group holding one Fe2+ ion. The test is to ask how many haem groups one molecule has.\n\nIf a question asks how to test for protein, Benedict's solution and iodine solution are the wrong tests. The test is to ask which one gives a violet colour with protein.",
+   "claim_ids": [
+    "CLM-8223-2.4.2-002",
+    "CLM-8223-2.4.2-016",
+    "CLM-8223-2.4.2-018"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.2-002": 1,
+    "CLM-8223-2.4.2-016": 1,
+    "CLM-8223-2.4.2-018": 1
+   },
+   "authored_hash": "e27ba760bc30fb9fc2f7bac73f7404968d54191777c8f9fe6194e6e0b9ca8fb9"
+  },
+  {
+   "block_id": "2.4.2-b13",
+   "block_type": "plain_explanation",
+   "heading": "Water: polarity and hydrogen bonds",
+   "text": "A water molecule has one oxygen atom bonded to two hydrogen atoms by covalent bonds, in which electrons are shared. Oxygen attracts the shared electrons more strongly than hydrogen does, so the electrons spend more time near the oxygen. The oxygen end therefore carries a slight negative charge, written δ−, and each hydrogen carries a slight positive charge, δ+. Because the molecule is bent rather than straight, these charges do not cancel. A molecule with an uneven distribution of charge like this is polar.\n\nBecause water molecules are polar, they attract each other. The slightly positive hydrogen of one molecule is attracted to the slightly negative oxygen of a different molecule. This attraction is a hydrogen bond. It forms between molecules, whereas the covalent O–H bonds are inside each molecule and are much stronger. A water molecule can form up to four hydrogen bonds, two through its hydrogens and two through its oxygen. In liquid water they break and re-form constantly.",
+   "claim_ids": [
+    "CLM-8223-2.4.2-020",
+    "CLM-8223-2.4.2-021"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.2-020": 1,
+    "CLM-8223-2.4.2-021": 1
+   },
+   "authored_hash": "f42ebaff3dc02fd78cd63380cb273e0a57b4803b4b48522690ce68dd1e82d592"
+  },
+  {
+   "block_id": "2.4.2-b14",
+   "block_type": "comparison",
+   "heading": "Cohesion and adhesion",
+   "text": "Two terms describe attractions of water, and they must be kept apart. Cohesion is the attraction between water molecules, caused by hydrogen bonds. Adhesion is the attraction between water molecules and other surfaces, such as cell walls. The test is to ask whether the attraction is between water molecules or between water and something else. Cohesion is water to water; adhesion is water to a different substance.",
+   "claim_ids": [
+    "CLM-8223-2.4.2-022"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.2-022": 1
+   },
+   "authored_hash": "0f1eee0eaa43aef3399de83cd33a57f9c3508db0fe72282a432f6b610f5b61a2"
+  },
+  {
+   "block_id": "2.4.2-b15",
+   "block_type": "plain_explanation",
+   "heading": "Roles of water in living organisms",
+   "text": "The syllabus limits the roles of water in this topic to three: it is a solvent, it has a high specific heat capacity and it has a large latent heat of vaporisation. Each follows from polarity and hydrogen bonding.\n\nAs a solvent, water dissolves ions and polar molecules. Its polar molecules are attracted to charged and polar regions: the slightly negative oxygens cluster around positive ions and the slightly positive hydrogens around negative ions. The water molecules surround each ion or polar molecule and separate it from the others. Reactions in cells take place in solution, and substances such as glucose and ions are carried dissolved in blood plasma. Non-polar substances such as lipids dissolve poorly in water.\n\nThe specific heat capacity of water is the energy needed to raise the temperature of 1 gram by 1 degree Celsius. For water it is high, about 4.2 joules. Much of the energy absorbed is used to loosen hydrogen bonds before the molecules move faster, so the temperature of water rises slowly. Cytoplasm and blood are mostly water, so they change temperature slowly, which gives enzymes a stable environment.\n\nThe latent heat of vaporisation is the energy needed to change a liquid to a gas at a constant temperature. For water it is large: about 2.4 kilojoules for each gram that evaporates from a warm surface, because hydrogen bonds between molecules must be broken. The energy is taken from the surface, which cools it. This is how sweat cools a mammal, as long as the sweat evaporates, and how water evaporating from a leaf cools the leaf.",
+   "claim_ids": [
+    "CLM-8223-2.4.2-023",
+    "CLM-8223-2.4.2-024",
+    "CLM-8223-2.4.2-025"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.2-023": 1,
+    "CLM-8223-2.4.2-024": 1,
+    "CLM-8223-2.4.2-025": 1
+   },
+   "authored_hash": "a0dec2645858080296b9d86e5c08a2603ec8bb7d1b11866b91ae694363613267"
+  },
+  {
+   "block_id": "2.4.2-b16",
+   "block_type": "worked_application",
+   "heading": "Worked example: peptide masses",
+   "text": "A student in Oshakati has a table of values. Glycine has a relative molecular mass of 75, alanine 89 and serine 105. A tripeptide made from the three has a relative molecular mass of 233. Step one: add the three amino acids, 75 + 89 + 105 = 269. Step two: compare with the tripeptide, 269 - 233 = 36. Step three: one molecule of water has a relative molecular mass of 18, and 2 × 18 = 36. The mass lost equals two molecules of water, which means that two peptide bonds formed, each releasing one molecule of water in a condensation reaction.",
+   "claim_ids": [
+    "CLM-8223-2.4.2-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.4.2-002": 1
+   },
+   "authored_hash": "b91a6499c4b2ee2c20553c1063a62b5a12269ff018c2f20bfd03857a25e0c053"
+  },
+  {
+   "block_id": "2.4.2-b17",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "Carbohydrates and lipids, the other large molecules of living things, are taught in 2.4.1. How the shape of a protein allows an enzyme to work is taught in 2.5.1, the mode of action of enzymes. The way a membrane protein sits in the cell surface membrane depends on the polar and non-polar R groups described here, and is taught in 2.3.1.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "8dd8ad019e011539d4543e9aded1d48e1ea1099e67cb234e29ac88f1c0cb4abd"
+  }
+ ],
+ "word_count": 2539,
+ "qa_status": "review_required",
+ "notes": [
+  "Authored for topic 2.4.2 from the claim ledger. Unverified; see claim notes for the points where the syllabus wording and the biology differ."
+ ]
+}

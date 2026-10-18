@@ -1,0 +1,1099 @@
+{
+ "dataset_id": "ITEMS-8223-3.1.1",
+ "topic_id": "3.1.1",
+ "items": [
+  {
+   "item_id": "ITEM-8223-3.1.1-001-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State the two substances that together make up a chromosome.",
+   "canonical_answer": "DNA and histone proteins.",
+   "marking_guidance": [
+    "1 mark for both substances: DNA (1 mark, with histone proteins). Both are needed for the mark. Accept histones. Reject RNA, or lipid and protein, as the second part of the pair. The structure is one DNA molecule wound around histone proteins."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-001": 1
+   },
+   "authored_hash": "ff876c690f3d653fb038d3a3801fef94e6206abb403801dbf10e5104f0394662"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-002-MECH",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Describe how DNA and histone proteins are arranged in a chromosome, and how this arrangement helps the cell when it divides.",
+   "canonical_answer": "The DNA is wound around histone proteins, and this winding is coiled further. This packs the very long DNA molecule into a short, compact chromosome, so that the DNA does not tangle and can be moved to the poles of the cell when it divides.",
+   "marking_guidance": [
+    "2 marks: the arrangement, DNA wound around (and coiled with) histone proteins (1); how it helps, because the long DNA is made compact so that it does not tangle and can be moved when the cell divides (1).",
+    "Accept 'condensed' or 'packed' for coiled. A statement that the histones are inside the DNA does not earn the first mark. The second mark needs the reason, not only the word compact."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-001": 1
+   },
+   "authored_hash": "09f206e052d641e6f8d6aa78c98fa575c463ada76a363949d1aa54730f3d7eaa"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-015-MISCON",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner in Rundu points to the region that joins the two sister chromatids of a replicated chromosome and calls it the centrosome. The learner also says that the loosely coiled DNA and histones in a non-dividing nucleus are chromosomes. Explain the errors.",
+   "canonical_answer": "The error is a confusion of near-neighbour terms. In fact the region that joins sister chromatids is the centromere, and it is part of the chromosome. The centrosome is an organelle in animal cells that organises the spindle. The loosely coiled DNA with histones in a non-dividing nucleus is chromatin, not chromosomes: it is condensed into chromosomes only when the cell is about to divide. The test is to ask which one holds chromatids together and which one makes the spindle.",
+   "marking_guidance": [
+    "2 marks: the error named, centrosome used instead of centromere, with the correct idea that the centromere holds the chromatids together while the centrosome makes the spindle (1); chromatin and chromosome distinguished, chromatin being the loosely coiled form and the chromosome the condensed form (1).",
+    "The card is a discrimination between near-neighbour terms: it is not a repeat of the definition of a chromosome. Credit the test (which holds chromatids together and which makes the spindle) in place of the correct idea."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-004": 1
+   },
+   "authored_hash": "8578af406e2de82e9dcf504d67b1899a551d8b20368bfe88a2ad4d73c28f0704"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-016-MISCON",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner is shown a replicated chromosome and labels one of its two sister chromatids as a telomere. Explain the error.",
+   "canonical_answer": "The error is to label the whole chromatid as a telomere. In fact a chromatid is one whole copy of the chromosome, one DNA molecule with its histones. A telomere is only the DNA cap at an end of a chromatid, so each chromatid has a telomere at both of its ends. The test is to ask whether the label names the whole chromatid or only the end of it.",
+   "marking_guidance": [
+    "2 marks: the error named, a whole chromatid labelled as a telomere (1); the correct idea, that a telomere is the cap at the end of each chromatid, or the test of whole chromatid against end (1).",
+    "Do not credit a repeat of the definition of a chromatid alone. Accept 'tip' or 'end' for the position of the telomere."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-004": 1
+   },
+   "authored_hash": "f8c3d549702e787c0fd559cddef163416821042cf97288906dbdb4e3846539d0"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-017-MISCON",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-003",
+    "CLM-8223-3.1.1-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner says that a chromosome has two telomeres, so a replicated chromosome in a cell at the end of G2 also has two. Explain the error.",
+   "canonical_answer": "The error is to count the telomeres of one chromatid and not of the whole replicated chromosome. In fact a chromosome that has not been replicated has one chromatid and two telomeres, but after replication it has two sister chromatids, and each chromatid has a telomere at both ends. A replicated chromosome therefore has 2 × 2 = 4 telomeres. The test is to count the chromatids and then the ends: two chromatids, two ends each.",
+   "marking_guidance": [
+    "2 marks: the error named, two telomeres counted for a replicated chromosome (1); the correct idea, two chromatids with two ends each, so four telomeres, with the working or the test (1).",
+    "Accept 4 with the reason. Four without the reason earns the second mark only if the chromatids are mentioned."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-003": 1,
+    "CLM-8223-3.1.1-004": 1
+   },
+   "authored_hash": "30bb855a26dc14544b5dbc5b7b3f952dbd819d333779a184a48c93d0cd8ae3df"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-021-INTERP",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-002",
+    "CLM-8223-3.1.1-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A student counts the parts of the chromosomes in a cell that has 4 chromosomes. The table gives the student's counts at two stages of the cell cycle.\n\n| Stage | Chromosomes | Chromatids | Centromeres | Telomeres |\n|---|---|---|---|---|\n| End of G1 | 4 | 4 | 4 | 8 |\n| End of G2 | 4 | 8 | 4 | 16 |\n\nDescribe what the data show about how the structure of the chromosomes changes between the end of G1 and the end of G2, and explain how the table shows it.",
+   "canonical_answer": "The data show that the number of chromosomes and of centromeres stays at 4, while the number of chromatids doubles from 4 to 8 and the number of telomeres doubles from 8 to 16. This means that DNA has been replicated, so each chromosome now consists of two sister chromatids joined at one centromere, and because each chromatid has a telomere at each end the number of telomeres doubles too.",
+   "marking_guidance": [
+    "2 marks: the data read correctly, chromosomes and centromeres unchanged at 4, chromatids 4 to 8 and telomeres 8 to 16 (1); what it means, each chromosome is now two chromatids sharing one centromere after replication, so the telomeres double because each chromatid has two ends (1).",
+    "The reading from the table must use the values given. A statement that the number of chromosomes doubles earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-002": 1,
+    "CLM-8223-3.1.1-003": 1
+   },
+   "authored_hash": "8719efa97369063bd0be928482395910dad911b8ff408435bada7c153ebca3e2"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-003-DEF",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by mitosis.",
+   "canonical_answer": "Mitosis is the division of a nucleus to give two daughter nuclei, each with the same number and kind of chromosomes as the parent nucleus and genetically identical to it.",
+   "marking_guidance": [
+    "1 mark: the key words are division of a nucleus (not the whole cell) and two daughter nuclei that are genetically identical, or have the same chromosomes as the parent. The definition is the statement of both ideas.",
+    "Accept 'two genetically identical nuclei'. Reject 'two cells' without the nucleus, and any statement that the chromosome number is halved."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-005": 1
+   },
+   "authored_hash": "e7dcad72d34ea4c477ab7287148f27712d71a919a5bffd6dee037d228b6bfe80"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-004-MECH",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Two cells in a growing root tip have been made by mitosis. Explain why the nuclei of the two cells are genetically identical.",
+   "canonical_answer": "The DNA is replicated before mitosis begins, so each chromosome consists of two identical sister chromatids. During mitosis the chromatids are separated, and one chromatid of each chromosome is passed to each nucleus. Each nucleus therefore receives an identical copy of every chromosome, so the two nuclei are genetically identical.",
+   "marking_guidance": [
+    "2 marks: the cause, DNA replicated first so each chromosome has two identical chromatids (1); the result, one chromatid of each chromosome goes to each nucleus, so they are identical (1).",
+    "The explanation needs the because: the replication before mitosis and the sharing of the chromatids. Accept 'copies' for chromatids."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-005": 1
+   },
+   "authored_hash": "803cbb5d244c0c2087f42a45da7aded148debe837a6f5ea7e8d17ee158020d42"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-022-INTERP",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A clinic nurse in Katima Mulilo records the number of cells in each square millimetre at the edge of a healing wound. These are our readings.\n\n| Day | Cells per mm² |\n|---|---|\n| 0 | 120 |\n| 2 | 240 |\n| 4 | 480 |\n| 6 | 960 |\n\nDescribe what the data show about the number of cells, and name the process of nuclear division that accounts for it.",
+   "canonical_answer": "The data show that the number of cells doubles every 2 days, from 120 cells per mm² on day 0 to 960 cells per mm² on day 6. The process that accounts for this is mitosis, which produces genetically identical cells to repair the damaged tissue.",
+   "marking_guidance": [
+    "2 marks: the pattern read from the data with values, doubling every 2 days, or 120 to 960 in 6 days (1); what it means: mitosis named as the process, with repair of the tissue (1).",
+    "The first mark needs at least one pair of values from the table. 'It increases' alone earns no mark. Accept 'cell division by mitosis' for the process."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-006": 1
+   },
+   "authored_hash": "92c63b9f253c73ede9bf203b274a1289b2a65a85826c670bc1e37d178b979dba"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-005-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State where in a root a student should cut the sample from in order to find cells that are dividing by mitosis.",
+   "canonical_answer": "From the region a few millimetres behind the root tip, the meristem, where the cells divide.",
+   "marking_guidance": [
+    "1 mark: the region just behind the tip, the meristem or growing region. Do not credit the root cap at the very tip, or the older region far from the tip. The key feature is that the cells divide there."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-007": 1
+   },
+   "authored_hash": "258de41dd314790122531be2c58bb1741946cbdd176388c66f25bbee4929dd0f"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-006-APP",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Identify",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A student looks at a squash of a Vicia faba root tip under a light microscope and sees one cell in which twelve chromosomes, each visible as two chromatids joined at a centromere, are lined up in a single row across the middle of the cell. Identify the stage of mitosis shown by this cell, and state the reason for your answer.",
+   "canonical_answer": "The stage is metaphase, because the chromosomes are lined up across the equator of the cell, each attached by its centromere to the spindle, and the chromatids have not yet separated, so this cell is not in anaphase.",
+   "marking_guidance": [
+    "2 marks: metaphase identified (1); the reason from the information given, chromosomes lined up across the equator, or chromatids still joined (1).",
+    "The reason must use the case given and not a general statement. Reject prophase and anaphase. A reason without the stage earns no mark because the stage is the answer to the question."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-008": 1
+   },
+   "authored_hash": "af86ed7c72e31dbe882e50daec59b2a7b92ebe44cd87728ea630d5f85be1daa7"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-023-INTERP",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-008",
+    "CLM-8223-3.1.1-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A student counts 100 cells in the field of view of an onion root tip squash. These are our counts.\n\n| Stage | Number of cells |\n|---|---|\n| Interphase | 78 |\n| Prophase | 12 |\n| Metaphase | 4 |\n| Anaphase | 2 |\n| Telophase | 4 |\n\nDescribe what the data show about the length of the stages of the cell cycle, and explain how the table shows it.",
+   "canonical_answer": "The data show that interphase is the longest stage, since 78 of the 100 cells are in it, and that anaphase is the shortest, since only 2 cells are in it. This means that the number of cells in a stage reflects the time spent in it, if the cells are dividing at different times, so the stage seen in most cells lasts longest.",
+   "marking_guidance": [
+    "2 marks: the data read with values, 78 in interphase and 2 in anaphase (1); the meaning, more cells in a stage means longer spent in it, provided the cells are not dividing in step (1).",
+    "The table values must be used. Accept 'prophase is the longest stage of mitosis' as a further point."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-008": 1,
+    "CLM-8223-3.1.1-012": 1
+   },
+   "authored_hash": "4206d52df0fa75188077bd4c7b79b217cfa202c077a457a06e43f6303a482344"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-007-PROC",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-010",
+    "CLM-8223-3.1.1-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "prompt": "Describe the mitotic cell cycle in order, from the start of G1 until two cells have formed.",
+   "canonical_answer": "First, in G1 of interphase, the cell grows and makes proteins and organelles. Then, in S phase, the DNA is replicated so that each chromosome consists of two sister chromatids. Next, in G2, the cell grows further and prepares for mitosis. Mitosis then shares the chromatids between two nuclei, and finally cytokinesis divides the cytoplasm. The result is two cells.",
+   "marking_guidance": [
+    "3 marks, one for each of three stages in the correct order: G1 growth (1); S phase, DNA replication (1); G2, mitosis and then cytokinesis in that order, giving two cells (1).",
+    "The order is the point: a stage described out of order earns no mark. The sequence of stages must be given as G1, S, G2, mitosis, cytokinesis, and the result is two cells."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-010": 1,
+    "CLM-8223-3.1.1-011": 1
+   },
+   "authored_hash": "8bab0fdeb70ad843fdd327819f75410fa19658da210e3ab53746d851832f8ff8"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-008-MECH",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Describe how the growth in G1 and G2 prepares a cell for DNA replication and for mitosis.",
+   "canonical_answer": "In G1 the cell grows, makes proteins and organelles, and builds up what is needed for DNA replication, which is needed because a new daughter cell begins with about half the cytoplasm of its parent. In G2 the cell grows further and prepares for mitosis, for instance by making the proteins of the spindle, so that the copied DNA can be shared between the two nuclei.",
+   "marking_guidance": [
+    "2 marks: how G1 prepares the cell, growth and making of proteins and organelles before the DNA is replicated, because the new cell is small (1); how G2 prepares the cell, further growth and making the spindle proteins, so that mitosis can follow (1).",
+    "Both phases must be named. The explanation should say how the preparation helps and not only repeat that the cell grows."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-011": 1
+   },
+   "authored_hash": "7e474102bc1adc46be2e7d6109145fba9ffd64173e6042458a2125d8c2a2b763"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-024-INTERP",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A student measures the DNA mass in one nucleus over a 19-hour cell cycle. These are our readings.\n\n| Time / hours | DNA mass in one nucleus / arbitrary units |\n|---|---|\n| 0 | 4 |\n| 6 | 4 |\n| 9 | 6 |\n| 12 | 8 |\n| 18 | 8 |\n| 19 | 4 |\n\nDescribe what the data show, and state which phase of the cycle accounts for the change between 6 and 12 hours.",
+   "canonical_answer": "The DNA mass stays at 4 units from 0 to 6 hours, rises to 8 units between 6 and 12 hours, stays at 8 units until 18 hours, and falls back to 4 units by 19 hours. The rise between 6 and 12 hours is S phase, when the DNA is replicated, so the mass doubles; the fall is the division of the nucleus, so each new nucleus has 4 units.",
+   "marking_guidance": [
+    "2 marks: the data read with values, the rise from 4 to 8 units between 6 and 12 hours and the fall to 4 units at 19 hours (1); the meaning, S phase is DNA replication, so the mass doubles, and the fall is the sharing of DNA between two nuclei (1).",
+    "The readings must be quoted from the table. The data show that the DNA mass doubles, not that the number of chromosomes doubles."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-011": 1
+   },
+   "authored_hash": "8da50385669c6dbe5bbbe4dd0e804175f8e43f646a6a9ef80ae451236c1b76f7"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-009-DEF",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by a telomere.",
+   "canonical_answer": "A telomere is a cap of DNA, made of a short sequence of bases repeated many times, at each end of a chromatid; it does not code for a polypeptide.",
+   "marking_guidance": [
+    "1 mark: the key words are DNA, a repeated sequence, and at the end of a chromatid. The definition is the statement of these ideas.",
+    "Accept 'repeated DNA sequence at the end of a chromosome'. Reject 'protein' or 'cap made of plastic'."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-013": 1
+   },
+   "authored_hash": "005a9e01df982250c76b8b559b3580043ea47db9899aff43ee9b0015a1911ec8"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-010-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-003",
+    "CLM-8223-3.1.1-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Describe the features of a telomere.",
+   "canonical_answer": "A telomere is made of DNA, a short sequence of bases repeated many times. There is one at each end of each chromatid, and it does not contain genes. A little of it is lost at each replication of the DNA.",
+   "marking_guidance": [
+    "2 marks from four features: made of DNA with a repeated base sequence; at each end of each chromatid; contains no genes; shortens a little at each replication. The cap is the structure, and its function is to protect the genes behind it. The tariff is 2 marks, so the maximum is 2 even though four points are creditworthy.",
+    "The loss feature needs the condition, at each replication or at each division."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-003": 1,
+    "CLM-8223-3.1.1-013": 1
+   },
+   "authored_hash": "68d26a84fe69c186abf7df0e273820f80fdaf92c1a7af7167a57c7e662a509b3"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-018-MISCON",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-016"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner describes a telomere as a hard plastic cap on the end of a chromosome, like the tip of a shoelace. Explain the error.",
+   "canonical_answer": "The error is to think of a telomere as a plastic or hard cap. In fact a telomere is DNA, made of a short base sequence repeated many times. Because it is DNA, it is copied in replication, and a little of it is lost at each replication, which is not true of a plastic tip. The test is to ask what a telomere is made of: it is DNA, not plastic.",
+   "marking_guidance": [
+    "2 marks: the error named, a hard or plastic cap (1); the correct idea, that a telomere is made of DNA, with the test of what it is made of (1).",
+    "The card is a discrimination between a cap and DNA. A repeat of the definition of a telomere without the contrast earns 1 mark at most."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-016": 1
+   },
+   "authored_hash": "e975bffc521af50e38eeee1e15a77129f33d8e67fc18d51655669ea2c0d11e2e"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-019-MISCON",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-013",
+    "CLM-8223-3.1.1-014",
+    "CLM-8223-3.1.1-016"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner says that a telomere stops the chromosome getting shorter. Explain the error.",
+   "canonical_answer": "The error is to say that the telomere stops shortening. In fact the telomere itself loses a little length at each replication of the DNA. Because the telomere contains no genes, its loss protects the genes behind it, which are kept intact for a number of divisions. The test is to ask whether the telomere shortens, and what its shortening protects.",
+   "marking_guidance": [
+    "2 marks: the error named, the telomere is said to stop shortening, with the correct idea that the telomere shortens at each replication (1); its loss protects the genes behind it, the test (1).",
+    "Do not credit 'the telomere protects the chromosome' without the shortening. The condition at each replication or each division must appear."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-013": 1,
+    "CLM-8223-3.1.1-014": 1,
+    "CLM-8223-3.1.1-016": 1
+   },
+   "authored_hash": "bb87bc72ca2180aa96087b6d97c1e3a25ac0e9b31bbc6fa79328f0cdf1510b62"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-011-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-017"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Describe the features of a stem cell.",
+   "canonical_answer": "A stem cell is unspecialised. It divides by mitosis, and its daughter cells can become specialised cells. Some daughter cells stay as stem cells, so that the supply is kept.",
+   "marking_guidance": [
+    "2 marks from three features: unspecialised; divides by mitosis; daughter cells can specialise or some stay as stem cells. The tariff is 2 marks, so the maximum is 2 even though three points are creditworthy.",
+    "Accept 'undifferentiated' for unspecialised. Reject 'divides by meiosis'."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-017": 1
+   },
+   "authored_hash": "f5e5eefb43945e78beb433ef6b34e03f36c1dfd1dfa483eebe83ba25c4914b33"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-012-MECH",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-06"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-017",
+    "CLM-8223-3.1.1-018"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "After a learner in Oshakati grazes a knee, the skin heals. Describe how stem cells in the skin bring about the repair.",
+   "canonical_answer": "Stem cells near the edge of the wound divide by mitosis. Some of their daughter cells specialise to become new skin cells, which fill the gap and replace the damaged cells, so the wound closes. Other daughter cells stay as stem cells, so that the supply of stem cells is kept.",
+   "marking_guidance": [
+    "2 marks from three points: stem cells divide by mitosis; daughter cells specialise into skin cells that replace the damaged ones; some stay as stem cells. The causes are the division and the specialisation. The tariff is 2 marks, so the maximum is 2.",
+    "The answer must use the case given, the skin and the wound."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-017": 1,
+    "CLM-8223-3.1.1-018": 1
+   },
+   "authored_hash": "0172c0b7fec2c7831983942aad21426aa259bd2bdabae1d3060fc2c2a49d1c60"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-013-DEF",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-019"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by a tumour.",
+   "canonical_answer": "A tumour is a mass of cells formed by uncontrolled cell division.",
+   "marking_guidance": [
+    "1 mark: the key words are mass of cells and uncontrolled division. The definition is the statement of both ideas.",
+    "Accept 'lump of cells that divide without control'. Reject 'a cell that has died'."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-019": 1
+   },
+   "authored_hash": "c1bd27dd0e0f12905e89c4dce8f87c5b88ae7fefa55a68e56a429b3f236016ba"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-014-MECH",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-019",
+    "CLM-8223-3.1.1-020"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A mutation changes a gene that controls the cell cycle in one cell of the skin. Explain how this can lead to the formation of a tumour.",
+   "canonical_answer": "The mutation changes the protein made by the gene, so the cell no longer responds to the signals that restrain division and it divides repeatedly by mitosis. Because mitosis gives genetically identical cells, each daughter cell has the same mutation and also divides without restraint. The number of cells rises faster than cells are lost, so a mass of cells, a tumour, forms.",
+   "marking_guidance": [
+    "2 marks: the cause, the mutated gene means the cell no longer responds to the signals that restrain division, so it divides repeatedly (1); the result, daughter cells carry the same mutation and divide too, so a mass forms (1).",
+    "The explanation needs the because. 'The cell divides a lot' alone earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-019": 1,
+    "CLM-8223-3.1.1-020": 1
+   },
+   "authored_hash": "73494cb2c10d85718110dd2cdf7caaa2b1f538beb9e67fd83c4c3e3d84dcb797"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-020-MISCON",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-021"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner says that telomerase breaks down telomeres, or speeds up mitosis. Explain the error.",
+   "canonical_answer": "The error is to give telomerase the opposite job. In fact telomerase adds repeats of the telomere sequence to the ends of chromatids, replacing the DNA lost at each replication. A cell with active telomerase avoids the shortening that would otherwise limit its divisions, so it can keep dividing, as many tumour cells do. The test is to ask whether telomerase adds or removes telomere DNA: it adds.",
+   "marking_guidance": [
+    "2 marks: the error named, telomerase breaks down telomeres or speeds up mitosis (1); the correct idea, telomerase adds telomere DNA to replace what is lost at each replication, so the cell can keep dividing, with the test of adds against removes (1).",
+    "Accept 'lengthens telomeres'. Reject 'makes extra telomeres' as the correct idea, since it adds repeats to the existing telomeres."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-021": 1
+   },
+   "authored_hash": "0a8a43ac81d4474c9870ec67c42c849aac63ad2930807037622f5c02636ad56a"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-P01",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-01",
+    "OBJ-8223-3.1.1-02",
+    "OBJ-8223-3.1.1-04",
+    "OBJ-8223-3.1.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-001",
+    "CLM-8223-3.1.1-002",
+    "CLM-8223-3.1.1-003",
+    "CLM-8223-3.1.1-004",
+    "CLM-8223-3.1.1-005",
+    "CLM-8223-3.1.1-006",
+    "CLM-8223-3.1.1-010",
+    "CLM-8223-3.1.1-011",
+    "CLM-8223-3.1.1-012",
+    "CLM-8223-3.1.1-013",
+    "CLM-8223-3.1.1-014",
+    "CLM-8223-3.1.1-016"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": null,
+   "mark_tariff": 12,
+   "difficulty": 3,
+   "prompt": "Twelve questions. Choose one option for each.\n\n1. Which two substances make up a chromosome?\nA  DNA and histone proteins\nB  DNA and RNA\nC  histone proteins and phospholipids\nD  DNA and cellulose\n\n2. Which part of a replicated chromosome holds the two sister chromatids together?\nA  a telomere\nB  a centrosome\nC  a centromere\nD  a histone\n\n3. How many telomeres does a chromosome have after DNA replication, when it consists of two sister chromatids?\nA  1\nB  2\nC  4\nD  8\n\n4. Which statement about chromatin and chromosomes is correct?\nA  Chromatin is the condensed form and chromosomes are loosely coiled.\nB  Chromatin is loosely coiled DNA with histones in a nucleus that is not dividing, and a chromosome is that DNA condensed.\nC  Chromatin is made of protein only and chromosomes are made of DNA only.\nD  Chromatin is found in the cytoplasm and chromosomes are found in the nucleus.\n\n5. Why are the two nuclei made by mitosis genetically identical to the parent nucleus?\nA  The DNA is replicated first, and one chromatid of each chromosome goes to each nucleus.\nB  Each nucleus receives half of the chromosomes of the parent nucleus.\nC  The nuclear envelope makes a copy of the DNA after the nucleus has divided.\nD  The DNA is replicated after the chromosomes have been shared between the nuclei.\n\n6. A strawberry plant sends out runners, and each runner roots and grows into a new plant. Which statement about the new plants is correct?\nA  They are genetically different from the parent, since they were made by sexual reproduction.\nB  They are genetically identical to the parent, since they were made by mitosis.\nC  They are genetically identical to the parent, since they were made by fertilisation.\nD  They are genetically different from the parent, since mitosis changes the DNA.\n\n7. In which phase of the cell cycle is DNA replicated?\nA  G1\nB  S\nC  G2\nD  mitosis\n\n8. Which sequence shows the mitotic cell cycle in the correct order?\nA  G1, G2, S, mitosis, cytokinesis\nB  G1, S, G2, mitosis, cytokinesis\nC  S, G1, G2, cytokinesis, mitosis\nD  mitosis, G1, S, G2, cytokinesis\n\n9. A cell has 10 chromosomes at the end of G1. How many chromatids does it have at the end of G2?\nA  10\nB  20\nC  40\nD  5\n\n10. In a sample of 200 root tip cells, 150 are in interphase. The cell cycle takes 20 hours, and the cells are not dividing in step. What is the best estimate of the time spent in interphase?\nA  15 hours\nB  5 hours\nC  7.5 hours\nD  150 hours\n\n11. What happens to the telomeres of a chromatid at each replication of the DNA?\nA  They become longer.\nB  They stay exactly the same length.\nC  A short length is lost, so they become a little shorter.\nD  They are copied twice.\n\n12. Why does the loss of a little telomere at each replication not at once destroy genes?\nA  The telomere contains no genes, so it is used up before the genes behind it are reached.\nB  The telomere is a plastic cap that cannot be damaged.\nC  The genes are copied before the telomere is copied.\nD  The telomere makes the gene a protein, so the gene is repaired.",
+   "canonical_answer": "Key: 1 A, 2 C, 3 C, 4 B, 5 A, 6 B, 7 B, 8 B, 9 B, 10 A, 11 C, 12 A.\n1. Chromosomes are DNA with histone proteins (A). B names RNA, a different nucleic acid; C swaps in phospholipids, which make membranes; D swaps in cellulose, which is found in plant cell walls.\n2. The centromere joins the chromatids (C). A is the cap at the end of a chromatid; B is the near-neighbour term, the organelle that organises the spindle; D is a protein that the DNA is wound around.\n3. Each chromatid has a telomere at both ends, so 2 × 2 = 4 (C). B is the error of counting the ends of one chromatid, or of one telomere per chromatid; A counts one per chromosome; D doubles the correct count again.\n4. B is correct. A reverses the two forms; C wrongly separates the DNA from the histones, which are in both; D wrongly places chromatin outside the nucleus.\n5. A gives the cause and the sharing (A). B would halve the chromosome number so the nuclei would not be identical; C gives the nuclear envelope a role it does not have; D reverses the order, since replication comes before mitosis.\n6. Asexual reproduction by mitosis gives identical offspring (B). A and C name the wrong type of reproduction; D wrongly says that mitosis changes the DNA, when it copies it.\n7. DNA is replicated in S phase (B). A is the growth phase before replication; C is the growth phase after replication; D is the sharing of chromatids that comes after replication.\n8. B is the order, with replication in S before the growth of G2 and mitosis. A swaps S and G2; C starts with S and puts cytokinesis before mitosis; D puts mitosis first, before the DNA is copied.\n9. At the end of G1 each chromosome is one chromatid; replication in S phase doubles this, so 10 × 2 = 20 (B). A is the number of chromosomes; C doubles twice; D halves the count.\n10. 150 ÷ 200 = 0.75, and 0.75 × 20 = 15 hours (A). B is the time in mitosis and cytokinesis, 20 - 15; C divides the count by the hours, 150 ÷ 20 = 7.5; D reads the number of cells as hours.\n11. A short length is lost at each replication (C). A confuses the telomere with the effect of telomerase; B is the error that the telomere stops shortening; D has no basis in replication.\n12. A is correct: the telomere is a buffer of repeated sequence with no genes. B is the error of treating the telomere as a plastic or hard cap; C and D invent an order or a role for which there is no basis.",
+   "marking_guidance": [
+    "The key: one mark per correct option, twelve marks in all; about half the questions test recall and half test application to a described count, a sequence or a calculation.",
+    "Each distractor is a named error: centromere and centrosome confused, one telomere counted per chromosome, a plastic cap, a telomere that stops shortening, chromatids counted as chromosomes, the order of S and G2 swapped, and cells counted as hours."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-001": 1,
+    "CLM-8223-3.1.1-002": 1,
+    "CLM-8223-3.1.1-003": 1,
+    "CLM-8223-3.1.1-004": 1,
+    "CLM-8223-3.1.1-005": 1,
+    "CLM-8223-3.1.1-006": 1,
+    "CLM-8223-3.1.1-010": 1,
+    "CLM-8223-3.1.1-011": 1,
+    "CLM-8223-3.1.1-012": 1,
+    "CLM-8223-3.1.1-013": 1,
+    "CLM-8223-3.1.1-014": 1,
+    "CLM-8223-3.1.1-016": 1
+   },
+   "authored_hash": "40d811ddb85567950c6f4f0d256bb8fc2d99dcf7587e2a00b806851be428f618"
+  },
+  {
+   "item_id": "ITEM-8223-3.1.1-P02",
+   "objective_ids": [
+    "OBJ-8223-3.1.1-04",
+    "OBJ-8223-3.1.1-05",
+    "OBJ-8223-3.1.1-07"
+   ],
+   "claim_ids": [
+    "CLM-8223-3.1.1-011",
+    "CLM-8223-3.1.1-013",
+    "CLM-8223-3.1.1-014",
+    "CLM-8223-3.1.1-015",
+    "CLM-8223-3.1.1-021"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "State",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "A student in Swakopmund grows human skin cells in a dish and measures the length of the telomeres of their chromatids as the cells divide. These are our readings.\n\n| Number of divisions | Mean telomere length / base pairs |\n|---|---|\n| 0 | 10000 |\n| 10 | 8400 |\n| 20 | 6800 |\n| 30 | 5200 |\n| 40 | 3600 |\n\n(a) State the phase of the cell cycle in which the DNA is replicated. [1]\n(b) State what a telomere is made of and where it is found on a chromosome. [1]\n(c) Describe the change in telomere length shown in the table. [2]\n(d) Explain why the shortening of the telomere at each division protects the genes of the cell. [2]\n(e) Suggest why a tumour cell with active telomerase can divide many more times than the cells in the dish. [2]",
+   "canonical_answer": "(a) S phase.\n(b) It is made of DNA, a short sequence of bases repeated many times, and is found at each end of each chromatid.\n(c) The mean telomere length decreases steadily, from 10000 base pairs at 0 divisions to 3600 base pairs at 40 divisions, a loss of 1600 base pairs in every 10 divisions, which is 160 base pairs at each division.\n(d) The telomere contains no genes, and a little of it is lost at each replication, so it is used up before the genes behind it, which are kept intact for a number of divisions.\n(e) Telomerase adds repeats of the telomere sequence, replacing the DNA lost at each replication, so the telomere does not become very short and the cell avoids the limit on its divisions, so it can keep dividing.",
+   "marking_guidance": [
+    "Marks and points: (a) 1 mark for S phase; (b) 1 mark for DNA, repeated sequence, at the end of each chromatid, accepting any two of the three ideas as the point; (c) 2 marks from three points: decreases steadily, values quoted, 1600 base pairs per 10 divisions or 160 base pairs per division.",
+    "(d) 2 marks from three points: no genes in the telomere, a little lost at each replication, so it is used up before the genes behind it are reached; (e) 2 marks from three points: telomerase adds telomere DNA, so the telomere does not become very short, so the cell can keep dividing. Parts (a), (b) and (c) credit AO A (4 marks); parts (d) and (e) credit AO B (4 marks). The reason in (d) and (e) must use the cells described, not a general statement. The values in (c) are from the table, and the calculation is 8400 - 10000 = -1600 base pairs per 10 divisions."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 3.1.1 from its claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-3.1.1-011": 1,
+    "CLM-8223-3.1.1-013": 1,
+    "CLM-8223-3.1.1-014": 1,
+    "CLM-8223-3.1.1-015": 1,
+    "CLM-8223-3.1.1-021": 1
+   },
+   "authored_hash": "6880e7f699d7d92eba55d474b521a3de906ac8be54f73da4d48ba2fb5f212709"
+  }
+ ]
+}

@@ -1,0 +1,479 @@
+{
+ "dataset_id": "ITEMS-8223-2.10.2",
+ "topic_id": "2.10.2",
+ "items": [
+  {
+   "item_id": "ITEM-8223-2.10.2-001-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.10.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.2-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by a carcinogen.",
+   "canonical_answer": "A carcinogen is a substance that can cause cancer, for example by damaging the DNA of a cell and causing a mutation. Tobacco tar contains many carcinogens.",
+   "marking_guidance": [
+    "1 mark: the key words, a substance that can cause cancer. The definition is about what the substance does; naming tar or nicotine without that idea earns no mark, and nicotine is the addictive drug, which is not the same thing as a carcinogen."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.2 from its claim ledger. Original wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.2-001": 1
+   },
+   "authored_hash": "885fc58522f70515cfe32266fefd71845aa8e2c1ce121810e222da4560a01a14"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.2-002-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-2.10.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.2-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one change that tar causes in the lining of the bronchi of a smoker.",
+   "canonical_answer": "The cilia are paralysed and then destroyed, so they no longer sweep mucus out of the airways.",
+   "marking_guidance": [
+    "1 mark for one point from: the cilia stop beating or are destroyed; the goblet cells enlarge and make more mucus; the lining becomes inflamed.",
+    "The point must be about the lining of the bronchi and must be an effect of tar. A statement that carbon monoxide blocks the cilia attaches the effect to the wrong substance and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.2 from its claim ledger. Original wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.2-003": 1
+   },
+   "authored_hash": "4e0b8eb0758eb416a82bfc542a8d386c04ab4701fe1629d32859e610ff007ade"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.2-007-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.10.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.2-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "The table gives our invented values for the mean diameter of the alveoli in lung tissue taken after death from two adults of the same age. Describe what the data show about the alveoli of the smoker, and what this means for gas exchange.\n\n| Person | Mean alveolar diameter / µm |\n|---|---|\n| Non-smoker | 200 |\n| Long-term smoker with emphysema | 450 |",
+   "canonical_answer": "The mean diameter of the alveoli is 450 µm in the smoker, which is 250 µm larger than the 200 µm of the non-smoker (450 ÷ 200 = 2.25 times as wide). Larger air spaces mean fewer alveoli in the same volume of lung, so the total surface area for gas exchange is smaller and less oxygen can diffuse into the blood.",
+   "marking_guidance": [
+    "2 marks: the data read correctly, a mean diameter of 450 µm against 200 µm, so the smoker's alveoli are larger (1); and what this means, a smaller surface area for gas exchange, so less oxygen diffuses into the blood (1).",
+    "The figures must be quoted from the table. A statement that the alveoli burst, without the larger air spaces or the surface area, does not give the meaning the question asks for. The values are our own and are not a published measurement."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Two invented lung tissue samples compared by alveolar diameter.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.2 from its claim ledger. Original wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.2-004": 1
+   },
+   "authored_hash": "a42d0d5e1ae7fa90cce57138d20cd93fe5d45c091ee21c87fd3d1f4ae403716c"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.2-003-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.10.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.2-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by carboxyhaemoglobin.",
+   "canonical_answer": "Carboxyhaemoglobin is the compound formed when carbon monoxide binds to haemoglobin in red blood cells. It cannot carry oxygen.",
+   "marking_guidance": [
+    "1 mark: the key words, carbon monoxide bound to haemoglobin. The definition names the two substances that combine; oxyhaemoglobin is haemoglobin combined with oxygen, which is not the same thing."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.2 from its claim ledger. Original wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.2-006": 1
+   },
+   "authored_hash": "05e13da0b7dc8b57067585e401780d9a9d0953b2f4834bd6df3f9abe190415c7"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.2-004-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-2.10.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.2-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one short-term effect of nicotine on the cardiovascular system.",
+   "canonical_answer": "Nicotine increases the heart rate. It also narrows the arterioles, which raises blood pressure.",
+   "marking_guidance": [
+    "1 mark for one point from: the heart rate increases; the arterioles narrow; the blood pressure rises; the platelets become stickier, so a blood clot is more likely.",
+    "The point must be an effect of nicotine on the heart or blood vessels. Less oxygen carried by the blood is an effect of carbon monoxide, not nicotine, and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.2 from its claim ledger. Original wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.2-005": 1
+   },
+   "authored_hash": "50ab0b766aba6e0922ae1b94bbdb08129fa28f9a09a70264f216732acf93b582"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.2-008-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.10.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.2-006",
+    "CLM-8223-2.10.2-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "The table gives our invented mean values for the percentage of the haemoglobin in the blood that is carboxyhaemoglobin in two groups of adults in Windhoek. Describe what the data show, and what this means for the oxygen carried by the blood of the smokers.\n\n| Group | Haemoglobin present as carboxyhaemoglobin / % |\n|---|---|\n| Non-smokers | 1 |\n| Smokers of about ten cigarettes a day | 6 |",
+   "canonical_answer": "The smokers have 6 per cent of their haemoglobin as carboxyhaemoglobin against 1 per cent in the non-smokers, which is 5 percentage points more (6 ÷ 1 = 6 times as much). This means 94 per cent of the smokers' haemoglobin is left to carry oxygen against 99 per cent in the non-smokers, so each litre of the smokers' blood carries less oxygen and less reaches tissues such as the heart muscle.",
+   "marking_guidance": [
+    "2 marks: the data read correctly, 6 per cent against 1 per cent, so the smokers have more carboxyhaemoglobin (1); what this means, less haemoglobin free to carry oxygen, so the blood carries less oxygen (1).",
+    "The values must be quoted from the table. Claiming that the smokers' blood contains no oxygen is wrong: the table shows only a small share of the haemoglobin is occupied. The values are our own and are not a published measurement."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Two invented groups of adults compared by carboxyhaemoglobin.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.2 from its claim ledger. Original wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.2-006": 1,
+    "CLM-8223-2.10.2-007": 1
+   },
+   "authored_hash": "14e7af19666ba45195daad129f7f08ab7e2cafaad9d431a9f76731bdfbc025e2"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.2-005-PROC",
+   "objective_ids": [
+    "OBJ-8223-2.10.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.2-008",
+    "CLM-8223-2.10.2-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "prompt": "A teacher in Rundu wants to find the proportion of Grade 12 learners at her school who have been newly diagnosed with asthma or hay fever in the last twelve months, using a questionnaire. Describe, in order, the main steps she should follow, from planning to working out the result.",
+   "canonical_answer": "First she plans the questionnaire, with short closed questions that define each condition and the twelve-month period, and she tests it on a few learners. Then she chooses a random sample from the school register and gives each learner the same questionnaire, entering the responses in a results table she prepared beforehand. Finally she works out the result by dividing the number reporting a new diagnosis by the number surveyed and multiplying by 100, giving a percentage.",
+   "marking_guidance": [
+    "3 marks, one for each step in the correct order: planning, with closed questions that define the conditions and the time period, tested first on a few learners; collecting from a random sample, recording each response in a prepared table; calculating the percentage, number reporting ÷ number surveyed × 100, as the final result.",
+    "The order is the point: calculating before the data are recorded earns no mark. More points are creditworthy than the tariff, such as asking permission and keeping the answers anonymous, but the maximum is 3."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "A survey of new asthma and hay fever diagnoses among Grade 12 learners at a school in Rundu.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.2 from its claim ledger. Original wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.2-008": 1,
+    "CLM-8223-2.10.2-009": 1
+   },
+   "authored_hash": "191e5ed5a0c9cb9e13166c99cc6de99f4933a4e619660f37237045c906f7426a"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.2-006-WHY",
+   "objective_ids": [
+    "OBJ-8223-2.10.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.2-008",
+    "CLM-8223-2.10.2-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Explain why a questionnaire on hay fever should use the same wording and the same time period for each learner who answers it.",
+   "canonical_answer": "The reason is that the answers must be comparable. If the wording differed, learners might understand hay fever differently, so differences in the results could come from the questions and not from real differences between learners. A fixed time period is needed because hay fever is seasonal, so asking about different periods would give different results because of the season.",
+   "marking_guidance": [
+    "2 marks: the reason that answers must be comparable, so a difference in results is due to the learners and not to the wording (1); the reason for the fixed period, because hay fever is seasonal and the result depends on the time of year asked about (1).",
+    "A statement that the questionnaire is then shorter, or easier to hand out, is not the purpose and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.2 from its claim ledger. Original wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.2-008": 1,
+    "CLM-8223-2.10.2-011": 1
+   },
+   "authored_hash": "1d20e599ec7c638159bd2a12289b61a8990c2a426b29063062ba6b63d51e751e"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.2-009-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.10.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.2-010",
+    "CLM-8223-2.10.2-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A class compares two schools in a survey of new asthma diagnoses in the last twelve months, using our invented numbers. Describe what the table shows when the schools are compared, and say what the result does not show.\n\n| School | Learners surveyed | Learners with a new diagnosis |\n|---|---|---|\n| School A, beside a gravel road | 120 | 18 |\n| School B, in a residential street | 80 | 6 |",
+   "canonical_answer": "The proportion in School A is 18 ÷ 120 = 0.15, and 0.15 × 100 = 15 per cent. In School B it is 6 ÷ 80 = 0.075, and 0.075 × 100 = 7.5 per cent. The table shows that School A has twice the proportion (15 ÷ 7.5 = 2), and the percentages are used because the samples differ in size. The result does not show that the gravel road is the cause, because the schools may differ in other ways.",
+   "marking_guidance": [
+    "2 marks: the percentages worked out from the table values, 15 per cent and 7.5 per cent, so School A is higher (1); that this shows an association and not a cause, because the schools may differ in other ways (1).",
+    "Comparing the counts 18 and 6 directly does not allow for the different sample sizes, so the percentages must be used. The numbers are our own and not a published survey."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "Two invented school samples compared by percentage with a new asthma diagnosis.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.2 from its claim ledger. Original wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.2-010": 1,
+    "CLM-8223-2.10.2-011": 1
+   },
+   "authored_hash": "7e7ae7824679f8f09e7806d8efc3e3bb49590484254fa2dac5dacff905c6ac06"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.2-P01",
+   "objective_ids": [
+    "OBJ-8223-2.10.2-01",
+    "OBJ-8223-2.10.2-02",
+    "OBJ-8223-2.10.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.2-001",
+    "CLM-8223-2.10.2-002",
+    "CLM-8223-2.10.2-003",
+    "CLM-8223-2.10.2-004",
+    "CLM-8223-2.10.2-005",
+    "CLM-8223-2.10.2-006",
+    "CLM-8223-2.10.2-010"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": null,
+   "mark_tariff": 12,
+   "difficulty": 3,
+   "prompt": "Twelve questions. Choose one option for each.\n\n1. Which substance in tobacco smoke carries many of the chemicals that can cause cancer?\nA  nicotine\nB  carbon monoxide\nC  tar\nD  carbon dioxide\n\n2. What does tar do to the cilia that line the bronchi?\nA  It makes them beat faster.\nB  It paralyses and then destroys them.\nC  It makes them produce mucus.\nD  It makes them longer.\n\n3. Why does mucus collect in the airways of a long-term smoker?\nA  The goblet cells make less mucus.\nB  The mucus is too thin to move.\nC  Carbon monoxide blocks the airways.\nD  The cilia no longer sweep it out and the goblet cells make more of it.\n\n4. What happens to the alveoli in emphysema?\nA  Their elastic fibres are digested, so the walls break down and neighbouring alveoli merge into larger air spaces.\nB  Mucus fills them and bacteria multiply in it.\nC  Carbon monoxide binds to their walls.\nD  Their walls become thicker and their number increases.\n\n5. Why does emphysema make a person breathless?\nA  Mucus blocks the trachea.\nB  The heart beats too slowly.\nC  The alveoli have a smaller total surface area, so less oxygen diffuses into the blood.\nD  The red blood cells contain too little haemoglobin.\n\n6. Which two conditions together make up chronic obstructive pulmonary disease (COPD)?\nA  asthma and hay fever\nB  chronic bronchitis and emphysema\nC  lung cancer and emphysema\nD  lung cancer and chronic bronchitis\n\n7. Which sequence describes how a carcinogen can lead to lung cancer?\nA  Carcinogen blocks the bronchus; the lung collapses; a tumour forms.\nB  Carcinogen binds to haemoglobin; less oxygen is carried; cells divide.\nC  Carcinogen makes the cilia beat faster; mucus is lost; a tumour forms.\nD  Carcinogen damages DNA; a mutation affects a gene controlling cell division; cells divide out of control; a tumour forms.\n\n8. How does carbon monoxide reduce the transport of oxygen in the blood?\nA  It binds to haemoglobin and forms carboxyhaemoglobin, which cannot carry oxygen.\nB  It dissolves in the plasma and destroys the red blood cells.\nC  It narrows the arterioles so less blood flows.\nD  It digests the walls of the alveoli.\n\n9. Which is a short-term effect of nicotine on the cardiovascular system?\nA  It lowers the blood pressure.\nB  It decreases the heart rate.\nC  It narrows the arterioles, so the blood pressure rises.\nD  It makes the platelets less sticky.\n\n10. A blood test shows that 8 per cent of the haemoglobin of a smoker is carboxyhaemoglobin. What does this mean?\nA  8 per cent of the blood has been replaced by carbon monoxide.\nB  92 per cent of the haemoglobin can still carry oxygen, so the blood carries less oxygen than normal.\nC  The smoker has 8 per cent more haemoglobin than normal.\nD  The smoker's haemoglobin carries 8 per cent more oxygen.\n\n11. A learner wants to choose a sample from the 300 learners in her school for a survey of asthma. Which method is least likely to give a biased sample?\nA  asking her friends\nB  asking the first twenty learners to arrive at school\nC  asking the members of the athletics team\nD  choosing names from the school register using random numbers\n\n12. In a survey of 80 learners, 12 report hay fever in the last twelve months. Which calculation gives the percentage reporting hay fever?\nA  12 ÷ 80 × 100\nB  80 ÷ 12 × 100\nC  12 × 80 ÷ 100\nD  12 + 80 ÷ 100",
+   "canonical_answer": "Key: 1 C, 2 B, 3 D, 4 A, 5 C, 6 B, 7 D, 8 A, 9 C, 10 B, 11 D, 12 A.\n1. Tar carries many carcinogens (C). A is the addictive drug, which acts on the nervous system and blood vessels; B is the gas that binds to haemoglobin; D is not the substance that carries the carcinogens.\n2. Tar paralyses and then destroys the cilia (B). A reverses the effect; C gives the cilia the job of the goblet cells; D is not an effect of tar.\n3. The cilia are destroyed and the goblet cells enlarge (D). A reverses the change in the goblet cells; B invents a property of the mucus; C gives the effect to carbon monoxide, which acts on haemoglobin, not on the airways.\n4. Elastase digests the elastic fibres (A). B describes the airways in chronic bronchitis, not the alveoli; C puts carbon monoxide in the wrong place, since it binds to haemoglobin; D reverses the loss of surface area.\n5. The surface area for gas exchange falls (C). A is chronic bronchitis and is the wrong site; B has no basis in the chain; D is an error from confusing the lung with the blood.\n6. COPD includes chronic bronchitis and emphysema (B). A names two allergic conditions; C and D include lung cancer, which is a tumour and a separate disease.\n7. The chain runs from DNA damage to a tumour (D). A has no mutation step; B gives the carbon monoxide mechanism; C reverses the effect on the cilia and has no mutation step.\n8. Carbon monoxide occupies haemoglobin (A). B invents damage to red blood cells; C is an effect of nicotine; D is the effect of elastase in emphysema.\n9. Narrowed arterioles raise the blood pressure (C). A and B reverse the effects; D reverses the effect on the platelets.\n10. 100 - 8 = 92 per cent of the haemoglobin remains free (B). A confuses haemoglobin with the whole blood; C and D reverse the effect of carbon monoxide.\n11. Random numbers give each learner a similar chance of selection (D). A, B and C each choose a group that may differ from the school as a whole.\n12. The percentage is the number reporting divided by the number surveyed, times 100: 12 ÷ 80 = 0.15, and 0.15 × 100 = 15 per cent (A). B inverts the fraction; C and D combine the numbers incorrectly.",
+   "marking_guidance": [
+    "The key: one mark per correct option, twelve marks in all; about half the questions test recall of the effects and about half test application to a sequence, a count or a survey situation.",
+    "Each distractor is a named error: an effect given to the wrong substance (tar, nicotine and carbon monoxide confused), chronic bronchitis and emphysema confused, an effect reversed, or a biased sample."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.2 from its claim ledger. Original wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.2-001": 1,
+    "CLM-8223-2.10.2-002": 1,
+    "CLM-8223-2.10.2-003": 1,
+    "CLM-8223-2.10.2-004": 1,
+    "CLM-8223-2.10.2-005": 1,
+    "CLM-8223-2.10.2-006": 1,
+    "CLM-8223-2.10.2-010": 1
+   },
+   "authored_hash": "f945c0ea892b6f0fa4cb237d73c41bfacb7711884237a362ced3951967581066"
+  },
+  {
+   "item_id": "ITEM-8223-2.10.2-P02",
+   "objective_ids": [
+    "OBJ-8223-2.10.2-01",
+    "OBJ-8223-2.10.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.10.2-001",
+    "CLM-8223-2.10.2-002",
+    "CLM-8223-2.10.2-003",
+    "CLM-8223-2.10.2-005",
+    "CLM-8223-2.10.2-006",
+    "CLM-8223-2.10.2-007"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "State",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "A hospital in Oshakati examined a sample of the lining of a bronchus taken from a man who had smoked for 30 years. These are our descriptions, not a published result.\n\nThe lining of a non-smoker has a layer of cilia and a thin layer of mucus. The lining of the man has almost no cilia, enlarged goblet cells and a thick layer of mucus. A blood test also shows that 7 per cent of his haemoglobin is carboxyhaemoglobin.\n\n(a) State two differences between the lining of the man and the lining of a non-smoker. [2]\n(b) Explain why the man has a persistent cough. [2]\n(c) Describe how a carcinogen in tar can lead to lung cancer. [2]\n(d) Suggest why the man's heart rate is higher than normal soon after he smokes, with reference to nicotine and carbon monoxide. [2]",
+   "canonical_answer": "(a) The man has almost no cilia, the goblet cells are enlarged, and the mucus layer is thicker.\n(b) The cilia have been destroyed by tar, so they cannot sweep mucus out, and the enlarged goblet cells make more mucus, so the mucus collects and he coughs to clear it; the cough persists because the mucus keeps building up.\n(c) The carcinogen damages the DNA of a bronchial epithelial cell, causing a mutation in a gene that controls cell division, so the cell divides out of control and, with further mutations over years, forms a tumour.\n(d) Nicotine stimulates the nervous system, so the heart rate increases. Carbon monoxide forms carboxyhaemoglobin, so the blood carries less oxygen and the heart tends to beat faster to deliver more blood.",
+   "marking_guidance": [
+    "Marks and points: (a) 2 marks from three points, almost no cilia, enlarged goblet cells, a thicker mucus layer; (b) 2 marks from three points: the cilia destroyed so mucus is not swept out, more mucus made, the mucus collects and the cough persists, each linked by because; (c) 2 marks from four points: DNA damaged by a carcinogen, a mutation in a gene controlling cell division, uncontrolled division, a tumour after years; (d) 2 marks, one for the nicotine point and one for the carbon monoxide point, each with its reason.",
+    "Parts (a) and (c) credit AO A (4 marks); parts (b) and (d) credit AO B (4 marks). In (b) the cause is tar, which damages the cilia; a reason based on carbon monoxide earns no mark. In (d) the term carboxyhaemoglobin or the idea of less oxygen carried is needed for the carbon monoxide mark, and the figures of 7 per cent are our invented values."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": "An invented sample from a long-term smoker treated at a hospital in Oshakati.",
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for 8223 topic 2.10.2 from its claim ledger. Original wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.10.2-001": 1,
+    "CLM-8223-2.10.2-002": 1,
+    "CLM-8223-2.10.2-003": 1,
+    "CLM-8223-2.10.2-005": 1,
+    "CLM-8223-2.10.2-006": 1,
+    "CLM-8223-2.10.2-007": 1
+   },
+   "authored_hash": "67ab00c9f774eca8d0e5260a2e7182b8ba88a36b1a2dd42688edf665fc6cb559"
+  }
+ ]
+}

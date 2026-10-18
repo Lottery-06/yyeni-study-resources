@@ -1,0 +1,911 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-4.2",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-4.2-001",
+   "objective_ids": [
+    "OBJ-8223-4.2-01"
+   ],
+   "text": "A light microscope is set up in order: the lowest-power objective lens is swung into place, the slide is clipped to the stage with the specimen over the opening, the objective is lowered close to the slide while the stage is watched from the side, and then, looking through the eyepiece, the coarse focus moves the objective away from the slide until the specimen appears and the fine focus makes it sharp; the light and the diaphragm are then adjusted to give an evenly lit field.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: set up a light microscope to view specimens and make plan diagrams or cell drawings",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-01; any measurements used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-002",
+   "objective_ids": [
+    "OBJ-8223-4.2-01"
+   ],
+   "text": "A plan diagram is made at low power, where a whole region from one surface of a section to the other fits in the field of view; a cell drawing is made at high power, after the area to be drawn has been centred at low power, the next objective has been swung in, and the image has been sharpened with the fine focus alone.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: set up a light microscope to view specimens and make plan diagrams or cell drawings",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-01; any measurements used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-003",
+   "objective_ids": [
+    "OBJ-8223-4.2-01"
+   ],
+   "text": "The lowest-power objective is used first because it gives the widest field of view, so the specimen is easy to find, and it sits farthest from the slide, so there is little risk of the lens touching the glass.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: set up a light microscope to view specimens and make plan diagrams or cell drawings",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-01; any measurements used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-004",
+   "objective_ids": [
+    "OBJ-8223-4.2-02"
+   ],
+   "text": "A slide of cells is made in order: a drop of stain or water is placed on a clean slide, a thin piece of tissue is laid flat in the drop with forceps, a coverslip is lowered at an angle onto the drop with a mounted needle, and the excess liquid at the edge is drawn off with filter paper.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: stain and make a slide of cells",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-02; any measurements used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-005",
+   "objective_ids": [
+    "OBJ-8223-4.2-02"
+   ],
+   "text": "A stain is used because most cells are transparent and show little detail: the stain is taken up more by some structures than by others, which raises the contrast between the parts; the tissue is thin so that light can pass through, and the coverslip is lowered at an angle so that air bubbles are not trapped, because bubbles hide the specimen.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: stain and make a slide of cells",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-02; any measurements used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-006",
+   "objective_ids": [
+    "OBJ-8223-4.2-02"
+   ],
+   "text": "Iodine solution is a stain used on plant tissue such as a peeled layer of onion epidermis, and methylene blue is a stain used on human cheek cells; in each, the stain makes structures such as the nucleus easier to see.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: stain and make a slide of cells",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-02; any measurements used with it are ours.",
+    "The exact colours produced are left out because they are not needed and are not checked."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-007",
+   "objective_ids": [
+    "OBJ-8223-4.2-03"
+   ],
+   "text": "Calibrating an eyepiece graticule means working out the length that one graticule division stands for, for one objective lens, by comparing the graticule with the scale of known length on a stage micrometer: length of one division in µm = known length in µm ÷ number of graticule divisions along it.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: calibrate an eyepiece graticule using a stage micrometer",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-03; any measurements used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-008",
+   "objective_ids": [
+    "OBJ-8223-4.2-03"
+   ],
+   "text": "A common stage micrometer is a slide with a scale 1 mm long divided into 100 divisions of 0.01 mm, and because 1 mm = 1000 µm, each division of such a scale is 10 µm.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: calibrate an eyepiece graticule using a stage micrometer",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-03; any measurements used with it are ours.",
+    "Other stage micrometer scales exist; the scale length is always read from the slide in use."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-009",
+   "objective_ids": [
+    "OBJ-8223-4.2-03"
+   ],
+   "text": "A calibration holds for one objective lens, because a higher-power objective enlarges the specimen more so that a given length spans more graticule divisions and each division stands for a shorter length; the calibration is repeated for each objective.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: calibrate an eyepiece graticule using a stage micrometer",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-03; any measurements used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-010",
+   "objective_ids": [
+    "OBJ-8223-4.2-04"
+   ],
+   "text": "The actual size of a cell or tissue is the number of graticule divisions it spans multiplied by the length of one division in µm, and several cells are measured along the same direction.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: obtain actual sizes with a calibrated graticule, as a mean, in correct units",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-04; any measurements used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-011",
+   "objective_ids": [
+    "OBJ-8223-4.2-04"
+   ],
+   "text": "A mean measurement is the total of the measurements divided by the number of measurements, and it is stated in µm for cells and tissues; it represents the cells better than one measurement because an unusually large or small cell has less effect on it.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: obtain actual sizes with a calibrated graticule, as a mean, in correct units",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-04; any measurements used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-012",
+   "objective_ids": [
+    "OBJ-8223-4.2-04"
+   ],
+   "text": "To change millimetres to micrometres multiply by 1000, because 1 mm = 1000 µm; an eyepiece division has no length of its own until it has been calibrated for the objective in use.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: obtain actual sizes with a calibrated graticule, as a mean, in correct units",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-04; any measurements used with it are ours.",
+    "Judged wording of the last clause: a division has no size of its own."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-013",
+   "objective_ids": [
+    "OBJ-8223-4.2-05"
+   ],
+   "text": "The number of cells or organelles on a slide is estimated from a sample: the cells are counted in several fields of view or grid squares chosen at random, the mean count per field or per square is found, and it is multiplied by the number of fields, or by the area in mm² when the count is per mm², needed to cover the whole specimen.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: estimate the number of cells or organelles using a sample or a grid",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-05; any measurements used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-014",
+   "objective_ids": [
+    "OBJ-8223-4.2-05"
+   ],
+   "text": "The estimate is more reliable when the sample is random and large, because cells are seldom spread evenly and one field may be crowded while another is almost empty, and the result is an estimate, not an exact count.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: estimate the number of cells or organelles using a sample or a grid",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-05; any measurements used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-015",
+   "objective_ids": [
+    "OBJ-8223-4.2-06"
+   ],
+   "text": "A plan diagram is a drawing that shows the distribution of tissues in a specimen as the outlines of the tissue layers, with no individual cells drawn.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: plan diagrams with no cells and correct proportions",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-06; any measurements used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-016",
+   "objective_ids": [
+    "OBJ-8223-4.2-06"
+   ],
+   "text": "In a plan diagram the thickness of each tissue layer is drawn in the same proportion as in the specimen, so each measured thickness is multiplied by the same factor, and each layer is labelled.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: plan diagrams with no cells and correct proportions",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-06; any measurements used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-017",
+   "objective_ids": [
+    "OBJ-8223-4.2-06"
+   ],
+   "text": "Individual cells are not drawn in a plan diagram, which shows the layout of the tissues alone; cells are drawn in a high-power drawing, and the test is whether the drawing shows cell outlines or just tissue regions.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: plan diagrams with no cells and correct proportions",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-06; any measurements used with it are ours.",
+    "Restates misconception MC-8223-4.2-02."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-018",
+   "objective_ids": [
+    "OBJ-8223-4.2-07"
+   ],
+   "text": "A cell drawing shows the observable features of a few whole cells: their shapes, a cell wall drawn as two lines to show its thickness, the sizes of the parts in correct proportion to each other, and the contents that can be seen, such as the nucleus, chloroplasts or a vacuole.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: draw cells with observable features only",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-07; any measurements used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-019",
+   "objective_ids": [
+    "OBJ-8223-4.2-07"
+   ],
+   "text": "A cell drawing includes what is seen at the magnification used and leaves out what is known just from books, because structures too small for a light microscope, such as ribosomes, cannot be seen and drawing them records an idea instead of an observation.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: draw cells with observable features only",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-07; any measurements used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-020",
+   "objective_ids": [
+    "OBJ-8223-4.2-07"
+   ],
+   "text": "In a cell drawing the nucleus and the other parts are drawn at their relative size, a nucleus being a small part of the cell; neighbouring cells are drawn with their shared walls, and each part drawn is labelled.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: draw cells with observable features only",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-07; any measurements used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-021",
+   "objective_ids": [
+    "OBJ-8223-4.2-08"
+   ],
+   "text": "An observable feature is a feature that can be seen in the specimen, slide or photomicrograph at the magnification used, such as shape, size, the presence of a wall, the colour of the contents or the thickness of a layer; a statement of what a structure does is an interpretation, not an observable feature.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: compare specimens using observable features",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-08; any measurements used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-022",
+   "objective_ids": [
+    "OBJ-8223-4.2-08"
+   ],
+   "text": "Two specimens are compared by naming the same feature in both and stating how it is alike or different, with a value where one can be measured, and without statements of function.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: compare specimens using observable features",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-08; any measurements used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-023",
+   "objective_ids": [
+    "OBJ-8223-4.2-09"
+   ],
+   "text": "A clear biological drawing is made with a sharp pencil in single, sharp, unbroken lines, and it is not shaded or coloured, because shading hides the structures beneath it.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: clear drawings, sharp unbroken lines, no shading, space used",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-09; any measurements used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-024",
+   "objective_ids": [
+    "OBJ-8223-4.2-09"
+   ],
+   "text": "A drawing is made large enough to use most of the space available so that its details are clear, and it is labelled with ruled label lines that touch the structure and do not cross, with a title and the magnification.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: clear drawings, sharp unbroken lines, no shading, space used",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-09; any measurements used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-025",
+   "objective_ids": [
+    "OBJ-8223-4.2-10"
+   ],
+   "text": "A calculation is set out in steps: the equation, the conversion of both lengths to one unit, the substitution of values, and the answer with its unit; each step is written so that a wrong step can be seen and credited.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: show all steps in calculations",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-10; any measurements used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-026",
+   "objective_ids": [
+    "OBJ-8223-4.2-10"
+   ],
+   "text": "Magnification = image size ÷ actual size, both in the same unit and magnification has no unit; a ratio of two lengths is simplified by dividing both by the same number until whole numbers cannot be reduced further.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: show all steps in calculations",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-10; any measurements used with it are ours.",
+    "Same relationship as taught in topic 2.1."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-027",
+   "objective_ids": [
+    "OBJ-8223-4.2-11"
+   ],
+   "text": "A slide can be refocused through its thickness, its light can be adjusted and it can be measured against a calibrated graticule, whereas a photomicrograph is a fixed image at one focus whose sizes are found with a ruler and the magnification or the scale bar printed with it.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: compare slides and photomicrographs",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-11; any measurements used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-028",
+   "objective_ids": [
+    "OBJ-8223-4.2-11"
+   ],
+   "text": "A photomicrograph is a photograph of a specimen taken through a light microscope.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: compare slides and photomicrographs",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-11; any measurements used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-029",
+   "objective_ids": [
+    "OBJ-8223-4.2-12"
+   ],
+   "text": "An observation is explained by linking the feature seen to what it does for the organism: a thick waxy cuticle on a leaf surface reduces the loss of water by evaporation, so it suits a plant in a dry habitat; large air spaces in a floating leaf make the leaf buoyant and let gases diffuse through it.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: use biological knowledge to explain observations and adaptations",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-12; any measurements used with it are ours.",
+    "Habitat examples are tendencies and illustrations; each plant would need its own evidence."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-030",
+   "objective_ids": [
+    "OBJ-8223-4.2-12"
+   ],
+   "text": "An adaptation is a feature of the structure of an organism that helps it to survive and reproduce in its habitat.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: use biological knowledge to explain observations and adaptations",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-12; any measurements used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.2-031",
+   "objective_ids": [
+    "OBJ-8223-4.2-12"
+   ],
+   "text": "A calculated value is explained by stating what it means for the specimen: a thicker palisade layer holds more chloroplasts near the lit surface, which supports more photosynthesis, as a tendency that depends on the light the leaf receives.",
+   "claim_type": "inference",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Practical skills 4.2, p. 32: use biological knowledge to explain observations and adaptations",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.2 under standard v0.2.0-draft. Single source: our own statement of standard practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.2-12; any measurements used with it are ours.",
+    "Judged: the link between layer thickness and the light received is our reading, not a syllabus line."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,371 @@
+{
+ "contract_id": "CONTRACT-8223-2.5.1",
+ "topic_id": "2.5.1",
+ "topic_title": "Mode of action of enzymes",
+ "unit": "Organisation and maintenance of the organism",
+ "qualification": "nam-8223-nsscas-2026",
+ "standard_version": "0.2.0-draft",
+ "generated_at": "2026-10-18T12:26:11Z",
+ "generated_by": "make_contract.py",
+ "status": "active",
+ "scope": {
+  "included_objective_ids": [
+   "OBJ-8223-2.5.1-01",
+   "OBJ-8223-2.5.1-02",
+   "OBJ-8223-2.5.1-03",
+   "OBJ-8223-2.5.1-04"
+  ],
+  "included_count": 4,
+  "objective_types": {
+   "bio_explanation": 2,
+   "bio_definition": 1,
+   "bio_practical_skill": 1
+  },
+  "depth_tiers": {
+   "2": 2,
+   "1": 1,
+   "3": 1
+  }
+ },
+ "target_learner_profile": {
+  "prior_teaching": "None assumed beyond the syllabus’s own prerequisites.",
+  "context": "Namibian secondary learners, Namibia Senior Secondary Certificate Advanced Subsidiary level (NSSCAS), English medium.",
+  "note_purpose": [
+   "source of record for flashcard generation",
+   "offline reading",
+   "standalone study text"
+  ]
+ },
+ "assessment_expectations": {
+  "papers": [
+   "P1",
+   "P2",
+   "P3"
+  ],
+  "command_words_in_scope": [
+   "State",
+   "Explain",
+   "Describe",
+   "Discuss",
+   "Outline",
+   "Suggest",
+   "Calculate",
+   "Sketch",
+   "Construct",
+   "Compare",
+   "Name",
+   "Identify",
+   "Use",
+   "Complete",
+   "Plot",
+   "Make",
+   "Prepare",
+   "Draw",
+   "Record",
+   "Look",
+   "Fill",
+   "Take",
+   "Move"
+  ],
+  "command_words_never_used_in_the_corpus": [
+   "Define",
+   "List",
+   "Give",
+   "Deduce",
+   "Predict",
+   "Comment",
+   "Find",
+   "Measure",
+   "Determine",
+   "Estimate",
+   "Show",
+   "Recognise",
+   "Classify"
+  ],
+  "modal_tariffs": {
+   "State": 1,
+   "Explain": 2,
+   "Describe": 1,
+   "Discuss": 2,
+   "Outline": 3,
+   "Suggest": 2,
+   "Calculate": 1,
+   "Sketch": 2,
+   "Construct": 4,
+   "Compare": 2,
+   "Name": 2,
+   "Identify": 2,
+   "Use": 1,
+   "Complete": 3,
+   "Plot": 4,
+   "Make": 5,
+   "Prepare": 4,
+   "Draw": 3,
+   "Record": 1,
+   "Look": 4,
+   "Fill": 3,
+   "Take": 1,
+   "Move": 3
+  },
+  "observed_tariffs": {
+   "State": {
+    "1": 11,
+    "2": 8,
+    "3": 1,
+    "4": 2
+   },
+   "Explain": {
+    "1": 2,
+    "2": 8,
+    "3": 6,
+    "4": 2
+   },
+   "Describe": {
+    "1": 7,
+    "2": 7,
+    "3": 5,
+    "4": 4,
+    "5": 2,
+    "6": 1,
+    "8": 1
+   },
+   "Discuss": {
+    "2": 2,
+    "3": 1,
+    "4": 1
+   },
+   "Outline": {
+    "2": 1,
+    "3": 3,
+    "4": 1
+   },
+   "Suggest": {
+    "1": 2,
+    "2": 6,
+    "3": 3
+   },
+   "Calculate": {
+    "1": 5,
+    "2": 2
+   },
+   "Sketch": {
+    "2": 1
+   },
+   "Construct": {
+    "4": 1
+   },
+   "Compare": {
+    "2": 1
+   },
+   "Name": {
+    "1": 5,
+    "2": 5,
+    "4": 1,
+    "5": 1
+   },
+   "Identify": {
+    "1": 2,
+    "2": 5,
+    "3": 2
+   },
+   "Use": {
+    "1": 6,
+    "2": 5,
+    "3": 1,
+    "4": 5
+   },
+   "Complete": {
+    "2": 1,
+    "3": 2,
+    "4": 1
+   },
+   "Plot": {
+    "4": 4
+   },
+   "Make": {
+    "3": 1,
+    "4": 1,
+    "5": 2
+   },
+   "Prepare": {
+    "4": 3,
+    "5": 1
+   },
+   "Draw": {
+    "1": 1,
+    "3": 1,
+    "4": 1
+   },
+   "Record": {
+    "1": 2
+   },
+   "Look": {
+    "4": 1
+   },
+   "Fill": {
+    "3": 1
+   },
+   "Take": {
+    "1": 1
+   },
+   "Move": {
+    "3": 1
+   }
+  },
+  "command_words_seen_on_this_topic": {
+   "Use": 3,
+   "Suggest": 2,
+   "Calculate": 2,
+   "State": 2,
+   "Describe": 1,
+   "Identify": 1
+  },
+  "ao_targets": {
+   "A": 40,
+   "B": 40,
+   "C": 20
+  },
+  "answer_shapes": "curriculum/answer-shapes.json",
+  "note": "The command words in scope are the ones the papers actually use, measured across the held corpus, not the ones the syllabus table lists. Never write a prompt with a word under command_words_never_used_in_the_corpus."
+ },
+ "exposure": {
+  "objectives_examined": 2,
+  "objectives_never_seen": 2,
+  "marks_examined_in_corpus": 37,
+  "classes": {
+   "unseen": 2,
+   "core": 2
+  },
+  "principle": "RS-05: exposure calibrates emphasis. Every objective in scope is taught and practised whether or not it has been examined."
+ },
+ "depth_constraints": {
+  "note_mode": "full teaching depth",
+  "word_budget": {
+   "min": 1120,
+   "max": 1600
+  },
+  "item_budget": 12,
+  "excluded_constructs": [
+   {
+    "construct": "species concepts other than the biological, morphological, ecological and behavioural concepts",
+    "pattern": "\\b(?:phylogenetic|cohesion|recognition|evolutionary|genotypic cluster)\\s+species\\s+concept",
+    "source": {
+     "printed_page": 5,
+     "topic": "1.1",
+     "quote": "limited to the biological, morphological, ecological and behavioural concepts"
+    }
+   },
+   {
+    "construct": "mesosomes",
+    "pattern": "\\bmesosomes?\\b",
+    "source": {
+     "printed_page": 8,
+     "topic": "2.2",
+     "quote": "no reference to mesosomes required"
+    }
+   },
+   {
+    "construct": "calculations of water potential",
+    "pattern": "\\bcalculat\\w*\\s+(?:the\\s+)?(?:water|solute|pressure)\\s+potential|\\bψ\\s*=\\s*ψ|\\bwater potential\\s*=\\s*solute potential|\\bΨs\\b|\\bΨp\\b",
+    "source": {
+     "printed_page": 9,
+     "topic": "2.3.2",
+     "quote": "no calculations involving water potential will be set"
+    }
+   },
+   {
+    "construct": "solute potential, pressure potential and osmotic potential as terms",
+    "pattern": "\\b(?:solute|pressure|osmotic)\\s+potential\\b",
+    "source": {
+     "printed_page": 9,
+     "topic": "2.3.2",
+     "quote": "Movement of water should be described in terms of water potential. Knowledge of solute potential is not expected"
+    }
+   },
+   {
+    "construct": "roles of water beyond solvent action, specific heat capacity and latent heat of vaporisation",
+    "pattern": "\\b(?:ice floats|ice is less dense|maximum density|surface tension)\\b",
+    "source": {
+     "printed_page": 11,
+     "topic": "2.4.2",
+     "quote": "limited to solvent action, specific heat capacity and latent heat of vapourisation"
+    }
+   },
+   {
+    "construct": "chloride shift",
+    "pattern": "\\bchloride shift\\b|\\bhamburger shift\\b",
+    "source": {
+     "printed_page": 14,
+     "topic": "2.7.1",
+     "quote": "details of the chloride shift are not required"
+    }
+   },
+   {
+    "construct": "nervous and hormonal control of the heart",
+    "pattern": "\\b(?:vagus nerve|cardiac centre|cardiovascular centre|cardioaccelerator|medulla oblongata)\\b|\\b(?:sympathetic|parasympathetic)\\b[^.]{0,60}\\bheart\\b|\\b(?:adrenaline|noradrenaline|acetylcholine)\\b[^.]{0,60}\\bheart (?:rate|beat)",
+    "source": {
+     "printed_page": 15,
+     "topic": "2.7.2",
+     "quote": "reference should be made to the sinoatrial node, the atrioventricular node and the Purkyne tissue, but not to nervous and hormonal control"
+    }
+   },
+   {
+    "construct": "non-infectious disease examples other than sickle cell anaemia and lung cancer",
+    "pattern": "\\b(?:non-?infectious|not infectious)\\b[^.]{0,80}\\b(?:diabetes|coronary heart disease|scurvy|rickets|kwashiorkor|cystic fibrosis|haemophilia|huntington|osteoporosis)\\b|\\b(?:diabetes|coronary heart disease|scurvy|rickets|kwashiorkor|cystic fibrosis|haemophilia|huntington|osteoporosis)\\b[^.]{0,80}\\b(?:non-?infectious|not infectious)\\b",
+    "source": {
+     "printed_page": 15,
+     "topic": "2.8.1",
+     "quote": "limited to sickle cell anaemia and lung cancer"
+    }
+   },
+   {
+    "construct": "detailed life cycle of the malarial parasite",
+    "pattern": "\\b(?:sporozoites?|merozoites?|gametocytes?|schizonts?|hypnozoites?|oocysts?|trophozoites?|exo-?erythrocytic)\\b",
+    "source": {
+     "printed_page": 15,
+     "topic": "2.8.1",
+     "quote": "a detailed study of the life cycle of the malarial parasite is not required"
+    }
+   },
+   {
+    "construct": "T-lymphocyte types other than T-helper and T-killer cells",
+    "pattern": "\\b(?:regulatory T|suppressor T|T-?regulatory|Tregs?|memory T cells?|gamma-?delta)\\b",
+    "source": {
+     "printed_page": 16,
+     "topic": "2.9.1",
+     "quote": "limited to T-helper cells and T-killer cells"
+    }
+   },
+   {
+    "construct": "chromosome structure beyond DNA, histone proteins, chromatids, centromere and telomeres",
+    "pattern": "\\b(?:kinetochores?|nucleosomes?|euchromatin|heterochromatin|cohesins?|condensins?)\\b",
+    "source": {
+     "printed_page": 18,
+     "topic": "3.1.1",
+     "quote": "limited to DNA, histone proteins, chromatids, centromere and telomeres"
+    }
+   },
+   {
+    "construct": "structural formulae of nucleotides and bases",
+    "pattern": "\\bstructural formulae? of (?:the )?(?:nucleotides?|bases?|purines?|pyrimidines?|adenine|guanine|cytosine|thymine|uracil)\\b|\\bC5H5N5\\b|\\bC4H5N3O\\b|\\bC5H5N5O\\b|\\bC4H4N2O2\\b",
+    "source": {
+     "printed_page": 19,
+     "topic": "3.2.1",
+     "quote": "structural formulae are not required"
+    }
+   }
+  ],
+  "excluded_constructs_stated_by_syllabus": [],
+  "adjacent_topics": [],
+  "excluded_constructs_source": "excluded_constructs are the limits the syllabus states anywhere in the subject, each as the pattern C-11 scans learner-facing text for (curriculum/scope-scan.json): the sentence is Cambridge’s, the pattern is our judgement of what teaching past it looks like, and any match fails the topic. adjacent_topics are not scanned: they name subject matter a neighbouring topic owns. Naming one in passing is fine and often necessary; teaching it here is scope creep."
+ },
+ "required_outputs": {
+  "claim_ledger": true,
+  "content_units": 1,
+  "learning_items": 12,
+  "notes": true
+ },
+ "misconceptions": "curriculum/misconceptions.json (filter on topic_id \"2.5.1\")",
+ "subtype_waivers": [],
+ "item_budget_note": "Set from the generated work order, which is the operative plan. The exposure estimate that seeded it was 12."
+}

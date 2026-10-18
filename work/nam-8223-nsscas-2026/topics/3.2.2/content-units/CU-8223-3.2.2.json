@@ -1,0 +1,280 @@
+{
+ "unit_id": "CU-8223-3.2.2",
+ "title": "Protein synthesis",
+ "objective_ids": [
+  "OBJ-8223-3.2.2-01",
+  "OBJ-8223-3.2.2-02",
+  "OBJ-8223-3.2.2-03",
+  "OBJ-8223-3.2.2-04",
+  "OBJ-8223-3.2.2-05",
+  "OBJ-8223-3.2.2-06",
+  "OBJ-8223-3.2.2-07"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_process",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 1930,
+  "target": 2350,
+  "max": 2770
+ },
+ "blocks": [
+  {
+   "block_id": "3.2.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "How a gene codes for a polypeptide, the features of the genetic code, how transcription and translation use the information in DNA with the help of mRNA, tRNA and ribosomes, how gene mutations by substitution, insertion and deletion change the polypeptide, how the HbA and HbS alleles of the beta-globin gene differ, and how to design and make a model of RNA that contrasts with a model of DNA.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "b5b314c80707a452ed5300b3cf5d55787e6407b5ffc90cdd81b11ff620464c79"
+  },
+  {
+   "block_id": "3.2.2-b2",
+   "block_type": "plain_explanation",
+   "heading": "Genes and polypeptides",
+   "text": "A polypeptide is a chain of amino acids joined by peptide bonds. A protein consists of one or more polypeptides, and its properties depend on the order of its amino acids. That order is not left to chance: it is coded for by a gene. A gene is a sequence of nucleotides that forms part of a DNA molecule. One DNA molecule in a chromosome carries many genes, with stretches of other DNA between them.\n\nEach nucleotide carries one of four bases: adenine (A), thymine (T), guanine (G) or cytosine (C). The order of these bases along the gene is the information. A different order of bases can code for a different order of amino acids, and so for a different polypeptide. The haemoglobin beta-globin polypeptide has 146 amino acids. Each amino acid needs three bases, so the part of its gene that codes for amino acids has 146 × 3 = 438 bases, and a stop signal adds three more.",
+   "claim_ids": [
+    "CLM-8223-3.2.2-001",
+    "CLM-8223-3.2.2-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.2.2-001": 1,
+    "CLM-8223-3.2.2-002": 1
+   },
+   "authored_hash": "c64895c0ec08248e5ba530945bb9b26673218110eeafae6201828c058d14b3bf"
+  },
+  {
+   "block_id": "3.2.2-b3",
+   "block_type": "plain_explanation",
+   "heading": "The features of the genetic code",
+   "text": "The genetic code is the set of rules that links the order of bases in a gene to the order of amino acids in a polypeptide. It has the following features.\n\nIt is a triplet code: three consecutive bases code for one amino acid. Four bases taken three at a time give 4 × 4 × 4 = 64 possible triplets. That is more than enough for the 20 amino acids, whereas pairs of bases would give only 4 × 4 = 16, which is too few. A group of three bases on mRNA that codes for one amino acid is called a codon. A stretch of 300 bases in which all the codons code for amino acids therefore codes for 300 ÷ 3 = 100 amino acids.\n\nIt is degenerate: most amino acids are coded for by more than one codon. For example, GAA and GAG both code for glutamic acid. Of the 64 codons, 61 code for amino acids and three are stop codons, so the code has more codons than it needs.\n\nIt is non-overlapping: each base belongs to one codon, because the mRNA is read three bases at a time from a fixed starting point.\n\nIt is almost universal: the same codons code for the same amino acids in nearly all organisms, with a few small exceptions, such as in some mitochondria. This is why a gene from one species can often be made to work in another.\n\nThere are also start and stop signals. AUG codes for methionine and is the usual start codon. UAA, UAG and UGA are stop codons: they code for no amino acid and end translation. On mRNA the code is written with U in place of T.",
+   "claim_ids": [
+    "CLM-8223-3.2.2-003",
+    "CLM-8223-3.2.2-004",
+    "CLM-8223-3.2.2-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.2.2-003": 1,
+    "CLM-8223-3.2.2-004": 1,
+    "CLM-8223-3.2.2-005": 1
+   },
+   "authored_hash": "b0543d2594c7b722bd5aa7efa3838447db06204c654dc08f18ec1ca0202f97b0"
+  },
+  {
+   "block_id": "3.2.2-b4",
+   "block_type": "process",
+   "heading": "Transcription: making mRNA",
+   "text": "Transcription is the making of mRNA from the template strand of a gene, using RNA nucleotides. This account is for a cell with a nucleus. The DNA stays in the nucleus, but polypeptides are made at ribosomes in the cytoplasm, so a messenger is needed to carry the information from the gene to the ribosome. That messenger is messenger RNA (mRNA).\n\nFirst, the enzyme RNA polymerase attaches at the start of the gene. Over a short length the two DNA strands separate, because the hydrogen bonds between the base pairs break. One of the two strands, the template strand, acts as the pattern. Then free RNA nucleotides pair with the exposed bases of the template strand by complementary base pairing. A in DNA pairs with U in RNA, T pairs with A, C pairs with G and G pairs with C. RNA polymerase joins the neighbouring RNA nucleotides into a single strand as it moves along the gene. Finally the mRNA is released, the two DNA strands come back together, and the mRNA leaves the nucleus through a nuclear pore and goes to a ribosome.\n\nIn this topic a template strand is written so that it lines up under the mRNA being made, with the mRNA read from left to right. The result is mRNA that is complementary to the template strand. It has the same base order as the other DNA strand, except that U replaces T. For example, the template triplets TAC TGA GGA give the mRNA codons AUG ACU CCU.",
+   "claim_ids": [
+    "CLM-8223-3.2.2-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.2.2-006": 1
+   },
+   "authored_hash": "7ea33d61d88a499acee1571576c95096b99b35696cc349fb84ed4167f8c77294"
+  },
+  {
+   "block_id": "3.2.2-b5",
+   "block_type": "process",
+   "heading": "Translation at the ribosome",
+   "text": "Translation is the making of a polypeptide at a ribosome, in the order of the codons on mRNA. Messenger RNA, transfer RNA and the ribosome all take part.\n\nMessenger RNA (mRNA) carries the code of a gene as a series of codons. Transfer RNA (tRNA) is a single strand folded into a compact shape. At one end it has an anticodon, three bases complementary to a codon. At the other end it carries one particular amino acid, the one that the codon complementary to its anticodon codes for. A ribosome is made of ribosomal RNA and protein and has a small and a large subunit. It holds the mRNA and two tRNA molecules at a time, and it joins the amino acids with peptide bonds.\n\nThe steps run in order. First, the mRNA binds to a ribosome in the cytoplasm, and the ribosome moves to the start codon AUG. Then a tRNA with the complementary anticodon UAC pairs with AUG by hydrogen bonds between the bases, and it brings methionine. A second tRNA pairs with the next codon, so two amino acids lie side by side, and the ribosome joins them with a peptide bond. The first tRNA is released to collect another amino acid, and the ribosome moves along the mRNA by one codon. These steps repeat and the chain lengthens. At a stop codon no tRNA pairs, so the polypeptide is released. The result is a polypeptide whose amino acid order was set by the codon order, which was set by the base order of the gene.",
+   "claim_ids": [
+    "CLM-8223-3.2.2-007",
+    "CLM-8223-3.2.2-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.2.2-007": 1,
+    "CLM-8223-3.2.2-008": 1
+   },
+   "authored_hash": "93cc18c902154f83bc6c84e9530424def75eb205db08a5fc4a9036908766730f"
+  },
+  {
+   "block_id": "3.2.2-b6",
+   "block_type": "misconception",
+   "heading": "Codon, anticodon and amino acid",
+   "text": "These three terms are easily confused, and they are not the same thing. A codon is three bases on mRNA. An anticodon is three bases on a tRNA molecule, complementary to the codon. An amino acid is not a set of bases at all: it is the molecule carried at the other end of the tRNA. For the codon GAG, the anticodon is CUC and the amino acid is glutamic acid. An anticodon is therefore never the same as its codon: where the codon has G, the anticodon has C.\n\nA quick test is to ask which of the three sits on mRNA, which sits on tRNA, and which one is carried. The codon sits on mRNA, the anticodon sits on tRNA and the amino acid is carried.",
+   "claim_ids": [
+    "CLM-8223-3.2.2-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.2.2-009": 1
+   },
+   "authored_hash": "07576e457808589ab5c39993de2cc1e2e9c9bd6b4301a9a4e5da891f882d3900"
+  },
+  {
+   "block_id": "3.2.2-b7",
+   "block_type": "misconception",
+   "heading": "mRNA is not a copy of the DNA",
+   "text": "It is common to read that mRNA is a copy of the gene. This is misleading, because the mRNA is built from RNA nucleotides that pair with the template strand, so it is complementary to the template strand and not a copy of it. For the template triplet TAC the mRNA codon is AUG, which is not the same sequence.\n\nTranscription is also not replication and not translation. Replication makes new DNA from DNA nucleotides. Translation makes a polypeptide from amino acids. A quick test is to ask what the product is, DNA, RNA or protein, and what it is built from. In transcription the product is RNA, built from RNA nucleotides.",
+   "claim_ids": [
+    "CLM-8223-3.2.2-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.2.2-006": 1
+   },
+   "authored_hash": "3b3fb777fe059c9386bec8b46ee5bd114a075e93e0f619d334e25f9c8e3b106c"
+  },
+  {
+   "block_id": "3.2.2-b8",
+   "block_type": "plain_explanation",
+   "heading": "Gene mutations",
+   "text": "A gene mutation is a change in the sequence of nucleotides in a gene. It can arise by chance, for example as a mistake when DNA is replicated. A change in the gene changes the mRNA made from it, so it can change one or more codons, and so a gene mutation may result in an altered polypeptide.\n\nThe polypeptide may not change. Because the code is degenerate, a changed codon may still code for the same amino acid. A change may also lie in DNA that is not part of a gene. When the polypeptide does change, the shape of the protein may change, and with it the way the protein works.",
+   "claim_ids": [
+    "CLM-8223-3.2.2-010",
+    "CLM-8223-3.2.2-011"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.2.2-010": 1,
+    "CLM-8223-3.2.2-011": 1
+   },
+   "authored_hash": "5d00a6f99506ae68661d9f71a7b25aa7ba98445a5bbbdbb88534b4ba2087b523"
+  },
+  {
+   "block_id": "3.2.2-b9",
+   "block_type": "plain_explanation",
+   "heading": "Substitution, insertion and deletion",
+   "text": "A gene mutation occurs by one of three changes to base pairs in DNA: substitution, insertion or deletion.\n\nIn a substitution one base pair is replaced by a different base pair. At most one codon changes. The result may be the same amino acid, which is called a silent mutation. It may be a different amino acid, a missense mutation. Or it may be a stop codon in place of an amino acid, a nonsense mutation, which shortens the polypeptide.\n\nIn an insertion an extra base pair is added, and in a deletion a base pair is removed. The codons are read in threes from the start, so adding or removing one base pair shifts the groups of three that come after it. This is a frameshift. Each codon after the change is made of a different set of three bases, so the amino acids from that point on generally change, and a stop codon may appear early. The polypeptide is usually very different and often does not work.\n\nThe effect is smaller if a whole codon, three base pairs, is inserted or deleted at a codon boundary. The frame is kept, so one amino acid is added or lost and the other amino acids are unchanged.",
+   "claim_ids": [
+    "CLM-8223-3.2.2-012",
+    "CLM-8223-3.2.2-013",
+    "CLM-8223-3.2.2-014"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.2.2-012": 1,
+    "CLM-8223-3.2.2-013": 1,
+    "CLM-8223-3.2.2-014": 1
+   },
+   "authored_hash": "81772948d2713a56da1b9b3c963fbf80ea5aaf9b330eca67443bfa8574fc822a"
+  },
+  {
+   "block_id": "3.2.2-b10",
+   "block_type": "worked_application",
+   "heading": "Worked example: changes to a gene fragment",
+   "text": "Take a short invented gene fragment. The mRNA made from the normal allele is AUG ACU CCU GAG AAG UUU UAA. The codon table gives AUG as methionine (Met), ACU as threonine (Thr), CCU as proline (Pro), GAG as glutamic acid (Glu), AAG as lysine (Lys), UUU as phenylalanine (Phe) and UAA as stop. The polypeptide is Met-Thr-Pro-Glu-Lys-Phe, six amino acids. The template triplets that made this mRNA are TAC TGA GGA CTC TTC AAA ATT.\n\nCase 1, a silent substitution. GAG changes to GAA. Both code for Glu, so the polypeptide is unchanged. Case 2, a missense substitution. GAG changes to GUG, which codes for valine (Val). The polypeptide is Met-Thr-Pro-Val-Lys-Phe, still six amino acids with one different. Case 3, a nonsense substitution. AAG changes to UAG, a stop codon. Translation ends after Met-Thr-Pro-Glu, four amino acids.\n\nCase 4, a deletion. The first G of GAG is lost, so the codons after CCU read AGA AGU UUU AA. The codon AGA codes for arginine (Arg) and AGU for serine (Ser), so the polypeptide becomes Met-Thr-Pro-Arg-Ser-Phe followed by an incomplete codon. From the fourth amino acid on the sequence has changed, and the Phe stays the same by chance. Case 5, an insertion. An extra U is added after CCU, so the codons read AUG ACU CCU UGA GAA GUU UUA A. UGA is a stop codon, so the polypeptide is only Met-Thr-Pro. Case 6, an insertion of a whole codon. The codon GGU, which codes for glycine (Gly), is inserted after CCU. The mRNA reads AUG ACU CCU GGU GAG AAG UUU UAA and the polypeptide is Met-Thr-Pro-Gly-Glu-Lys-Phe, with one extra amino acid and the rest unchanged.",
+   "claim_ids": [
+    "CLM-8223-3.2.2-011",
+    "CLM-8223-3.2.2-012",
+    "CLM-8223-3.2.2-013",
+    "CLM-8223-3.2.2-014"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.2.2-011": 1,
+    "CLM-8223-3.2.2-012": 1,
+    "CLM-8223-3.2.2-013": 1,
+    "CLM-8223-3.2.2-014": 1
+   },
+   "authored_hash": "688429aa9f75c3944827bb96491a706bc937426b71e9eada9e9b641fb52949ec"
+  },
+  {
+   "block_id": "3.2.2-b11",
+   "block_type": "worked_application",
+   "heading": "HbA and HbS: from a base to an amino acid",
+   "text": "Haemoglobin contains four polypeptides, two alpha and two beta. The gene for the beta-globin polypeptide has two alleles of interest here, HbA (normal) and HbS (sickle cell). They differ by the substitution of one base pair.\n\nTake a short stretch from the middle of the gene. In the HbA allele the template strand reads TGA GGA CTC CTC TTC. The mRNA is therefore ACU CCU GAG GAG AAG. The tRNA anticodons that pair with these codons are UGA GGA CUC CUC UUC, each matching the template triplet except that U replaces T. The codons code for Thr, Pro, Glu, Glu and Lys, so this stretch of the polypeptide is Thr-Pro-Glu-Glu-Lys.\n\nIn the HbS allele the third template triplet is CAC in place of CTC, so a T-A base pair has been replaced by an A-T base pair. The mRNA codon changes from GAG to GUG, the anticodon pairing with it is CAC, and the amino acid carried is valine, not glutamic acid. The stretch becomes Thr-Pro-Val-Glu-Lys. In the real polypeptide the changed amino acid is the sixth from the start of the chain, which is the third amino acid in this short stretch.\n\nThis one amino acid change matters because haemoglobin is a protein. The valine in HbS makes the haemoglobin molecules tend to stick together into long fibres when the oxygen concentration is low. The fibres distort the red blood cell into a sickle shape. The disease sickle cell anaemia is covered in 2.8.1; here the point is the chain of events from one base pair to one amino acid.",
+   "claim_ids": [
+    "CLM-8223-3.2.2-015",
+    "CLM-8223-3.2.2-016",
+    "CLM-8223-3.2.2-017",
+    "CLM-8223-3.2.2-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.2.2-015": 1,
+    "CLM-8223-3.2.2-016": 1,
+    "CLM-8223-3.2.2-017": 1,
+    "CLM-8223-3.2.2-009": 1
+   },
+   "authored_hash": "dd720bf9a0698f5a717d9e3f15cf875382b91d8b63efaeb441c464f29c9a83dd"
+  },
+  {
+   "block_id": "3.2.2-b12",
+   "block_type": "process",
+   "heading": "Making a model of RNA to contrast with DNA",
+   "text": "A model shows the features of a molecule in a form that can be handled. To contrast RNA with DNA, the RNA model must show what is different. RNA, for example mRNA, has one polynucleotide strand, the sugar ribose in place of deoxyribose, and the base uracil in place of thymine. DNA has two strands paired by complementary bases, the sugar deoxyribose and the base thymine.\n\nPlan the model before building it. Choose materials that can be joined, such as card shapes and string, coloured beads on wire, or paper clips. Decide a colour code: one piece for phosphate, one for ribose, and a different colour for each of the four bases A, U, G and C. There is no thymine piece. First, join one phosphate, one ribose and one base into a nucleotide. Then join a series of nucleotides, for example twelve with the bases AUG ACU CCU GAG, through the phosphate and sugar to form one backbone. The result is a single strand, with the bases pointing out. Finally, label the pieces and place the model beside the DNA model, which has two strands, deoxyribose and thymine pieces, to compare the number of strands, the sugar and the base uracil.\n\nThe model can also be used to see transcription: pairing RNA nucleotide pieces against a DNA template strand gives A paired with U. A model does not show how the molecule works, and its pieces are not to scale, so it is a way to see structure and not a way to see function.",
+   "claim_ids": [
+    "CLM-8223-3.2.2-018",
+    "CLM-8223-3.2.2-019"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-3.2.2-018": 1,
+    "CLM-8223-3.2.2-019": 1
+   },
+   "authored_hash": "3bf9e24f9f310fc426db9dcfb90e84b033111961cc1cd028633de8621e2e1e3d"
+  },
+  {
+   "block_id": "3.2.2-b13",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "The nucleotide, complementary base pairing and the structure of DNA are taught in 3.2.1, Structure and replication of DNA. Amino acids, peptide bonds and the way a polypeptide folds into a protein are taught in 2.4.2, Proteins and water. The nucleus, the nuclear pore and the ribosome are described in 2.2, Cell structure. Sickle cell anaemia as a disease is described in 2.8.1, Infectious disease, and the way a change in a protein changes an enzyme is developed in 2.5.1, Mode of action of enzymes.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "92a5035364945e3d3b14bf710909db25c8670caf1a7e8db4db0ef13759907b7e"
+  }
+ ],
+ "word_count": 2538,
+ "qa_status": "review_required",
+ "notes": [
+  "Authored for 8223 topic 3.2.2. Codon table entries relied on are listed in the claim notes."
+ ]
+}

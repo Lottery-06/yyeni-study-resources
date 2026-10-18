@@ -1,0 +1,789 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-2.10.1",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-2.10.1-001",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-01"
+   ],
+   "text": "Air enters through the nose or mouth, passes down the pharynx and larynx into the trachea, and the trachea divides into two bronchi, one entering each lung. Each bronchus branches into smaller bronchi and then bronchioles, and each bronchiole ends in a cluster of alveoli.",
+   "claim_type": "factual",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, gross structure of the gas exchange system",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-002",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-01"
+   ],
+   "text": "The lungs lie in the thorax, protected by the ribcage, with the diaphragm forming the floor of the cavity. Each lung is enclosed by two pleural membranes with a thin film of pleural fluid between them, which lets the lung surface slide against the chest wall without friction as the lungs expand and recoil.",
+   "claim_type": "factual",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, gross structure of the gas exchange system",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked).",
+    "Pleural membranes and the diaphragm are taught as part of gross structure; the syllabus line does not list them, so this claim rests on standard biology."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-003",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-01",
+    "OBJ-8223-2.10.1-08"
+   ],
+   "text": "The two human lungs contain roughly 300 million to 500 million alveoli, each a tiny air sac wrapped in a network of capillaries. Together they give a gas exchange surface of roughly 70 m², a very large surface area in a small volume.",
+   "claim_type": "factual",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, gross structure; gas exchange between alveolar air and blood",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked).",
+    "Figures are approximate textbook values and vary between sources and individuals; verification_state: single_source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-004",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-02"
+   ],
+   "text": "In a dissection of a mammal's lungs, the trachea is first examined from outside, where it feels ridged and firm, then cut open along its length and followed to the point where it divides into two bronchi. A bronchus is then cut along into the lung to see it divide into smaller tubes, and a slice of lung tissue shows many small air spaces.",
+   "claim_type": "procedural",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, investigate and observe the gross structure of lungs of a sheep or other mammal",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-005",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-02"
+   ],
+   "text": "A piece of fresh lung tissue from a mammal that has breathed floats in water, because its alveoli and airways hold air, which makes the piece less dense than water.",
+   "claim_type": "causal",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, investigate and observe the gross structure of lungs",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked).",
+    "Standard biology. A piece that has been squeezed or has taken in water may float low or sink, so the claim is about fresh tissue."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-006",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-02"
+   ],
+   "text": "Raw animal tissue can carry microbes, so a dissection is done wearing gloves, on a tray, with the scalpel or scissors cut away from the body, and the hands, tray and instruments are washed and disinfected afterwards.",
+   "claim_type": "procedural",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, dissection of lungs (practical context)",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked).",
+    "Safety practice is standard laboratory practice; the syllabus line does not state it."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-007",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-02",
+    "OBJ-8223-2.10.1-07"
+   ],
+   "text": "A mammal's lung inflated gently through its trachea, for example with a clean pump or tube, stretches as air enters and shrinks back when it is released, which shows that the lung contains elastic tissue.",
+   "claim_type": "factual",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, gross structure of lungs; functions of elastic fibres",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked).",
+    "Demonstration used in many schools. Damaged specimens may not inflate; verification_state: single_source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-008",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-03"
+   ],
+   "text": "Cartilage in the trachea is C-shaped rings, with the open part of each C at the back against the oesophagus. In the bronchi it is irregular plates, which are smaller and fewer in the smaller bronchi, and it is absent from the bronchioles and the alveoli.",
+   "claim_type": "factual",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, distribution of cartilage",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked).",
+    "The prompt for this topic asks for rings in the trachea, plates in the bronchi and none in bronchioles; this matches standard histology. Plates thin out gradually in the smaller bronchi, which is why the claim says smaller and fewer."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-009",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-03",
+    "OBJ-8223-2.10.1-06"
+   ],
+   "text": "Ciliated epithelium lines the trachea, the bronchi and the larger bronchioles. Goblet cells lie among the ciliated cells in the trachea and bronchi and become fewer in the bronchioles, and mucous glands lie in the wall beneath the lining of the trachea and bronchi. The alveoli have neither ciliated cells nor goblet cells.",
+   "claim_type": "factual",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, distribution of ciliated epithelium; functions of ciliated epithelial cells, goblet cells and mucous glands",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked).",
+    "Standard biology: the syllabus names ciliated epithelium but not the gradual loss of goblet cells and glands towards the bronchioles. The claim follows histology texts, which describe goblet cells and glands as sparse or absent in the smallest bronchioles."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-010",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-03"
+   ],
+   "text": "Smooth muscle joins the open ends of the C-shaped cartilage at the back of the trachea and forms a layer in the walls of the bronchi and bronchioles, where it is relatively thicker in the bronchioles. Elastic fibres lie in the walls of the trachea, bronchi, bronchioles and alveoli.",
+   "claim_type": "factual",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, distribution of smooth muscle",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked).",
+    "Elastic fibres are listed with the functions objective but their distribution follows naturally; standard histology."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-011",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-03",
+    "OBJ-8223-2.10.1-04"
+   ],
+   "text": "Squamous epithelium is an epithelium made of a single layer of very flat cells. It forms the wall of each alveolus, which is surrounded by a dense network of capillaries, so the alveolar wall and the capillary wall lie against each other.",
+   "claim_type": "definition",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, distribution of squamous epithelium of alveoli and capillaries",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked).",
+    "An epithelium is a tissue of closely packed cells that covers a surface or lines a tube or cavity."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-012",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-04"
+   ],
+   "text": "In sections, cartilage has a smooth, glassy-looking pale matrix with scattered rounded cells each in its own small space. Smooth muscle is made of long spindle-shaped cells, each with one central nucleus and no stripes, packed in bundles.",
+   "claim_type": "factual",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, recognise cartilage and smooth muscle in microscope slides and micrographs",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-013",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-04"
+   ],
+   "text": "Ciliated epithelium is a layer of tall column-shaped cells with hair-like cilia on the free surface and nuclei in a line near the base. Goblet cells between them are paler and swollen.",
+   "claim_type": "factual",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, recognise ciliated epithelium in micrographs",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-014",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-04"
+   ],
+   "text": "A capillary in section is a small round or oval space about 7 µm wide, just wide enough for a red blood cell, with a wall one flat cell thick. Squamous epithelium of an alveolus is a very thin line of flat cells with flattened nuclei, and together the alveolar and capillary walls are less than 1 µm thick.",
+   "claim_type": "factual",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, recognise capillaries and squamous epithelium of alveoli in micrographs",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked).",
+    "Dimensions are typical textbook values; verification_state: single_source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-015",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-05"
+   ],
+   "text": "In transverse section the trachea has a large round lumen with a flat back, a single C-shaped ring of cartilage and a band of smooth muscle across the gap. A bronchus has a smaller lumen and its cartilage is separate irregular plates around the lumen, with a layer of smooth muscle inside them. Both are lined by ciliated epithelium with goblet cells and have mucous glands in the wall.",
+   "claim_type": "comparison",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, recognise trachea and bronchi; plan diagrams of transverse sections of the walls of the trachea and bronchus",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-016",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-05"
+   ],
+   "text": "A bronchiole has a small lumen, no cartilage, no mucous glands, a thin lining with few or no goblet cells, and a layer of smooth muscle that often makes the lining look folded. Alveoli appear as many thin-walled air spaces packed together like a honeycomb, each wall one flat cell thick and containing capillaries, with no cartilage or smooth muscle.",
+   "claim_type": "comparison",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, recognise bronchioles and alveoli",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-017",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-05"
+   ],
+   "text": "A plan diagram shows the outlines of tissues, drawn with clear continuous lines and no individual cells, with a title, the magnification and labels joined to the structures by ruled lines. A plan diagram of the wall of the trachea shows the lumen, the lining, the glands, the cartilage and the muscle in their correct positions.",
+   "claim_type": "procedural",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, make plan diagrams of transverse sections of the walls of the trachea and bronchus",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked).",
+    "Manipulation of the microscope and drawing are earned at the bench."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-018",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-06"
+   ],
+   "text": "Goblet cells and mucous glands secrete mucus onto the lining of the airways. The mucus is sticky and traps dust particles and microbes in the air that is breathed in.",
+   "claim_type": "causal",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, functions of goblet cells and mucous glands",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-019",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-06"
+   ],
+   "text": "The cilia of the ciliated epithelial cells beat in a coordinated way, which moves the mucus, with the dust and microbes trapped in it, along the airway towards the throat, where it is swallowed or coughed out. This reduces the number of microbes and particles that reach the alveoli.",
+   "claim_type": "causal",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, functions of ciliated epithelial cells",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked).",
+    "Swallowed mucus meets stomach acid; coughing also expels it. Stated as a tendency because the amount cleared varies."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-020",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-06"
+   ],
+   "text": "Mucus traps dust and microbes and does not move itself; the beating cilia of the ciliated epithelial cells move the mucus along. Saying that mucus sweeps dust out of the airway confuses which structure traps and which structure moves.",
+   "claim_type": "misconception_correction",
+   "provenance": "source_corrected",
+   "evidence": [
+    {
+     "source_id": "EV-8223-2025-P2-Q2a-ii",
+     "locator": "candidate statement recorded in the examiner report",
+     "support_type": "correction"
+    },
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, functions of ciliated epithelial cells, goblet cells and mucous glands",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked).",
+    "Misconception entry MC-8223-2.10.1-02. Test: which one moves, and which one traps?"
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-021",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-07"
+   ],
+   "text": "Cartilage supports the wall of the trachea and bronchi and holds them open, so that the airway does not collapse when the air pressure inside falls during breathing in. The gap in each C-shape, closed by smooth muscle, lets the oesophagus behind the trachea bulge slightly as food is swallowed.",
+   "claim_type": "causal",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, function of cartilage",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked).",
+    "The oesophagus point is the standard textbook explanation of the C shape; verification_state: single_source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-022",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-07"
+   ],
+   "text": "Smooth muscle in the airway wall contracts to narrow the lumen, which reduces the flow of air, and relaxes to widen it, which allows more air to flow.",
+   "claim_type": "causal",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, function of smooth muscle",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-023",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-07"
+   ],
+   "text": "Elastic fibres in the alveolar walls stretch as air enters the alveoli when breathing in and recoil when breathing out, which returns the alveoli to their smaller size and helps push air out. The fibres do not hold the alveoli open.",
+   "claim_type": "misconception_correction",
+   "provenance": "source_corrected",
+   "evidence": [
+    {
+     "source_id": "EV-8223-2021-P2-Q4a-iii",
+     "locator": "candidate statement recorded in the examiner report",
+     "support_type": "correction"
+    },
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, function of elastic fibres",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked).",
+    "Misconception entry MC-8223-2.10.1-01. Where the syllabus wording is only 'function of elastic fibres' and a common answer says the fibres stop the alveoli collapsing, the claim follows the biology: the alveoli are held open by the air inside them, and the fibres supply recoil. Test: what do the fibres do on inhaling and on exhaling?"
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-024",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-07",
+    "OBJ-8223-2.10.1-08"
+   ],
+   "text": "The alveolar wall and the capillary wall are each one flat cell thick, so oxygen and carbon dioxide have a very short distance to diffuse and the exchange is fast. The surface of the alveolus is lined by a thin film of moisture in which the gases dissolve.",
+   "claim_type": "causal",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, function of squamous epithelium; gas exchange between alveolar air and blood",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-025",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-08"
+   ],
+   "text": "Oxygen dissolves in the film of moisture lining the alveolus, diffuses down its concentration gradient across the alveolar wall and the capillary wall into the blood, and enters the red blood cells. Carbon dioxide diffuses the other way, from the blood, where its concentration is higher, into the alveolar air, to be breathed out.",
+   "claim_type": "causal",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, gas exchange between air in the alveoli and the blood in the capillaries",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked)."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.10.1-026",
+   "objective_ids": [
+    "OBJ-8223-2.10.1-08"
+   ],
+   "text": "Breathing replaces the air in the alveoli with fresh air, which keeps the concentration of oxygen in the alveolar air higher than in the blood and removes carbon dioxide. Blood flowing through the capillaries carries oxygen away and brings carbon dioxide, so the concentration gradients for both gases stay steep.",
+   "claim_type": "causal",
+   "provenance": "source_derived",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.17, topic 2.10.1, gas exchange between air in the alveoli and the blood in the capillaries",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for 8223 topic 2.10.1: single source, our own statement of standard biology consistent with the syllabus line cited. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (our own statement of standard biology consistent with syllabus 2.10.1, p.17; no second source checked)."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,426 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-2.1",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-2.1-001",
+   "objective_ids": [
+    "OBJ-8223-2.1-01"
+   ],
+   "text": "A light microscope forms an image with visible light focused by glass lenses (objective then eyepiece); it can be used on living or stained specimens and gives a colour image, but its resolution is limited to about 0.2 µm (200 nm), so useful magnification stops at about ×1500.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.7, sub-topic 2.1, objective 1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for the 8223 NSSCAS Biology resource under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. unverified single-source; resolution and magnification limits are standard textbook values, approximate."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.1-002",
+   "objective_ids": [
+    "OBJ-8223-2.1-01"
+   ],
+   "text": "An electron microscope forms an image with a beam of electrons focused by electromagnets in a vacuum; because the wavelength of an electron beam is far shorter than that of visible light it resolves far smaller structures, but the image is black and white and the specimen is dead and prepared (dehydrated, fixed and treated with heavy metals).",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.7, sub-topic 2.1, objective 1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for the 8223 NSSCAS Biology resource under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. unverified single-source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.1-003",
+   "objective_ids": [
+    "OBJ-8223-2.1-01"
+   ],
+   "text": "In a transmission electron microscope the beam passes through a very thin section and gives a two-dimensional image of the internal structure, with a resolution of the order of 1 nm; in a scanning electron microscope the beam scans the metal-coated surface and gives a three-dimensional image of the outer surface, with a lower resolution of the order of several nanometres.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.7, sub-topic 2.1, objective 1",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for the 8223 NSSCAS Biology resource under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.75
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. unverified single-source; the nanometre figures are approximate orders of magnitude and are left for a second source to confirm."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.1-004",
+   "objective_ids": [
+    "OBJ-8223-2.1-01"
+   ],
+   "text": "A scanning electron micrograph shows the outer surface of a specimen in three dimensions, not its interior; a transmission electron micrograph shows the interior of a thin section in two dimensions. The test is whether the micrograph shows a surface or an interior.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.7, sub-topic 2.1, objective 1",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "MISCON-NAM-NSSCAS-8223",
+     "locator": "entry MC-8223-2.1-02",
+     "support_type": "correction"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for the 8223 NSSCAS Biology resource under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. unverified single-source; corrects the register entry MC-8223-2.1-02."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.1-005",
+   "objective_ids": [
+    "OBJ-8223-2.1-02"
+   ],
+   "text": "Magnification is how many times larger the image is than the real object; resolution is the smallest distance at which two points can still be seen as separate, and it is a property of the microscope.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.7, sub-topic 2.1, objective 2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for the 8223 NSSCAS Biology resource under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. unverified single-source; wording follows the glossary entries for magnification and resolution."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.1-006",
+   "objective_ids": [
+    "OBJ-8223-2.1-02"
+   ],
+   "text": "Resolution is set mainly by the wavelength of the radiation used: the shorter the wavelength, the smaller the distance between two points that can still be seen as separate, which is why an electron microscope (about 1 nm) resolves far finer detail than a light microscope (about 200 nm).",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.7, sub-topic 2.1, objective 2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for the 8223 NSSCAS Biology resource under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. unverified single-source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.1-007",
+   "objective_ids": [
+    "OBJ-8223-2.1-02"
+   ],
+   "text": "Enlarging an image further, for example by photocopying a photomicrograph, raises the magnification but not the resolution: structures already blurred together stay blurred, so no more detail is revealed (empty magnification). It is the microscope, not the image, that has a resolution.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.7, sub-topic 2.1, objective 2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "MISCON-NAM-NSSCAS-8223",
+     "locator": "entry MC-8223-2.1-01",
+     "support_type": "correction"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for the 8223 NSSCAS Biology resource under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. unverified single-source; corrects the register entry MC-8223-2.1-01."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.1-008",
+   "objective_ids": [
+    "OBJ-8223-2.1-03"
+   ],
+   "text": "1 mm = 1000 µm, 1 µm = 1000 nm and so 1 mm = 1 000 000 nm; multiply by 1000 to move to the next smaller unit and divide by 1000 to move to the next larger.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.7, sub-topic 2.1, objective 3",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for the 8223 NSSCAS Biology resource under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.95
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. arithmetic definition of the units."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.1-009",
+   "objective_ids": [
+    "OBJ-8223-2.1-03"
+   ],
+   "text": "An eyepiece graticule has divisions of no fixed size, so it is calibrated for each objective against a stage micrometer, a slide with a scale of known length: the two scales are lined up and the number of graticule divisions matching a known stage length is read.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.7, sub-topic 2.1, objective 3",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for the 8223 NSSCAS Biology resource under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. unverified single-source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.1-010",
+   "objective_ids": [
+    "OBJ-8223-2.1-03"
+   ],
+   "text": "Length of one eyepiece division = known length on the stage micrometer ÷ number of graticule divisions matching it; the length of a specimen = number of divisions it spans × length of one division, and the calibration holds only for the objective used to find it.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.7, sub-topic 2.1, objective 3",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for the 8223 NSSCAS Biology resource under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. unverified single-source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.1-011",
+   "objective_ids": [
+    "OBJ-8223-2.1-04"
+   ],
+   "text": "Actual size = image size ÷ magnification, with the image size and the actual size expressed in the same unit before the division; the image may be a drawing, a photomicrograph or an electron micrograph.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.7, sub-topic 2.1, objective 4",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for the 8223 NSSCAS Biology resource under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.95
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. arithmetic definition."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.1-012",
+   "objective_ids": [
+    "OBJ-8223-2.1-04"
+   ],
+   "text": "To find an actual size, measure the length of the image with a ruler, convert it to the unit wanted (multiply mm by 1000 for µm), divide by the magnification and give the answer with its unit, millimetres, micrometres or nanometres.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.7, sub-topic 2.1, objective 4",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for the 8223 NSSCAS Biology resource under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. unverified single-source."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.1-013",
+   "objective_ids": [
+    "OBJ-8223-2.1-05"
+   ],
+   "text": "Linear magnification = image size ÷ actual size, with both lengths in the same unit; it is a ratio with no unit, written as ×600. When a scale bar is printed, magnification = measured length of the bar ÷ the length the bar is labelled as, in the same unit.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.7, sub-topic 2.1, objective 5",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for the 8223 NSSCAS Biology resource under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.95
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. arithmetic definition."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.1-014",
+   "objective_ids": [
+    "OBJ-8223-2.1-05"
+   ],
+   "text": "The total magnification of a light microscope is the eyepiece magnification multiplied by the objective magnification (×10 eyepiece and ×40 objective give ×400); quoting just one lens, or adding the two, is an error.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "p.7, sub-topic 2.1, objective 5",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "MISCON-NAM-NSSCAS-8223",
+     "locator": "entry MC-8223-2.1-03",
+     "support_type": "correction"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for the 8223 NSSCAS Biology resource under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus line cited, no second source checked. Requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. unverified single-source; corrects the register entry MC-8223-2.1-03."
+   ]
+  }
+ ]
+}

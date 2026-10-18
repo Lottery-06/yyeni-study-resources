@@ -1,0 +1,469 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-5.3",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-5.3-001",
+   "objective_ids": [
+    "OBJ-8223-5.3-01"
+   ],
+   "text": "The conversion factor for an area is the square of the factor for length and for a volume it is the cube: 1 cm = 10 mm, so 1 cm² = 100 mm² and 1 cm³ = 1000 mm³; 1 mm = 1000 µm, so 1 mm² = 1 000 000 µm² and 1 mm³ = 1 000 000 000 µm³.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus, Annexe C Mathematical requirements (p. 43), line: \"recognise and use the relationship between length, surface area and volume and their units on metric scales\".",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.3 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line cited; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own mathematics). Arithmetic recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.3-002",
+   "objective_ids": [
+    "OBJ-8223-5.3-01"
+   ],
+   "text": "When every length of a shape is multiplied by k and the shape is kept, its surface area is multiplied by k² and its volume by k³; doubling the side of a cube multiplies its surface area by 4 and its volume by 8.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus, Annexe C Mathematical requirements (p. 43), line: \"recognise and use the relationship between length, surface area and volume and their units on metric scales\".",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.3 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line cited; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own mathematics). Arithmetic recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.3-003",
+   "objective_ids": [
+    "OBJ-8223-5.3-01"
+   ],
+   "text": "For two objects of the same shape, the larger has the smaller surface area to volume ratio (for a cube the ratio is 6 ÷ side), so each unit of volume of a larger cell has less surface across which substances can be exchanged.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus, Annexe C Mathematical requirements (p. 43), line: \"recognise and use the relationship between length, surface area and volume and their units on metric scales\".",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.3 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line cited; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own mathematics). Arithmetic recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.3-004",
+   "objective_ids": [
+    "OBJ-8223-5.3-02"
+   ],
+   "text": "Magnification = image size ÷ actual size, so actual size = image size ÷ magnification and image size = actual size × magnification; magnification is a ratio with no unit, written ×600.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus, Annexe C Mathematical requirements (p. 43), line: \"calculate magnifications and actual sizes\".",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.3 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line cited; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own mathematics). Arithmetic recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.3-005",
+   "objective_ids": [
+    "OBJ-8223-5.3-02"
+   ],
+   "text": "The image size and the actual size must be in the same unit before dividing; a length measured in millimetres is changed to micrometres by multiplying by 1000, and the actual size is given with its unit.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus, Annexe C Mathematical requirements (p. 43), line: \"calculate magnifications and actual sizes\".",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.3 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line cited; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own mathematics). Arithmetic recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.3-006",
+   "objective_ids": [
+    "OBJ-8223-5.3-02"
+   ],
+   "text": "With a scale bar, magnification = measured length of the bar ÷ the length the bar is labelled as, both in the same unit; the actual size of any other structure on the image is then its measured length ÷ that magnification.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus, Annexe C Mathematical requirements (p. 43), line: \"calculate magnifications and actual sizes\".",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.3 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line cited; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own mathematics). Arithmetic recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.3-007",
+   "objective_ids": [
+    "OBJ-8223-5.3-03"
+   ],
+   "text": "Area of a rectangle = length × width; area of a triangle = ½ × base × perpendicular height; circumference of a circle = 2πr = πd; area of a circle = πr², where r is the radius, half the diameter d.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus, Annexe C Mathematical requirements (p. 43), line: \"calculate areas of triangles, circumferences and areas of circles and rectangles, surface areas and volumes of cylinders and rectangular blocks\".",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.3 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line cited; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own mathematics). Arithmetic recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.3-008",
+   "objective_ids": [
+    "OBJ-8223-5.3-03"
+   ],
+   "text": "Rectangular block: volume = length × width × height and surface area = 2 × (length × width + length × height + width × height); closed cylinder: volume = πr²h and surface area = 2πr² + 2πrh.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus, Annexe C Mathematical requirements (p. 43), line: \"calculate areas of triangles, circumferences and areas of circles and rectangles, surface areas and volumes of cylinders and rectangular blocks\".",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.3 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line cited; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own mathematics). Arithmetic recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.3-009",
+   "objective_ids": [
+    "OBJ-8223-5.3-03"
+   ],
+   "text": "In a calculation with a circle or cylinder the radius is found by halving the diameter, π is given a stated value such as 3.14, and the answer carries a square unit for an area and a cubic unit for a volume.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus, Annexe C Mathematical requirements (p. 43), line: \"calculate areas of triangles, circumferences and areas of circles and rectangles, surface areas and volumes of cylinders and rectangular blocks\".",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.3 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line cited; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own mathematics). Arithmetic recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.3-010",
+   "objective_ids": [
+    "OBJ-8223-5.3-04"
+   ],
+   "text": "In aⁿ the positive whole number n, the index, shows how many times the base a is multiplied by itself, so 4³ = 4 × 4 × 4 = 64.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus, Annexe C Mathematical requirements (p. 43), line: \"use positive, whole number indices\".",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.3 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line cited; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own mathematics). Arithmetic recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.3-011",
+   "objective_ids": [
+    "OBJ-8223-5.3-04"
+   ],
+   "text": "For positive whole-number indices, aᵐ × aⁿ = aᵐ⁺ⁿ, aᵐ ÷ aⁿ = aᵐ⁻ⁿ when m is greater than n, and (aᵐ)ⁿ = aᵐ×ⁿ; the index belongs to the base written beside it, so 2 × 3² = 2 × 9 = 18.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus, Annexe C Mathematical requirements (p. 43), line: \"use positive, whole number indices\".",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.3 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line cited; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own mathematics). Arithmetic recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.3-012",
+   "objective_ids": [
+    "OBJ-8223-5.3-04"
+   ],
+   "text": "Indices appear in biology as square and cubic units, as powers of ten, and in doubling: from one cell, n divisions in which every cell survives and divides give 2ⁿ cells, so 6 divisions give 2⁶ = 64 cells.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus, Annexe C Mathematical requirements (p. 43), line: \"use positive, whole number indices\".",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.3 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line cited; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own mathematics). Arithmetic recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.3-013",
+   "objective_ids": [
+    "OBJ-8223-5.3-05"
+   ],
+   "text": "Simpson's Index of Diversity is D = 1 − Σ(n/N)², where n is the number of individuals of one species, N the total number of individuals of all species in the sample and Σ the sum over all species; D has no unit. The syllabus annexe typesets the square outside the bracket, which would give D = 0 for any sample, so the working form squares each n/N before adding.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus, Annexe C Mathematical requirements (p. 43), line: \"use Simpson's Index of Diversity (D) to calculate the biodiversity of a habitat\".",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.3 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line cited; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own mathematics). Arithmetic recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.3-014",
+   "objective_ids": [
+    "OBJ-8223-5.3-05"
+   ],
+   "text": "To calculate D: add the counts to find N, divide each count by N, square each result, add the squares, and subtract the total from 1.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus, Annexe C Mathematical requirements (p. 43), line: \"use Simpson's Index of Diversity (D) to calculate the biodiversity of a habitat\".",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.3 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line cited; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own mathematics). Arithmetic recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.3-015",
+   "objective_ids": [
+    "OBJ-8223-5.3-05"
+   ],
+   "text": "D lies between 0 and 1; a value closer to 1 means higher diversity (more species or individuals spread more evenly), a value closer to 0 means one or a few species make up most of the individuals, and a sample of a single species gives D = 0.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus, Annexe C Mathematical requirements (p. 43), line: \"use Simpson's Index of Diversity (D) to calculate the biodiversity of a habitat\".",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.3 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line cited; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own mathematics). Arithmetic recomputed by hand and by the check suite."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-5.3-016",
+   "objective_ids": [
+    "OBJ-8223-5.3-05"
+   ],
+   "text": "Two samples with the same number of species can have different values of D because D depends on how evenly the individuals are spread; D from a sample describes that sample, so it is a fair estimate for a habitat only when the sample is taken at random and is large enough.",
+   "claim_type": "evaluative",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "Syllabus, Annexe C Mathematical requirements (p. 43), line: \"use Simpson's Index of Diversity (D) to calculate the biodiversity of a habitat\".",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 5.3 under standard v0.2.0-draft. Single source: our own statement of standard mathematics and biology consistent with the syllabus line cited; no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.9
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source (syllabus line restated; own mathematics). Arithmetic recomputed by hand and by the check suite."
+   ]
+  }
+ ]
+}

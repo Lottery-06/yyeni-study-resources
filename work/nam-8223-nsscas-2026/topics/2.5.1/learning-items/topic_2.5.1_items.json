@@ -1,0 +1,539 @@
+{
+ "dataset_id": "ITEMS-8223-2.5.1",
+ "topic_id": "2.5.1",
+ "items": [
+  {
+   "item_id": "ITEM-8223-2.5.1-001-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.5.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.1-001",
+    "CLM-8223-2.5.1-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by an enzyme.",
+   "canonical_answer": "An enzyme is a globular protein that acts as a biological catalyst: it speeds up a metabolic reaction and is not used up by it.",
+   "marking_guidance": [
+    "1 mark. The definition needs the key words globular protein and catalyst (or speeds up a reaction).",
+    "Reject a statement that an enzyme is a chemical, a hormone or a protein that is used up in the reaction, because none of these gives the key words."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.5.1 claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.1-001": 1,
+    "CLM-8223-2.5.1-003": 1
+   },
+   "authored_hash": "96f3821e86ab12177b9bae4228ac9a498da8978e7a826024a79d75065a4eefb9"
+  },
+  {
+   "item_id": "ITEM-8223-2.5.1-002-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.5.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.1-001",
+    "CLM-8223-2.5.1-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A typical globular enzyme works in the watery cytoplasm of a cell. Explain how its globular structure allows it to work there.",
+   "canonical_answer": "The hydrophilic R groups lie on the outside of the folded molecule and the hydrophobic R groups point towards the centre, so the enzyme dissolves in the water of the cytoplasm. The compact folding also gives the molecule a precise tertiary structure, which forms an active site of a definite shape, so that it can bind its substrate.",
+   "marking_guidance": [
+    "2 marks: hydrophilic R groups on the outside, so the enzyme is soluble in the cytoplasm (1); the compact tertiary structure forms an active site of a definite shape that binds the substrate (1).",
+    "The answer must say how the structure causes the result: because the outside is hydrophilic the enzyme dissolves. Hydrophilic R groups named without the link to solubility earn one mark at most."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.5.1 claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.1-001": 1,
+    "CLM-8223-2.5.1-002": 1
+   },
+   "authored_hash": "b54131e3910cab5be75995499247fec4a14f1d415423ae929ffc81f417dc7839"
+  },
+  {
+   "item_id": "ITEM-8223-2.5.1-003-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.5.1-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.1-004",
+    "CLM-8223-2.5.1-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 1,
+   "prompt": "State what is meant by an intracellular enzyme and by an extracellular enzyme.",
+   "canonical_answer": "An intracellular enzyme is made in a cell and works inside a cell. An extracellular enzyme is made in a cell and secreted, so that it works outside the cell.",
+   "marking_guidance": [
+    "1 mark for both statements together: made in a cell and works inside a cell; made in a cell and secreted to work outside the cell.",
+    "The key words are inside and outside the cell. A statement that gives only an example, such as amylase in the mouth, does not define the term and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.5.1 claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.1-004": 1,
+    "CLM-8223-2.5.1-005": 1
+   },
+   "authored_hash": "fcf6ea3192067a2511acca9e6d6d2e11a506e5e33be875187cde4382b53c4112"
+  },
+  {
+   "item_id": "ITEM-8223-2.5.1-004-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.5.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.1-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State what is meant by the active site of an enzyme.",
+   "canonical_answer": "The active site is a small region on the surface of the enzyme, with a specific shape, to which the substrate binds and where the reaction is catalysed.",
+   "marking_guidance": [
+    "1 mark. The definition needs the key words region (or part) of the enzyme, shape that suits the substrate, and where the substrate binds.",
+    "Reject the whole enzyme molecule, and reject a site that binds any molecule, because the active site is specific to its substrate."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.5.1 claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.1-006": 1
+   },
+   "authored_hash": "0245e60ad8eb25bafdbc5df96bc81caa23a37079975dd43221934424a0c8396c"
+  },
+  {
+   "item_id": "ITEM-8223-2.5.1-005-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.5.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.1-006",
+    "CLM-8223-2.5.1-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Explain how an enzyme lowers the activation energy of a reaction.",
+   "canonical_answer": "The substrate binds to the active site to form an enzyme-substrate complex, which holds the substrate in the position needed to react and strains its bonds. Because of this, less energy is needed for the reaction to take place, so more molecules have enough energy at the temperature of the cell and the rate increases.",
+   "marking_guidance": [
+    "2 marks from three points: the substrate binds to the active site forming an enzyme-substrate complex; the substrate is held in position or its bonds are strained; less energy is needed, so more molecules can react.",
+    "The answer must say how the activation energy falls, which is by binding that strains the substrate. A statement that the enzyme gives the reaction energy is wrong because the enzyme does not supply energy."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.5.1 claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.1-006": 1,
+    "CLM-8223-2.5.1-007": 1
+   },
+   "authored_hash": "5b56b56b2745e36f284b0e70784400080c0b032029eeeb69ec3b3576bcc772f8"
+  },
+  {
+   "item_id": "ITEM-8223-2.5.1-006-APP",
+   "objective_ids": [
+    "OBJ-8223-2.5.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.1-006",
+    "CLM-8223-2.5.1-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner in Rundu adds hydrogen peroxide solution to two enzyme solutions. Enzyme P is catalase and enzyme Q is amylase, which digests starch. Bubbles of oxygen appear with enzyme P and nothing is seen with enzyme Q. Explain these results in terms of the active site.",
+   "canonical_answer": "In this case the shape of hydrogen peroxide suits the active site of catalase, so it binds, an enzyme-substrate complex forms and oxygen is released. The active site of amylase suits starch, not hydrogen peroxide, so hydrogen peroxide cannot bind and no reaction is catalysed. This shows enzyme specificity.",
+   "marking_guidance": [
+    "2 marks: hydrogen peroxide fits the active site of catalase, so a complex forms and the reaction is catalysed (1); it does not fit the active site of amylase, so there is no complex and no reaction, which is specificity (1).",
+    "The answer must refer to the situation given: catalase with hydrogen peroxide and amylase with the same substance. A general definition of specificity with no reference to the two enzymes earns one mark at most, because it does not explain the results."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.5.1 claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.1-006": 1,
+    "CLM-8223-2.5.1-008": 1
+   },
+   "authored_hash": "f9e922c5cecffe04362c1f4200ddfbf86c5825f46bb2029f3f8820f40b3c02ce"
+  },
+  {
+   "item_id": "ITEM-8223-2.5.1-009-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.5.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.1-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "A learner says that when a catalase molecule has broken down a molecule of hydrogen peroxide, the catalase is used up, so a cell needs a new catalase molecule for every molecule of hydrogen peroxide. Explain the error.",
+   "canonical_answer": "The error is a confusion between an enzyme and its substrate. In fact the substrate is used up, being converted to water and oxygen, but the enzyme is released unchanged when the products leave and its active site is free to bind another molecule of hydrogen peroxide. The test is to ask what happens to the enzyme when the product leaves: it is released unchanged, so one catalase molecule can break down many molecules.",
+   "marking_guidance": [
+    "2 marks: the error named, that the enzyme is taken to be used up when it is the substrate that is converted (1); the correct idea, that the enzyme is released unchanged and can be used again, or the test that separates them (1).",
+    "The card is a discrimination between the enzyme and the substrate, not a repeat of the definition of an enzyme."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.5.1 claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.1-009": 1
+   },
+   "authored_hash": "ddf0789321fba7697a9269cb1a5135f4d455b4e55db9c2122e8abf4d88296052"
+  },
+  {
+   "item_id": "ITEM-8223-2.5.1-010-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.5.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.1-006",
+    "CLM-8223-2.5.1-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "The table gives our readings for one enzyme, X, tested with four substrates in the same conditions. Substrate A and substrate B have very similar shapes.\n\n| Substrate | Rate of reaction (mmol dm⁻³ min⁻¹) |\n|---|---|\n| A | 9.6 |\n| B | 0.4 |\n| C | 0 |\n| D | 0 |\n\nDescribe what the data show about the rate with each substrate, and what this means about the active site of enzyme X.",
+   "canonical_answer": "The rate is far greater with substrate A, at 9.6 mmol dm⁻³ min⁻¹, than with substrate B, at 0.4 mmol dm⁻³ min⁻¹, and there is no reaction with substrates C and D. This means the active site of X suits substrate A, fits substrate B only poorly even though its shape is similar, and does not suit C or D, so the enzyme is specific.",
+   "marking_guidance": [
+    "2 marks: the pattern read from the table, with values, that the rate is much greater with A than with B and zero with C and D (1); what it means, that the active site suits A, fits B poorly and does not suit C or D, so the enzyme is specific (1).",
+    "The data must be used: values or a comparison of A, B, C and D. A statement of specificity with no reading from the table earns one mark at most, because the card asks what the data show."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.5.1 claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.1-006": 1,
+    "CLM-8223-2.5.1-008": 1
+   },
+   "authored_hash": "0e92bdfa718259bcbba3c7b385bc24b6560a4e752efef63ab31fa388f72cc382"
+  },
+  {
+   "item_id": "ITEM-8223-2.5.1-007-PROC",
+   "objective_ids": [
+    "OBJ-8223-2.5.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.1-010",
+    "CLM-8223-2.5.1-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "prompt": "Describe how you would follow the progress of the reaction catalysed by catalase in fresh liver by collecting the oxygen formed.",
+   "canonical_answer": "First put a fixed volume of hydrogen peroxide solution in a flask. Then add a fixed mass of fresh liver cut into small pieces and start a timer at once, with the flask connected to a gas syringe or an inverted measuring cylinder over water. Read the volume of oxygen at regular intervals, such as every 30 seconds, until no more forms, and finally plot volume against time, using the same temperature throughout. The result is a progress curve whose steepest part gives the rate.",
+   "marking_guidance": [
+    "3 marks from five points in order: fixed volume of hydrogen peroxide in a flask; fixed mass of liver in small pieces added and timer started; gas collected in a gas syringe or an inverted measuring cylinder; volume read at regular intervals until no more forms; temperature kept the same or volume plotted against time.",
+    "Maximum 3 marks. The steps must be in a workable sequence, first the substrate and enzyme brought together, then the measuring, and the result is a volume at each time."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.5.1 claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.1-010": 1,
+    "CLM-8223-2.5.1-012": 1
+   },
+   "authored_hash": "0e60dc9645e9e92f7ba8ce22c18abc111685f0e18acaf1a8cd4f17cd5f7aa835"
+  },
+  {
+   "item_id": "ITEM-8223-2.5.1-008-WHY",
+   "objective_ids": [
+    "OBJ-8223-2.5.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.1-011",
+    "CLM-8223-2.5.1-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "In an investigation of amylase, a drop of the reacting mixture is added to iodine solution every 30 seconds. Explain why the time at which the drop first stays orange-brown can be used to compare rates of reaction.",
+   "canonical_answer": "The reason is that orange-brown means there is no starch left, so all of the starch has been broken down. If the same amount of starch is used each time, a shorter time to reach this point means the starch was broken down more quickly, because the rate is greater.",
+   "marking_guidance": [
+    "2 marks: orange-brown shows that no starch is left (1); the same amount of starch is broken down in a shorter time, so the rate is greater (1).",
+    "The reason must link the end point to the rate with because or so. Naming the colour change alone, without saying what it shows, earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.5.1 claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.1-011": 1,
+    "CLM-8223-2.5.1-012": 1
+   },
+   "authored_hash": "62cb63452706e7d4e25af79241bdf7fc20be829f54a690f72af6b4d6b912e4dc"
+  },
+  {
+   "item_id": "ITEM-8223-2.5.1-P01",
+   "objective_ids": [
+    "OBJ-8223-2.5.1-01",
+    "OBJ-8223-2.5.1-02",
+    "OBJ-8223-2.5.1-03",
+    "OBJ-8223-2.5.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.1-001",
+    "CLM-8223-2.5.1-002",
+    "CLM-8223-2.5.1-003",
+    "CLM-8223-2.5.1-004",
+    "CLM-8223-2.5.1-005",
+    "CLM-8223-2.5.1-006",
+    "CLM-8223-2.5.1-007",
+    "CLM-8223-2.5.1-008",
+    "CLM-8223-2.5.1-009",
+    "CLM-8223-2.5.1-010",
+    "CLM-8223-2.5.1-011",
+    "CLM-8223-2.5.1-012"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": null,
+   "mark_tariff": 12,
+   "difficulty": 3,
+   "prompt": "Twelve questions. Choose one option for each.\n\n1. Which statement describes an enzyme?\nA  a lipid that stores energy in the cell\nB  a globular protein that acts as a biological catalyst\nC  a fibrous protein that gives a cell its shape\nD  a carbohydrate that is used up as it speeds up a reaction\n\n2. Which part of an enzyme molecule binds to the substrate?\nA  the whole surface of the molecule\nB  the peptide bonds along the chain\nC  the hydrophilic R groups on the outside\nD  the active site\n\n3. An enzyme is made in cells of the pancreas and released into the small intestine, where it digests protein. What type of enzyme is it?\nA  an extracellular enzyme\nB  an intracellular enzyme\nC  a carrier protein\nD  a structural protein\n\n4. Catalase breaks down hydrogen peroxide inside liver cells. Which statement about catalase is correct?\nA  It is extracellular, because oxygen is released outside the cell.\nB  It is extracellular, because it is a protein.\nC  It is intracellular, because it works inside the cells that make it.\nD  It is not an enzyme, because it is not specific.\n\n5. What is the substrate of the reaction catalysed by catalase?\nA  oxygen\nB  hydrogen peroxide\nC  water\nD  liver\n\n6. What is meant by the activation energy of a reaction?\nA  the energy that reacting molecules must have for the reaction to take place\nB  the energy released when the products form\nC  the energy stored in the product molecules\nD  the energy that an enzyme supplies to the reaction\n\n7. How does an enzyme increase the rate of a reaction?\nA  by supplying energy to the substrate\nB  by increasing the number of substrate molecules\nC  by lowering the activation energy\nD  by being converted into the product\n\n8. Lactase is an enzyme that digests lactose and has no effect on sucrose. Which statement explains this?\nA  Sucrose is a protein and lactase digests only carbohydrates.\nB  Lactase is used up by lactose and cannot act on sucrose.\nC  Sucrose is too large to enter any cell.\nD  The shape of sucrose does not suit the active site of lactase.\n\n9. Which statement describes the induced fit hypothesis?\nA  The active site has a fixed shape that exactly matches the substrate.\nB  The active site changes shape slightly when the substrate binds and moulds around it.\nC  The substrate changes shape so that it fits a rigid active site.\nD  The enzyme changes into the product during the reaction.\n\n10. Which sequence shows the order of events in an enzyme-catalysed reaction?\nA  the product binds, the enzyme-substrate complex forms, the substrate is released\nB  the substrate is converted to product, the substrate binds, the enzyme-substrate complex forms\nC  the substrate binds to the active site forming an enzyme-substrate complex, the substrate is converted to product, the product is released\nD  the enzyme is converted to product, the product is released, a new enzyme binds\n\n11. Which statement about enzyme molecules during a reaction is correct?\nA  Each is released unchanged when the product leaves and can bind another substrate.\nB  Each is converted into the product.\nC  Each is used up in forming the enzyme-substrate complex.\nD  Each is replaced by new enzyme before the next substrate molecule binds.\n\n12. In an amylase investigation, a drop of the mixture is added to iodine solution every 30 seconds. The drop is blue-black at 30 s, 60 s and 90 s, and orange-brown at 120 s. What does the result at 120 s show?\nA  The amylase has been used up.\nB  Maltose has stopped forming for another reason.\nC  The enzyme has stopped working.\nD  No starch is left in the mixture.",
+   "canonical_answer": "Key: 1 B, 2 D, 3 A, 4 C, 5 B, 6 A, 7 C, 8 D, 9 B, 10 C, 11 A, 12 D.\n1. An enzyme is a globular protein that acts as a catalyst (B). A confuses enzymes with lipids; C names a structural protein, not a globular one; D is carbohydrate and also repeats the error that a catalyst is used up.\n2. The substrate binds at the active site (D). A is an error from ignoring specificity, since only a small region binds; B confuses the bonds of the primary structure with the binding region; C takes the outside R groups, which make the enzyme soluble, for the binding region.\n3. It is made in a cell and works outside it, so it is extracellular (A). B reverses the terms; C and D are proteins of other functions and are an error from not linking function to where the enzyme works.\n4. Catalase works inside the cells that make it, so it is intracellular (C). A bases the type on where the product ends up, which is an error; B uses a reason that applies to both types; D is wrong because catalase is specific to hydrogen peroxide.\n5. Catalase acts on hydrogen peroxide, the substrate (B). A and C are the products, an error from confusing substrate and product; D is the tissue that contains the enzyme, not a molecule it acts on.\n6. Activation energy is the energy needed for reacting molecules to react (A). B and C describe the energy of the products, an error from mixing up the energy needed with the energy released; D wrongly gives the enzyme the job of supplying energy.\n7. The enzyme lowers the activation energy (C). A is an error because the enzyme does not supply energy; B is an error because the enzyme does not make substrate; D repeats the error that the enzyme is used up.\n8. Specificity depends on the substrate suiting the active site (D). A is wrong because sucrose is a carbohydrate; B repeats the error that the enzyme is used up; C is wrong because the reaction here does not need sucrose to enter a cell.\n9. In induced fit the active site changes shape as the substrate binds (B). A describes the lock and key hypothesis; C gives the shape change to the substrate instead of the enzyme; D repeats the error that the enzyme is used up.\n10. The substrate binds, the complex forms, the product forms and is released (C). A has the product binding in place of the substrate; B has the reaction before the binding; D repeats the error that the enzyme is used up.\n11. The enzyme is released unchanged and is reused (A). B, C and D each come from the error that an enzyme is used up, in three different forms: converted, used up in the complex, and replaced.\n12. Orange-brown is the colour of iodine alone, so no starch is left (D). A and C wrongly blame the enzyme, repeating the error that the enzyme is used up; B names a different molecule and gives a reason the result cannot show.",
+   "marking_guidance": [
+    "The key: one mark per correct option, twelve marks in all; about half the questions test recall and half test application to a described enzyme, a sequence or a set of readings.",
+    "Each distractor is a named error: an enzyme taken to be used up (the misconception register first), substrate and product confused, intracellular and extracellular reversed, energy supplied by the enzyme, and the lock and key and induced fit hypotheses swapped."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.5.1 claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.1-001": 1,
+    "CLM-8223-2.5.1-002": 1,
+    "CLM-8223-2.5.1-003": 1,
+    "CLM-8223-2.5.1-004": 1,
+    "CLM-8223-2.5.1-005": 1,
+    "CLM-8223-2.5.1-006": 1,
+    "CLM-8223-2.5.1-007": 1,
+    "CLM-8223-2.5.1-008": 1,
+    "CLM-8223-2.5.1-009": 1,
+    "CLM-8223-2.5.1-010": 1,
+    "CLM-8223-2.5.1-011": 1,
+    "CLM-8223-2.5.1-012": 1
+   },
+   "authored_hash": "5d8c636e1e18e73cedec21c2c34a9fa48a15745f3e76a44b82a969413b7fb90f"
+  },
+  {
+   "item_id": "ITEM-8223-2.5.1-P02",
+   "objective_ids": [
+    "OBJ-8223-2.5.1-02",
+    "OBJ-8223-2.5.1-03",
+    "OBJ-8223-2.5.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.5.1-004",
+    "CLM-8223-2.5.1-006",
+    "CLM-8223-2.5.1-009",
+    "CLM-8223-2.5.1-010",
+    "CLM-8223-2.5.1-012"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "State",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "A learner in Swakopmund investigated catalase in fresh liver. She added a fixed mass of liver pieces to a fixed volume of hydrogen peroxide solution at a constant temperature and collected the oxygen formed. These are our readings.\n\n| Time (s) | Volume of oxygen collected (cm³) |\n|---|---|\n| 0 | 0 |\n| 30 | 15 |\n| 60 | 25 |\n| 90 | 31 |\n| 120 | 34 |\n| 150 | 35 |\n| 180 | 35 |\n\n(a) Catalase is an intracellular enzyme. State what this means. [1]\n(b) Describe how the rate of formation of oxygen changed during the investigation. [2]\n(c) Explain, in terms of the active site and enzyme-substrate complexes, why the rate decreased between 60 s and 120 s. [3]\n(d) The liver was cut into small pieces. Suggest why this was done. [2]",
+   "canonical_answer": "(a) It is made in a cell and works inside a cell.\n(b) The rate was greatest at the start, with 15 cm³ of oxygen in the first 30 s. It then decreased, with 10 cm³ in the next 30 s and 6 cm³ in the next, and it fell to zero by 150 s, when the volume stopped at 35 cm³.\n(c) As the reaction went on, the hydrogen peroxide was converted to water and oxygen, so its concentration fell. There were then fewer substrate molecules to meet active sites, so fewer enzyme-substrate complexes formed each second and less oxygen was made. The catalase was not used up, because it is released unchanged each time the products leave.\n(d) Small pieces have a larger surface area, so more catalase is in contact with the hydrogen peroxide and more enzyme-substrate complexes can form, which makes the reaction faster and the readings easier to measure.",
+   "marking_guidance": [
+    "Marks and points: (a) 1 mark for made in a cell and works inside it; (b) 2 marks from three points: greatest rate at the start, with a value such as 15 cm³ in 30 s; the rate decreases over time; it falls to zero by 150 s at 35 cm³; the units cm³ are needed with any volume quoted.",
+    "(c) 3 marks from four points: hydrogen peroxide is used up so its concentration falls; fewer substrate molecules meet active sites; fewer enzyme-substrate complexes form each second; the enzyme is not used up. (d) 2 marks from three points: larger surface area; more enzyme exposed to the substrate; more complexes, so a faster reaction. Parts (a) and (b) credit AO A (3 marks); parts (c) and (d) credit AO B (5 marks). The reason in (c) must use the investigation given, not a general statement."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored from the topic 2.5.1 claim ledger. Our own scenario and answer; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.5.1-004": 1,
+    "CLM-8223-2.5.1-006": 1,
+    "CLM-8223-2.5.1-009": 1,
+    "CLM-8223-2.5.1-010": 1,
+    "CLM-8223-2.5.1-012": 1
+   },
+   "authored_hash": "3b33a86fc860984d39499de8a11af72f7a7a9b2c068b8d978271198b23043ff6"
+  }
+ ]
+}

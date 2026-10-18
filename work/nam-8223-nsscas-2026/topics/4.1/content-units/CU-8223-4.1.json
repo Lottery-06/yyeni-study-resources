@@ -1,0 +1,369 @@
+{
+ "unit_id": "CU-8223-4.1",
+ "title": "Planning investigations and taking measurements",
+ "objective_ids": [
+  "OBJ-8223-4.1-01",
+  "OBJ-8223-4.1-02",
+  "OBJ-8223-4.1-03",
+  "OBJ-8223-4.1-04",
+  "OBJ-8223-4.1-05",
+  "OBJ-8223-4.1-06",
+  "OBJ-8223-4.1-07",
+  "OBJ-8223-4.1-08",
+  "OBJ-8223-4.1-09",
+  "OBJ-8223-4.1-10",
+  "OBJ-8223-4.1-11",
+  "OBJ-8223-4.1-12"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_experiment_design",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 3610,
+  "target": 4385,
+  "max": 5160
+ },
+ "word_count": 5090,
+ "qa_status": "review_required",
+ "notes": [
+  "Readings and situations used in worked examples are our own invented values."
+ ],
+ "blocks": [
+  {
+   "block_id": "4.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "This section is about the decisions made before and during the collection of results in a Paper 3 investigation: which variable to change and which to measure, over what range and at how many values, what to keep the same, what to use as a control, how to measure and how many times, how to follow a method, how to judge the risk, how to take a reading, and how to describe a colour change. The marks for handling the apparatus are earned at the bench, with the real equipment in your hands, and no note can replace that practice. What can be practised on paper is the planning and the decision-making, and the description of a technique in the right order. Every investigation and every reading in this section is our own invention, written for teaching, and none of it is taken from a published source.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {},
+   "authored_hash": "4e27b29043b149126875cbff94e6c4a8c91c0c0925bba832fa5756f9961b86dc"
+  },
+  {
+   "block_id": "4.1-b2",
+   "block_type": "plain_explanation",
+   "heading": "The independent and dependent variables",
+   "text": "An investigation asks how one quantity affects another. The independent variable is the variable that the investigator changes on purpose. The dependent variable is the variable that is measured to show the effect of that change.\n\nThe aim of an investigation usually has the form the effect of X on Y. X is the independent variable and Y is the dependent variable. In the aim to find the effect of the temperature of a water bath on the time that milk takes to clot, the temperature is set by the investigator, so it is independent, and the time is recorded, so it is dependent. When the aim is not worded this way, one question sorts the two quickly: which variable do you set, and which do you record?\n\nA variable is written with its unit. The independent variable is temperature in °C. The dependent variable is the time to clot in s, and the description says how it is measured, for example with a stopwatch started when the enzyme is added and stopped when the milk first stops flowing.\n\nA third set of variables is easily mistaken for these two. A variable that is neither changed nor measured, but is kept the same in every set-up, is a standardised variable. The volume of milk in each tube is an example. It matters to the result, but the investigator is not changing it and is not recording it, so it is neither independent nor dependent.\n\nOne independent variable is changed at a time. If the temperature and the pH were both changed between the tubes, a difference in the time to clot could come from either one, and the investigation could not say which. That is why a plan changes one variable and keeps the others the same.",
+   "claim_ids": [
+    "CLM-8223-4.1-001",
+    "CLM-8223-4.1-002",
+    "CLM-8223-4.1-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.1-001": 1,
+    "CLM-8223-4.1-002": 1,
+    "CLM-8223-4.1-003": 1
+   },
+   "authored_hash": "ce7d05886b5fb100f5475cf0074508651bac21bcd7d61719a8b416ccc8de8bb2"
+  },
+  {
+   "block_id": "4.1-b3",
+   "block_type": "process",
+   "heading": "Changing the independent variable over a suitable range",
+   "text": "Once the independent variable is chosen, the plan says how it will be changed and over what range. The range is the span from the lowest value to the highest. It has to be wide enough for the dependent variable to change across it, otherwise the differences between the results may be smaller than the random differences between repeat readings and no pattern can be seen. Testing the effect of temperature on a tablet dissolving at 20, 22, 24, 26 and 28 °C covers a span of only 8 °C, and the change in time may be lost among the scatter.\n\nThe values are spaced at equal intervals, so that the pattern can be read from the results. The range also has to be safe and workable for the material: a living tissue or an enzyme may stop working at a very high temperature, and a very strong solution may be unsafe to handle.\n\nWhen it is not clear where the dependent variable starts to change, a preliminary trial is carried out. A few widely spaced values are tried once, quickly, and the results show where the dependent variable changes and where it does not. The main investigation then uses a range that includes the region of change.",
+   "claim_ids": [
+    "CLM-8223-4.1-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.1-004": 1
+   },
+   "authored_hash": "b47a62e4c023b38fd59a52ff62cdeb5170a9642a5904123ba042d1371949a74c"
+  },
+  {
+   "block_id": "4.1-b4",
+   "block_type": "process",
+   "heading": "Changing a concentration: proportional and serial dilution",
+   "text": "Concentration is changed by diluting a stock solution, which is a solution of known concentration made up in advance. There are two methods.\n\nIn proportional dilution, each solution is made by mixing a volume of stock with a volume of water, to the same total volume each time. The concentration of the mixture is the volume of stock divided by the total volume, multiplied by the concentration of the stock: concentration = volume of stock ÷ total volume × concentration of the stock. To make five sucrose solutions from a 1.0 mol dm⁻³ stock, each with a total volume of 10 cm³, the learner measures 2, 4, 6, 8 and 10 cm³ of stock with a syringe and adds 8, 6, 4, 2 and 0 cm³ of water. For the 6 cm³ tube, 6 ÷ 10 × 1.0 = 0.6, so the concentration is 0.6 mol dm⁻³. The five concentrations, 0.2, 0.4, 0.6, 0.8 and 1.0 mol dm⁻³, are evenly spaced, which suits a plan that looks for a steady trend.\n\nIn serial dilution, a fixed volume of each solution is moved into the next tube, which already holds water. Four tubes each hold 9 cm³ of water. Adding 1 cm³ of a 1.0 per cent stock to tube 1 and mixing gives a solution one tenth as strong, 1.0 ÷ 10 = 0.1 per cent. Moving 1 cm³ of that into tube 2 gives 0.1 ÷ 10 = 0.01 per cent, then 0.01 ÷ 10 = 0.001 per cent in tube 3 and 0.001 ÷ 10 = 0.0001 per cent in tube 4. Finally 1 cm³ is taken out of the last tube and discarded, so that every tube holds the same volume.\n\nSerial dilution makes a wide range in a few steps and uses little stock, but each solution is made from the one before, so a mistake or a poorly mixed tube carries into every later tube. Proportional dilution makes each solution directly from the stock, so a mistake stays in one tube, and it suits an evenly spaced range.",
+   "claim_ids": [
+    "CLM-8223-4.1-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.1-005": 1
+   },
+   "authored_hash": "a7cb99fd49c5afe3312152f2f015563557945d4603d2d2345c7d84ea19e1df5c"
+  },
+  {
+   "block_id": "4.1-b5",
+   "block_type": "process",
+   "heading": "Changing temperature, pH, air movement and humidity",
+   "text": "Temperature is changed with water baths, each held at a set temperature and checked with a thermometer. The tubes of reactants are placed in the bath and left for several minutes to reach its temperature before they are mixed, because a tube taken from the bench starts at room temperature and would be at a different temperature from the bath for the first part of the reaction. The thermometer is read again at the end to check the bath.\n\nThe pH is changed with buffer solutions. A buffer holds its pH close to a set value when a small amount of acid or alkali is added. Setting the pH by adding acid or alkali drop by drop to the reaction mixture would let the pH drift as the reaction goes on, and it would be hard to repeat. The same volume of each buffer, of known pH, is added to each tube, so the pH is the only thing that differs between them.\n\nAir movement is changed with a fan. The fan is placed at measured distances from the material, for example 0.25 m, 0.50 m and 0.75 m, or set to different speeds. A greater distance gives less moving air at the plant. The temperature near the material is read, because moving air also cools it, and the other conditions are kept the same.\n\nHumidity is changed by enclosing the material in a chamber or a clear bag. A drying agent such as silica gel, or a dish of damp paper, makes the air drier or more humid, and a humidity meter, called a hygrometer, gives the reading. The material is left to adjust for a stated time before the dependent variable is measured.",
+   "claim_ids": [
+    "CLM-8223-4.1-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.1-006": 1
+   },
+   "authored_hash": "c0e140d3f3b1b5be2be33ceea82f0590cf9d6507310bf85a859276632f1d3d5e"
+  },
+  {
+   "block_id": "4.1-b6",
+   "block_type": "process",
+   "heading": "How many values to measure at",
+   "text": "The plan states how many values of the independent variable will be used. The syllabus asks for a minimum of 5 measurements, replicates, or more measurements around a specific value. Five is the minimum because a pattern needs enough points to show its shape. With two points a straight line fits perfectly, and with three it is not possible to tell a straight line from a curve. With five or more values, a straight rise, a curve that levels off and a curve with a peak can be told apart, and one point that does not fit stands out against its neighbours.\n\nMore values are better where the dependent variable is changing most or where a maximum might lie. Suppose the rate of an enzyme-controlled reaction is measured at 10, 20, 30, 40, 50 and 60 °C and the rate is highest at 40 °C, with 30 and 50 °C both lower. The best temperature lies somewhere between 30 and 50 °C, but the results do not say where, because nothing was measured between those values. The plan adds extra values closer together around the peak, for example 35 and 45 °C. The investigation now has 8 values, and the peak is located to within 5 °C instead of 10 °C.\n\nThe number of readings must be counted before the work begins. It is the number of values of the independent variable multiplied by the number of replicates at each value. With 8 temperatures and 3 replicates at each, 8 × 3 = 24 readings are needed. A plan that needs more time or material than is available is changed before the start, by narrowing the range or reducing the replicates, and not by dropping the minimum of five values.",
+   "claim_ids": [
+    "CLM-8223-4.1-007",
+    "CLM-8223-4.1-008",
+    "CLM-8223-4.1-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.1-007": 1,
+    "CLM-8223-4.1-008": 1,
+    "CLM-8223-4.1-009": 1
+   },
+   "authored_hash": "a1e49fc987f126684a7889bf91f76907fac68474063259aae5bc9de6d3ae6be5"
+  },
+  {
+   "block_id": "4.1-b7",
+   "block_type": "process",
+   "heading": "Identifying a biological molecule and estimating its quantity",
+   "text": "The presence of a biological molecule is shown by a test with a reagent that gives a colour or a change of appearance. In the iodine test for starch, a few drops of iodine solution added to the sample change it from yellow-brown to blue-black. In the Benedict's test for a reducing sugar, the sample and Benedict's reagent are heated in a hot water bath, and the blue mixture changes through green, yellow and orange to brick-red as the amount of sugar increases. In the biuret test for protein, biuret reagent added to the sample turns it from blue to purple or lilac. In the ethanol emulsion test for lipid, the sample is shaken with ethanol and then added to water, and a cloudy white emulsion shows that lipid is present. If the molecule is absent, the reagent keeps its own colour or the mixture stays clear.\n\nA test can also give an estimate of how much is present when it is standardised. Standardising means that every sample is treated in exactly the same way: the same volume of sample, the same volume of reagent, the same temperature, the same time and the same point at which the colour is judged. The colour is then due to the amount of the molecule and not to differences in the method. Standards are solutions of the molecule at known concentrations, made by dilution and tested in the same way. The unknown is tested at the same time and its colour is matched with the standards.\n\nThe result of a match is an interval. If the unknown matches a colour between the 1.0 per cent and 2.0 per cent standards, the concentration lies between 1.0 and 2.0 per cent. Adding standards between them, for example at 1.5 per cent, narrows the interval.\n\nSome tests use an end-point, a fixed change that is easy to see. DCPIP is a blue solution that loses its blue colour when vitamin C is added. A fixed volume of DCPIP is placed in a tube and juice is added from a pipette, counting the volume that is needed for the blue to disappear. A juice that holds more vitamin C needs a smaller volume, because the same amount of vitamin C is needed each time. Suppose 2.0 cm³ of an ascorbic acid solution of 1.0 mg cm⁻³ removes the colour of the fixed volume. The amount needed is 1.0 × 2.0 = 2.0 mg. If 4.0 cm³ of a juice is needed, that volume holds 2.0 mg, so the juice has 2.0 ÷ 4.0 = 0.5 mg cm⁻³, half the concentration of the standard. The result is an estimate, because judging the exact end-point depends on the eye.",
+   "claim_ids": [
+    "CLM-8223-4.1-010",
+    "CLM-8223-4.1-011",
+    "CLM-8223-4.1-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.1-010": 1,
+    "CLM-8223-4.1-011": 1,
+    "CLM-8223-4.1-012": 1
+   },
+   "authored_hash": "06b0836aa8bd18f9c49af2d87066bb976c53ff7b38393fe396640f90ea881295"
+  },
+  {
+   "block_id": "4.1-b8",
+   "block_type": "process",
+   "heading": "The control, and what a control is not",
+   "text": "A control is a set-up in which the effect of the independent variable is removed and everything else is the same as in the other set-ups. It gives a baseline. If the dependent variable changes in the main set-up but not in the control, the change can be put down to the independent variable and not to something else in the procedure.\n\nThe syllabus names two ways to make a control. The first is to replace the solution under test with the same volume of water. In a test of an amylase solution on starch, the control tube holds the same volume of water in place of the amylase solution. The second is to use an enzyme that has been boiled. Boiling the enzyme solution destroys the shape of its active site permanently, so the enzyme cannot work, and the same volume of the boiled solution is added in place of the active one. Both controls remove the effect of the independent variable while leaving the volume, the temperature and the time the same.\n\nThe control is treated in exactly the same way as the main set-up, in the same water bath for the same time. A control left on the bench while the main tube is in a bath at 35 °C differs in two ways and not one.\n\nA control is not the same thing as a standardised variable, and the two are often mixed up. A control is one extra set-up in which the independent variable is absent. A standardised variable is a different variable, such as the temperature or the volume, that is kept the same in all the set-ups, including the control. A plan names both: it states the control and it lists the variables to be standardised.",
+   "claim_ids": [
+    "CLM-8223-4.1-013",
+    "CLM-8223-4.1-014",
+    "CLM-8223-4.1-015"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.1-013": 1,
+    "CLM-8223-4.1-014": 1,
+    "CLM-8223-4.1-015": 1
+   },
+   "authored_hash": "8c73dad7aa5bcf578ebdeba26a33fd822d193f95dcf96e44f1e2dd7aae9e1b83"
+  },
+  {
+   "block_id": "4.1-b9",
+   "block_type": "process",
+   "heading": "Choosing the variables to standardise, and how",
+   "text": "A variable is standardised because, if it changed during the investigation, it could change the dependent variable. The change in the dependent variable could then not be put down to the independent variable alone. To find the variables to standardise, list everything that could affect the dependent variable, other than the independent variable, and keep each of those the same.\n\nEach variable has a method that fits it. Temperature is standardised with a water bath checked with a thermometer. Volumes are standardised with a syringe or a pipette, which measure more finely than a beaker. A concentration is standardised by taking every sample from one stock solution. The mass or size of a piece of tissue is standardised with a balance, or by cutting the pieces with the same cork borer to the same length with the same blade. Time is standardised with a stopwatch. The pH is standardised with a buffer. The intensity of light is standardised with a lamp at a fixed distance. Living material is standardised by taking it from the same source, the same species and the same age.\n\nA plan names the variable and the method together: keep the temperature the same by placing all the tubes in a water bath at 35 °C and checking the thermometer at the start and the end.\n\nSome variables cannot be held exactly. Two bean seedlings are rarely identical in size. They are kept as close as possible by choosing seedlings from one batch and of similar height, the differences that remain are recorded, and replicates are used so that one unusual seedling has less effect on the mean.",
+   "claim_ids": [
+    "CLM-8223-4.1-016",
+    "CLM-8223-4.1-017",
+    "CLM-8223-4.1-018"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.1-016": 1,
+    "CLM-8223-4.1-017": 1,
+    "CLM-8223-4.1-018": 1
+   },
+   "authored_hash": "d97a2915aff571b6058961431613c4fa6a663c54a3eb7a41aed9c608777302e2"
+  },
+  {
+   "block_id": "4.1-b10",
+   "block_type": "process",
+   "heading": "Measuring the dependent variable accurately and precisely",
+   "text": "A measurement is accurate when it is close to the true value. It needs apparatus that is suitable, zeroed or calibrated, and read correctly. A balance that reads 0.30 g with nothing on the pan gives masses that are 0.30 g too large, however carefully they are read. A measurement is precise when the scale divisions are small enough to separate the values that matter, and it is recorded to the precision of the scale. Repeat readings that lie close together suggest that the random differences are small.\n\nThe dependent variable is chosen so that it can be measured as a number. The volume of gas collected in a syringe, a mass on a balance or a time on a stopwatch are better than a judgement of how much a colour has changed, because numbers can be compared and averaged. Where a colour must be judged, a standard colour chart or a colorimeter is used so that a number is still recorded.\n\nThe instrument is chosen to match the change expected. If a volume of gas of about 2 cm³ is to be measured, a syringe marked every 0.1 cm³ separates volumes of 2.0 and 2.3 cm³, and a measuring cylinder marked every 5 cm³ could not. A timing that depends on a person judging when a colour has gone, such as the end of a reaction, is limited by that judgement, typically by a few tenths of a second, whatever the stopwatch can display.\n\nA good description of the measurement gives the quantity, the apparatus and its smallest division, when and how often the reading is taken, how it is read and the unit. The volume of carbon dioxide collected in a gas syringe marked every 1 cm³ is read at 5 minutes, with the eye level with the end of the plunger, and recorded in cm³ to the nearest division, says all of it.",
+   "claim_ids": [
+    "CLM-8223-4.1-019",
+    "CLM-8223-4.1-020",
+    "CLM-8223-4.1-021"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.1-019": 1,
+    "CLM-8223-4.1-020": 1,
+    "CLM-8223-4.1-021": 1
+   },
+   "authored_hash": "0cd1a0302e9d83b5f8af6465a1127a004e586c5230ea2328197d22a9919935d9"
+  },
+  {
+   "block_id": "4.1-b11",
+   "block_type": "process",
+   "heading": "Repeating and replicating readings",
+   "text": "A repeat is the same measurement taken again on the same set-up. Replicates are separate set-ups prepared in the same way, such as three new tubes, each with its own mixture, or three different seedlings. Both give a set of values at one value of the independent variable. Replicates are better where living material varies or where the preparation of a set-up could introduce an error, because a repeat on one tube shares any error made in preparing that tube.\n\nThere are two reasons to take several readings. The first is to identify an anomalous result, which is one that does not fit with the other readings or with the pattern. If three readings of the volume of gas collected in 60 s are 12.0, 12.4 and 18.9 cm³, the value 18.9 cm³ stands apart from the other two and is the anomaly. A single reading could not have revealed this.\n\nThe second is to give a more accurate estimate. When the differences between readings are random, some are above the true value and some below it, and they partly cancel in the mean, so the mean lies closer to the true value than one reading is likely to. This holds only for random differences. A systematic error, such as a balance that reads 0.30 g too high, affects every reading in the same way and is not reduced by taking the mean.\n\nAt least three readings are taken at each value. If two readings disagree, a further reading is taken. An anomalous result is repeated, or it is left out of the mean and the omission is stated. In the example, the mean of the remaining two is (12.0 + 12.4) ÷ 2, which is 24.4 ÷ 2 = 12.2 cm³. The anomaly is not deleted without a note, because the reader needs to know that it was there.",
+   "claim_ids": [
+    "CLM-8223-4.1-022",
+    "CLM-8223-4.1-023",
+    "CLM-8223-4.1-024"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.1-022": 1,
+    "CLM-8223-4.1-023": 1,
+    "CLM-8223-4.1-024": 1
+   },
+   "authored_hash": "8e8440a717453999da9e23db621a081515ec46a25aacf2418952ea7a20286125"
+  },
+  {
+   "block_id": "4.1-b12",
+   "block_type": "process",
+   "heading": "Following instructions and diagrams for techniques",
+   "text": "In Paper 3 you are often given a method to follow, written in words or drawn as a labelled diagram. The method is read through before anything is picked up. The apparatus is checked against the list, the quantities and times are noted, and the order of the steps is clear. A diagram shows how the apparatus is assembled and where each measurement is taken, so it is studied together with the text.\n\nA technique is followed as set out, with the stated quantities, in the stated order and for the stated times. The order matters because many steps depend on the one before. A serial dilution is a good example. Each tube is made from the tube before it, so tubes made out of order, or a tube that is not mixed, give wrong concentrations in every later tube. Starting a stopwatch when the enzyme is added, and not before, is another order that matters.\n\nWhen a technique has to be described, it is described by what is done, with what, in what order and in what amount, in sentences that follow the order of the work. A serial dilution is described this way: place 9 cm³ of water in each of four tubes; add 1 cm³ of the 1.0 per cent solution to tube 1 and mix; move 1 cm³ from tube 1 to tube 2 and mix; repeat for tubes 3 and 4; finally remove 1 cm³ from tube 4 so that all the tubes hold 9 cm³.\n\nThe skill of handling apparatus is learnt at the bench with the real equipment. What these notes and the flashcards can do is make sure you understand the order of the steps and the reason for each one, so that your hands at the bench are following a plan that you understand.",
+   "claim_ids": [
+    "CLM-8223-4.1-025",
+    "CLM-8223-4.1-026",
+    "CLM-8223-4.1-027"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.1-025": 1,
+    "CLM-8223-4.1-026": 1,
+    "CLM-8223-4.1-027": 1
+   },
+   "authored_hash": "a56c0c5c5dbd6d656c4441c442c66f5274c3b0fb6c06bcd5ad1a92496ae71686"
+  },
+  {
+   "block_id": "4.1-b13",
+   "block_type": "process",
+   "heading": "Assessing risk as low, medium or high",
+   "text": "A hazard is something that can cause harm. Risk is how likely the hazard is to cause harm, combined with how serious the harm would be. The hazards in a biology practical come from the solutions and reagents, and from the procedure.\n\nA risk is assessed in three steps. First, name each hazard: an irritant, a corrosive solution, a flammable liquid, hot water, a sharp blade, breakable glass. Second, judge how likely harm is and how serious it would be, from the concentration, the volume and the way the substance is handled. Third, state the level and the precaution that lowers it.\n\nThe level is low where harm is unlikely and would be minor. A 1 per cent sucrose solution at room temperature is a low risk, because it is not toxic or corrosive and a spill is wiped up. The level is medium where harm is possible and would be moderate. Heating tubes in a hot water bath is a medium risk, because hot water or a hot tube can scald and Benedict's reagent can irritate the eyes. A sodium hydroxide solution, as used in the biuret test, irritates the skin and can damage the eyes, so it is also a medium risk. The level is high where serious harm is reasonably likely. Heating ethanol over an open flame is a high risk, because ethanol vapour ignites readily and a flame is close.\n\nThe precaution matches the hazard: eye protection for irritant solutions, tongs for hot tubes, and a hot water bath in place of a flame. Heating ethanol in a hot water bath in place of an open flame lowers the risk from high to medium.",
+   "claim_ids": [
+    "CLM-8223-4.1-028",
+    "CLM-8223-4.1-029",
+    "CLM-8223-4.1-030"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.1-028": 1,
+    "CLM-8223-4.1-029": 1,
+    "CLM-8223-4.1-030": 1
+   },
+   "authored_hash": "def4a89b00906b922344054b4a816e1f53580ff20bb21b99ae497a3d137a2b2f"
+  },
+  {
+   "block_id": "4.1-b14",
+   "block_type": "worked_calculation",
+   "heading": "Taking readings with apparatus, and measuring area with a grid",
+   "text": "Each piece of apparatus has a correct way of being read, and the reading is recorded to the precision of the scale. A liquid volume in a measuring cylinder is read with the eye level with the bottom of the meniscus, the curve of the liquid surface, because looking from above or below makes the surface seem to be at a different mark. A balance is zeroed with its container on the pan before the sample is added. A thermometer is read with its bulb in the liquid, after waiting until the reading stops changing. A stopwatch is started and stopped at a stated event, such as the moment the enzyme is added. A ruler is read with its zero end aligned with the start of the object and the eye directly above the mark.\n\nWhile the readings are taken, they are checked against the pattern expected. If the rate of an enzyme reaction has risen at 10, 20 and 30 °C, a lower reading at 40 °C is not impossible, but a reading far out of line with its neighbours is worth repeating at once, while the apparatus is still set up.\n\nThe area of a flat object such as a leaf is estimated with a grid. The leaf is placed on squared paper, or its outline is drawn on it, and the squares that lie under the leaf are counted. A square that is half or more covered is counted as a whole square. A square that is less than half covered is ignored. The count is multiplied by the area of one square.\n\nWorked example, with our own values. A leaf outline is drawn on paper ruled in 1 cm squares, so one square has an area of 1 cm². Of the squares under the outline, 31 are completely covered, 14 are partly covered with half or more covered, and 9 are partly covered with less than half covered. The squares counted are the 31 completely covered and the 14 that are half or more covered: 31 + 14 = 45. The 9 squares that are less than half covered are ignored. The area is 45 × 1 = 45 cm². Smaller squares make the estimate closer to the true area, because the edges are followed more closely.",
+   "claim_ids": [
+    "CLM-8223-4.1-031",
+    "CLM-8223-4.1-032",
+    "CLM-8223-4.1-033"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.1-031": 1,
+    "CLM-8223-4.1-032": 1,
+    "CLM-8223-4.1-033": 1
+   },
+   "authored_hash": "cefb4cccc9a065c7daeaa96182dee2f9a0f39ae0038ac1d9bec19c503b988adf"
+  },
+  {
+   "block_id": "4.1-b15",
+   "block_type": "plain_explanation",
+   "heading": "Recording qualitative results in clear terms",
+   "text": "A qualitative result is an observation described in words, such as a colour change. It needs to be written so that another person, who did not see the test, can picture it and can compare it with another result.\n\nA colour change is recorded by naming the colour before and the colour after, with the shade where there is one. Blue to brick-red is clear. Changed colour is not, because it does not say from what or to what. Where nothing changes, the result is written as a result: the solution stays blue, with the colour named, and a gap is not left in the table.\n\nClear terms are named colours, with the form and the amount of any solid. A few orange specks at the bottom of the tube and a dense brick-red precipitate with a pale liquid above are different results and are recorded differently. The time of the observation is stated where it matters, such as after 3 minutes in the hot water bath, because many colours develop with time. Vague words, such as went darker, positive or reacted, do not name the colours and do not say how much happened.\n\nA graded scale can be used to put several results in order, for example + for a trace, ++ for a moderate amount and +++ for a large amount of precipitate. The scale is defined in the table, say with a short description of what each grade looks like, so that the reader knows what ++ means. The description is written at the time of the observation, not from memory later.",
+   "claim_ids": [
+    "CLM-8223-4.1-034",
+    "CLM-8223-4.1-035",
+    "CLM-8223-4.1-036"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.1-034": 1,
+    "CLM-8223-4.1-035": 1,
+    "CLM-8223-4.1-036": 1
+   },
+   "authored_hash": "fe26d3cf85a7947c8c9dab2ac7783e6ece57a4202b6d10337389268f83a5fc05"
+  },
+  {
+   "block_id": "4.1-b16",
+   "block_type": "worked_application",
+   "heading": "Planning an investigation from start to finish",
+   "text": "This worked application uses our own readings. A learner plans to find how temperature affects the time that an amylase solution takes to break down starch, and sets out the decisions in order.\n\nThe independent variable is the temperature of the mixture in °C. The dependent variable is the time in s for the starch to disappear. It is measured by taking a drop of the mixture every 10 s and mixing it with a drop of iodine solution on a spotting tile. The time at which the drop first stays yellow-brown, with no blue-black, is read from a stopwatch.\n\nThe range is 10 to 60 °C, with water baths set at 10, 20, 30, 40, 50 and 60 °C, which is 6 values. Each bath is checked with a thermometer, and the tubes are left for 5 minutes in the bath before mixing. The control is a tube with the amylase solution replaced by the same volume of water, held in the 40 °C bath. The variables standardised are the volumes of starch solution, amylase solution and buffer, with syringes; the concentrations, from one stock of each; the pH, with a buffer at pH 7; and the number of drops of iodine. Three replicate tubes are prepared at each temperature, so 6 × 3 = 18 readings are needed. The risk is medium, because of the hot water, and eye protection is worn.\n\nThe readings below are our own invented values, not taken from any published source.\n\n| Temperature / °C | Time, replicate 1 / s | Time, replicate 2 / s | Time, replicate 3 / s | Mean time / s |\n|---|---|---|---|---|\n| 10 | 540 | 570 | 555 | 555 |\n| 20 | 270 | 255 | 285 | 270 |\n| 30 | 140 | 150 | 130 | 140 |\n| 40 | 90 | 95 | 100 | 95 |\n| 50 | 150 | 180 | 165 | 165 |\n| 60 | more than 900 | more than 900 | more than 900 | not calculated |\n\nAt 10 °C the mean is (540 + 570 + 555) ÷ 3 = 1665 ÷ 3 = 555 s. At 40 °C it is (90 + 95 + 100) ÷ 3 = 285 ÷ 3 = 95 s. The shortest mean time is at 40 °C. The times at 30 and 50 °C are 140 s and 165 s, so the fastest rate lies between 30 and 50 °C, and a further plan adds values at 35 and 45 °C, around the specific value where the change is greatest. At 60 °C the starch was still present after 900 s in all three tubes, so the colour stayed blue-black and the result is recorded as more than 900 s.",
+   "claim_ids": [
+    "CLM-8223-4.1-003",
+    "CLM-8223-4.1-007",
+    "CLM-8223-4.1-008",
+    "CLM-8223-4.1-009",
+    "CLM-8223-4.1-014",
+    "CLM-8223-4.1-017"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.1-003": 1,
+    "CLM-8223-4.1-007": 1,
+    "CLM-8223-4.1-008": 1,
+    "CLM-8223-4.1-009": 1,
+    "CLM-8223-4.1-014": 1,
+    "CLM-8223-4.1-017": 1
+   },
+   "authored_hash": "aa718186d8b46b6f5d6fb33916b999319771eb72b2e6030280c65942c5d56cb3"
+  },
+  {
+   "block_id": "4.1-b17",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "Recording the readings in a table and presenting them as a graph is taught in 4.3, Recording and presenting data. Drawing and measuring specimens is taught in 4.2, Microscopy, drawing and measuring specimens. Calculating means, judging anomalous results and evaluating the quality of the data are taught in 4.4, Analysis, conclusions and evaluation. The rules for units and accuracy are also met in the mathematical skills of 5.1, Number, units and accuracy.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {},
+   "authored_hash": "af83d31ed32f0f0cf6baf69d60282fd2bb750d0044fa97ecfca4c40f45c5842e"
+  }
+ ]
+}

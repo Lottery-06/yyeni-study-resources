@@ -1,0 +1,893 @@
+{
+ "dataset_id": "ITEMS-8223-1.1",
+ "topic_id": "1.1",
+ "items": [
+  {
+   "item_id": "ITEM-8223-1.1-001-DEF",
+   "objective_ids": [
+    "OBJ-8223-1.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.1-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 1,
+   "prompt": "State what is meant by the binomial system of naming organisms.",
+   "canonical_answer": "The binomial system gives each species a two-part Latin name, the genus name first and then the species name.",
+   "marking_guidance": [
+    "1 mark: the key words, a two-part name made of the genus and the species. A Latin name with no mention of two parts is not enough."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.1 from the topic 1.1 claim ledger. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.1-001": 1
+   },
+   "authored_hash": "daafaf07a3b47005b8cef7a58378e6bef131110051cd30646693d5b1adf977c9"
+  },
+  {
+   "item_id": "ITEM-8223-1.1-002-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-1.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.1-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 1,
+   "prompt": "State one rule for writing a binomial name correctly.",
+   "canonical_answer": "The genus name begins with a capital letter and the species name is written in lower case. (In print the name is in italics; when handwritten each word is underlined.)",
+   "marking_guidance": [
+    "1 mark for one correct point: a capital letter on the genus word, or lower case for the species word, or italics in print, or underlining when handwritten. Any one of these features is accepted. A capital letter on both words is wrong."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.1 from the topic 1.1 claim ledger. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.1-001": 1
+   },
+   "authored_hash": "44cb2ffdf5ec40d4c078e915e6a40ecd8dabe9c0076c73a1ca027d3a3f5b36b4"
+  },
+  {
+   "item_id": "ITEM-8223-1.1-014-MISCON",
+   "objective_ids": [
+    "OBJ-8223-1.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.1-001",
+    "CLM-8223-1.1-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A learner studying Panthera leo, the lion, and Panthera pardus, the leopard, says that the first word of each name is the species. Explain what is wrong with this and how the learner can tell which word is the genus.",
+   "canonical_answer": "The learner has confused the two parts: in fact the first word is the genus, written with a capital letter, and the second word is the species, written in lower case. The test is to ask which word two closely related species would share. The lion and the leopard share Panthera, so Panthera is the genus.",
+   "marking_guidance": [
+    "2 marks: 1 for identifying the error (the first word is the genus, not the species) and 1 for the test, that closely related species share the genus word, with the shared word Panthera as the evidence.",
+    "The capital letter and lower case rule is accepted for the first mark. A correct meaning of genus on its own, with no link to the names given, is not the test."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.1 from the topic 1.1 claim ledger. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.1-001": 1,
+    "CLM-8223-1.1-002": 1
+   },
+   "authored_hash": "eb207a106ad10b45988ee193d8441f8d17538a57187620f7dc20c3a0af698322"
+  },
+  {
+   "item_id": "ITEM-8223-1.1-018-INTERP",
+   "objective_ids": [
+    "OBJ-8223-1.1-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.1-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "The table lists the binomial names of four animals, in our own simplified list.\n\n| Common name | Binomial name |\n|---|---|\n| Lion | Panthera leo |\n| Leopard | Panthera pardus |\n| Cheetah | Acinonyx jubatus |\n| Spotted hyena | Crocuta crocuta |\n\nDescribe what the table shows about how closely related the four animals are likely to be.",
+   "canonical_answer": "The table shows that the lion and the leopard share the genus Panthera, so they are likely to be the most closely related pair. The cheetah and the spotted hyena each have a genus that no other animal in the table shares, so they are likely to be less closely related to the other animals.",
+   "marking_guidance": [
+    "2 marks: 1 for reading the table correctly, that the lion and leopard share the genus Panthera; 1 for the meaning, that this shows they are the closest relatives in the table, or that the other two animals have separate genera so are less closely related.",
+    "The repeated word in the hyena name is a data-reading slip: it does not link the hyena to another animal."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.1 from the topic 1.1 claim ledger. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.1-002": 1
+   },
+   "authored_hash": "174d1dd92e55f03099db75103165af96de712abf995eabbcbdab815452e9ff74"
+  },
+  {
+   "item_id": "ITEM-8223-1.1-003-DEF",
+   "objective_ids": [
+    "OBJ-8223-1.1-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.1-004"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by a hierarchical classification system.",
+   "canonical_answer": "A hierarchical classification system sorts organisms into groups that sit inside larger groups, from kingdom down to species, with no overlap between groups of the same rank.",
+   "marking_guidance": [
+    "1 mark: the key words, groups within larger groups (or smaller groups placed inside larger ones). A bare list of the ranks with no idea of groups inside groups is not a definition."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.1 from the topic 1.1 claim ledger. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.1-004": 1
+   },
+   "authored_hash": "31cb53c93cf65bb5676ea251caead06795d13b7dad842e432d8ae72266f2d864"
+  },
+  {
+   "item_id": "ITEM-8223-1.1-004-FEATURE",
+   "objective_ids": [
+    "OBJ-8223-1.1-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.1-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "FEATURE",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State how the number of features shared by the members of a taxon tends to change as the rank falls from kingdom to species.",
+   "canonical_answer": "The members of a taxon tend to share more features as the rank falls, so the members of a species share the most.",
+   "marking_guidance": [
+    "1 mark for the correct point about this feature of the hierarchy: the number of shared features increases as the rank falls. The reverse direction is wrong."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.1 from the topic 1.1 claim ledger. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.1-005": 1
+   },
+   "authored_hash": "5fec275ad106f99338592d7ef32d472a05b063965ef5f312d595138868809a57"
+  },
+  {
+   "item_id": "ITEM-8223-1.1-015-INTERP",
+   "objective_ids": [
+    "OBJ-8223-1.1-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.1-004",
+    "CLM-8223-1.1-005",
+    "CLM-8223-1.1-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "The table is our simplified extract from the classification of four mammals.\n\n| Taxon | Lion | Leopard | Spotted hyena | Springbok |\n|---|---|---|---|---|\n| Class | Mammalia | Mammalia | Mammalia | Mammalia |\n| Order | Carnivora | Carnivora | Carnivora | Artiodactyla |\n| Family | Felidae | Felidae | Hyaenidae | Bovidae |\n| Genus | Panthera | Panthera | Crocuta | Antidorcas |\n\nDescribe what the table shows about how similar the springbok is to the other three animals, and about how far down the hierarchy the lion and the leopard stay together.",
+   "canonical_answer": "The springbok shares the class Mammalia with the other three animals but is placed in a different order, so it separates from them at a high rank and is likely to share the fewest features with them. The lion and the leopard share their taxa down to the genus Panthera, so they stay together to a low rank and are the closest pair in the table.",
+   "marking_guidance": [
+    "2 marks: 1 for reading the springbok correctly, that it shares the class but is in a different order (Artiodactyla) from the other three animals, so it separates earliest; 1 for the lion and leopard sharing each taxon in the table down to the genus.",
+    "The table shows rank by rank; the answer means that separation at a higher rank indicates fewer shared features. A statement that the springbok is not a mammal is wrong."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.1 from the topic 1.1 claim ledger. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.1-004": 1,
+    "CLM-8223-1.1-005": 1,
+    "CLM-8223-1.1-006": 1
+   },
+   "authored_hash": "4c9c5a60a7524bbd9d97a32cb9bbef7433483c2616cf9fc015c5c6968632a35e"
+  },
+  {
+   "item_id": "ITEM-8223-1.1-005-DEF",
+   "objective_ids": [
+    "OBJ-8223-1.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.1-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by natural classification.",
+   "canonical_answer": "Natural classification groups organisms according to their homologous features and evolutionary relationships, so that the members of a group share a common ancestor.",
+   "marking_guidance": [
+    "1 mark: the key words, based on homologous features or on evolutionary relationships (common ancestor). Grouping by convenient features such as habitat or the ability to fly is the artificial kind, not the definition."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.1 from the topic 1.1 claim ledger. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.1-007": 1
+   },
+   "authored_hash": "6b1bf830a9eac171b5702986a2f1c555c5de7c9063925426b419c05dee84e4ab"
+  },
+  {
+   "item_id": "ITEM-8223-1.1-006-MECH",
+   "objective_ids": [
+    "OBJ-8223-1.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.1-008",
+    "CLM-8223-1.1-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "Explain how the presence of homologous features in organisms leads to the organisms being placed in the same group in a natural classification.",
+   "canonical_answer": "Homologous features have the same basic structure because they are inherited from a common ancestor. Organisms that share many of them are therefore likely to be descended from the same ancestor, which means they are closely related and are placed in the same group.",
+   "marking_guidance": [
+    "2 marks: 1 for explaining how the features arise, the same basic structure inherited from a common ancestor; 1 for the result, that shared homologous features indicate a close evolutionary relationship, so the organisms are grouped together.",
+    "The mechanism needs the link in both steps. A statement that the features look similar, with no mention of inheritance from an ancestor, earns one mark at most."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.1 from the topic 1.1 claim ledger. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.1-008": 1,
+    "CLM-8223-1.1-010": 1
+   },
+   "authored_hash": "715ef8edfdffb321efc33558b571fd97d163cda8745682cea74d0fbc9631c5ad"
+  },
+  {
+   "item_id": "ITEM-8223-1.1-016-INTERP",
+   "objective_ids": [
+    "OBJ-8223-1.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.1-008",
+    "CLM-8223-1.1-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "The table is our own summary of four limbs used for different jobs.\n\n| Limb | Main use | Humerus, radius, ulna, wrist and hand bones present |\n|---|---|---|\n| Human arm | Grasping | Yes |\n| Bat wing | Flight | Yes |\n| Whale flipper | Swimming | Yes |\n| Dragonfly wing | Flight | No |\n\nDescribe what the table shows about the human arm, the bat wing and the whale flipper compared with the dragonfly wing, and what this means for how related the animals are.",
+   "canonical_answer": "The table shows that the human arm, the bat wing and the whale flipper have the same set of bones although they are used for different jobs, so they are homologous and suggest a common ancestor. The dragonfly wing is used for flight like the bat wing but has no limb bones, so it is analogous to the bat wing and does not show that the dragonfly is closely related to the bat.",
+   "marking_guidance": [
+    "2 marks: 1 for reading the data, that the three limbs have the same bones despite different uses and the dragonfly wing has none; 1 for the meaning, homologous limbs suggest a common ancestor whereas the similar function of the two wings is analogous and shows no relationship."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.1 from the topic 1.1 claim ledger. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.1-008": 1,
+    "CLM-8223-1.1-009": 1
+   },
+   "authored_hash": "6e6b11119b6d7975307c4a5548e23bf224eccde1932ddedd769014d01bcf678b"
+  },
+  {
+   "item_id": "ITEM-8223-1.1-019-APP",
+   "objective_ids": [
+    "OBJ-8223-1.1-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.1-008",
+    "CLM-8223-1.1-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner in Rundu groups a fruit bat and a dragonfly in one set because both have wings. A natural classification places the bat with the mammals and not with the dragonfly. Explain, using homologous features, why the natural classification is better evidence of relationship in this case.",
+   "canonical_answer": "In this case the wings are analogous, because both are used for flight but the bat wing is supported by forelimb bones and the dragonfly wing is not, so the wings do not show common ancestry. The bat has hair and forelimb bones with the same basic pattern as other mammals, which are homologous features, so it is placed with the mammals because it shares an ancestor with them.",
+   "marking_guidance": [
+    "2 marks: 1 for explaining that the wings are analogous (similar function, different structure and origin) so they do not show relationship; 1 for naming homologous features of the bat that it shares with mammals, such as hair or the forelimb bone pattern, because these show common ancestry.",
+    "The answer uses the animals given in this case, not a general statement about classification."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.1 from the topic 1.1 claim ledger. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.1-008": 1,
+    "CLM-8223-1.1-009": 1
+   },
+   "authored_hash": "f5e382dc4fef4d486613277f0f61dd7213bd3581cd83b57274caf4181c65776b"
+  },
+  {
+   "item_id": "ITEM-8223-1.1-007-PROC",
+   "objective_ids": [
+    "OBJ-8223-1.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.1-011",
+    "CLM-8223-1.1-012"
+   ],
+   "item_type": "flashcard",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "prompt": "A class in Etosha wants a dichotomous key for four animals: an ostrich, a cheetah, a gemsbok and a springbok. Describe, in order, how the class should construct the key.",
+   "canonical_answer": "First, the class chooses features that can be seen clearly and that differ between the animals, such as feathers or hair and the presence of horns. Then it writes a numbered couplet of two contrasting statements that splits the animals into two smaller sets, each statement leading to a name or to the next couplet, and it repeats this with each smaller set until every animal has its own name. Finally, the class tests the key by taking each animal through it, so that the end result is a key that reaches the right name when it is used.",
+   "marking_guidance": [
+    "3 marks, one for each stage in the correct order: choosing clear, observable features that differ; writing paired contrasting statements that split the set and lead to a name or the next couplet, repeated until each animal is named; testing the key with each animal.",
+    "The sequence is the point: a key tested before it is written is out of order. Naming a feature without saying how it splits the set earns no mark for the second stage, and the end product follows from all three stages."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.1 from the topic 1.1 claim ledger. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.1-011": 1,
+    "CLM-8223-1.1-012": 1
+   },
+   "authored_hash": "43cb1187c1958897ab81fb84ec307bdc453ef9081a27ea871b3963f09d1729e8"
+  },
+  {
+   "item_id": "ITEM-8223-1.1-008-WHY",
+   "objective_ids": [
+    "OBJ-8223-1.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.1-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State one reason why a dichotomous key for use in the field should use a feature such as the type of body covering rather than a feature such as the size of the animal.",
+   "canonical_answer": "The body covering can be seen clearly and does not change with age, whereas size varies between young and adult animals, so size could lead to a wrong identification.",
+   "marking_guidance": [
+    "1 mark for one valid reason: the feature is clearly visible or stays the same with age or season, because size or colour can vary and a young animal could be wrongly identified. The reason is about the reliability of the feature."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.1 from the topic 1.1 claim ledger. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.1-013": 1
+   },
+   "authored_hash": "b939e00160349d5c2069f7aaa04ca556b311cbca2228387b7e4c98e99876dd69"
+  },
+  {
+   "item_id": "ITEM-8223-1.1-017-INTERP",
+   "objective_ids": [
+    "OBJ-8223-1.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.1-011",
+    "CLM-8223-1.1-012",
+    "CLM-8223-1.1-014"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "The table is our own key to four animals.\n\n| Couplet | Statement | Go to or name |\n|---|---|---|\n| 1a | Body covered in feathers | ostrich |\n| 1b | Body covered in hair | couplet 2 |\n| 2a | No horns; coat marked with solid black spots | cheetah |\n| 2b | Horns present | couplet 3 |\n| 3a | Horns long and almost straight | gemsbok |\n| 3b | Horns short and curved like a lyre | springbok |\n\nDescribe what the key shows about how a springbok is identified, giving the features in the order in which they are met.",
+   "canonical_answer": "The key, read from couplet 1, shows that the springbok is first separated from the ostrich because its body is covered in hair, not feathers. It is then separated from the cheetah because horns are present, and finally from the gemsbok because its horns are short and curved like a lyre, which gives the name springbok.",
+   "marking_guidance": [
+    "2 marks: 1 for the first two features in order (hair, then horns present), read correctly from couplets 1b and 2b; 1 for the last feature (short, lyre-shaped horns, couplet 3b) and the result that this means the name springbok."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.1 from the topic 1.1 claim ledger. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.1-011": 1,
+    "CLM-8223-1.1-012": 1,
+    "CLM-8223-1.1-014": 1
+   },
+   "authored_hash": "6504832b7dbec144599f2766e1a00fcd08b0e5d51627746196262bd1cb49796f"
+  },
+  {
+   "item_id": "ITEM-8223-1.1-009-DEF",
+   "objective_ids": [
+    "OBJ-8223-1.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.1-015"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 2,
+   "prompt": "State what is meant by the biological species concept.",
+   "canonical_answer": "In the biological species concept a species is a group of organisms that can interbreed in natural conditions to produce fertile offspring and that do not breed in this way with other such groups.",
+   "marking_guidance": [
+    "1 mark: the key words, interbreed and produce fertile offspring. Interbreeding with no mention of fertile offspring is incomplete."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.1 from the topic 1.1 claim ledger. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.1-015": 1
+   },
+   "authored_hash": "b8bf67aafe877ab9e7a6ad7dff83d36d6b6061ce70ce78967895cec74d914af1"
+  },
+  {
+   "item_id": "ITEM-8223-1.1-010-MECH",
+   "objective_ids": [
+    "OBJ-8223-1.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.1-018"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "A horse and a donkey can mate. Explain how the biological species concept shows that they are separate species.",
+   "canonical_answer": "The offspring of a horse and a donkey is a mule, which is usually sterile. The biological species concept requires interbreeding to produce fertile offspring, which does not happen here, so the horse and the donkey are separate species.",
+   "marking_guidance": [
+    "2 marks: 1 for the mule being usually sterile (infertile offspring); 1 for linking this to the concept, because the concept requires fertile offspring, which results in the two animals being separate species."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.1 from the topic 1.1 claim ledger. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.1-018": 1
+   },
+   "authored_hash": "b72352b91516162c18b21e40453d4fd38b3595afe7a12c73ba134355cdeb787c"
+  },
+  {
+   "item_id": "ITEM-8223-1.1-011-MISCON",
+   "objective_ids": [
+    "OBJ-8223-1.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.1-015"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner writes: A species is one lion living in the Etosha National Park. Explain what is wrong with this statement and how the learner can test whether a statement describes a species.",
+   "canonical_answer": "The learner has confused an organism with a species. One lion is an organism, a single individual, whereas a species is the group of organisms, here Panthera leo, in which that individual is placed. The test is to ask whether the statement describes one individual or the group that the individual is placed in.",
+   "marking_guidance": [
+    "2 marks: 1 for the error, an individual organism has been called a species, with the species identified as the group; 1 for the test, one individual or the group it is placed in.",
+    "A repeated meaning of species with no reference to the one lion does not discriminate between the two terms and earns one mark at most."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.1 from the topic 1.1 claim ledger. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.1-015": 1
+   },
+   "authored_hash": "3c8bfacf015a8f66b8d88c35497c713a48ffa91bda4c798f5512ac77557a6896"
+  },
+  {
+   "item_id": "ITEM-8223-1.1-012-MISCON",
+   "objective_ids": [
+    "OBJ-8223-1.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.1-016"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner writes: The morphological species concept groups organisms by their DNA. Explain what is wrong with this and describe a test for whether a concept is morphological.",
+   "canonical_answer": "The learner has wrongly described the concept: in fact the morphological species concept groups organisms by shared observable structural features, not by their DNA. The test is to ask whether the concept could be applied to a preserved specimen with only its shape to go on. A morphological concept can be, because structure can be seen.",
+   "marking_guidance": [
+    "2 marks: 1 for the error and correction, the concept rests on observable structure, not DNA or other genetic features; 1 for the test, whether it could be applied to a preserved specimen using only its shape."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.1 from the topic 1.1 claim ledger. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.1-016": 1
+   },
+   "authored_hash": "5c3047704a22a7d7a26266a5f9da51741245a163920cc44088be46eb538bcd69"
+  },
+  {
+   "item_id": "ITEM-8223-1.1-013-MISCON",
+   "objective_ids": [
+    "OBJ-8223-1.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.1-016",
+    "CLM-8223-1.1-018"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A learner at a museum in Windhoek says that the biological species concept should be used to decide whether two sets of fossil skulls belong to the same species. Explain why this is not a suitable concept for fossils and which concept can be used instead.",
+   "canonical_answer": "The learner has chosen the wrong concept. The biological species concept depends on interbreeding, which cannot be tested in fossils because the animals cannot be observed breeding. The morphological concept can be used instead, because it groups organisms by observable structure. The test is whether the organisms can be observed breeding.",
+   "marking_guidance": [
+    "2 marks: 1 for the error, the biological concept needs interbreeding to be observed, which cannot be done with fossils (the test: can the organisms be observed breeding?); 1 for the morphological concept as the alternative because structure can be examined."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.1 from the topic 1.1 claim ledger. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.1-016": 1,
+    "CLM-8223-1.1-018": 1
+   },
+   "authored_hash": "9a6099635f817e45b229d46927497d7bca9182b859121a9cbb80c45b84676dcd"
+  },
+  {
+   "item_id": "ITEM-8223-1.1-P01",
+   "objective_ids": [
+    "OBJ-8223-1.1-01",
+    "OBJ-8223-1.1-02",
+    "OBJ-8223-1.1-03",
+    "OBJ-8223-1.1-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.1-001",
+    "CLM-8223-1.1-002",
+    "CLM-8223-1.1-004",
+    "CLM-8223-1.1-005",
+    "CLM-8223-1.1-007",
+    "CLM-8223-1.1-008",
+    "CLM-8223-1.1-009",
+    "CLM-8223-1.1-011",
+    "CLM-8223-1.1-012",
+    "CLM-8223-1.1-013",
+    "CLM-8223-1.1-014"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": null,
+   "mark_tariff": 12,
+   "difficulty": 3,
+   "prompt": "Twelve questions. Choose one option for each.\n\n1. Which is the correct way to write the binomial name of the African elephant?\nA  loxodonta Africana\nB  Loxodonta africana\nC  Africana loxodonta\nD  LOXODONTA AFRICANA\n\n2. Why do biologists use binomial names rather than common names?\nA  Binomial names are shorter than common names.\nB  Binomial names describe the habitat of the organism.\nC  The binomial name is used in the same form in every language, so it identifies the organism without confusion.\nD  Binomial names are written in the language of the country where the organism lives.\n\n3. An animal is named Panthera leo and a second animal is named Panthera pardus. What do the two names show?\nA  The animals are the same species.\nB  The animals are in different genera but are the same species.\nC  The animals are in different families.\nD  The animals are in the same genus but are different species.\n\n4. Which list gives the taxa in order from the largest to the smallest?\nA  kingdom, phylum, class, order, family, genus, species\nB  kingdom, class, phylum, order, family, genus, species\nC  species, genus, family, order, class, phylum, kingdom\nD  kingdom, phylum, order, class, family, genus, species\n\n5. Two organisms belong to the same family. Which statement is correct?\nA  They belong to the same species.\nB  They belong to the same order, because a family sits inside one order.\nC  They belong to the same genus.\nD  They belong to different classes.\n\n6. Which pair of organisms is likely to share the greatest number of features?\nA  two organisms in the same order but in different families\nB  two organisms in the same class but in different orders\nC  two organisms in the same kingdom but in different phyla\nD  two organisms in the same genus\n\n7. What is a homologous feature?\nA  a feature with the same function in organisms that are not related\nB  a feature that is found in a single species\nC  a feature with the same basic structure in different organisms, inherited from a common ancestor\nD  a feature that has changed during the life of one organism\n\n8. The wing of a bat and the flipper of a whale contain the same arrangement of bones. What does this suggest?\nA  The bat and the whale share a common ancestor.\nB  The bat and the whale are the same species.\nC  The wing and the flipper do the same job.\nD  The wing and the flipper are analogous features.\n\n9. A learner groups a butterfly and a swallow together because both have wings. Why is this not a natural classification?\nA  The butterfly is smaller than the swallow.\nB  The wings are analogous, so the grouping does not reflect evolutionary relationships.\nC  Wings are not useful for classifying any organisms.\nD  The swallow is the larger of the two animals.\n\n10. What does a couplet in a dichotomous key contain?\nA  a single statement that leads to a name\nB  a list of the features of one organism\nC  three statements about the size of the organism\nD  a pair of contrasting statements, each leading to a name or to another couplet\n\n11. Which feature is the best choice for a field key to separate two local trees?\nA  the height of the tree\nB  the colour of the flowers\nC  whether the leaf is a single blade or is divided into several leaflets\nD  whether the tree looks healthy\n\n12. A complete dichotomous key is built for six organisms. How many couplets does it have?\nA  5 couplets, because 6 − 1 = 5\nB  6 couplets, one for each organism\nC  3 couplets, half of the number of organisms\nD  12 couplets, two for each organism",
+   "canonical_answer": "Key: 1 B, 2 C, 3 D, 4 A, 5 B, 6 D, 7 C, 8 A, 9 B, 10 D, 11 C, 12 A.\n1. Loxodonta africana (B). The wrong options each come from an error: A puts the capital letter on the species word instead of the genus word; C puts the species word first, an error of order; D uses capitals for both words, when the genus word alone has one.\n2. The binomial name is used in the same form in every language, so it identifies the organism without confusion (C). The wrong options each come from an error: A confuses the name with a shortening, but a binomial name is often longer than a common name; B gives the name a role in describing habitat that it does not have; D reverses the point, since the name is the same form in every language.\n3. The animals are in the same genus but are different species (D). The wrong options each come from an error: A takes the shared first word to be the species word, an error of swapping the two parts; B mixes up the two parts of the name, since the same species word would be needed for the same species; C ignores that a shared genus word suggests a close relationship, so a different family is unlikely.\n4. Kingdom, phylum, class, order, family, genus, species (A). The wrong options each come from an error: B swaps phylum and class, two neighbouring ranks; C reverses the whole order from the smallest to the largest; D swaps class and order, two neighbouring ranks.\n5. They belong to the same order, because a family sits inside one order (B). The wrong options each come from an error: A assumes the lowest taxon is shared when only a higher one is known; C assumes that sharing a family means sharing the smaller genus, which does not follow; D reverses the hierarchy, since a family sits inside one class.\n6. Two organisms in the same genus (D). The wrong options each come from an error: A treats a higher taxon as closer than the genus; B treats a higher taxon as closer than the genus; C treats the highest rank listed as the closest.\n7. A feature with the same basic structure in different organisms, inherited from a common ancestor (C). The wrong options each come from an error: A describes an analogous feature, similar in function alone; B confuses homologous with unique, since a feature in one species cannot be shared by ancestry; D confuses inheritance with change during one lifetime.\n8. The bat and the whale share a common ancestor (A). The wrong options each come from an error: B takes similar structure to mean one species, which is an error of rank; C confuses homologous structure with similar function, when the two limbs do different jobs; D mixes up the terms, since shared structure inherited from an ancestor is homologous.\n9. The wings are analogous, so the grouping does not reflect evolutionary relationships (B). The wrong options each come from an error: A uses size, which is not a homologous feature; C overstates the point, because the problem is that these wings are analogous, not that wings are useless; D uses size again, which does not test relationship.\n10. A pair of contrasting statements, each leading to a name or to another couplet (D). The wrong options each come from an error: A misses the contrast, since a couplet has two statements; B describes a description card, not a couplet; C invents three statements and a feature, size, that varies.\n11. Whether the leaf is a single blade or is divided into several leaflets (C). The wrong options each come from an error: A height changes with the age of the tree; B flowers are present for part of the year, so the key would fail at other times; D health is a judgement and varies, so it is unreliable.\n12. 5 couplets, because 6 − 1 = 5 (A). The wrong options each come from an error: B counts one couplet per organism, an error, since each couplet leads to two outcomes; C halves the number, an error of reasoning; D counts the statements, not the couplets.",
+   "marking_guidance": [
+    "Twelve marks, one per question. The key is given first, followed for each question by the reason the correct option is right and the error each wrong option comes from.",
+    "Questions 1 to 3, 4 to 6, 7 to 9 and 10 to 12 test the binomial system, the hierarchy, natural classification and dichotomous keys, in that order; about half are recall and about half apply a rule to a given case."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.1 from the topic 1.1 claim ledger. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.1-001": 1,
+    "CLM-8223-1.1-002": 1,
+    "CLM-8223-1.1-004": 1,
+    "CLM-8223-1.1-005": 1,
+    "CLM-8223-1.1-007": 1,
+    "CLM-8223-1.1-008": 1,
+    "CLM-8223-1.1-009": 1,
+    "CLM-8223-1.1-011": 1,
+    "CLM-8223-1.1-012": 1,
+    "CLM-8223-1.1-013": 1,
+    "CLM-8223-1.1-014": 1
+   },
+   "authored_hash": "b828df143da07001d375cbb17f80c783594d484681e95dd37f78db02236c1dbc"
+  },
+  {
+   "item_id": "ITEM-8223-1.1-P02",
+   "objective_ids": [
+    "OBJ-8223-1.1-02",
+    "OBJ-8223-1.1-03",
+    "OBJ-8223-1.1-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-1.1-004",
+    "CLM-8223-1.1-005",
+    "CLM-8223-1.1-008",
+    "CLM-8223-1.1-010",
+    "CLM-8223-1.1-015",
+    "CLM-8223-1.1-016",
+    "CLM-8223-1.1-018"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "State",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "A class in Windhoek studied four animals. This is our own simplified extract from their classification.\n\n| Taxon | Plains zebra | Donkey | Horse | Gemsbok |\n|---|---|---|---|---|\n| Kingdom | Animalia | Animalia | Animalia | Animalia |\n| Phylum | Chordata | Chordata | Chordata | Chordata |\n| Class | Mammalia | Mammalia | Mammalia | Mammalia |\n| Order | Perissodactyla | Perissodactyla | Perissodactyla | Artiodactyla |\n| Family | Equidae | Equidae | Equidae | Bovidae |\n| Genus | Equus | Equus | Equus | Oryx |\n\n(a) State the lowest taxon in the table that is shared by all four animals. [1]\n(b) Describe what the table shows about how closely related the zebra, the donkey and the horse are, compared with the gemsbok. [2]\n(c) The zebra, the donkey and the horse have the same arrangement of leg bones, ending in a single hoof. Explain how this homologous feature supports placing the three animals in one genus. [2]\n(d) State why a horse and a donkey are classed as separate species by the biological species concept even though they can mate. [1]\n(e) Suggest why the biological species concept cannot be used to decide whether a fossil skull belongs to the same species as a living horse, and name the concept that could be used. [2]",
+   "canonical_answer": "(a) Class (Mammalia).\n(b) The zebra, the donkey and the horse share each taxon in the table down to the genus Equus, so they are closely related. The gemsbok shares the taxa down to the class Mammalia with them but is in a different order, so it is less closely related.\n(c) The same arrangement of leg bones is inherited from a common ancestor, so the bones are homologous. Animals sharing homologous features are likely to be descended from the same recent ancestor, which is why the three are grouped in one genus.\n(d) Their offspring, a mule, is usually sterile, so they do not produce fertile offspring.\n(e) The animals cannot be observed breeding, because a fossil is dead and separated from the living horse by time, so interbreeding cannot be tested; the morphological species concept, based on observable structure, could be used.",
+   "marking_guidance": [
+    "Marks and points: (a) 1 mark for class or Mammalia; (b) 2 marks from three points: zebra, donkey and horse share all taxa down to the genus Equus, the gemsbok differs from the order downward, so it is less closely related; (c) 2 marks from three points: same bone arrangement inherited from a common ancestor, homologous, so likely closely related; (d) 1 mark for the offspring (mule) usually being sterile.",
+    "(e) 2 marks from three points: cannot observe the fossil breeding, interbreeding cannot be tested, the morphological concept named. Parts (a) and (d) credit AO A (2 marks); parts (b), (c) and (e) credit AO B (6 marks). Each reason is given in terms of the animals in the table, not a general statement, and each term is used as the notes define it."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 1.1 from the topic 1.1 claim ledger. Single source, unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-1.1-004": 1,
+    "CLM-8223-1.1-005": 1,
+    "CLM-8223-1.1-008": 1,
+    "CLM-8223-1.1-010": 1,
+    "CLM-8223-1.1-015": 1,
+    "CLM-8223-1.1-016": 1,
+    "CLM-8223-1.1-018": 1
+   },
+   "authored_hash": "8f7dc3588c27edd039f97c1cc54f077eae19c0a94159a9c95a91b26ce3f706e9"
+  }
+ ]
+}

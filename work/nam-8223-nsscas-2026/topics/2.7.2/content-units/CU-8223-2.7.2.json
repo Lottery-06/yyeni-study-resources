@@ -1,0 +1,232 @@
+{
+ "unit_id": "CU-8223-2.7.2",
+ "title": "Mammalian heart",
+ "objective_ids": [
+  "OBJ-8223-2.7.2-01",
+  "OBJ-8223-2.7.2-02",
+  "OBJ-8223-2.7.2-03",
+  "OBJ-8223-2.7.2-04",
+  "OBJ-8223-2.7.2-05",
+  "OBJ-8223-2.7.2-06"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_structure_function",
+ "depth_tier": 3,
+ "word_budget": {
+  "min": 1630,
+  "target": 1985,
+  "max": 2340
+ },
+ "blocks": [
+  {
+   "block_id": "2.7.2-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "The parts of the mammalian heart and the vessels attached to it, how to record them in plan diagrams, why the walls of the chambers differ in thickness, what happens in one cardiac cycle and how pressure and valves are linked, how to read pressure graphs, and how each heartbeat is started and coordinated.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "7bb1dcf6895cb0f0b17c4ee0914bb4557449ab3d8498e842358a337134b91401"
+  },
+  {
+   "block_id": "2.7.2-b2",
+   "block_type": "components",
+   "heading": "External structure of the heart",
+   "text": "The mammalian heart is a muscular pump about the size of a closed fist, lying in the chest between the lungs. Its wall is cardiac muscle, called the myocardium (the term means the muscle of the heart wall). Seen from outside, the heart has four chambers. The two upper chambers are the atria (singular atrium). They are thin-walled and receive blood. The two lower chambers are the ventricles. They are thick-walled and pump blood out of the heart. The left ventricle forms the pointed lower tip, the apex.\n\nFour major vessels join the heart. The vena cava brings deoxygenated blood from the body into the right atrium. The pulmonary artery leaves the right ventricle and carries deoxygenated blood to the lungs. The pulmonary veins bring oxygenated blood from the lungs into the left atrium. The aorta leaves the left ventricle and carries oxygenated blood to the body. An artery is a vessel that carries blood away from the heart, which is why the pulmonary artery carries deoxygenated blood even though most arteries carry oxygenated blood.",
+   "claim_ids": [
+    "CLM-8223-2.7.2-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.7.2-001": 1
+   },
+   "authored_hash": "3fb967e3d9ad83442051ec5b6c02ccac826a82e72270195ec5f50410cd81b287"
+  },
+  {
+   "block_id": "2.7.2-b3",
+   "block_type": "components",
+   "heading": "Internal structure of the heart",
+   "text": "Cut lengthwise, the heart shows a muscular wall, the septum, running from top to bottom between the right side and the left side. It keeps oxygenated blood on the left apart from deoxygenated blood on the right.\n\nBetween each atrium and the ventricle below it is an atrioventricular valve. On the right it has three flaps and is called the tricuspid valve; on the left it has two flaps and is called the bicuspid valve. Thin strings called valve tendons join the edges of the flaps to small columns of muscle, the papillary muscles, on the inner wall of the ventricle. When the ventricle contracts, blood pushes the flaps together and shuts the valve, and the tendons stop the flaps being forced back into the atrium.\n\nAt the base of the aorta and at the base of the pulmonary artery is a semilunar valve. Each has three pocket-shaped cups. Blood moving out of the ventricle pushes the cups flat against the artery wall; blood trying to move back fills the pockets and closes the valve. Together the valves keep blood moving in one direction through the heart.",
+   "claim_ids": [
+    "CLM-8223-2.7.2-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.7.2-003": 1
+   },
+   "authored_hash": "b1bc55a047ad3a3ac0e5bdba4c15f69bd65b4953f0bf108721af7c04e1effdd4"
+  },
+  {
+   "block_id": "2.7.2-b4",
+   "block_type": "misconception",
+   "heading": "Coronary arteries and the major vessels",
+   "text": "A common error is to call the aorta and the pulmonary artery the coronary arteries because they are the arteries seen leaving the heart. They are not the same. The coronary arteries are narrow vessels that branch from the aorta close to its base and run over the outer surface of the heart. They supply the cardiac muscle of the heart wall with oxygenated blood. The aorta and pulmonary artery carry blood away to the body and the lungs. The test that tells them apart is to ask which vessels feed the heart's own muscle. The blood inside the chambers does not supply the thick myocardium, so the muscle needs its own arteries.",
+   "claim_ids": [
+    "CLM-8223-2.7.2-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.7.2-002": 1
+   },
+   "authored_hash": "aeafb2c0114bae2287d4529af6d2fca924c851fc6cf2cd7af2108265422dd72a"
+  },
+  {
+   "block_id": "2.7.2-b5",
+   "block_type": "process",
+   "heading": "Plan diagrams of the heart",
+   "text": "A plan diagram is a low-power record of a specimen. It outlines the organs, tissues and cavities and shows their proportions, and it contains no individual cells. In a practical you observe a dissected heart or a section, then record it on paper.\n\nA good plan diagram uses sharp, continuous pencil lines with no shading. It is large enough to fill most of the space. It has a title that says what it shows and the view, for example a section cut lengthwise. Labels are written horizontally and joined to the part by a ruled line that touches the part and does not cross another line. A magnification or scale is stated.\n\nFor the external view, outline the four chambers and the stumps of the four major vessels, and add the coronary arteries as thin lines on the surface. For a section cut lengthwise, outline the chambers, the septum, the valves with their tendons and the walls. Draw the walls in proportion to the specimen: the left ventricle wall is clearly thicker than the right ventricle wall, and both are thicker than the walls of the atria. Typical values for an adult are roughly 12 mm, 4 mm and 2 mm, but real specimens vary, so follow the specimen in front of you.",
+   "claim_ids": [
+    "CLM-8223-2.7.2-004",
+    "CLM-8223-2.7.2-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.7.2-004": 1,
+    "CLM-8223-2.7.2-005": 1
+   },
+   "authored_hash": "a5645cf7dae2ba7c9b50cb98f8156a0b9af407354cabee4276d4a02b367bdab5"
+  },
+  {
+   "block_id": "2.7.2-b6",
+   "block_type": "plain_explanation",
+   "heading": "Wall thickness in the chambers",
+   "text": "A thicker wall holds more cardiac muscle. More muscle contracts more forcefully and raises the pressure of the blood to a higher value. Each chamber has a wall that suits the pressure it must produce.\n\nThe atria have thin walls. An atrium pushes blood only a short distance into the ventricle below, and most of that blood has already flowed in while the heart was relaxed. The pressure needed is low, about 1 kPa.\n\nThe ventricles have thick walls. Each ventricle must raise the pressure of its blood above the pressure in the artery it leads into, so that the semilunar valve opens and the blood is forced out.\n\nThe left ventricle is thicker than the right. The left ventricle sends blood around the whole body, a long path with a high resistance to flow, and so produces a high pressure; in our values the peak is 16 kPa. The right ventricle sends the same volume of blood per beat to the nearby lungs, at a much lower pressure; our value for its peak is about 3 kPa. A higher pressure in the lungs would risk damaging the thin walls of the lung capillaries. The difference in wall thickness is therefore about pressure, not about the volume pumped.",
+   "claim_ids": [
+    "CLM-8223-2.7.2-006",
+    "CLM-8223-2.7.2-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.7.2-006": 1,
+    "CLM-8223-2.7.2-007": 1
+   },
+   "authored_hash": "e6996ae732f1da5ba7510b39ba0578b9dcbc5a2097e03417aa812e19fd701b7d"
+  },
+  {
+   "block_id": "2.7.2-b7",
+   "block_type": "process",
+   "heading": "The cardiac cycle",
+   "text": "The cardiac cycle is the sequence of events in one heartbeat. Systole means contraction and diastole means relaxation. In our example the cycle lasts 0.8 s, which is 75 beats per minute at rest.\n\nFirst, during diastole, the whole heart is relaxed. Blood from the veins flows into the atria and on through the open atrioventricular valves into the ventricles. Then, in atrial systole, the atria contract and push the last of their blood into the ventricles. Next, in ventricular systole, the ventricles contract. The atrioventricular valves shut, the semilunar valves open, and blood is forced into the aorta and the pulmonary artery. At the end of ventricular systole the ventricles relax, the semilunar valves shut, and the cycle starts again.\n\nThe table sets out one cycle of our values, beginning at atrial systole.\n\n| Stage | Time in our cycle | Atria | Ventricles | Atrioventricular valves | Semilunar valves |\n|---|---|---|---|---|---|\n| Atrial systole | 0.00 to 0.10 s | contract | relaxed, filling | open | closed |\n| Ventricular systole | 0.10 to 0.40 s | relaxed, filling | contract | closed, then open again at the end | open for about the middle of the stage, otherwise closed |\n| Diastole | 0.40 to 0.80 s | relaxed, filling | relaxed, filling | open | closed |\n\nThe result is that blood moves one way: veins, atria, ventricles, arteries.",
+   "claim_ids": [
+    "CLM-8223-2.7.2-008"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.7.2-008": 1
+   },
+   "authored_hash": "ab1f652e3f3605bf85d19a0c85e38c0ec2a759b76ef501a30d2a068896af7a80"
+  },
+  {
+   "block_id": "2.7.2-b8",
+   "block_type": "plain_explanation",
+   "heading": "Pressure changes and the valves",
+   "text": "Valves have no muscle of their own to open or close them. They move because blood pushes on them, so the direction of the pressure difference decides the state of each valve.\n\nAn atrioventricular valve is open while atrial pressure is higher than ventricular pressure, so blood flows down. When the ventricle contracts, its pressure rises above atrial pressure, and the valve flaps are pushed shut. A semilunar valve stays shut while the pressure in the artery is higher than that in the ventricle. As ventricular pressure rises above the arterial pressure, the valve is forced open. When the ventricle starts to relax, its pressure falls below the arterial pressure, blood begins to move back, and the pockets fill and close the valve. Later the ventricular pressure falls below atrial pressure and the atrioventricular valve opens again.\n\nThese are our own values for the left side, in kPa, for one cycle of 0.8 s. They are not measurements from any published source.\n\n| Time (s) | Left atrium (kPa) | Left ventricle (kPa) | Aorta (kPa) |\n|---|---|---|---|\n| 0.00 | 0.4 | 0.4 | 10.7 |\n| 0.05 | 0.8 | 0.7 | 10.7 |\n| 0.10 | 1.0 | 0.9 | 10.7 |\n| 0.15 | 0.5 | 6.0 | 10.7 |\n| 0.20 | 0.8 | 13.0 | 12.0 |\n| 0.25 | 1.0 | 16.0 | 15.5 |\n| 0.30 | 1.3 | 15.0 | 15.0 |\n| 0.35 | 1.5 | 9.0 | 13.0 |\n| 0.40 | 1.6 | 1.5 | 12.3 |\n| 0.50 | 1.0 | 0.8 | 11.5 |\n| 0.60 | 0.7 | 0.6 | 11.0 |\n| 0.70 | 0.5 | 0.5 | 10.8 |\n| 0.80 | 0.4 | 0.4 | 10.7 |\n\nIn this table the atrioventricular valve closes at about 0.11 s, when ventricular pressure passes atrial pressure. The semilunar valve opens at about 0.17 s, when ventricular pressure passes aortic pressure, and shuts at about 0.32 s. The atrioventricular valve opens again at about 0.40 s.",
+   "claim_ids": [
+    "CLM-8223-2.7.2-009",
+    "CLM-8223-2.7.2-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.7.2-009": 1,
+    "CLM-8223-2.7.2-010": 1
+   },
+   "authored_hash": "68f3f1d7d4b004d316149427831d648c74732c2532a9dc8ce398060d5058fa65"
+  },
+  {
+   "block_id": "2.7.2-b9",
+   "block_type": "interpretation",
+   "heading": "Reading pressure graphs",
+   "text": "These values can be drawn as a graph with time in seconds on the horizontal axis, from 0 to 0.8, and pressure in kPa on the vertical axis, from 0 to 18, with one line for each chamber or vessel. In our graph the left ventricle line lies close to 1 kPa until about 0.10 s, climbs steeply to a peak of 16.0 kPa at 0.25 s, and falls steeply to 1.5 kPa by 0.40 s. The aorta line never drops below 10.7 kPa and peaks at 15.5 kPa. The left atrium line stays between 0.4 kPa and 1.6 kPa.\n\nA valve changes state where two lines cross. The atrioventricular valve closes where the ventricle line rises above the atrial line, and the semilunar valve opens where it rises above the aorta line. Read the graph in this order: name the axes and units, quote values from the lines at the times asked, then say what the values mean for the valve. A reading on its own scores less than a reading with its meaning.\n\nTimes are read from the horizontal axis. Ventricular systole lasts from about 0.10 s to 0.40 s, a duration of 0.30 s. The beats per minute are 60 divided by the cycle time in seconds: 60 ÷ 0.8 = 75, so there are 75 beats per minute.\n\nThe aorta line stays high because the semilunar valve shuts and holds blood in the artery, so the pressure falls only slowly.",
+   "claim_ids": [
+    "CLM-8223-2.7.2-010",
+    "CLM-8223-2.7.2-011",
+    "CLM-8223-2.7.2-012"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.7.2-010": 1,
+    "CLM-8223-2.7.2-011": 1,
+    "CLM-8223-2.7.2-012": 1
+   },
+   "authored_hash": "8189d40d49925bda52835aa54708e5d437356f4a8b448b20edd780911f1f84fc"
+  },
+  {
+   "block_id": "2.7.2-b10",
+   "block_type": "plain_explanation",
+   "heading": "How each heartbeat is started and coordinated",
+   "text": "Cardiac muscle starts its own beat. The sinoatrial node (SAN) is a small patch of specialised cardiac muscle in the wall of the right atrium. It generates a wave of excitation at regular intervals, which is why it is called the pacemaker. The wave spreads across the walls of both atria, which contract together in atrial systole.\n\nBetween the atria and the ventricles is a layer of fibrous tissue that does not conduct the wave. The wave therefore cannot pass straight to the ventricles. It reaches the atrioventricular node (AVN), at the base of the atria, which is the route through. The AVN delays the wave by about 0.1 s before passing it on. During this delay the atria finish emptying into the ventricles.\n\nFrom the AVN the wave passes to the Purkyne tissue. This is made of specialised muscle fibres that conduct the wave quickly. It runs down the septum to the apex and then up through the walls of both ventricles. The ventricles therefore contract from the apex upwards, which squeezes the blood towards the arteries at the top.\n\nThe SAN sets the timing of the beat, the AVN makes the atria contract before the ventricles, and the Purkyne tissue makes the ventricles contract together from the apex. Standard texts write the name as Purkinje, and call the part in the septum the bundle of His; the syllabus spelling is used here.",
+   "claim_ids": [
+    "CLM-8223-2.7.2-013",
+    "CLM-8223-2.7.2-014",
+    "CLM-8223-2.7.2-015"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-2.7.2-013": 1,
+    "CLM-8223-2.7.2-014": 1,
+    "CLM-8223-2.7.2-015": 1
+   },
+   "authored_hash": "0d5cdf01f57584b8e3996f76a187e6d43eb91040b527d77ee7b83dd7a9a132b7"
+  },
+  {
+   "block_id": "2.7.2-b11",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "The structure of arteries, veins and capillaries and the route blood takes around the body are taught in 2.7.1, Mammalian circulatory system. The tissue you observe in a plan diagram is viewed with the instruments described in 2.1, The microscope.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "acfbc44de0041e9f4d93ccc8d501e1a1fd85ceb721adccefccb80439767e2a08"
+  }
+ ],
+ "word_count": 2095,
+ "qa_status": "review_required",
+ "notes": [
+  "Pressure values and timings in the tables are ours, written for teaching, and are not measurements from any published source. Wall thicknesses are rounded typical values and vary between specimens."
+ ]
+}

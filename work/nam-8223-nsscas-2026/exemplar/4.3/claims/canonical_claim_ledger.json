@@ -1,0 +1,166 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-4.3",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-4.3-001",
+   "objective_ids": [
+    "OBJ-8223-4.3-01"
+   ],
+   "text": "Raw data, meaning the unprocessed readings and observations, are recorded in a fully ruled table, and the body of the table holds the values alone, with no units.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored originally for the 8223 structural exemplar under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus, no second source checked. Illustrative and unverified; requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Illustrative, written for the structural exemplar."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-002",
+   "objective_ids": [
+    "OBJ-8223-4.3-01"
+   ],
+   "text": "The unit is written once in the column heading, in the form quantity / unit, so the body of the table is clear and every value is read against its heading.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored originally for the 8223 structural exemplar under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus, no second source checked. Illustrative and unverified; requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Illustrative, written for the structural exemplar."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-003",
+   "objective_ids": [
+    "OBJ-8223-4.3-05"
+   ],
+   "text": "A calculated value is given to the same number of significant figures as, or one more than, the measurement of least accuracy used in the calculation.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored originally for the 8223 structural exemplar under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus, no second source checked. Illustrative and unverified; requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Illustrative, written for the structural exemplar."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-004",
+   "objective_ids": [
+    "OBJ-8223-4.3-05"
+   ],
+   "text": "Significant figures are counted from the first non-zero digit, so 8.0 has two and 0.0380 has three; a zero after the decimal point at the end of a value is significant, so 8.0 and 8 do not show the same accuracy.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored originally for the 8223 structural exemplar under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus, no second source checked. Illustrative and unverified; requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Illustrative, written for the structural exemplar."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-005",
+   "objective_ids": [
+    "OBJ-8223-4.3-05"
+   ],
+   "text": "A calculator display carries more digits than the measurements justify, so the working is carried at full precision and only the final value is rounded to the number of significant figures the data allow.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored originally for the 8223 structural exemplar under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus, no second source checked. Illustrative and unverified; requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Illustrative, written for the structural exemplar."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-006",
+   "objective_ids": [
+    "OBJ-8223-4.3-07"
+   ],
+   "text": "The independent variable, the one the investigator changes, is placed on the x-axis, and the dependent variable, the one measured, on the y-axis.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored originally for the 8223 structural exemplar under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus, no second source checked. Illustrative and unverified; requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Illustrative, written for the structural exemplar."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.3-007",
+   "objective_ids": [
+    "OBJ-8223-4.3-07"
+   ],
+   "text": "Each axis is labelled with its quantity and unit, written to match the heading of the table column the values came from, for example Distance from lamp / cm.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored originally for the 8223 structural exemplar under standard v0.2.0-draft. Single source: our own statement of standard biology consistent with the syllabus, no second source checked. Illustrative and unverified; requires semantic review (RS-28) and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Illustrative, written for the structural exemplar."
+   ]
+  }
+ ]
+}

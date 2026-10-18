@@ -1,0 +1,199 @@
+{
+ "unit_id": "CU-8223-4.3",
+ "title": "Recording and presenting data",
+ "objective_ids": [
+  "OBJ-8223-4.3-01",
+  "OBJ-8223-4.3-05",
+  "OBJ-8223-4.3-07"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_data_presentation",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 960,
+  "target": 1004,
+  "max": 1370
+ },
+ "blocks": [
+  {
+   "block_id": "4.3-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "How to record raw data in a table, how many significant figures a calculated value carries, and how to label the axes of a graph so that it matches the table it came from.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {},
+   "authored_hash": "f530f598ec75a8733cbcfcaf3044e60cade91512cebc14ff17c0386663f2b916"
+  },
+  {
+   "block_id": "4.3-b2",
+   "block_type": "plain_explanation",
+   "heading": "Raw data in a ruled table",
+   "text": "Raw data are the results exactly as they were measured or observed, before any calculation has been done on them. They are recorded in a table with ruled lines around every row and column, so that each value has a clear place. Quantitative raw data are measurements such as a count, a length or a time. Qualitative raw data are observations such as a colour or a description. A table of raw data holds these results and nothing that has been calculated from them: a mean or a rate is processed data and belongs in a separate column or a later table. Record each result as soon as it is taken, so that nothing is remembered and written up later. A reading that could not be taken is marked as not taken, so that a gap is never mistaken for a zero.",
+   "claim_ids": [
+    "CLM-8223-4.3-001"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.3-001": 1
+   },
+   "authored_hash": "2855f2f686045a9a825de71268f3872f4b03660d2aff3b3d151b250b65a65d4b"
+  },
+  {
+   "block_id": "4.3-b3",
+   "block_type": "process",
+   "heading": "Where the units go",
+   "text": "The unit is written once, in the heading of the column, in the form quantity / unit, for example Time / s. The body of the table then holds numbers alone. Writing the unit beside every value adds clutter and makes the table harder to scan, and it repeats what the heading has already said. The independent variable, the one the investigator changes, is placed in the left column or top row, with the measured results in the columns to its right. Each reading in a column is given to the same number of significant figures, which the next section explains.",
+   "claim_ids": [
+    "CLM-8223-4.3-002"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.3-002": 1
+   },
+   "authored_hash": "0b9d424ad802748c72120c9c4a4bcdd196a7aacefa07556a05873929be956567"
+  },
+  {
+   "block_id": "4.3-b4",
+   "block_type": "definition",
+   "heading": "Significant figures",
+   "text": "The significant figures of a value are the digits that carry information about its size. They are counted from the first digit that is not zero. The value 8.0 has two significant figures and 0.0380 has three, because the zero after the decimal point at the end of a value is significant. This is why 8.0 and 8 do not show the same accuracy: 8.0 says the measurement was made to the nearest tenth. Significant figures are not the same as decimal places. The value 0.0380 has four decimal places but three significant figures.",
+   "claim_ids": [
+    "CLM-8223-4.3-004"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.3-004": 1
+   },
+   "authored_hash": "d3864a6699e2b5ab7ad2f73ac19a335e99437026a2cdbb1e3e6f780a46e91bee"
+  },
+  {
+   "block_id": "4.3-b5",
+   "block_type": "process",
+   "heading": "How many significant figures a calculated value carries",
+   "text": "A calculated value is given to the same number of significant figures as, or one more than, the measurement of least accuracy that went into the calculation. The measurement of least accuracy is the one with the fewest significant figures. If a time of 6.0 days has two and a length of 23 mm has two, the answer carries two, or three at most. Calculators show many more digits than the data justify, so the working is carried at full precision and only the final value is rounded. Rounding at each step lets small errors build up. Write the full-precision figure first, then the rounded value and the number of significant figures used.",
+   "claim_ids": [
+    "CLM-8223-4.3-003",
+    "CLM-8223-4.3-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.3-003": 1,
+    "CLM-8223-4.3-005": 1
+   },
+   "authored_hash": "fdf4da811f1e3bfc587adb24beebbab759be5331e0796c9b21f9f0043e6880e2"
+  },
+  {
+   "block_id": "4.3-b6",
+   "block_type": "worked_calculation",
+   "heading": "Worked example: a rate of growth",
+   "text": "A mahangu seedling root grew from 0 mm to 23 mm in 6.0 days. The rate of growth is the length divided by the time. The length, 23 mm, has two significant figures, and so does the time, 6.0 days, so the rate is given to two significant figures, or three at most. Working: 23 ÷ 6.0 = 3.8333. Rounded to two significant figures this is 3.8 mm day⁻¹, and 3.83 mm day⁻¹ is also acceptable to three. Writing 3.8333 mm day⁻¹ would claim an accuracy the measurements do not have, and writing 4 mm day⁻¹ would throw away accuracy they do have.",
+   "claim_ids": [
+    "CLM-8223-4.3-003",
+    "CLM-8223-4.3-004",
+    "CLM-8223-4.3-005"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.3-003": 1,
+    "CLM-8223-4.3-004": 1,
+    "CLM-8223-4.3-005": 1
+   },
+   "authored_hash": "4dbdfbb279024711d202ffc20c681f58cc0691c5a7a55541a84a27d788f0bcac"
+  },
+  {
+   "block_id": "4.3-b7",
+   "block_type": "process",
+   "heading": "Axes: which variable goes where",
+   "text": "On a graph the independent variable goes on the x-axis, the horizontal axis, and the dependent variable goes on the y-axis, the vertical axis. The independent variable is the one the investigator changes, such as the distance of a lamp from a plant. The dependent variable is the one that is measured in response, such as the number of bubbles released. A useful check is to read the axes as a sentence: the y-axis quantity changes with the x-axis quantity, so the measured result belongs on y.",
+   "claim_ids": [
+    "CLM-8223-4.3-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.3-006": 1
+   },
+   "authored_hash": "86ac96bf2b71854e639891fd5ca50b06a482f2fcc49ac90bb16a5e8d8dce2831"
+  },
+  {
+   "block_id": "4.3-b8",
+   "block_type": "process",
+   "heading": "Labelling the axes",
+   "text": "Each axis carries a label with the quantity and its unit, separated by a slash, for example Distance from lamp / cm. The label matches the heading of the column in the table that the values came from, so a reader can move from table to graph without guessing. Copy the wording from the table instead of inventing new wording, because a graph that uses different words from its table makes the reader stop and check whether the two describe the same quantity. A graph with no labels, or with a unit missing, cannot be interpreted. Where a quantity has no unit, such as a count of cells, the label names the quantity alone.",
+   "claim_ids": [
+    "CLM-8223-4.3-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.3-007": 1
+   },
+   "authored_hash": "da4eb2ca8387b3af01a1961277447fdfbe3d2ac286ffce196cfea8dcfbef58cb"
+  },
+  {
+   "block_id": "4.3-b9",
+   "block_type": "worked_application",
+   "heading": "Worked example: laying out an investigation",
+   "text": "A student in Rundu adds 0 g, 2 g, 4 g, 6 g and 8 g of fertiliser to five pots of mahangu seedlings and measures the height of the seedlings after 14 days. The mass of fertiliser is the independent variable, so it goes in the left column, headed Mass of fertiliser / g, and on the x-axis with that label. The height is the dependent variable, so it goes in the next column, headed Height of seedling / mm, and on the y-axis with that label. The body of the table holds only numbers, such as 0, 2, 4 and 46, 51 and 55, with no g or mm written beside them.",
+   "claim_ids": [
+    "CLM-8223-4.3-001",
+    "CLM-8223-4.3-002",
+    "CLM-8223-4.3-006",
+    "CLM-8223-4.3-007"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {
+    "CLM-8223-4.3-001": 1,
+    "CLM-8223-4.3-002": 1,
+    "CLM-8223-4.3-006": 1,
+    "CLM-8223-4.3-007": 1
+   },
+   "authored_hash": "af63aceb5e2357ebe5e8bafbed9cff258df48b602102346c942d8d9c5d0bccd1"
+  },
+  {
+   "block_id": "4.3-b10",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "Planning an investigation and choosing the measurements are taught in 4.1. Drawing and measuring specimens is taught in 4.2, and drawing conclusions and judging the quality of the data in 4.4. The rules for significant figures and the shapes of graphs and charts are also met in the mathematical skills of 5.1 and 5.2.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "C"
+   ],
+   "claims_seen": {},
+   "authored_hash": "14723323837c5c70f8b759c4e97717f07585517c067500e054902454d95f23df"
+  }
+ ],
+ "word_count": 1004,
+ "qa_status": "review_required",
+ "notes": [
+  "Structural exemplar for a practical topic. Slice of three objectives only; a full 4.3 unit has all eleven and its own word budget. The facts are illustrative and unverified."
+ ]
+}

@@ -1,0 +1,626 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-2.9.2",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-2.9.2-001",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-01"
+   ],
+   "text": "An antibody is a protein made and secreted by plasma cells, the descendants of activated B-lymphocytes. It is a molecule, not a cell, and it binds one specific antigen.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.2 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Glossary sense of antibody; the 2.9.1 ledger holds the plasma-cell origin."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.2-002",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-01"
+   ],
+   "text": "An antibody molecule is Y-shaped and has quaternary structure: four polypeptide chains, two identical long heavy chains and two identical shorter light chains. Disulfide bonds (covalent bonds between the sulfur atoms of cysteine R groups) join each light chain to a heavy chain and join the two heavy chains to each other, whereas hydrogen bonds, ionic bonds and hydrophobic interactions hold the folded shape within each chain.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2024-P1-Q32",
+     "locator": "examiner-report finding on this objective",
+     "support_type": "corroboration"
+    },
+    {
+     "source_id": "EV-8223-2025-P1-Q30",
+     "locator": "examiner-report finding on this objective",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.2 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard immunology. The syllabus line reads 'relate the molecular structure of antibodies to their functions (see 2.4.2)'; the heavy and light chain description is the standard biology we judged necessary for that relation. Hydrogen bonds do also occur between chains; the claim says they are not what links the chains."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.2-003",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-01"
+   ],
+   "text": "At the tip of each arm of the Y a heavy chain and a light chain form a variable region, whose amino acid sequence, and so folded tertiary shape, differs between antibodies and forms an antigen-binding site complementary to one antigen. The molecule therefore has two identical binding sites, and the constant region (the stem and the lower parts of the arms) has the same sequence in antibodies of one type whatever antigen they bind.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2024-P1-Q32",
+     "locator": "examiner-report finding on this objective",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.2 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard immunology."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.2-004",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-01"
+   ],
+   "text": "Antibodies act by binding antigen: they can neutralise a toxin or block the protein a virus uses to enter a cell, link pathogens together (agglutination) because each molecule has two binding sites, and coat a pathogen so that phagocytes, which recognise the constant region, engulf it more readily.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2024-P1-Q32",
+     "locator": "examiner-report finding on this objective",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.2 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard immunology. Complement activation is a further function that is not taught here."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.2-005",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-02"
+   ],
+   "text": "Monoclonal antibodies are identical antibodies, all made by a single clone of cells, so they all have the same variable regions and bind the same part of the same antigen. The blood of an infected person holds a mixture of antibodies from many clones, which are not monoclonal.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2024-P1-Q31",
+     "locator": "examiner-report finding on this objective",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.2 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard immunology."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.2-006",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-02"
+   ],
+   "text": "In the hybridoma method a mouse is injected with the antigen; B-lymphocytes (plasma cells) that make antibody against it are removed from the spleen; they are fused with myeloma (tumour) cells to form hybridoma cells; hybridoma cells that make the wanted antibody are selected and cloned; and the selected cells are grown in culture and the antibody is collected from the culture fluid.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2024-P1-Q31",
+     "locator": "examiner-report finding on this objective",
+     "support_type": "corroboration"
+    },
+    {
+     "source_id": "EV-8223-2021-P1-Q23",
+     "locator": "examiner-report finding on this objective",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.2 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Outline only, as the syllabus asks: the selection chemistry and the fusing agent are not taught. The source report records that this sequence was not well known."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.2-007",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-02"
+   ],
+   "text": "The B-lymphocytes supply the ability to make the wanted antibody but divide only a limited number of times in culture, whereas myeloma cells divide again and again but make no useful antibody. A hybridoma cell does both, so a clone of it makes a large, continuing supply of one antibody.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2024-P1-Q31",
+     "locator": "examiner-report finding on this objective",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.2 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard immunology."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.2-008",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-03"
+   ],
+   "text": "In diagnosis a monoclonal antibody that binds one specific antigen carries a label, such as an enzyme that causes a colour change or a coloured particle. When the antigen is present in the sample the antibody binds it and the label shows the result. Pregnancy tests (the hormone hCG in urine) and rapid tests for malaria (a protein made by the malaria parasite, in a drop of blood) work this way.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.2 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard biology; named examples are common textbook ones and we have not checked any single test product."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.2-009",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-03"
+   ],
+   "text": "In treatment a monoclonal antibody made against an antigen found in much greater amount on cancer cells than on most healthy cells can carry a drug or a radioactive substance to those cells, so that fewer healthy cells are exposed than when the drug circulates freely. The antibody can also act alone, by blocking a signal or by marking the cancer cell for destruction.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.2 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard biology. Delivery is a tendency: some healthy cells carry the antigen, so side effects are reduced, not removed."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.2-010",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-03"
+   ],
+   "text": "Monoclonal antibodies suit both uses because each binds one specific antigen, so the test or the drug is directed at one target, and because a hybridoma clone can be grown to give a large, steady and identical supply.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.2 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard biology."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.2-011",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-04"
+   ],
+   "text": "In active immunity the person's own plasma cells make the antibodies after the person's immune system meets an antigen, and memory cells form, so protection takes days to weeks to appear the first time and is long-lasting. In passive immunity the person receives ready-made antibodies from another source, so protection begins at once but the antibodies, being proteins, are broken down and no memory cells form, so protection fades over weeks to months.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2021-P1-Q22",
+     "locator": "examiner-report finding on this objective",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.2 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard immunology. Durations are typical ranges, not fixed values."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.2-012",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-04"
+   ],
+   "text": "Natural immunity is gained in the course of normal life, without a medical procedure, whereas artificial immunity is gained through a deliberate medical procedure. Natural active immunity follows an infection; natural passive immunity is the transfer of antibodies from mother to child across the placenta and in breast milk; artificial active immunity follows vaccination; artificial passive immunity follows an injection of ready-made antibodies, such as antivenom for a snakebite.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2024-P1-Q33",
+     "locator": "examiner-report finding on this objective",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.2 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard immunology. The syllabus pairs the two axes; the biology keeps them independent."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.2-013",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-04"
+   ],
+   "text": "The two pairs of terms answer different questions. Active or passive asks who made the antibodies: the person (active) or another source (passive). Natural or artificial asks whether a medical procedure was involved. A vaccine therefore gives artificial active immunity, and breast milk gives natural passive immunity; neither pair of terms can be read from the other.",
+   "claim_type": "misconception_correction",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2024-P1-Q33",
+     "locator": "examiner-report finding on this objective",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.2 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard immunology."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.2-014",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-05"
+   ],
+   "text": "A vaccine is a preparation of antigens from a pathogen, in a form that cannot cause the disease (a killed or inactivated pathogen, a weakened live pathogen, a purified antigen or an inactivated toxin), given to stimulate the recipient's own immune system. It does not contain ready-made antibodies.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2023-P2-Q3aiii",
+     "locator": "examiner-report finding on this objective",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.2 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard immunology. Newer vaccine types are not named because the syllabus does not call for them."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.2-015",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-05"
+   ],
+   "text": "The antigens in a vaccine are engulfed and presented by macrophages; a T-helper cell with a matching receptor activates a B-lymphocyte with a matching receptor; the B-lymphocyte divides into plasma cells, which secrete antibody, and memory cells. This is the primary response of topic 2.9.1, started without the person being ill.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2023-P2-Q3aiii",
+     "locator": "examiner-report finding on this objective",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.2 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard immunology; the detail is taught in 2.9.1 and is not repeated here."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.2-016",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-05"
+   ],
+   "text": "Memory cells persist for years. When the real pathogen enters, they divide quickly into plasma cells, giving a secondary response that is faster and larger than the first, so the pathogen is destroyed before it causes symptoms; this is long-term immunity. Some vaccines need a booster dose to raise the number of memory cells, and the length of protection differs between vaccines.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.2",
+     "support_type": "paraphrase"
+    },
+    {
+     "source_id": "EV-8223-2023-P2-Q3aiv",
+     "locator": "examiner-report finding on this objective",
+     "support_type": "corroboration"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.2 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard immunology. Memory cells are not typed further, to stay inside the syllabus limit on T-lymphocytes."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.2-017",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-06"
+   ],
+   "text": "Herd immunity is the protection of a whole population that results when a large enough proportion of its members is immune that an infected person passes the pathogen on to fewer than one other person on average, so that outbreaks die out and people who are not immune are less likely to be infected.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.2 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard epidemiology."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.2-018",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-06"
+   ],
+   "text": "The proportion that must be immune depends on how easily the pathogen spreads; for measles, which spreads very easily, it is about 95 per cent of the population, and it is lower for diseases that spread less easily. Because new babies who are not immune are born each year, uptake must be kept above that level, or outbreaks can return.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.2 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard epidemiology. The 95 per cent figure is the commonly quoted approximate threshold for measles; ranges quoted in sources vary, so the claim says about."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-2.9.2-019",
+   "objective_ids": [
+    "OBJ-8223-2.9.2-06"
+   ],
+   "text": "A vaccination programme controls disease by a routine schedule of doses at clinics, outreach teams that reach remote communities, a cold chain that keeps vaccines at a safe temperature, and records that identify children who were missed. Control is easier when the pathogen's antigens change little and humans are its only host, as with smallpox, which vaccination eradicated; influenza vaccines are updated because its antigens change.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [
+    {
+     "source_id": "NSSCAS-8223-SYLLABUS-2020",
+     "locator": "printed p.16, topic 2.9.2",
+     "support_type": "paraphrase"
+    }
+   ],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 2.9.2 from standard immunology, restating the syllabus line. Single source: our own statement, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.85
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Standard epidemiology."
+   ]
+  }
+ ]
+}

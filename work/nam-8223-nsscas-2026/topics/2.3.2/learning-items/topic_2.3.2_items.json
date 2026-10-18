@@ -1,0 +1,1052 @@
+{
+ "dataset_id": "ITEMS-8223-2.3.2",
+ "topic_id": "2.3.2",
+ "items": [
+  {
+   "item_id": "ITEM-8223-2.3.2-001-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State what is meant by the term diffusion.",
+   "canonical_answer": "Diffusion is the net movement of particles from a region of higher concentration to a region of lower concentration, down a concentration gradient, as a result of their random movement.",
+   "marking_guidance": [
+    "1 mark. The definition needs the key words net movement and from higher to lower concentration (down a concentration gradient). Random movement of particles is a creditworthy addition but the tariff is 1.",
+    "A statement that leaves out the direction, or describes the movement of water only, or says energy is needed, does not meet the definition."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-001": 1
+   },
+   "authored_hash": "ac3fad0de9487f4a4a72520a8d2b845354cebe4ae63ae089e5f23dd8b7b185f4"
+  },
+  {
+   "item_id": "ITEM-8223-2.3.2-002-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A root hair cell holds more nitrate ions than the soil water around it, yet it takes in more nitrate ions. Explain how it does this.",
+   "canonical_answer": "Carrier proteins in the cell surface membrane bind nitrate ions and, using energy from respiration, change shape so that the ions are moved into the cell against their concentration gradient. This is active transport, and it is how the cell builds up a higher concentration inside than outside.",
+   "marking_guidance": [
+    "2 marks from three points: carrier proteins in the membrane move the ions; energy from respiration (ATP) is used; the movement is against the concentration gradient, from lower to higher concentration.",
+    "The answer must explain how the movement happens, because naming active transport alone does not earn the marks. Diffusion or osmosis as the cause is wrong because neither moves ions against a gradient."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-003": 1
+   },
+   "authored_hash": "1ce0a87a0c18283e80a6cc97c1557cdb595c1329620114211dd22ee8b711ba59"
+  },
+  {
+   "item_id": "ITEM-8223-2.3.2-003-APP",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-002"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "These are our invented details. A red blood cell takes in glucose from plasma. The glucose concentration is 5 mmol per dm³ in the plasma and 1 mmol per dm³ inside the cell. The uptake continues at the same rate when the cell's respiration is blocked, and it passes through a membrane protein. Explain why this movement is facilitated diffusion rather than active transport or simple diffusion.",
+   "canonical_answer": "The glucose moves from the higher concentration in the plasma to the lower concentration inside the cell, and it carries on when respiration is blocked, so it is down its gradient and uses no energy from respiration, which rules out active transport. Glucose is too large and polar to cross the phospholipid bilayer easily, and here it passes through a membrane protein, so it is facilitated diffusion rather than simple diffusion.",
+   "marking_guidance": [
+    "2 marks, each tied to the given information: the movement is down the gradient and continues with respiration blocked, so it is not active transport (1); it passes through a membrane protein because glucose cannot easily cross the bilayer, so it is not simple diffusion (1).",
+    "The reasons must use the situation given, because an answer that only defines the three processes earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-002": 1
+   },
+   "authored_hash": "6c83457cae98c3d88692dd1d2e7dc83007e53e0daaa369080223364c29560420"
+  },
+  {
+   "item_id": "ITEM-8223-2.3.2-016-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-004",
+    "CLM-8223-2.3.2-005"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "A learner writes that a white blood cell takes in a bacterium by osmosis, because the bacterium moves across the cell surface membrane. Explain the error in this statement.",
+   "canonical_answer": "The error is to name osmosis for bulk uptake. Osmosis is the net movement of water down a water potential gradient and encloses nothing. A white blood cell takes in a bacterium by endocytosis: the cell surface membrane surrounds the bacterium and pinches off as a vesicle, which needs energy from respiration. The test is whether the cell encloses the material in a vesicle, or whether water simply moves across.",
+   "marking_guidance": [
+    "2 marks: the error named, that osmosis is the movement of water and is wrongly used for taking in a solid particle (1); the correct idea, endocytosis, with the particle enclosed in a vesicle formed from the membrane using energy, or the test that separates them (1).",
+    "The card is a discrimination between two processes, not a repeat of the definition of endocytosis. A confusion of endocytosis with exocytosis does not earn the second mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-004": 1,
+    "CLM-8223-2.3.2-005": 1
+   },
+   "authored_hash": "b0a53c0090edd05c877cff3ea7f2e096b91f842ff5353393edb4334eff318e62"
+  },
+  {
+   "item_id": "ITEM-8223-2.3.2-017-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-001"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "A learner says that a small cell takes in oxygen faster for its size than a large cell because its cell surface membrane is thinner. Explain the error in this statement.",
+   "canonical_answer": "The error is to say the membrane differs. In fact cell surface membranes share the same basic phospholipid bilayer, so they are not thicker or thinner from cell to cell. The small cell is quicker for its size because oxygen has a shorter distance to diffuse and the cell has a larger surface area to volume ratio. The test is to ask whether the membrane changes, or the distance to travel.",
+   "marking_guidance": [
+    "2 marks: the error named, that membrane thickness is given as the reason (1); the correct idea, the shorter diffusion distance or larger surface area to volume ratio of the small cell, or the test (1).",
+    "Saying that the small cell has a thinner membrane instead of a shorter distance earns neither mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-001": 1
+   },
+   "authored_hash": "63dc2f50248db5f544157be28e15d19264c226134f4ffd6074a8792f599d07b9"
+  },
+  {
+   "item_id": "ITEM-8223-2.3.2-020-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "A student finds a concentration of 6 mmol per dm³ of nitrate ions inside root cells and 2 mmol per dm³ in the soil water, and writes that this proves the ions were taken in by active transport. Explain the error in this conclusion.",
+   "canonical_answer": "The error is to claim active transport from concentration figures alone. The figures show a gradient at the moment of measurement but not how the ions arrived or whether energy was used. Active transport needs evidence of movement against the gradient and of energy use, so the student should also test whether uptake falls when respiration is blocked. The test is to ask what extra evidence would show energy is being used.",
+   "marking_guidance": [
+    "2 marks: the error named, that concentration figures alone are taken to prove active transport (1); the correct idea, that evidence of energy use or of uptake against the gradient, such as uptake falling when respiration is blocked, is needed (1).",
+    "The card is a discrimination about evidence, not a repeat of the definition of active transport."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-003": 1
+   },
+   "authored_hash": "0f4b629fe1775f068a5b4c281305d6201d46d0d7e516005b0dacad851dfe8493"
+  },
+  {
+   "item_id": "ITEM-8223-2.3.2-021-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-01"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-002",
+    "CLM-8223-2.3.2-003"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "These are our invented readings for the uptake rate of a mineral ion by root cells, in micromoles per gram per hour, at four external concentrations, with and without a chemical that blocks respiration.\n\n| External concentration (mmol per dm³) | Uptake without the chemical | Uptake with the chemical |\n|---|---|---|\n| 0.1 | 8.0 | 1.0 |\n| 0.2 | 14.0 | 1.9 |\n| 0.4 | 19.0 | 3.8 |\n| 0.8 | 21.0 | 7.5 |\n\nDescribe what the table shows about the effect of the chemical, and what this means for how the ion is normally taken in.",
+   "canonical_answer": "The table shows that uptake is much lower with the chemical at every concentration, for example 1.0 compared with 8.0 at 0.1 mmol per dm³. This means the cells normally need energy from respiration to take in the ion, so the ion is normally taken in by active transport.",
+   "marking_guidance": [
+    "2 marks: the table shows uptake much lower at every concentration with the chemical, quoting values (1); this means energy from respiration is needed, so uptake is normally by active transport (1).",
+    "Both points must be read from the values in the table. The slow uptake that remains with the chemical means some ions still enter, which is consistent with diffusion, but it is not needed for the marks."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-002": 1,
+    "CLM-8223-2.3.2-003": 1
+   },
+   "authored_hash": "90c31523c6950b0a57252a6b97e7db5f88494be7c0fc536ce01f1ad4b2f6dfd5"
+  },
+  {
+   "item_id": "ITEM-8223-2.3.2-004-PROC",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "prompt": "Describe how Visking tubing, glucose solution and distilled water can be used to show that osmosis occurs.",
+   "canonical_answer": "First, tie one end of a length of Visking tubing, fill it with glucose solution, tie the other end, rinse and blot the outside and weigh the bag. Then place it in a beaker of distilled water for a set time, such as 30 minutes. Finally, remove it, blot it dry and weigh it again. The result is an increase in mass, which shows that water entered the bag by osmosis.",
+   "marking_guidance": [
+    "3 marks, one for each step in the correct order: the filled, tied, rinsed, blotted and weighed bag (1); the bag placed in distilled water for a set time (1); removal, blotting and reweighing, with a gain in mass as the result showing osmosis (1).",
+    "The sequence is the point. A bag weighed only at the end, or an outcome stated without the first weighing, cannot show a change. A control of distilled water inside and outside is a further creditworthy point but the tariff is 3."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-006": 1
+   },
+   "authored_hash": "03da229c147725edd888057a536fd51c634a07f3e0592cc804f5e242d2757feb"
+  },
+  {
+   "item_id": "ITEM-8223-2.3.2-005-WHY",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-006"
+   ],
+   "item_type": "flashcard",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "In an investigation with a Visking tubing bag of glucose solution in distilled water, the bag is rinsed before it is first weighed and blotted dry before each weighing. Explain the reason for doing both.",
+   "canonical_answer": "The rinsing removes glucose solution left on the outside when the bag was filled, so the first mass is the mass of the bag and its contents alone. The blotting removes water clinging to the surface, so that a change in mass is because water crossed the tubing by osmosis and not because of water sticking to the outside.",
+   "marking_guidance": [
+    "2 marks: the reason for rinsing, that solution left on the outside would add to the mass (1); the reason for blotting, that surface water would make the mass rise although it did not enter by osmosis (1).",
+    "The reason must be about the mass reading being a fair measure, not that the bag looks tidier. The word because or so that should link each action to its reason."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-006": 1
+   },
+   "authored_hash": "b54669bc094e564757e0518327fa485cd5e71d8b50caa14c4e3d0174c0cb4a2b"
+  },
+  {
+   "item_id": "ITEM-8223-2.3.2-023-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-02"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A class cut cubes of agar containing alkali and an indicator that turns colourless in acid, and placed each in the same dilute acid at the same temperature. These are our invented readings for the time taken for the colour to disappear at the centre.\n\n| Side of cube (cm) | Time for the centre to become colourless (minutes) |\n|---|---|\n| 1 | 4.5 |\n| 2 | 13.0 |\n| 3 | 24.5 |\n\nDescribe what the table shows about the time and the size of the cube, and what this means for diffusion over a longer distance.",
+   "canonical_answer": "The table shows that the time rises as the cube gets larger, from 4.5 minutes for the 1 cm cube to 13.0 minutes for the 2 cm cube and 24.5 minutes for the 3 cm cube. This means the acid takes longer to reach the centre of a larger cube, because it has further to diffuse and the larger cube has a smaller surface area to volume ratio.",
+   "marking_guidance": [
+    "2 marks: the table shows the time increasing with the side of the cube, quoting values (1); this means diffusion to the centre takes longer over a greater distance, or into a cube with a smaller surface area to volume ratio (1).",
+    "The values must be read from the table. A statement that larger cubes diffuse less acid, without the idea of time or distance, earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-007": 1
+   },
+   "authored_hash": "e03327cca6392ebc636c5853cdfb4eba6437b512e1762315d10f02235fce2a9f"
+  },
+  {
+   "item_id": "ITEM-8223-2.3.2-006-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-008"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State what is meant by the surface area to volume ratio of an object.",
+   "canonical_answer": "The surface area to volume ratio is the surface area of the object divided by its volume.",
+   "marking_guidance": [
+    "1 mark. The definition needs the key words surface area divided by volume, in that order. A statement of the formula for a cube, 6 × L × L divided by L × L × L, is accepted as a statement of the same idea.",
+    "Volume divided by surface area is the inverse and earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-008": 1
+   },
+   "authored_hash": "f1b78bcd02e785c81b8a79543b3f95645b81e21ed8cb77c3a9a1ff5b3fb8284a"
+  },
+  {
+   "item_id": "ITEM-8223-2.3.2-007-CALC",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-008",
+    "CLM-8223-2.3.2-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A student models a cell as a cube with a side of 3 cm. Calculate the surface area to volume ratio of the cube.",
+   "canonical_answer": "Surface area = 6 × 3 × 3 = 54 cm². Volume = 3 × 3 × 3 = 27 cm³. Ratio = 54 ÷ 27 = 2, which is a ratio of 2 : 1 (2 per cm).",
+   "marking_guidance": [
+    "2 marks: the equation and substitution for the surface area and the volume, 54 cm² and 27 cm³ (1); the final answer of 2, with the unit or as 2 : 1 (1).",
+    "The working must show the formula 6 × side × side for the surface area and side × side × side for the volume. An answer of 54 ÷ 27 with no result, or a result with no working, earns one mark at most; the unit is per cm or the ratio form."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-008": 1,
+    "CLM-8223-2.3.2-009": 1
+   },
+   "authored_hash": "41505381bdea29709fed848d35c32952f772200df4efee6c80fcce74d5748a04"
+  },
+  {
+   "item_id": "ITEM-8223-2.3.2-008-CALC",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-008",
+    "CLM-8223-2.3.2-009"
+   ],
+   "item_type": "flashcard",
+   "subtype": "CALC",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Calculate",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Two agar cubes have sides of 2 cm and 6 cm. Calculate the surface area to volume ratio of each cube.",
+   "canonical_answer": "2 cm cube: surface area = 6 × 2 × 2 = 24 cm², volume = 2 × 2 × 2 = 8 cm³, ratio = 24 ÷ 8 = 3. 6 cm cube: surface area = 6 × 6 × 6 = 216 cm², volume = 6 × 6 × 6 = 216 cm³, ratio = 216 ÷ 216 = 1.",
+   "marking_guidance": [
+    "2 marks, one for each cube: the working with the equation and substitution for surface area and volume, and the final answer, 3 for the 2 cm cube and 1 for the 6 cm cube, with the unit per cm or the ratio form (1 each).",
+    "A correct answer for one cube with the other missing earns 1 mark. The answers also show that the ratio falls as the cube becomes larger."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-008": 1,
+    "CLM-8223-2.3.2-009": 1
+   },
+   "authored_hash": "a035ba225c66164f8803bbb636f591f390e1ed6d77f9ba404e41c70bff979338"
+  },
+  {
+   "item_id": "ITEM-8223-2.3.2-009-APP",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-009",
+    "CLM-8223-2.3.2-007"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A 1 cm agar cube has a surface area to volume ratio of 6, and a 4 cm agar cube of the same agar has a ratio of 1.5. Both contain alkali and an indicator and are placed in the same dilute acid. Explain, using these ratios, why the 4 cm cube takes longer to become colourless throughout.",
+   "canonical_answer": "The 4 cm cube has the smaller ratio, 1.5 compared with 6, so it has less surface area through which acid can enter for each unit of volume. The acid must also diffuse further to reach the centre. Because of both, the acid takes longer to reach all of the 4 cm cube.",
+   "marking_guidance": [
+    "2 marks, each tied to the given information: the 4 cm cube has the smaller ratio, so less surface area for each unit of volume (1); the acid has further to diffuse to the centre, so it takes longer (1).",
+    "The reasons must use the ratios given, because an answer that only says larger cubes take longer earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-009": 1,
+    "CLM-8223-2.3.2-007": 1
+   },
+   "authored_hash": "51191cc61482e1135cf80c9de639acde626326036f0a3d73a62d9ff4ec51ec2a"
+  },
+  {
+   "item_id": "ITEM-8223-2.3.2-015-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "A learner says that an elephant has a smaller surface area to volume ratio than a mouse, so each cell of an elephant takes in oxygen more slowly than each cell of a mouse. Explain the error in this statement.",
+   "canonical_answer": "The error is to use the ratio of the whole body. Oxygen crosses the surface membrane of each cell, so the ratio that matters is that of the cell, and elephant cells are similar in size to mouse cells, so each has a similar ratio. The test is to ask which surface substances cross to reach a cell's contents, and the answer is the cell surface membrane.",
+   "marking_guidance": [
+    "2 marks: the error named, that the ratio of the whole organism is used instead of the ratio of the cell (1); the correct idea, that substances cross the cell surface membrane so the cell ratio matters, or the test (1).",
+    "The card is a discrimination between body ratio and cell ratio. A statement that the elephant has a smaller body ratio is true and earns no mark on its own."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-010": 1
+   },
+   "authored_hash": "682a5165363f9ed4bb18fa11be0c410b2b5760bb83b91ca63fb3553815bd3f21"
+  },
+  {
+   "item_id": "ITEM-8223-2.3.2-018-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-011"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "A learner describes Paramecium as a bacterium with a cell wall and says it exchanges gases through that wall. Explain the error in this description.",
+   "canonical_answer": "The error is to treat Paramecium as a bacterium with a wall. In fact it is a single-celled animal-like organism, and like an animal cell it has no cell wall. Its gases diffuse across the cell surface membrane, helped by its large surface area to volume ratio. The test is to ask whether an animal cell has a cell wall, and it does not.",
+   "marking_guidance": [
+    "2 marks: the error named, that Paramecium is called a bacterium or given a cell wall (1); the correct idea, that it is a single-celled animal-like organism with no cell wall and gases cross the cell surface membrane, or the test (1).",
+    "The card is a discrimination, not a repeat of the structure of an animal cell. A reference to a virus earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-011": 1
+   },
+   "authored_hash": "23a7331ffc1b473e73e892955b03466341187b461e08f3c70ade6c1fa1b718e1"
+  },
+  {
+   "item_id": "ITEM-8223-2.3.2-019-MISCON",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-03"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-010"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MISCON",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "A learner writes that an earthworm needs a circulatory system because it lives underground. Explain the error in this reason.",
+   "canonical_answer": "The error is to give the habitat as the reason. In fact an earthworm has a thick body with a small surface area to volume ratio compared with a single cell, so diffusion alone would supply the inner cells too slowly and a circulatory system carries substances over that distance. The test is whether the reason is about the habitat, or about how far substances must diffuse.",
+   "marking_guidance": [
+    "2 marks: the error named, that the habitat is given as the reason (1); the correct idea, that the thickness of the body makes diffusion too slow, so a transport system is needed, or the test (1).",
+    "The reason is about distance and surface area to volume ratio, not about the soil."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-010": 1
+   },
+   "authored_hash": "e81255d067de05fecb16d3526bd5094e534c4d0987fdf9bf675c827f9c40cc91"
+  },
+  {
+   "item_id": "ITEM-8223-2.3.2-010-DEF",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "DEF",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Remember",
+   "command_word": "State",
+   "mark_tariff": 1,
+   "difficulty": 3,
+   "prompt": "State what is meant by plasmolysis.",
+   "canonical_answer": "Plasmolysis is the shrinking of the cytoplasm of a plant cell, as water leaves by osmosis, so that the cell surface membrane pulls away from the cell wall.",
+   "marking_guidance": [
+    "1 mark. The definition needs the key words cell surface membrane (or cytoplasm) pulling away from the cell wall, in a plant cell. Water loss by osmosis is a creditworthy addition.",
+    "A statement that the cell has burst, or that an animal cell shrinks, does not meet the definition."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-013": 1
+   },
+   "authored_hash": "2f6ed310a4ded5723a9212ad149f6ffd8d553a89fc1c71d84ea9fdab4ce3c1e9"
+  },
+  {
+   "item_id": "ITEM-8223-2.3.2-011-MECH",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-005",
+    "CLM-8223-2.3.2-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "MECH",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "Explain how a plant cell becomes turgid when it is placed in pure water.",
+   "canonical_answer": "Pure water has a higher water potential than the cell contents, so water moves into the cell by osmosis through the partially permeable cell surface membrane. The cell swells and pushes against the cell wall, which resists, so the cell becomes firm and turgid.",
+   "marking_guidance": [
+    "2 marks from three points: the water potential of the pure water is higher than that of the cell contents, so water enters by osmosis through the membrane (1); the cell swells and pushes against the wall (1); the wall resists, which causes the cell to be firm or turgid (1).",
+    "The explanation must say how the water moves in terms of water potential, because a statement that water goes in to fill the cell does not earn the marks."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-005": 1,
+    "CLM-8223-2.3.2-013": 1
+   },
+   "authored_hash": "37afc3d59368e9ba0d29964cbccb4a0550bc67df1efb2082cd8b6cf7a162fdd9"
+  },
+  {
+   "item_id": "ITEM-8223-2.3.2-012-APP",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-013",
+    "CLM-8223-2.3.2-014"
+   ],
+   "item_type": "flashcard",
+   "subtype": "APP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 3,
+   "prompt": "A red blood cell and a root cell of a mahangu plant are each placed in distilled water. The red blood cell bursts, but the root cell swells and stays intact. Explain this difference.",
+   "canonical_answer": "Distilled water has a higher water potential than the contents of both cells, so water enters both by osmosis. The red blood cell has no cell wall, so its membrane stretches until the cell bursts. The root cell has a cell wall, which resists the swelling, so it becomes turgid and stays intact.",
+   "marking_guidance": [
+    "2 marks, each tied to the given situation: water enters both cells by osmosis because the distilled water has a higher water potential (1); the red blood cell has no wall, so it bursts, whereas the root cell has a wall that resists, so it stays intact and turgid (1).",
+    "The answer must use the two cells described. A reason that the plant membrane is stronger or thicker is wrong because the wall is the difference."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-013": 1,
+    "CLM-8223-2.3.2-014": 1
+   },
+   "authored_hash": "4783cf260eb631a25dff0dbaf44bbcc1deb7acc9ab514b03c6d4e6cd5d168572"
+  },
+  {
+   "item_id": "ITEM-8223-2.3.2-022-INTERP",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-012",
+    "CLM-8223-2.3.2-013"
+   ],
+   "item_type": "flashcard",
+   "subtype": "INTERP",
+   "assessment_objectives": [
+    "B"
+   ],
+   "blooms_level": "Analyse",
+   "command_word": "Describe",
+   "mark_tariff": 2,
+   "difficulty": 4,
+   "prompt": "A student placed strips of onion epidermis in three sucrose solutions of different concentrations and counted the cells in which the cell surface membrane had pulled away from the wall, out of 50 cells in each. These are our invented readings.\n\n| Solution | Concentration (mol per dm³) | Cells plasmolysed out of 50 |\n|---|---|---|\n| A | 0.1 | 0 |\n| B | 0.3 | 12 |\n| C | 0.5 | 49 |\n\nDescribe what the table shows about the number of plasmolysed cells, and what this means about the water potential of the three solutions.",
+   "canonical_answer": "The table shows that the number of plasmolysed cells rises from 0 in solution A to 12 in solution B and 49 in solution C as the concentration increases. This means more water left the cells by osmosis in the stronger solutions, so solution C has the lowest water potential of the three.",
+   "marking_guidance": [
+    "2 marks: the table shows the number of plasmolysed cells increasing with concentration, quoting values (1); this means more water left the cells in the more concentrated solutions, so their water potential is lower, with C the lowest (1).",
+    "The values must be read from the table. Solution A showing no plasmolysed cells means its water potential is not lower than that of the cells, which is a creditworthy extra point but the tariff is 2."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-012": 1,
+    "CLM-8223-2.3.2-013": 1
+   },
+   "authored_hash": "c6642053170bf6b924eee168f6975c538a2a761081071a0f4cfa15acff44a0f8"
+  },
+  {
+   "item_id": "ITEM-8223-2.3.2-013-PROC",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-015",
+    "CLM-8223-2.3.2-016"
+   ],
+   "item_type": "flashcard",
+   "subtype": "PROC",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "Describe",
+   "mark_tariff": 3,
+   "difficulty": 2,
+   "prompt": "Describe how potato tissue and a series of sucrose solutions of known concentration can be used to estimate the water potential of the potato tissue.",
+   "canonical_answer": "First, cut cylinders of potato of equal length, blot and weigh them, and place equal numbers in sucrose solutions of different known concentrations, including distilled water. Then leave them for the same time, remove, blot dry and reweigh them. Finally, work out the percentage change in mass for each concentration and plot it against concentration. The result is a line, and the concentration where it crosses zero change in mass has the same water potential as the tissue, which is the estimate.",
+   "marking_guidance": [
+    "3 marks, one for each step in the correct order: equal weighed cylinders placed in sucrose solutions of known different concentrations, including distilled water (1); left for a set time, then blotted and reweighed (1); percentage change in mass plotted against concentration, and the concentration at zero change taken as the estimate (1).",
+    "The sequence is the point. The tissue must be weighed before and after, and the result must be tied to the crossing point of the line, because a concentration chosen by eye from the data earns no mark. Repeats and a mean are a further creditworthy point but the tariff is 3."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-015": 1,
+    "CLM-8223-2.3.2-016": 1
+   },
+   "authored_hash": "0f03e628285f40e9afd2578c3788e77d3c4ed4eca0c3ee14fd07d0bc6a891fb4"
+  },
+  {
+   "item_id": "ITEM-8223-2.3.2-014-WHY",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-016"
+   ],
+   "item_type": "flashcard",
+   "subtype": "WHY",
+   "assessment_objectives": [
+    "A"
+   ],
+   "blooms_level": "Understand",
+   "command_word": "Explain",
+   "mark_tariff": 2,
+   "difficulty": 2,
+   "prompt": "In an investigation with potato cylinders in sucrose solutions, the result for each solution is given as a percentage change in mass and not as the change in mass in grams. Explain the reason for this.",
+   "canonical_answer": "The cylinders differ slightly in their starting mass, so the same water movement would change a larger cylinder by more grams. Dividing the change by the starting mass and multiplying by 100 gives a result that can be compared fairly between cylinders, which is the reason the percentage is used.",
+   "marking_guidance": [
+    "2 marks: the reason, that the starting masses of the cylinders differ (1); the purpose, that a percentage allows a fair comparison between cylinders of different starting mass (1).",
+    "The reason must be about fair comparison. A statement that percentages are easier to plot earns no mark."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-016": 1
+   },
+   "authored_hash": "3a1e3de9808a33e8a13569f3d5ce485e1db8428c401a062508eb495bda7b84d5"
+  },
+  {
+   "item_id": "ITEM-8223-2.3.2-P01",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-01",
+    "OBJ-8223-2.3.2-03",
+    "OBJ-8223-2.3.2-04"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-001",
+    "CLM-8223-2.3.2-002",
+    "CLM-8223-2.3.2-003",
+    "CLM-8223-2.3.2-004",
+    "CLM-8223-2.3.2-005",
+    "CLM-8223-2.3.2-009",
+    "CLM-8223-2.3.2-010",
+    "CLM-8223-2.3.2-013",
+    "CLM-8223-2.3.2-014"
+   ],
+   "item_type": "multiple_choice_set",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": null,
+   "mark_tariff": 12,
+   "difficulty": 3,
+   "prompt": "Twelve questions. Choose one option for each.\n\n1. Which statement describes diffusion?\nA  the net movement of particles from a lower to a higher concentration, using energy from respiration\nB  the net movement of particles from a higher to a lower concentration, down a concentration gradient\nC  the net movement of water molecules through a partially permeable membrane\nD  the uptake of solid material in a vesicle formed from the cell surface membrane\n\n2. Which process moves ions into a cell against their concentration gradient?\nA  diffusion\nB  osmosis\nC  active transport\nD  facilitated diffusion\n\n3. Glucose enters a cell down its concentration gradient through a carrier protein, with no energy from respiration. Which process is this?\nA  facilitated diffusion\nB  active transport\nC  endocytosis\nD  osmosis\n\n4. A cell encloses a drop of fluid in a vesicle formed from its cell surface membrane. What is this process?\nA  osmosis\nB  exocytosis\nC  diffusion\nD  endocytosis\n\n5. Which statement describes exocytosis?\nA  Water leaves the cell down a water potential gradient.\nB  A vesicle fuses with the cell surface membrane and releases its contents outside the cell.\nC  A carrier protein changes shape and moves ions into the cell.\nD  The cell surface membrane flows inwards around material and pinches off.\n\n6. The respiration of root cells is blocked. Which movement would not slow because of the lack of energy from respiration?\nA  active transport of nitrate ions into the cells\nB  endocytosis of a particle by the cells\nC  diffusion of oxygen into the cells\nD  exocytosis of enzymes from the cells\n\n7. A cube has a side of 5 cm. What is its surface area to volume ratio?\nA  1.2\nB  5\nC  0.83\nD  30\n\n8. What happens to the surface area to volume ratio of a cube as its size increases?\nA  It stays the same, because surface area and volume increase together.\nB  It increases, because there is more surface.\nC  It increases, because the surface area rises faster than the volume.\nD  It decreases, because the volume rises faster than the surface area.\n\n9. A cube of side 2 cm has a ratio of 3. A cube of side 4 cm has a ratio of 1.5. How does the ratio of the larger cube compare with that of the smaller?\nA  twice as large\nB  the same\nC  half as large\nD  four times smaller\n\n10. A plant cell is placed in pure water and becomes turgid without bursting. What prevents it from bursting?\nA  Its cell surface membrane is thicker than that of an animal cell.\nB  Its cell wall resists the swelling.\nC  Water leaves at the same rate as it enters.\nD  Its vacuole stops water from entering.\n\n11. Onion cells are placed in a strong sugar solution. The cell surface membrane pulls away from the cell wall. What is this called?\nA  plasmolysis\nB  turgidity\nC  endocytosis\nD  diffusion\n\n12. A red blood cell is placed in a solution with a lower water potential than its cytoplasm. What happens?\nA  It swells and bursts.\nB  It stays the same, because it has no cell wall.\nC  It becomes turgid.\nD  It shrinks, because water leaves by osmosis.",
+   "canonical_answer": "Key: 1 B, 2 C, 3 A, 4 D, 5 B, 6 C, 7 A, 8 D, 9 C, 10 B, 11 A, 12 D.\n1. The key is B, the definition of diffusion. A is active transport, which is the error of reversing the direction and adding energy; C is osmosis, which describes water only; D is endocytosis.\n2. The key is C, because movement against a gradient needs carrier proteins and energy. A and D move particles down the gradient, so each is an error of ignoring direction; B moves water, not ions.\n3. The key is A, because it is down the gradient through a protein with no energy. B is the error of treating any protein-assisted movement as active; C encloses material in a vesicle; D is the movement of water.\n4. The key is D, endocytosis. A and C are errors from the register of near-neighbour terms, naming a movement of water or particles for bulk uptake; B is the reverse process, in which a vesicle releases its contents.\n5. The key is B. A is osmosis; C is active transport or facilitated diffusion; D is endocytosis, the process in the opposite direction.\n6. The key is C, because diffusion needs no energy from respiration. A, B and D each use energy from respiration, so each is an error of treating every movement across the membrane as passive.\n7. The key is A: surface area 6 × 5 × 5 = 150 cm², volume 5 × 5 × 5 = 125 cm³, and 150 ÷ 125 = 1.2. B is the volume divided by one face, 125 ÷ 25; C is the inverse, 125 ÷ 150 rounded; D is 6 × 5, the error of not squaring the side.\n8. The key is D: doubling the side gives four times the surface area but eight times the volume. A, B and C are errors of treating the two quantities as rising together or the surface as rising faster.\n9. The key is C, because 1.5 is half of 3. A reverses the direction; B ignores the change; D is the error of using the four-fold rise in surface area for the ratio.\n10. The key is B. A is the membrane-thickness error, since cell surface membranes share the same basic structure; C would mean there is no net movement and the cell would not be turgid; D is invented.\n11. The key is A, plasmolysis. B is the opposite state, a firm cell full of water; C is bulk uptake in a vesicle; D is a different movement with no change in the cell.\n12. The key is D, because water moves to the lower water potential. A is the effect in a solution of higher water potential; B has no reasoning; C is a plant cell term, wrongly used for an animal cell.",
+   "marking_guidance": [
+    "The key: one mark per correct option, twelve marks in all; about half the questions test recall and half test application to a described situation or a calculation.",
+    "Each distractor is a named error: direction of movement reversed, near-neighbour terms confused (osmosis, endocytosis, exocytosis), energy assumed for passive movement, membrane thickness blamed, the surface area and volume pattern misread, an unsquared side in the arithmetic."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-001": 1,
+    "CLM-8223-2.3.2-002": 1,
+    "CLM-8223-2.3.2-003": 1,
+    "CLM-8223-2.3.2-004": 1,
+    "CLM-8223-2.3.2-005": 1,
+    "CLM-8223-2.3.2-009": 1,
+    "CLM-8223-2.3.2-010": 1,
+    "CLM-8223-2.3.2-013": 1,
+    "CLM-8223-2.3.2-014": 1
+   },
+   "authored_hash": "e66e6fd4296e9dbf216c9239a5e43b9ffde64a4acc404c86c0939e003195804a"
+  },
+  {
+   "item_id": "ITEM-8223-2.3.2-P02",
+   "objective_ids": [
+    "OBJ-8223-2.3.2-01",
+    "OBJ-8223-2.3.2-04",
+    "OBJ-8223-2.3.2-05"
+   ],
+   "claim_ids": [
+    "CLM-8223-2.3.2-005",
+    "CLM-8223-2.3.2-012",
+    "CLM-8223-2.3.2-015",
+    "CLM-8223-2.3.2-017"
+   ],
+   "item_type": "short_answer",
+   "subtype": null,
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "blooms_level": "Apply",
+   "command_word": "State",
+   "mark_tariff": 8,
+   "difficulty": 3,
+   "prompt": "These are our invented readings from a class in Katima Mulilo. Potato cylinders of equal starting mass were left for 60 minutes in sucrose solutions of different concentrations, and the mean percentage change in mass was found for each solution.\n\n| Sucrose concentration (mol per dm³) | Mean change in mass (per cent) |\n|---|---|\n| 0.0 | +20 |\n| 0.1 | +12 |\n| 0.2 | +4 |\n| 0.3 | −4 |\n| 0.4 | −11 |\n| 0.5 | −17 |\n\n(a) State the mean change in mass of the cylinders in the 0.1 mol per dm³ solution, and name the process that caused it. [2]\n(b) Explain why the cylinders in the 0.5 mol per dm³ solution lost mass. [2]\n(c) State the concentration of sucrose solution that has the same water potential as the potato cells, and describe the pattern in the table that tells you this. [2]\n(d) Suggest two ways to make the estimate in part (c) more reliable. [2]",
+   "canonical_answer": "(a) A gain of 12 per cent (+12); osmosis.\n(b) The 0.5 mol per dm³ solution has a lower water potential than the cell contents, so water moves out of the cells by osmosis, down the water potential gradient and across the partially permeable membrane, and the cylinders lose mass.\n(c) 0.25 mol per dm³ (accept 0.2 to 0.3, or between 0.2 and 0.3 mol per dm³). The change in mass is +4 per cent at 0.2 and −4 per cent at 0.3, so it changes from a gain to a loss and there is no net movement of water at the concentration between them, halfway at 0.25.\n(d) Use several cylinders in each solution and find the mean; test more concentrations close to 0.25 mol per dm³; blot each cylinder in the same way before weighing; keep the time and the temperature the same.",
+   "marking_guidance": [
+    "Marks and points: (a) 1 mark for +12 per cent and 1 mark for osmosis; (b) 2 marks from three points: the solution has a lower water potential than the cells, water moves out by osmosis, down a water potential gradient through a partially permeable membrane; (c) 1 mark for 0.25 mol per dm³ (0.2 to 0.3 accepted) and 1 mark for the change from gain to loss, or the equal and opposite values, as the reason; (d) 2 marks from four points: repeats with a mean, more concentrations near the estimate, same blotting, same time and temperature.",
+    "Parts (a) and (c) credit AO A (4 marks); parts (b) and (d) credit AO B (4 marks). The reason in part (b) must use water potential, because an answer that says the water diffuses out of the potato without the gradient earns one mark at most. Units are per cent and mol per dm³ in (a) and (c)."
+   ],
+   "context": {
+    "sector": null,
+    "business_size": null,
+    "ownership": null,
+    "situation": null,
+    "facts": []
+   },
+   "prerequisite_item_ids": [],
+   "core_status": "core",
+   "intentional_duplicate_group": null,
+   "provenance": "Authored for topic 2.3.2 from its claim ledger. Our own scenarios and wording; unverified.",
+   "qa_status": "review_required",
+   "claims_seen": {
+    "CLM-8223-2.3.2-005": 1,
+    "CLM-8223-2.3.2-012": 1,
+    "CLM-8223-2.3.2-015": 1,
+    "CLM-8223-2.3.2-017": 1
+   },
+   "authored_hash": "6a5a948a9f43b552fe58aacd24e7d7056c40a1aafaab4d5ffe9eb61aad910e67"
+  }
+ ]
+}

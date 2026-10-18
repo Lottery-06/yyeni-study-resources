@@ -1,0 +1,856 @@
+{
+ "ledger_id": "CLM-LEDGER-8223-4.4",
+ "claims": [
+  {
+   "claim_id": "CLM-8223-4.4-001",
+   "objective_ids": [
+    "OBJ-8223-4.4-01"
+   ],
+   "text": "A calculated answer is given to the same number of significant figures as, or one more than, the least accurate measurement used in the calculation, meaning the measurement with the fewest significant figures.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-01; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-002",
+   "objective_ids": [
+    "OBJ-8223-4.4-01"
+   ],
+   "text": "The working is carried at full calculator precision and only the final answer is rounded, and the final answer is written with its unit.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-01; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-003",
+   "objective_ids": [
+    "OBJ-8223-4.4-01"
+   ],
+   "text": "Significant figures are the digits that carry information about the size of a value, counted from the first digit that is not zero, so 0.0450 has three significant figures and 450 has at least two.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-01; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-004",
+   "objective_ids": [
+    "OBJ-8223-4.4-02"
+   ],
+   "text": "An unknown value is read from a graph by drawing a line from the known value on one axis to the line or curve and then across to the other axis, and the value is written with its unit to the precision the scale allows.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-02; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-005",
+   "objective_ids": [
+    "OBJ-8223-4.4-02"
+   ],
+   "text": "An intercept is the point where a line crosses an axis and is read at the axis; extrapolation extends a line beyond the plotted data and is reasonable only where the data show a regular trend, and its result is less certain than a value read inside the plotted range.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-02; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-006",
+   "objective_ids": [
+    "OBJ-8223-4.4-03"
+   ],
+   "text": "A qualitative result such as a colour is placed in order by comparison with standards of known concentration tested in the same way, and the unknown is estimated to lie between the two standards that its result falls between.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-03; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-007",
+   "objective_ids": [
+    "OBJ-8223-4.4-03"
+   ],
+   "text": "A concentration estimated from qualitative results is a range, and the range becomes narrower when more standards are made at closer intervals, provided the standards and the unknown are treated identically in volume, reagent and time.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-03; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-008",
+   "objective_ids": [
+    "OBJ-8223-4.4-04"
+   ],
+   "text": "The Benedict's test (heating with the reagent) turns from blue to green, yellow, orange or brick-red as more reducing sugar is present, iodine solution turns from orange-brown to blue-black with starch, the biuret test turns from blue to purple with protein, and the ethanol emulsion test gives a cloudy white emulsion with lipid.",
+   "claim_type": "factual",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-04; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-009",
+   "objective_ids": [
+    "OBJ-8223-4.4-04"
+   ],
+   "text": "A non-reducing sugar gives no colour change with Benedict's reagent alone; after heating with dilute hydrochloric acid and neutralising with an alkali, the same sample gives a positive Benedict's result because the acid has broken the sugar into reducing sugars.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-04; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-010",
+   "objective_ids": [
+    "OBJ-8223-4.4-04"
+   ],
+   "text": "A negative result shows the colour of the reagent itself, and each test indicates only the substance it detects, so a solution can contain more than one substance and the contents are identified by combining the results of all the tests.",
+   "claim_type": "inference",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-04; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-011",
+   "objective_ids": [
+    "OBJ-8223-4.4-05"
+   ],
+   "text": "An anomalous result is a result that does not fit the pattern of the other results, for example one repeat that lies far outside the others or one point that breaks a steady trend.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-05; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-012",
+   "objective_ids": [
+    "OBJ-8223-4.4-05"
+   ],
+   "text": "An anomalous result is identified and left out before a mean is calculated, the mean is the sum of the remaining values divided by the number of remaining values, and the omission is stated with the reason.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-05; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-013",
+   "objective_ids": [
+    "OBJ-8223-4.4-06"
+   ],
+   "text": "A pattern is described by stating the direction of change of the dependent variable as the independent variable changes, the shape of the change (steady, levelling off, peak, steepest section), and quoting values from the table or graph with their units.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-06; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-014",
+   "objective_ids": [
+    "OBJ-8223-4.4-06"
+   ],
+   "text": "Describing a pattern states what the data show and does not give the reason for it; the reason belongs to an explanation, which uses biological knowledge.",
+   "claim_type": "comparison",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-06; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-015",
+   "objective_ids": [
+    "OBJ-8223-4.4-07"
+   ],
+   "text": "A random error is an unpredictable difference between a reading and the true value that scatters repeat readings above and below it, for example judging a colour end-point by eye; repeating the reading and calculating a mean reduces its effect.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-07; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-016",
+   "objective_ids": [
+    "OBJ-8223-4.4-07"
+   ],
+   "text": "A systematic error shifts all readings in the same direction by a similar amount, for example a balance that is not zeroed; it does not change the direction of the trend, it is not reduced by repeating and averaging, and it makes the values less accurate.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-07; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-017",
+   "objective_ids": [
+    "OBJ-8223-4.4-08"
+   ],
+   "text": "A significant source of error is any variable that may change during the recording of results and so makes the results less accurate, such as an uncontrolled variable or a measurement that is difficult to make.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-08; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-018",
+   "objective_ids": [
+    "OBJ-8223-4.4-08"
+   ],
+   "text": "A source of error is judged significant by the size of its effect compared with the quantity measured, so the same fixed error matters more for a small measurement than a large one, and a vague source such as human error identifies nothing specific.",
+   "claim_type": "evaluative",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-08; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-019",
+   "objective_ids": [
+    "OBJ-8223-4.4-09"
+   ],
+   "text": "The actual error of a measurement is the amount by which it could differ from the true value, often taken as half of the smallest division of the scale when one reading is made, and the percentage error is actual error ÷ measured value × 100.",
+   "claim_type": "formula",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-09; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-020",
+   "objective_ids": [
+    "OBJ-8223-4.4-09"
+   ],
+   "text": "The same actual error is a larger percentage of a small measurement than of a large one, so measuring a larger quantity reduces the percentage error and increases confidence in the accuracy of the result.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-09; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-021",
+   "objective_ids": [
+    "OBJ-8223-4.4-09"
+   ],
+   "text": "A small percentage error gives confidence in the accuracy of a result, meaning closeness to the true value, but it says nothing about reliability, which is agreement between repeats; a difference between two results is convincing only when it is larger than the errors in the measurements.",
+   "claim_type": "evaluative",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-09; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-022",
+   "objective_ids": [
+    "OBJ-8223-4.4-10"
+   ],
+   "text": "Standardising a variable means keeping it the same in every treatment, so that the independent variable is the only variable that changes.",
+   "claim_type": "definition",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-10; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-023",
+   "objective_ids": [
+    "OBJ-8223-4.4-10"
+   ],
+   "text": "When variables are standardised, a change in the dependent variable can be attributed to the independent variable, so confidence in the conclusion increases; when a variable changes as well, the result could be due to it and confidence falls, although a trend may still be visible.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-10; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-024",
+   "objective_ids": [
+    "OBJ-8223-4.4-11"
+   ],
+   "text": "A prediction states the expected direction of change of the dependent variable, and a value where the data allow, by continuing the pattern in the results, and gives the reason in the pattern or in biology.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-11; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-025",
+   "objective_ids": [
+    "OBJ-8223-4.4-11"
+   ],
+   "text": "A prediction outside the range of the data is uncertain because the relationship may change, for example by levelling off when another factor becomes limiting, or because a value cannot go below zero.",
+   "claim_type": "evaluative",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-11; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-026",
+   "objective_ids": [
+    "OBJ-8223-4.4-12"
+   ],
+   "text": "A conclusion states in words the relationship between the independent variable and the dependent variable that the data show, supported by quoted values and linked to the aim of the investigation.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-12; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-027",
+   "objective_ids": [
+    "OBJ-8223-4.4-12"
+   ],
+   "text": "A conclusion is limited to the range of values tested and to the material used, and it does not claim a cause beyond what the controls allow.",
+   "claim_type": "evaluative",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-12; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-028",
+   "objective_ids": [
+    "OBJ-8223-4.4-13"
+   ],
+   "text": "A hypothesis is a testable prediction of a relationship; data support it when the pattern in the results matches the prediction, which is shown by quoting values, and a hypothesis can be supported in part where only some of the data match.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-13; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-029",
+   "objective_ids": [
+    "OBJ-8223-4.4-13"
+   ],
+   "text": "Data support a hypothesis but do not prove it, because a small number of values, a single trial or an untested range leaves open the chance that the pattern changes.",
+   "claim_type": "evaluative",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-13; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-030",
+   "objective_ids": [
+    "OBJ-8223-4.4-14"
+   ],
+   "text": "An unknown concentration is estimated from known concentrations by measuring the same result for the unknown, then reading the matching concentration from a calibration graph or table of the known concentrations or placing it between the two nearest known concentrations.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-14; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-031",
+   "objective_ids": [
+    "OBJ-8223-4.4-14"
+   ],
+   "text": "A concentration estimated from known concentrations is reliable only inside the range of the known concentrations and when the method is identical; beyond the range the unknown is diluted and retested, and the estimate is written with its unit as approximate.",
+   "claim_type": "evaluative",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-14; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-032",
+   "objective_ids": [
+    "OBJ-8223-4.4-15"
+   ],
+   "text": "Explaining data means stating the pattern, naming the biological process responsible and showing how that process causes the change, as a chain from cause to effect in correct biological terms.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-15; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-033",
+   "objective_ids": [
+    "OBJ-8223-4.4-15"
+   ],
+   "text": "A rate that increases and then levels off with the amount of one reactant is explained by another factor becoming limiting; with an enzyme, the rate levels off when substrate occupies all the active sites, so enzyme concentration limits the rate; with osmosis, water moves by osmosis down a water potential gradient through a partially permeable membrane, so a cell in a solution of lower water potential loses mass.",
+   "claim_type": "causal",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-15; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-034",
+   "objective_ids": [
+    "OBJ-8223-4.4-16"
+   ],
+   "text": "An improvement names the source of error, says what to change and says why the change makes the result more accurate, for example a measuring instrument with smaller scale divisions, a larger quantity measured, repeats with a mean, or a measured volume in place of a count.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-16; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-035",
+   "objective_ids": [
+    "OBJ-8223-4.4-16"
+   ],
+   "text": "A comment such as be more careful or be more accurate is not an improvement; the improvement must act on a specific error, and a change is judged by whether it addresses the error that is largest.",
+   "claim_type": "evaluative",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-16; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-036",
+   "objective_ids": [
+    "OBJ-8223-4.4-17"
+   ],
+   "text": "To modify an investigation for a new question, the independent variable (or the material) is changed, the other variables are standardised, and the range of values, the measurement and the repeats are stated.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-17; the practical readings used with it are ours."
+   ]
+  },
+  {
+   "claim_id": "CLM-8223-4.4-037",
+   "objective_ids": [
+    "OBJ-8223-4.4-17"
+   ],
+   "text": "To extend an investigation, further values or a related factor are tested to check a conclusion or an explanation, for example testing whether another factor is limiting at the plateau, with the other variables kept the same.",
+   "claim_type": "procedural",
+   "provenance": "generated_gap",
+   "evidence": [],
+   "derived_from_claim_ids": [],
+   "revision": 1,
+   "verification": {
+    "status": "unverified",
+    "method": "Authored for topic 4.4 under standard v0.2.0-draft. Single source: our own statement of standard biology and practical method consistent with the syllabus line for the objective, no second source checked. Requires semantic review and two-source verification before any publication.",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "confidence": 0.8
+   },
+   "publishable": false,
+   "notes": [
+    "verification_state: single_source. Restates the syllabus line for OBJ-8223-4.4-17; the practical readings used with it are ours."
+   ]
+  }
+ ]
+}

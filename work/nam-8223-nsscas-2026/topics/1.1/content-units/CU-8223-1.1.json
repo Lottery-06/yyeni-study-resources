@@ -1,0 +1,233 @@
+{
+ "unit_id": "CU-8223-1.1",
+ "title": "Classification",
+ "objective_ids": [
+  "OBJ-8223-1.1-01",
+  "OBJ-8223-1.1-02",
+  "OBJ-8223-1.1-03",
+  "OBJ-8223-1.1-04",
+  "OBJ-8223-1.1-05"
+ ],
+ "level": "NSSCAS",
+ "core_status": "core",
+ "objective_type": "bio_description",
+ "depth_tier": 2,
+ "word_budget": {
+  "min": 1430,
+  "target": 1740,
+  "max": 2050
+ },
+ "blocks": [
+  {
+   "block_id": "1.1-b1",
+   "block_type": "learner_objective",
+   "heading": "What this section covers",
+   "text": "How living organisms are named and grouped, and on what evidence the groups rest. The section covers the binomial system of naming, the hierarchy of taxa from kingdom to species, natural classification based on homologous features and evolutionary relationships, the construction of dichotomous keys for local organisms, and the several meanings of the term species.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "a995c0a83070c0da254793be430220ea954e96d1ed4dfb6e4ddee7b8dc589d6a"
+  },
+  {
+   "block_id": "1.1-b2",
+   "block_type": "plain_explanation",
+   "heading": "The binomial system of naming",
+   "text": "Organisms have common names, but common names are unreliable. One animal can have several names in English, Afrikaans, Oshiwambo and Otjiherero, and one common name can be given to different organisms in different regions. Scientists therefore use the binomial system, in which each species has a two-part Latin name.\n\nThe first word is the genus and begins with a capital letter. The second word is the species and is written in lower case. In print the name is in italics, and when it is handwritten each word is underlined. The lion is Panthera leo and the leopard is Panthera pardus. The genus is the set of closely related species, so the shared word Panthera tells you that the lion and the leopard are close relatives, while the second words tell you they are different species. The ostrich, Struthio camelus, shares neither word with them, which suggests a more distant relationship.\n\nBecause the binomial name is used in the same form in every language, a biologist in Windhoek and a biologist in Nairobi know they are discussing the same organism. Once the full name has been written, the genus can be shortened to its initial letter, as in P. leo. The species word is not used alone as a name, because the same species word, such as africana, appears in different genera.",
+   "claim_ids": [
+    "CLM-8223-1.1-001",
+    "CLM-8223-1.1-002",
+    "CLM-8223-1.1-003"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-1.1-001": 1,
+    "CLM-8223-1.1-002": 1,
+    "CLM-8223-1.1-003": 1
+   },
+   "authored_hash": "ac3be16d4ffbdf7265f4617c25e766262b956da23e8a4735685c013161c60d18"
+  },
+  {
+   "block_id": "1.1-b3",
+   "block_type": "components",
+   "heading": "The hierarchy of taxa",
+   "text": "A hierarchical classification system arranges organisms in groups that sit inside larger groups. Each group is a taxon. From the largest to the smallest the taxa are kingdom, phylum, class, order, family, genus and species. A kingdom contains several phyla, each phylum contains several classes, and so on down to the species, which is the lowest taxon. A taxon sits inside one taxon of the rank above it, so taxa of the same rank do not overlap.\n\nThe lion shows the system working. It is placed in the kingdom Animalia, the phylum Chordata, the class Mammalia, the order Carnivora, the family Felidae, the genus Panthera and the species leo. The leopard shares each of those taxa with the lion except the species. A springbok, Antidorcas marsupialis, is also in Animalia, Chordata and Mammalia, but it belongs to a different order, Artiodactyla, so it separates from the lion earlier in the hierarchy.\n\nMoving down the hierarchy, each taxon holds fewer organisms and the organisms in it tend to share more features. The hierarchy is used in four ways. It organises the very large number of known organisms into manageable sets. It lets an unfamiliar organism be identified by placing it in successively smaller taxa. It shows how closely organisms are related, since those sharing a lower taxon are likely to be closer relatives. It also gives scientists in different countries one scheme to share.",
+   "claim_ids": [
+    "CLM-8223-1.1-004",
+    "CLM-8223-1.1-005",
+    "CLM-8223-1.1-006"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-1.1-004": 1,
+    "CLM-8223-1.1-005": 1,
+    "CLM-8223-1.1-006": 1
+   },
+   "authored_hash": "866b3561716af674878b67a0632a749463cc94ca9b653b58cf185fe1a5d8c034"
+  },
+  {
+   "block_id": "1.1-b4",
+   "block_type": "plain_explanation",
+   "heading": "Natural classification and homologous features",
+   "text": "A natural classification groups organisms according to their evolutionary relationships. The members of each taxon are descended from a common ancestor, and the evidence for this is the set of homologous features they share.\n\nHomologous features have the same basic structure because they are inherited from a common ancestor, even when they do different jobs. The forelimb of a vertebrate is the standard example. A human arm is used to grasp, a bat wing to fly and a whale flipper to swim, yet each contains the same pattern of bones: one upper arm bone, two lower arm bones, wrist bones and hand bones. The shared pattern is difficult to explain as chance, and is better explained by inheritance from a common ancestor of these mammals. The same reasoning applies to molecules. Similar base sequences in the DNA of two organisms support the inference that they share an ancestor.\n\nThe more homologous features two organisms share, the more recently they tend to have shared a common ancestor. This is why organisms with many homologous features are placed in the same small taxon, and why a natural classification can be used to predict the features of an organism that has not been studied: if it belongs to a taxon, it probably has the features of that taxon.",
+   "claim_ids": [
+    "CLM-8223-1.1-007",
+    "CLM-8223-1.1-008",
+    "CLM-8223-1.1-010"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-1.1-007": 1,
+    "CLM-8223-1.1-008": 1,
+    "CLM-8223-1.1-010": 1
+   },
+   "authored_hash": "428eed56e1d1e7cacae4ad1acf7d95a2a77e268e4328e1d8964ba333a5035111"
+  },
+  {
+   "block_id": "1.1-b5",
+   "block_type": "comparison",
+   "heading": "Analogous features and artificial classification",
+   "text": "A similarity is not always evidence of common ancestry. Analogous features have a similar function but a different structure and origin. The wing of a bat is supported by the bones of a forelimb, whereas the wing of a dragonfly is a thin membrane supported by veins, and has no limb bones. Both are used for flight, but the two wings arose independently, so they are analogous and say nothing about how closely bat and dragonfly are related.\n\nA classification built on convenient features, such as the ability to fly, the habitat or the size, is an artificial classification. It can be quick to use, but it can place unrelated organisms together, as it would with a bat and a dragonfly. A natural classification avoids this because it relies on homologous features, so a bat is placed with the mammals on the basis of features such as hair and the forelimb bone pattern, not with the insects.",
+   "claim_ids": [
+    "CLM-8223-1.1-009"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-1.1-009": 1
+   },
+   "authored_hash": "30a410599ee234b3452462df2e5a25e48f3a82739ea32d27071546d8af47ccd4"
+  },
+  {
+   "block_id": "1.1-b6",
+   "block_type": "process",
+   "heading": "Constructing a dichotomous key",
+   "text": "A dichotomous key is a tool for identifying organisms. It is a series of numbered couplets. A couplet is a pair of contrasting statements about observable features, and each statement leads either to the name of an organism or to the number of another couplet. The user starts at couplet 1, chooses the statement that fits the specimen, and follows the instruction until a name is reached.\n\nTo construct a key, work through the stages in order. First, choose features that can be seen clearly and that differ between the organisms: the type of body covering, the presence of horns, the shape of a leaf or the number of leaflets. Next, pick the feature that splits the whole set into two smaller sets and write it as couplet 1, with one statement for each set. Then repeat with each smaller set, writing a new couplet each time, until every organism has its own name. Finally, test the key by taking each organism through it, to check that it reaches the right name and that no couplet leaves the user unsure which statement fits.\n\nFor a key to work in the field the features need to be easy to see without equipment. Features that change with age or season, such as the size of an animal or the colour of flowers, are poor choices because a young animal or a plant out of flower would be wrongly identified. A key identifies correctly just the organisms it was built for, so an animal that is not in the set will be given a wrong name. A complete key has one couplet fewer than the number of organisms: a key for six organisms has 5 couplets.",
+   "claim_ids": [
+    "CLM-8223-1.1-011",
+    "CLM-8223-1.1-012",
+    "CLM-8223-1.1-013",
+    "CLM-8223-1.1-014"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-1.1-011": 1,
+    "CLM-8223-1.1-012": 1,
+    "CLM-8223-1.1-013": 1,
+    "CLM-8223-1.1-014": 1
+   },
+   "authored_hash": "c89b5aee79b75cc25b13a925c6bafb1a344706f0542d460feed1c910b1e60989"
+  },
+  {
+   "block_id": "1.1-b7",
+   "block_type": "worked_application",
+   "heading": "Worked example: a key for four animals",
+   "text": "Four animals seen in Etosha are an ostrich, a cheetah, a gemsbok and a springbok. The first feature that splits the set into two sets is the body covering, because the ostrich has feathers and the other three have hair. That gives couplet 1: 1a has a body covered in feathers, which gives ostrich; 1b has a body covered in hair, which leads to couplet 2.\n\nAmong the three animals with hair, the cheetah has no horns and a coat marked with solid black spots, whereas the other two have horns. That gives couplet 2: 2a has no horns and a spotted coat, which gives cheetah; 2b has horns, which leads to couplet 3. The gemsbok has long, almost straight horns and the springbok has short horns curved like a lyre. That gives couplet 3: 3a has long, almost straight horns, which gives gemsbok; 3b has short, lyre-shaped horns, which gives springbok.\n\nFour animals have been identified with 3 couplets, which agrees with one couplet fewer than the number of animals. Taking the springbok through the key tests it: 1b, then 2b, then 3b, and the name springbok is reached.",
+   "claim_ids": [
+    "CLM-8223-1.1-011",
+    "CLM-8223-1.1-012",
+    "CLM-8223-1.1-014"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-1.1-011": 1,
+    "CLM-8223-1.1-012": 1,
+    "CLM-8223-1.1-014": 1
+   },
+   "authored_hash": "ec710f86d6062f75b0cd26d43d687c18708fc4bce8e0f3b900e844658eb2cd48"
+  },
+  {
+   "block_id": "1.1-b8",
+   "block_type": "plain_explanation",
+   "heading": "The meaning of the term species",
+   "text": "The word species is used in several senses, each a species concept. The syllabus limits the concepts to four. Each looks at a different feature of the group, and each has strengths and weaknesses.\n\nThe biological species concept defines a species as a group of organisms that can interbreed in natural conditions to produce fertile offspring, and that do not breed in this way with other such groups. A horse and a donkey can mate, but their offspring, a mule, is usually sterile. Because fertile offspring are not produced, the horse and the donkey are separate species by this concept. Its weakness is that interbreeding has to be observed or tested. It cannot be applied to fossils or preserved specimens, and it does not suit organisms that reproduce asexually.\n\nThe morphological species concept defines a species as a group of organisms that share observable structural features and differ in these features from other groups. It can be applied to a preserved specimen or a fossil with only its shape to go on. Its weakness is that members of one species can look different, as males and females or young and adults sometimes do, while different species can look alike.\n\nThe ecological species concept defines a species by its niche: the conditions it tolerates, the resources it uses and its interactions with other organisms. The niche is the role of the organism, not the habitat, which is the place where it lives. The behavioural species concept defines a species by shared behaviour, such as a courtship call or display, which leads members to mate with their own species and so keeps species apart. These two concepts need field observation of living organisms.\n\nAn organism and a species are different things. An organism is a single individual, one lion in the Etosha pan. A species is the group in which that individual is placed, here Panthera leo.",
+   "claim_ids": [
+    "CLM-8223-1.1-015",
+    "CLM-8223-1.1-016",
+    "CLM-8223-1.1-017",
+    "CLM-8223-1.1-018"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-1.1-015": 1,
+    "CLM-8223-1.1-016": 1,
+    "CLM-8223-1.1-017": 1,
+    "CLM-8223-1.1-018": 1
+   },
+   "authored_hash": "96405cc3cb271b10a877f2d60d27cd4aea85f92eecd13bfaaad353924c12f593"
+  },
+  {
+   "block_id": "1.1-b9",
+   "block_type": "misconception",
+   "heading": "Three errors to avoid",
+   "text": "A common error is to swap the parts of a binomial name, treating the first word as the species. The first word is the genus and has a capital letter. A quick test is to ask which word two closely related species would share: Panthera leo and Panthera pardus share Panthera, so that is the genus.\n\nA second error is to treat organism and species as the same thing. A lion in a reserve is an organism; Panthera leo is the species. A test is to ask whether the statement describes one individual or the group in which that individual is placed.\n\nA third error is to describe the morphological concept as resting on DNA, or to use the biological concept for fossils. The morphological concept uses observable structure, so it can be applied to a preserved specimen with only its shape to go on. The biological concept needs breeding to be observed, which cannot be done with fossils.",
+   "claim_ids": [
+    "CLM-8223-1.1-001",
+    "CLM-8223-1.1-015",
+    "CLM-8223-1.1-016",
+    "CLM-8223-1.1-018"
+   ],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {
+    "CLM-8223-1.1-001": 1,
+    "CLM-8223-1.1-015": 1,
+    "CLM-8223-1.1-016": 1,
+    "CLM-8223-1.1-018": 1
+   },
+   "authored_hash": "1550219229c2a930886dcb747474043da636619630cbb9ca595f6fb52f97b181"
+  },
+  {
+   "block_id": "1.1-b10",
+   "block_type": "cross_link",
+   "heading": "Links to other topics",
+   "text": "Counting and comparing the species in an area is the subject of 1.2, Biodiversity. The base sequences of DNA that are compared to infer relationships are described in 3.2.1, Structure and replication of DNA.",
+   "claim_ids": [],
+   "context_tags": [],
+   "assessment_objectives": [
+    "A",
+    "B"
+   ],
+   "claims_seen": {},
+   "authored_hash": "ea8d67b7bbe49b68cfb19072f29e1b002de54f5840677ce7e2cbc0be427f60c7"
+  }
+ ],
+ "word_count": 1910,
+ "qa_status": "review_required",
+ "notes": [
+  "Authored for topic 1.1. Facts are standard textbook biology, single source, unverified."
+ ]
+}
