@@ -1,0 +1,435 @@
+{
+ "group": "G5",
+ "topics": [
+  "3.2.1",
+  "3.2.2"
+ ],
+ "cards": [
+  {
+   "card_id": 40853,
+   "topic": "3.2.1",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [],
+   "reason": "Accurate and on syllabus; recall of nucleotide parts and sugars."
+  },
+  {
+   "card_id": 40854,
+   "topic": "3.2.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate; ATP as adenine, ribose and three phosphates matches the objective."
+  },
+  {
+   "card_id": 40855,
+   "topic": "3.2.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener"
+   ],
+   "reason": "Facts correct; 'Sort' is not an exam opener.",
+   "fix_question": "State which of adenine, cytosine, guanine, thymine and uracil are purines and which are pyrimidines, and state the ring structure of each group.",
+   "fix_answer": "Purines (double ring): adenine, guanine.\nPyrimidines (single ring): cytosine, thymine, uracil."
+  },
+  {
+   "card_id": 40856,
+   "topic": "3.2.1",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "non_exam_opener"
+   ],
+   "reason": "Sound reasoning but a sentence opens with 'Use', which is not allowed.",
+   "fix_question": "In DNA, adenine pairs with thymine and guanine pairs with cytosine. Adenine and guanine have a double ring; cytosine and thymine have a single ring. Explain why every base pair in DNA contains three rings.",
+   "fix_answer": "Each base pair is one purine (double ring, 2 rings) joined to one pyrimidine (single ring, 1 ring): A (purine) with T (pyrimidine), G (purine) with C (pyrimidine). 2 + 1 = 3 rings in every pair."
+  },
+  {
+   "card_id": 40857,
+   "topic": "3.2.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate, covers objective on DNA structure."
+  },
+  {
+   "card_id": 40858,
+   "topic": "3.2.1",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "non_exam_opener",
+    "out_of_scope",
+    "vague_question"
+   ],
+   "reason": "Opens 'What'; 5'/3' notation is not in the syllabus.",
+   "fix_question": "State what joins the nucleotides together within one DNA strand and state what is meant by antiparallel.",
+   "fix_answer": "Covalent phosphodiester bonds join the sugar of one nucleotide to the phosphate of the next, forming the sugar-phosphate backbone.\nAntiparallel: the two strands run in opposite directions."
+  },
+  {
+   "card_id": 40859,
+   "topic": "3.2.1",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [],
+   "reason": "Accurate: A-T two hydrogen bonds, G-C three."
+  },
+  {
+   "card_id": 40860,
+   "topic": "3.2.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate explanation of importance of base pairing."
+  },
+  {
+   "card_id": 40861,
+   "topic": "3.2.1",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "non_exam_opener",
+    "out_of_scope"
+   ],
+   "reason": "'Write' is not an exam opener and 5'/3' labelling is not in the syllabus.",
+   "fix_question": "State the base sequence of the DNA strand that is complementary to the strand ATGCCTAG.",
+   "fix_answer": "TACGGATC (A pairs with T, G pairs with C)."
+  },
+  {
+   "card_id": 40862,
+   "topic": "3.2.1",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [],
+   "reason": "Correct: T 30%, G 20%, C 20%; good Calculate item."
+  },
+  {
+   "card_id": 40863,
+   "topic": "3.2.1",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "non_exam_opener"
+   ],
+   "reason": "Correct answer (26) but 'Show working' and 'How many' are not exam openers.",
+   "fix_question": "A short DNA section has 10 base pairs: 4 are A-T and 6 are G-C. Calculate the number of hydrogen bonds that hold the two strands together.",
+   "fix_answer": "A-T: 4 x 2 = 8\nG-C: 6 x 3 = 18\nTotal = 26 hydrogen bonds."
+  },
+  {
+   "card_id": 40864,
+   "topic": "3.2.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate description of RNA structure."
+  },
+  {
+   "card_id": 40865,
+   "topic": "3.2.1",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "non_exam_opener"
+   ],
+   "reason": "'Give' is not an exam opener.",
+   "fix_question": "State three differences between DNA and RNA.",
+   "fix_answer": "1. Sugar: DNA has deoxyribose; RNA has ribose.\n2. Bases: DNA has thymine; RNA has uracil instead.\n3. Strands: DNA is double-stranded (double helix); RNA is single-stranded."
+  },
+  {
+   "card_id": 40866,
+   "topic": "3.2.1",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "non_exam_opener"
+   ],
+   "reason": "'What is' opener; definition should be asked as 'State what is meant by'.",
+   "fix_question": "State what is meant by semi-conservative replication and explain why it has that name.",
+   "fix_answer": "DNA replication in which each new DNA molecule has one original (parent) strand and one newly made strand. It is semi-conservative because half of the original molecule is kept (conserved) in each new molecule."
+  },
+  {
+   "card_id": 40867,
+   "topic": "3.2.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate outline of replication in S phase."
+  },
+  {
+   "card_id": 40868,
+   "topic": "3.2.1",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "above_level"
+   ],
+   "reason": "DNA polymerase energy source (activated nucleotides) goes beyond syllabus wording.",
+   "fix_question": "Explain the role of DNA polymerase in DNA replication.",
+   "fix_answer": "DNA polymerase joins the free nucleotides that have paired with the bases of a template strand, forming phosphodiester bonds between them (condensation) so that a new sugar-phosphate backbone is built."
+  },
+  {
+   "card_id": 40869,
+   "topic": "3.2.1",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "non_exam_opener"
+   ],
+   "reason": "Correct (4 molecules, 2 with an original strand) but 'How many' opener.",
+   "fix_question": "A DNA molecule has two original strands, X and Y. It replicates twice. State how many DNA molecules there are and how many contain an original strand. Explain your answer.",
+   "fix_answer": "4 molecules; 2 of them contain an original strand.\nRound 1: X and Y separate; each pairs with a new strand, giving X+new and Y+new.\nRound 2: each of these 2 molecules gives 2 more. X stays in one molecule and Y in one; the other 2 are made only of new strands."
+  },
+  {
+   "card_id": 40870,
+   "topic": "3.2.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate link of S phase to mitosis."
+  },
+  {
+   "card_id": 40871,
+   "topic": "3.2.1",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [],
+   "reason": "Suits the model-making objective; features listed are correct."
+  },
+  {
+   "card_id": 40872,
+   "topic": "3.2.1",
+   "verdict": "FIX",
+   "bloom": 5,
+   "tags": [
+    "non_exam_opener"
+   ],
+   "reason": "'Evaluate' is not an allowed command word; science is correct.",
+   "fix_question": "A learner's model shows replication like this: the two original strands stay together, and a whole new double helix is built next to them from new pieces. Discuss whether this model shows semi-conservative replication correctly and suggest how to fix it.",
+   "fix_answer": "The model is wrong: it keeps the original molecule whole and builds a completely new molecule, which is not semi-conservative.\nFix: separate the two original strands by breaking the 'hydrogen bonds'; use each as a template; add complementary nucleotide pieces to each and join them into a backbone. Result: two molecules, each with one original and one new strand."
+  },
+  {
+   "card_id": 40873,
+   "topic": "3.2.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener"
+   ],
+   "reason": "'What is' opener; facts correct.",
+   "fix_question": "State what is meant by a gene and state what it codes for.",
+   "fix_answer": "A gene is a sequence of nucleotides that forms part of a DNA molecule. It codes for a (specific) polypeptide."
+  },
+  {
+   "card_id": 40874,
+   "topic": "3.2.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate: base sequence -> amino acid sequence -> shape -> function."
+  },
+  {
+   "card_id": 40875,
+   "topic": "3.2.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "vague_question"
+   ],
+   "reason": "'Some amino acids' for degenerate is loose; most amino acids have more than one triplet.",
+   "fix_question": "State four features of the genetic code.",
+   "fix_answer": "Any four of:\n1. Triplet code: three bases code for one amino acid.\n2. Non-overlapping: read in separate groups of three.\n3. Universal: the same triplets code for the same amino acids in almost all organisms.\n4. Degenerate: most amino acids have more than one triplet.\n5. Has start and stop triplets.",
+   "conflict": "No factual conflict; ours (ITEM-8223-3.2.2-002-DEF, 'most amino acids') is more accurate than 'some', so use 'most'."
+  },
+  {
+   "card_id": 40876,
+   "topic": "3.2.2",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "factual_error",
+    "vague_question"
+   ],
+   "reason": "Example says DNA triplets TCT/TCC code for serine without naming the strand; true only for the non-template strand.",
+   "fix_question": "Explain what is meant by the genetic code being (a) degenerate and (b) universal. Use the mRNA codons UCU and UCC, which both code for serine, as the example for (a).",
+   "fix_answer": "(a) Degenerate: more than one codon can code for the same amino acid, e.g. UCU and UCC both code for serine.\n(b) Universal: almost every organism uses the same code, so the same codon codes for the same amino acid in all living things."
+  },
+  {
+   "card_id": 40877,
+   "topic": "3.2.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate description of transcription."
+  },
+  {
+   "card_id": 40878,
+   "topic": "3.2.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate description of translation."
+  },
+  {
+   "card_id": 40879,
+   "topic": "3.2.2",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [],
+   "reason": "Accurate roles of mRNA, tRNA and ribosome."
+  },
+  {
+   "card_id": 40880,
+   "topic": "3.2.2",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "non_exam_opener"
+   ],
+   "reason": "'What is' opener; science correct.",
+   "fix_question": "State what is meant by the template strand in transcription and state how the mRNA sequence is related to the non-template strand.",
+   "fix_answer": "The template strand is the one DNA strand that the RNA nucleotides pair with. The mRNA has the same base sequence as the non-template strand, except that U replaces T."
+  },
+  {
+   "card_id": 40881,
+   "topic": "3.2.2",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "non_exam_opener"
+   ],
+   "reason": "Answer correct (AUG CCU AAG; UAC GGA UUC; 3) but 'Write' and 'How many' are not exam openers.",
+   "fix_question": "A DNA template strand reads: TAC GGA TTC.\n(a) State the mRNA codons.\n(b) State the tRNA anticodons that pair with them.\n(c) State the number of amino acids this codes for.",
+   "fix_answer": "(a) AUG CCU AAG\n(b) UAC GGA UUC\n(c) 3 (one per codon)"
+  },
+  {
+   "card_id": 40882,
+   "topic": "3.2.2",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "non_exam_opener"
+   ],
+   "reason": "Answer correct but 'Write' is not an exam opener.",
+   "fix_question": "The non-template (coding) strand of a gene reads: ATG TTT GCA. State the base sequence of the mRNA made from this gene.",
+   "fix_answer": "AUG UUU GCA (same sequence as the non-template strand, with U instead of T)"
+  },
+  {
+   "card_id": 40883,
+   "topic": "3.2.2",
+   "verdict": "FIX",
+   "bloom": 4,
+   "tags": [
+    "non_exam_opener"
+   ],
+   "reason": "'Give' is not an exam opener; content correct.",
+   "fix_question": "Compare DNA replication and transcription by stating three differences.",
+   "fix_answer": "Any three of:\n1. Enzyme: DNA polymerase (replication) vs RNA polymerase (transcription).\n2. Nucleotides: DNA nucleotides vs RNA nucleotides (U instead of T).\n3. Template: both DNA strands vs only the template strand of one gene.\n4. Product: two DNA molecules vs one single-stranded mRNA."
+  },
+  {
+   "card_id": 40884,
+   "topic": "3.2.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate reason for mRNA intermediate."
+  },
+  {
+   "card_id": 40885,
+   "topic": "3.2.2",
+   "verdict": "REPLACE",
+   "bloom": 1,
+   "tags": [
+    "covered_by_ours",
+    "non_exam_opener"
+   ],
+   "reason": "Same point, with exam wording, is covered by our definition card.",
+   "replace_with": "ITEM-8223-3.2.2-006-DEF"
+  },
+  {
+   "card_id": 40886,
+   "topic": "3.2.2",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "vague_question"
+   ],
+   "reason": "Substitution can create a stop codon (shorter polypeptide); insertion/deletion frameshift only if not a multiple of three; 'Name' wording fine.",
+   "fix_question": "Name the three types of gene mutation and outline how each may affect the polypeptide.",
+   "fix_answer": "Substitution: one base is swapped for another. Only one codon changes, so at most one amino acid changes (or none, as the code is degenerate); if the new codon is a stop codon the polypeptide is shortened.\nInsertion: an extra base is added. The codons after it are read in a different grouping (frameshift), so many amino acids may change.\nDeletion: a base is removed. This also causes a frameshift, so many amino acids may change."
+  },
+  {
+   "card_id": 40887,
+   "topic": "3.2.2",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "non_exam_opener"
+   ],
+   "reason": "Answer correct (TAA CGG ATT CCA T) but 'Write' opener.",
+   "fix_question": "A DNA sequence reads: TAC GGA TTC CAT. An extra base A is inserted after the first base. State the new triplets and explain the effect.",
+   "fix_answer": "New sequence: TAA CGG ATT CCA T\nEvery triplet from the mutation onwards is different (frameshift), so every amino acid from that point may change and the polypeptide may not work."
+  },
+  {
+   "card_id": 40888,
+   "topic": "3.2.2",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "factual_error",
+    "vague_question"
+   ],
+   "reason": "TCT/TCC coding serine is true only for the non-template strand; strand not stated (on the template strand both would give arginine).",
+   "fix_question": "A substitution changes the mRNA codon UCU to UCC. Both codons code for serine. State the effect on the polypeptide and explain your answer.",
+   "fix_answer": "No change: the polypeptide still has serine at that position. The genetic code is degenerate (more than one codon codes for the same amino acid), and a substitution changes only one codon."
+  },
+  {
+   "card_id": 40889,
+   "topic": "3.2.2",
+   "verdict": "KEEP",
+   "bloom": 4,
+   "tags": [],
+   "reason": "Accurate comparison of frameshift and substitution effects."
+  },
+  {
+   "card_id": 40890,
+   "topic": "3.2.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate: GAG to GTG on coding strand, CTC to CAC on template, GAG to GUG on mRNA."
+  },
+  {
+   "card_id": 40891,
+   "topic": "3.2.2",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [],
+   "reason": "Accurate (Glu to Val) and on the HbA/HbS objective."
+  },
+  {
+   "card_id": 40892,
+   "topic": "3.2.2",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [],
+   "reason": "Suits RNA model objective; facts correct."
+  }
+ ],
+ "coverage": [
+  {
+   "topic": "3.2.1",
+   "existing": 20,
+   "ours": 12,
+   "objectives_with_no_existing_card": [],
+   "note": "All objectives have at least one existing card; replication and mutation are heavily covered, ATP and gene definition lightly."
+  },
+  {
+   "topic": "3.2.2",
+   "existing": 20,
+   "ours": 20,
+   "objectives_with_no_existing_card": [],
+   "note": "All objectives have at least one existing card; replication and mutation are heavily covered, ATP and gene definition lightly."
+  }
+ ]
+}

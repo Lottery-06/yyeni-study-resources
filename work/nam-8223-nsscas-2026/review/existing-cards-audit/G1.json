@@ -1,0 +1,1436 @@
+{
+ "group": "G1",
+ "topics": [
+  "1.1",
+  "1.2",
+  "2.1",
+  "2.2",
+  "2.3.1"
+ ],
+ "cards": [
+  {
+   "card_id": 21109,
+   "topic": "1.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate description of binomial system."
+  },
+  {
+   "card_id": 21110,
+   "topic": "1.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "no_bloom",
+    "other"
+   ],
+   "reason": "Correct rules, but explanation makes examiner claims; ask for one rule per mark.",
+   "fix_question": "State two rules for writing the binomial name of a species.",
+   "fix_answer": "The genus name begins with a capital letter and the species name with a lower-case letter. The name is in italics when printed or each word underlined when handwritten."
+  },
+  {
+   "card_id": 21111,
+   "topic": "1.1",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "no_bloom",
+    "non_exam_opener"
+   ],
+   "reason": "Sound fact; opener is not an exam word.",
+   "fix_question": "State why scientists use the binomial system.",
+   "fix_answer": "The binomial name of a species is the same in every country, so it identifies the species without the confusion caused by local common names."
+  },
+  {
+   "card_id": 21112,
+   "topic": "1.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate: nested groups with no overlap."
+  },
+  {
+   "card_id": 21113,
+   "topic": "1.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "no_bloom",
+    "non_exam_opener",
+    "out_of_scope"
+   ],
+   "reason": "Opens with List and starts at Domain, which the syllabus does not mention.",
+   "fix_question": "State the order of the main taxonomic ranks from the largest group to the smallest.",
+   "fix_answer": "Kingdom, phylum, class, order, family, genus, species.",
+   "conflict": "Ours starts the hierarchy at kingdom; the syllabus names no domain level, so ours is the safer scope."
+  },
+  {
+   "card_id": 21114,
+   "topic": "1.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "no_bloom",
+    "non_exam_opener",
+    "vague_question"
+   ],
+   "reason": "Opens with Define and the answer ties taxon to phylogeny and no-overlap, which is loose.",
+   "fix_question": "State what is meant by a taxon.",
+   "fix_answer": "A taxon is a group of organisms placed together at one rank of a classification, for example a genus, a family or a class."
+  },
+  {
+   "card_id": 21115,
+   "topic": "1.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate; explains natural classification in terms of evolutionary relationships."
+  },
+  {
+   "card_id": 21116,
+   "topic": "1.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "no_bloom",
+    "non_exam_opener"
+   ],
+   "reason": "Sound; opener is a What question.",
+   "fix_question": "State the basis on which organisms are grouped in a natural classification.",
+   "fix_answer": "Homologous features and evolutionary relationships: the more homologous features organisms share, the more recently they shared a common ancestor and the more closely they are grouped."
+  },
+  {
+   "card_id": 21117,
+   "topic": "1.1",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom",
+    "non_exam_opener"
+   ],
+   "reason": "Reverse-definition card duplicating 21115; not an exam style."
+  },
+  {
+   "card_id": 21118,
+   "topic": "1.1",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate statement of the biological species concept."
+  },
+  {
+   "card_id": 21119,
+   "topic": "1.1",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom",
+    "non_exam_opener"
+   ],
+   "reason": "Reverse-definition card duplicating 21118."
+  },
+  {
+   "card_id": 21120,
+   "topic": "1.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate behavioural-concept example (Drosophila courtship)."
+  },
+  {
+   "card_id": 21121,
+   "topic": "1.1",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "no_bloom",
+    "non_exam_opener"
+   ],
+   "reason": "Evaluate is not an exam opener; content accurate.",
+   "fix_question": "Explain one limitation of the morphological species concept, using an example.",
+   "fix_answer": "Species can look almost identical yet be separate species. For example, some Drosophila species are very hard to tell apart by appearance but are kept separate by different courtship behaviour, so appearance alone cannot separate them."
+  },
+  {
+   "card_id": 21122,
+   "topic": "1.1",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "no_bloom",
+    "non_exam_opener"
+   ],
+   "reason": "Opens with Write; two tasks in one prompt.",
+   "fix_question": "State the binomial name of a wolf, genus Canis and species lupus, and name the rank of each of the two words.",
+   "fix_answer": "Canis lupus (italics or underlined). Canis is the genus and lupus is the species."
+  },
+  {
+   "card_id": 21123,
+   "topic": "1.1",
+   "verdict": "KEEP",
+   "bloom": 4,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate link between nested taxa and branching ancestry."
+  },
+  {
+   "card_id": 21124,
+   "topic": "2.1",
+   "verdict": "REPLACE",
+   "bloom": 1,
+   "tags": [
+    "covered_by_ours",
+    "no_bloom",
+    "non_exam_opener"
+   ],
+   "reason": "Ours is the exam-style definition of linear magnification.",
+   "replace_with": "ITEM-8223-2.1-011-DEF"
+  },
+  {
+   "card_id": 21125,
+   "topic": "2.1",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom",
+    "non_exam_opener"
+   ],
+   "reason": "Reverse-definition card duplicating the magnification definition."
+  },
+  {
+   "card_id": 21126,
+   "topic": "2.1",
+   "verdict": "REPLACE",
+   "bloom": 1,
+   "tags": [
+    "covered_by_ours",
+    "no_bloom",
+    "non_exam_opener"
+   ],
+   "reason": "Ours gives the exam-style resolution definition.",
+   "replace_with": "ITEM-8223-2.1-003-DEF"
+  },
+  {
+   "card_id": 21127,
+   "topic": "2.1",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom",
+    "non_exam_opener"
+   ],
+   "reason": "Reverse-definition card duplicating the resolution definition."
+  },
+  {
+   "card_id": 21128,
+   "topic": "2.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate point that magnifying a low-resolution image adds no detail."
+  },
+  {
+   "card_id": 21129,
+   "topic": "2.1",
+   "verdict": "REPLACE",
+   "bloom": 2,
+   "tags": [
+    "covered_by_ours",
+    "no_bloom",
+    "non_exam_opener",
+    "vague_question"
+   ],
+   "reason": "Answer says resolution increases clarity, which contradicts its own card 21126; ours states the difference precisely.",
+   "replace_with": "ITEM-8223-2.1-004-DIST"
+  },
+  {
+   "card_id": 21130,
+   "topic": "2.1",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "factual_error",
+    "no_bloom",
+    "vague_question"
+   ],
+   "reason": "Numbers are loose and not set by the syllabus; TEM resolution is usually quoted as about 0.5 nm in biological work.",
+   "fix_question": "Compare the maximum resolution and the maximum useful magnification of a light microscope with those of a transmission electron microscope.",
+   "fix_answer": "Light microscope: resolution about 200 nm (0.2 um), magnification up to about x1500. TEM: resolution of the order of 0.1 to 1 nm, magnification of several hundred thousand times or more. Both values are approximate."
+  },
+  {
+   "card_id": 21131,
+   "topic": "2.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate: shorter wavelength gives higher resolution."
+  },
+  {
+   "card_id": 21132,
+   "topic": "2.1",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "answer_too_long",
+    "no_bloom"
+   ],
+   "reason": "Accurate; answer is slightly long."
+  },
+  {
+   "card_id": 21133,
+   "topic": "2.1",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate."
+  },
+  {
+   "card_id": 21134,
+   "topic": "2.1",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate calibration procedure."
+  },
+  {
+   "card_id": 21135,
+   "topic": "2.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "no_bloom",
+    "non_exam_opener"
+   ],
+   "reason": "Opens with Write.",
+   "fix_question": "State the equation for linear magnification and state what each symbol stands for.",
+   "fix_answer": "M = I / A, where M is magnification (no unit), I is the image size and A is the actual size, both in the same unit."
+  },
+  {
+   "card_id": 21136,
+   "topic": "2.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "no_bloom",
+    "non_exam_opener"
+   ],
+   "reason": "Opens with Convert.",
+   "fix_question": "State how many micrometres are in 1 millimetre and how many nanometres are in 1 micrometre.",
+   "fix_answer": "1 mm = 1000 um and 1 um = 1000 nm."
+  },
+  {
+   "card_id": 21137,
+   "topic": "2.1",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Arithmetic correct: 60 mm / 0.030 mm = x2000."
+  },
+  {
+   "card_id": 21138,
+   "topic": "2.1",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Arithmetic correct: 20 mm / 50 000 = 0.4 um."
+  },
+  {
+   "card_id": 21139,
+   "topic": "2.1",
+   "verdict": "FIX",
+   "bloom": 4,
+   "tags": [
+    "no_bloom",
+    "non_exam_opener"
+   ],
+   "reason": "Evaluate is not an exam opener; content accurate.",
+   "fix_question": "Explain why a light microscope cannot be used to see the cristae of a mitochondrion.",
+   "fix_answer": "The cristae are closer together than the resolution limit of a light microscope (about 200 nm), so they cannot be seen as separate structures; an electron microscope has the resolution needed."
+  },
+  {
+   "card_id": 21140,
+   "topic": "2.1",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Arithmetic correct: 100 um / 50 = 2 um."
+  },
+  {
+   "card_id": 21141,
+   "topic": "2.1",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Arithmetic correct: 7 um actual, 70 000 um image, x10 000."
+  },
+  {
+   "card_id": 21162,
+   "topic": "2.2",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate."
+  },
+  {
+   "card_id": 21163,
+   "topic": "2.2",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "factual_error",
+    "no_bloom"
+   ],
+   "reason": "Says ribosomes pass through nuclear pores; it is ribosomal subunits (a whole 80S ribosome is not assembled in the nucleus).",
+   "fix_question": "Describe the function of the nuclear envelope.",
+   "fix_answer": "The nuclear envelope is a double membrane that separates the nucleus from the cytoplasm. Nuclear pores control the movement of molecules such as mRNA and ribosomal subunits into and out of the nucleus.",
+   "conflict": "Ours 2.2-002 sends mRNA through the pore only; existing wording about whole ribosomes is wrong, subunits cross the pores."
+  },
+  {
+   "card_id": 21164,
+   "topic": "2.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "no_bloom",
+    "non_exam_opener"
+   ],
+   "reason": "What is the function opener; content accurate.",
+   "fix_question": "State the function of the nucleolus.",
+   "fix_answer": "The nucleolus makes ribosomal RNA and assembles it with proteins into ribosomal subunits."
+  },
+  {
+   "card_id": 21165,
+   "topic": "2.2",
+   "verdict": "KEEP",
+   "bloom": 4,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate sequence nucleolus, pore, ribosome."
+  },
+  {
+   "card_id": 21166,
+   "topic": "2.2",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate: 80S in the cytoplasm and on RER (syllabus)."
+  },
+  {
+   "card_id": 21167,
+   "topic": "2.2",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate: 70S in mitochondria and chloroplasts (syllabus)."
+  },
+  {
+   "card_id": 21168,
+   "topic": "2.2",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom",
+    "non_exam_opener"
+   ],
+   "reason": "Opens with Differentiate and repeats 21166/21167.",
+   "fix_question": "Compare the ribosomes in the cytoplasm of a eukaryotic cell with those in its mitochondria.",
+   "fix_answer": "Cytoplasmic ribosomes are 80S and larger; mitochondrial ribosomes are 70S and smaller, and they lie in the mitochondrial matrix."
+  },
+  {
+   "card_id": 21169,
+   "topic": "2.2",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "no_bloom",
+    "non_exam_opener"
+   ],
+   "reason": "Opens with List; ribosome and RER listed as two steps.",
+   "fix_question": "Outline the route taken by a protein from its synthesis to its secretion from a eukaryotic cell.",
+   "fix_answer": "Made by ribosomes on the rough ER (from mRNA copied in the nucleus), enters the RER, passes in transport vesicles to the Golgi body, is modified and packaged into secretory vesicles, which fuse with the cell surface membrane and release it.",
+   "conflict": "Ours 2.2-025 supports the order RER, Golgi, membrane; agree."
+  },
+  {
+   "card_id": 21170,
+   "topic": "2.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate role of RER."
+  },
+  {
+   "card_id": 21171,
+   "topic": "2.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate role of Golgi body."
+  },
+  {
+   "card_id": 21172,
+   "topic": "2.2",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "no_bloom",
+    "non_exam_opener"
+   ],
+   "reason": "Predict is not an exam opener; content accurate.",
+   "fix_question": "Suggest two organelles that would be abundant in a pancreatic cell that secretes large amounts of digestive enzymes, and explain each choice.",
+   "fix_answer": "Rough ER, to make large amounts of protein on its many ribosomes; Golgi body, to modify and package the enzymes into secretory vesicles."
+  },
+  {
+   "card_id": 21173,
+   "topic": "2.2",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate."
+  },
+  {
+   "card_id": 21174,
+   "topic": "2.2",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate."
+  },
+  {
+   "card_id": 21175,
+   "topic": "2.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate; sensory cilia aside is beyond the syllabus but harmless."
+  },
+  {
+   "card_id": 21176,
+   "topic": "2.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate."
+  },
+  {
+   "card_id": 21177,
+   "topic": "2.2",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate."
+  },
+  {
+   "card_id": 21178,
+   "topic": "2.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "no_bloom",
+    "non_exam_opener"
+   ],
+   "reason": "What is the function opener.",
+   "fix_question": "State the function of the tonoplast.",
+   "fix_answer": "The tonoplast is the membrane around the large permanent vacuole; it is partially permeable and controls the movement of substances into and out of the vacuole."
+  },
+  {
+   "card_id": 21179,
+   "topic": "2.2",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate."
+  },
+  {
+   "card_id": 21180,
+   "topic": "2.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate generic plant/animal comparison."
+  },
+  {
+   "card_id": 21181,
+   "topic": "2.2",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate."
+  },
+  {
+   "card_id": 21193,
+   "topic": "1.2",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "below_level",
+    "no_bloom",
+    "non_exam_opener",
+    "out_of_scope"
+   ],
+   "reason": "Taxonomy as a term is not in the syllabus and the card is mis-topiced (not 1.2)."
+  },
+  {
+   "card_id": 21194,
+   "topic": "1.2",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom",
+    "non_exam_opener",
+    "out_of_scope"
+   ],
+   "reason": "Reverse-definition for an unexamined term."
+  },
+  {
+   "card_id": 21195,
+   "topic": "1.2",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom",
+    "non_exam_opener"
+   ],
+   "reason": "Duplicates 21115; Define opener; mis-topiced."
+  },
+  {
+   "card_id": 21196,
+   "topic": "1.2",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom",
+    "non_exam_opener"
+   ],
+   "reason": "Reverse-definition duplicating 21115."
+  },
+  {
+   "card_id": 21197,
+   "topic": "1.2",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom",
+    "out_of_scope"
+   ],
+   "reason": "Domains Archaea/Bacteria/Eukarya are not in the syllabus."
+  },
+  {
+   "card_id": 21198,
+   "topic": "1.2",
+   "verdict": "DROP",
+   "bloom": 2,
+   "tags": [
+    "factual_error",
+    "no_bloom",
+    "out_of_scope",
+    "vague_question"
+   ],
+   "reason": "Out of scope and the answer is vague (does not say which RNA or what differed)."
+  },
+  {
+   "card_id": 21199,
+   "topic": "1.2",
+   "verdict": "DROP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom",
+    "out_of_scope"
+   ],
+   "reason": "Archaea properties are not in the syllabus."
+  },
+  {
+   "card_id": 21200,
+   "topic": "1.2",
+   "verdict": "DROP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom",
+    "out_of_scope"
+   ],
+   "reason": "Three-domain comparison is not in the syllabus."
+  },
+  {
+   "card_id": 21201,
+   "topic": "1.2",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom",
+    "out_of_scope"
+   ],
+   "reason": "Relies on the Domain rank, which is out of scope; trivial and duplicates 21113."
+  },
+  {
+   "card_id": 21202,
+   "topic": "1.2",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom",
+    "vague_question"
+   ],
+   "reason": "Refers to \"the notes\", so it is not self-contained, and duplicates 21113."
+  },
+  {
+   "card_id": 21203,
+   "topic": "1.2",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "no_bloom",
+    "out_of_scope"
+   ],
+   "reason": "Classification of wolf is correct but includes Domain and is an unexamined recall chain.",
+   "fix_question": "State the kingdom, phylum, class, order, family, genus and species of the wolf.",
+   "fix_answer": "Animalia, Chordata, Mammalia, Carnivora, Canidae, Canis (genus), lupus (species)."
+  },
+  {
+   "card_id": 21204,
+   "topic": "1.2",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "factual_error",
+    "no_bloom",
+    "out_of_scope"
+   ],
+   "reason": "mRNA is not a standard sequence source and molecular evidence is not named in the syllabus.",
+   "fix_question": "Name two types of molecular sequence data that can be compared to show how closely related two species are.",
+   "fix_answer": "DNA base sequences and the amino acid sequences of proteins (ribosomal RNA sequences also accepted)."
+  },
+  {
+   "card_id": 21223,
+   "topic": "2.3.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate; components are covered by 21225."
+  },
+  {
+   "card_id": 21224,
+   "topic": "2.3.1",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom",
+    "non_exam_opener"
+   ],
+   "reason": "Reverse-definition card."
+  },
+  {
+   "card_id": 21225,
+   "topic": "2.3.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "no_bloom",
+    "non_exam_opener"
+   ],
+   "reason": "Opens with List.",
+   "fix_question": "State five molecular components of the cell surface membrane.",
+   "fix_answer": "Phospholipids, cholesterol, glycolipids, proteins (channel and carrier proteins) and glycoproteins."
+  },
+  {
+   "card_id": 21226,
+   "topic": "2.3.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate roles."
+  },
+  {
+   "card_id": 21227,
+   "topic": "2.3.1",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "factual_error",
+    "no_bloom"
+   ],
+   "reason": "Says the bilayer is impermeable to most ions and polar molecules; that is an unqualified universal.",
+   "fix_question": "Describe the role of phospholipids in the cell surface membrane.",
+   "fix_answer": "Phospholipids form a bilayer with hydrophilic heads facing the water on both sides and hydrophobic tails facing inwards. The hydrophobic core is a barrier to the passage of most ions and polar molecules."
+  },
+  {
+   "card_id": 21228,
+   "topic": "2.3.1",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "factual_error",
+    "no_bloom"
+   ],
+   "reason": "Mechanism at low temperature is wrong (restricting movement does not stop rigidity).",
+   "fix_question": "Describe the role of cholesterol in the cell surface membrane.",
+   "fix_answer": "Cholesterol fits between phospholipids and regulates membrane fluidity: at higher temperature it restricts phospholipid movement and at lower temperature it stops the phospholipids packing closely together."
+  },
+  {
+   "card_id": 21229,
+   "topic": "2.3.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate."
+  },
+  {
+   "card_id": 21230,
+   "topic": "2.3.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate."
+  },
+  {
+   "card_id": 21231,
+   "topic": "2.3.1",
+   "verdict": "FIX",
+   "bloom": 4,
+   "tags": [
+    "answer_too_long",
+    "no_bloom"
+   ],
+   "reason": "Asks for two differences but gives a table of three; speed row is not a syllabus point.",
+   "fix_question": "State two differences between channel proteins and carrier proteins.",
+   "fix_answer": "A channel protein forms a fixed water-filled pore, whereas a carrier protein binds a specific molecule and changes shape. Channel proteins are used only in facilitated diffusion, whereas carrier proteins are used in facilitated diffusion and active transport."
+  },
+  {
+   "card_id": 21232,
+   "topic": "2.3.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate."
+  },
+  {
+   "card_id": 21233,
+   "topic": "2.3.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate."
+  },
+  {
+   "card_id": 21234,
+   "topic": "2.3.1",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate."
+  },
+  {
+   "card_id": 21235,
+   "topic": "2.3.1",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate; ABO antigen example is sound."
+  },
+  {
+   "card_id": 21236,
+   "topic": "2.3.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate outline of cell signalling."
+  },
+  {
+   "card_id": 21237,
+   "topic": "2.3.1",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate."
+  },
+  {
+   "card_id": 21238,
+   "topic": "2.3.1",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "no_bloom",
+    "non_exam_opener"
+   ],
+   "reason": "Predict is not an exam opener; competitive inhibitor is enzyme wording.",
+   "fix_question": "Suggest what would happen if a drug that binds to a cell surface receptor without activating it were given with the normal signalling molecule.",
+   "fix_answer": "The drug acts as an antagonist: it occupies the receptor binding site, so the normal signalling molecule cannot bind and the response is reduced or blocked."
+  },
+  {
+   "card_id": 41926,
+   "topic": "2.1",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21124."
+  },
+  {
+   "card_id": 41927,
+   "topic": "2.1",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21125."
+  },
+  {
+   "card_id": 41928,
+   "topic": "2.1",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21126."
+  },
+  {
+   "card_id": 41929,
+   "topic": "2.1",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21127."
+  },
+  {
+   "card_id": 41930,
+   "topic": "2.1",
+   "verdict": "DROP",
+   "bloom": 2,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21129."
+  },
+  {
+   "card_id": 41931,
+   "topic": "2.1",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21135."
+  },
+  {
+   "card_id": 41932,
+   "topic": "2.1",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21136."
+  },
+  {
+   "card_id": 41933,
+   "topic": "2.1",
+   "verdict": "DROP",
+   "bloom": 3,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21137."
+  },
+  {
+   "card_id": 41934,
+   "topic": "2.1",
+   "verdict": "DROP",
+   "bloom": 3,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21138."
+  },
+  {
+   "card_id": 41935,
+   "topic": "2.1",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Arithmetic correct: 25 mm = 25 000 um, / 5 um = x5000; unique scale-bar card."
+  },
+  {
+   "card_id": 41936,
+   "topic": "2.1",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21132."
+  },
+  {
+   "card_id": 41937,
+   "topic": "2.1",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21133."
+  },
+  {
+   "card_id": 41938,
+   "topic": "2.1",
+   "verdict": "DROP",
+   "bloom": 3,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21134."
+  },
+  {
+   "card_id": 41939,
+   "topic": "2.1",
+   "verdict": "DROP",
+   "bloom": 3,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21140."
+  },
+  {
+   "card_id": 41940,
+   "topic": "2.1",
+   "verdict": "DROP",
+   "bloom": 3,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21141."
+  },
+  {
+   "card_id": 41941,
+   "topic": "2.1",
+   "verdict": "DROP",
+   "bloom": 2,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21130."
+  },
+  {
+   "card_id": 41942,
+   "topic": "2.1",
+   "verdict": "DROP",
+   "bloom": 2,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21131."
+  },
+  {
+   "card_id": 41943,
+   "topic": "2.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate TEM versus SEM differences; unique."
+  },
+  {
+   "card_id": 41944,
+   "topic": "2.1",
+   "verdict": "DROP",
+   "bloom": 2,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21128."
+  },
+  {
+   "card_id": 41945,
+   "topic": "2.1",
+   "verdict": "DROP",
+   "bloom": 4,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21139."
+  },
+  {
+   "card_id": 41946,
+   "topic": "2.2",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21162."
+  },
+  {
+   "card_id": 41947,
+   "topic": "2.2",
+   "verdict": "DROP",
+   "bloom": 2,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21163."
+  },
+  {
+   "card_id": 41948,
+   "topic": "2.2",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21164."
+  },
+  {
+   "card_id": 41949,
+   "topic": "2.2",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21166."
+  },
+  {
+   "card_id": 41950,
+   "topic": "2.2",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21167."
+  },
+  {
+   "card_id": 41951,
+   "topic": "2.2",
+   "verdict": "DROP",
+   "bloom": 2,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21168."
+  },
+  {
+   "card_id": 41952,
+   "topic": "2.2",
+   "verdict": "DROP",
+   "bloom": 2,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21170."
+  },
+  {
+   "card_id": 41953,
+   "topic": "2.2",
+   "verdict": "DROP",
+   "bloom": 2,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21171."
+  },
+  {
+   "card_id": 41954,
+   "topic": "2.2",
+   "verdict": "DROP",
+   "bloom": 3,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21169."
+  },
+  {
+   "card_id": 41955,
+   "topic": "2.2",
+   "verdict": "DROP",
+   "bloom": 4,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21165."
+  },
+  {
+   "card_id": 41956,
+   "topic": "2.2",
+   "verdict": "DROP",
+   "bloom": 3,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21172."
+  },
+  {
+   "card_id": 41957,
+   "topic": "2.2",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21173."
+  },
+  {
+   "card_id": 41958,
+   "topic": "2.2",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21174."
+  },
+  {
+   "card_id": 41959,
+   "topic": "2.2",
+   "verdict": "DROP",
+   "bloom": 2,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21175."
+  },
+  {
+   "card_id": 41960,
+   "topic": "2.2",
+   "verdict": "DROP",
+   "bloom": 2,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21176."
+  },
+  {
+   "card_id": 41961,
+   "topic": "2.2",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21177."
+  },
+  {
+   "card_id": 41962,
+   "topic": "2.2",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21181."
+  },
+  {
+   "card_id": 41963,
+   "topic": "2.2",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21178."
+  },
+  {
+   "card_id": 41964,
+   "topic": "2.2",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21179."
+  },
+  {
+   "card_id": 41965,
+   "topic": "2.2",
+   "verdict": "DROP",
+   "bloom": 2,
+   "tags": [
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Duplicate of card 21180."
+  }
+ ],
+ "coverage": [
+  {
+   "topic": "1.1",
+   "existing": 15,
+   "ours": 19,
+   "objectives_with_no_existing_card": [
+    "OBJ-8223-1.1-04"
+   ],
+   "note": "Existing cards cover binomials, hierarchy, natural classification and species concepts, but none on dichotomous keys."
+  },
+  {
+   "topic": "1.2",
+   "existing": 12,
+   "ours": 25,
+   "objectives_with_no_existing_card": [
+    "OBJ-8223-1.2-01",
+    "OBJ-8223-1.2-02",
+    "OBJ-8223-1.2-03",
+    "OBJ-8223-1.2-04",
+    "OBJ-8223-1.2-05",
+    "OBJ-8223-1.2-06"
+   ],
+   "note": "All 12 existing 1.2 cards are classification/domain content that does not belong to 1.2; none cover ecosystem, niche, biodiversity, sampling, Simpson or Lincoln."
+  },
+  {
+   "topic": "2.1",
+   "existing": 38,
+   "ours": 16,
+   "objectives_with_no_existing_card": [],
+   "note": "All objectives touched; set is duplicated (38 cards for about 20 distinct ideas). Principles of microscopy only partly covered."
+  },
+  {
+   "topic": "2.2",
+   "existing": 40,
+   "ours": 32,
+   "objectives_with_no_existing_card": [
+    "OBJ-8223-2.2-02",
+    "OBJ-8223-2.2-03",
+    "OBJ-8223-2.2-05",
+    "OBJ-8223-2.2-06",
+    "OBJ-8223-2.2-07",
+    "OBJ-8223-2.2-08",
+    "OBJ-8223-2.2-09",
+    "OBJ-8223-2.2-10"
+   ],
+   "note": "Set is duplicated; no cards on mitochondrion/chloroplast/smooth ER function, prokaryotes, viruses, ATP, plan diagrams or wet mounts."
+  },
+  {
+   "topic": "2.3.1",
+   "existing": 16,
+   "ours": 14,
+   "objectives_with_no_existing_card": [],
+   "note": "All four objectives covered well; no card on cell surface membrane roles beyond 21226."
+  }
+ ]
+}

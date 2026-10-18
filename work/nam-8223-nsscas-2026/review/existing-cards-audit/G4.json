@@ -1,0 +1,1362 @@
+{
+ "group": "G4",
+ "topics": [
+  "2.10.1",
+  "2.10.2",
+  "2.8.2",
+  "2.9.1",
+  "2.9.2",
+  "3.1.1",
+  "3.1.2"
+ ],
+ "cards": [
+  {
+   "card_id": 21480,
+   "topic": "2.8.2",
+   "verdict": "REPLACE",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "covered_by_ours",
+    "no_bloom"
+   ],
+   "reason": "Opens with Define; our card asks the same point in the house wording.",
+   "replace_with": "ITEM-8223-2.8.2-001-DEF"
+  },
+  {
+   "card_id": 21481,
+   "topic": "2.8.2",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "below_level",
+    "duplicate_of_existing",
+    "vague_question",
+    "no_bloom"
+   ],
+   "reason": "Reverse term-recall card duplicating 21480; not an exam-style prompt."
+  },
+  {
+   "card_id": 21482,
+   "topic": "2.8.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom",
+    "other"
+   ],
+   "reason": "Mechanism (autolysins, blocked cross-links, osmotic lysis) is accurate and in scope."
+  },
+  {
+   "card_id": 21483,
+   "topic": "2.8.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate explanation of why only growing cells are affected."
+  },
+  {
+   "card_id": 21484,
+   "topic": "2.8.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate; viruses are not cells and have no cell wall target."
+  },
+  {
+   "card_id": 21485,
+   "topic": "2.8.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate; links selective toxicity to the bacterial-only peptidoglycan wall."
+  },
+  {
+   "card_id": 21486,
+   "topic": "2.8.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct outline of mutation then selection then inheritance."
+  },
+  {
+   "card_id": 21487,
+   "topic": "2.8.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct: mutation is random and exists before exposure."
+  },
+  {
+   "card_id": 21488,
+   "topic": "2.8.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct description of antibiotic as selection pressure."
+  },
+  {
+   "card_id": 21489,
+   "topic": "2.8.2",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Sound discussion of two real consequences."
+  },
+  {
+   "card_id": 21490,
+   "topic": "2.8.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with List; otherwise accurate.",
+   "fix_question": "State three human actions that have contributed to the increase in antibiotic resistance.",
+   "fix_answer": "Any three of: over-prescribing antibiotics, including for viral infections; patients not completing the full course; routine use of antibiotics in farming and livestock."
+  },
+  {
+   "card_id": 21491,
+   "topic": "2.8.2",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Reasonable outline of two measures; stewardship and infection control are standard."
+  },
+  {
+   "card_id": 21492,
+   "topic": "2.9.1",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom",
+    "other"
+   ],
+   "reason": "Accurate definition in exam wording."
+  },
+  {
+   "card_id": 21493,
+   "topic": "2.9.1",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "below_level",
+    "duplicate_of_existing",
+    "vague_question",
+    "no_bloom"
+   ],
+   "reason": "Reverse term-recall card; not an exam-style prompt."
+  },
+  {
+   "card_id": 21494,
+   "topic": "2.9.1",
+   "verdict": "REPLACE",
+   "bloom": 2,
+   "tags": [
+    "answer_too_long",
+    "covered_by_ours",
+    "no_bloom"
+   ],
+   "reason": "Answer is a three-row table for a 1-mark State prompt; our card is concise and equivalent.",
+   "replace_with": "ITEM-8223-2.9.1-007-DIST"
+  },
+  {
+   "card_id": 21495,
+   "topic": "2.9.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "other",
+    "no_bloom"
+   ],
+   "reason": "Wording refers to another syllabus; trim.",
+   "fix_question": "Name two types of phagocyte.",
+   "fix_answer": "Macrophages and neutrophils."
+  },
+  {
+   "card_id": 21496,
+   "topic": "2.9.1",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "factual_error",
+    "no_bloom"
+   ],
+   "reason": "Lysozymes named as the only hydrolytic enzymes; loose.",
+   "fix_question": "Describe how a phagocyte destroys a pathogen.",
+   "fix_answer": "1. The phagocyte is attracted to the pathogen by chemicals it releases. 2. The cell surface membrane extends around the pathogen and engulfs it into a vesicle (phagosome). 3. Lysosomes fuse with the phagosome and release hydrolytic enzymes (for example lysozyme and proteases) into it. 4. The enzymes digest the pathogen and the products are absorbed by the phagocyte."
+  },
+  {
+   "card_id": 21497,
+   "topic": "2.9.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct: phagocytosis and antigen presentation to T-helper cells."
+  },
+  {
+   "card_id": 21498,
+   "topic": "2.9.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Sequence is accurate and respects the T-helper/T-killer limit."
+  },
+  {
+   "card_id": 21499,
+   "topic": "2.9.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate and within the T-helper limit."
+  },
+  {
+   "card_id": 21500,
+   "topic": "2.9.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate role of B-lymphocytes and plasma cells."
+  },
+  {
+   "card_id": 21501,
+   "topic": "2.9.1",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate function of T-killer cells."
+  },
+  {
+   "card_id": 21502,
+   "topic": "2.9.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate role of memory cells."
+  },
+  {
+   "card_id": 21503,
+   "topic": "2.9.1",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "factual_error",
+    "no_bloom"
+   ],
+   "reason": "Says memory cells bypass antigen presentation and clonal selection; memory cells still need activation, only faster.",
+   "fix_question": "Explain why the secondary immune response is faster and stronger than the primary immune response.",
+   "fix_answer": "A large population of memory B-cells and memory T-cells specific to the antigen already exists after the primary response. They recognise the antigen and are activated quickly, so more cells divide and differentiate into plasma cells and T-killer cells sooner, and more antibody is made faster."
+  },
+  {
+   "card_id": 21504,
+   "topic": "2.9.1",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Good applied scenario linking primary and secondary responses."
+  },
+  {
+   "card_id": 21505,
+   "topic": "2.9.1",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "below_level",
+    "out_of_scope",
+    "vague_question",
+    "no_bloom"
+   ],
+   "reason": "Single-term recall of a word the syllabus does not use; trivial."
+  },
+  {
+   "card_id": 21506,
+   "topic": "2.9.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom",
+    "other"
+   ],
+   "reason": "Accurate, short and answerable."
+  },
+  {
+   "card_id": 21507,
+   "topic": "2.9.2",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate structure; hinge region is extra but harmless."
+  },
+  {
+   "card_id": 21508,
+   "topic": "2.9.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom",
+    "other"
+   ],
+   "reason": "Accurate link of variable region shape to specificity."
+  },
+  {
+   "card_id": 21509,
+   "topic": "2.9.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "out_of_scope",
+    "no_bloom"
+   ],
+   "reason": "Complement proteins are beyond the syllabus.",
+   "fix_question": "State the function of the constant region of an antibody.",
+   "fix_answer": "The constant region binds to receptors on phagocytes, so the phagocyte can recognise and engulf the pathogen that the antibody has bound."
+  },
+  {
+   "card_id": 21510,
+   "topic": "2.9.2",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "factual_error",
+    "no_bloom"
+   ],
+   "reason": "Calls the fused cells plasma cells; the cells taken from the spleen are antibody-producing B-lymphocytes.",
+   "fix_question": "Outline the hybridoma method for the production of monoclonal antibodies.",
+   "fix_answer": "1. A mouse is injected with the specific antigen. 2. Antibody-producing B-lymphocytes are removed from its spleen. 3. They are fused with myeloma (tumour) cells to make hybridoma cells. 4. Hybridoma cells are cultured and screened to find those making the required antibody. 5. The selected hybridoma cells are cloned and cultured to produce large amounts of the monoclonal antibody."
+  },
+  {
+   "card_id": 21511,
+   "topic": "2.9.2",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "non_exam_opener",
+    "factual_error",
+    "no_bloom"
+   ],
+   "reason": "Opens with In...why; also equates the fused cells with plasma cells.",
+   "fix_question": "Explain why, in the hybridoma method, B-lymphocytes are fused with myeloma cells.",
+   "fix_answer": "The B-lymphocytes make the required antibody but do not divide indefinitely in culture. Myeloma cells divide indefinitely. The hybridoma cell does both, so it can be cultured to make large amounts of one antibody."
+  },
+  {
+   "card_id": 21512,
+   "topic": "2.9.2",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct example (hCG in pregnancy tests)."
+  },
+  {
+   "card_id": 21513,
+   "topic": "2.9.2",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "factual_error",
+    "british_spelling",
+    "no_bloom",
+    "other"
+   ],
+   "reason": "Says antigens are found only on cancer cells; many are also on normal cells at lower levels.",
+   "fix_question": "Outline one use of monoclonal antibodies in the treatment of disease.",
+   "fix_answer": "In cancer treatment a monoclonal antibody is made to bind to an antigen found on (or mainly on) the surface of cancer cells. It can mark the cells for destruction by the immune system or carry a cytotoxic drug or radioactive substance to the tumour, which limits damage to healthy cells."
+  },
+  {
+   "card_id": 21514,
+   "topic": "2.9.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate differences between active and passive immunity."
+  },
+  {
+   "card_id": 21515,
+   "topic": "2.9.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate; examples separate how immunity is gained."
+  },
+  {
+   "card_id": 21516,
+   "topic": "2.9.2",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with Classify.",
+   "fix_question": "Name the type of immunity a child gains from a measles vaccine.",
+   "fix_answer": "Artificial active immunity."
+  },
+  {
+   "card_id": 21517,
+   "topic": "2.9.2",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with Classify.",
+   "fix_question": "Name the type of immunity a baby gains from its mother through breast milk.",
+   "fix_answer": "Natural passive immunity."
+  },
+  {
+   "card_id": 21518,
+   "topic": "2.9.2",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "non_exam_opener",
+    "vague_question",
+    "no_bloom"
+   ],
+   "reason": "Awkward syllabus-copy opener (Explain that).",
+   "fix_question": "Explain how a vaccine gives long-term immunity.",
+   "fix_answer": "A vaccine contains weakened or killed pathogens, or their antigens. These are recognised as foreign and cause a primary immune response, making antibodies and memory cells. The memory cells remain, so if the pathogen enters later a faster, larger secondary response destroys it before disease develops."
+  },
+  {
+   "card_id": 21519,
+   "topic": "2.9.2",
+   "verdict": "DROP",
+   "bloom": 2,
+   "tags": [
+    "duplicate_of_existing",
+    "vague_question",
+    "no_bloom"
+   ],
+   "reason": "Repeats 21502 and 21518; also says memory cells make more T-cells, which is vague."
+  },
+  {
+   "card_id": 21520,
+   "topic": "2.9.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate account of herd immunity and the programme effect."
+  },
+  {
+   "card_id": 21521,
+   "topic": "2.9.2",
+   "verdict": "REPLACE",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "covered_by_ours",
+    "no_bloom"
+   ],
+   "reason": "Opens with Define; our card asks the same in the house wording.",
+   "replace_with": "ITEM-8223-2.9.2-011-DEF"
+  },
+  {
+   "card_id": 21522,
+   "topic": "2.9.2",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "below_level",
+    "duplicate_of_existing",
+    "vague_question",
+    "no_bloom"
+   ],
+   "reason": "Reverse term-recall card duplicating 21521."
+  },
+  {
+   "card_id": 21523,
+   "topic": "2.10.1",
+   "verdict": "REPLACE",
+   "bloom": 1,
+   "tags": [
+    "vague_question",
+    "covered_by_ours",
+    "no_bloom",
+    "other"
+   ],
+   "reason": "Prompt asks to describe by listing; our card asks for the path as a sentence answer.",
+   "replace_with": "ITEM-8223-2.10.1-002-MECH"
+  },
+  {
+   "card_id": 21524,
+   "topic": "2.10.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opener not an exam command word first.",
+   "fix_question": "Name four gross structures that can be seen when the lungs of a mammal are dissected.",
+   "fix_answer": "Any four of: trachea (with cartilage rings), bronchi, lobes of the lungs, pleural membranes, diaphragm, heart."
+  },
+  {
+   "card_id": 21525,
+   "topic": "2.10.1",
+   "verdict": "KEEP",
+   "bloom": 4,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Distribution of cartilage and smooth muscle is accurate; table is long but answerable."
+  },
+  {
+   "card_id": 21526,
+   "topic": "2.10.1",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate function of cartilage."
+  },
+  {
+   "card_id": 21527,
+   "topic": "2.10.1",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate function of bronchiole smooth muscle."
+  },
+  {
+   "card_id": 21528,
+   "topic": "2.10.1",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate; elastic fibres stretch and recoil."
+  },
+  {
+   "card_id": 21529,
+   "topic": "2.10.1",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate function of goblet cells."
+  },
+  {
+   "card_id": 21530,
+   "topic": "2.10.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate function of cilia."
+  },
+  {
+   "card_id": 21531,
+   "topic": "2.10.1",
+   "verdict": "FIX",
+   "bloom": 4,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom",
+    "other"
+   ],
+   "reason": "Opens with From a photomicrograph, how.",
+   "fix_question": "Describe how a transverse section of a trachea can be distinguished from a transverse section of a bronchus.",
+   "fix_answer": "The trachea has C-shaped rings of cartilage, with the gap at the back. A bronchus has smaller irregular plates of cartilage that surround the lumen."
+  },
+  {
+   "card_id": 21532,
+   "topic": "2.10.1",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with What type.",
+   "fix_question": "Name the type of epithelium that lines the alveoli and state its function.",
+   "fix_answer": "Squamous epithelium. It is very thin, which gives a short diffusion distance for oxygen and carbon dioxide between the alveolar air and the blood."
+  },
+  {
+   "card_id": 21533,
+   "topic": "2.10.1",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate; both gases and gradients are covered (partial pressure wording is fine)."
+  },
+  {
+   "card_id": 21534,
+   "topic": "2.10.1",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "non_exam_opener",
+    "factual_error",
+    "no_bloom"
+   ],
+   "reason": "Opens with List; tennis-court area is an inaccurate comparison.",
+   "fix_question": "State three features of the alveoli that make them efficient at gas exchange.",
+   "fix_answer": "1. Very large surface area: millions of alveoli give a total area of roughly 70 square metres. 2. Short diffusion pathway: the alveolar wall and capillary wall are each one cell thick. 3. Steep concentration gradients maintained by ventilation and blood flow."
+  },
+  {
+   "card_id": 21535,
+   "topic": "2.10.1",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate identification from described features."
+  },
+  {
+   "card_id": 21536,
+   "topic": "2.10.1",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "non_exam_opener",
+    "vague_question",
+    "no_bloom"
+   ],
+   "reason": "Opens with Where; answer wording unclear.",
+   "fix_question": "Identify the part of the gas exchange system that has a dense network of capillaries next to a single layer of squamous epithelial cells.",
+   "fix_answer": "The alveoli (the alveolar walls, surrounded by capillaries)."
+  },
+  {
+   "card_id": 21537,
+   "topic": "2.10.1",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with List.",
+   "fix_question": "State four tissues that should be drawn and labelled in a plan diagram of a transverse section of the wall of a bronchus.",
+   "fix_answer": "Ciliated epithelium (with goblet cells) lining the lumen; smooth muscle; plates of cartilage; connective tissue (with mucous glands)."
+  },
+  {
+   "card_id": 21538,
+   "topic": "2.10.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Tar effects on cilia, goblet cells, inflammation and cancer are accurate."
+  },
+  {
+   "card_id": 21539,
+   "topic": "2.10.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate explanation of smoker cough from cilia and mucus."
+  },
+  {
+   "card_id": 21540,
+   "topic": "2.10.2",
+   "verdict": "REPLACE",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "covered_by_ours",
+    "no_bloom"
+   ],
+   "reason": "Opens with Define; our card gives the same idea in house wording.",
+   "replace_with": "ITEM-8223-2.10.2-001-DEF"
+  },
+  {
+   "card_id": 21541,
+   "topic": "2.10.2",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "below_level",
+    "duplicate_of_existing",
+    "vague_question",
+    "no_bloom"
+   ],
+   "reason": "Reverse term-recall card duplicating 21540."
+  },
+  {
+   "card_id": 21542,
+   "topic": "2.10.2",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "out_of_scope",
+    "no_bloom",
+    "other"
+   ],
+   "reason": "Names proto-oncogenes and tumour suppressor genes, which the syllabus does not require.",
+   "fix_question": "Explain how carcinogens in tobacco smoke can lead to lung cancer.",
+   "fix_answer": "Carcinogens in tar enter cells of the airways and can cause mutations in the DNA. If a mutation is in a gene that controls cell division, the cell may divide uncontrollably by mitosis and form a tumour."
+  },
+  {
+   "card_id": 21543,
+   "topic": "2.10.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "below_level",
+    "no_bloom"
+   ],
+   "reason": "Opens with What; trivial but syllabus names COPD.",
+   "fix_question": "State what the abbreviation COPD stands for.",
+   "fix_answer": "Chronic obstructive pulmonary disease."
+  },
+  {
+   "card_id": 21544,
+   "topic": "2.10.2",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct: COPD includes chronic bronchitis and emphysema."
+  },
+  {
+   "card_id": 21545,
+   "topic": "2.10.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate account of chronic bronchitis."
+  },
+  {
+   "card_id": 21546,
+   "topic": "2.10.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Elastase and elastin mechanism is accurate."
+  },
+  {
+   "card_id": 21547,
+   "topic": "2.10.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate consequences of emphysema."
+  },
+  {
+   "card_id": 21548,
+   "topic": "2.10.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate short-term effects of nicotine."
+  },
+  {
+   "card_id": 21549,
+   "topic": "2.10.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate chain from nicotine to raised blood pressure."
+  },
+  {
+   "card_id": 21550,
+   "topic": "2.10.2",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "factual_error",
+    "no_bloom"
+   ],
+   "reason": "Says CO binds irreversibly; it binds very strongly and is released very slowly, not irreversibly.",
+   "fix_question": "Describe the effect of carbon monoxide from tobacco smoke on the cardiovascular system.",
+   "fix_answer": "Carbon monoxide combines with haemoglobin to form stable carboxyhaemoglobin. Haemoglobin has a much higher affinity for carbon monoxide than for oxygen and the carbon monoxide is released very slowly, so less oxygen is carried by the blood. The heart rate rises as the heart works harder to supply tissues with oxygen.",
+   "conflict": "Existing says irreversible binding; ours (2.10.2-003) says stable compound with much higher affinity. Ours is right: binding is very strong and slow to reverse, not strictly irreversible."
+  },
+  {
+   "card_id": 21551,
+   "topic": "2.10.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with What is the name.",
+   "fix_question": "Name the compound formed when carbon monoxide combines with haemoglobin.",
+   "fix_answer": "Carboxyhaemoglobin."
+  },
+  {
+   "card_id": 21552,
+   "topic": "2.10.2",
+   "verdict": "FIX",
+   "bloom": 4,
+   "tags": [
+    "factual_error",
+    "no_bloom"
+   ],
+   "reason": "Claims CO raises blood pressure; unsupported and not a syllabus point.",
+   "fix_question": "Compare the short-term effects of nicotine and carbon monoxide on the cardiovascular system.",
+   "fix_answer": "Nicotine stimulates release of adrenaline, which raises heart rate and blood pressure (arterioles narrow) and makes platelets stickier. Carbon monoxide combines with haemoglobin and reduces the oxygen-carrying capacity of the blood, so the heart rate rises to compensate. Both increase the work of the heart."
+  },
+  {
+   "card_id": 21553,
+   "topic": "2.10.2",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with When designing.",
+   "fix_question": "State three principles of good question design for a questionnaire on the incidence of hay fever.",
+   "fix_answer": "Any three of: clear unambiguous wording; no leading questions; mainly closed questions for easy analysis; short and relevant; neutral language."
+  },
+  {
+   "card_id": 21554,
+   "topic": "2.10.2",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with Define.",
+   "fix_question": "State what is meant by a leading question and explain why it should be avoided in a scientific survey.",
+   "fix_answer": "A leading question is worded to suggest a particular answer. It should be avoided because it biases the results, so they do not show what people really think or experience."
+  },
+  {
+   "card_id": 21555,
+   "topic": "2.10.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Informed consent and confidentiality are sound ethical points."
+  },
+  {
+   "card_id": 21556,
+   "topic": "2.10.2",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "non_exam_opener",
+    "vague_question",
+    "no_bloom"
+   ],
+   "reason": "Opens with In a survey, why; statistically significant is loose for an incidence survey.",
+   "fix_question": "Explain why a survey on the incidence of hay fever or asthma should use a large, representative sample.",
+   "fix_answer": "A large sample reduces the effect of chance, so results are more reliable. A representative sample reflects the whole population (for example all ages and both sexes), so the results can be applied to it."
+  },
+  {
+   "card_id": 21557,
+   "topic": "2.10.2",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Reasonable outline of a questionnaire survey method."
+  },
+  {
+   "card_id": 40813,
+   "topic": "3.1.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "british_spelling",
+    "other"
+   ],
+   "reason": "American spelling in the card text.",
+   "fix_question": "Describe the five components that make up the structure of a eukaryotic chromosome during cell division.",
+   "fix_answer": "A eukaryotic chromosome consists of:\n1.  **DNA**: A very long molecule carrying the genetic information.\n2.  **Histone proteins**: Proteins around which the DNA is tightly coiled.\n3.  **Chromatids**: Two identical copies of the DNA molecule (sister chromatids) formed during replication.\n4.  **Centromere**: The specialised region where the two sister chromatids are joined together.\n5.  **Telomeres**: Repetitive nucleotide sequences at each end of a chromosome."
+  },
+  {
+   "card_id": 40814,
+   "topic": "3.1.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate role of histones."
+  },
+  {
+   "card_id": 40815,
+   "topic": "3.1.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate; centromere versus centrosome noted."
+  },
+  {
+   "card_id": 40816,
+   "topic": "3.1.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener"
+   ],
+   "reason": "Opens with Define.",
+   "fix_question": "State what is meant by sister chromatids.",
+   "fix_answer": "The two genetically identical copies of a chromosome, made by DNA replication in S phase and joined at the centromere."
+  },
+  {
+   "card_id": 40817,
+   "topic": "3.1.1",
+   "verdict": "REPLACE",
+   "bloom": 1,
+   "tags": [
+    "vague_question",
+    "covered_by_ours"
+   ],
+   "reason": "Question gives the definition and asks only for the term; our card uses house wording.",
+   "replace_with": "ITEM-8223-3.1.1-003-DEF"
+  },
+  {
+   "card_id": 40818,
+   "topic": "3.1.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener"
+   ],
+   "reason": "Opens with List.",
+   "fix_question": "State four reasons why mitosis is important in multicellular organisms.",
+   "fix_answer": "Growth; replacement of cells; repair of tissues; asexual reproduction (in some organisms). Each gives genetically identical cells."
+  },
+  {
+   "card_id": 40819,
+   "topic": "3.1.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "other"
+   ],
+   "reason": "Accurate reason for using root tip meristem."
+  },
+  {
+   "card_id": 40820,
+   "topic": "3.1.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener"
+   ],
+   "reason": "Opens with List.",
+   "fix_question": "State the three main stages of the mitotic cell cycle in order.",
+   "fix_answer": "Interphase, mitosis, cytokinesis."
+  },
+  {
+   "card_id": 40821,
+   "topic": "3.1.1",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [],
+   "reason": "Matches the syllabus wording on G1, S and G2."
+  },
+  {
+   "card_id": 40822,
+   "topic": "3.1.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate distinction between mitosis and cytokinesis."
+  },
+  {
+   "card_id": 40823,
+   "topic": "3.1.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate and matches the objective; consistent with our telomere cards."
+  },
+  {
+   "card_id": 40824,
+   "topic": "3.1.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener"
+   ],
+   "reason": "Opens with Define.",
+   "fix_question": "State what is meant by a stem cell.",
+   "fix_answer": "An unspecialised cell that can divide repeatedly by mitosis and can differentiate into specialised cell types."
+  },
+  {
+   "card_id": 40825,
+   "topic": "3.1.1",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "british_spelling"
+   ],
+   "reason": "American spelling in the card text.",
+   "fix_question": "Outline the role of stem cells and mitosis in cell replacement and tissue repair.",
+   "fix_answer": "When a tissue is damaged, stem cells in that area are activated. They divide by mitosis to produce more cells. Some of these new cells remain as stem cells, while others differentiate to become the specialised cells needed to replace the damaged or dead ones, thereby repairing the tissue."
+  },
+  {
+   "card_id": 40826,
+   "topic": "3.1.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate; loss of control of the cell cycle by mutation."
+  },
+  {
+   "card_id": 40827,
+   "topic": "3.1.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "other"
+   ],
+   "reason": "Opens with List.",
+   "fix_question": "State the four stages of mitosis in the correct order.",
+   "fix_answer": "Prophase, metaphase, anaphase, telophase."
+  },
+  {
+   "card_id": 40828,
+   "topic": "3.1.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate prophase events."
+  },
+  {
+   "card_id": 40829,
+   "topic": "3.1.2",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [],
+   "reason": "Good identification card using features."
+  },
+  {
+   "card_id": 40830,
+   "topic": "3.1.2",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [],
+   "reason": "Good identification card using features."
+  },
+  {
+   "card_id": 40831,
+   "topic": "3.1.2",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [],
+   "reason": "Good identification card using features."
+  },
+  {
+   "card_id": 40832,
+   "topic": "3.1.2",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [],
+   "reason": "Good identification card; telophase features correct."
+  },
+  {
+   "card_id": 40833,
+   "topic": "3.1.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate metaphase events."
+  },
+  {
+   "card_id": 40834,
+   "topic": "3.1.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate anaphase events."
+  },
+  {
+   "card_id": 40835,
+   "topic": "3.1.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate telophase events."
+  },
+  {
+   "card_id": 40836,
+   "topic": "3.1.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate nuclear envelope behaviour with stages named."
+  },
+  {
+   "card_id": 40837,
+   "topic": "3.1.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate role of spindle fibres."
+  },
+  {
+   "card_id": 40838,
+   "topic": "3.1.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate difference in cytokinesis."
+  },
+  {
+   "card_id": 40839,
+   "topic": "3.1.1",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "factual_error",
+    "above_level"
+   ],
+   "reason": "Centrosome replication belongs to S phase and DNA checking exceeds the syllabus (only growth in G2 is stated).",
+   "fix_question": "State three things a cell does in the G2 phase to prepare for mitosis.",
+   "fix_answer": "Any three of: it keeps growing; it makes more organelles; it makes proteins such as tubulin for the spindle; it checks the replicated DNA for errors."
+  },
+  {
+   "card_id": 40840,
+   "topic": "3.1.1",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "non_exam_opener"
+   ],
+   "reason": "Opener is How many; use State.",
+   "fix_question": "A human body cell has 46 chromosomes. State how many DNA molecules are in the nucleus (a) in G1, (b) at the end of S phase, (c) in each daughter nucleus after mitosis, and explain your answer to (b).",
+   "fix_answer": "(a) 46. (b) 92: in S phase every DNA molecule is copied, so each chromosome has two sister chromatids and each chromatid has one DNA molecule (46 × 2 = 92). (c) 46."
+  },
+  {
+   "card_id": 40841,
+   "topic": "3.1.1",
+   "verdict": "DROP",
+   "bloom": 3,
+   "tags": [
+    "factual_error",
+    "out_of_scope",
+    "vague_question"
+   ],
+   "reason": "Claim that most mRNA is made in G1 is unsupported (transcription continues through interphase) and mRNA is outside this topic."
+  },
+  {
+   "card_id": 40842,
+   "topic": "3.1.1",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [],
+   "reason": "Reasonable outline of root tip squash and reason for squashing."
+  },
+  {
+   "card_id": 40843,
+   "topic": "3.1.1",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [],
+   "reason": "Sound drawing conventions for practical work."
+  },
+  {
+   "card_id": 40844,
+   "topic": "3.1.2",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [],
+   "reason": "Stages and order correct."
+  },
+  {
+   "card_id": 40845,
+   "topic": "3.1.2",
+   "verdict": "FIX",
+   "bloom": 4,
+   "tags": [
+    "non_exam_opener"
+   ],
+   "reason": "Opens with Evaluate, not an exam command word.",
+   "fix_question": "A learner says a cell is in metaphase because each chromosome is made of two chromatids. Explain why this reason is not enough and state the feature that does show metaphase.",
+   "fix_answer": "Chromosomes are made of two sister chromatids from the end of S phase until anaphase, so this is also true in prophase. Metaphase is shown by the chromosomes lined up on the equator of the spindle."
+  },
+  {
+   "card_id": 40846,
+   "topic": "3.1.1",
+   "verdict": "FIX",
+   "bloom": 4,
+   "tags": [
+    "non_exam_opener"
+   ],
+   "reason": "Opens with Evaluate; statement is loose rather than wrong.",
+   "fix_question": "A learner writes: \"Mitosis repairs damaged cells.\" Explain what is wrong with this statement and write a correct version.",
+   "fix_answer": "Mitosis does not fix a damaged cell. It makes new, genetically identical cells that replace dead or damaged cells, which repairs the tissue. Correct version: \"Mitosis makes new cells that replace dead or damaged cells, which repairs the tissue.\""
+  },
+  {
+   "card_id": 40847,
+   "topic": "3.1.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate; identical offspring from mitosis in one parent."
+  },
+  {
+   "card_id": 40848,
+   "topic": "3.1.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [],
+   "reason": "Accurate link of mitosis to growth from a zygote."
+  },
+  {
+   "card_id": 40849,
+   "topic": "3.1.1",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "out_of_scope"
+   ],
+   "reason": "Potency term multipotent is not in the syllabus.",
+   "fix_question": "State one example of an adult stem cell and name two types of cell it can become.",
+   "fix_answer": "Bone marrow stem cell; it can become red blood cells and white blood cells (for example neutrophils or lymphocytes)."
+  },
+  {
+   "card_id": 40850,
+   "topic": "3.1.1",
+   "verdict": "DROP",
+   "bloom": 1,
+   "tags": [
+    "out_of_scope"
+   ],
+   "reason": "Benign versus malignant and metastasis are not in objective 3.1.1-07."
+  },
+  {
+   "card_id": 40851,
+   "topic": "3.1.1",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "out_of_scope",
+    "vague_question"
+   ],
+   "reason": "Answer relies on immune destruction of mutant cells, not in the syllabus, and omits what makes the tumour.",
+   "fix_question": "A mutation occurs in one body cell. State the kind of mutation that can lead to a tumour and explain why every cell in the tumour carries it.",
+   "fix_answer": "A mutation in a gene that controls the cell cycle (cell division), so the cell divides uncontrollably. The cell divides by mitosis, which makes genetically identical daughter cells, so all the cells of the tumour inherit the mutation."
+  },
+  {
+   "card_id": 40852,
+   "topic": "3.1.1",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "non_exam_opener"
+   ],
+   "reason": "Opens with a scenario then Predict, not allowed.",
+   "fix_question": "A chromosome has lost its telomeres. Suggest what happens to the chromosome over many cell divisions and explain why.",
+   "fix_answer": "It loses some DNA from its ends at every division, because the DNA cannot be copied right to the end. With no telomere to take the loss, genes near the ends are lost, a little more each time, which can kill the cell."
+  }
+ ],
+ "coverage": [
+  {
+   "topic": "2.10.1",
+   "existing": 15,
+   "ours": 18,
+   "objectives_with_no_existing_card": [
+    "OBJ-8223-2.10.1-04"
+   ],
+   "note": "No card asks learners to recognise ciliated epithelium, capillaries or alveoli in micrographs (04)."
+  },
+  {
+   "topic": "2.10.2",
+   "existing": 20,
+   "ours": 9,
+   "objectives_with_no_existing_card": [],
+   "note": "All objectives covered by at least one retained existing card."
+  },
+  {
+   "topic": "2.8.2",
+   "existing": 12,
+   "ours": 13,
+   "objectives_with_no_existing_card": [],
+   "note": "All objectives covered by at least one retained existing card."
+  },
+  {
+   "topic": "2.9.1",
+   "existing": 15,
+   "ours": 13,
+   "objectives_with_no_existing_card": [],
+   "note": "All objectives covered by at least one retained existing card."
+  },
+  {
+   "topic": "2.9.2",
+   "existing": 16,
+   "ours": 14,
+   "objectives_with_no_existing_card": [],
+   "note": "All objectives covered by at least one retained existing card."
+  },
+  {
+   "topic": "3.1.1",
+   "existing": 27,
+   "ours": 24,
+   "objectives_with_no_existing_card": [],
+   "note": "All objectives covered by at least one retained existing card."
+  },
+  {
+   "topic": "3.1.2",
+   "existing": 13,
+   "ours": 7,
+   "objectives_with_no_existing_card": [],
+   "note": "All objectives covered by at least one retained existing card."
+  }
+ ]
+}

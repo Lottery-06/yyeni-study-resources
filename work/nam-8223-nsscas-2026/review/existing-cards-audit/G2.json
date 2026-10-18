@@ -1,0 +1,1311 @@
+{
+ "group": "G2",
+ "topics": [
+  "2.3.2",
+  "2.4.1",
+  "2.4.2",
+  "2.5.1"
+ ],
+ "cards": [
+  {
+   "card_id": 21259,
+   "topic": "2.3.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom",
+    "other"
+   ],
+   "reason": "Opens with a non-exam word; swap the opener.",
+   "fix_question": "State what is meant by diffusion.",
+   "fix_answer": "Diffusion is the net movement of particles from a region of higher concentration to a region of lower concentration, down a concentration gradient. It is a passive process."
+  },
+  {
+   "card_id": 21260,
+   "topic": "2.3.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "vague_question",
+    "no_bloom",
+    "british_spelling"
+   ],
+   "reason": "Reverse card opens with a non-exam stem; use Name.",
+   "fix_question": "Name the process in which particles show a net movement from a higher concentration to a lower concentration, down a concentration gradient, directly through the membrane or in a fluid, with no transport protein and no metabolic energy.",
+   "fix_answer": "Diffusion."
+  },
+  {
+   "card_id": 21261,
+   "topic": "2.3.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with a non-exam word; swap the opener.",
+   "fix_question": "State what is meant by facilitated diffusion.",
+   "fix_answer": "Facilitated diffusion is the net movement of substances from a higher concentration to a lower concentration (down a concentration gradient) through transport proteins (channel or carrier proteins) without the use of metabolic energy."
+  },
+  {
+   "card_id": 21262,
+   "topic": "2.3.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Reverse card opens with a non-exam stem; use Name.",
+   "fix_question": "Name the process in which a substance shows a net movement down its concentration gradient through transport proteins without metabolic energy.",
+   "fix_answer": "Facilitated diffusion."
+  },
+  {
+   "card_id": 21263,
+   "topic": "2.3.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with a non-exam word; swap the opener.",
+   "fix_question": "State what is meant by osmosis.",
+   "fix_answer": "Osmosis is the net movement of water molecules from a region of higher water potential to a region of lower water potential, through a partially permeable membrane."
+  },
+  {
+   "card_id": 21264,
+   "topic": "2.3.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Reverse card opens with a non-exam stem; use Name.",
+   "fix_question": "Name the process in which water molecules show a net movement from a higher water potential to a lower water potential through a partially permeable membrane.",
+   "fix_answer": "Osmosis."
+  },
+  {
+   "card_id": 21265,
+   "topic": "2.3.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with a non-exam word; swap the opener.",
+   "fix_question": "Explain what is meant by active transport.",
+   "fix_answer": "Active transport is the movement of substances against their concentration gradient (from a region of lower concentration to a region of higher concentration), using metabolic energy in the form of ATP and carrier proteins."
+  },
+  {
+   "card_id": 21266,
+   "topic": "2.3.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Reverse card opens with a non-exam stem; use Name.",
+   "fix_question": "Name the process that moves a substance from a lower concentration to a higher concentration and needs ATP and carrier proteins.",
+   "fix_answer": "Active transport."
+  },
+  {
+   "card_id": 21267,
+   "topic": "2.3.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with a non-exam word; swap the opener.",
+   "fix_question": "State what is meant by endocytosis.",
+   "fix_answer": "Endocytosis is the process by which the cell surface membrane engulfs material to form a vesicle or vacuole, bringing it into the cell. It is an active process requiring ATP."
+  },
+  {
+   "card_id": 21268,
+   "topic": "2.3.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with a non-exam word; swap the opener.",
+   "fix_question": "State what is meant by exocytosis.",
+   "fix_answer": "Exocytosis is the process by which a vesicle fuses with the cell surface membrane to release its contents to the outside of the cell. It is an active process requiring ATP."
+  },
+  {
+   "card_id": 21269,
+   "topic": "2.3.2",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "factual_error",
+    "no_bloom"
+   ],
+   "reason": "Table says active transport always involves carrier proteins yet lists endocytosis and exocytosis, which use vesicles, not carrier proteins.",
+   "fix_question": "Compare passive transport (diffusion, facilitated diffusion, osmosis) with active transport (carrier-protein pumping) in terms of energy, direction relative to the gradient and proteins used.",
+   "fix_answer": "| Feature | Passive transport | Active transport |\n|---|---|---|\n| Energy | No metabolic energy (ATP) needed | Metabolic energy (ATP) needed |\n| Direction | Down a concentration or water potential gradient | Against a concentration gradient |\n| Proteins | None for simple diffusion and osmosis; channel or carrier proteins for facilitated diffusion | Carrier proteins |\nNote: endocytosis and exocytosis also need ATP but move material in vesicles, not through carrier proteins."
+  },
+  {
+   "card_id": 21270,
+   "topic": "2.3.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with Write; swap to State.",
+   "fix_question": "State the formulae for the surface area and the volume of a cube of side length L.",
+   "fix_answer": "| Quantity | Formula |\n|---|---|\n| Surface Area (SA) | 6L² |\n| Volume (V) | L³ |"
+  },
+  {
+   "card_id": 21271,
+   "topic": "2.3.2",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Arithmetic correct (24 cm2, 8 cm3, 3:1) and answerable."
+  },
+  {
+   "card_id": 21272,
+   "topic": "2.3.2",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "1 cm cube 6:1 and 3 cm cube 2:1 are correct and the reason is stated."
+  },
+  {
+   "card_id": 21273,
+   "topic": "2.3.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "vague_question",
+    "factual_error",
+    "no_bloom"
+   ],
+   "reason": "Calling water potential a pressure created by water molecules is loose; define as the tendency of water to move, highest for pure water.",
+   "fix_question": "State what is meant by water potential.",
+   "fix_answer": "Water potential is the tendency of water molecules to move from one place to another. Pure water has the highest water potential (0 kPa) and solutions have lower, more negative, values."
+  },
+  {
+   "card_id": 21274,
+   "topic": "2.3.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct statement of net water movement down a water potential gradient."
+  },
+  {
+   "card_id": 21275,
+   "topic": "2.3.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct account of a turgid plant cell with the cell wall role."
+  },
+  {
+   "card_id": 21276,
+   "topic": "2.3.2",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "out_of_scope",
+    "no_bloom"
+   ],
+   "reason": "Uses the term hypertonic; the syllabus limits water movement to water potential terms.",
+   "fix_question": "Explain the effect of placing a plant cell into a solution with a lower water potential than its cytoplasm.",
+   "fix_answer": "The solution has a lower water potential than the cell cytoplasm. Water leaves the cell by osmosis, down the water potential gradient. The vacuole and cytoplasm shrink, and the cell membrane pulls away from the cell wall. The cell becomes flaccid and then plasmolysed."
+  },
+  {
+   "card_id": 21277,
+   "topic": "2.3.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with Using; ask for the meanings directly.",
+   "fix_question": "State what is meant by a turgid cell, a flaccid cell and a plasmolysed cell.",
+   "fix_answer": "**Turgid:** The state of a plant cell when it has absorbed the maximum amount of water by osmosis, and the cell membrane is pushed firmly against the cell wall.\n**Flaccid:** The state of a plant cell when it has lost water by osmosis, resulting in a loss of turgor pressure. The cell membrane is not pressed tightly against the cell wall.\n**Plasmolysis:** The condition where the cell membrane pulls away from the cell wall in a plant cell that has lost a significant amount of water by osmosis."
+  },
+  {
+   "card_id": 21278,
+   "topic": "2.3.2",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "out_of_scope",
+    "no_bloom"
+   ],
+   "reason": "Uses the term hypotonic; keep to water potential wording.",
+   "fix_question": "Explain the effect of placing an animal cell (for example a red blood cell) into a solution with a higher water potential than its cytoplasm.",
+   "fix_answer": "The solution has a higher water potential than the cell cytoplasm. Water enters the cell by osmosis. The cell swells and, because it has no cell wall to withstand the pressure, the cell surface membrane will stretch and eventually burst. This is called lysis (or haemolysis for a red blood cell)."
+  },
+  {
+   "card_id": 21279,
+   "topic": "2.3.2",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "out_of_scope",
+    "no_bloom"
+   ],
+   "reason": "Uses hypertonic and crenated; keep to water potential wording.",
+   "fix_question": "Explain the effect of placing an animal cell into a solution with a lower water potential than its cytoplasm.",
+   "fix_answer": "The solution has a lower water potential than the cytoplasm. Water leaves the cell by osmosis, down the water potential gradient. The cell shrinks and becomes shrivelled."
+  },
+  {
+   "card_id": 21280,
+   "topic": "2.3.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate plant versus animal comparison."
+  },
+  {
+   "card_id": 21281,
+   "topic": "2.3.2",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Sound Visking tubing diffusion set-up with a Benedict test on the water."
+  },
+  {
+   "card_id": 21282,
+   "topic": "2.3.2",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Valid potato and sucrose method with percentage change in mass."
+  },
+  {
+   "card_id": 21283,
+   "topic": "2.3.2",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct variables."
+  },
+  {
+   "card_id": 21284,
+   "topic": "2.3.2",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "non_exam_opener",
+    "vague_question",
+    "no_bloom",
+    "other"
+   ],
+   "reason": "Opens with From a graph; isotonic is not a syllabus term and the link to a water potential value is missing.",
+   "fix_question": "Explain how a graph of percentage change in mass of plant tissue against sucrose concentration can be used to estimate the water potential of the tissue.",
+   "fix_answer": "Read off the concentration where the line of best fit crosses zero percentage change in mass. There is no net movement of water at that concentration, so the water potential of that solution equals the water potential of the tissue. The water potential of that solution is found from a table or graph of water potential against concentration."
+  },
+  {
+   "card_id": 21285,
+   "topic": "2.4.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with a non-exam word; swap the opener.",
+   "fix_question": "State what is meant by the term monomer.",
+   "fix_answer": "A small, basic molecular unit from which polymers are made."
+  },
+  {
+   "card_id": 21286,
+   "topic": "2.4.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Reverse card opens with a non-exam stem; use Name.",
+   "fix_question": "Name the term for a small molecular unit from which polymers are made.",
+   "fix_answer": "Monomer"
+  },
+  {
+   "card_id": 21287,
+   "topic": "2.4.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with a non-exam word; swap the opener.",
+   "fix_question": "State what is meant by the term polymer.",
+   "fix_answer": "A large, complex molecule made up of many repeating monomer units joined together."
+  },
+  {
+   "card_id": 21288,
+   "topic": "2.4.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Reverse card opens with a non-exam stem; use Name.",
+   "fix_question": "Name the term for a large molecule made of many repeating monomer units joined together.",
+   "fix_answer": "Polymer"
+  },
+  {
+   "card_id": 21289,
+   "topic": "2.4.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with a non-exam word; swap the opener.",
+   "fix_question": "State what is meant by the term macromolecule.",
+   "fix_answer": "A very large organic molecule, such as a protein, polysaccharide or nucleic acid."
+  },
+  {
+   "card_id": 21290,
+   "topic": "2.4.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with a non-exam word; swap the opener.",
+   "fix_question": "State what is meant by the term monosaccharide.",
+   "fix_answer": "A single sugar monomer which is the simplest form of carbohydrate."
+  },
+  {
+   "card_id": 21291,
+   "topic": "2.4.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Reverse card opens with a non-exam stem; use Name.",
+   "fix_question": "Name the term for a single sugar monomer, the simplest carbohydrate unit.",
+   "fix_answer": "Monosaccharide"
+  },
+  {
+   "card_id": 21292,
+   "topic": "2.4.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with a non-exam word; swap the opener.",
+   "fix_question": "State what is meant by the term disaccharide.",
+   "fix_answer": "A molecule formed from two monosaccharides joined together by a glycosidic bond."
+  },
+  {
+   "card_id": 21293,
+   "topic": "2.4.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom",
+    "other"
+   ],
+   "reason": "Reverse card opens with a non-exam stem; use Name.",
+   "fix_question": "Name the term for a molecule formed from two monosaccharides joined by a glycosidic bond.",
+   "fix_answer": "Disaccharide"
+  },
+  {
+   "card_id": 21294,
+   "topic": "2.4.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with a non-exam word; swap the opener.",
+   "fix_question": "State what is meant by the term polysaccharide.",
+   "fix_answer": "A complex carbohydrate polymer formed from many monosaccharide units joined by glycosidic bonds."
+  },
+  {
+   "card_id": 21295,
+   "topic": "2.4.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Reverse card opens with a non-exam stem; use Name.",
+   "fix_question": "Name the term for a carbohydrate polymer formed from many monosaccharide units joined by glycosidic bonds.",
+   "fix_answer": "Polysaccharide"
+  },
+  {
+   "card_id": 21296,
+   "topic": "2.4.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "vague_question",
+    "no_bloom"
+   ],
+   "reason": "Position of OH depends on how the ring is drawn; state the convention.",
+   "fix_question": "Describe how the ring forms of α-glucose and β-glucose differ, when each ring is drawn with the CH2OH group on carbon 5 above the ring.",
+   "fix_answer": "In α-glucose the -OH group on carbon 1 is below the plane of the ring. In β-glucose the -OH group on carbon 1 is above the plane of the ring."
+  },
+  {
+   "card_id": 21297,
+   "topic": "2.4.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Opens with Draw and the answer is a description; overlaps 21296 but adds the full ring detail.",
+   "fix_question": "Describe how to draw the ring form of α-glucose, stating the position of every -OH group and the CH2OH group.",
+   "fix_answer": "A ring of five carbon atoms and one oxygen atom. The CH2OH group on carbon 5 is above the ring. The -OH groups on carbons 1, 2 and 4 are below the ring and the -OH on carbon 3 is above the ring."
+  },
+  {
+   "card_id": 21298,
+   "topic": "2.4.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "duplicate_of_existing",
+    "no_bloom"
+   ],
+   "reason": "Opens with Draw and the answer is a description; overlaps 21296 but adds the full ring detail.",
+   "fix_question": "Describe how to draw the ring form of β-glucose, stating the position of every -OH group and the CH2OH group.",
+   "fix_answer": "A ring of five carbon atoms and one oxygen atom. The CH2OH group on carbon 5 is above the ring. The -OH groups on carbons 1 and 3 are above the ring and the -OH groups on carbons 2 and 4 are below the ring."
+  },
+  {
+   "card_id": 21299,
+   "topic": "2.4.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct condensation description."
+  },
+  {
+   "card_id": 21300,
+   "topic": "2.4.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct: sucrose is α-glucose plus fructose with loss of one water."
+  },
+  {
+   "card_id": 21301,
+   "topic": "2.4.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct hydrolysis description."
+  },
+  {
+   "card_id": 21302,
+   "topic": "2.4.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct link between acid hydrolysis and the non-reducing sugar test."
+  },
+  {
+   "card_id": 21303,
+   "topic": "2.4.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct amylose and amylopectin structure with α-1,4 and α-1,6 bonds."
+  },
+  {
+   "card_id": 21304,
+   "topic": "2.4.1",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with Relate; swap to Explain.",
+   "fix_question": "Explain how the structure of starch suits it to energy storage in plants.",
+   "fix_answer": "| Structural Feature | Functional Advantage |\n|---|---|\n| **Insoluble in water** | Does not affect the water potential of the cell, preventing osmotic issues. |\n| **Large & Compact** | The helical shape of amylose and branched nature of amylopectin allow a large amount of glucose to be stored in a small volume. |\n| **Made of α-glucose** | Can be easily hydrolysed by enzymes to release glucose for respiration. |"
+  },
+  {
+   "card_id": 21305,
+   "topic": "2.4.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct glycogen structure."
+  },
+  {
+   "card_id": 21306,
+   "topic": "2.4.1",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with Relate; swap to Explain.",
+   "fix_question": "Explain how the structure of glycogen suits it to energy storage in animals.",
+   "fix_answer": "| Structural Feature | Functional Advantage |\n|---|---|\n| **Highly Branched** | Provides many terminal ends for enzymes to act on simultaneously, allowing for very rapid hydrolysis and release of glucose to meet high and sudden energy demands. |\n| **Compact** | Allows for dense storage of glucose in a small space, primarily in liver and muscle cells. |\n| **Insoluble in water** | Does not affect the water potential of the cell. |"
+  },
+  {
+   "card_id": 21307,
+   "topic": "2.4.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct β-1,4 bonds and alternate inversion."
+  },
+  {
+   "card_id": 21308,
+   "topic": "2.4.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct and uses an exam opener."
+  },
+  {
+   "card_id": 21309,
+   "topic": "2.4.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct triglyceride structure."
+  },
+  {
+   "card_id": 21310,
+   "topic": "2.4.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct ester bond condensation, three waters."
+  },
+  {
+   "card_id": 21311,
+   "topic": "2.4.1",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with Relate; swap to Explain.",
+   "fix_question": "Explain how the structure of a triglyceride suits it to its functions in living organisms.",
+   "fix_answer": "1.  **Energy Storage**: They have a high ratio of energy-storing carbon-hydrogen bonds, making them excellent, efficient energy reserves.\n2.  **Insulation**: They are thermal insulators that reduce heat loss.\n3.  **Protection**: Fat is stored around vital organs to act as a shock absorber.\n4.  **Buoyancy**: Being less dense than water, they aid flotation in aquatic animals."
+  },
+  {
+   "card_id": 21312,
+   "topic": "2.4.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct phospholipid structure."
+  },
+  {
+   "card_id": 21313,
+   "topic": "2.4.1",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with Relate; swap to Explain.",
+   "fix_question": "Explain how the structure of a phospholipid suits it to forming the basis of cell membranes.",
+   "fix_answer": "The amphipathic nature of phospholipids causes them to spontaneously arrange into a bilayer in an aqueous environment. The hydrophobic tails face inwards, shielded from water, and the hydrophilic heads face outwards. This phospholipid bilayer forms the basic structure of cell membranes, creating a barrier between the cell and its surroundings."
+  },
+  {
+   "card_id": 21314,
+   "topic": "2.4.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom",
+    "other"
+   ],
+   "reason": "Correct Benedict test method and colours."
+  },
+  {
+   "card_id": 21315,
+   "topic": "2.4.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct iodine test."
+  },
+  {
+   "card_id": 21316,
+   "topic": "2.4.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct emulsion test."
+  },
+  {
+   "card_id": 21317,
+   "topic": "2.4.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct non-reducing sugar test with neutralisation."
+  },
+  {
+   "card_id": 21318,
+   "topic": "2.4.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Both syllabus methods given correctly."
+  },
+  {
+   "card_id": 21319,
+   "topic": "2.4.1",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Valid standardised variables."
+  },
+  {
+   "card_id": 21320,
+   "topic": "2.4.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom",
+    "other"
+   ],
+   "reason": "Opens with Draw and the ASCII diagram is hard to read; describe in words.",
+   "fix_question": "Describe the generalised structure of an amino acid.",
+   "fix_answer": "A central carbon atom bonded to an amine group (-NH2), a carboxyl group (-COOH), a hydrogen atom and a variable R group."
+  },
+  {
+   "card_id": 21321,
+   "topic": "2.4.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct peptide bond condensation."
+  },
+  {
+   "card_id": 21322,
+   "topic": "2.4.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct peptide hydrolysis."
+  },
+  {
+   "card_id": 21323,
+   "topic": "2.4.2",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct primary structure."
+  },
+  {
+   "card_id": 21324,
+   "topic": "2.4.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Reverse card opens with a non-exam stem; use Name.",
+   "fix_question": "Name the level of protein structure that is the unique sequence of amino acids in a polypeptide chain.",
+   "fix_answer": "Primary structure"
+  },
+  {
+   "card_id": 21325,
+   "topic": "2.4.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct: hydrogen bonds between backbone NH and C=O."
+  },
+  {
+   "card_id": 21326,
+   "topic": "2.4.2",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct."
+  },
+  {
+   "card_id": 21327,
+   "topic": "2.4.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct tertiary structure and bonds."
+  },
+  {
+   "card_id": 21328,
+   "topic": "2.4.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Reverse card opens with a non-exam stem; use Name.",
+   "fix_question": "Name the level of protein structure that is the specific 3D folding of one polypeptide chain, held by interactions between R groups.",
+   "fix_answer": "Tertiary structure"
+  },
+  {
+   "card_id": 21329,
+   "topic": "2.4.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct quaternary structure."
+  },
+  {
+   "card_id": 21330,
+   "topic": "2.4.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom",
+    "other"
+   ],
+   "reason": "Opens with List; swap to Name.",
+   "fix_question": "Name the four types of bond or interaction that hold the tertiary structure of a protein in shape.",
+   "fix_answer": "1. Hydrogen bonds\n2. Ionic bonds\n3. Disulfide bridges (or bonds)\n4. Hydrophobic interactions"
+  },
+  {
+   "card_id": 21331,
+   "topic": "2.4.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct disulfide bridge description."
+  },
+  {
+   "card_id": 21332,
+   "topic": "2.4.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct ionic bond description."
+  },
+  {
+   "card_id": 21333,
+   "topic": "2.4.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Acceptable; hydrophobic groups cluster in the core in water."
+  },
+  {
+   "card_id": 21334,
+   "topic": "2.4.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Accurate globular versus fibrous comparison."
+  },
+  {
+   "card_id": 21335,
+   "topic": "2.4.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct haemoglobin structure."
+  },
+  {
+   "card_id": 21336,
+   "topic": "2.4.2",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "non_exam_opener",
+    "above_level",
+    "no_bloom"
+   ],
+   "reason": "Opens with Relate and the word cooperatively goes beyond the syllabus objective.",
+   "fix_question": "Explain how the structure of haemoglobin suits it to transporting oxygen.",
+   "fix_answer": "It is globular and compact with hydrophilic R groups on the outside, so it is soluble in the cytoplasm of red blood cells. It has four polypeptide chains, each with a haem group, so one molecule can carry four oxygen molecules. The Fe2+ in each haem group binds oxygen reversibly, so oxygen is picked up and released."
+  },
+  {
+   "card_id": 21337,
+   "topic": "2.4.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct collagen structure."
+  },
+  {
+   "card_id": 21338,
+   "topic": "2.4.2",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with Distinguish; swap to Describe the difference.",
+   "fix_question": "Describe the difference between a collagen molecule and a collagen fibre.",
+   "fix_answer": "A collagen molecule is the basic unit, consisting of three polypeptide chains wound into a single triple helix. A collagen fibre is a much larger structure, formed from many collagen molecules lying parallel to each other in staggered rows, held together by covalent cross-links."
+  },
+  {
+   "card_id": 21339,
+   "topic": "2.4.2",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with Relate; swap to Explain.",
+   "fix_question": "Explain how the structure of collagen gives it high tensile strength.",
+   "fix_answer": "Collagen's primary function is to provide high tensile strength. This is achieved by:\n1.  **Triple Helix Structure:** Three polypeptide chains are tightly wound together.\n2.  **Covalent Cross-links:** Strong covalent bonds form between adjacent collagen molecules within a fibre.\n3.  **Staggered Arrangement:** The molecules are arranged in a staggered way, which eliminates weak points.\nThis results in a structure that can withstand large pulling forces, making it ideal for tissues like tendons, ligaments, and skin."
+  },
+  {
+   "card_id": 21340,
+   "topic": "2.4.2",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct."
+  },
+  {
+   "card_id": 21341,
+   "topic": "2.4.2",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "vague_question",
+    "no_bloom"
+   ],
+   "reason": "Answer gives no result, so no complete mark scheme; fix or use our card.",
+   "fix_question": "Describe how to test a liquid food for protein with the biuret test, and the result that shows protein is present.",
+   "fix_answer": "Add an equal volume of sodium hydroxide solution to the sample, then add a few drops of dilute copper(II) sulfate solution and mix. No heating is needed. A violet or purple colour shows protein is present; it stays blue if protein is not detected."
+  },
+  {
+   "card_id": 21342,
+   "topic": "2.4.2",
+   "verdict": "REPLACE",
+   "bloom": 1,
+   "tags": [
+    "covered_by_ours",
+    "no_bloom"
+   ],
+   "reason": "Result is covered with the method in our biuret card.",
+   "replace_with": "ITEM-8223-2.4.2-011-PROC"
+  },
+  {
+   "card_id": 21343,
+   "topic": "2.4.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "other",
+    "no_bloom"
+   ],
+   "reason": "Correct polarity of water."
+  },
+  {
+   "card_id": 21344,
+   "topic": "2.4.2",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Reverse card opens with a non-exam stem; use Name.",
+   "fix_question": "Name the type of molecule that has a slightly negative end and a slightly positive end because its electrons are shared unevenly.",
+   "fix_answer": "A polar molecule (or a dipole)."
+  },
+  {
+   "card_id": 21345,
+   "topic": "2.4.2",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct hydrogen bonding between water molecules."
+  },
+  {
+   "card_id": 21346,
+   "topic": "2.4.2",
+   "verdict": "FIX",
+   "bloom": 2,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom",
+    "other"
+   ],
+   "reason": "Opens with Differentiate; swap to Compare.",
+   "fix_question": "Compare the covalent bonds within a water molecule with the hydrogen bonds between water molecules.",
+   "fix_answer": "| Feature | Covalent Bond | Hydrogen Bond |\n|---|---|---|\n| **Location** | Within a single water molecule (between O and H atoms) | Between adjacent water molecules (between O of one and H of another) |\n| **Strength** | Strong | Weak (individually) |\n| **Nature** | Sharing of electrons | Electrostatic attraction between partial charges (δ⁺ and δ⁻) |"
+  },
+  {
+   "card_id": 21347,
+   "topic": "2.5.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom",
+    "other"
+   ],
+   "reason": "Correct nature of enzymes."
+  },
+  {
+   "card_id": 21348,
+   "topic": "2.5.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Reverse card opens with a non-exam stem; use Name.",
+   "fix_question": "Name the term for a globular protein that acts as a biological catalyst of metabolic reactions.",
+   "fix_answer": "Enzyme"
+  },
+  {
+   "card_id": 21349,
+   "topic": "2.5.1",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct."
+  },
+  {
+   "card_id": 21350,
+   "topic": "2.5.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with Define.",
+   "fix_question": "State what is meant by an intracellular enzyme and give one example.",
+   "fix_answer": "An intracellular enzyme is one that functions within the cytoplasm or organelles of the cell where it was produced. An example is catalase, which breaks down hydrogen peroxide."
+  },
+  {
+   "card_id": 21351,
+   "topic": "2.5.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with Define.",
+   "fix_question": "State what is meant by an extracellular enzyme and give one example.",
+   "fix_answer": "An extracellular enzyme is one that is secreted by cells and functions outside of the cell. An example is amylase, which digests starch in the digestive system."
+  },
+  {
+   "card_id": 21352,
+   "topic": "2.5.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with Define.",
+   "fix_question": "State what is meant by the active site of an enzyme.",
+   "fix_answer": "The active site is a specific region on the surface of an enzyme, with a shape complementary to a specific substrate, where the catalytic reaction occurs."
+  },
+  {
+   "card_id": 21353,
+   "topic": "2.5.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with Define.",
+   "fix_question": "State what is meant by an enzyme-substrate complex.",
+   "fix_answer": "The temporary structure formed when a substrate molecule binds to the active site of an enzyme."
+  },
+  {
+   "card_id": 21354,
+   "topic": "2.5.1",
+   "verdict": "FIX",
+   "bloom": 1,
+   "tags": [
+    "non_exam_opener",
+    "no_bloom"
+   ],
+   "reason": "Opens with Define.",
+   "fix_question": "State what is meant by activation energy.",
+   "fix_answer": "The minimum amount of energy required for a chemical reaction to start."
+  },
+  {
+   "card_id": 21355,
+   "topic": "2.5.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct explanation of lowered activation energy."
+  },
+  {
+   "card_id": 21356,
+   "topic": "2.5.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct and appropriately qualified."
+  },
+  {
+   "card_id": 21357,
+   "topic": "2.5.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct."
+  },
+  {
+   "card_id": 21358,
+   "topic": "2.5.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct."
+  },
+  {
+   "card_id": 21359,
+   "topic": "2.5.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom",
+    "other"
+   ],
+   "reason": "Accurate comparison."
+  },
+  {
+   "card_id": 21360,
+   "topic": "2.5.1",
+   "verdict": "KEEP",
+   "bloom": 1,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Matches the syllabus methods."
+  },
+  {
+   "card_id": 21361,
+   "topic": "2.5.1",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Sound catalase method."
+  },
+  {
+   "card_id": 21362,
+   "topic": "2.5.1",
+   "verdict": "KEEP",
+   "bloom": 3,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Sound amylase and iodine method with rate as 1/time."
+  },
+  {
+   "card_id": 21363,
+   "topic": "2.5.1",
+   "verdict": "KEEP",
+   "bloom": 2,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct link of globular structure to function."
+  },
+  {
+   "card_id": 21364,
+   "topic": "2.5.1",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "factual_error",
+    "no_bloom"
+   ],
+   "reason": "Overstates induced fit: enzyme stays specific; flexibility only allows similar substrates to bind and with lower rate.",
+   "fix_question": "An enzyme catalyses the breakdown of two substrates with similar, but not identical, molecular shapes. Explain which model of enzyme action, lock-and-key or induced-fit, better accounts for this.",
+   "fix_answer": "The induced-fit model better accounts for it. The lock-and-key model has a rigid active site that fits only one exact shape. In induced fit the active site can change shape slightly when a substrate binds, so a substrate of similar shape can fit, though usually less well than the specific substrate.",
+   "conflict": "Our ITEM-8223-2.5.1-010-INTERP treats similar-shape binding as poor fit and still specific; ours is right, the existing answer implied broad specificity."
+  },
+  {
+   "card_id": 21365,
+   "topic": "2.5.1",
+   "verdict": "KEEP",
+   "bloom": 4,
+   "tags": [
+    "no_bloom"
+   ],
+   "reason": "Correct explanation of the progress curve."
+  },
+  {
+   "card_id": 21366,
+   "topic": "2.5.1",
+   "verdict": "FIX",
+   "bloom": 3,
+   "tags": [
+    "non_exam_opener",
+    "vague_question",
+    "no_bloom",
+    "other"
+   ],
+   "reason": "Opens with From a graph; make the command explicit.",
+   "fix_question": "Explain how the initial rate of reaction is found from a graph of volume of product against time.",
+   "fix_answer": "Draw a tangent to the curve at time zero (t=0). Then, calculate the gradient of this tangent (change in y / change in x). The gradient represents the initial rate of reaction (e.g., in cm³/s)."
+  }
+ ],
+ "coverage": [
+  {
+   "topic": "2.3.2",
+   "existing": 26,
+   "ours": 23,
+   "objectives_with_no_existing_card": [],
+   "note": "Good coverage; water potential and osmosis cards avoid calculations as required."
+  },
+  {
+   "topic": "2.4.1",
+   "existing": 35,
+   "ours": 37,
+   "objectives_with_no_existing_card": [
+    "OBJ-8223-2.4.1-10",
+    "OBJ-8223-2.4.1-12"
+   ],
+   "note": "Objectives 10 and 12 (semi-quantitative Benedict) covered only by two cards; no existing card on dilution or standards."
+  },
+  {
+   "topic": "2.4.2",
+   "existing": 27,
+   "ours": 28,
+   "objectives_with_no_existing_card": [
+    "OBJ-8223-2.4.2-08"
+   ],
+   "note": "Nothing on water properties (solvent, specific heat capacity, latent heat of vaporisation); ours covers it."
+  },
+  {
+   "topic": "2.5.1",
+   "existing": 20,
+   "ours": 10,
+   "objectives_with_no_existing_card": [],
+   "note": "All four objectives covered; no card on by-products or on enzyme specificity data."
+  }
+ ]
+}
