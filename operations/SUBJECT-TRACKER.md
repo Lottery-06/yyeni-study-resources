@@ -24,7 +24,7 @@ The first subject of each new kind is run by Vitalis before the team scales that
 | Board and level | Code | Subject | Workspace | Owner | Authoring tool | Status | Notes |
 |---|---|---|---|---|---|---|---|
 | Cambridge IGCSE | 0500 | First Language English | `cie-0500-igcse-2024-2026` | Vitalis | | in progress | planned; check its STATUS.md or the latest run before claiming |
-| | | | | | | | |
+| Namibia NSSCO | 6117 | Chemistry | `nam-6117-nssco-2026` | Lotto N. Nanghonda Jr. | Codex | in progress | Owner confirmed 2026-10-24; Step 3 approved 2026-10-26; Step 4 approved 2026-10-26; nine-card prototype review before full production |
 
 ## Published
 
